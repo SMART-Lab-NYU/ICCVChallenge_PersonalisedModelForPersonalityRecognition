@@ -1,4 +1,4 @@
-# ICCVChallenge_PersonalisedModelForPersonalityRecognition
+# ICCV Challenge Personalised Model For Personality Recognition
 This is the repository to the winning solution of the ICCV'21 DYAD Challenge for Personalised Model For Personality Recognition. 
 
 
