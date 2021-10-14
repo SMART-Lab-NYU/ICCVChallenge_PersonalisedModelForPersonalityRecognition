@@ -1,9 +1,0 @@
-177
-00:07:01,758 --> 00:07:03,958
-PART.2: Pingüino
-con su mini pingüino.
-
-178
-00:07:05,078 --> 00:07:06,118
-SUPERVISOR: Dejamos eso ya.
-

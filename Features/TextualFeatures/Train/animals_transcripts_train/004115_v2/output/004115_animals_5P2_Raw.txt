@@ -1,8 +1,0 @@
-No tiene ningún sentido de objeto geométrico.
-Es una cosa supercomplicada. 
-No necesariamente. 
-Es que tenemos problemas en calcular en 2D.
-Porque yo, teóricamente, puedo tener el número de puntos que tengoen este espacio.
-Puede ser 1000, pero a mí me gustaría trabajar con 100 000.
-Para tener, por ejemplo, cada nódulo de la red 500 000puntos, en este espacio, que despuéslos conecto y creo las topologías.
-Y de lo que yo vi, si voy a más de 5000 o 10000, se vuelve bastantedifícil.

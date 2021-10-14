@@ -1,9 +1,0 @@
-145
-00:10:00,559 --> 00:10:02,679
-PART.2: Hostia, qué chulo lo de las
-ruedas, ¿eh?
-
-146
-00:10:07,319 --> 00:10:08,359
-SUPERVISOR: ¿Qué tal?
-

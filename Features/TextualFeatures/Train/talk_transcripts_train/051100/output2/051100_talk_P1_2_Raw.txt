@@ -1,6 +1,0 @@
-Dos anys dure ja. 
-Perquè en la branca aquesta… 
-Me pagava Bankia 1.000 euros al mes per fer un algoritme per decidir si algú mereix un prèstec o no. 
-Que l'algoritme es traduïx al final en "és rentable o no és rentable donar-li". 
-"Esta abuelita no tornarà el prèstec però té coses per a furtar-li?", "sí, pues, donem-li el prèstec", saps? 
-No vaig a cobrar 1.000 pavos per a fer-li una merda aixina, bueno… me'n vaig. 

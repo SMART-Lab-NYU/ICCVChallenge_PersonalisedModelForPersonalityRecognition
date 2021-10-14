@@ -1,8 +1,0 @@
-133
-00:05:02,455 --> 00:05:05,215
-PART.2: I em diuen: "Això ho farà el seu fill?".
-
-134
-00:05:05,295 --> 00:05:08,455
-PART.2: Dic: "No, no. No l'he guanyat jo? El faig jo".
-

@@ -1,4 +1,0 @@
-23
-00:00:59,840 --> 00:01:01,916
-PART.2: Doncs jo ho vaig fer en forma de scratch.
-

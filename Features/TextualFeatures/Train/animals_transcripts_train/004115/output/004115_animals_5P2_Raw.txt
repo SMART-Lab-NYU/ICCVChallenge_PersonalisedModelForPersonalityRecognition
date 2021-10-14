@@ -1,3 +1,0 @@
-No necesariamente. Es que tenemos problemas en calcular en 2D. Porqueyo, teóricamente, puedo tener elnúmero de puntos que tengo en esteespacio.
-Puede ser 1000, pero a mí me gustaría trabajar con 100 000. Paratener, por ejemplo, cada nódulo dela red 500 000 puntos, en esteespacio, que después los conecto ycreo las topologías.
-Y de lo que yo vi, si voy a más de 5000 o 10000, se vuelve bastantedifícil. Tarda mucho, tengoproblemas de memoria...

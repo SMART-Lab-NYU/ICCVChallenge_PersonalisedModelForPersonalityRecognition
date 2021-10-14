@@ -1,6 +1,0 @@
-Nosotros usamos las herramientas estas un poco así, ¿no?
-Un poco "Black Box". Y me costó bastante leer todo esto de laalgebra topológica...
-Porque lo que nos impide más, diría yo, son las partescomputacionales del asunto.
-Uso... ¿DIFA? 
-Creo que es C++. 
-Intenté alguna otra cosa, pero creo que esta es una de las másconocidas. ¿Qué usas tú?

@@ -1,5 +1,0 @@
-243
-00:12:44,520 --> 00:12:46,000
-PART.1: Hostia, ¿y esta
-minipuerta?
-

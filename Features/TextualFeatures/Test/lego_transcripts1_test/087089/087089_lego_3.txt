@@ -1,8 +1,0 @@
-87
-00:03:08,596 --> 00:03:10,196
-PART.1: Yo creo que ya estaría, ¿no?
-
-88
-00:03:10,516 --> 00:03:11,636
-PART.2: Está más que de sobra.
-

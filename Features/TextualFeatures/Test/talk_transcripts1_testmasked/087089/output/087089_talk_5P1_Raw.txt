@@ -1,7 +1,0 @@
-[MASKED] casi siempre yo solo.
-Al principio s� que hablaba mucho con Jordi [MASKED]
-[MASKED] tir el modelo y tal, ahora como estoy con el servidoreste, que tengo que corra ah�,pue [MASKED]
-[MASKED] ues ya s� que...
-Y decir, pues mira, porque ahora tenemos 400 000 mol�culas y tengoque decir, con todas estas, heconseguido esto.
-Y si puede mejorar o no, pues... 
-Pero que no tengo que cambiar mucho la arquitectura tampoco.
