@@ -1,0 +1,486 @@
+﻿1
+00:00:00,790 --> 00:00:05,230
+PART.1: Empieza tú con las preguntas
+porque yo estoy todavía pensando en
+qué puede ser por el nombre.
+
+2
+00:00:09,870 --> 00:00:11,150
+PART.2: ¿Es terrestre?
+
+3
+00:00:13,830 --> 00:00:14,590
+PART.1: No.
+
+4
+00:00:15,990 --> 00:00:18,390
+PART.1: Bueno, ¿qué entiendes por
+terrestre?
+
+5
+00:00:18,470 --> 00:00:20,150
+PART.2: Que se desplaza solo en la
+tierra.
+
+6
+00:00:20,230 --> 00:00:22,350
+PART.2: Que no vuela ni...
+
+7
+00:00:22,750 --> 00:00:23,430
+PART.1: Entonces, no.
+
+8
+00:00:23,510 --> 00:00:24,270
+PART.2: Ni está en el agua.
+
+9
+00:00:24,350 --> 00:00:25,230
+PART.1: No es terrestre.
+
+10
+00:00:27,270 --> 00:00:30,230
+PART.2: ¿Son seguidas las mías?
+¿Son las diez o es una y una?
+
+11
+00:00:30,310 --> 00:00:32,110
+PART.1: Es una y una. Estoy pensando.
+
+12
+00:00:35,230 --> 00:00:36,310
+PART.1: ¿Es un reptil?
+
+13
+00:00:37,630 --> 00:00:38,390
+PART.2: No.
+
+14
+00:00:41,990 --> 00:00:43,630
+PART.2: ¿Está en el agua?
+
+15
+00:00:44,670 --> 00:00:45,430
+PART.1: No.
+
+16
+00:00:54,590 --> 00:00:55,630
+PART.1: ¿Tiene garras?
+
+17
+00:00:58,390 --> 00:01:01,310
+PART.2: Eh... Sí.
+
+18
+00:01:07,150 --> 00:01:08,150
+PART.2: ¿Tiene alas?
+
+19
+00:01:08,230 --> 00:01:09,070
+PART.1: Sí.
+
+20
+00:01:13,950 --> 00:01:15,510
+PART.1: ¿Es de color naranja?
+
+21
+00:01:16,510 --> 00:01:17,310
+PART.2: No.
+
+22
+00:01:22,310 --> 00:01:24,510
+PART.1: Iba a hacerlo más exagerado, ¿es
+de color atigrado?
+
+23
+00:01:24,590 --> 00:01:25,870
+PART.1: Pero, joder.
+
+24
+00:01:35,390 --> 00:01:36,910
+PART.2: Espera, espera, ¿es grande?
+
+25
+00:01:37,230 --> 00:01:37,990
+PART.1: No.
+
+26
+00:01:43,350 --> 00:01:44,270
+PART.1: ¿Vuela?
+
+27
+00:01:44,710 --> 00:01:45,470
+PART.2: No.
+
+28
+00:01:56,870 --> 00:01:58,110
+PART.2: ¿Pica los árboles?
+
+29
+00:02:00,030 --> 00:02:00,790
+PART.1: No.
+
+30
+00:02:01,390 --> 00:02:04,030
+PART.1: Bueno, no conozco mucho su
+biología, pero creo que no.
+
+31
+00:02:08,630 --> 00:02:12,070
+PART.1: A ver, me has dicho que no vuela,
+tiene algo parecido a garras...
+
+32
+00:02:12,270 --> 00:02:12,990
+PART.2: Sí.
+
+33
+00:02:17,190 --> 00:02:18,510
+PART.1: Y no es un reptil.
+
+34
+00:02:26,670 --> 00:02:28,230
+PART.1: ¿Tiene trompa?
+
+35
+00:02:28,790 --> 00:02:29,470
+PART.2: No.
+
+36
+00:02:40,110 --> 00:02:41,430
+PART.2: No es muy grande el mío.
+
+37
+00:02:46,350 --> 00:02:47,870
+PART.1: Hago preguntas seguidas yo.
+
+38
+00:02:50,030 --> 00:02:52,030
+PART.2: ¿Quita el néctar de las flores?
+
+39
+00:02:53,870 --> 00:02:54,670
+PART.1: No.
+
+40
+00:02:56,430 --> 00:02:57,550
+PART.1: ¿Es grande?
+
+41
+00:02:59,950 --> 00:03:00,990
+PART.2: Comparado...
+
+42
+00:03:01,830 --> 00:03:03,390
+PART.1: ¿Comparado conmigo, por ejemplo?
+
+43
+00:03:03,470 --> 00:03:04,270
+PART.2: No.
+
+44
+00:03:07,750 --> 00:03:08,630
+PART.1: Vale.
+
+45
+00:03:16,710 --> 00:03:17,830
+PART.2: ¿Es un águila?
+
+46
+00:03:18,150 --> 00:03:19,030
+PART.1: No.
+
+47
+00:03:21,350 --> 00:03:24,590
+PART.1: Obviamente es un pájaro, pero el
+águila no.
+
+48
+00:03:29,150 --> 00:03:30,190
+PART.1: ¿Es exótico?
+
+49
+00:03:34,150 --> 00:03:35,390
+PART.2: Exótico.
+
+50
+00:03:36,870 --> 00:03:41,070
+PART.2: Algo muy... Muy largo eso de
+exótico.
+
+51
+00:03:41,750 --> 00:03:43,550
+PART.2: Sí. Sí, no sé.
+
+52
+00:03:44,190 --> 00:03:45,550
+PART.2: No, doméstico no es.
+
+53
+00:03:46,990 --> 00:03:50,230
+PART.1: Exótico, en plan, de la jungla
+o...
+
+54
+00:03:51,510 --> 00:03:52,510
+PART.2: Ah, sí, sí.
+
+55
+00:03:53,790 --> 00:03:54,990
+PART.2: ¿El mío es doméstico?
+
+56
+00:03:55,470 --> 00:03:56,230
+PART.1: No.
+
+57
+00:03:58,590 --> 00:04:00,110
+PART.1: De hecho, se me ha ocurrido
+mirando al tuyo.
+
+58
+00:04:00,190 --> 00:04:01,390
+PART.1: O sea, que ahí te doy una pista.
+
+59
+00:04:07,910 --> 00:04:09,030
+PART.1: ¿Vive en Australia?
+
+60
+00:04:14,550 --> 00:04:17,030
+PART.2: Tal vez, ¿no? La verdad, no sé.
+
+61
+00:04:17,430 --> 00:04:18,190
+PART.2: No sé, pero...
+
+62
+00:04:18,270 --> 00:04:20,270
+PART.1: Es que como me haya tocado el
+mismo que antes, me voy a reír
+mucho.
+
+63
+00:04:22,990 --> 00:04:24,910
+PART.2: ¿El mío es un pavo real?
+
+64
+00:04:25,310 --> 00:04:25,750
+PART.1: No.
+
+65
+00:04:25,830 --> 00:04:26,750
+PART.2: No es tan exótico.
+
+66
+00:04:29,590 --> 00:04:30,670
+PART.1: ¿El mío es un koala?
+
+67
+00:04:30,910 --> 00:04:31,750
+PART.2: No.
+
+68
+00:04:32,190 --> 00:04:33,110
+PART.1: Vale, bien.
+
+69
+00:04:33,510 --> 00:04:34,790
+PART.1: Digo, como sea lo mismo...
+
+70
+00:04:36,350 --> 00:04:38,470
+PART.1: Buah, pues ni idea de lo que
+puede ser.
+
+71
+00:04:41,990 --> 00:04:43,190
+PART.1: ¿Tiene el pelo largo?
+
+72
+00:04:45,910 --> 00:04:46,990
+PART.2: No.
+
+73
+00:04:52,070 --> 00:04:53,430
+PART.2: A ver, agoté mis...
+
+74
+00:04:53,510 --> 00:04:56,710
+PART.2: Creo que vamos por la novena,
+¿no? ¿Novena pregunta?
+
+75
+00:04:57,950 --> 00:04:59,150
+PART.2: Esta es la décima mía.
+
+76
+00:05:01,830 --> 00:05:05,870
+PART.1: Bueno, realmente tenemos 11 y ahí
+es donde preguntamos qué es.
+
+77
+00:05:10,590 --> 00:05:11,870
+PART.2: ¿Tiene un pico grande?
+
+78
+00:05:11,950 --> 00:05:12,750
+PART.1: Sí.
+
+79
+00:05:32,430 --> 00:05:33,590
+PART.1: ¿Es un león?
+
+80
+00:05:34,390 --> 00:05:35,110
+PART.2: No.
+
+81
+00:05:36,870 --> 00:05:37,590
+PART.1: ¡Porras!
+
+82
+00:05:38,750 --> 00:05:40,150
+PART.2: ¿El mío es un tucán?
+
+83
+00:05:40,230 --> 00:05:40,870
+PART.1: Sí.
+
+84
+00:05:41,430 --> 00:05:42,310
+PART.1: Totalmente.
+
+85
+00:05:42,750 --> 00:05:45,030
+PART.1: Ya está. El primero que gana...
+
+86
+00:05:45,390 --> 00:05:46,270
+PART.1: Buah.
+
+87
+00:05:46,830 --> 00:05:48,230
+PART.1: Venga, venga, hombre.
+
+88
+00:05:50,390 --> 00:05:52,630
+PART.1: ¿Cómo se suponía que iba a saber
+esto?
+
+89
+00:05:52,710 --> 00:05:56,070
+PART.2: Ese animal esta muy, muy,
+difícil.
+
+90
+00:05:56,150 --> 00:05:57,950
+PART.1: Esto está pero muy jodido.
+
+91
+00:05:58,030 --> 00:05:58,990
+PART.2: Muy difícil.
+
+92
+00:05:59,070 --> 00:05:59,950
+PART.1: ¡Dios!
+
+93
+00:06:00,030 --> 00:06:02,190
+PART.1: Es que, además, ha dicho:
+"Solo cambia en una letra". Y yo...
+
+94
+00:06:03,270 --> 00:06:05,990
+PART.1: Yo qué sé, pues un tigre, que más
+o menos se parece, ¿sabes?
+
+95
+00:06:06,070 --> 00:06:07,030
+PART.2: Sí, sí.
+
+96
+00:06:07,110 --> 00:06:08,270
+PART.1: Cocodrilo también se parece.
+
+97
+00:06:08,350 --> 00:06:10,070
+PART.2: Yo cuando lo vi, digo: "No".
+
+98
+00:06:11,070 --> 00:06:12,910
+PART.2: No sé si vive en Australia.
+
+99
+00:06:12,990 --> 00:06:14,350
+PART.1: No sabía ni que existía.
+
+100
+00:06:15,550 --> 00:06:18,550
+PART.1: Porque metes cualquier otro
+animal y digo, vale, sé que existe,
+¿sabes?
+
+101
+00:06:18,630 --> 00:06:19,910
+PART.2: Sí, sí, pero no. No.
+
+102
+00:06:21,030 --> 00:06:23,870
+PART.1: Si llega a llamarse mono, porque
+es un mono, ¿no?
+
+103
+00:06:25,390 --> 00:06:28,870
+PART.2: Según yo tiene como garras
+parecidas a un koala, pero no sé.
+
+104
+00:06:28,950 --> 00:06:31,830
+PART.2: Si no tiene garras o son manos.
+
+105
+00:06:32,510 --> 00:06:35,590
+PART.1: Es que he pensado en un gorila o
+algo similar, ¿sabes?
+
+106
+00:06:35,670 --> 00:06:38,790
+PART.1: Pero un gorila no tiene garras,
+tiene uñas como yo, ¿sabes?
+
+107
+00:06:38,870 --> 00:06:41,030
+PART.1: A ver, serán más grandes,
+obviamente, pero...
+
+108
+00:06:42,110 --> 00:06:42,950
+PART.1: Hostia.
+
+109
+00:06:43,030 --> 00:06:44,230
+PART.2: No vas a acertar.
+
+110
+00:06:44,470 --> 00:06:45,350
+PART.1: Qué va, qué va.
+
+111
+00:06:45,430 --> 00:06:46,710
+PART.1: He perdido, pero con dignidad.
+
+112
+00:06:46,790 --> 00:06:48,110
+PART.1: Era imposible.
+
+113
+00:06:48,190 --> 00:06:49,510
+PART.2: Eso está...
+
+114
+00:06:50,270 --> 00:06:53,910
+PART.1: Yo creo que es la típica pregunta
+que nadie ha contestado en este
+juego todavía.
+

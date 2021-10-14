@@ -1,0 +1,52 @@
+137
+00:06:07,955 --> 00:06:10,075
+PART.1: Quiero decir, antes,
+cuando yo empecé el doctorado...
+
+138
+00:06:10,635 --> 00:06:18,635
+PART.1: Bueno, antes de empezar
+el doctorado, yo estaba ya haciendo cosas
+y tal, pero el "chief" que tenía estudiantes
+y cada uno tenía su campo de "expertise"
+dentro de la misma visión por computador.
+
+139
+00:06:18,635 --> 00:06:33,395
+PART.1: Un tío hacía "objects",
+"objectation", otro hacía "human" y cada
+uno tenía su set de técnicas y necesitabas
+uno o dos años de leer, un año a lo mejor
+de leer literatura sobre eso para formarte
+y para poder tú empezar a hacer cosas.
+
+140
+00:06:33,395 --> 00:06:37,915
+PART.1: Ahora en cualquier
+momento puedes saltar de un campo a
+otro sin importar...
+
+141
+00:06:37,915 --> 00:06:44,835
+PART.1: No necesitas más
+que el conocimiento del "deep learning",
+lo cual es un poco positivo y el punto
+negativo que te comento de que cualquiera.
+
+142
+00:06:45,595 --> 00:06:52,155
+PART.2: Pero yo creo que es fácil
+obtener resultados, no buenos, pero
+algún resultado.
+
+143
+00:06:52,155 --> 00:06:52,715
+PART.1: Sí.
+
+144
+00:06:52,715 --> 00:07:02,475
+PART.2: Ahora, lo difícil del
+"deep learning", creo yo, es que siempre
+es difícil analizar por qué esos resultados,
+mejorar los resultados, eh...
+

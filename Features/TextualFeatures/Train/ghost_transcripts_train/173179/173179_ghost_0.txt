@@ -1,0 +1,134 @@
+1
+00:00:00,225 --> 00:00:01,145
+PART.1: Tú, porque llevas...
+
+2
+00:00:01,225 --> 00:00:02,665
+PART.2: Venga, va. Empiezo yo, ¿vale?
+
+3
+00:00:08,265 --> 00:00:09,385
+PART.1: Pero tienes que cogerlo, ¿no?
+
+4
+00:00:09,465 --> 00:00:11,305
+PART.2: Da igual, te estoy señalando el
+objeto.
+
+5
+00:00:11,825 --> 00:00:12,825
+PART.2: He llegado antes que tú.
+
+6
+00:00:12,945 --> 00:00:14,385
+PART.2: No, mamá, he ganado yo.
+
+7
+00:00:14,465 --> 00:00:14,945
+PART.1: Ah, vale.
+
+8
+00:00:15,025 --> 00:00:16,065
+PART.2: ¿Por qué vas a coger el azul?
+
+9
+00:00:15,945 --> 00:00:16,385
+PART.1: Vale.
+
+10
+00:00:16,465 --> 00:00:20,785
+PART.2: Aquí está el azul, el sillón,
+está el gris y está la botella.
+
+11
+00:00:20,865 --> 00:00:21,545
+PART.1: Vale, vale.
+
+12
+00:00:21,785 --> 00:00:23,025
+PART.2: No, que no pasa nada.
+
+13
+00:00:23,785 --> 00:00:24,985
+PART.2: Te lo estoy explicando.
+
+14
+00:00:25,065 --> 00:00:25,745
+PART.1: Cojo yo, ¿no?
+
+15
+00:00:25,825 --> 00:00:26,225
+PART.2: Sí.
+
+16
+00:00:26,905 --> 00:00:28,465
+PART.1: Y es esto y verde.
+
+17
+00:00:30,145 --> 00:00:30,985
+PART.1: Está el verde...
+
+18
+00:00:31,065 --> 00:00:31,585
+PART.1: Vale.
+
+19
+00:00:32,585 --> 00:00:33,745
+PART.1: Vale, pues esa para ti.
+
+20
+00:00:35,865 --> 00:00:37,105
+PART.2: Me tocaba a mí, pero vale.
+
+21
+00:00:37,865 --> 00:00:38,385
+PART.1: Vale.
+
+22
+00:00:38,465 --> 00:00:39,265
+PART.2: Quita la mano.
+
+23
+00:00:40,145 --> 00:00:41,385
+PART.1: El gris y el fantasma azul.
+
+24
+00:00:41,465 --> 00:00:42,065
+PART.1: El rojo.
+
+25
+00:00:48,185 --> 00:00:48,985
+PART.1: El verde.
+
+26
+00:00:49,105 --> 00:00:49,785
+PART.2: No, esta.
+
+27
+00:00:49,865 --> 00:00:50,345
+PART.1: Ay, sí.
+
+28
+00:00:50,425 --> 00:00:51,345
+PART.1: Venía la botella.
+
+29
+00:00:52,385 --> 00:00:53,425
+PART.2: Puedes cogerlo, ¿eh?
+
+30
+00:00:53,505 --> 00:00:54,385
+PART.2: No pasa nada.
+
+31
+00:00:54,625 --> 00:00:55,505
+PART.1: Me toca a mí.
+
+32
+00:00:56,465 --> 00:00:57,665
+PART.1: La botella.
+
+33
+00:00:57,745 --> 00:00:59,665
+PART.2: No, mamá, el sillón que es rojo.
+

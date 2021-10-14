@@ -1,0 +1,53 @@
+45
+00:02:08,068 --> 00:02:10,148
+PART.1: Tengo un cortocircuito en la
+cabeza.
+
+46
+00:02:14,908 --> 00:02:17,748
+PART.1: ¿El nombre de ese animal empieza
+por una vocal?
+
+47
+00:02:18,908 --> 00:02:19,508
+PART.2: No.
+
+48
+00:02:20,828 --> 00:02:21,388
+PART.1: Vale.
+
+49
+00:02:22,748 --> 00:02:24,468
+PART.2: El mío, a ver.
+
+50
+00:02:27,948 --> 00:02:29,108
+PART.2: ¿Es un...?
+
+51
+00:02:31,268 --> 00:02:32,548
+PART.2: No vive en la jungla.
+
+52
+00:02:33,228 --> 00:02:33,788
+PART.2: Puf.
+
+53
+00:02:41,428 --> 00:02:44,228
+PART.2: ¿Es más grande que un
+caballo?
+
+54
+00:02:47,788 --> 00:02:50,548
+PART.1: Sería de similar tamaño
+un caballo.
+
+55
+00:02:50,628 --> 00:02:52,988
+PART.2: Un caballo, y no es un
+depredador.
+
+56
+00:02:53,068 --> 00:02:54,668
+PART.1: Entonces, el mío es...
+

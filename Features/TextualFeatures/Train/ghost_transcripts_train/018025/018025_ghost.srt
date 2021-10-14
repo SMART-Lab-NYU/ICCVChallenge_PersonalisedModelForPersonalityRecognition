@@ -1,0 +1,408 @@
+1
+00:00:00,000 --> 00:00:00,029
+PART.1: Vale.
+
+2
+00:00:00,109 --> 00:00:01,069
+PART.2: Ok, empiezo.
+
+3
+00:00:01,149 --> 00:00:02,109
+PART.1: Vale.
+
+4
+00:00:06,429 --> 00:00:07,429
+PART.1: Este.
+
+5
+00:00:07,509 --> 00:00:08,069
+PART.2: No.
+
+6
+00:00:08,149 --> 00:00:09,029
+PART.1: Es esta.
+
+7
+00:00:11,309 --> 00:00:11,709
+PART.1: ¿Y esta?
+
+8
+00:00:11,789 --> 00:00:12,949
+PART.1: Fantasma blanco.
+
+9
+00:00:14,509 --> 00:00:17,349
+PART.1: En este caso está correcto,
+agarras el fantasma.
+
+10
+00:00:16,509 --> 00:00:17,509
+PART.2: Ah.
+
+11
+00:00:18,709 --> 00:00:20,229
+PART.2: No entendí.
+
+12
+00:00:21,029 --> 00:00:22,389
+PART.2: Entendí mal.
+
+13
+00:00:22,469 --> 00:00:23,469
+PART.1: Ok.
+
+14
+00:00:23,549 --> 00:00:24,789
+PART.2: Ah, por favor, por favor.
+
+15
+00:00:24,869 --> 00:00:25,869
+PART.1: Esta.
+
+16
+00:00:25,949 --> 00:00:30,189
+PART.1: Eh, rojo, verde.
+
+17
+00:00:30,269 --> 00:00:31,189
+PART.2: Vale.
+
+18
+00:00:37,469 --> 00:00:38,309
+PART.1: Vale, bien.
+
+19
+00:00:39,349 --> 00:00:40,349
+PART.1: Está divertido.
+
+20
+00:00:39,829 --> 00:00:42,469
+PART.2: Yo ya estoy que me quiero quedar
+con ella.
+
+21
+00:00:44,709 --> 00:00:45,349
+PART.2: Aquí.
+
+22
+00:00:45,429 --> 00:00:46,589
+PART.2: Sí, ¿no?
+
+23
+00:00:47,029 --> 00:00:50,069
+PART.1: Eh, rata, sí, sí.
+
+24
+00:00:51,109 --> 00:00:53,389
+PART.1: Échale, estás bien.
+
+25
+00:00:56,429 --> 00:00:58,749
+PART.2: Tú y tu fantasma.
+
+26
+00:01:00,589 --> 00:01:04,669
+PART.1: Este verde, sillón, gris.
+
+27
+00:01:05,429 --> 00:01:07,229
+PART.1: El fantasma, el fantasma.
+
+28
+00:01:07,549 --> 00:01:10,989
+PART.1: Está genial para el cerebro te
+obliga a...
+
+29
+00:01:09,709 --> 00:01:11,149
+PART.2: Sí está superbién.
+
+30
+00:01:11,989 --> 00:01:13,549
+PART.2: Ah, no, este es azul.
+
+31
+00:01:16,789 --> 00:01:17,549
+PART.2: Fantasma.
+
+32
+00:01:17,629 --> 00:01:18,709
+PART.1: Sí el fantasma.
+
+33
+00:01:18,789 --> 00:01:19,309
+PART.2: ¿Qué hacemos?
+
+34
+00:01:19,389 --> 00:01:20,149
+PART.2: La llevamos entre dos.
+
+35
+00:01:20,229 --> 00:01:20,909
+PART.1: ¿Eh?
+
+36
+00:01:20,989 --> 00:01:22,829
+PART.2: La llevamos entre dos,
+que quede ahí.
+
+37
+00:01:22,909 --> 00:01:25,229
+PART.1: Bueno, esta la dejamos ahí.
+
+38
+00:01:25,309 --> 00:01:27,269
+PART.1: No me acuerdo, no me acuerdo.
+
+39
+00:01:27,349 --> 00:01:27,709
+PART.2: ¿Yo?
+
+40
+00:01:27,789 --> 00:01:29,589
+PART.1: No me acuerdo, dale tú.
+
+41
+00:01:30,069 --> 00:01:32,549
+PART.1: Que no, ya perdí la...
+
+42
+00:01:34,429 --> 00:01:35,429
+PART.1: Este.
+
+43
+00:01:37,229 --> 00:01:38,549
+PART.2: Vamos, esta.
+
+44
+00:01:38,629 --> 00:01:39,909
+PART.1: Sí, yo.
+
+45
+00:01:41,349 --> 00:01:43,549
+PART.1: Este gris.
+
+46
+00:01:43,629 --> 00:01:44,629
+PART.1: Es este.
+
+47
+00:01:50,429 --> 00:01:51,669
+PART.1: Fantasma.
+
+48
+00:01:52,509 --> 00:01:53,509
+PART.2: Este.
+
+49
+00:01:53,589 --> 00:01:54,589
+PART.1: Ese.
+
+50
+00:01:56,989 --> 00:01:58,869
+PART.1: Me voy a comprar este
+juego, de verdad.
+
+51
+00:01:58,949 --> 00:02:00,069
+PART.2: Está bonito, ¿no?
+
+52
+00:01:59,749 --> 00:02:00,749
+PART.1: Sí, verdad.
+
+53
+00:02:02,269 --> 00:02:04,029
+PART.2: Este ya ni me acuerdo.
+
+54
+00:02:04,949 --> 00:02:07,029
+PART.1: Sí, ese, sí, era ese.
+
+55
+00:02:07,109 --> 00:02:09,749
+PART.2: No, es este, porque hay uno que...
+
+56
+00:02:08,429 --> 00:02:09,189
+PART.1: No.
+
+57
+00:02:09,909 --> 00:02:11,349
+PART.1: Ah, es verdad es ese.
+
+58
+00:02:11,429 --> 00:02:13,629
+PART.1: Bueno, está bien.
+
+59
+00:02:13,709 --> 00:02:15,189
+PART.1: A ver quién ha ganado.
+
+60
+00:02:15,789 --> 00:02:18,429
+PART.1: Uno, dos, tres, cuatro, cinco.
+
+61
+00:02:18,509 --> 00:02:19,509
+PART.1: ¿Tú?
+
+62
+00:02:19,589 --> 00:02:22,589
+PART.2: Uno, dos, tres, cuatro.
+
+63
+00:02:22,669 --> 00:02:23,669
+PART.1: Cinco.
+
+64
+00:02:23,749 --> 00:02:24,749
+PART.2: Sí, cinco.
+
+65
+00:02:24,829 --> 00:02:25,829
+PART.1: Empate.
+
+66
+00:02:26,669 --> 00:02:27,749
+PART.2: Y era la mitad.
+
+67
+00:02:29,989 --> 00:02:31,029
+PART.2: Bonito, sí.
+
+68
+00:02:31,109 --> 00:02:35,189
+PART.1: Ay, está chévere, yo me lo quiero
+comprar, está muy bueno para el
+cerebro, te lo activa.
+
+69
+00:02:36,109 --> 00:02:37,349
+PART.2: Sí, me hizo pensar.
+
+70
+00:02:37,029 --> 00:02:40,949
+PART.1: Y más bien bravo,
+porque con lo que no has dormido.
+
+71
+00:02:41,469 --> 00:02:43,469
+PART.1: Estás más bien superactiva.
+
+72
+00:02:43,549 --> 00:02:47,549
+PART.2: No, yo ceo que fue ya lo primero
+que se me ocurrí.
+
+73
+00:02:47,629 --> 00:02:55,869
+PART.1: Guau, pero qué impresionante, a
+las nueve de la mañana y usted está
+aquí haciendo lo que dijo que iba a
+hacer.
+
+74
+00:02:55,949 --> 00:02:56,949
+PART.2: Sí.
+
+75
+00:02:57,909 --> 00:02:59,389
+PART.2: Yo podría estar muerta.
+
+76
+00:02:59,469 --> 00:03:02,709
+PART.2: Es que cuando yo hago esto, yo no
+me despierto hasta la tarde.
+
+77
+00:03:02,789 --> 00:03:04,349
+PART.1: No, ¿quién se va a despertar?
+
+78
+00:03:04,429 --> 00:03:05,429
+PART.1: Yo tampoco.
+
+79
+00:03:05,509 --> 00:03:08,869
+PART.2: Yo no me desperté ni con alarma.
+
+80
+00:03:08,949 --> 00:03:13,589
+PART.2: Era solo, no puedo seguir
+durmiendo,
+tengo que ir, tengo que ir.
+
+81
+00:03:13,669 --> 00:03:20,669
+PART.2: Estaba con la pereza y le escribí
+a Pablo: "Ay, por favor, ¿puedes
+hacer que sea una hora más tarde?
+Dame una hora más".
+
+82
+00:03:20,749 --> 00:03:23,189
+PART.2: Y él: "No, tiene que ser
+ya, tiene que ser ya".
+
+83
+00:03:23,269 --> 00:03:25,029
+PART.2: Y bueno, ya.
+
+84
+00:03:26,189 --> 00:03:27,789
+PART.2: Estoy muriendo.
+
+85
+00:03:27,869 --> 00:03:28,869
+PART.1: Qué lástima.
+
+86
+00:03:28,949 --> 00:03:31,949
+PART.1: Bueno, pero igual lo disfrutas.
+
+87
+00:03:30,629 --> 00:03:32,509
+PART.2: ¿Y vos cómo estás acá?
+
+88
+00:03:32,909 --> 00:03:33,909
+PART.1: ¿Cómo?
+
+89
+00:03:33,989 --> 00:03:39,389
+PART.2: O sea, ¿fue por un
+alumno que te invitó a venir o cómo?
+
+90
+00:03:39,469 --> 00:03:43,069
+PART.1: Lo que pasa que yo estoy
+de voluntaria
+
+91
+00:03:43,149 --> 00:03:49,869
+PART.1: en un lugar que se llama Catnova que
+es para apoyo a búsqueda de empleo a
+los inmigrantes.
+
+92
+00:03:49,949 --> 00:03:53,309
+PART.1: Entonces,
+me mandaron el correo del formulario.
+
+93
+00:03:53,389 --> 00:03:54,069
+PART.2: Ah.
+
+94
+00:03:54,149 --> 00:03:55,189
+PART.1: Voy a hacerlo.
+
+95
+00:03:54,789 --> 00:03:55,629
+PART.2: Te hiciste voluntaria.
+
+96
+00:03:55,709 --> 00:03:58,909
+PART.1: Ay, sí, para divertirme un rato.
+

@@ -1,0 +1,37 @@
+87
+00:08:05,679 --> 00:08:07,039
+PART.1: Ese tiene hembra abajo, ¿no?
+
+88
+00:08:07,599 --> 00:08:12,079
+PART.2: Sí. Pero aquí es esta hembra rara que
+no encaja con nada.
+
+89
+00:08:26,719 --> 00:08:32,519
+PART.1: Dijiste que hiciste el grado y el
+máster aquí, y el doctorado fuera.
+¿En qué es tu doctorado?
+
+90
+00:08:34,359 --> 00:08:51,599
+PART.2: Utilizaba topología algebraica,
+que es una especie de geometría
+aplicado a análisis de datos. Y
+luego, a través del análisis de
+datos, me fui metiendo un poco más
+en cosas de informática, programación, redes neuronales...
+
+91
+00:08:53,799 --> 00:08:55,479
+PART.1: ¿Cómo dijiste que se llamaba?
+
+92
+00:08:55,559 --> 00:09:10,879
+PART.2: Topología Algebraica. Es hacer
+topología con herramientas del
+algebra. Es bastante matemático,
+bastante puro. Pero tiene algunas
+aplicaciones, que se están
+descubriendo ahora, que ahora están como muy de moda.
+

@@ -1,0 +1,83 @@
+45
+00:02:01,901 --> 00:02:03,701
+PART.1: Entonces es salvaje, da igual.
+
+46
+00:02:03,781 --> 00:02:04,781
+PART.1: Esta no es una pregunta.
+
+47
+00:02:08,101 --> 00:02:12,021
+PART.1: No es una mascota, cuatro
+patas... Tengo muy pocos datos.
+
+48
+00:02:12,941 --> 00:02:13,621
+PART.2: Sí.
+
+49
+00:02:14,701 --> 00:02:15,621
+PART.2: ¿Cuántas llevas?
+
+50
+00:02:15,701 --> 00:02:16,861
+PART.1: ¿Es un animal exótico?
+
+51
+00:02:17,461 --> 00:02:19,461
+PART.1: O es muy conoci... Bueno, no se
+lo pregunto.
+
+52
+00:02:21,461 --> 00:02:22,501
+PART.2: ¿Cuál es la pregunta?
+
+53
+00:02:22,581 --> 00:02:24,341
+PART.1: Que si es un animal exótico,
+raro.
+
+54
+00:02:24,101 --> 00:02:24,981
+PART.2: Sí, sí.
+
+55
+00:02:26,221 --> 00:02:27,261
+PART.1: Un animal exótico raro.
+
+56
+00:02:30,141 --> 00:02:31,061
+PART.2: ¿Cuántas llevas?
+
+57
+00:02:31,901 --> 00:02:32,701
+PART.1: Seis.
+
+58
+00:02:36,541 --> 00:02:37,701
+PART.1: Cuatro patas.
+
+59
+00:02:41,901 --> 00:02:42,821
+PART.1: ¿Es mediano?
+
+60
+00:02:43,581 --> 00:02:44,421
+PART.2: Sí.
+
+61
+00:02:44,501 --> 00:02:46,741
+PART.1: Mediano. No es pequeño ni grande.
+
+62
+00:02:51,381 --> 00:02:53,141
+PART.1: Hay muchos animales así.
+
+63
+00:02:53,221 --> 00:02:54,021
+PART.2: Sí, sí.
+
+64
+00:02:54,101 --> 00:02:55,301
+PART.2: Es complicadísimo.
+

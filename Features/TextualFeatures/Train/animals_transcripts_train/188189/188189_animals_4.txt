@@ -1,0 +1,72 @@
+64
+00:04:05,148 --> 00:04:07,243
+PART.1: ¿Alguien lo usa para cazar?
+
+65
+00:04:09,091 --> 00:04:10,316
+PART.2: No.
+
+66
+00:04:12,268 --> 00:04:14,868
+PART.1: Pues se me han acabado las preguntas.
+
+67
+00:04:15,418 --> 00:04:18,668
+PART.2: Vale, bueno. Ahora voy yo con las preguntas.
+
+68
+00:04:19,715 --> 00:04:23,740
+PART.1: ¿Deberíamos saber qué es, o lo deberíamos ver al final?
+
+69
+00:04:22,370 --> 00:04:24,987
+PART.2: No lo sé, no lo sé. Esperamos a Javi para ver qué es, ¿vale? Esperamos a Javi.
+
+70
+00:04:25,292 --> 00:04:30,404
+PART.2: Eeh, a ver... Sé que es un animal, porque lo ha dicho Javi.
+
+71
+00:04:31,547 --> 00:04:32,700
+PART.2: ¿Es terrestre?
+
+72
+00:04:33,627 --> 00:04:34,780
+PART.1: No.
+
+73
+00:04:34,812 --> 00:04:36,007
+PART.2: Vale.
+
+74
+00:04:39,295 --> 00:04:40,368
+PART.2: ¿Es un ave?
+
+75
+00:04:40,463 --> 00:04:41,652
+PART.1: Sí.
+
+76
+00:04:41,781 --> 00:04:42,884
+PART.2: Vale.
+
+77
+00:04:49,128 --> 00:04:50,859
+PART.2: ¿Come pescado?
+
+78
+00:04:51,592 --> 00:04:53,604
+PART.1: No lo sé.
+
+79
+00:04:54,267 --> 00:04:56,317
+PART.1: Te lo puedo mirar si quieres.
+
+80
+00:04:56,172 --> 00:04:57,671
+PART.2: Vale.
+
+81
+00:04:59,600 --> 00:05:03,724
+PART.1: Pero yo creo... yo creo que, posiblemente, sí.
+

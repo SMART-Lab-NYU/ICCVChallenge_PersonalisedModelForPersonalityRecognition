@@ -1,0 +1,927 @@
+1
+00:00:04,557 --> 00:00:07,157
+PART.1: A ver, ¿empiezo yo?
+
+2
+00:00:06,597 --> 00:00:07,757
+PART.2: Comienza tú, sí.
+
+3
+00:00:07,837 --> 00:00:09,277
+PART.2: Voy contando.
+
+4
+00:00:10,557 --> 00:00:13,197
+PART.1: ¿Es doméstico?
+
+5
+00:00:14,637 --> 00:00:15,117
+PART.2: No.
+
+6
+00:00:15,197 --> 00:00:16,477
+PART.1: Para nada.
+
+7
+00:00:17,757 --> 00:00:19,037
+PART.2: ¿Soy un mamífero?
+
+8
+00:00:19,517 --> 00:00:20,237
+PART.1: No.
+
+9
+00:00:20,317 --> 00:00:29,637
+PART.2: Tengo problemas, hay animales que
+no sé si son mamíferos o no, así
+que, hazte otra pregunta por si
+acaso.
+
+10
+00:00:29,717 --> 00:00:30,877
+PART.2: A mí también me pasa.
+
+11
+00:00:31,677 --> 00:00:32,677
+PART.2: Pues...
+
+12
+00:00:33,917 --> 00:00:36,757
+PART.2: Comparado con un oso, ¿soy grande,
+soy más grande?
+
+13
+00:00:37,117 --> 00:00:37,877
+PART.1: No.
+
+14
+00:00:37,957 --> 00:00:38,717
+PART.2: Vale.
+
+15
+00:00:38,797 --> 00:00:40,117
+PART.1: Esa pregunta es buena.
+
+16
+00:00:40,197 --> 00:00:43,077
+PART.1: Como se nota que has jugado cinco
+veces.
+
+17
+00:00:43,157 --> 00:00:44,757
+PART.2: Sé las que sirven.
+
+18
+00:00:45,997 --> 00:00:47,477
+PART.1: ¿Es carnívoro?
+
+19
+00:00:47,557 --> 00:00:48,117
+PART.2: No.
+
+20
+00:00:48,557 --> 00:00:49,357
+PART.1: No es carnívoro.
+
+21
+00:00:52,877 --> 00:00:54,397
+PART.2: ¿Soy vegetariano?
+
+22
+00:00:55,757 --> 00:00:56,837
+PART.2: Creo que sí.
+
+23
+00:00:57,317 --> 00:00:58,237
+PART.2: Me alegro.
+
+24
+00:01:03,717 --> 00:01:04,677
+PART.1: ¿Soy pequeño?
+
+25
+00:01:04,757 --> 00:01:05,397
+PART.2: No.
+
+26
+00:01:09,277 --> 00:01:10,397
+PART.2: ¿Vivo en el bosque?
+
+27
+00:01:12,597 --> 00:01:13,597
+PART.2: No.
+
+28
+00:01:13,677 --> 00:01:14,197
+PART.2: No.
+
+29
+00:01:18,157 --> 00:01:19,397
+PART.1: ¿Vivo en el agua?
+
+30
+00:01:19,477 --> 00:01:20,157
+PART.2: No.
+
+31
+00:01:23,837 --> 00:01:25,197
+PART.2: ¿Vivo en el desierto?
+
+32
+00:01:25,277 --> 00:01:25,917
+PART.1: No.
+
+33
+00:01:25,997 --> 00:01:26,837
+PART.2: No.
+
+34
+00:01:29,277 --> 00:01:30,437
+PART.1: ¿Estoy en el zoo?
+
+35
+00:01:31,717 --> 00:01:32,517
+PART.2: Sí.
+
+36
+00:01:32,597 --> 00:01:33,237
+PART.1: ¿Sí?
+
+37
+00:01:33,317 --> 00:01:33,877
+PART.2: Sí.
+
+38
+00:01:33,957 --> 00:01:35,357
+PART.1: Bueno, hay muchos animales en el
+zoo.
+
+39
+00:01:35,437 --> 00:01:35,917
+PART.2: Sí.
+
+40
+00:01:35,997 --> 00:01:37,957
+PART.1: Pero bueno, vale, adelante.
+
+41
+00:01:38,037 --> 00:01:40,037
+PART.2: Ah, a ver.
+
+42
+00:01:40,117 --> 00:01:41,197
+PART.2: Voy a recapitular.
+
+43
+00:01:41,677 --> 00:01:46,877
+PART.2: Soy mamífero, soy más pequeño que
+un oso, no vivo en el desierto,
+tampoco en el bosque
+
+44
+00:01:48,157 --> 00:01:51,717
+PART.2: Pues, ¿tengo alguna relación con
+el ser humano?
+
+45
+00:01:54,517 --> 00:01:55,957
+PART.2: Es muy ambigua la pregunta.
+
+46
+00:01:56,037 --> 00:01:56,837
+PART.1: Es muy ambiguo.
+
+47
+00:01:56,917 --> 00:01:58,197
+PART.2: Sí, ¿estoy domesticado?
+
+48
+00:01:59,717 --> 00:02:00,917
+PART.1: Sí.
+
+49
+00:02:00,997 --> 00:02:01,197
+PART.2: ¿Sí?
+
+50
+00:02:01,277 --> 00:02:01,717
+PART.1: Sí.
+
+51
+00:02:01,797 --> 00:02:02,837
+PART.1: Sí, sí.
+
+52
+00:02:03,597 --> 00:02:04,557
+PART.1: Sí.
+
+53
+00:02:06,237 --> 00:02:08,197
+PART.2: Vale, creo que ahora viene la
+sexta.
+
+54
+00:02:11,397 --> 00:02:14,637
+PART.1: Me has dicho que, la última era...
+
+55
+00:02:15,037 --> 00:02:16,357
+PART.2: Si estaba en el zoo.
+
+56
+00:02:16,437 --> 00:02:18,237
+PART.1: Ah, sí, que me has dicho que sí.
+
+57
+00:02:19,437 --> 00:02:21,117
+PART.1: Me has dicho que no es pequeño.
+
+58
+00:02:22,557 --> 00:02:25,437
+PART.1: Que no es doméstico.
+
+59
+00:02:28,077 --> 00:02:29,077
+PART.1: Mmm...
+
+60
+00:02:32,317 --> 00:02:33,997
+PART.1: Puf, madre santísima.
+
+61
+00:02:35,037 --> 00:02:36,437
+PART.1: Que no es carnívoro.
+
+62
+00:02:38,877 --> 00:02:39,757
+PART.2: Que no es pequeño.
+
+63
+00:02:40,197 --> 00:02:41,597
+PART.1: Que no es pequeño.
+
+64
+00:02:41,677 --> 00:02:44,197
+PART.1: Yo imagino pequeño en plan así,
+eh.
+
+65
+00:02:44,277 --> 00:02:45,357
+PART.2: Claro, yo pienso en un gato,
+pequeño.
+
+66
+00:02:45,437 --> 00:02:46,437
+PART.1: Vale.
+
+67
+00:02:47,037 --> 00:02:48,277
+PART.1: Entonces...
+
+68
+00:02:53,117 --> 00:02:54,437
+SUPERVISOR: ¿Tiene cuatro patas?
+
+69
+00:02:54,517 --> 00:02:55,517
+PART.1: Sí.
+
+70
+00:02:55,797 --> 00:02:56,797
+PART.2: Vale.
+
+71
+00:02:56,877 --> 00:02:59,117
+PART.1: Bueno, hay muchos animales que
+tiene cuatro patas.
+
+72
+00:03:02,717 --> 00:03:03,917
+PART.2: ¿Vivo en el agua?
+
+73
+00:03:03,997 --> 00:03:04,677
+PART.1: Sí.
+
+74
+00:03:11,757 --> 00:03:16,997
+PART.1: ¿Tiene un color, o sea por el
+color se lo conoce?
+
+75
+00:03:17,877 --> 00:03:20,837
+PART.2: No, no es su característica
+principal, no, no.
+
+76
+00:03:19,717 --> 00:03:20,837
+PART.1: No es su característica.
+
+77
+00:03:21,477 --> 00:03:23,397
+PART.2: ¿Soy un delfín?
+
+78
+00:03:23,477 --> 00:03:24,477
+PART.2: No.
+
+79
+00:03:25,317 --> 00:03:26,437
+PART.2: No soy un delfín.
+
+80
+00:03:28,397 --> 00:03:30,357
+PART.1: Eh, a ver.
+
+81
+00:03:31,917 --> 00:03:33,037
+PART.1: Que no es carnívoro, a ver.
+
+82
+00:03:33,117 --> 00:03:35,197
+PART.1: Vale, una cebra no puede ser.
+
+83
+00:03:35,277 --> 00:03:36,277
+PART.1: Eh...
+
+84
+00:03:37,757 --> 00:03:39,437
+PART.1: Un caballo tampoco.
+
+85
+00:03:43,357 --> 00:03:46,197
+PART.1: Madre de Dios, no me sé animales.
+
+86
+00:03:48,277 --> 00:03:50,677
+SUPERVISOR: Eh, a ver qué puedo preguntar.
+
+87
+00:03:50,757 --> 00:03:51,677
+PART.2: Es la tarea más difícil.
+
+88
+00:03:51,757 --> 00:03:52,597
+PART.1: Uf.
+
+89
+00:03:53,477 --> 00:03:55,877
+PART.1: Es que a mí esto es como que me
+cuesta un montón.
+
+90
+00:03:56,957 --> 00:04:01,877
+PART.1: Es como que lo conoces, es muy
+obvio, pero vas pensando y...
+
+91
+00:04:02,397 --> 00:04:03,277
+PART.1: Esta no.
+
+92
+00:04:03,357 --> 00:04:03,997
+PART.2: Qué pregunto, claro.
+
+93
+00:04:04,077 --> 00:04:04,637
+PART.1: Ya, ya.
+
+94
+00:04:11,117 --> 00:04:12,797
+PART.1: Que no lo sé, eh, a ver.
+
+95
+00:04:13,597 --> 00:04:14,637
+PART.1: ¿Tiene cola?
+
+96
+00:04:15,197 --> 00:04:16,717
+PART.2: Sí.
+
+97
+00:04:16,797 --> 00:04:18,317
+PART.2: Sí, tiene cola.
+
+98
+00:04:17,557 --> 00:04:18,317
+PART.1: Tiene cola.
+
+99
+00:04:18,397 --> 00:04:19,157
+PART.1: Tiene cola.
+
+100
+00:04:20,917 --> 00:04:22,437
+PART.2: Yo tenía una pregunta y se me ha
+olvidado.
+
+101
+00:04:24,237 --> 00:04:25,357
+PART.2: ¿Soy peludo?
+
+102
+00:04:25,437 --> 00:04:26,237
+PART.1: No.
+
+103
+00:04:26,317 --> 00:04:26,997
+PART.2: ¿No?
+
+104
+00:04:28,677 --> 00:04:30,517
+PART.1: Ya es la última pregunta esta.
+
+105
+00:04:30,597 --> 00:04:31,397
+PART.2: Ahora viene la nueve.
+
+106
+00:04:31,477 --> 00:04:32,957
+PART.1: Ah, bueno, quedan dos todavía.
+
+107
+00:04:34,317 --> 00:04:35,197
+PART.1: Madre de Dios.
+
+108
+00:04:35,277 --> 00:04:36,757
+PART.1: Ay, que esto no, bueno da igual.
+
+109
+00:04:36,837 --> 00:04:37,677
+PART.2: Ya lo arreglaron.
+
+110
+00:04:37,757 --> 00:04:39,677
+PART.1: Sí, y estoy haciendo así.
+
+111
+00:04:44,717 --> 00:04:45,557
+SUPERVISOR: Ahora.
+
+112
+00:04:46,717 --> 00:04:47,437
+PART.1: Eh, a ver.
+
+113
+00:04:52,197 --> 00:04:53,197
+PART.1: Hostia.
+
+114
+00:04:56,957 --> 00:04:58,677
+PART.1: No sé qué preguntar.
+
+115
+00:04:58,757 --> 00:05:02,037
+PART.2: Pues por lugares, creo que no me
+has preguntado por lugares
+además del zoológico.
+
+116
+00:05:02,117 --> 00:05:03,637
+PART.1: He dicho lo del zoológico, es
+verdad.
+
+117
+00:05:04,317 --> 00:05:05,357
+PART.1: Eh...
+
+118
+00:05:08,477 --> 00:05:10,677
+PART.1: ¿Es un oso?
+
+119
+00:05:10,757 --> 00:05:11,677
+PART.2: No.
+
+120
+00:05:13,477 --> 00:05:14,477
+PART.2: A ver.
+
+121
+00:05:15,117 --> 00:05:19,597
+PART.2: Soy pequeño, vivo en el agua.
+
+122
+00:05:39,477 --> 00:05:40,757
+PART.2: Soy herbívoro.
+
+123
+00:05:42,157 --> 00:05:44,437
+PART.2: Eh, ¿soy una rana?
+
+124
+00:05:44,517 --> 00:05:45,277
+PART.1: No.
+
+125
+00:05:45,357 --> 00:05:45,877
+PART.2: ¿No?
+
+126
+00:05:46,477 --> 00:05:47,397
+PART.2: Voy por la décima.
+
+127
+00:05:49,357 --> 00:05:54,917
+PART.1: O sea, queda una pregunta y
+después decir en plan, pues soy
+cualquiera de estos típicos, vale.
+
+128
+00:06:00,117 --> 00:06:01,917
+PART.1: ¿Es más grande que un caballo?
+
+129
+00:06:02,677 --> 00:06:04,277
+PART.2: ¿Más grande que un caballo?
+
+130
+00:06:04,357 --> 00:06:05,037
+PART.1: Sí.
+
+131
+00:06:05,117 --> 00:06:06,277
+PART.2: Yo diría que sí.
+
+132
+00:06:07,837 --> 00:06:09,077
+PART.1: Madre de Dios.
+
+133
+00:06:10,077 --> 00:06:11,397
+PART.2: Nunca he visto uno.
+
+134
+00:06:11,477 --> 00:06:13,397
+PART.2: Sí, sí son más grandes, sí he
+visto uno en vivo.
+
+135
+00:06:15,637 --> 00:06:18,157
+PART.1: Más grande que un caballo y está
+en el zoo.
+
+136
+00:06:22,837 --> 00:06:24,517
+PART.2: ¿Soy una ballena?
+
+137
+00:06:24,837 --> 00:06:25,597
+PART.2: No.
+
+138
+00:06:29,677 --> 00:06:31,317
+PART.1: Has dicho que es más grande que un
+caballo, eh.
+
+139
+00:06:31,397 --> 00:06:31,597
+PART.2: Sí.
+
+140
+00:06:31,677 --> 00:06:33,117
+PART.1: Y que has visto uno en vivo.
+
+141
+00:06:33,917 --> 00:06:34,917
+PART.1: Que, eh...
+
+142
+00:06:36,637 --> 00:06:39,037
+PART.1: Es que se me olvidan las
+preguntas, que está en el zoo, eso
+vale.
+
+143
+00:06:39,117 --> 00:06:40,517
+PART.1: Eh...
+
+144
+00:06:43,317 --> 00:06:44,597
+PART.1: Que no es carnívoro.
+
+145
+00:06:45,917 --> 00:06:46,917
+PART.2: Tiene cola.
+
+146
+00:06:46,997 --> 00:06:47,997
+PART.1: Que tiene cola.
+
+147
+00:06:48,077 --> 00:06:49,237
+PART.1: Tiene cola, eh.
+
+148
+00:06:49,317 --> 00:06:50,877
+PART.1: ¿Es un rinoceronte?
+
+149
+00:06:50,957 --> 00:06:51,717
+PART.2: No.
+
+150
+00:06:54,877 --> 00:06:57,197
+PART.2: Pero bueno, pues es muy difícil.
+
+151
+00:06:57,677 --> 00:06:59,837
+PART.2: Yo tengo uno que vive en el agua:
+pingüino.
+
+152
+00:06:59,917 --> 00:07:00,877
+PART.1: No.
+
+153
+00:07:00,957 --> 00:07:02,077
+PART.2: ¿Pero ando de cerca?
+
+154
+00:07:02,677 --> 00:07:03,837
+PART.1: Antes sí.
+
+155
+00:07:03,917 --> 00:07:04,517
+PART.2: ¿Antes?
+
+156
+00:07:04,597 --> 00:07:05,437
+PART.1: Hace dos, sí.
+
+157
+00:07:05,517 --> 00:07:06,757
+PART.2: Con el delfín y la ballena.
+
+158
+00:07:06,837 --> 00:07:07,477
+PART.1: Con la rana.
+
+159
+00:07:07,557 --> 00:07:08,757
+PART.2: Ah, con la rana.
+
+160
+00:07:10,637 --> 00:07:11,637
+PART.1: ¿Te lo digo?
+
+161
+00:07:11,717 --> 00:07:12,117
+PART.2: Sí.
+
+162
+00:07:12,197 --> 00:07:12,637
+PART.1: Claro.
+
+163
+00:07:12,717 --> 00:07:14,717
+PART.1: Tienes una, sí ya está, una
+tortuga.
+
+164
+00:07:14,797 --> 00:07:15,677
+PART.2: Una tortuga.
+
+165
+00:07:15,757 --> 00:07:16,957
+PART.2: Ah, mira.
+
+166
+00:07:16,517 --> 00:07:17,077
+PART.1: ¿Y yo?
+
+167
+00:07:17,437 --> 00:07:19,317
+PART.2: Eh, tienes un camello.
+
+168
+00:07:19,397 --> 00:07:20,677
+PART.1: ¡Un camello!
+
+169
+00:07:20,757 --> 00:07:23,077
+PART.2: Ah, que resulta que es un
+dromedario.
+
+170
+00:07:23,157 --> 00:07:25,557
+PART.1: Sí, esas cosas de dromedario.
+
+171
+00:07:25,637 --> 00:07:27,477
+PART.2: Sí, verdad, porque tienen una sola
+joroba.
+
+172
+00:07:27,557 --> 00:07:30,237
+PART.1: No, es camello, si pone aquí
+camello.
+
+173
+00:07:30,997 --> 00:07:32,717
+PART.2: Mira, tiene una joroba.
+
+174
+00:07:32,797 --> 00:07:34,637
+PART.1: Buah, te juro que en ningún
+momento...
+
+175
+00:07:34,717 --> 00:07:35,757
+PART.2: Es más grande que el caballo.
+
+176
+00:07:36,517 --> 00:07:38,717
+PART.1: Pues no lo sé si es más grande que
+un caballo.
+
+177
+00:07:38,797 --> 00:07:40,157
+PART.1: Bueno, es que no he visto nunca...
+
+178
+00:07:40,237 --> 00:07:41,637
+PART.1: Bueno, seguramente sí.
+
+179
+00:07:41,557 --> 00:07:42,997
+PART.2: Hay caballos y caballos, también.
+
+180
+00:07:43,277 --> 00:07:46,397
+PART.1: Claro, es que ahora tiene sentido
+lo que me has dicho.
+
+181
+00:07:47,117 --> 00:07:48,117
+PART.2: Sí.
+
+182
+00:07:48,197 --> 00:07:50,397
+PART.1: ¿Es un mamífero o qué es?
+
+183
+00:07:50,477 --> 00:07:52,277
+PART.2: Ah, ¿la tortuga?
+
+184
+00:07:52,357 --> 00:07:53,597
+PART.1: Es que lo he pen...
+
+185
+00:07:53,677 --> 00:07:54,677
+PART.1: ¿Un anfibio?
+
+186
+00:07:54,757 --> 00:07:56,357
+PART.2: Un anfibio, pone huevos, eh.
+
+187
+00:07:56,437 --> 00:07:56,877
+PART.1: Por eso.
+
+188
+00:07:56,957 --> 00:07:57,997
+PART.2: Sí, sí, mamífero no es.
+
+189
+00:07:57,757 --> 00:07:58,357
+PART.1: No.
+
+190
+00:07:58,717 --> 00:08:00,717
+PART.2: Anfibio tiene que ser porque vive
+como en el agua.
+
+191
+00:08:00,797 --> 00:08:01,517
+PART.1: Por eso.
+
+192
+00:08:01,717 --> 00:08:02,197
+PART.2: Sí.
+
+193
+00:08:02,277 --> 00:08:04,837
+PART.1: Es que me has dicho en el bosque y
+digo: "En el bosque no".
+
+194
+00:08:04,917 --> 00:08:05,757
+PART.2: No, no, en el bosque no.
+
+195
+00:08:05,837 --> 00:08:08,397
+PART.1: Es más en plan agua y playita.
+
+196
+00:08:08,477 --> 00:08:11,957
+PART.2: Y tenía una pregunta que era si
+anda a cuatro patas, pero tú la
+habías hecho.
+
+197
+00:08:12,037 --> 00:08:14,477
+PART.2: Entonces digo no voy a seguir
+repitiendo preguntas.
+
+198
+00:08:14,877 --> 00:08:15,837
+PART.1: Hostia, pues no, eh.
+
+199
+00:08:15,917 --> 00:08:19,317
+PART.2: Ahí me hubiese aclarado muchas,
+que no era un pez, yo pensando que
+era un pez.
+
+200
+00:08:18,317 --> 00:08:20,117
+PART.1: Exacto, sí, pensabas en un pez.
+
+201
+00:08:20,997 --> 00:08:23,157
+PART.1: Es que es muy difícil esto, eh.
+
+202
+00:08:23,237 --> 00:08:26,117
+PART.2: Esta sí, esta es difícil, a mí la
+anterior me tocó un poquito más...
+
+203
+00:08:26,197 --> 00:08:27,637
+PART.2: Creo que las había adivinado
+todas.
+
+204
+00:08:27,717 --> 00:08:28,237
+PART.1: ¿Sí?
+
+205
+00:08:28,317 --> 00:08:29,677
+PART.1: ¿Y qué te tocó?
+
+206
+00:08:30,077 --> 00:08:32,957
+PART.2: Me tocó una cebra, eh...
+
+207
+00:08:33,397 --> 00:08:33,997
+PART.1: ¿Sí?
+
+208
+00:08:34,077 --> 00:08:35,637
+PART.2: Sí, una, no, sí, una cebra.
+
+209
+00:08:35,717 --> 00:08:39,317
+PART.2: Me tocó un zorro una vez.
+
+210
+00:08:39,397 --> 00:08:40,717
+PART.2: Sí, recién me tocó un zorro.
+
+211
+00:08:40,797 --> 00:08:44,757
+PART.2: La vez anterior un koala.
+
+212
+00:08:44,837 --> 00:08:45,997
+PART.1: Ay, me encantan los koalas.
+
+213
+00:08:46,077 --> 00:08:46,717
+PART.2: Sí.
+
+214
+00:08:47,397 --> 00:08:51,677
+PART.2: Yo creo que cuando el animal es
+como más característico es un
+poquito más sencillo.
+
+215
+00:08:51,757 --> 00:08:52,437
+PART.1: Bueno.
+
+216
+00:08:52,517 --> 00:08:55,197
+PART.1: Un camello, yo pensando
+qué era.
+
+217
+00:08:55,317 --> 00:08:58,837
+PART.2: Las ballenas, los delfines sí,
+pero las ballenas no están
+domesticadas.
+
+218
+00:08:58,917 --> 00:08:59,837
+PART.1: No.
+
+219
+00:08:59,917 --> 00:09:01,917
+PART.1: Pro las tortugas están
+domesticadas.
+

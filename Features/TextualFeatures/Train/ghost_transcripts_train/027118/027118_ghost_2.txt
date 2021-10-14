@@ -1,0 +1,72 @@
+31
+00:02:02,922 --> 00:02:06,882
+PART.1: Este ya está... Pues este.
+
+32
+00:02:08,322 --> 00:02:10,242
+PART.2: Sí, es el ratón.
+
+33
+00:02:12,002 --> 00:02:13,242
+PART.2: Muy bien. ¿A ver?
+
+34
+00:02:13,682 --> 00:02:15,362
+PART.1: La primera vez que empato.
+
+35
+00:02:18,202 --> 00:02:19,482
+PART.1: ¿Tú tienes cinco?
+
+36
+00:02:19,562 --> 00:02:20,642
+PART.2: Tengo seis.
+
+37
+00:02:22,522 --> 00:02:25,122
+PART.2: Ah, no. Sí, seis. ¿Tú también?
+
+38
+00:02:25,282 --> 00:02:28,242
+PART.1: Volví a perder. No, es que creo que son once.
+
+39
+00:02:28,322 --> 00:02:30,002
+PART.2: Ah, sí, son once.
+
+40
+00:02:31,562 --> 00:02:33,602
+PART.1: Pero ya voy más cerca.
+
+41
+00:02:34,922 --> 00:02:36,282
+PART.2: Bueno, bien.
+
+42
+00:02:38,282 --> 00:02:40,402
+PART.1: Creo que es de práctica, ¿sí?
+
+43
+00:02:40,482 --> 00:02:45,162
+PART.2: Es de práctica, sí, sí. Estos juegos pequeñitos a mí me encantan.
+
+44
+00:02:45,602 --> 00:02:48,322
+PART.1: A mí me encanta. A mí me gusta mucho jugar.
+
+45
+00:02:48,402 --> 00:02:53,522
+PART.2: En mi ciudad en verano, a finales de verano en la plaza mayor.
+
+46
+00:02:53,602 --> 00:02:55,162
+PART.1: ¿Cuál es tu ciudad?
+
+47
+00:02:55,242 --> 00:02:57,522
+PART.2: Manresa. En el centro de Cataluña.
+
+48
+00:02:57,602 --> 00:03:00,602
+PART.1: Me encanta Manresa. La otra vez fui por error.
+

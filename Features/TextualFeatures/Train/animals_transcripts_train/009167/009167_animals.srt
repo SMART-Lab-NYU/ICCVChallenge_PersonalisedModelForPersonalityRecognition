@@ -1,0 +1,712 @@
+1
+00:00:01,231 --> 00:00:02,511
+PART.2: ¿Quién empieza?
+
+2
+00:00:02,711 --> 00:00:03,791
+PART.1: Venga, empiezo yo.
+
+3
+00:00:03,951 --> 00:00:05,551
+PART.2: Que tienes más
+experiencia.
+
+4
+00:00:05,791 --> 00:00:10,271
+PART.1: Sí. Mira cómo sudé, eh. A ver...
+¿Soy mamífero?
+
+5
+00:00:10,711 --> 00:00:11,711
+PART.2: Sí. Eres un mamífero.
+
+6
+00:00:11,791 --> 00:00:16,111
+PART.1: Vale, soy un mamífero. Es que
+luego cuesta retener las respuestas.
+
+7
+00:00:16,191 --> 00:00:19,271
+PART.2: Hay que hacer desde las más
+grandes a las más pequeñas.
+
+8
+00:00:19,711 --> 00:00:23,751
+PART.1: Vale. Vamos intercalando, ¿no?
+¿Una pregunta tú, una pregunta yo?
+
+9
+00:00:23,831 --> 00:00:25,831
+PART.2: Ya. ¿Yo soy mamífero?
+
+10
+00:00:26,751 --> 00:00:27,751
+PART.1: No.
+
+11
+00:00:29,631 --> 00:00:30,311
+PART.2: ¿Sigues tú?
+
+12
+00:00:30,391 --> 00:00:35,271
+PART.1: Vale. ¿Acuático? ¿Soy acuático?
+
+13
+00:00:35,351 --> 00:00:35,991
+PART.2: No.
+
+14
+00:00:36,071 --> 00:00:36,831
+PART.1: Vale.
+
+15
+00:00:37,471 --> 00:00:38,471
+PART.2: ¿Soy un pájaro?
+
+16
+00:00:38,551 --> 00:00:39,311
+PART.1: Sí.
+
+17
+00:00:39,391 --> 00:00:42,471
+PART.2: El problema es que no me sé el
+nombre de los pájaros.
+
+18
+00:00:53,351 --> 00:00:55,231
+PART.1: Vale. ¿Soy un ave?
+
+19
+00:00:55,631 --> 00:00:56,631
+PART.2: No.
+
+20
+00:01:00,271 --> 00:01:01,511
+PART.2: ¿Soy de color verde?
+
+21
+00:01:01,711 --> 00:01:02,711
+PART.1: No.
+
+22
+00:01:11,631 --> 00:01:18,791
+PART.1: ¿Tengo... pelaje? O sea, ¿pelo
+largo?
+
+23
+00:01:20,031 --> 00:01:21,991
+PART.2: No. Pelo corto. No.
+
+24
+00:01:22,271 --> 00:01:23,271
+PART.1: No. Vale.
+
+25
+00:01:30,071 --> 00:01:31,751
+PART.2: ¿El pájaro es grande?
+
+26
+00:01:33,631 --> 00:01:34,311
+PART.1: No.
+
+27
+00:01:34,391 --> 00:01:35,191
+PART.2: ¿No? Ya.
+
+28
+00:01:35,271 --> 00:01:41,551
+PART.1: Eh... Claro, según como
+pienses... Sí. Te diría que sí.
+
+29
+00:01:41,631 --> 00:01:42,111
+PART.2: ¿Sí?
+
+30
+00:01:42,191 --> 00:01:43,591
+PART.1: Porque si no igual te... Sí, sí,
+sí.
+
+31
+00:01:43,671 --> 00:01:44,591
+PART.2: Me imagino un pajarito así.
+
+32
+00:01:44,671 --> 00:01:45,551
+PART.1: Sí. Exacto.
+
+33
+00:01:45,631 --> 00:01:46,671
+PART.2: Ya. "Okey".
+
+34
+00:01:47,791 --> 00:01:53,911
+PART.1: Vale. Eh... ¿Ando sobre cuatro
+patas?
+
+35
+00:01:54,151 --> 00:01:54,911
+PART.2: Sí.
+
+36
+00:01:54,991 --> 00:01:55,991
+PART.1: Vale.
+
+37
+00:02:05,951 --> 00:02:07,551
+PART.2: ¿Tiene muchos colores?
+
+38
+00:02:09,151 --> 00:02:10,151
+PART.1: No muchos.
+
+39
+00:02:15,031 --> 00:02:17,671
+PART.1: ¿Vivo en la selva?
+
+40
+00:02:27,511 --> 00:02:31,551
+PART.2: Exactamente en la selva no. No.
+
+41
+00:02:33,431 --> 00:02:34,951
+PART.2: Eh... A ver yo...
+
+42
+00:02:43,151 --> 00:02:46,551
+PART.2: ¿Ando en las calles? ¿En la
+metrópolis?
+
+43
+00:02:46,631 --> 00:02:47,631
+PART.1: No. No.
+
+44
+00:02:54,791 --> 00:02:55,991
+PART.1: ¿Soy carnívoro?
+
+45
+00:02:56,071 --> 00:02:57,071
+PART.2: Sí.
+
+46
+00:03:02,111 --> 00:03:03,551
+PART.2: Qué otra característica...
+
+47
+00:03:10,631 --> 00:03:11,911
+PART.2: ¿Soy de color blanco?
+
+48
+00:03:15,231 --> 00:03:17,191
+PART.1: En parte. Incluye el blanco, sí.
+
+49
+00:03:25,031 --> 00:03:26,311
+PART.1: ¿Soy depredador?
+
+50
+00:03:26,511 --> 00:03:27,471
+PART.2: Sí.
+
+51
+00:03:31,111 --> 00:03:34,751
+PART.2: ¿Soy carroñero? ¿Se entiende lo
+que es carroñero?
+
+52
+00:03:34,831 --> 00:03:37,311
+PART.1: Sí, sí. Estoy pensando si lo son.
+
+53
+00:03:37,391 --> 00:03:38,431
+PART.2: Ya.
+
+54
+00:03:38,711 --> 00:03:42,351
+PART.1: Eh... Diría que no.
+
+55
+00:03:42,431 --> 00:03:44,791
+PART.2: Ya. Ocho.
+
+56
+00:03:44,871 --> 00:03:48,151
+PART.1: Diría que no. ¿Ocho llevamos? Nos
+quedan dos.
+
+57
+00:03:48,351 --> 00:03:49,751
+PART.1: Vale. Eh...
+
+58
+00:03:56,551 --> 00:04:03,231
+PART.1: Podía probar antes, ¿no?
+¿Acertar? ¿Soy un tigre?
+
+59
+00:04:05,311 --> 00:04:06,311
+PART.2: No.
+
+60
+00:04:06,391 --> 00:04:07,831
+PART.1: ¿No?
+
+61
+00:04:07,911 --> 00:04:10,511
+PART.2: Pero casi. Pero casi.
+
+62
+00:04:13,951 --> 00:04:27,711
+PART.2: A ver yo, que no se me ocurren
+más preguntas de pájaros. ¿Están en
+los zoológicos?
+
+63
+00:04:30,471 --> 00:04:32,351
+PART.1: Sí los hay en todos. Sí.
+
+64
+00:04:32,431 --> 00:04:34,031
+PART.2: ¿Sí? Vale. Queda una.
+
+65
+00:04:34,471 --> 00:04:35,471
+PART.1: Queda una.
+
+66
+00:04:38,871 --> 00:04:39,951
+PART.1: ¿Soy un león?
+
+67
+00:04:40,551 --> 00:04:41,871
+PART.2: No.
+
+68
+00:04:42,551 --> 00:04:44,271
+PART.1: Voy a tirar por la extra.
+
+69
+00:04:45,991 --> 00:04:51,591
+PART.2: A ver... Es que no me sé los
+nombres de los pájaros de aquí.
+
+70
+00:04:52,711 --> 00:04:54,471
+PART.1: No. Ni yo tampoco, eh.
+
+71
+00:04:55,351 --> 00:04:58,271
+PART.2: Con suerte conozco los de mi
+país. Paloma, ¿soy una paloma?
+
+72
+00:04:58,471 --> 00:04:59,471
+PART.2: No.
+
+73
+00:05:00,471 --> 00:05:04,471
+PART.2: He terminado con las diez,
+pero tú te acercaste bastante.
+
+74
+00:05:04,551 --> 00:05:06,471
+PART.1: Ya. Me falta otro, ¿no?
+
+75
+00:05:06,551 --> 00:05:09,391
+PART.2: Del mismo estilo de lo que
+dijiste tú.
+
+76
+00:05:09,471 --> 00:05:10,471
+PART.1: ¿Leopardo?
+
+77
+00:05:11,191 --> 00:05:16,271
+PART.2: En la extra. Yo voy a tirar
+una...
+
+78
+00:05:16,351 --> 00:05:17,351
+PART.1: Es difícil.
+
+79
+00:05:17,711 --> 00:05:18,751
+PART.2: Gorrión.
+
+80
+00:05:18,831 --> 00:05:19,351
+PART.1: No.
+
+81
+00:05:19,431 --> 00:05:22,151
+PART.2: Yo no lo sé. Los gorriones
+son pequeñitos.
+
+82
+00:05:22,231 --> 00:05:25,431
+PART.1: Ya. Es más grande. Sí que
+te lo podía decir, ¿no?
+
+83
+00:05:26,511 --> 00:05:28,511
+PART.2: Pues no lo sé. Yo creo que si
+perdí.
+
+84
+00:05:28,911 --> 00:05:30,791
+PART.1: Por eso. Un búho.
+
+85
+00:05:31,231 --> 00:05:32,471
+PART.2: Ah...
+
+86
+00:05:32,551 --> 00:05:33,511
+PART.1: ¿Son carroñeros?
+
+87
+00:05:33,591 --> 00:05:34,831
+PART.2: No pregunté. No, no son.
+
+88
+00:05:34,911 --> 00:05:36,311
+PART.1: Tuve la duda, ¿eh?
+
+89
+00:05:36,391 --> 00:05:38,871
+PART.2: No pregunté si eran de noche o
+no. Tienes razón.
+
+90
+00:05:38,951 --> 00:05:43,631
+PART.1: Claro. No se te ocurre eso en un
+pájaro. Era más difícil el búho.
+
+91
+00:05:44,391 --> 00:05:45,471
+PART.2:  Bueno.
+
+92
+00:05:46,551 --> 00:05:50,791
+PART.1: En el anterior me tocó un tan
+difícil... Los dos estábamos tan
+perdidos.
+
+93
+00:05:52,551 --> 00:05:57,791
+PART.2: Yo soy malísima para estas cosas.
+Yo dije: Bueno, voy a perder. Pero
+no importa.
+
+94
+00:06:01,591 --> 00:06:05,311
+PART.1: Pero es divertido. Hacía tiempo
+que no jugaba a estos juegos.
+
+95
+00:06:06,311 --> 00:06:11,231
+PART.2: En general, yo en juegos soy de
+Monopoly, ajedrez...
+
+96
+00:06:13,591 --> 00:06:19,231
+PART.1: Tengo que decir que también,
+pero, bueno, está bien. Me dio una
+idea para jugar con los niños.
+
+97
+00:06:19,311 --> 00:06:23,271
+PART.2: Sí. Sí, tienes razón. ¿Tienes un
+niño?
+
+98
+00:06:23,351 --> 00:06:28,791
+PART.1: Dos. Este que ha venido va a
+hacer siete en octubre y el pequeño
+ha hecho tres.
+
+99
+00:06:29,431 --> 00:06:33,231
+PART.2: Tres. ¿Y qué edad tienes, si no
+te molesta?
+
+100
+00:06:33,311 --> 00:06:34,111
+PART.1: 33.
+
+101
+00:06:34,191 --> 00:06:36,391
+PART.2: 33. ¡Guay! Qué jovencita.
+
+102
+00:06:36,551 --> 00:06:38,151
+PART.1: Sí. Empecé joven.
+
+103
+00:06:38,231 --> 00:06:39,471
+PART.2: Jovencita.
+
+104
+00:06:39,551 --> 00:06:40,711
+PART.1: Y he acabado, eh.
+
+105
+00:06:40,791 --> 00:06:42,231
+PART.2: ¿Se cerró la fábrica?
+
+106
+00:06:42,311 --> 00:06:48,671
+PART.1: Sí, sí. Totalmente. Lo hice como
+a la antigua, no a la nueva usanza.
+
+107
+00:06:49,431 --> 00:06:50,711
+PART.2: Te casaste primero y los bebés.
+
+108
+00:06:50,791 --> 00:06:52,671
+PART.1: Es así. Las circunstancias.
+
+109
+00:06:53,311 --> 00:06:56,351
+PART.2: Bueno, yo tengo 37. No, no tengo.
+
+110
+00:06:56,431 --> 00:06:57,591
+PART.1: No tienes hijos.
+
+111
+00:06:58,431 --> 00:07:01,111
+PART.2: No. No podría estar estudiando un
+doctorado si...
+
+112
+00:07:01,191 --> 00:07:02,631
+PART.1: No, no, claro. Yo no tengo un
+doctorado.
+
+113
+00:07:03,911 --> 00:07:17,471
+PART.2: Demasiado el tiempo que
+ocupa. Y claro, uno vuelve a ser un
+estudiante. Vuelve a tener el sueldo
+de un estudiante. ¿Cómo se
+mantendría a un niño entre medias?
+Imposible.
+
+114
+00:07:17,631 --> 00:07:20,351
+PART.1: Ni por tiempo ni por nada. Es que
+no.
+
+115
+00:07:21,031 --> 00:07:23,671
+PART.2: Tengo dos perros. Esas son mis
+hijas.
+
+116
+00:07:23,751 --> 00:07:26,351
+PART.1: Al menos, sacas algo de tiempo
+para ellas, ¿no?
+
+117
+00:07:26,791 --> 00:07:41,951
+PART.2: Sí. Ahora, por ejemplo, me
+voy tarde porque salgo entre cuatro
+y cinco, llego a casa y las saco,
+doy un paseo largo y ya... De mañana
+salgo de ocho a nueve de la casa.
+
+118
+00:07:42,031 --> 00:07:50,911
+PART.2: A mediodía hay un chico que le
+pago para que las saque a mediodía.
+Entonces salen mañana, mediodía con
+este chico y de tarde las saco yo.
+
+119
+00:07:50,991 --> 00:07:53,071
+PART.1: Paseo largo. Bueno, tienen sus
+tres paseos.
+
+120
+00:07:53,151 --> 00:08:00,911
+PART.2: Sí. Sí porque son muy grandes,
+entonces, se estresarían. Son
+samoyedo. No sé si conoces esa raza.
+
+121
+00:08:00,991 --> 00:08:02,031
+PART.1: ¡Ah! Sí, sí.
+
+122
+00:08:02,111 --> 00:08:03,031
+PART.2: Son dos.
+
+123
+00:08:03,111 --> 00:08:04,391
+PART.1: ¿Y se portan bien cuando no
+estás?
+
+124
+00:08:04,471 --> 00:08:07,111
+PART.2: Es que tengo una compañera
+de piso...
+
+125
+00:08:07,191 --> 00:08:07,951
+PART.1: Ah, eso te iba a decir. Vives...
+
+126
+00:08:08,031 --> 00:08:11,551
+PART.2: Sí. Tengo una compañera de piso
+que pasa más en casa ahora,
+entonces, pasan acompañadas.
+
+127
+00:08:11,631 --> 00:08:12,551
+PART.1: Vale, vale.
+
+128
+00:08:12,631 --> 00:08:19,311
+PART.2: Y eso a mí me gusta. Pero cuando
+pasan mucho tiempo solas, me rompen
+el sillón y... Sí.
+
+129
+00:08:19,391 --> 00:08:25,871
+PART.1: Claro. Es que no me imagino... O
+que se peleen, ¿no? O algo y se
+enganchen.
+
+130
+00:08:25,951 --> 00:08:32,911
+PART.2: Ellas, a veces, como que más que
+juegan, pelean. Porque una es mamá y
+la otra es la hija.
+
+131
+00:08:33,431 --> 00:08:42,751
+PART.2: La hija
+de repente... No sé si te has dado
+cuenta de que los perros, cuando hay
+varios perros, hay uno que tiene la
+cola hacia arriba, cuando camina y
+anda, ese es el que manda.
+
+132
+00:08:42,991 --> 00:08:52,631
+PART.2: Entonces la mamá manda porque
+siempre tiene la cola hacia arriba.
+En cambio la pequeña cuando trata de
+subir la cola es cuando empiezan las
+rencillas para ver quién es la
+que manda.
+
+133
+00:08:52,711 --> 00:09:00,111
+PART.2: En ese rato juegan. Se mordisquean
+un poco... Hasta que la chica baja
+la cola y ya se pasó.
+
+134
+00:09:00,191 --> 00:09:03,471
+PART.1: Qué curioso. ¡Ay! tenemos que
+dejar esto cuando acabáramos.
+
+135
+00:09:03,551 --> 00:09:12,431
+PART.2: Ah, sí. Es verdad. Pero no. Nunca
+las he visto que se saquen sangre ni
+nada, sino que como se mordisquean
+así como entre juego y juego.
+
+136
+00:09:16,031 --> 00:09:20,671
+PART.2: Claro, yo dije: Búho. Los búhos son
+negros, pero yo aquí tenía de varios
+colores.
+
+137
+00:09:20,751 --> 00:09:26,471
+PART.1: Claro. Varios colores, pero no
+muchos colores. Porque pensé, se
+debe imaginar un tropical y claro se
+va a ir para...
+
+138
+00:09:26,551 --> 00:09:34,511
+PART.2: Sí, sí. Porque el búho es más...
+Bueno, me lo imaginé más oscuro.
+Pero sí, tiene que haber varias
+versiones.
+
+139
+00:09:35,591 --> 00:09:42,911
+PART.2: Ahora... Ahora, cuando viene mi
+pareja, hacemos el conjunto y de ahí
+me voy a sacarlas.
+
+140
+00:09:43,351 --> 00:09:51,271
+PART.2: Es más o menos la hora que las saco,
+a las siete. Bueno, siete o siete y
+media porque con el calor que está
+haciendo, las saco un poco más
+tarde.
+
+141
+00:09:56,791 --> 00:09:58,631
+PART.2: Y tu otro niño, ¿quién te lo está
+cuidando?
+
+142
+00:09:58,711 --> 00:10:08,751
+PART.1: Su padre se ha podido encargar de
+él. Aún está en la guardería como en
+este mes de julio aún tiene
+guardería, ahí está. Al menos está
+bien colocado.
+
+143
+00:10:08,831 --> 00:10:12,951
+PART.2: Las guarderías aquí como que
+priorizan que estén cerca de casa,¿no?
+
+144
+00:10:13,031 --> 00:10:13,591
+PART.1: Sí.
+
+145
+00:10:13,671 --> 00:10:20,671
+PART.2: Eso escuché yo. En mi país, a
+veces, las colocan al lado del lugar
+donde trabaja la mamá.
+
+146
+00:10:20,751 --> 00:10:28,791
+PART.1: También tenemos esa opción.
+Cuando tú pides guardería, va por
+puntuación, en las privadas no. En
+mi caso es una privada y la apuntas
+donde quieres.
+
+147
+00:10:28,871 --> 00:10:35,871
+PART.1: Pero es como los
+colegios que van por puntación. Y
+los puntos es igual por domicilio
+que por zona de trabajo.
+
+148
+00:10:35,951 --> 00:10:36,791
+PART.2: Ah, ya.
+
+149
+00:10:36,871 --> 00:10:40,031
+PART.1: Podríamos llevarlos cerca del
+trabajo también. Donde te vaya
+mejor.
+

@@ -1,0 +1,76 @@
+104
+00:05:01,667 --> 00:05:02,547
+PART.1: Pues nada.
+
+105
+00:05:07,147 --> 00:05:08,587
+PART.2: ¿Es un bovino?
+
+106
+00:05:10,107 --> 00:05:12,067
+PART.2: Bueno, no, más fácil.
+
+107
+00:05:12,987 --> 00:05:14,707
+PART.2: ¿Es de la familia de los felinos?
+
+108
+00:05:14,787 --> 00:05:15,547
+PART.1: No.
+
+109
+00:05:17,547 --> 00:05:20,267
+PART.1: No sé a qué familia pertenece,
+pero al felino no.
+
+110
+00:05:21,707 --> 00:05:22,747
+PART.2: Vale.
+
+111
+00:05:27,987 --> 00:05:29,507
+PART.1: No sé qué te iba a preguntar.
+
+112
+00:05:34,427 --> 00:05:35,867
+PART.1: ¿Llevo...?
+
+113
+00:05:36,627 --> 00:05:37,787
+PART.1: Cómo se dice...
+
+114
+00:05:39,347 --> 00:05:42,907
+PART.1: Cáscara, o por ejemplo...
+
+115
+00:05:44,707 --> 00:05:45,827
+PART.1: No sé cómo explicarme.
+
+116
+00:05:45,907 --> 00:05:50,227
+PART.1: Por ejemplo, las tortugas tienen
+el caparazón, ¿no? ¿Se llama así?
+
+117
+00:05:51,307 --> 00:05:54,227
+PART.1: O los cangrejos que tienen el
+armatoste ese.
+
+118
+00:05:54,947 --> 00:05:56,227
+PART.1: ¿Tiene algo de eso?
+
+119
+00:05:56,307 --> 00:05:58,107
+PART.2: No tiene ningún tipo de
+armatoste.
+
+120
+00:05:58,187 --> 00:05:59,027
+PART.1: Vale.
+
+121
+00:05:59,467 --> 00:06:00,227
+PART.1: Vale.
+

@@ -1,0 +1,52 @@
+17
+00:01:05,123 --> 00:01:05,683
+PART.2: Té pèl?
+
+18
+00:01:06,626 --> 00:01:09,251
+PART.1: No. Té pèl?
+
+19
+00:01:10,019 --> 00:01:13,650
+PART.2: No. És una ave?
+
+20
+00:01:14,274 --> 00:01:18,193
+PART.1: Sí!. És un au? Vale
+
+21
+00:01:17,095 --> 00:01:31,830
+PART.2: Sí! Tenim el mateix? Vale. 
+És carnívor, bueno en plan rapinyaire d'aquests, o com es digui?
+
+22
+00:01:34,919 --> 00:01:51,462
+PART.1: Diria. diria molt, què no. o sigui carnívor, clar, sí, sí. 
+però es què, es què no es carnívor de carn terrestre.
+
+23
+00:01:52,071 --> 00:01:52,583
+PART.1: Ja!
+
+24
+00:01:53,272 --> 00:01:54,663
+PART.1: Bueno, sin hacer trampas.
+
+25
+00:01:54,806 --> 00:01:55,831
+PART.2: Vale.
+
+26
+00:01:54,926 --> 00:01:56,125
+PART.1: Vols canviar de pregunta o t'has aclarat?
+
+27
+00:01:56,269 --> 00:01:57,070
+PART.1: No! M'he aclarat.
+
+28
+00:01:59,213 --> 00:02:15,671
+PART.1: Vale, ara jo. És un ocell, per tant, 
+te plomes per això no te pèl, no té quatre potes, té dues potes. 
+Vale. És un color llamatiu? ¿Es de un color llamativo?
+

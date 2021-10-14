@@ -1,0 +1,63 @@
+﻿1
+00:00:00,000 --> 00:00:00,458
+SUPERVISOR: Potser ha caigut sota la taula,
+després la buscarem, no pateixis.
+
+2
+00:00:00,538 --> 00:00:02,578
+PART.2: La caseta serà aquesta.
+
+3
+00:00:02,658 --> 00:00:04,458
+SUPERVISOR: Si falta alguna peça…
+
+4
+00:00:04,538 --> 00:00:08,738
+PART.2: Aquesta. Després una de blanca,
+que pot ser aquesta. També.
+
+5
+00:00:12,098 --> 00:00:24,898
+PART.2: Aquesta no encaixa? Sí. Ja tenim les dues, vinga. Els dos.
+Ara què tenim? Una de quatre… vermella.
+
+6
+00:00:24,978 --> 00:00:28,458
+PART.2: Petita, una de quatre vermella.
+
+7
+00:00:28,538 --> 00:00:30,298
+PART.1: Aquí.
+
+8
+00:00:30,378 --> 00:00:34,178
+PART.2: Una de quatre vermella.
+
+9
+00:00:34,258 --> 00:00:38,138
+PART.2: Aquesta no és ben bé, però "bueno".
+
+10
+00:00:39,618 --> 00:00:42,098
+PART.2: Dos d'aquestes triangulars.
+
+11
+00:00:42,178 --> 00:00:44,458
+PART.1: De quin color?
+
+12
+00:00:44,538 --> 00:00:47,658
+PART.2: Vermell. Aquesta. Dues.
+
+13
+00:00:51,858 --> 00:00:55,658
+PART.2: Ei, ei, ei, no, que ens… Ja deia jo! Estàvem…
+
+14
+00:00:55,738 --> 00:00:59,538
+PART.2: A veure, fins aquí anàvem bé. Ara va aquesta.
+
+15
+00:00:59,618 --> 00:01:00,778
+PART.2: Veus? El tres.
+

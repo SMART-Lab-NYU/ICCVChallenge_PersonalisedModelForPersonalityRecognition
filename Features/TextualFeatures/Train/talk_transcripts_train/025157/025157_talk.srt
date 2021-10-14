@@ -1,0 +1,522 @@
+1
+00:00:00,000 --> 00:00:01,137
+PART.1: ¿Y qué vamos a hablar?
+
+2
+00:00:01,217 --> 00:00:02,217
+PART.2: No sé.
+
+3
+00:00:02,977 --> 00:00:04,097
+PART.1: Cuéntame un cuento.
+
+4
+00:00:04,177 --> 00:00:05,017
+PART.2: No me jodas.
+
+5
+00:00:05,097 --> 00:00:06,257
+PART.1: Anda, cuéntame uno...
+
+6
+00:00:06,337 --> 00:00:06,977
+PART.2: No.
+
+7
+00:00:07,057 --> 00:00:07,817
+PART.1: Te están grabando.
+
+8
+00:00:07,897 --> 00:00:08,657
+PART.2: Uy, es verdad.
+
+9
+00:00:08,737 --> 00:00:11,017
+PART.2: Cielo, pero no,
+habla conmigo cosas.
+
+10
+00:00:11,097 --> 00:00:12,777
+PART.1: Podía hablar algo, pero cuéntame
+un cuento.
+
+11
+00:00:12,977 --> 00:00:14,777
+PART.2: No quiero contarte un cuento.
+
+12
+00:00:14,857 --> 00:00:15,657
+PART.1: Cuéntame un cuento.
+
+13
+00:00:16,097 --> 00:00:18,297
+PART.2: No. Vamos a hablar sobre...
+
+14
+00:00:18,857 --> 00:00:20,617
+PART.1: La filosofía del más allá.
+
+15
+00:00:20,697 --> 00:00:23,897
+PART.2: Vamos a hablar de... Tengo
+hambre.
+
+16
+00:00:24,137 --> 00:00:26,497
+PART.1: No. Vamos a hablar de la física
+cuántica.
+
+17
+00:00:26,577 --> 00:00:28,417
+PART.2: Ah, bueno, hablamos de la física
+cuántica.
+
+18
+00:00:28,497 --> 00:00:30,097
+PART.1: Háblame tú, que yo no la conozco.
+
+19
+00:00:30,617 --> 00:00:31,697
+PART.2: Este...
+
+20
+00:00:33,817 --> 00:00:39,137
+PART.2: Cielo, no puede ser, con los
+extraños hablan y... ¿Qué hablaste
+tú con Juliana?
+
+21
+00:00:40,137 --> 00:00:41,337
+PART.1: ¿Juliana?
+
+22
+00:00:45,337 --> 00:00:47,457
+PART.1: Qué estábamos hablando Juliana y
+yo...
+
+23
+00:00:48,257 --> 00:00:52,417
+PART.1: Eso mismo, ¿qué vas a hacer?
+Que no sé qué...
+
+24
+00:00:53,657 --> 00:00:55,897
+PART.1: Con un extraño, ¿qué vas a
+hablar?
+
+25
+00:00:55,977 --> 00:00:58,897
+PART.2: Ay, no. Le pregunté a la chica...
+
+26
+00:00:58,977 --> 00:00:59,457
+PART.1: ¿Qué chica?
+
+27
+00:00:59,537 --> 00:01:01,897
+PART.2: Qué estaba estudiando, la vez
+pasada que vine.
+
+28
+00:01:02,457 --> 00:01:06,217
+PART.2: ¿Qué estaba
+estudiando? ¿Qué estaba haciendo?
+¿Cuántos años tenía?
+
+29
+00:01:06,297 --> 00:01:07,457
+PART.2: Claro que conversamos.
+
+30
+00:01:08,137 --> 00:01:10,017
+PART.1: ¿Y para qué le preguntaste todo
+eso, curiosa?
+
+31
+00:01:10,377 --> 00:01:12,137
+PART.2: Ella también me preguntó.
+
+32
+00:01:14,857 --> 00:01:18,337
+PART.2: No puede ser, chico, que no
+tengamos un tema de conversación.
+
+33
+00:01:18,417 --> 00:01:20,857
+PART.1: Sí. Te estoy diciendo que saques
+uno y me lo cuentas.
+
+34
+00:01:20,937 --> 00:01:22,137
+PART.2: De física cuántica no.
+
+35
+00:01:22,217 --> 00:01:24,977
+PART.1: Saca uno y me lo cuentas.
+
+36
+00:01:30,777 --> 00:01:36,617
+PART.2: Carlos Saúl, esto está siendo
+grabado y tú tienes cara de que te
+estás aburriendo aquí hablando
+conmigo.
+
+37
+00:01:39,457 --> 00:01:42,017
+PART.1: Bueno, la que viene a hablar eres
+tú.
+
+38
+00:01:42,097 --> 00:01:44,257
+PART.2: Ah, yo soy la que hablo.
+
+39
+00:01:44,337 --> 00:01:45,177
+PART.1: Yo soy el que escucha.
+
+40
+00:01:45,257 --> 00:01:47,177
+PART.2: Bueno, qué te puedo contar...
+
+41
+00:01:47,257 --> 00:01:48,257
+PART.1: Eso, cuéntame, cuéntame.
+
+42
+00:01:48,337 --> 00:01:49,577
+PART.2: Que tengo hambre...
+
+43
+00:01:50,457 --> 00:01:51,417
+PART.1: ¿Dónde vamos a comer?
+
+44
+00:01:51,497 --> 00:01:54,177
+PART.2: No sé. Cuando salgamos de
+aquí lo vemos.
+
+45
+00:01:54,657 --> 00:01:55,977
+PART.2: ¿Comemos aquí cerca?
+
+46
+00:01:56,057 --> 00:01:56,857
+PART.1: Cerca.
+
+47
+00:01:56,937 --> 00:01:58,137
+PART.2: Para no ir tan lejos.
+
+48
+00:01:58,697 --> 00:02:00,537
+PART.1: Coño, voy a estar dos horas aquí.
+
+49
+00:02:00,817 --> 00:02:01,777
+PART.2: ¿Qué?
+
+50
+00:02:01,857 --> 00:02:03,217
+PART.1: Vamos a estar dos horas por aquí.
+
+51
+00:02:03,577 --> 00:02:06,017
+PART.2: Ah, bueno, nos vamos a otro lado.
+
+52
+00:02:06,177 --> 00:02:07,417
+PART.1: ¿Tienes tiques?
+
+53
+00:02:07,617 --> 00:02:08,617
+PART.2: Sí.
+
+54
+00:02:08,697 --> 00:02:09,577
+PART.1: ¿Cuántos?
+
+55
+00:02:09,657 --> 00:02:10,657
+PART.2: Cuatro.
+
+56
+00:02:10,737 --> 00:02:11,897
+PART.1: ¡Cuatro!
+
+57
+00:02:14,417 --> 00:02:15,897
+PART.1: Tengo que ir al Splau.
+
+58
+00:02:16,977 --> 00:02:18,097
+PART.2: ¿Al Splau?
+
+59
+00:02:18,497 --> 00:02:20,617
+PART.1: Tengo que ir a buscar lo que te
+dije.
+
+60
+00:02:20,697 --> 00:02:25,697
+PART.2: Bueno, vamos ahorita al Splau y
+volvemos a las cuatro.
+
+61
+00:02:28,417 --> 00:02:30,377
+PART.2: De aquí hay como media hora.
+
+62
+00:02:31,297 --> 00:02:39,417
+PART.1: Nos vamos a Plaza España en bus
+y, después del bus, tomamos el
+ferrocarril hasta el Splau.
+
+63
+00:02:41,497 --> 00:02:43,017
+PART.2: Al Splau...
+
+64
+00:02:43,097 --> 00:02:45,057
+PART.1: Dejaste el teléfono abajo.
+
+65
+00:02:45,137 --> 00:02:47,257
+PART.1: Yo estaba agarrado
+al teléfono...
+
+66
+00:02:47,337 --> 00:02:48,337
+PART.2: No vale.
+
+67
+00:02:55,817 --> 00:02:57,497
+PART.1: Y estas grabaciones, ¿para quién
+es?
+
+68
+00:02:58,657 --> 00:03:03,217
+PART.2: Para la investigación que están
+haciendo.
+
+69
+00:03:03,657 --> 00:03:04,657
+PART.1: ¿Quiénes?
+
+70
+00:03:06,097 --> 00:03:08,737
+PART.2: Carlos, en la facultad de
+matemáticas.
+
+71
+00:03:11,457 --> 00:03:12,737
+PART.2: ¿No escuchaste el vídeo?
+
+72
+00:03:13,377 --> 00:03:15,097
+PART.1: Voy a venir a trabajar a la
+universidad.
+
+73
+00:03:16,457 --> 00:03:17,857
+PART.2: ¿Vas a venir a trabajar a la
+universidad?
+
+74
+00:03:17,937 --> 00:03:19,417
+PART.1: Voy a pedir trabajo aquí.
+
+75
+00:03:19,497 --> 00:03:20,777
+PART.2: Bueno, pide.
+
+76
+00:03:21,097 --> 00:03:25,377
+PART.1: Soy ingeniero mecánico y quiero
+trabajar en la universidad.
+
+77
+00:03:26,177 --> 00:03:29,737
+PART.1: Voy a ayudarles a estar mas
+relajados.
+
+78
+00:03:31,377 --> 00:03:34,377
+PART.1: Grábenme bien. Miren, miren.
+
+79
+00:03:34,537 --> 00:03:37,017
+PART.2: Pero si no te ven porque tienes
+la cara haciendo así.
+
+80
+00:03:37,217 --> 00:03:38,337
+PART.1: Ahora sí me conocen, mira.
+
+81
+00:03:39,577 --> 00:03:40,937
+PART.2: Pero ponte serio.
+
+82
+00:03:42,977 --> 00:03:48,417
+PART.1: Como si fueras a presentarte
+formalmente, háblame de ti.
+
+83
+00:03:51,817 --> 00:03:53,817
+PART.2: Tengo 42 años.
+
+84
+00:03:54,857 --> 00:03:56,297
+PART.2: Estoy casada.
+
+85
+00:03:57,817 --> 00:04:01,337
+PART.2: Tengo 42 años, claro que sí.
+
+86
+00:04:02,457 --> 00:04:04,777
+PART.2: Aparento menos, pero tengo 42.
+
+87
+00:04:08,217 --> 00:04:09,057
+PART.2: Estoy casada.
+
+88
+00:04:10,657 --> 00:04:11,657
+PART.2: Sí, contigo.
+
+89
+00:04:12,057 --> 00:04:13,097
+PART.1: ¿Y qué más?
+
+90
+00:04:14,177 --> 00:04:15,897
+PART.2: Que tengo mucha paciencia.
+
+91
+00:04:19,417 --> 00:04:20,417
+PART.1: ¿Y qué más?
+
+92
+00:04:21,417 --> 00:04:22,737
+PART.2: Tengo dos hijas.
+
+93
+00:04:22,817 --> 00:04:23,657
+PART.1: ¿Y qué más?
+
+94
+00:04:23,737 --> 00:04:24,817
+PART.2: Superlindas.
+
+95
+00:04:25,977 --> 00:04:27,017
+PART.1: Gracias a mí.
+
+96
+00:04:27,257 --> 00:04:29,697
+PART.2: Gracias a mí.
+
+97
+00:04:32,417 --> 00:04:34,177
+PART.2: No puedo ni reírme.
+
+98
+00:04:41,377 --> 00:04:42,977
+PART.2: Te estás riendo igual.
+
+99
+00:04:43,817 --> 00:04:45,217
+PART.1: Déjalo. Me estoy burlando de ti.
+
+100
+00:04:45,577 --> 00:04:47,177
+PART.2: Ah, ¿te estás burlando de mí?
+
+101
+00:04:47,257 --> 00:04:48,257
+PART.1: Mira.
+
+102
+00:04:48,337 --> 00:04:48,897
+PART.2: ¡Qué!
+
+103
+00:04:48,977 --> 00:04:49,697
+PART.1: ¿Dónde se ve aquí la...?
+
+104
+00:04:49,777 --> 00:04:52,617
+PART.2: Aquí se ve. Yo estoy en...
+
+105
+00:04:52,857 --> 00:04:54,377
+PART.1: Estás al día.
+
+106
+00:04:54,577 --> 00:05:00,137
+PART.2: Mira, yo estoy en... ¿Qué es
+esto? Mira, en 79.
+
+107
+00:05:00,217 --> 00:05:01,257
+PART.1: ¿Dónde, chica?
+
+108
+00:05:01,337 --> 00:05:02,337
+PART.2: El corazón.
+
+109
+00:05:04,537 --> 00:05:07,657
+PART.2: No, chico, aquí, aquí. Le das
+aquí...
+
+110
+00:05:11,377 --> 00:05:14,577
+PART.1: La flechita. ¿Y eso que hay...?
+
+111
+00:05:14,657 --> 00:05:15,817
+PART.2: ¿Cuánto dice que estás?
+
+112
+00:05:15,897 --> 00:05:17,417
+PART.1: No tengo.
+
+113
+00:05:22,457 --> 00:05:23,777
+PART.2: Porque estás en 67.
+
+114
+00:05:23,857 --> 00:05:25,577
+PART.1: Ah, porque estoy relajado.
+
+115
+00:05:25,657 --> 00:05:26,657
+PART.2: Yo estoy en...
+
+116
+00:05:26,737 --> 00:05:28,657
+PART.1: 79. Estás nerviosa.
+
+117
+00:05:29,377 --> 00:05:31,057
+PART.2: En... 77.
+
+118
+00:05:31,137 --> 00:05:32,337
+PART.1: No te pongas nerviosa.
+
+119
+00:05:33,177 --> 00:05:34,417
+PART.1: Y lo otro,
+¿qué es?
+
+120
+00:05:34,577 --> 00:05:35,617
+PART.2: No sé.
+
+121
+00:05:37,297 --> 00:05:38,297
+PART.1: El corazón.
+

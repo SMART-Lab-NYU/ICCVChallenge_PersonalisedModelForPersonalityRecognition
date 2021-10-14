@@ -1,0 +1,32 @@
+208
+00:08:00,461 --> 00:08:01,501
+PART.1: Estabas muy aburrido, ¿no?
+
+209
+00:08:01,821 --> 00:08:03,221
+PART.2: Bueno, estaba ahí con la...
+
+210
+00:08:03,021 --> 00:08:04,781
+PART.1: Porque Hugo sí que está de...
+
+211
+00:08:05,341 --> 00:08:07,221
+PART.2: Sí. Está trabajando aquí también.
+
+212
+00:08:08,261 --> 00:08:09,621
+PART.2: Estaba antes con la "Switch".
+
+213
+00:08:10,261 --> 00:08:10,901
+PART.2: La "Nintendo".
+
+214
+00:08:10,981 --> 00:08:11,541
+PART.1: Vale.
+
+215
+00:08:14,701 --> 00:08:15,261
+PART.2: Ya estamos.
+

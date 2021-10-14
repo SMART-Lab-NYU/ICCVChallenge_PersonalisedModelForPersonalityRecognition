@@ -1,0 +1,147 @@
+31
+00:01:00,552 --> 00:01:01,552
+PART.1: ¿Un txt?
+
+32
+00:01:01,632 --> 00:01:02,632
+PART.2: Sí.
+
+33
+00:01:02,152 --> 00:01:03,152
+PART.1: ¿Por?
+
+34
+00:01:03,232 --> 00:01:05,072
+PART.2: Para hacer una aplicación
+que te encadene autobuses.
+
+35
+00:01:06,072 --> 00:01:07,472
+PART.1: Pero ¿un txt?
+
+36
+00:01:07,552 --> 00:01:08,552
+PART.2: Sí.
+
+37
+00:01:08,632 --> 00:01:09,632
+PART.1: ¿Cómo haces la aplicación?
+
+38
+00:01:09,712 --> 00:01:11,312
+PART.1: ¿No te iría mejor
+un "json"?
+
+39
+00:01:11,392 --> 00:01:12,392
+PART.1: ¿O un xml?
+
+40
+00:01:12,992 --> 00:01:14,032
+PART.1: Para leerlo mejor.
+
+41
+00:01:14,112 --> 00:01:15,552
+PART.1: En verdad, daría bastante
+igual.
+
+42
+00:01:14,952 --> 00:01:15,992
+PART.2: Es posible que sí.
+
+43
+00:01:16,072 --> 00:01:18,352
+PART.1: No sé, es que el txt
+es demasiado primitivo.
+
+44
+00:01:18,432 --> 00:01:19,832
+PART.1: Y a lo mejor no te deja
+"seguir" cosas.
+
+45
+00:01:19,912 --> 00:01:21,232
+PART.2: No, si solo es leerlo,
+nada más.
+
+46
+00:01:21,312 --> 00:01:23,112
+PART.1: Pero solo las líneas de...
+
+47
+00:01:23,192 --> 00:01:24,272
+PART.1: Son solo los nombres
+de...
+
+48
+00:01:24,352 --> 00:01:26,192
+PART.2: No, por ejemplo,
+la línea esta.
+
+49
+00:01:26,272 --> 00:01:28,912
+PART.2: Por ejemplo, 104
+dirección...
+
+50
+00:01:28,992 --> 00:01:31,232
+PART.2: 104, barra baja, cc, oo.
+
+51
+00:01:31,872 --> 00:01:34,192
+PART.2: Y un igual y es una lista
+con números.
+
+52
+00:01:36,272 --> 00:01:38,152
+PART.1: Quizá un "json"...
+
+53
+00:01:38,232 --> 00:01:39,832
+PART.1: ¿Sabes lo que es el
+"json"?
+
+54
+00:01:39,032 --> 00:01:40,152
+PART.2: No, pero ahora sí.
+
+55
+00:01:40,232 --> 00:01:41,912
+PART.1: Es un buen momento
+para que te lo explique.
+
+56
+00:01:41,992 --> 00:01:42,992
+PART.1: Es como...
+
+57
+00:01:43,072 --> 00:01:44,352
+PART.1: Es el...
+
+58
+00:01:44,432 --> 00:01:50,592
+PART.1: Es un formato estándar
+de javascript que, simplemente, te
+codifica texto como si fuera un
+objeto.
+
+59
+00:01:50,672 --> 00:01:53,352
+PART.1: Entonces, tú puedes tener
+un objeto...
+
+60
+00:01:52,392 --> 00:01:53,392
+PART.2: Sí.
+
+61
+00:01:53,472 --> 00:01:57,952
+PART.1: ...puesto en texto,
+con variables en plan: título y el
+texto.
+
+62
+00:01:58,432 --> 00:02:01,152
+PART.1: Cantidades y números y
+tal. Y todo eso.
+

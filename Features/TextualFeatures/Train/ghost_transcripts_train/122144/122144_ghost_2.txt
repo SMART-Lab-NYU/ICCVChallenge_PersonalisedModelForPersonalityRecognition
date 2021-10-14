@@ -1,0 +1,50 @@
+41
+00:02:01,297 --> 00:02:02,577
+PART.1: Cinco y seis. Por una.
+
+42
+00:02:02,657 --> 00:02:03,577
+PART.1: Si quieres revancha.
+
+43
+00:02:03,657 --> 00:02:04,737
+PART.2: Okey. Perfecto.
+
+44
+00:02:05,657 --> 00:02:07,337
+PART.1: Las mezclamos para que no salgan
+igual.
+
+45
+00:02:10,977 --> 00:02:11,777
+PART.1: Vale.
+
+46
+00:02:11,857 --> 00:02:13,097
+PART.2: Es interesante este juego.
+
+47
+00:02:18,737 --> 00:02:19,617
+PART.2: Ese no es.
+
+48
+00:02:19,097 --> 00:02:20,137
+PART.1: ¿Es azul o es...?
+
+49
+00:02:20,617 --> 00:02:22,017
+PART.2: Falta el azul, ¿no?
+
+50
+00:02:23,097 --> 00:02:24,297
+PART.2: Ratón verde.
+
+51
+00:02:24,817 --> 00:02:25,577
+PART.1: Ah, vale.
+
+52
+00:02:25,657 --> 00:02:27,137
+PART.1: Entonces, el ratón no.
+Sí, es el rojo.
+

@@ -1,0 +1,152 @@
+﻿1
+00:00:03,404 --> 00:00:03,904
+PART.1: Vale.
+
+2
+00:00:03,987 --> 00:00:04,487
+PART.2: Vale.
+
+3
+00:00:04,570 --> 00:00:06,237
+PART.1: Eh...
+Sí, empieza sacando tu.
+
+4
+00:00:06,487 --> 00:00:07,487
+PART.2: Vale.
+
+5
+00:00:07,529 --> 00:00:09,154
+PART.2: El... a ver.
+
+6
+00:00:09,570 --> 00:00:11,362
+PART.2: Eh...
+
+7
+00:00:15,279 --> 00:00:16,279
+PART.1: Eh...
+
+8
+00:00:20,487 --> 00:00:21,487
+PART.1: No.
+
+9
+00:00:21,612 --> 00:00:22,987
+PART.2: No, si blanco hay.
+
+10
+00:00:23,237 --> 00:00:24,362
+PART.1: No, mamá, es...
+
+11
+00:00:24,529 --> 00:00:26,279
+PART.1: Si te encuentras al...
+
+12
+00:00:26,362 --> 00:00:27,529
+PART.1: Las cosas que coinciden,
+
+13
+00:00:27,612 --> 00:00:28,737
+PART.1: coges la...
+
+14
+00:00:28,904 --> 00:00:30,362
+PART.1: O sea, el fantasma es
+blanco.
+
+15
+00:00:31,154 --> 00:00:32,487
+PART.2: Ah, vale.
+
+16
+00:00:32,570 --> 00:00:33,695
+PART.1: No, porque ya me está...
+
+17
+00:00:33,779 --> 00:00:35,154
+PART.1: Ya estaba buscando eso,
+pero...
+
+18
+00:00:35,237 --> 00:00:35,695
+PART.2: Ah, vale, vale.
+
+19
+00:00:35,779 --> 00:00:37,570
+PART.1: Si encuentras algo
+que coincide tienes que cogerlo.
+
+20
+00:00:36,737 --> 00:00:38,820
+PART.2: Ah, si, sí, sí, era...
+
+21
+00:00:39,529 --> 00:00:40,529
+PART.2: Vale.
+
+22
+00:00:40,612 --> 00:00:41,945
+PART.1: Claro,
+porque si no hay...
+
+23
+00:00:41,195 --> 00:00:41,987
+PART.2: Ahora te toca a ti.
+
+24
+00:00:42,070 --> 00:00:43,612
+PART.1: Mira,
+es que si pasa esto,
+
+25
+00:00:43,695 --> 00:00:45,487
+PART.1: habría dos opciones,
+que yo iba a coger la botella.
+
+26
+00:00:45,570 --> 00:00:46,362
+PART.2: Sí.
+
+27
+00:00:46,695 --> 00:00:48,362
+PART.1: Y luego está este
+que es el de...
+
+28
+00:00:48,445 --> 00:00:49,570
+PART.1: que esta es la solución.
+
+29
+00:00:49,654 --> 00:00:51,820
+PART.2: Sí, sí, sí, sí, sí.
+Sí, sí, venga.
+
+30
+00:00:51,904 --> 00:00:52,445
+PART.1: Vale.
+
+31
+00:00:52,529 --> 00:00:53,445
+PART.2: Ya sé que... Ya.
+
+32
+00:00:53,570 --> 00:00:56,237
+PART.2: Ahora... el libro...
+Vale.
+
+33
+00:00:56,320 --> 00:00:57,029
+PART.1: Vale.
+
+34
+00:00:57,112 --> 00:00:58,612
+PART.2: Que no...
+Ahora sí que es el que no coincide.
+
+35
+00:00:58,695 --> 00:01:00,445
+PART.2: No coincide, entonces,
+sí, la botella.
+

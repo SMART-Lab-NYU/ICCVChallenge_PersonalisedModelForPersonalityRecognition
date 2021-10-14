@@ -1,0 +1,787 @@
+1
+00:00:01,892 --> 00:00:03,492
+PART.2:  ¿Cómo te llamabas? ¿Bárbara?
+
+2
+00:00:03,572 --> 00:00:04,332
+PART.1: PERSONA A: Bárbara, ¿y tú?
+
+3
+00:00:04,412 --> 00:00:04,932
+PART.2:  Minerva.
+
+4
+00:00:05,012 --> 00:00:06,532
+PART.1: Minerva, muy bien.
+
+5
+00:00:06,612 --> 00:00:08,012
+PART.1: ¿Y qué haces?
+
+6
+00:00:08,092 --> 00:00:09,092
+PART.2:  ¿Qué hago?
+
+7
+00:00:09,172 --> 00:00:10,412
+PART.2:  ¿Qué hago, a qué me dedico?
+
+8
+00:00:10,492 --> 00:00:11,212
+PART.1: Ajá.
+
+9
+00:00:11,292 --> 00:00:12,132
+PART.2:  Soy psicóloga.
+
+10
+00:00:12,212 --> 00:00:13,212
+PART.1: ¿En serio?
+
+11
+00:00:13,292 --> 00:00:14,652
+PART.2:  Sí, ¿tú qué haces?
+
+12
+00:00:14,732 --> 00:00:15,532
+PART.1: Enfermera.
+
+13
+00:00:15,612 --> 00:00:16,372
+PART.2:  Enfermera.
+
+14
+00:00:16,452 --> 00:00:29,932
+PART.2:  Soy psicóloga, pero ahora no
+trabajo como psicóloga,
+trabajé hasta enero,
+me dejé el curro,
+y luego me di como unos mesecitos de
+estar parada y ahora me estoy dando
+un tiempo para hacer algo diferente
+a lo que he hecho siempre.
+
+15
+00:00:30,012 --> 00:00:32,092
+PART.2:  Llevo un mes trabajando de
+camarera.
+
+16
+00:00:32,172 --> 00:00:33,012
+PART.1: Ya.
+
+17
+00:00:33,092 --> 00:00:44,892
+PART.2:  y pretendo estar así como un añito
+porque estoy haciendo una formación
+paralela, es decir, hice la carrera,
+hice el máster, me puse a currar,
+y ahora me he metido en una
+formación superconcreta de
+psicología.
+
+18
+00:00:44,972 --> 00:00:45,812
+PART.1: ¿De qué?
+
+19
+00:00:45,892 --> 00:00:47,172
+PART.2:  Gestalt.
+
+20
+00:00:47,252 --> 00:00:47,972
+PART.2:  No sé si lo conoces.
+
+21
+00:00:48,052 --> 00:00:48,412
+PART.1: Sí.
+
+22
+00:00:48,492 --> 00:00:48,812
+PART.2:  ¿Lo conoces?
+
+23
+00:00:48,892 --> 00:00:49,372
+PART.1: Sí.
+
+24
+00:00:49,452 --> 00:00:53,652
+PART.2:  Pues estoy haciendo la formación
+para ser terapeuta Gestalt
+y acabo el año que viene.
+
+25
+00:00:53,732 --> 00:00:56,892
+PART.2:  Y entonces me he querido dar como
+un tiempo porque...
+
+26
+00:00:56,972 --> 00:00:59,852
+PART.1: ¿En eso también hacen como lo de
+las constelaciones...?
+
+27
+00:00:59,932 --> 00:01:07,972
+PART.2:  Está superligado, sí,
+está súper es, constelaciones
+digamos que es otra rama, pero está
+dentro de la psicología humanista,
+que es esto, la Gestalt.
+
+28
+00:01:01,972 --> 00:01:02,732
+PART.1: Sí.
+
+29
+00:01:07,212 --> 00:01:08,092
+PART.1: Sí.
+
+30
+00:01:08,172 --> 00:01:15,772
+PART.2:  Y eso, básicamente, cuando estaba
+trabajando como psico también estaba
+haciendo la formación y se me estaba
+haciendo superabrumador porque
+era toda...
+
+31
+00:01:15,852 --> 00:01:17,772
+PART.1: ¿Y eras psicóloga clínica?
+
+32
+00:01:17,852 --> 00:01:18,092
+PART.2:  Sí.
+
+33
+00:01:18,172 --> 00:01:18,652
+PART.1: Ah, ya.
+
+34
+00:01:18,732 --> 00:01:19,692
+PART.2:  Sí, clínica.
+
+35
+00:01:19,772 --> 00:01:24,532
+PART.2:  Y nada, y eso, ahora mismo me
+dedico a sobrevivir.
+
+36
+00:01:24,612 --> 00:01:25,772
+PART.1: Totalmente diferente.
+
+37
+00:01:25,852 --> 00:01:26,972
+PART.2:  A seguir con mes.
+
+38
+00:01:27,052 --> 00:01:27,812
+PART.2:  Sí.
+
+39
+00:01:27,892 --> 00:01:29,572
+PART.1: ¿Y vives acá en Barcelona toda la
+vida?
+
+40
+00:01:29,652 --> 00:01:32,252
+PART.2:  No, no, soy valenciana,
+soy valenciana.
+
+41
+00:01:31,692 --> 00:01:32,252
+PART.1: Ya.
+
+42
+00:01:32,332 --> 00:01:33,212
+PART.2:  ¿Y tú qué?
+
+43
+00:01:33,292 --> 00:01:34,252
+PART.2:  Cuéntame, ¿tú de dónde
+eres?
+
+44
+00:01:34,332 --> 00:01:35,212
+PART.1: Yo soy de Chile.
+
+45
+00:01:35,292 --> 00:01:35,932
+PART.2:  De Chile.
+
+46
+00:01:36,012 --> 00:01:36,612
+PART.1: Sí.
+
+47
+00:01:36,692 --> 00:01:45,252
+PART.1: Me vine a estudiar un máster de
+enfermería y quirúrgica en la "UEP",
+y ya terminó mi máster y postulé a
+otro máster para ver si lo puedo
+estudiar.
+
+48
+00:01:45,332 --> 00:01:47,132
+PART.2:  ¿Otro? ¿No te has cansado?
+
+49
+00:01:47,212 --> 00:01:47,812
+PART.1: No.
+
+50
+00:01:47,892 --> 00:01:48,572
+PART.2:  Dios.
+
+51
+00:01:48,652 --> 00:01:52,252
+PART.1: Es que me vine solamente a
+estudiar el máster, entonces para mí
+eran dos días a la semana.
+
+52
+00:01:52,332 --> 00:01:54,692
+PART.2:  Dos días? Superpoquito.
+
+53
+00:01:54,772 --> 00:01:57,892
+PART.1: Dos días, lunes y miércoles de
+cuatro a ocho.
+
+54
+00:01:57,972 --> 00:02:00,052
+PART.2:  ¿Pero cómo era tan flojo el máster
+este?
+
+55
+00:02:00,132 --> 00:02:01,292
+PART.1: Eso las clases teóricas.
+
+56
+00:02:01,292 --> 00:02:02,292
+PART.2:  Ah, vale.
+
+57
+00:02:01,372 --> 00:02:05,972
+PART.1: Y las prácticas tuve un mes es
+septiembre, y después tuve un mes y
+medio en enero y febrero.
+
+58
+00:02:06,452 --> 00:02:08,052
+PART.1: Entonces...
+
+59
+00:02:08,132 --> 00:02:10,372
+PART.2:  ¿Pero era un máster oficial o era
+propio?
+
+60
+00:02:11,412 --> 00:02:12,892
+PART.2:  Máster propio.
+
+61
+00:02:12,972 --> 00:02:13,732
+PART.1: Sí, de la VM.
+
+62
+00:02:13,572 --> 00:02:14,252
+PART.2:  Vale.
+
+63
+00:02:14,332 --> 00:02:18,692
+PART.1: Y el resto, los fines de semana
+trabajaba.
+
+64
+00:02:18,772 --> 00:02:21,372
+PART.1: Empecé en una tienda de zapatos
+que se llamaba Gokuga,
+
+65
+00:02:21,452 --> 00:02:24,332
+PART.2:  Ah, trabajaste en una tienda de
+zapatos.
+
+66
+00:02:24,412 --> 00:02:28,972
+PART.1: Sí, trabajé en una tienda de
+zapatos los fines de semana,
+como, no sé, como seis meses.
+
+67
+00:02:29,052 --> 00:02:34,812
+PART.1: Luego estuve un mes sin trabajar
+y luego trabajé de recepcionista en
+un gimnasio, en el Metropolitan.
+
+68
+00:02:34,892 --> 00:02:37,812
+PART.1: Después, como se me acabó el "MIE"
+me dieron de baja.
+
+69
+00:02:37,892 --> 00:02:44,452
+PART.1: Fui a hablar con mi
+jefa, le dije que me vencía el "MIE"
+y que no podía renovar,
+en teoría me iba a volver a Chile y
+toda la cuestión.
+
+70
+00:02:44,532 --> 00:02:50,172
+PART.1: Al final, como que convencí a mi
+"amá", y le dije que no quería irme,
+que de verdad me quería quedar.
+
+71
+00:02:50,252 --> 00:02:51,932
+PART.2:  Que aún no...
+
+72
+00:02:52,012 --> 00:02:54,652
+PART.1: Exacto, dije: "Mamá, yo no...".
+Ay.
+
+73
+00:02:54,732 --> 00:02:55,772
+PART.1: Siento que me pica algo.
+
+74
+00:02:55,852 --> 00:02:57,412
+PART.1: Ay, este cable.
+
+75
+00:02:57,492 --> 00:02:59,812
+PART.2:  Ay, digo: "Mierda, ¿qué hay
+aquí?".
+
+76
+00:03:00,492 --> 00:03:05,572
+PART.1: Y eso, le dije a mi "amá" que no
+me quiero ir, que quiero esperar la
+homologación de enfermería acá.
+
+77
+00:03:05,652 --> 00:03:08,052
+PART.1: No tengo ganas de marcharme
+todavía, no quiero.
+
+78
+00:03:08,132 --> 00:03:09,452
+PART.1: No quiero, no quiero.
+
+79
+00:03:09,532 --> 00:03:11,052
+PART.1: Me dijo: "Ya, ¿pero qué va s a
+hacer?".
+
+80
+00:03:11,132 --> 00:03:13,092
+PART.1: Le dije: "Me queda un poco de
+plata ahorrada".
+
+81
+00:03:13,172 --> 00:03:19,372
+PART.1: Porque yo me vine, yo renuncié a
+mi mi trabajo en Chile,
+vendí un montón de cosas para irme a
+estudiar el máster porque yo me lo
+pagué.
+
+82
+00:03:19,452 --> 00:03:20,532
+PART.1: Todo me lo pagué yo.
+
+83
+00:03:20,052 --> 00:03:21,212
+PART.2:  Te lo pagaste tú.
+
+84
+00:03:21,292 --> 00:03:21,852
+PART.2:  Ostras.
+
+85
+00:03:21,932 --> 00:03:22,652
+PART.1: Todo.
+
+86
+00:03:22,732 --> 00:03:25,652
+PART.1: Y no le he pedido plata a mis
+papás porque no quiero ser un gasto.
+
+87
+00:03:25,732 --> 00:03:27,212
+PART.1: Le dije: "Mamá, quiero quedarme
+otro año".
+
+88
+00:03:27,292 --> 00:03:28,012
+PART.2:  ¿Un "gachto"?
+
+89
+00:03:28,092 --> 00:03:30,332
+PART.1: Un gasto es como una carga.
+
+90
+00:03:30,412 --> 00:03:31,492
+PART.2:  Una carga, un "gachto".
+
+91
+00:03:31,572 --> 00:03:32,172
+PART.1: Sí.
+
+92
+00:03:32,252 --> 00:03:42,612
+PART.1: Entonces le dije que si me podía
+hacer una carta que ella va a ser mi
+aval durante toda mi estancia en
+España, y me vine a estudiar el máster
+para poder postular a la renovación
+del NIE.
+
+93
+00:03:42,692 --> 00:03:44,732
+PART.1: Y tengo los papeles del mes
+pasado.
+
+94
+00:03:44,212 --> 00:03:45,372
+PART.2:  Qué lío lo del NIE, ¿eh?
+
+95
+00:03:45,452 --> 00:03:46,252
+PART.1: Es un hueveo.
+
+96
+00:03:46,332 --> 00:03:47,412
+PART.2:  Ay, Dios.
+
+97
+00:03:47,492 --> 00:03:50,332
+PART.2:  Es que se dice pronto: "Me quedo
+un año más".
+
+98
+00:03:50,412 --> 00:03:53,652
+PART.2:  Pero toda la movida legal que
+implica eso.
+
+99
+00:03:53,732 --> 00:03:54,972
+PART.1: Se demora mucho.
+
+100
+00:03:55,052 --> 00:03:57,892
+PART.1: Así que aquí estoy, esperando a
+ver si me aceptaron los papeles.
+
+101
+00:03:57,972 --> 00:03:59,812
+PART.2:  Ahora estamos así, entonces.
+
+102
+00:03:59,892 --> 00:04:01,572
+PART.1: Sí, "porque los dejé" el viernes
+pasado.
+
+103
+00:04:01,652 --> 00:04:07,252
+PART.1: Mandé un correo ayer, así como:
+"¿Se sabe mi resolución del NIE?".
+
+104
+00:04:07,332 --> 00:04:08,332
+PART.1: Y eso.
+
+105
+00:04:08,412 --> 00:04:10,932
+PART.2:  Ostras, entonces llevas un añito.
+
+106
+00:04:11,012 --> 00:04:13,452
+PART.1: Sí, sí, porque me vine el año
+pasado en agosto.
+
+107
+00:04:13,532 --> 00:04:15,572
+PART.2:  Muy bien, ¿y por dónde vives?
+
+108
+00:04:15,652 --> 00:04:16,532
+PART.1: En Sans.
+
+109
+00:04:16,612 --> 00:04:17,332
+PART.2:  ¿En Sans?
+
+110
+00:04:17,172 --> 00:04:17,612
+PART.1: Sí.
+
+111
+00:04:17,692 --> 00:04:18,372
+PART.1: Qué buena zona.
+
+112
+00:04:18,452 --> 00:04:18,932
+PART.1: Sí.
+
+113
+00:04:19,012 --> 00:04:20,972
+PART.2:  Es una de las zonas más chulas.
+
+114
+00:04:21,052 --> 00:04:23,252
+PART.1: Me encanta Sans,
+está superbien ubicado.
+
+115
+00:04:23,332 --> 00:04:26,852
+PART.2:  Está muy bien ubicado y es como
+bastante, me parece, ¿eh?
+
+116
+00:04:26,932 --> 00:04:31,572
+PART.2:  Me parece que es un barrio que no
+es tan turístico, pero es bastante
+local.
+
+117
+00:04:31,652 --> 00:04:32,372
+PART.1: Sí.
+
+118
+00:04:32,452 --> 00:04:33,972
+PART.2:  Entontes tiene como su cosa
+bonita.
+
+119
+00:04:34,532 --> 00:04:35,132
+PART.2:  Muy bien.
+
+120
+00:04:35,212 --> 00:04:40,852
+PART.2:  Yo llevo, llevo dos añitos y
+medio, me vine, como tú, para hacer
+un...
+
+121
+00:04:40,932 --> 00:04:46,532
+PART.2:  Es que claro, yo pegué un giro ahí
+superloco, porque hice la carrera
+en...
+
+122
+00:04:46,612 --> 00:04:49,572
+PART.2:  Yo soy valenciana, entonces hice
+la carrera ahí en Valencia,
+bueno, en Castellón.
+
+123
+00:04:49,652 --> 00:04:50,412
+PART.1: Ajá.
+
+124
+00:04:50,492 --> 00:04:59,252
+PART.2:  Y me vine para hacer un máster, y
+el máster era de "Investigación
+aplicada en la psicología clínica".
+
+125
+00:04:59,332 --> 00:05:01,372
+PART.2:  En plan de investigación.
+
+126
+00:05:00,252 --> 00:05:01,012
+PART.1: En plan.
+
+127
+00:05:01,812 --> 00:05:05,812
+PART.2:  Eh, y quería meterme en el
+doctorado y tal, no sé qué.
+
+128
+00:05:05,892 --> 00:05:13,812
+PART.2:  Lo que pasa que me di cuenta que
+aquello no era para mí porque,
+no sé, despertaba rasgos de mí
+que no me gustaban.
+
+129
+00:05:13,892 --> 00:05:24,772
+PART.2:  Me ponía muy competitiva,
+me ponía en un plano
+supermegaresponsable,
+supermetida en el tema académico,
+dejé superdelado mi vida personal...
+
+130
+00:05:24,852 --> 00:05:26,252
+PART.2:  No sé, era como que...
+
+131
+00:05:26,332 --> 00:05:27,852
+PART.1: ¿Te obsesionaste con lo que ibas a
+estudiar?
+
+132
+00:05:27,932 --> 00:05:35,412
+PART.2:  No es que me obsesioné, sino que
+me metí en un departamento que era
+muy potente, y "fagorgitaba"
+totalmente mi vida, era...
+
+133
+00:05:35,492 --> 00:05:39,372
+PART.2:  Que, realmente, cuando hablo con
+Javi lo veo igual,
+lo que pasa que también lo
+gestionamos diferente.
+
+134
+00:05:39,452 --> 00:05:42,012
+PART.2:  A mí me estresaba muchísimo, lo
+pasé muy mal.
+
+135
+00:05:42,452 --> 00:05:50,012
+PART.2:  Y entonces, iba a hacer el
+doctorado y tal, me becaron,
+y dije: "No quiero".
+
+136
+00:05:50,092 --> 00:05:52,852
+PART.2:  "No quiero porque no quiero estar
+cuatro años más aquí".
+
+137
+00:05:52,932 --> 00:05:56,052
+PART.2:  "Es que hay una parte de mí que
+siento que estoy como anulando".
+
+138
+00:05:56,132 --> 00:06:04,292
+PART.2:  Entonces acabé el máster ya,
+dije que no al doctorado,
+me volví a mi ciudad,
+y me salió curro aquí, en Barcelona.
+
+139
+00:06:04,372 --> 00:06:05,372
+PART.2:  Y dije: "Uy".
+
+140
+00:06:05,452 --> 00:06:15,532
+PART.2:  Entonces me volví y estuve eso, un
+añito y medio trabajando,
+y eso, y ya luego me metí en la
+formación Gestalt,
+y es superguay.
+
+141
+00:06:15,612 --> 00:06:17,292
+PART.1: ¿Y cuánto dura la formación
+Gestalt?
+
+142
+00:06:17,372 --> 00:06:18,292
+PART.2:  Tres años.
+
+143
+00:06:18,372 --> 00:06:20,132
+PART.2:  Tres años, voy por el segundo.
+
+144
+00:06:20,212 --> 00:06:21,572
+PART.2:  sí, sí.
+
+145
+00:06:22,852 --> 00:06:33,532
+PART.2:  Sí, la verdad es que estoy
+contenta con el giro, es decir, el
+tema de la investigación y todo eso,
+me gusta mucho, pero siento que no
+va conmigo, realmente.
+
+146
+00:06:33,612 --> 00:06:34,892
+PART.2:  Siento.
+
+147
+00:06:34,972 --> 00:06:40,732
+PART.2:  Conforme, lo que estoy haciendo
+ahora, pues, no sé, me hace más
+feliz, la verdad que sí.
+
+148
+00:06:42,732 --> 00:06:43,732
+PART.1: Está bien.
+
+149
+00:06:43,812 --> 00:06:47,172
+PART.1: Es bueno tener este tipo de giro y
+cambio en la vida.
+
+150
+00:06:47,252 --> 00:06:57,172
+PART.1: Yo dije, bueno, igual lo estaba
+pasando mal en el último tiempo en
+mi trabajo, y dije: "Tengo 27 años,
+no estoy para estar pasándolo mal
+a esta edad".
+
+151
+00:06:57,252 --> 00:06:58,892
+PART.1: Así como, y dije: "Chao".
+
+152
+00:06:58,972 --> 00:07:04,092
+PART.1: Voy a postular al máster, que lo
+tenía visto ese tiempo
+y era mi objetivo, y dije: "Voy a
+postular y me vengo".
+
+153
+00:07:04,172 --> 00:07:06,132
+PART.2:  Cirugía quiropráctica, ¿has dicho?
+
+154
+00:07:06,212 --> 00:07:06,812
+PART.1: No, no.
+
+155
+00:07:06,892 --> 00:07:08,612
+PART.1: Máster de enfermería y quirúrgica
+
+156
+00:07:08,692 --> 00:07:09,212
+PART.2:  Quirúrgica.
+
+157
+00:07:09,292 --> 00:07:09,932
+PART.2:  ¿Y esto?
+
+158
+00:07:09,412 --> 00:07:10,772
+PART.1: Para trabajar en quirófano.
+
+159
+00:07:10,852 --> 00:07:11,612
+PART.2:  Ah.
+
+160
+00:07:11,692 --> 00:07:12,812
+PART.1: Enfermera de quirófano.
+
+161
+00:07:12,892 --> 00:07:14,812
+PART.2:  Ostras, acción, ¿eh?
+
+162
+00:07:15,772 --> 00:07:16,732
+PART.1: Sí.
+
+163
+00:07:17,452 --> 00:07:18,452
+SUPERVISOR: Vale.
+

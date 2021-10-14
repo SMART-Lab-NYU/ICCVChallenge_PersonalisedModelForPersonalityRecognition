@@ -1,0 +1,28 @@
+49
+00:05:09,551 --> 00:05:21,151
+PART.2: Le estoy pasando muchos ejemplos de
+estos adversos para poder tener una
+variable aleatoria y construir todos
+los espacios, ¿no?
+
+50
+00:05:21,231 --> 00:05:26,231
+PART.2: No soy capaz de decirte lo que está
+pasando solo con un ejemplo. Estoy
+pasando muchos, pero repasamos
+ejemplos y... Perdón.
+
+51
+00:05:39,431 --> 00:05:57,671
+PART.2: Y contamos los huecos de la red
+mientras pasan todos los ejemplos
+estos. La cosa es que cuando pasas
+ejemplos adversos, de nuevo las
+cavidades colapsan.
+
+52
+00:05:59,031 --> 00:06:11,951
+PART.2: La manera de activarse, en la
+red, no es en la dirección de una
+red que está haciendo algo útil.
+

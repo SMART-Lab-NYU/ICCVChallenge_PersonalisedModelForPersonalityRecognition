@@ -1,0 +1,68 @@
+25
+00:01:05,329 --> 00:01:07,279
+PART.1: Hay verde, gris...
+
+26
+00:01:07,279 --> 00:01:08,449
+PART.2: Libro y fantasma.
+
+27
+00:01:08,199 --> 00:01:09,249
+PART.1: Libro y fantasma.
+
+28
+00:01:10,249 --> 00:01:13,349
+PART.2: Ahora te toca a ti, es que las ha puesto todas al revés.
+
+29
+00:01:18,329 --> 00:01:19,929
+PART.2: No se por qué he cogido esto.
+
+30
+00:01:18,549 --> 00:01:21,899
+PART.1: Mm... no, claro.
+
+31
+00:01:23,749 --> 00:01:24,779
+PART.2: Este es el que sí.
+
+32
+00:01:25,829 --> 00:01:26,779
+PART.1: Te toca.
+
+33
+00:01:32,029 --> 00:01:32,979
+PART.2: ¿Quién ha sido?
+
+34
+00:01:36,229 --> 00:01:37,379
+PART.1: No sé.
+
+35
+00:01:38,329 --> 00:01:39,479
+PART.2: Va, dámela para mí.
+
+36
+00:01:39,479 --> 00:01:40,599
+PART.1: Venga, va.
+
+37
+00:01:45,829 --> 00:01:46,729
+PART.1: Sí, ¿no?
+
+38
+00:01:46,729 --> 00:01:50,429
+PART.1: Azul, fantasma, sillón, verde.
+
+39
+00:01:47,929 --> 00:01:50,179
+PART.2: Fantasma... sí.
+
+40
+00:01:51,629 --> 00:01:52,529
+PART.2: ¿Me toca?
+
+41
+00:01:56,629 --> 00:01:58,749
+PART.2: Es que parece un ratón el tío este.
+

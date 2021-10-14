@@ -1,0 +1,276 @@
+﻿1
+00:00:00,000 --> 00:00:00,405
+PART.1: Vale, va... preparat?
+
+2
+00:00:00,508 --> 00:00:01,513
+PART.2: Sí, sí.
+
+3
+00:00:05,492 --> 00:00:06,552
+PART.2: Oh, no.
+
+4
+00:00:06,553 --> 00:00:08,553
+PART.1: Yuju!
+
+5
+00:00:08,764 --> 00:00:12,105
+PART.1: ...t'he vist tan convençut.
+
+6
+00:00:12,117 --> 00:00:14,825
+PART.2: Ja, és que començo a estar molt cansat, tio, avui.
+
+7
+00:00:15,431 --> 00:00:16,452
+PART.1: Vale!
+
+8
+00:00:17,549 --> 00:00:19,203
+PART.2: T'ha passat lo mateix.
+
+9
+00:00:21,524 --> 00:00:22,980
+PART.1: Jo vaig agafant sempre el llibre i…
+
+10
+00:00:22,981 --> 00:00:24,781
+PART.2: Sí, no? I al final…
+
+11
+00:00:25,521 --> 00:00:26,589
+PART.2: Oh!
+
+12
+00:00:27,175 --> 00:00:28,879
+PART.2: Hi ha la proximitat…
+
+13
+00:00:29,425 --> 00:00:30,632
+PART.2: Et toca a tu, no, treure?
+
+14
+00:00:32,248 --> 00:00:33,809
+PART.1: Ah, puta!
+
+15
+00:00:34,516 --> 00:00:38,009
+PART.2:  És que ara passarà un que será l'objecte i els dos pillarem algo…
+
+16
+00:00:38,080 --> 00:00:39,148
+PART.1: Tu.
+
+17
+00:00:40,749 --> 00:00:42,349
+PART.1: Sí, no?
+
+18
+00:00:42,417 --> 00:00:44,078
+PART.2: Sí, sí… no, sí, el llibre.
+
+19
+00:00:44,084 --> 00:00:45,121
+PART.1: No!
+
+20
+00:00:45,203 --> 00:00:46,292
+PART.2: Ah, hòstia, no.
+
+21
+00:00:46,308 --> 00:00:48,281
+PART.1: Igual alguna l'hem fet ja també malament.
+
+22
+00:00:48,383 --> 00:00:49,385
+PART.2: No sé si…
+
+23
+00:00:49,532 --> 00:00:50,292
+PART.1: Però, bueno…
+
+24
+00:00:50,357 --> 00:00:51,444
+PART.2: Ara et toca a tu, crec.
+
+25
+00:00:53,756 --> 00:00:54,817
+PART.1: No.
+
+26
+00:00:56,741 --> 00:00:57,733
+PART.2: Sí.
+
+27
+00:00:59,728 --> 00:01:00,781
+PART.1: Tu.
+
+28
+00:01:00,816 --> 00:01:04,049
+PART.2: No, tu, bueno, tant és... aquí.
+
+29
+00:01:04,872 --> 00:01:06,265
+PART.1: Ah, molt bé!
+
+30
+00:01:06,991 --> 00:01:10,265
+PART.2: Un encara que et guanyo no me'l robis.
+
+31
+00:01:12,697 --> 00:01:14,928
+PART.1: Ah, joder, merda!
+
+32
+00:01:15,872 --> 00:01:17,213
+PART.1: Subnormals!
+
+33
+00:01:17,537 --> 00:01:19,608
+PART.2: És que ara ja no ho mires.
+
+34
+00:01:21,662 --> 00:01:23,942
+PART.2: Sí, sí!
+
+35
+00:01:21,676 --> 00:01:22,740
+PART.1: Jo apuro…
+
+36
+00:01:23,957 --> 00:01:25,401
+PART.1: És que si no has de...
+
+37
+00:01:28,503 --> 00:01:29,503
+PART.1: Sí, no?
+
+38
+00:01:29,543 --> 00:01:31,023
+PART.2: Sí, sí, està bé.
+
+39
+00:01:31,101 --> 00:01:32,189
+PART.1: Estic en ratxa.
+
+40
+00:01:32,268 --> 00:01:33,325
+PART.2: Sí, sí.
+
+41
+00:01:33,397 --> 00:01:34,472
+PART.2: O sigui, puc fer...
+
+42
+00:01:35,173 --> 00:01:36,273
+PART.2: No.
+
+43
+00:01:37,216 --> 00:01:38,500
+PART.1: Vale.
+
+44
+00:01:38,555 --> 00:01:40,112
+PART.2: Això en principi seria per tu...
+
+45
+00:01:40,380 --> 00:01:43,969
+PART.1: No, ha dit que agafar un contrari, només dóna temps l'altre... no invalida.
+
+46
+00:01:44,001 --> 00:01:45,012
+PART.2: Ah!
+
+47
+00:01:46,181 --> 00:01:47,724
+PART.1: Lo millor és agafar uno...
+
+48
+00:01:47,725 --> 00:01:49,225
+PART.2: Clar, i després mires...
+
+49
+00:01:50,227 --> 00:01:51,227
+PART.2: Clar, així sí.
+
+50
+00:01:54,038 --> 00:01:54,844
+PART.2: Bé, ben jugat!
+
+51
+00:01:55,809 --> 00:01:56,443
+PART.1: Sí? Molt bé!
+
+52
+00:01:58,043 --> 00:01:59,445
+PART.1: Abans m'ha agradat, m'ha guanyat el Carlos.
+
+53
+00:02:00,084 --> 00:02:03,657
+PART.1: Ara he pogut tenir venganza contra el desconocido, però bueno.
+
+54
+00:02:03,120 --> 00:02:04,642
+PART.2: Content?
+
+55
+00:02:05,388 --> 00:02:06,847
+PART.2: Ara que has pogut acabar amb victòria.
+
+56
+00:02:10,501 --> 00:02:10,994
+PART.1: Molt bé!
+
+57
+00:02:12,718 --> 00:02:15,592
+PART.1: Em recorde, quan vaig fer això molt xiquet, que...
+
+58
+00:02:16,327 --> 00:02:16,350
+PART.2: Què, de petit?
+
+59
+00:02:16,516 --> 00:02:17,834
+PART.1: Sííí, i era com...
+
+60
+00:02:18,750 --> 00:02:20,491
+PART.1: Tuturututu!
+
+61
+00:02:20,012 --> 00:02:20,517
+PART.2: Ahhh!
+
+62
+00:02:20,656 --> 00:02:26,006
+PART.1: Saps, i coses així, però bueno, més o menos, no sé, era entretingut.
+
+63
+00:02:27,403 --> 00:02:31,414
+PART.2: A mi m'ho han fet, jo només conec: en Sergio, que és el que porta el projecte.
+
+64
+00:02:32,276 --> 00:02:32,966
+PART.2: conec el meu pare...
+
+65
+00:02:34,037 --> 00:02:34,202
+PART.1: Ja!
+
+66
+00:02:34,885 --> 00:02:35,123
+PART.2: I ara aquets dos
+
+67
+00:02:36,653 --> 00:02:40,332
+PART.2: Contra tu i contra el noi d'abans, però, no, està bé.
+
+68
+00:02:42,036 --> 00:02:45,548
+PART.1: Aquest joc d'una amiga en comú i em va fer gràcia veure-ho així.
+
+69
+00:02:46,464 --> 00:02:48,435
+PART.1: Però no és un joc perquè.
+

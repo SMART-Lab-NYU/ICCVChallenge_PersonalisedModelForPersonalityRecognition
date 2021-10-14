@@ -1,0 +1,92 @@
+22
+00:01:02,672 --> 00:01:02,819
+PART.1: No?
+
+23
+00:01:05,105 --> 00:01:06,269
+PART.2: Jo anava a agafar el llibre.
+
+24
+00:01:06,621 --> 00:01:07,082
+PART.1: Sí, també.
+
+25
+00:01:07,473 --> 00:01:07,970
+PART.1: També hagués sigut correcte.
+
+26
+00:01:09,174 --> 00:01:10,168
+PART.2: Sí, perquè... que... que...
+
+27
+00:01:10,826 --> 00:01:12,554
+PART.1: Perquè hi ha el fan...
+
+28
+00:01:13,001 --> 00:01:13,751
+PART.1: Ah, no! Perquè havíem d'agafar el fantasma.
+
+29
+00:01:14,057 --> 00:01:15,107
+PART.2: Per què havíem d'agafar el fantasma?
+
+30
+00:01:15,357 --> 00:01:17,354
+PART.1: Perquè és del color d'això.
+
+31
+00:01:18,045 --> 00:01:20,036
+PART.2: Ahhh! es veritat, era el fantasma.
+
+32
+00:01:19,658 --> 00:01:19,970
+PART.1: Era veritat...
+
+33
+00:01:20,482 --> 00:01:21,635
+PART.2: Era el fantasma.
+
+34
+00:01:20,822 --> 00:01:21,553
+PART.1: El deixem com a nul?
+
+35
+00:01:22,128 --> 00:01:22,838
+PART.2: Sí, sí, el deixem com a nul.
+
+36
+00:01:23,472 --> 00:01:23,729
+PART.1: Pues vinga!
+
+37
+00:01:24,048 --> 00:01:24,892
+PART.1: Estem jugant molt bé, eh.
+
+38
+00:01:27,153 --> 00:01:27,381
+PART.1: Vale.
+
+39
+00:01:32,516 --> 00:01:33,193
+PART.2: Molt bé, molt bé.
+
+40
+00:01:33,635 --> 00:01:33,981
+PART.1: Molt bé, molt bé.
+
+41
+00:01:42,833 --> 00:01:43,753
+PART.1: Perquè hi ha el tot...
+
+42
+00:01:54,429 --> 00:01:57,136
+PART.2: Quin palizón tu... Quin palizón.
+
+43
+00:01:57,504 --> 00:01:58,497
+PART.1: Ostres, quan li ensenyi a la mama...
+
+44
+00:01:58,816 --> 00:01:59,897
+PART.1: I l'Andreu m'ha guanyat, eh... d'un.
+

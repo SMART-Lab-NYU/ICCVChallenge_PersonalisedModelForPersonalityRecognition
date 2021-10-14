@@ -1,0 +1,107 @@
+1
+00:00:00,000 --> 00:00:01,786
+PART.1: Volver�s a entrar
+y nos encontraras callados.
+
+2
+00:00:01,786 --> 00:00:02,586
+PART.2: S�.
+
+3
+00:00:05,999 --> 00:00:08,066
+PART.2: Soy estudiante
+de m�ster, de Sergi.
+
+4
+00:00:08,466 --> 00:00:09,946
+PART.2: Yo a ti te tuve de profe
+un d�a.
+
+5
+00:00:09,946 --> 00:00:10,706
+PART.1: �Ah, s�?
+
+6
+00:00:10,706 --> 00:00:12,026
+PART.2: De sociales, �no?
+
+7
+00:00:12,026 --> 00:00:15,520
+PART.1: Seguramente deben de ser
+las clases de institucional [MASKED]
+
+8
+00:00:17,519 --> 00:00:18,466
+PART.2: S�, s�, s�.
+
+9
+00:00:18,466 --> 00:00:19,986
+PART.1: �De aqu� o de...?
+
+10
+00:00:20,426 --> 00:00:21,426
+PART.2: De aqu�, [MASKED]
+
+11
+00:00:23,519 --> 00:00:25,186
+PART.2: [MASKED] m�tica
+en la UPC y el m�ster aqu�.
+
+12
+00:00:25,906 --> 00:00:27,826
+PART.1: Muy aburrido, �no?, como
+profesor.
+
+13
+00:00:30,844 --> 00:00:31,146
+PART.2: [MASKED] no.
+
+14
+00:00:31,466 --> 00:00:34,506
+PART.2: O sea, en la media
+de profesores no.
+
+15
+00:00:38,866 --> 00:00:39,746
+PART.1: Pues no s�.
+
+16
+00:00:40,026 --> 00:00:40,746
+PART.2: Ya.
+
+17
+00:00:40,746 --> 00:00:41,866
+PART.1: �De d�nde eres, de aqu�?
+
+18
+00:00:41,866 --> 00:00:42,946
+PART.2: Yo soy de Matar�.
+
+19
+00:00:42,946 --> 00:00:43,706
+PART.1: De Matar�.
+
+20
+00:00:43,706 --> 00:00:49,360
+PART.2: S�, soy de Matar�,
+pero ahora vivo aqu� en Barcelona,
+[MASKED]
+
+21
+00:00:51,359 --> 00:00:51,706
+PART.2: �Y T�?
+
+22
+00:00:51,706 --> 00:00:52,826
+PART.1: Palafrugell.
+
+23
+00:00:52,826 --> 00:00:54,786
+PART.1: Palafrugell,
+no s� ni d�nde est�.
+
+24
+00:00:57,226 --> 00:00:59,266
+PART.1: [MASKED] por el norte,
+cerca de Girona.
+

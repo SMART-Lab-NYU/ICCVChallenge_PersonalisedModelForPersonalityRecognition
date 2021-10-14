@@ -1,0 +1,77 @@
+66
+00:04:00,456 --> 00:04:01,056
+PART.1: Vale.
+
+67
+00:04:01,136 --> 00:04:02,016
+PART.2: Estoy dudando.
+
+68
+00:04:04,936 --> 00:04:05,856
+PART.2: ¿Se come?
+
+69
+00:04:06,376 --> 00:04:08,136
+PART.2: O sea, los humanos.
+
+70
+00:04:09,656 --> 00:04:10,976
+PART.1: Aquí en España, no.
+
+71
+00:04:12,576 --> 00:04:18,056
+PART.1: Bueno, tampoco conozco de que en
+otros sitios de esto, pero me parece
+recordar de que en algún lugar, a lo
+mejor, sí.
+
+72
+00:04:18,376 --> 00:04:19,216
+PART.2: Vale.
+
+73
+00:04:19,736 --> 00:04:20,576
+PART.2: Pero aquí, no.
+
+74
+00:04:20,656 --> 00:04:21,176
+PART.1: Aquí no.
+
+75
+00:04:21,256 --> 00:04:21,816
+PART.2: Vale.
+
+76
+00:04:26,176 --> 00:04:26,816
+PART.1: Vale.
+
+77
+00:04:28,256 --> 00:04:29,976
+PART.1: Me has dicho que no es
+depredador.
+
+78
+00:04:30,656 --> 00:04:31,216
+PART.2: No.
+
+79
+00:04:33,376 --> 00:04:35,376
+PART.1: Claro, es que tenía una opción,
+pero era depredador.
+
+80
+00:04:39,416 --> 00:04:43,736
+PART.1: ¿Es herbívoro?
+
+81
+00:04:44,256 --> 00:04:44,896
+PART.2: Sí.
+
+82
+00:04:48,256 --> 00:04:48,976
+PART.1: Vale.
+
+83
+00:04:50,736 --> 00:04:51,896
+PART.1: Y no es pequeño.
+

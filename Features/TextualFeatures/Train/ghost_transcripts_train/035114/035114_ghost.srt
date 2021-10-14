@@ -1,0 +1,247 @@
+1
+00:00:00,000 --> 00:00:00,441
+PART.1: Ok.
+
+2
+00:00:01,361 --> 00:00:02,361
+PART.1: Vale, ¿empiezas tú?
+
+3
+00:00:02,441 --> 00:00:03,081
+PART.2:  Sí.
+
+4
+00:00:08,481 --> 00:00:09,481
+PART.1: Eh.
+
+5
+00:00:09,561 --> 00:00:10,281
+PART.1: Sí.
+
+6
+00:00:10,721 --> 00:00:11,721
+PART.2:  Sí.
+
+7
+00:00:11,801 --> 00:00:14,041
+PART.1: Me parece, sí, sí, sí.
+
+8
+00:00:16,881 --> 00:00:19,841
+PART.1: No, sí, el libro porque está
+"torcidito".
+
+9
+00:00:18,921 --> 00:00:19,841
+PART.2:  Ah, sí.
+
+10
+00:00:23,761 --> 00:00:24,401
+PART.1: Sí.
+
+11
+00:00:30,681 --> 00:00:31,481
+PART.1: Sí, ¿no?
+
+12
+00:00:31,241 --> 00:00:31,881
+PART.2:  Sí, sí.
+
+13
+00:00:31,961 --> 00:00:32,961
+PART.1: Vale.
+
+14
+00:00:38,401 --> 00:00:39,361
+PART.1: También es nuevo esto.
+
+15
+00:00:39,441 --> 00:00:42,081
+PART.2:  Ah, sí, era ese, era ese.
+
+16
+00:00:45,001 --> 00:00:45,841
+PART.1: La botella.
+
+17
+00:00:45,401 --> 00:00:46,561
+PART.2:  Era la botella.
+
+18
+00:00:50,441 --> 00:00:51,441
+PART.1: Eh.
+
+19
+00:00:52,081 --> 00:00:52,961
+PART.2:  Ay.
+
+20
+00:00:53,041 --> 00:00:55,041
+PART.2:  Ya he perdido.
+
+21
+00:00:55,121 --> 00:00:57,761
+PART.1: Vaya, se me da mucho mejor ahora
+que antes, he aprendido.
+
+22
+00:00:57,841 --> 00:00:58,841
+PART.2:  Sí, sí.
+
+23
+00:00:58,921 --> 00:01:00,001
+PART.1: Me tocaba a mí.
+
+24
+00:01:00,681 --> 00:01:01,601
+PART.1: Eh.
+
+25
+00:01:01,681 --> 00:01:02,721
+PART.2:  Ese sí.
+
+26
+00:01:02,801 --> 00:01:04,401
+PART.1: Ves, no se parece a un ratón.
+
+27
+00:01:04,481 --> 00:01:06,081
+PART.1: Ah, sí, tú.
+
+28
+00:01:09,161 --> 00:01:10,561
+PART.1: Eh, mejor...
+
+29
+00:01:10,641 --> 00:01:11,321
+PART.2:  Ah, no.
+
+30
+00:01:11,401 --> 00:01:12,361
+PART.2:  La botella.
+
+31
+00:01:12,441 --> 00:01:13,161
+PART.1: Sí.
+
+32
+00:01:13,241 --> 00:01:13,921
+PART.2:  Sí.
+
+33
+00:01:16,361 --> 00:01:18,401
+PART.1: Este le tengo claro.
+
+34
+00:01:22,881 --> 00:01:23,841
+PART.2:  Perdón, perdón.
+
+35
+00:01:24,681 --> 00:01:27,281
+PART.1: Bueno, lo he cogido yo antes, ¿eh?
+
+36
+00:01:27,361 --> 00:01:28,161
+PART.2:  Sí.
+
+37
+00:01:30,801 --> 00:01:32,801
+PART.1: Un, dos, tres, cinco, seis, siete.
+
+38
+00:01:32,881 --> 00:01:34,761
+PART.2:  Siete a cuatro.
+
+39
+00:01:36,641 --> 00:01:37,921
+PART.2:  De toda la veces...
+
+40
+00:01:37,241 --> 00:01:38,241
+PART.1: Ya está, Javi.
+
+41
+00:01:38,321 --> 00:01:44,881
+PART.2:  De todas las veces que he hecho
+este juego, he ganado, creo, no sé
+si una, creo que una vez.
+
+42
+00:01:44,961 --> 00:01:46,801
+PART.2:  Las demás veces perdí porque no...
+
+43
+00:01:46,881 --> 00:01:53,441
+PART.1: Va, yo es que soy muy competitivo
+y con los juegos estos también me
+gusta mucho.
+
+44
+00:01:53,521 --> 00:01:57,961
+PART.2:  Este juego no lo conocía y está
+buenísimo para las fiestas con
+amigos.
+
+45
+00:01:55,801 --> 00:01:56,841
+PART.1: Es muy sencillito.
+
+46
+00:02:00,441 --> 00:02:04,561
+PART.1: Y que claro, como tiene dos ahí,
+las que son lo opuesto, ¿no?.
+
+47
+00:02:04,161 --> 00:02:05,041
+PART.2:  Claro.
+
+48
+00:02:07,521 --> 00:02:13,121
+PART.2:  De repente te aparece esto
+y te confundes porque estás buscando
+lo que no es.
+
+49
+00:02:13,201 --> 00:02:14,401
+PART.2:  Ah, pero el ratón.
+
+50
+00:02:14,921 --> 00:02:18,641
+PART.2:  Encima tiene la cola roja y este
+gris.
+
+51
+00:02:18,081 --> 00:02:19,641
+PART.1: Lo de la cola confunde.
+
+52
+00:02:22,881 --> 00:02:24,361
+PART.2:  El fantasma.
+
+53
+00:02:26,321 --> 00:02:29,481
+PART.1: Va, qué feo, mírale las orejas.
+
+54
+00:02:42,401 --> 00:02:50,241
+PART.1: Claro, podría ir de eso, como que
+también aparece una carta y tienes
+que, tienes que hacer esta...
+
+55
+00:02:51,401 --> 00:02:52,641
+PART.1: Esto.
+
+56
+00:02:52,721 --> 00:02:54,041
+PART.2:  Este es más fácil.
+
+57
+00:02:55,321 --> 00:02:58,441
+PART.1: Bueno, claro, pero el reto está
+en...
+
+58
+00:02:59,001 --> 00:03:01,721
+PART.1: Este es el difícil.
+

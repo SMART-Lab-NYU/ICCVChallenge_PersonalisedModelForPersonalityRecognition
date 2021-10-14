@@ -1,0 +1,112 @@
+42
+00:01:04,160 --> 00:01:04,827
+PART.1: Vale.
+
+43
+00:01:04,869 --> 00:01:05,702
+PART.2: La buena practica.
+
+44
+00:01:06,827 --> 00:01:08,160
+PART.1: Vale, dos puentes.
+
+45
+00:01:08,244 --> 00:01:09,244
+PART.1: Aquí hay uno.
+
+46
+00:01:09,494 --> 00:01:11,160
+PART.1: Y el tercero es este.
+
+47
+00:01:12,119 --> 00:01:12,785
+PART.2: Vale.
+
+48
+00:01:12,869 --> 00:01:14,119
+PART.1: ¿Quieres ponerlos tú?
+
+49
+00:01:14,494 --> 00:01:16,327
+PART.2: Estos van ahí.
+Tal cual.
+
+50
+00:01:18,410 --> 00:01:20,077
+PART.1: Y ahora las negras.
+
+51
+00:01:20,160 --> 00:01:22,035
+PART.2: Aquí hay una
+y aquí hay otra.
+
+52
+00:01:23,202 --> 00:01:24,827
+PART.2: Ostras, tú, ahora no
+entra.
+
+53
+00:01:24,910 --> 00:01:25,910
+PART.1: ¿Por qué?
+
+54
+00:01:30,202 --> 00:01:31,202
+PART.2: Vaya.
+
+55
+00:01:33,952 --> 00:01:36,952
+PART.1: A lo mejor es que están
+en punta, están giradas las flores
+o...
+
+56
+00:01:39,077 --> 00:01:40,202
+PART.2: Ya está.
+
+57
+00:01:41,452 --> 00:01:42,744
+PART.1: Ahora las dos negras.
+
+58
+00:01:42,827 --> 00:01:44,619
+PART.2: Las dos negras van...
+
+59
+00:01:44,702 --> 00:01:46,410
+PART.1: Al lado del verde.
+
+60
+00:01:45,702 --> 00:01:46,619
+PART.2: ¿Al lado del verde?
+
+61
+00:01:46,702 --> 00:01:47,244
+PART.1: Sí, ¿no?
+
+62
+00:01:47,910 --> 00:01:49,035
+PART.2: Ahí está.
+
+63
+00:01:50,994 --> 00:01:51,994
+PART.1: Ahí.
+
+64
+00:01:52,577 --> 00:01:53,577
+PART.2: Jo.
+
+65
+00:01:54,952 --> 00:01:56,035
+PART.2: Es que esto está...
+
+66
+00:01:56,910 --> 00:01:59,285
+PART.1: Creo que es mejor
+que desmontes un instante.
+
+67
+00:01:59,702 --> 00:02:02,952
+PART.2: No, pero... A lo mejor,
+lo que podríamos hacer es ponerlo al
+final, ¿sabes?
+

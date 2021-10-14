@@ -1,0 +1,17 @@
+327
+00:13:00,469 --> 00:13:01,349
+PART.1: No, tres.
+
+328
+00:13:01,429 --> 00:13:03,229
+PART.2:  ¿Y dónde te formas con esto?
+
+329
+00:13:03,309 --> 00:13:05,869
+PART.1: Así, en Chile y luego me vine acá
+con mi bici.
+
+330
+00:13:05,949 --> 00:13:06,509
+SUPERVISOR: Hola.
+

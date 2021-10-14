@@ -1,0 +1,802 @@
+1
+00:00:02,148 --> 00:00:03,668
+PART.2: Empieza vos porque ganaste.
+
+2
+00:00:04,508 --> 00:00:05,148
+PART.1: Vale.
+
+3
+00:00:08,908 --> 00:00:11,308
+PART.1: ¿Es acuático?
+
+4
+00:00:11,548 --> 00:00:12,068
+PART.2: No.
+
+5
+00:00:12,948 --> 00:00:13,948
+PART.2: ¿Soy un mamífero?
+
+6
+00:00:14,508 --> 00:00:14,948
+PART.1: No.
+
+7
+00:00:21,988 --> 00:00:23,428
+PART.1: ¿Tengo...?
+
+8
+00:00:24,948 --> 00:00:28,148
+PART.1: ¿Soy... carnívoro?
+
+9
+00:00:28,908 --> 00:00:29,468
+PART.2: No.
+
+10
+00:00:31,388 --> 00:00:32,228
+PART.2: ¿Pongo huevos?
+
+11
+00:00:32,948 --> 00:00:33,388
+PART.1: Sí.
+
+12
+00:00:34,508 --> 00:00:35,068
+PART.2: Vale.
+
+13
+00:00:37,788 --> 00:00:41,228
+PART.1: ¿Tengo... plumas?
+
+14
+00:00:41,588 --> 00:00:42,108
+PART.2: No.
+
+15
+00:00:43,508 --> 00:00:44,308
+PART.2: ¿Soy un réptil?
+
+16
+00:00:44,748 --> 00:00:45,148
+PART.1: No.
+
+17
+00:00:46,308 --> 00:00:47,388
+PART.2: Ya llevamos cuatro.
+
+18
+00:00:47,468 --> 00:00:48,428
+PART.1: Llevamos tres.
+
+19
+00:00:48,508 --> 00:00:49,148
+PART.2: Tres, vale.
+
+20
+00:00:51,628 --> 00:00:52,108
+PART.1: Vale.
+
+21
+00:00:57,708 --> 00:01:05,028
+PART.1: A ver, me has dicho que no es
+carnívoro, que no es acuático, ¿y
+qué más te he preguntado?
+
+22
+00:01:05,108 --> 00:01:06,188
+PART.2: Y no tienes plumas.
+
+23
+00:01:05,348 --> 00:01:05,948
+PART.1: Si tenía plumas.
+
+24
+00:01:06,468 --> 00:01:07,028
+PART.1: Vale.
+
+25
+00:01:10,428 --> 00:01:11,388
+PART.1: ¿Pongo huevos?
+
+26
+00:01:11,468 --> 00:01:11,948
+PART.2: No.
+
+27
+00:01:13,348 --> 00:01:14,308
+PART.2: ¿Soy pájaro?
+
+28
+00:01:14,868 --> 00:01:15,268
+PART.1: Sí.
+
+29
+00:01:15,868 --> 00:01:16,748
+PART.2: Ah, no. Ya te pregunté eso.
+
+30
+00:01:16,828 --> 00:01:17,468
+PART.1: No.
+
+31
+00:01:17,548 --> 00:01:19,748
+PART.2: Ah, bueno, no soy un réptil
+porque soy un pájaro, perdón.
+
+32
+00:01:19,828 --> 00:01:20,348
+PART.2: ¿Puedo hacer otra?
+
+33
+00:01:20,428 --> 00:01:20,708
+PART.1: Sí.
+
+34
+00:01:20,788 --> 00:01:21,748
+PART.2: Porque es la misma pregunta.
+
+35
+00:01:23,108 --> 00:01:24,428
+PART.2: Okey, soy un pájaro.
+
+36
+00:01:25,988 --> 00:01:26,628
+PART.2: ¿Vuelo?
+
+37
+00:01:26,708 --> 00:01:27,388
+PART.2: ¿Puedo volar?
+
+38
+00:01:28,588 --> 00:01:29,308
+PART.1: No.
+
+39
+00:01:30,868 --> 00:01:31,348
+PART.2: Vale.
+
+40
+00:01:36,388 --> 00:01:37,548
+PART.1: Vale, vale, vale.
+
+41
+00:01:39,628 --> 00:01:40,788
+PART.1: ¿Soy...?
+
+42
+00:01:42,668 --> 00:01:43,588
+PART.1: ¿Tengo pelo?
+
+43
+00:01:44,828 --> 00:01:45,388
+PART.2: Sí.
+
+44
+00:01:47,188 --> 00:01:48,148
+PART.2: ¿Soy muy grande?
+
+45
+00:01:49,908 --> 00:01:50,708
+PART.1: No.
+
+46
+00:01:51,708 --> 00:01:52,788
+PART.1: Bueno, un poco.
+
+47
+00:01:54,588 --> 00:01:55,068
+PART.2: ¿Qué?
+
+48
+00:02:05,268 --> 00:02:06,308
+PART.2: Llevamos cinco, ¿no?
+
+49
+00:02:06,388 --> 00:02:06,868
+PART.1: Sí.
+
+50
+00:02:11,428 --> 00:02:16,468
+PART.1: ¿Soy... terrestre?
+
+51
+00:02:16,548 --> 00:02:17,108
+PART.2: Sí.
+
+52
+00:02:17,468 --> 00:02:17,868
+PART.1: Vale.
+
+53
+00:02:21,668 --> 00:02:25,428
+PART.2: Soy un pájaro que no vuelo y un
+soy muy grande.
+
+54
+00:02:31,468 --> 00:02:33,228
+PART.2: ¿Vengo del continente africano?
+
+55
+00:02:37,428 --> 00:02:38,588
+PART.1: Juraría que no.
+
+56
+00:02:39,308 --> 00:02:40,108
+PART.1: No, no, no.
+
+57
+00:02:40,548 --> 00:02:41,308
+PART.1: Creo que no.
+
+58
+00:02:42,788 --> 00:02:44,468
+PART.2: ¿Te hago otra pregunta por si
+acaso?
+
+59
+00:02:45,108 --> 00:02:46,308
+PART.2: Bueno, no. Como quieras.
+
+60
+00:02:46,788 --> 00:02:48,628
+PART.2: Vale, no vengo del continente
+africano.
+
+61
+00:02:48,708 --> 00:02:49,188
+PART.2: Vale.
+
+62
+00:02:50,508 --> 00:02:51,708
+PART.1: Vale, qué más, qué más.
+
+63
+00:02:54,588 --> 00:02:55,588
+PART.1: ¿Soy pequeño?
+
+64
+00:02:55,668 --> 00:02:56,108
+PART.2: No.
+
+65
+00:02:57,028 --> 00:02:57,588
+PART.1: Vale.
+
+66
+00:03:07,988 --> 00:03:09,948
+PART.2: ¿Los seres humanos me comen?
+
+67
+00:03:10,428 --> 00:03:10,988
+PART.1: No.
+
+68
+00:03:14,788 --> 00:03:15,268
+PART.2: No entiendo.
+
+69
+00:03:17,748 --> 00:03:19,908
+PART.2: Iba a decir avestruz, pero,
+claro, no.
+
+70
+00:03:21,188 --> 00:03:22,788
+PART.1: Me has dicho que no soy
+carnívoro.
+
+71
+00:03:22,868 --> 00:03:23,468
+PART.2: No.
+
+72
+00:03:27,068 --> 00:03:27,988
+PART.2: Llevamos siete ya.
+
+73
+00:03:27,868 --> 00:03:31,068
+PART.1: ¿La gente usa mi piel como
+abrigo?
+
+74
+00:03:32,748 --> 00:03:34,308
+PART.2: Mira, te voy a mentir si te
+digo...
+
+75
+00:03:34,388 --> 00:03:38,108
+PART.2: Yo me imaginaría que sí, pero
+no...
+
+76
+00:03:36,708 --> 00:03:37,828
+PART.1: Ya. No estás segura.
+
+77
+00:03:41,308 --> 00:03:42,668
+PART.2: Yo me imaginaría que sí.
+
+78
+00:03:43,508 --> 00:03:44,108
+PART.2: Sí.
+
+79
+00:03:45,188 --> 00:03:45,588
+PART.2: Sí.
+
+80
+00:03:45,668 --> 00:03:46,388
+PART.2: Digamos que sí.
+
+81
+00:03:46,468 --> 00:03:46,828
+PART.1: Vale.
+
+82
+00:03:46,908 --> 00:03:48,748
+PART.2: Quizá ya no, pero antes sí.
+
+83
+00:03:48,828 --> 00:03:49,668
+PART.1: Vale.
+
+84
+00:03:54,708 --> 00:04:01,268
+PART.2: Soy un pájaro que no vuelo, no
+soy muy grande, no me comen o no soy
+comestible...
+
+85
+00:04:12,748 --> 00:04:13,468
+PART.2: ¡Ah!
+
+86
+00:04:15,868 --> 00:04:17,308
+PART.2: Vale. Ya sé por dónde vas.
+
+87
+00:04:18,348 --> 00:04:19,308
+PART.2: Ya sé por dónde va.
+
+88
+00:04:27,148 --> 00:04:27,908
+PART.2: ¿Soy blanco?
+
+89
+00:04:28,548 --> 00:04:29,148
+PART.1: Sí.
+
+90
+00:04:29,228 --> 00:04:30,028
+PART.2: ¿Soy un cisne?
+
+91
+00:04:30,108 --> 00:04:30,988
+PART.1: Sí.
+
+92
+00:04:32,868 --> 00:04:33,668
+PART.1: Bueno, a ver yo.
+
+93
+00:04:33,748 --> 00:04:35,548
+PART.1: Me faltan tres preguntas, creo.
+
+94
+00:04:38,748 --> 00:04:42,548
+PART.1: Vale, no soy depredador porque me
+has dicho que no soy carnívoro.
+
+95
+00:04:41,228 --> 00:04:42,148
+PART.2: No, no.
+
+96
+00:04:43,508 --> 00:04:51,668
+PART.1: Que la gente probablemente usaba
+mi piel, que soy grande, que... No
+sé qué más.
+
+97
+00:04:54,068 --> 00:04:56,468
+PART.2: La piel no sé, pero el pelo
+segurísimo.
+
+98
+00:04:56,548 --> 00:04:57,268
+PART.1: Ya.
+
+99
+00:04:58,948 --> 00:05:01,268
+PART.1: Es que, claro, me viene el oso,
+pero el oso es carnívoro.
+
+100
+00:05:01,748 --> 00:05:03,308
+PART.2: Sí. El oso es supercarnívoro.
+
+101
+00:05:03,868 --> 00:05:04,588
+PART.1: Eh...
+
+102
+00:05:08,468 --> 00:05:10,788
+PART.1: ¿Puedo ser un animal doméstico?
+
+103
+00:05:13,268 --> 00:05:15,068
+PART.2: Parientes cercanos tuyos, sí.
+
+104
+00:05:15,868 --> 00:05:16,428
+PART.1: Vale.
+
+105
+00:05:18,628 --> 00:05:19,628
+PART.1: Por lo tanto...
+
+106
+00:05:30,588 --> 00:05:32,788
+PART.1: ¿Soy un ciervo?
+
+107
+00:05:33,748 --> 00:05:34,388
+PART.2: No.
+
+108
+00:05:34,108 --> 00:05:34,708
+PART.1: O algo así.
+
+109
+00:05:41,108 --> 00:05:42,468
+PART.1: Parientes cercanos.
+
+110
+00:05:42,548 --> 00:05:46,028
+PART.1: Entonces, puede ser el perro...
+
+111
+00:05:46,948 --> 00:05:48,068
+PART.2: El perro es carnívoro.
+
+112
+00:05:48,348 --> 00:05:50,228
+PART.1: Ya. Por eso que no...
+
+113
+00:05:54,908 --> 00:05:58,828
+PART.2: Es que ahí tienes ya dos familias
+de los mamíferos, ¿la tercera cuál
+es?
+
+114
+00:06:02,268 --> 00:06:04,708
+PART.2: Tienes los caninos, los felinos
+y...
+
+115
+00:06:05,708 --> 00:06:06,628
+PART.2: Lo que dijiste antes.
+
+116
+00:06:06,708 --> 00:06:08,548
+PART.2: El primero que dijiste antes de
+esa familia.
+
+117
+00:06:08,628 --> 00:06:10,228
+PART.2: Pero son primos superlejanos.
+
+118
+00:06:13,748 --> 00:06:15,628
+PART.1: ¿Cuál dije antes? ¿Del oso?
+
+119
+00:06:15,708 --> 00:06:16,588
+PART.2: No. Eso no.
+
+120
+00:06:16,908 --> 00:06:18,108
+PART.1: No. O sea...
+
+121
+00:06:18,868 --> 00:06:19,828
+PART.1: Los caninos...
+
+122
+00:06:19,908 --> 00:06:21,428
+PART.2: Ciervo, dijiste ciervo.
+
+123
+00:06:21,508 --> 00:06:22,348
+PART.1: Ah, vale, vale.
+
+124
+00:06:22,428 --> 00:06:24,308
+PART.2: Es más o menos, más o menos por
+ahí.
+
+125
+00:06:25,708 --> 00:06:26,508
+PART.1: ¡Hostia!
+
+126
+00:06:29,588 --> 00:06:32,348
+PART.1: Nos estamos saltando un poco las
+normas, porque me has dado más
+pistas que...
+
+127
+00:06:32,148 --> 00:06:32,588
+PART.2: Sí.
+
+128
+00:06:38,468 --> 00:06:40,228
+PART.1: No me está viniendo para nada.
+
+129
+00:06:40,308 --> 00:06:41,388
+PART.1: Soy tan mala en este juego.
+
+130
+00:06:49,708 --> 00:06:51,068
+PART.1: No tengo ni puñetera idea.
+
+131
+00:06:51,148 --> 00:06:52,268
+PART.2: Bueno, haz más preguntas.
+
+132
+00:06:54,708 --> 00:06:57,108
+PART.1: Bueno, como mucho, puedo hacer
+dos y ya está.
+
+133
+00:07:03,268 --> 00:07:04,628
+PART.1: ¿Tengo cuernos?
+
+134
+00:07:04,948 --> 00:07:05,588
+PART.2: Sí.
+
+135
+00:07:10,588 --> 00:07:11,108
+PART.1: ¡Ah!
+
+136
+00:07:11,668 --> 00:07:12,388
+PART.1: ¿Vaca?
+
+137
+00:07:13,548 --> 00:07:15,268
+PART.2: Pero la vaca es doméstica, ¿te
+acuerdas?
+
+138
+00:07:15,828 --> 00:07:17,308
+PART.2: Pariente de la vaca.
+
+139
+00:07:18,428 --> 00:07:19,228
+PART.1: ¿Un buey?
+
+140
+00:07:20,348 --> 00:07:21,868
+PART.2: El buey también es doméstico.
+
+141
+00:07:21,668 --> 00:07:22,108
+PART.1: Ya.
+
+142
+00:07:22,028 --> 00:07:25,308
+PART.2: Otro pariente que es muy grande.
+
+143
+00:07:25,388 --> 00:07:26,508
+PART.1: ¿El toro?
+
+144
+00:07:26,588 --> 00:07:27,908
+PART.2: No. Ese también es doméstico.
+
+145
+00:07:30,108 --> 00:07:33,948
+PART.2: Es eso, pero mucho más salvaje
+y...
+
+146
+00:07:37,428 --> 00:07:38,068
+PART.1: Mucho más.
+
+147
+00:07:38,748 --> 00:07:41,828
+PART.2: Mucho menos fácil de domesticar
+digamos.
+
+148
+00:07:41,908 --> 00:07:42,668
+PART.1: ¡Hostia!
+
+149
+00:07:45,868 --> 00:07:48,388
+PART.1: Pero ¿de los típicos que salen en
+los documentales africanos?
+
+150
+00:07:49,348 --> 00:07:51,268
+PART.2: Bueno, este no es africano.
+
+151
+00:07:51,348 --> 00:07:53,588
+PART.2: Es más de donde vengo yo, pero...
+
+152
+00:07:54,188 --> 00:07:55,948
+PART.2: Bueno, sí, más o menos.
+
+153
+00:08:04,228 --> 00:08:06,068
+PART.1: Ostras, pero ¿es un nombre muy
+raro?
+
+154
+00:08:06,468 --> 00:08:07,108
+PART.2: Bueno.
+
+155
+00:08:07,788 --> 00:08:08,508
+PART.2: No sé.
+
+156
+00:08:09,068 --> 00:08:15,228
+PART.2: Yo veo documentales así como
+obsesivamente y quizá no para mí,
+pero...
+
+157
+00:08:16,868 --> 00:08:18,308
+PART.1: Pues no sé, me rindo.
+
+158
+00:08:18,948 --> 00:08:19,868
+PART.2: Un bison.
+
+159
+00:08:19,948 --> 00:08:20,708
+PART.1: ¡Uf!
+
+160
+00:08:21,748 --> 00:08:22,828
+PART.1: ¡Hostia!
+
+161
+00:08:23,748 --> 00:08:24,668
+PART.1: ¡Anda ya!
+
+162
+00:08:25,068 --> 00:08:26,348
+PART.1: Es tope chungo.
+
+163
+00:08:28,028 --> 00:08:28,748
+PART.2: "Swan".
+
+164
+00:08:30,028 --> 00:08:31,468
+PART.1: Sí, hombre, bison.
+
+165
+00:08:32,508 --> 00:08:33,668
+PART.1: Lo mismo lo acierto.
+
+166
+00:08:36,188 --> 00:08:38,348
+PART.1: Siempre me tocan supercomplicados
+en esta cosa.
+
+167
+00:08:45,108 --> 00:08:46,148
+PART.1: Es que además me venía...
+
+168
+00:08:46,228 --> 00:08:49,348
+PART.1: En documentales sí que he visto
+el bison más de una vez.
+
+169
+00:08:49,788 --> 00:08:52,628
+PART.1: Y me venía como la imagen, pero
+no sabía qué nombre tenía.
+
+170
+00:08:54,628 --> 00:08:54,988
+PART.1: Bueno.
+
+171
+00:08:55,228 --> 00:08:56,428
+PART.2: Es guapo, ¿eh?
+
+172
+00:08:56,948 --> 00:08:57,628
+PART.2: Yo me imagino...
+
+173
+00:08:57,708 --> 00:09:03,148
+PART.2: Cuando me preguntaste lo del
+pelo, yo imagino que la piel de
+estos bichos debe ser una pedazo de
+cosa...
+
+174
+00:09:03,228 --> 00:09:03,868
+PART.1: Claro.
+
+175
+00:09:04,908 --> 00:09:05,868
+PART.2: Un gorro o algo.
+
+176
+00:09:06,108 --> 00:09:09,268
+PART.1: Claro, supongo que para
+abrigarse, antiguamente lo...
+
+177
+00:09:09,348 --> 00:09:11,748
+PART.2: Sí, pero imagínate un abrigo de
+estos.
+
+178
+00:09:12,108 --> 00:09:13,508
+PART.2: Son 50 kilos de abrigo.
+
+179
+00:09:13,588 --> 00:09:14,148
+PART.1: Ya.
+
+180
+00:09:14,508 --> 00:09:18,148
+PART.1: Pero, claro, yo me refiero más a
+época casi prehistórica.
+
+181
+00:09:17,188 --> 00:09:18,708
+PART.2: Sí, sí. Por eso, por eso.
+
+182
+00:09:18,988 --> 00:09:22,068
+PART.2: Lo que te decía: "Antes sí, pero
+ahora te mentiría si...".
+
+183
+00:09:22,148 --> 00:09:22,788
+PART.1: Claro, claro.
+
+184
+00:09:24,068 --> 00:09:27,908
+PART.2: Pues lo que te estaba diciendo
+antes, fuimos a ver "La Fura dels
+Baus" y no me gusto.
+
+185
+00:09:28,308 --> 00:09:29,068
+PART.1: ¿La qué?
+
+186
+00:09:29,148 --> 00:09:30,268
+PART.2: "La Fura dels Baus".
+
+187
+00:09:30,828 --> 00:09:31,708
+PART.2: ¿Teatro?
+
+188
+00:09:31,788 --> 00:09:34,108
+PART.1: Sí, pero ¿quién? ¿Dónde?
+
+189
+00:09:34,188 --> 00:09:35,708
+PART.2: "La Fura dels Baus". Son
+catalanes.
+

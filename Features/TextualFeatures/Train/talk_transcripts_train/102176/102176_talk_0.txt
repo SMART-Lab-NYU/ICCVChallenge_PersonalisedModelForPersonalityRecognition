@@ -1,0 +1,95 @@
+1
+00:00:00,017 --> 00:00:00,577
+PART.1: Bueno.
+
+2
+00:00:00,657 --> 00:00:01,137
+PART.2: Bueno.
+
+3
+00:00:03,057 --> 00:00:04,137
+PART.2: Pues, a ver...
+
+4
+00:00:04,217 --> 00:00:06,417
+PART.2: Yo me llamo Nuria y tengo 18.
+
+5
+00:00:06,857 --> 00:00:17,137
+PART.2: Vengo de Sant Boi, vengo porque
+conozco a Naiara y no sé cómo ella
+ha llegado hasta aquí, pero me dijo:
+"Tía, voy a hacer de conejillo de
+indias y no se qué".
+
+6
+00:00:17,377 --> 00:00:20,097
+PART.2: Y dije: "Ah, qué guay". Me
+apunto.
+
+7
+00:00:20,177 --> 00:00:21,417
+PART.2: Y aquí estamos.
+
+8
+00:00:21,977 --> 00:00:24,817
+PART.1: Yo me llamo Raquel y tengo 26.
+
+9
+00:00:25,097 --> 00:00:31,537
+PART.1: Y estoy aquí porque un profesor
+del máster nos pidió, por favor, que
+nos apuntáramos.
+
+10
+00:00:31,617 --> 00:00:33,097
+PART.2: Ah, sí.
+
+11
+00:00:33,497 --> 00:00:34,857
+PART.1: Y, la verdad, me daba...
+
+12
+00:00:34,577 --> 00:00:36,817
+PART.2: Os pidió muy fuerte, pero
+solamente has venido tú, ¿no?
+
+13
+00:00:37,297 --> 00:00:41,377
+PART.1: Pues no lo sé, no sé qué habrá
+hecho el resto de compañeros.
+
+14
+00:00:41,457 --> 00:00:43,297
+PART.2: Ah, porque había más días me
+parece, ¿no?
+
+15
+00:00:43,377 --> 00:00:44,777
+PART.1: Sí, o sea...
+
+16
+00:00:44,857 --> 00:00:47,257
+PART.2: Pensaba que solo había hoy y
+digo...
+
+17
+00:00:47,537 --> 00:00:53,497
+PART.1: En teoría había un montón de
+rangos de horarios para venir a
+grabar, pero no sé.
+
+18
+00:00:53,577 --> 00:00:56,217
+PART.1: O sea, yo vine hoy porque entre
+semana trabajo.
+
+19
+00:00:57,017 --> 00:00:58,297
+PART.2: ¿Dónde trabajas?
+
+20
+00:00:58,377 --> 00:01:03,017
+PART.1: Yo en El Barcelona Supercomputing
+Center, soy investigadora de IA.
+

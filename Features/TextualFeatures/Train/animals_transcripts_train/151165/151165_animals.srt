@@ -1,0 +1,726 @@
+1
+00:00:00,000 --> 00:00:00,780
+PART.1: ¿Tú cómo lo quieres
+hacer?
+
+2
+00:00:01,340 --> 00:00:02,900
+PART.2: Me da igual,
+si quieres hacemos diez y diez.
+
+3
+00:00:03,780 --> 00:00:04,820
+PART.2: Venga, empieza tú.
+
+4
+00:00:04,900 --> 00:00:05,980
+PART.1: ¿Empiezo yo?
+
+5
+00:00:06,820 --> 00:00:08,660
+PART.1: A ver, tú tienes que decirme cosas
+del mío.
+
+6
+00:00:10,460 --> 00:00:13,220
+PART.2: Por eso lo decía, lo he
+explicado de esta manera tan...
+
+7
+00:00:14,700 --> 00:00:15,820
+PART.1: Eh...
+
+8
+00:00:16,460 --> 00:00:18,300
+PART.1: ¿Es un animal que se come
+habitualmente?
+
+9
+00:00:19,460 --> 00:00:20,540
+PART.2: No en este país.
+
+10
+00:00:21,540 --> 00:00:23,500
+PART.2: Y creo que no, creo que en ningún
+país.
+
+11
+00:00:23,580 --> 00:00:24,700
+PART.2: Habitualmente.
+
+12
+00:00:25,020 --> 00:00:26,460
+PART.2: Pero se puede comer, sí.
+
+13
+00:00:29,140 --> 00:00:30,460
+PART.1: ¿Es salvaje?
+
+14
+00:00:31,300 --> 00:00:32,380
+PART.2: Sí.
+
+15
+00:00:34,860 --> 00:00:35,900
+PART.1: ¿Es mamífero?
+
+16
+00:00:35,980 --> 00:00:37,100
+PART.2: Sí.
+
+17
+00:00:42,420 --> 00:00:44,060
+PART.1: ¿En este país no vive?
+
+18
+00:00:44,140 --> 00:00:45,300
+PART.2: No, bueno...
+
+19
+00:00:46,060 --> 00:00:47,140
+PART.1: No vive de normal.
+
+20
+00:00:47,220 --> 00:00:47,940
+PART.2: Naturalmente no.
+
+21
+00:00:48,020 --> 00:00:48,820
+PART.1: A no ser que no sea en un
+zoo.
+
+22
+00:00:48,900 --> 00:00:49,740
+PART.2: Naturalmente no.
+
+23
+00:00:54,620 --> 00:00:55,580
+PART.2: PERSONA: ¿Vive en la selva?
+
+24
+00:00:56,580 --> 00:00:57,780
+PART.2: Selva...
+
+25
+00:01:00,020 --> 00:01:01,020
+PART.2: Sí.
+
+26
+00:01:02,900 --> 00:01:04,060
+PART.2: En algunas selvas.
+
+27
+00:01:05,860 --> 00:01:06,860
+PART.1: ¿Es peligroso?
+
+28
+00:01:08,740 --> 00:01:10,860
+PART.2: Puede llegar a serlo,
+pero en principio no.
+
+29
+00:01:13,420 --> 00:01:14,580
+PART.1: Totalmente perdida.
+
+30
+00:01:17,420 --> 00:01:20,140
+PART.2: Tiene capacidades físicas
+como para hacerte mucho caño.
+
+31
+00:01:20,860 --> 00:01:22,980
+PART.2: Pero... Pero no es peligroso.
+
+32
+00:01:23,620 --> 00:01:24,500
+PART.1: ¿Un canguro?
+
+33
+00:01:24,580 --> 00:01:25,500
+PART.2: No.
+
+34
+00:01:26,460 --> 00:01:27,780
+PART.1: No lo voy a adivinar.
+
+35
+00:01:28,740 --> 00:01:30,300
+PART.1: A ver, piensa preguntas.
+
+36
+00:01:31,780 --> 00:01:33,100
+PART.1: No sé si te lo he preguntado ya.
+
+37
+00:01:34,500 --> 00:01:35,700
+PART.1: Si era mamífero, no me acuerdo.
+
+38
+00:01:35,780 --> 00:01:36,500
+PART.2: Sí.
+
+39
+00:01:36,580 --> 00:01:37,340
+PART.1: ¿Te lo he preguntado?
+
+40
+00:01:37,420 --> 00:01:38,500
+PART.2: Me lo has preguntado.
+
+41
+00:01:44,380 --> 00:01:45,380
+PART.1: ¿Es muy grande?
+
+42
+00:01:45,460 --> 00:01:46,460
+PART.2: Sí.
+
+43
+00:01:48,420 --> 00:01:49,820
+PART.2: Esa es la pregunta.
+
+44
+00:01:50,220 --> 00:01:50,820
+PART.1: ¿Elefante?
+
+45
+00:01:50,900 --> 00:01:51,620
+PART.2: Sí.
+
+46
+00:01:53,460 --> 00:01:54,380
+PART.2: Vale.
+
+47
+00:01:54,700 --> 00:01:55,900
+PART.1: Entonces me lo quito ya.
+
+48
+00:01:56,180 --> 00:01:57,260
+PART.2: Sí, si quieres, sí.
+
+49
+00:02:00,020 --> 00:02:01,140
+PART.1: Para arriba.
+
+50
+00:02:02,180 --> 00:02:03,620
+PART.2: Y te quieres también
+quitar esto.
+
+51
+00:02:04,620 --> 00:02:05,620
+PART.2: Vale.
+
+52
+00:02:05,900 --> 00:02:06,900
+PART.2: ¿Es mamífero?
+
+53
+00:02:08,020 --> 00:02:08,940
+PART.1: Sí.
+
+54
+00:02:09,020 --> 00:02:09,500
+PART.1: Sí.
+
+55
+00:02:09,580 --> 00:02:10,540
+PART.2: Sí.
+
+56
+00:02:11,780 --> 00:02:13,060
+PART.2: ¿Es de...?
+
+57
+00:02:13,140 --> 00:02:14,700
+PART.2: ¿Es de tierra, un animal de tierra?
+
+58
+00:02:14,780 --> 00:02:15,740
+PART.1: Sí.
+
+59
+00:02:17,140 --> 00:02:18,180
+PART.2: Vale.
+
+60
+00:02:19,740 --> 00:02:21,100
+PART.2: ¿Es más grande que un humano?
+
+61
+00:02:23,820 --> 00:02:24,940
+PART.2: Ahí ahí.
+
+62
+00:02:28,100 --> 00:02:29,780
+PART.1: No es... Sí.
+
+63
+00:02:30,780 --> 00:02:31,900
+PART.2: Bueno, ahí ahí.
+
+64
+00:02:32,660 --> 00:02:34,140
+PART.2: Sí, pero... Vale.
+
+65
+00:02:34,220 --> 00:02:35,140
+PART.1: Depende de qué humano.
+
+66
+00:02:37,180 --> 00:02:38,820
+PART.2: Y de lo que quiera que
+sea esto.
+
+67
+00:02:38,900 --> 00:02:39,820
+PART.1: Un poquito.
+
+68
+00:02:39,900 --> 00:02:40,900
+PART.2: Vale, vale.
+
+69
+00:02:44,220 --> 00:02:45,460
+PART.2: ¿Camina sobre cuatro patas?
+
+70
+00:02:45,540 --> 00:02:46,260
+PART.1: Sí.
+
+71
+00:02:47,140 --> 00:02:48,500
+PART.2: Camina sobre cuatro
+patas.
+
+72
+00:02:49,420 --> 00:02:50,620
+PART.2: Eh...
+
+73
+00:02:55,860 --> 00:02:57,020
+PART.2: ¿Vivo...
+
+74
+00:02:58,300 --> 00:02:59,460
+PART.2: en bosques?
+
+75
+00:03:01,860 --> 00:03:02,980
+PART.1: No.
+
+76
+00:03:07,700 --> 00:03:09,020
+PART.2: ¿Vivo en la sabana?
+
+77
+00:03:10,540 --> 00:03:11,700
+PART.1: No.
+
+78
+00:03:15,700 --> 00:03:16,780
+PART.2: ¿Soy felino?
+
+79
+00:03:16,980 --> 00:03:17,940
+PART.1: No.
+
+80
+00:03:24,860 --> 00:03:26,180
+PART.2: Eh...
+
+81
+00:03:34,260 --> 00:03:35,380
+PART.2: ¿Soy herbívoro?
+
+82
+00:03:38,620 --> 00:03:39,620
+PART.1: Sí.
+
+83
+00:03:40,060 --> 00:03:41,140
+PART.1: Creo que sí, sí.
+
+84
+00:03:41,660 --> 00:03:43,660
+PART.2: Se me han olvidado
+algunas de las preguntas que he hecho.
+
+85
+00:03:43,740 --> 00:03:44,700
+PART.2: ¿Soy felino?
+
+86
+00:03:50,020 --> 00:03:51,140
+PART.2: Eh...
+
+87
+00:03:51,580 --> 00:03:52,940
+PART.2: Voy sobre cuatro patas.
+
+88
+00:03:58,940 --> 00:04:00,020
+PART.2: Toma ya.
+
+89
+00:04:00,940 --> 00:04:02,500
+PART.1: Hombre, cuatro patas es
+muy habitual.
+
+90
+00:04:02,580 --> 00:04:03,460
+PART.2: Claro, claro.
+
+91
+00:04:06,300 --> 00:04:08,220
+PART.2: Y no soy mucho más grande
+que un humano.
+
+92
+00:04:09,740 --> 00:04:12,100
+PART.1: Un ser humano de pie
+o tumbado, como... quieras.
+
+93
+00:04:10,380 --> 00:04:11,220
+PART.2: Y soy herbívoro.
+
+94
+00:04:12,340 --> 00:04:13,700
+PART.2: Y soy herbívoro.
+
+95
+00:04:14,220 --> 00:04:15,300
+PART.2: En volumen.
+
+96
+00:04:17,940 --> 00:04:18,820
+PART.2: O...
+
+97
+00:04:18,900 --> 00:04:21,180
+PART.1: Hombre, en volumen sí,
+pero no en alto.
+
+98
+00:04:21,260 --> 00:04:22,260
+PART.2: Vale.
+
+99
+00:04:22,340 --> 00:04:23,820
+PART.1: Hombre, no es...
+
+100
+00:04:25,260 --> 00:04:26,380
+PART.1: mucho más.
+
+101
+00:04:26,460 --> 00:04:28,260
+PART.1: Pero no es alto especialmente.
+
+102
+00:04:32,220 --> 00:04:33,540
+PART.1: Y por algún sitio
+más grande.
+
+103
+00:04:35,580 --> 00:04:37,180
+PART.1: No es lo mismo.
+
+104
+00:04:37,260 --> 00:04:38,460
+PART.2: Eh...
+
+105
+00:04:46,420 --> 00:04:48,380
+PART.2: ¿Tengo la capacidad de ir también
+sobre dos patas?
+
+106
+00:04:50,060 --> 00:04:51,140
+PART.1: No especialmente.
+
+107
+00:04:51,220 --> 00:04:53,420
+PART.1: Poder podría, pero no sé si podrá.
+
+108
+00:04:53,780 --> 00:04:54,780
+PART.2: Vale.
+
+109
+00:04:54,860 --> 00:04:56,500
+PART.1: No, andar... Andar a dos
+patas no.
+
+110
+00:04:57,540 --> 00:05:00,060
+PART.1: Se podrá poner a dos patas,
+pero no como para andar.
+
+111
+00:05:03,220 --> 00:05:04,460
+PART.2: ¿Vivo en la jungla?
+
+112
+00:05:04,540 --> 00:05:05,620
+PART.1: No.
+
+113
+00:05:14,700 --> 00:05:15,820
+PART.1: ¿Es un canguro?
+
+114
+00:05:19,740 --> 00:05:20,620
+PART.1: No, ¿no?
+
+115
+00:05:20,700 --> 00:05:21,100
+PART.1: No.
+
+116
+00:05:21,180 --> 00:05:21,620
+PART.2: Vale.
+
+117
+00:05:21,700 --> 00:05:25,180
+PART.1: Hay más sitios donde se
+puede vivir que en la sabana ni en la selva ni en la jungla, ¿no?
+
+118
+00:05:25,260 --> 00:05:26,460
+PART.2: Ya, no sé.
+
+119
+00:05:27,300 --> 00:05:28,900
+PART.2: ¡Toma ya, un burro!
+
+120
+00:05:29,140 --> 00:05:30,500
+PART.1: Doméstico más bien.
+
+121
+00:05:30,580 --> 00:05:32,620
+PART.2: Claro, no he preguntado
+por ahí.
+
+122
+00:05:32,700 --> 00:05:33,820
+PART.1: Un animal doméstico.
+
+123
+00:05:35,100 --> 00:05:36,660
+PART.2: Vaya, vaya, es el primero
+que no acierto.
+
+124
+00:05:36,740 --> 00:05:37,940
+PART.1: Tienes sueño,
+evidentemente.
+
+125
+00:05:38,020 --> 00:05:39,500
+PART.2: Sí, es el primero
+que no acierto.
+
+126
+00:05:40,180 --> 00:05:45,020
+PART.2: No estaba pensando para nada
+en animales domésticos porque en mi cabeza no hay casi animales domésticos en esta baraja.
+
+127
+00:05:45,580 --> 00:05:46,940
+PART.2: Este es a lo mejor el único
+más doméstico.
+
+128
+00:05:47,020 --> 00:05:48,620
+PART.1: Pues yo ha sido la
+primera pregunta que le he hecho a Raúl.
+
+129
+00:05:49,100 --> 00:05:49,860
+PART.2: ¿Sí?
+
+130
+00:05:49,940 --> 00:05:50,860
+PART.1: Cuando me ha tocado
+antes.
+
+131
+00:05:50,940 --> 00:05:53,620
+PART.2: Es una buena pregunta
+en realidad porque, ya te digo, no hay tantos.
+
+132
+00:05:53,860 --> 00:05:56,140
+PART.2: Porque no hay ni perros ni gatos
+ni nada así.
+
+133
+00:05:56,220 --> 00:05:57,260
+PART.1: Tú que la conoces.
+
+134
+00:05:57,860 --> 00:05:58,940
+PART.2: Claro.
+
+135
+00:05:59,220 --> 00:06:01,380
+PART.2: ¿Ves? Aquí en este caso ha jugado
+en mi contra el conocerla.
+
+136
+00:06:02,860 --> 00:06:06,140
+PART.2: Estaba un poco como pensando... que
+podría ser.
+
+137
+00:06:04,820 --> 00:06:06,180
+PART.1: Que doméstico no podía
+ser.
+
+138
+00:06:06,660 --> 00:06:08,380
+PART.2: Claro, estaba ahí
+cerrado.
+
+139
+00:06:08,460 --> 00:06:10,660
+PART.2: Estaba pensando en algo rollo vaca o
+así.
+
+140
+00:06:10,740 --> 00:06:11,900
+PART.1: ¿Y las dos patas?
+
+141
+00:06:12,940 --> 00:06:14,060
+PART.1: ¿Qué animal se pone a dos patas?
+
+142
+00:06:14,140 --> 00:06:15,940
+PART.2: Estaba pensando
+en el canguro.
+
+143
+00:06:16,020 --> 00:06:17,060
+PART.1: Yo también he pensado en
+canguro.
+
+144
+00:06:17,140 --> 00:06:19,420
+PART.2: Estaba pensando en el...,
+pero, claro, el canguro no va a cuatro.
+
+145
+00:06:19,780 --> 00:06:21,060
+PART.2: Estaba pensando en el "guibón".
+
+146
+00:06:21,620 --> 00:06:22,940
+PART.2: Es un mono que hay ahí.
+
+147
+00:06:23,300 --> 00:06:25,500
+PART.2: Pero, claro, el "guibón" es de nivel
+3, este es el nivel 1.
+
+148
+00:06:25,580 --> 00:06:26,500
+PART.1: ¿Qué es eso?
+
+149
+00:06:26,580 --> 00:06:27,620
+PART.2: La dificultad.
+
+150
+00:06:28,140 --> 00:06:29,180
+PART.1: ¿Nivel 1 es...?
+
+151
+00:06:29,260 --> 00:06:30,140
+PART.2: Fácil.
+
+152
+00:06:30,460 --> 00:06:31,740
+PART.2: Estos son los más facilitos.
+
+153
+00:06:32,060 --> 00:06:33,780
+PART.1: A mí me ponen un "guibón"
+y no sé lo que es.
+
+154
+00:06:34,180 --> 00:06:35,220
+PART.2: Nadie.
+
+155
+00:06:35,940 --> 00:06:37,180
+PART.2: Y el albatros.
+
+156
+00:06:37,260 --> 00:06:38,620
+PART.1: Y más
+poniéndolo en inglés.
+
+157
+00:06:38,700 --> 00:06:39,820
+PART.2: En inglés.
+
+158
+00:06:40,180 --> 00:06:41,140
+PART.2: El burro.
+
+159
+00:06:41,580 --> 00:06:43,100
+PART.1: Ya te digo,
+yo creo que es un burro.
+
+160
+00:06:43,580 --> 00:06:45,700
+PART.1: Pero, claro, yo "donkey" no había
+oído esa palabra nunca.
+
+161
+00:06:46,140 --> 00:06:47,180
+PART.2: "Donkey".
+
+162
+00:06:47,740 --> 00:06:49,500
+PART.2: "Arse" también creo que se le llama.
+
+163
+00:06:50,660 --> 00:06:51,900
+PART.2: "Arse".
+
+164
+00:06:52,300 --> 00:06:53,540
+PART.2: Sí, se le llama.
+
+165
+00:06:54,180 --> 00:06:55,260
+PART.2: "Donkey".
+
+166
+00:06:56,060 --> 00:06:57,340
+PART.2: "Arse".
+
+167
+00:06:58,500 --> 00:06:59,660
+PART.2: No lo sé.
+
+168
+00:07:00,460 --> 00:07:02,220
+PART.2: ¿Cómo se dice "burro" en inglés"?
+
+169
+00:07:02,300 --> 00:07:03,540
+PART.1: "Donk", ¿no?
+
+170
+00:07:03,620 --> 00:07:05,500
+PART.2: "Donkey", sí, pero creo
+que había otra manera de decirlo.
+

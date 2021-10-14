@@ -1,0 +1,450 @@
+1
+00:00:01,560 --> 00:00:02,240
+PART.1: Bueno
+
+2
+00:00:02,320 --> 00:00:03,160
+PART.2:  ¿Qué tal?
+
+3
+00:00:03,240 --> 00:00:04,840
+PART.1: Eh, soy Daniel,
+¿cómo te llamas?
+
+4
+00:00:04,560 --> 00:00:05,840
+PART.2:  ¿Daniel? Paulo.
+
+5
+00:00:05,920 --> 00:00:07,080
+PART.1: Un placer.
+
+6
+00:00:07,160 --> 00:00:12,520
+PART.1: Y tú ya habías hecho esto, ¿lo has
+hecho antes otras veces
+además de con Belén?
+
+7
+00:00:12,600 --> 00:00:13,280
+PART.1: Sí, ¿no?
+
+8
+00:00:13,360 --> 00:00:17,960
+PART.2:  Hoy con Belén y la semana pasada
+con dos personas más.
+
+9
+00:00:18,040 --> 00:00:20,560
+PART.1: Claro, porque he visto que eras el
+35.
+
+10
+00:00:20,640 --> 00:00:21,920
+PART.2:  Sí.
+
+11
+00:00:22,000 --> 00:00:23,440
+PART.1: Algo ha influido.
+
+12
+00:00:24,600 --> 00:00:25,680
+PART.1: Yo, eh.
+
+13
+00:00:25,920 --> 00:00:29,480
+PART.1: ¿Tú conoces a alguien de los
+experimentadores?
+
+14
+00:00:29,560 --> 00:00:30,120
+PART.2:  No.
+
+15
+00:00:30,200 --> 00:00:32,200
+PART.2:  No, no, yo llegué aquí porque...
+
+16
+00:00:32,280 --> 00:00:33,280
+PART.1: ¿Cómo te han contactado?
+
+17
+00:00:33,360 --> 00:00:34,560
+PART.2:  Me dieron el dato.
+
+18
+00:00:34,640 --> 00:00:40,880
+PART.2:  Mi esposa encontró información de
+que estaban buscando a gente para el
+estudio y...
+
+19
+00:00:40,040 --> 00:00:40,880
+PART.1: Sí.
+
+20
+00:00:40,960 --> 00:00:42,720
+PART.2:  Y me ofrecí a venir, también.
+
+21
+00:00:42,800 --> 00:00:43,760
+PART.1: Guay.
+
+22
+00:00:43,840 --> 00:00:45,560
+PART.1: Sí, por la ciencia.
+
+23
+00:00:45,640 --> 00:00:46,840
+PART.2:  Claro.
+
+24
+00:00:46,920 --> 00:00:51,400
+PART.1: Yo soy, bueno, compañero de clase
+de este.
+
+25
+00:00:51,480 --> 00:00:55,800
+PART.1: y estudiamos juntos inteligencia
+artificial aquí y tal.
+
+26
+00:00:54,400 --> 00:00:55,120
+PART.2:  Ajá.
+
+27
+00:00:56,360 --> 00:00:59,200
+PART.2:  Sí, me di cuanta que ha reclutado
+a todos los conocidos que tenía.
+
+28
+00:00:59,280 --> 00:01:03,600
+PART.1: Claro, sí, toda la gente que
+conoce de Barcelona, creo que
+se pasa, por aquí.
+
+29
+00:01:03,680 --> 00:01:05,000
+PART.2:  ¿Tú eres de aquí de Barcelona?
+
+30
+00:01:05,080 --> 00:01:09,840
+PART.1: No, de Valencia,
+pero bueno, estoy estudiando y ahora
+buscando trabajo aquí.
+
+31
+00:01:09,920 --> 00:01:11,360
+PART.2:  Vale, ¿y qué estudiaste?
+
+32
+00:01:11,440 --> 00:01:12,360
+PART.1: Informática.
+
+33
+00:01:12,080 --> 00:01:12,720
+PART.2:  Informática.
+
+34
+00:01:12,800 --> 00:01:13,520
+PART.1: ¿Y tú?
+
+35
+00:01:13,600 --> 00:01:15,720
+PART.2:  Yo soy profesor de inglés.
+
+36
+00:01:16,240 --> 00:01:16,640
+PART.1: Sí.
+
+37
+00:01:16,480 --> 00:01:23,800
+PART.2:  Pero, claro, vine a Barcelona
+acompañando a mi esposa, que vino a
+hacer un máster de "Español como
+lengua extranjera" aquí en la UE.
+
+38
+00:01:23,880 --> 00:01:24,640
+PART.1: Los dos profesores.
+
+39
+00:01:24,720 --> 00:01:34,720
+PART.2:  Sí, ella es profesora de lenguaje,
+de lengua española y ahora ya sacó
+su máster y a mí me queda defender
+mi TFM en la Autónoma.
+
+40
+00:01:34,800 --> 00:01:38,120
+PART.1: O sea, que también de enseñanza.
+
+41
+00:01:38,200 --> 00:01:40,760
+PART.2:  Sí, también es de "Español como
+lengua extranjera".
+
+42
+00:01:40,840 --> 00:01:41,560
+PART.1: Sí.
+
+43
+00:01:41,640 --> 00:01:46,200
+PART.1: Que bueno, pues muchos ánimos con
+el TFM a mí me fue muy duro.
+
+44
+00:01:44,120 --> 00:01:45,120
+PART.1: Gracias.
+
+45
+00:01:46,280 --> 00:01:53,560
+PART.1: Los trabajos así largos y de
+planificar y tal,
+me cuesta un montón, pero bueno,
+se consigue, al final, siempre.
+
+46
+00:01:53,720 --> 00:02:01,160
+PART.1: Sí, para mí también, todo se me ha
+hecho muy, todo muy complicado,
+seguirle el ritmo a todo lo que es
+la investigación y todo eso.
+
+47
+00:02:01,240 --> 00:02:04,120
+PART.1: Sí, ¿y qué es el trabajo que estás
+haciendo?
+
+48
+00:02:04,200 --> 00:02:06,640
+PART.1: O sea, ¿el TFM?
+
+49
+00:02:06,720 --> 00:02:09,040
+PART.2:  Sí, son, a ver cómo lo...
+
+50
+00:02:10,440 --> 00:02:17,240
+PART.2:  Son preferencias en la elección de
+palabras...
+
+51
+00:02:17,320 --> 00:02:18,320
+PART.1: Sí.
+
+52
+00:02:18,400 --> 00:02:25,960
+PART.1: entre hablantes de español
+peninsular y hablantes de español en
+la variedad chilena.
+
+53
+00:02:26,040 --> 00:02:27,520
+PART.1: Ah, claro.
+
+54
+00:02:27,600 --> 00:02:38,280
+PART.2:  Porque hay muchas construcciones
+que significan lo mismo,
+pero nosotros utilizamos unas, unos
+verbos, por ejemplo, para decirlas y
+ustedes los españoles utilizan otros
+verbos diferentes.
+
+55
+00:02:38,360 --> 00:02:39,440
+PART.1: Claro.
+
+56
+00:02:39,520 --> 00:02:41,120
+PART.1: Que guay, viendo las diferencias.
+
+57
+00:02:41,200 --> 00:02:41,800
+PART.2:  Claro.
+
+58
+00:02:41,880 --> 00:02:59,280
+PART.1: Yo también he trabajado algo de
+cerca con el lenguaje,
+porque, bueno el TFM que hice yo,
+que fue también del máster de
+Inteligencia Artificial, pero acabé
+haciendo el trabajo en un
+laboratorio de neurociencia
+justo en un grupo que estudiaban en
+lenguaje.
+
+59
+00:02:59,360 --> 00:03:03,520
+PART.1: Y era de cómo aprendíamos el
+lenguaje y tal, y casi todos eran,
+lingüis...
+
+60
+00:03:03,600 --> 00:03:06,240
+PART.1: Había muy pocos psicólogos, en
+realidad, la mayoría eran
+lingüistas.
+
+61
+00:03:06,320 --> 00:03:07,000
+PART.2:  Vale.
+
+62
+00:03:07,080 --> 00:03:08,440
+PART.1: Muy interesante.
+
+63
+00:03:08,520 --> 00:03:09,280
+PART.2:  Interesante, sí.
+
+64
+00:03:09,360 --> 00:03:19,960
+PART.1: Yo estuve haciendo esto, cómo
+apretemos patrones de estímulo a
+partir de, tanto visuales como
+auditivos.
+
+65
+00:03:20,040 --> 00:03:24,200
+PART.1: Las maneras de aprender el
+lenguaje y no sé.
+
+66
+00:03:24,280 --> 00:03:25,640
+PART.1: ¿Y eso se...?
+
+67
+00:03:25,200 --> 00:03:27,720
+PART.1: Hay mucha, ¿para qué se puede
+aplicar, no?
+
+68
+00:03:27,800 --> 00:03:28,640
+PART.2:  Claro.
+
+69
+00:03:28,720 --> 00:03:29,920
+PART.1: ¿Cuál es la aplicación directa?
+
+70
+00:03:30,000 --> 00:03:31,680
+PART.1: No sé, eso es difícil.
+
+71
+00:03:31,440 --> 00:03:35,760
+PART.2:  ¿Se puede sistematizar así como
+para convertirlo en un programa el
+aprendizaje?
+
+72
+00:03:34,920 --> 00:03:36,240
+PART.1: Eh, claro.
+
+73
+00:03:36,320 --> 00:03:37,360
+PART.1: ¿Un programa informático?
+
+74
+00:03:37,440 --> 00:03:44,240
+PART.2:  Los profesores pensaréis
+directamente eso, para mí la
+aplicación, eh, sé que hay otros
+estudios que sí que se aplican más
+directamente y tal.
+
+75
+00:03:44,320 --> 00:03:58,120
+PART.1: El mío era muy abstracto,
+en el sentido de que eran también
+sonidos e imágenes abstractos, sin
+sentido, pero que buscábamos más ver
+a un nivel como mucho más bajo
+o mecanístico cómo funciona el
+cerebro, ¿no?
+
+76
+00:03:58,200 --> 00:03:58,680
+PART.2:  Vale.
+
+77
+00:03:58,760 --> 00:04:05,120
+PART.1: Hasta qué punto están unidas la
+parte de procesamiento visual y la
+parte de procesamiento auditivo.
+
+78
+00:04:05,200 --> 00:04:10,680
+PART.2:  Que esto es como mucho más básica
+aun que el lenguaje.
+
+79
+00:04:10,760 --> 00:04:11,360
+PART.2:  Claro.
+
+80
+00:04:11,440 --> 00:04:14,040
+PART.2:  Claro, son como procesos
+elementales.
+
+81
+00:04:14,120 --> 00:04:15,120
+PART.1: Sí, sí, sí.
+
+82
+00:04:15,080 --> 00:04:15,600
+PART.2:  Ya, sí.
+
+83
+00:04:15,680 --> 00:04:33,920
+PART.1: Pero el resto de compañeros míos
+sí que trabajan con palabras y tal
+y, por ejemplo, puede ser que igual
+es más fácil aprender lenguaje si lo
+oyes con una musicalidad y tal, con
+canciones, y también...
+
+84
+00:04:34,920 --> 00:04:37,080
+PART.1: Sí, no sé, cosas así.PERSONA B:
+
+85
+00:04:37,560 --> 00:04:44,240
+PART.1: Tampoco sé exactamente qué
+aplicaciones tendría
+en la enseñanza, pero bueno.
+
+86
+00:04:47,960 --> 00:04:49,040
+PART.1: Y...
+
+87
+00:04:49,760 --> 00:04:53,960
+PART.1: No sé, tengo unas ganas de que nos
+pongan el Lego.
+
+88
+00:04:56,040 --> 00:04:59,000
+PART.2:  La mente infantil ahí explotando.
+
+89
+00:04:59,080 --> 00:05:02,880
+PART.1: Sí, sí, sí, yo era muy friqui de
+eso.
+
+90
+00:05:05,000 --> 00:05:06,000
+PART.1: A ver.
+
+91
+00:05:06,080 --> 00:05:09,520
+PART.2:  En Chile, en general, no son muy
+populares porque son carísimos.
+
+92
+00:05:09,600 --> 00:05:14,400
+PART.1: Ya, sí, sí, sí, son muy caros,
+tuve suerte de haber tenido tantos.
+

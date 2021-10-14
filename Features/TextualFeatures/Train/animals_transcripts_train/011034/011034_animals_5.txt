@@ -1,0 +1,74 @@
+96
+00:05:02,999 --> 00:05:03,519
+PART.2: Prueba.
+
+97
+00:05:07,479 --> 00:05:08,479
+PART.1: Soy...
+
+98
+00:05:15,599 --> 00:05:17,359
+PART.1: Estoy pensando en
+mamíferos grandes.
+
+99
+00:05:24,399 --> 00:05:25,519
+PART.1: ¿Soy un león?
+
+100
+00:05:26,279 --> 00:05:27,759
+PART.1: Que trepo mal los árboles.
+
+101
+00:05:29,919 --> 00:05:30,559
+PART.2: No.
+
+102
+00:05:31,959 --> 00:05:33,959
+PART.2: No porque me preguntaste
+si comía carne.
+
+103
+00:05:34,439 --> 00:05:35,719
+PART.1: Ay,
+y me has dicho que no.
+
+104
+00:05:35,799 --> 00:05:36,799
+PART.2: No, no come carne.
+
+105
+00:05:41,119 --> 00:05:43,159
+PART.2: Yo sí, pero no soy un
+lobo, ¿qué puedo ser?
+
+106
+00:05:43,239 --> 00:05:44,279
+PART.2: ¿Un coyote?
+
+107
+00:05:45,399 --> 00:05:46,639
+PART.1: No, pero casi.
+
+108
+00:05:49,199 --> 00:05:50,079
+PART.1: ¿Soy un panda?
+
+109
+00:05:50,239 --> 00:05:50,999
+PART.2: Sí.
+
+110
+00:05:52,359 --> 00:05:53,359
+PART.1: ¡Bien!
+
+111
+00:05:53,719 --> 00:05:59,799
+PART.2: Por eso antes me reía,
+porque me acordé del vídeo del panda
+tratando de subir una cuerda.
+
+112
+00:05:57,759 --> 00:05:58,919
+PART.1: Ay, me encantan.
+

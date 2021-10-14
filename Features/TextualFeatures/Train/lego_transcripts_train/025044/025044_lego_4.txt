@@ -1,0 +1,48 @@
+53
+00:04:00,243 --> 00:04:02,803
+PART.1:  Hacemos otra cosa.
+
+54
+00:04:02,883 --> 00:04:05,003
+PART.2: ¿Quieres hacer otra cosa?
+
+55
+00:04:05,083 --> 00:04:09,523
+PART.1:  Me encanta Lego. Este es Lego,
+¿no?
+
+56
+00:04:09,603 --> 00:04:10,283
+PART.2: Ajá.
+
+57
+00:04:10,363 --> 00:04:13,363
+PART.1:  Hay los Legos y hay los otros,
+los...
+
+58
+00:04:13,443 --> 00:04:15,803
+PART.2: Sí, tienen otro nombre.
+
+59
+00:04:15,883 --> 00:04:21,763
+PART.1:  Tampoco me acuerdo.
+Pero son genial, mira.
+
+60
+00:04:21,843 --> 00:04:26,243
+PART.2: Ay, qué ternura. Voy a hacer este.
+
+61
+00:04:40,243 --> 00:04:41,243
+PART.2: Ponemos.
+
+62
+00:04:43,563 --> 00:04:44,563
+PART.1:  Muy bonito.
+
+63
+00:04:47,643 --> 00:04:54,763
+PART.1:  Quería hacer un avión
+porque tenemos las hélices aquí.
+

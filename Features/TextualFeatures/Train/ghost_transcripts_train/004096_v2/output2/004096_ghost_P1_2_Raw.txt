@@ -1,0 +1,7 @@
+Todos los jugadores tienen cartas de colores y figuras.
+Tú tiras una carta y el otro jugador tira otra carta, y sitenemos la misma figura,independientemente del color,tenemos que ir a por un palo o untótem que está en medio de la mesa.
+El que coge el tótem, le pasa sus cartas al siguiente jugador.
+Puede ser que muchos jugadores vayan tirando cartas en la mesa ynadie tenga duelos.
+Pero en el momento que hay un duelo, a lo mejor, tienes diezcartas y se las pasas al otro.
+Y si alguien va a por el tótem y no era un duelo, porque las figurasson muy similares, pero tienen unadiferencia muy pequeña, tienes quecoger las cartas de toda la mesa.
+Es muy chulo porque se generan peleas.

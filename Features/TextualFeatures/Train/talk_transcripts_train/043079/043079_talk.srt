@@ -1,0 +1,609 @@
+﻿1
+00:00:00,-30 --> 00:00:00,-01
+SUPERVISOR: Hasta ahora.
+
+2
+00:00:00,868 --> 00:00:02,468
+PART.1: ¿Hiciste ya entonces?
+
+3
+00:00:02,468 --> 00:00:03,388
+PART.2: Sí.
+
+4
+00:00:03,388 --> 00:00:04,388
+PART.1: Ah... ¿Tu nombre?
+
+5
+00:00:04,388 --> 00:00:05,348
+PART.2: Dani.
+
+6
+00:00:05,348 --> 00:00:06,348
+PART.1: Irineo.
+
+7
+00:00:06,348 --> 00:00:06,788
+PART.2: ¿Irineo?
+
+8
+00:00:06,788 --> 00:00:07,588
+PART.1: Sí.
+
+9
+00:00:07,588 --> 00:00:08,108
+PART.2: Un placer.
+
+10
+00:00:08,108 --> 00:00:08,668
+PART.1: Un placer.
+
+11
+00:00:08,668 --> 00:00:09,348
+PART.2: ¿Irineo?
+
+12
+00:00:09,348 --> 00:00:10,148
+PART.1: Sí.
+
+13
+00:00:10,148 --> 00:00:11,228
+PART.2: ¿Qué...?
+
+14
+00:00:10,728 --> 00:00:11,368
+PART.1: Yo soy de Brasil.
+
+15
+00:00:11,368 --> 00:00:12,248
+PART.2: Ah, ¿Brasil?
+
+16
+00:00:12,248 --> 00:00:15,288
+PART.1: Pero no es un nombre
+muy... muy común allí, también es
+un poco...
+
+17
+00:00:15,288 --> 00:00:17,768
+PART.1: Es lo que...
+
+18
+00:00:17,768 --> 00:00:22,328
+PART.1: que siempre comento acá es que,
+bueno, Irineo somos los Pirineos,
+pero sin la "P".
+
+19
+00:00:22,328 --> 00:00:23,288
+PART.2: Sí.
+
+20
+00:00:23,288 --> 00:00:26,008
+PART.1: Ahí nunca más la gente
+se olvida, ¿sabes?
+
+21
+00:00:26,008 --> 00:00:28,328
+PART.1: Pero creo que es de rumano o una
+cosa así.
+
+22
+00:00:28,328 --> 00:00:29,848
+PART.2: ¿De Rumanía?
+
+23
+00:00:29,848 --> 00:00:31,328
+PART.1: De Rumanía, sí.
+
+24
+00:00:31,328 --> 00:00:32,448
+PART.1: Creo, no sé.
+
+25
+00:00:32,448 --> 00:00:33,488
+PART.2: ¿Rumanía?
+
+26
+00:00:33,488 --> 00:00:34,488
+PART.1: Sí, es diferente.
+
+27
+00:00:34,488 --> 00:00:35,408
+PART.2: ¿O de Roma?
+
+28
+00:00:35,408 --> 00:00:36,768
+PART.1: No, de Roma no.
+
+29
+00:00:36,768 --> 00:00:38,848
+PART.1: De Rumanía, más por ahí.
+
+30
+00:00:38,848 --> 00:00:43,608
+PART.1: Sí, estos nombres antiguos que ya
+se perdieron por el camino, no sé
+qué...
+
+31
+00:00:43,608 --> 00:00:46,128
+PART.2: ¿Entonces tienes
+familiares de Rumanía?
+
+32
+00:00:46,128 --> 00:00:47,888
+PART.1: No, no tengo, no.
+
+33
+00:00:47,888 --> 00:00:52,888
+PART.1: Mi familia es de Italia, y bueno,
+mis bisabuelos.
+
+34
+00:00:52,888 --> 00:00:54,208
+PART.2: Ah...
+
+35
+00:00:54,208 --> 00:00:56,728
+PART.1: Pero mis padres y todo
+esto, de Brasil.
+
+36
+00:00:56,728 --> 00:00:59,088
+PART.1: En Brasil. Yo vivo aquí...
+
+37
+00:01:00,008 --> 00:01:02,408
+PART.1: Dos años y medio más o menos.
+
+38
+00:01:03,028 --> 00:01:09,068
+PART.1: Y bueno, yo vine para un máster y
+todo y ya estoy trabajando y tal.
+
+39
+00:01:09,068 --> 00:01:10,068
+PART.1: ¿Tú eres catalán?
+
+40
+00:01:10,068 --> 00:01:12,148
+PART.2: Sí, sí, soy de aquí.
+
+41
+00:01:13,428 --> 00:01:16,348
+PART.2: Entonces digamos que eres lo
+contrario a criollo, ¿no?
+
+42
+00:01:17,348 --> 00:01:21,428
+PART.2: Criollo, es decir, los que no son
+autóctonos de...
+
+43
+00:01:21,428 --> 00:01:21,988
+PART.1: Sí, porque...
+
+44
+00:01:21,988 --> 00:01:23,508
+PART.2: De Latinoamérica.
+
+45
+00:01:23,508 --> 00:01:34,668
+PART.1: Claro, sí, sí, podemos
+decir que sí, porque en algún
+momento, bueno, de la historia o no
+sé qué, hubo una migración grande
+de europeos a Sudamérica.
+
+46
+00:01:35,108 --> 00:01:47,228
+PART.1: Entonces hay mucha... mucha gente
+que tiene como orígenes alemanes,
+polacos, italianos...
+
+47
+00:01:47,708 --> 00:01:51,908
+PART.1: En Argentina, Brasil, un poco en
+Chile también...
+
+48
+00:01:51,908 --> 00:01:53,068
+PART.1: Porque... Bueno, eso hace tiempo.
+
+49
+00:01:53,068 --> 00:02:00,108
+PART.1: Y bueno, ahí por eso, hay acuerdos
+de nacionalidad.
+
+50
+00:02:00,748 --> 00:02:01,948
+PART.2: ¿Qué es eso?
+
+51
+00:02:01,948 --> 00:02:06,108
+PART.1: Sí. Bueno, yo tengo el
+pasaporte italiano y el pasaporte
+portugués de Brasil.
+
+52
+00:02:06,108 --> 00:02:07,108
+PART.2: Ah...
+
+53
+00:02:07,108 --> 00:02:11,108
+PART.1: Por eso, ¿sabes? Porque
+mis bisabuelos no sé que...
+
+54
+00:02:11,108 --> 00:02:14,268
+PART.1: Claro, hay toda una burocracia para
+hacer eso.
+
+55
+00:02:14,268 --> 00:02:23,188
+PART.1: Yo tengo que buscar los
+certificados de nacimiento, de
+muerte, no sé qué, no sé qué, de
+toda la generación...
+
+56
+00:02:23,188 --> 00:02:24,228
+PART.2: ¡Guau!
+
+57
+00:02:24,228 --> 00:02:26,388
+PART.1: Para presentar: "Mira,
+esta es la...".
+
+58
+00:02:26,388 --> 00:02:29,708
+PART.1: ¿Sí? El árbol... ¿Sí?
+
+59
+00:02:29,708 --> 00:02:30,588
+PART.2: Sí.
+
+60
+00:02:30,588 --> 00:02:33,588
+PART.1: De mis papeles hasta el
+italiano.
+
+61
+00:02:33,588 --> 00:02:37,108
+PART.2: Veo, depende de qué
+situación, la veo difícil, ¿no?
+
+62
+00:02:37,108 --> 00:02:37,948
+PART.1: Sí.
+
+63
+00:02:37,948 --> 00:02:38,908
+PART.2: En caso de que...
+
+64
+00:02:38,908 --> 00:02:41,308
+PART.1: No, es difícil, es
+difícil, porque tienes que
+buscar...
+
+65
+00:02:41,308 --> 00:02:48,548
+PART.1: A veces tienes que buscar papeles
+en inglés, porque en aquel tiempo
+no había notarios.
+
+66
+00:02:48,548 --> 00:02:48,988
+PART.2: Claro.
+
+67
+00:02:48,988 --> 00:02:49,468
+PART.1: Ni esas cosas.
+
+68
+00:02:49,468 --> 00:02:54,908
+PART.1: Los papeles eran en inglés y no sé
+qué, y a veces, hay que buscar
+papales en Italia.
+
+69
+00:02:55,388 --> 00:02:59,268
+PART.1: Porque nació en Italia y después se
+trasladó a Brasil.
+
+70
+00:02:59,268 --> 00:03:00,708
+PART.1: O sea, es un rollo...
+
+71
+00:03:01,188 --> 00:03:03,108
+PART.1: Pero al final...
+
+72
+00:03:03,108 --> 00:03:05,468
+PART.1: Bueno, ahí presentas los papeles,
+no sé qué...
+
+73
+00:03:05,468 --> 00:03:12,828
+PART.1: Yo llegué a vivir en Italia un
+tiempo, mientras estaba acá, pero
+fui a Italia para arreglar eso,
+¿no?
+
+74
+00:03:12,828 --> 00:03:15,948
+PART.1: Para buscar los papeles, no sé qué,
+presentar, mil...
+
+75
+00:03:15,948 --> 00:03:23,988
+PART.1: Y hay un tiempo de investigación
+del Gobierno italiano y, bueno,
+ahora tengo los dos pasaportes.
+
+76
+00:03:23,988 --> 00:03:25,868
+PART.2: Entonces tienes como...
+
+77
+00:03:25,868 --> 00:03:28,308
+PART.2: Puedes estar por toda Latinoamérica
+y por toda Europa, ¿no?
+
+78
+00:03:28,308 --> 00:03:29,268
+PART.1: Más o menos.
+
+79
+00:03:29,268 --> 00:03:29,748
+PART.2: ¿Sí?
+
+80
+00:03:29,748 --> 00:03:31,468
+PART.1: Más o menos eso. Depende
+de...
+
+81
+00:03:31,468 --> 00:03:36,228
+PART.1: Depende de cómo yo presento el
+pasaporte de Brasil o el
+pasaporte italiano.
+
+82
+00:03:36,228 --> 00:03:37,188
+PART.2: Claro.
+
+83
+00:03:37,188 --> 00:03:40,588
+PART.1: Depende de lo que
+convenga más, ¿sí?
+
+84
+00:03:40,588 --> 00:03:46,028
+PART.1: Si voy a Brasil, presento el
+pasaporte de allí.
+
+85
+00:03:46,028 --> 00:03:50,948
+PART.1: Si llego aquí, a Europa, presento
+el pasaporte italiano.
+
+86
+00:03:50,948 --> 00:03:53,188
+PART.2: Tienes los mismos
+derechos que un europeo, ¿no?
+
+87
+00:03:53,188 --> 00:03:54,188
+PART.1: Sí, sí.
+
+88
+00:03:54,188 --> 00:03:54,748
+PART.2: Vale.
+
+89
+00:03:54,748 --> 00:03:56,908
+PART.1: Por eso que trabajo aquí
+como un...
+
+90
+00:03:56,908 --> 00:03:57,948
+PART.2: Un europeo más.
+
+91
+00:03:57,948 --> 00:03:59,468
+PART.1: Sí, un...
+
+92
+00:03:59,468 --> 00:04:02,988
+PART.2: Solo te falta el de
+Estados Unidos ya y ya puedes
+entrar en cualquier sitio.
+
+93
+00:04:03,948 --> 00:04:05,788
+PART.1: Yo viví en los Estados
+Unidos.
+
+94
+00:04:05,788 --> 00:04:08,068
+PART.1: Yo viví en una ciudad llamada San
+Luis.
+
+95
+00:04:08,068 --> 00:04:09,548
+PART.2: Ah, ¿en San Luis,
+Misuri?
+
+96
+00:04:09,548 --> 00:04:11,228
+PART.1: Sí, Misuri.
+
+97
+00:04:11,228 --> 00:04:13,788
+PART.1: Sí, viví ahí como un año y medio
+más o menos. ¿Lo conoces?
+
+98
+00:04:13,788 --> 00:04:16,468
+PART.2: Bueno, por la música
+rock and roll, que me gusta mucho,
+y el blues.
+
+99
+00:04:16,468 --> 00:04:17,548
+PART.1: Ah, claro.
+
+100
+00:04:17,548 --> 00:04:17,948
+PART.2: Sí.
+
+101
+00:04:17,948 --> 00:04:18,188
+PART.1: Sí, sí.
+
+102
+00:04:18,188 --> 00:04:19,268
+PART.2: ¿Qué tal el sitio ese,
+San Luis?
+
+103
+00:04:19,268 --> 00:04:21,108
+PART.1: Está bueno, está bueno,
+sí.
+
+104
+00:04:21,108 --> 00:04:24,348
+PART.1: Es una ciudad bien y es bien
+americana, bien "redneck", ¿sabes?
+
+105
+00:04:24,348 --> 00:04:25,348
+PART.2: Sí, sí.
+
+106
+00:04:25,348 --> 00:04:27,148
+PART.1: Bien de...
+
+107
+00:04:27,148 --> 00:04:28,268
+PART.1: ¿Sabes?
+
+108
+00:04:28,268 --> 00:04:31,348
+PART.1: De industriales, pero también...
+
+109
+00:04:31,348 --> 00:04:34,828
+PART.1: Pero sí, hay mucha música, sí, hay
+muchas cosas allí.
+
+110
+00:04:34,828 --> 00:04:36,588
+PART.1: ¿También quién es de ahí?
+
+111
+00:04:36,588 --> 00:04:38,028
+PART.1: ¿Cómo es el...?
+
+112
+00:04:38,548 --> 00:04:39,788
+PART.1: Eh...
+
+113
+00:04:39,788 --> 00:04:44,788
+PART.1: ¿Cómo es el nombre
+del trompetista de jazz famoso,
+que ya no me acuerdo?
+
+114
+00:04:44,788 --> 00:04:45,628
+PART.2: ¿Miles Davis?
+
+115
+00:04:45,628 --> 00:04:46,508
+PART.1: Miles Davis.
+
+116
+00:04:46,508 --> 00:04:47,188
+PART.2: ¿Sí? ¿Es de ahí?
+
+117
+00:04:47,188 --> 00:04:48,748
+PART.1: Sí, Miles Davis es de
+ahí.
+
+118
+00:04:48,748 --> 00:04:57,828
+PART.1: Claro, su carrera y todo...
+Su familia es de ahí, su carrera
+fue en Nueva York y después,
+pero su familia y todo es de esta
+parte.
+
+119
+00:04:58,268 --> 00:05:02,748
+PART.1: Pero sí, se vive mucho esta cosa
+del blues y todo.
+
+120
+00:05:02,748 --> 00:05:04,988
+PART.1: Más en...
+
+121
+00:05:04,988 --> 00:05:10,908
+PART.1: en San Luis, después hay ahora más,
+que ahora es más reciente, que es
+Nashville.
+
+122
+00:05:10,908 --> 00:05:13,068
+PART.1: En Nashville también hay mucho.
+
+123
+00:05:13,068 --> 00:05:14,788
+PART.1: New Or...
+
+124
+00:05:14,788 --> 00:05:15,308
+PART.2: New Orleans.
+
+125
+00:05:15,308 --> 00:05:19,948
+PART.1: New Orleans, que estuve
+allí como dos veces, y...
+
+126
+00:05:19,948 --> 00:05:21,908
+PART.2: ¿En la calle hay mucha
+música en vivo?
+
+127
+00:05:21,908 --> 00:05:24,668
+PART.1: Sí, sí, sí, mucho,
+mucho.
+
+128
+00:05:25,188 --> 00:05:34,348
+PART.1: Precisamente en el verano y todo,
+hay mucha gente, muchas
+presentaciones y todo eso es muy
+normal allí.
+
+129
+00:05:34,348 --> 00:05:37,508
+PART.1: Porque claro, es de la ciudad y
+tal.
+
+130
+00:05:37,508 --> 00:05:39,028
+PART.1: Pero es bueno.
+
+131
+00:05:39,028 --> 00:05:42,508
+PART.1: Está cerca del Misuri River y
+todo.
+

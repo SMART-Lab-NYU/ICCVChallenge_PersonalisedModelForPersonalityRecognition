@@ -1,0 +1,139 @@
+1
+00:00:00,035 --> 00:00:01,115
+PART.2: Empieza tú.
+
+2
+00:00:01,195 --> 00:00:02,755
+SUPERVISOR: Vale, pues cuando salga, empezáis.
+
+3
+00:00:03,475 --> 00:00:04,915
+PART.1: Pero tú puedes coger igual.
+
+4
+00:00:04,995 --> 00:00:06,315
+PART.2: Sí, sí, una tú y una yo.
+
+5
+00:00:08,115 --> 00:00:09,115
+PART.1: ¿"Ready"?
+
+6
+00:00:09,195 --> 00:00:10,195
+PART.1: "Go".
+
+7
+00:00:12,955 --> 00:00:14,355
+PART.1: ¿Lo he hecho bien?
+
+8
+00:00:14,435 --> 00:00:15,435
+PART.2: No.
+
+9
+00:00:15,515 --> 00:00:16,595
+PART.2: Esto.
+
+10
+00:00:16,675 --> 00:00:17,795
+PART.1: Que esté o que no esté, ¿no?
+
+11
+00:00:17,875 --> 00:00:18,595
+PART.2: No esté.
+
+12
+00:00:18,675 --> 00:00:19,635
+PART.1: Ah, que no esté.
+
+13
+00:00:19,715 --> 00:00:22,555
+PART.2: Claro, aquí está, ¿qué es lo único
+que no está?
+
+14
+00:00:22,635 --> 00:00:25,395
+PART.2: No está el rojo ni el, ni el esto.
+
+15
+00:00:22,875 --> 00:00:24,275
+PART.1: Vale, todos menos el fantasma.
+
+16
+00:00:25,715 --> 00:00:27,035
+PART.2: Entonces esta mía, vale.
+
+17
+00:00:31,875 --> 00:00:33,035
+PART.1: Que no esté, ¿no?
+
+18
+00:00:33,115 --> 00:00:34,915
+PART.2: El color representado.
+
+19
+00:00:34,995 --> 00:00:38,875
+PART.2: El verde, ¿y el rojo? Tampoco
+está.
+
+20
+00:00:38,955 --> 00:00:39,955
+PART.1: No, ¿no?
+
+21
+00:00:40,715 --> 00:00:42,075
+PART.2: Ah, no, esto.
+
+22
+00:00:42,155 --> 00:00:44,155
+PART.2: El libro azul, sí que está.
+
+23
+00:00:42,635 --> 00:00:43,675
+PART.1: ¿Porque sí está?
+
+24
+00:00:44,595 --> 00:00:46,115
+PART.1: No entiendo por qué.
+
+25
+00:00:46,195 --> 00:00:47,595
+PART.2: Porque está el libro azul.
+
+26
+00:00:47,675 --> 00:00:48,075
+PART.1: Ah, vale.
+
+27
+00:00:48,155 --> 00:00:49,555
+PART.2: Si está una cosa igual.
+
+28
+00:00:48,835 --> 00:00:49,795
+PART.1: Si está igual, igual.
+
+29
+00:00:49,875 --> 00:00:50,355
+PART.2: Sí.
+
+30
+00:00:50,435 --> 00:00:51,595
+PART.1: Pues antes estaba el ratón, ¿no?
+
+31
+00:00:53,315 --> 00:00:55,035
+PART.1: Estaba el ratón gris antes.
+
+32
+00:00:55,115 --> 00:00:56,035
+PART.2: Ah, ¿sí?
+
+33
+00:00:56,115 --> 00:00:58,355
+PART.2: Y la hemos liado, a ver, esto así.
+
+34
+00:00:58,835 --> 00:01:01,395
+PART.2: Bueno, la volvemos, ni pa' ti ni
+pa' mí, ¿vale?
+

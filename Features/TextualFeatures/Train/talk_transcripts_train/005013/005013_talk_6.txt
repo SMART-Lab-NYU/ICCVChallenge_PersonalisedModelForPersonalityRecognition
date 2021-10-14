@@ -1,0 +1,33 @@
+74
+00:06:06,551 --> 00:06:10,991
+PART.1: A lo mejor tampoco ha salido
+mucho de mí, ¿no?
+
+75
+00:06:11,471 --> 00:06:16,791
+PART.2: Ya. Bueno, claro. ¿El género de
+las películas que te gustan?
+
+76
+00:06:18,151 --> 00:06:25,831
+PART.1: ¿El género? Desde drama hasta
+acción. No sé, un poco de todo. Las
+que menos son las de terror.
+
+77
+00:06:25,911 --> 00:06:26,911
+PART.2: Ya.
+
+78
+00:06:27,271 --> 00:06:31,711
+PART.1: Que las veo, pero tengo miedo.
+
+79
+00:06:31,791 --> 00:06:32,911
+PART.2: Te da mucho miedo.
+
+80
+00:06:33,231 --> 00:06:39,831
+SUPERVISOR: Vale. Pues ahora que os conocéis
+un poco podemos empezar a jugar.
+

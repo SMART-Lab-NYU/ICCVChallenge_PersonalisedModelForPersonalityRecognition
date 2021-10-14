@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:00,031
+PART.2: Adiós.
+
+2
+00:00:00,031 --> 00:00:00,951
+PART.1: ¿Quién empieza?
+
+3
+00:00:01,901 --> 00:00:02,931
+PART.2: ¿Es mamífero?
+
+4
+00:00:04,131 --> 00:00:04,951
+PART.1: Creo que sí.
+
+5
+00:00:05,181 --> 00:00:06,551
+PART.2: Hombre, eso no vale.
+
+6
+00:00:05,651 --> 00:00:07,751
+PART.1: Sí, sí.
+
+7
+00:00:08,581 --> 00:00:11,681
+PART.2: ¿Pero yo hago las diez seguidas o vamos alternando?
+
+8
+00:00:10,051 --> 00:00:13,331
+PART.1: Mm no, supongo que vamos alternando, ¿imagino?
+
+9
+00:00:13,331 --> 00:00:15,301
+PART.2: Bueno, pues alternamos, va.
+
+10
+00:00:16,381 --> 00:00:17,931
+PART.1: ¿Es peligroso?
+
+11
+00:00:18,601 --> 00:00:19,481
+PART.2: Sí.
+
+12
+00:00:21,951 --> 00:00:25,151
+PART.2: ¿Es salvaje?
+
+13
+00:00:27,381 --> 00:00:30,431
+PART.2: Salvaje o doméstico, me sirve, ¿salvaje?
+
+14
+00:00:32,431 --> 00:00:34,131
+PART.1: Doméstico.
+
+15
+00:00:36,451 --> 00:00:40,081
+PART.2: Vale, no me acuerdo cuál era la primera.
+
+16
+00:00:41,331 --> 00:00:42,831
+PART.2: ¿Qué te he preguntado?
+
+17
+00:00:44,081 --> 00:00:46,231
+PART.1: No me acuerdo... mamífero.
+
+18
+00:00:46,231 --> 00:00:47,681
+PART.2: ¿Y me has dicho que sí?
+
+19
+00:00:47,331 --> 00:00:47,831
+PART.1: Sí.
+
+20
+00:00:47,831 --> 00:00:48,431
+PART.2: Ostras...
+
+21
+00:00:49,881 --> 00:00:51,751
+PART.2: Tengo que pensar más en el mío, no en el tuyo.
+
+22
+00:00:51,751 --> 00:00:53,751
+PART.1: ¿Se puede ver fácilmente en España?
+
+23
+00:00:55,201 --> 00:00:56,851
+PART.1: ¿Sin ir a zoos y tal?
+
+24
+00:00:56,851 --> 00:00:57,751
+PART.2: No.
+

@@ -1,0 +1,301 @@
+1
+00:00:00,000 --> 00:00:00,179
+PART.2: Vale.
+
+2
+00:00:00,859 --> 00:00:01,739
+PART.1: Comienza.
+
+3
+00:00:02,139 --> 00:00:04,059
+PART.1: Chan cha cha cha cha chan.
+
+4
+00:00:05,819 --> 00:00:07,219
+PART.1: Ya, sí, va.
+
+5
+00:00:08,619 --> 00:00:09,819
+PART.1: En serio soy muy mala.
+
+6
+00:00:09,939 --> 00:00:10,379
+PART.1: Ok.
+
+7
+00:00:10,779 --> 00:00:11,299
+PART.2: No.
+
+8
+00:00:13,179 --> 00:00:14,339
+PART.2: Espera, espera, espera.
+
+9
+00:00:14,979 --> 00:00:16,019
+PART.2: Sacas tú, te toca a ti.
+
+10
+00:00:16,099 --> 00:00:16,459
+PART.1: Ah, ya.
+
+11
+00:00:16,539 --> 00:00:17,059
+PART.2: Sí.
+
+12
+00:00:18,939 --> 00:00:21,539
+PART.2: Es que la había visto y sería
+injusto, por eso.
+
+13
+00:00:23,779 --> 00:00:25,299
+PART.2: Ta, ta, ta, ta.
+
+14
+00:00:28,179 --> 00:00:29,419
+PART.1: No, no, no.
+
+15
+00:00:29,939 --> 00:00:31,059
+PART.1: Sería el blanco, sí.
+
+16
+00:00:31,139 --> 00:00:31,819
+PART.1: Estás bien.
+
+17
+00:00:33,779 --> 00:00:34,979
+PART.1: Ya, te toca.
+
+18
+00:00:40,739 --> 00:00:43,259
+PART.1: Bueno, por suerte no
+estoy apostando dinero aquí.
+
+19
+00:00:44,379 --> 00:00:46,299
+PART.2: Ostia, sería como grave
+apostar a esto.
+
+20
+00:00:47,019 --> 00:00:49,339
+PART.1: Ay, no, es que está el
+ratón, ¿sí?
+
+21
+00:00:51,779 --> 00:00:53,419
+PART.2: ¿Esta la has sacado tú o
+la he sacado yo?
+
+22
+00:00:54,299 --> 00:00:55,659
+PART.1: Creo que tú la sacaste.
+
+23
+00:00:55,739 --> 00:00:56,859
+PART.1: Me toca a mí. ¿Sí?
+
+24
+00:00:57,579 --> 00:00:58,139
+PART.2: Creo que sí.
+
+25
+00:00:58,219 --> 00:00:58,859
+PART.2: Me he liado.
+
+26
+00:00:58,939 --> 00:00:59,899
+PART.1: Sí, bueno.
+
+27
+00:01:03,299 --> 00:01:04,139
+PART.1: No, no.
+
+28
+00:01:06,539 --> 00:01:07,099
+PART.1: No.
+
+29
+00:01:08,499 --> 00:01:09,539
+PART.2: Vale, esta la has sacado
+tú.
+
+30
+00:01:09,299 --> 00:01:10,779
+PART.1: Esta la saqué yo, te toca
+a ti.
+
+31
+00:01:14,619 --> 00:01:15,819
+PART.1: Oh. ¿Esto?
+
+32
+00:01:16,619 --> 00:01:17,299
+PART.2: Rojo.
+
+33
+00:01:18,459 --> 00:01:21,099
+PART.2: Hay botella, hay fantasma, hay
+gris y hay azul.
+
+34
+00:01:21,819 --> 00:01:22,459
+PART.1: Está bien.
+
+35
+00:01:23,779 --> 00:01:24,459
+PART.1: ¿Me toca a mí?
+
+36
+00:01:24,619 --> 00:01:25,139
+PART.2: Ajá.
+
+37
+00:01:32,419 --> 00:01:34,179
+PART.2: Es que creo que estoy más
+cerca yo.
+
+38
+00:01:34,939 --> 00:01:36,459
+PART.1: No, no tiene nada que
+ver.
+
+39
+00:01:36,739 --> 00:01:38,699
+PART.1: Ya son temas motrices.
+
+40
+00:01:43,939 --> 00:01:44,579
+PART.1: ¿Este?
+
+41
+00:01:44,659 --> 00:01:45,299
+PART.2: Sí.
+
+42
+00:01:45,379 --> 00:01:46,139
+PART.1: Ah, bueno, ya.
+
+43
+00:01:49,619 --> 00:01:50,619
+PART.2: Tarararará.
+
+44
+00:01:53,299 --> 00:01:53,939
+PART.1: No.
+
+45
+00:02:01,699 --> 00:02:02,259
+PART.1: Ya.
+
+46
+00:02:02,579 --> 00:02:03,779
+PART.2: La tocaste tú primero.
+
+47
+00:02:07,019 --> 00:02:09,059
+PART.1: Solo digo que sí voy a
+contar muy pocas.
+
+48
+00:02:11,779 --> 00:02:14,259
+PART.2: No, sí que la tocaste tú
+primero, se estaba moviendo.
+
+49
+00:02:18,819 --> 00:02:19,579
+PART.1: Ah, claro.
+
+50
+00:02:24,939 --> 00:02:25,659
+PART.1: Ratón.
+
+51
+00:02:28,739 --> 00:02:30,779
+PART.1: Tendré que jugar unas cinco veces
+ya.
+
+52
+00:02:31,859 --> 00:02:33,299
+PART.2: ¿Quieres que hagamos la
+revancha?
+
+53
+00:02:34,139 --> 00:02:34,819
+PART.1: ¿Repetimos?
+
+54
+00:02:35,499 --> 00:02:36,019
+PART.2: No.
+
+55
+00:02:36,259 --> 00:02:36,979
+PART.1: Como quieras.
+
+56
+00:02:38,419 --> 00:02:39,859
+PART.2: ¿Seguro que no quieres la
+revancha?
+
+57
+00:02:41,859 --> 00:02:43,219
+PART.1: ¿Nos dará tiempo?
+
+58
+00:02:43,699 --> 00:02:44,339
+PART.2: No sé.
+
+59
+00:02:46,099 --> 00:02:46,819
+PART.1: Tengo dos.
+
+60
+00:02:49,699 --> 00:02:51,659
+PART.1: Está bien, no aprobé, todo hay
+que aceptarlo.
+
+61
+00:02:54,139 --> 00:02:54,739
+PART.2: Bueno.
+
+62
+00:02:55,179 --> 00:02:57,179
+PART.2: No sé, igual la siguiente ganas.
+
+63
+00:02:57,779 --> 00:02:58,899
+PART.1: Sí, puede ser.
+
+64
+00:02:59,819 --> 00:03:00,659
+PART.2: ¿Quieres probar?
+
+65
+00:03:02,379 --> 00:03:03,299
+PART.1: A ver, bueno, va.
+
+66
+00:03:03,859 --> 00:03:04,659
+PART.1: Hagámoslo.
+
+67
+00:03:14,019 --> 00:03:15,739
+PART.2: Venga va, ahora me vas a
+pegar una paliza.
+
+68
+00:03:18,259 --> 00:03:18,859
+PART.1: Cuidado.
+
+69
+00:03:19,579 --> 00:03:20,779
+PART.1: Bueno, con esa vas mal.
+
+70
+00:03:23,859 --> 00:03:24,699
+PART.1: ¿No? Sí.
+
+71
+00:03:24,779 --> 00:03:25,339
+PART.2: Sí.
+

@@ -1,0 +1,71 @@
+25
+00:02:02,729 --> 00:02:08,929
+PART.1: No. Vale, ¿Es herbívoro?
+
+26
+00:02:09,009 --> 00:02:10,009
+PART.2: No.
+
+27
+00:02:11,329 --> 00:02:13,209
+PART.1: Vale. ¿Omnívoro cómo entra?
+
+28
+00:02:13,289 --> 00:02:16,609
+PART.2: Tú has preguntado: "¿Es
+herbívoro?" y te he dicho que no.
+
+29
+00:02:16,689 --> 00:02:17,969
+PART.1: Vale.
+
+30
+00:02:18,049 --> 00:02:20,529
+PART.2: No puedes hacer 80 preguntas.
+
+31
+00:02:20,609 --> 00:02:21,889
+PART.1: Vale, ¿cuántas llevamos?
+
+32
+00:02:21,969 --> 00:02:28,489
+PART.2: Cuatro. ¿Vive...? ¿Lo puedes
+encontrar en África?
+
+33
+00:02:28,569 --> 00:02:29,569
+PART.1: No.
+
+34
+00:02:29,649 --> 00:02:31,489
+PART.2: Joder.
+
+35
+00:02:38,129 --> 00:02:39,409
+PART.1: ¿Tiene cuatro patas?
+
+36
+00:02:39,489 --> 00:02:40,489
+PART.2: Sí.
+
+37
+00:02:42,249 --> 00:02:44,329
+PART.1: Camina con las cuatro patas,
+entonces.
+
+38
+00:02:45,569 --> 00:02:47,609
+PART.2: ¿Tiene cuatro patas?
+
+39
+00:02:47,689 --> 00:02:53,209
+PART.1: Sí. ¿Tiene pelo?
+
+40
+00:02:54,449 --> 00:02:57,129
+PART.2: Sí. ¿El mío sí?
+
+41
+00:02:58,529 --> 00:03:00,209
+PART.2: Llevamos seis ya, ¿eh?
+

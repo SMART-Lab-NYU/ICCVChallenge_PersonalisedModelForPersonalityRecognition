@@ -1,0 +1,113 @@
+1
+00:00:00,000 --> 00:00:00,179
+PART.2: Vale.
+
+2
+00:00:00,979 --> 00:00:01,899
+PART.2: ¿Tú nombre?
+
+3
+00:00:02,179 --> 00:00:02,939
+PART.1: Alejandro.
+
+4
+00:00:03,019 --> 00:00:05,419
+PART.2: ¿Alejandro? Yo me llamo Bárbara.
+
+5
+00:00:06,139 --> 00:00:11,419
+PART.2: ¿Y te viniste a estudiar un
+máster aquí? ¿Qué andas haciendo por
+aquí? Arrancaste de Venezuela por la
+crisis.
+
+6
+00:00:10,739 --> 00:00:12,179
+PART.1: Sí, sí. Correcto.
+
+7
+00:00:13,099 --> 00:00:16,019
+PART.1: Tenía que buscar algo que hacer
+básicamente.
+
+8
+00:00:16,099 --> 00:00:17,499
+PART.2: ¿Hace cuánto tiempo estás acá?
+
+9
+00:00:18,059 --> 00:00:19,419
+PART.1: En el 2014 me vine.
+
+10
+00:00:19,499 --> 00:00:21,979
+PART.1: Me vine a estudiar el máster en
+Inteligencia Artificial, El MAI.
+
+11
+00:00:22,059 --> 00:00:23,339
+PART.1: Ah, ¿el mismo que este?
+
+12
+00:00:23,619 --> 00:00:24,099
+PART.1: Sí.
+
+13
+00:00:24,179 --> 00:00:24,979
+PART.2: Ya.
+
+14
+00:00:25,179 --> 00:00:26,139
+PART.1: Sí, sí. Y...
+
+15
+00:00:26,419 --> 00:00:27,419
+PART.2: ¿Estudiaste?
+
+16
+00:00:28,339 --> 00:00:35,019
+PART.1: Sí. Lo hice del 2014 al 2016, y
+luego me quedé haciendo el
+doctorado y ahora estoy haciendo el
+doctorado.
+
+17
+00:00:35,099 --> 00:00:36,059
+PART.2: Ah, ya.
+
+18
+00:00:36,499 --> 00:00:37,499
+PART.2: ¿Te gusta?
+
+19
+00:00:37,579 --> 00:00:41,179
+PART.2: O sea, el doctorado, ¿realmente
+lo querías hacer o era una excusa
+para no volver?
+
+20
+00:00:42,419 --> 00:00:46,739
+PART.1: A ver, realmente me gusta y,
+además, me serviría para eso.
+
+21
+00:00:47,219 --> 00:00:48,659
+PART.2: ¿Y ahora te vas a quedar acá?
+
+22
+00:00:48,939 --> 00:00:50,659
+PART.1: Sí. Ahora me voy a quedar aquí.
+
+23
+00:00:51,339 --> 00:00:52,259
+PART.1: ¿Y tú qué?
+
+24
+00:00:52,339 --> 00:00:55,739
+PART.2: Yo me vine a estudiar un máster
+de Enfermería y Quirúrgica.
+
+25
+00:00:56,259 --> 00:00:59,979
+PART.2: Y... bueno, también tengo ganas
+de quedarme.
+

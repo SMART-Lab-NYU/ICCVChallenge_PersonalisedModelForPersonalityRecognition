@@ -1,0 +1,262 @@
+1
+00:00:00,000 --> 00:00:00,156
+PART.1: Vale.
+
+2
+00:00:00,156 --> 00:00:03,396
+PART.1: Venga, que se nos va a dar mejor
+que el otro.
+
+3
+00:00:05,676 --> 00:00:06,556
+PART.1: Venga.
+
+4
+00:00:07,116 --> 00:00:07,836
+PART.1: Empieza.
+
+5
+00:00:13,076 --> 00:00:14,076
+PART.1: Vale.
+
+6
+00:00:18,076 --> 00:00:20,516
+PART.2: A ver, lo debería haber
+puesto, ¿no?
+
+7
+00:00:21,196 --> 00:00:22,636
+PART.1: Libro, ¿no?
+
+8
+00:00:22,636 --> 00:00:23,516
+PART.1: Sí.
+
+9
+00:00:24,156 --> 00:00:25,356
+PART.2: El que no se
+corresponde.
+
+10
+00:00:25,356 --> 00:00:26,316
+PART.1: El que no se
+corresponde.
+
+11
+00:00:26,316 --> 00:00:28,316
+PART.1: O sí se corresponde, el que no
+corresponde.
+
+12
+00:00:38,716 --> 00:00:40,116
+PART.2: Ah, sí que...
+
+13
+00:00:40,116 --> 00:00:41,916
+PART.1: Sí, ratón, el fantasma
+es el blanco.
+
+14
+00:00:41,916 --> 00:00:43,116
+PART.1: Para mí.
+
+15
+00:00:44,756 --> 00:00:46,156
+PART.1: Eh... ¿Esta la levanto yo?
+
+16
+00:00:46,156 --> 00:00:47,676
+PART.2: La que tú quieras.
+
+17
+00:00:56,076 --> 00:00:57,036
+PART.2: Sí.
+
+18
+00:01:07,036 --> 00:01:08,076
+PART.2: Sí.
+
+19
+00:01:08,076 --> 00:01:08,916
+PART.1: Sí.
+
+20
+00:01:11,836 --> 00:01:12,716
+PART.1: ¿Levanto yo?
+
+21
+00:01:13,156 --> 00:01:14,676
+PART.1: ¿Has levantado tú esta? No.
+
+22
+00:01:15,236 --> 00:01:17,196
+PART.2: Este sí, creo que sí.
+
+23
+00:01:17,836 --> 00:01:18,716
+PART.2: Sí.
+
+24
+00:01:18,716 --> 00:01:19,916
+PART.1: Creo que sí.
+
+25
+00:01:23,516 --> 00:01:24,436
+PART.1: Libro.
+
+26
+00:01:24,436 --> 00:01:25,636
+PART.1: Igual.
+
+27
+00:01:25,636 --> 00:01:26,636
+PART.2: Ah...
+
+28
+00:01:29,596 --> 00:01:31,236
+PART.1: Este he practicado más,
+¿eh?
+
+29
+00:01:40,396 --> 00:01:41,636
+PART.1: Espérate.
+
+30
+00:01:51,796 --> 00:01:54,316
+PART.1: Yo iba a coger el ratón, pero hay
+algo que no cuadra.
+
+31
+00:01:54,796 --> 00:01:57,556
+PART.2: Sí, creo que no, que es
+la otra, ¿no?
+
+32
+00:01:57,556 --> 00:01:59,036
+PART.1: Ah, sí, claro, claro.
+
+33
+00:01:59,036 --> 00:02:00,556
+PART.1: No estaba viendo el ratón verde.
+
+34
+00:02:01,276 --> 00:02:02,396
+PART.1: Venga, la última.
+
+35
+00:02:04,356 --> 00:02:06,716
+PART.1: Libro azul.
+
+36
+00:02:08,796 --> 00:02:09,676
+PART.1: ¿Sí?
+
+37
+00:02:09,676 --> 00:02:10,556
+PART.2: Sí.
+
+38
+00:02:12,796 --> 00:02:14,116
+PART.1: Este me ha gustado.
+
+39
+00:02:14,796 --> 00:02:15,996
+PART.2: Sí.
+
+40
+00:02:15,996 --> 00:02:18,276
+PART.1: Creo que lo compraría
+para casa.
+
+41
+00:02:18,996 --> 00:02:20,516
+PART.2: Tú ganaste, ¿no?
+
+42
+00:02:20,516 --> 00:02:21,556
+PART.1: Yo gané por una.
+
+43
+00:02:22,716 --> 00:02:23,676
+PART.1: ¿Ya no hay más?
+
+44
+00:02:24,196 --> 00:02:25,676
+PART.1: Tienes casi los mismos colores.
+
+45
+00:02:26,556 --> 00:02:27,676
+PART.2: Sí, tú también, ¿no?
+
+46
+00:02:27,676 --> 00:02:28,476
+PART.1: Yo este y el blanco.
+
+47
+00:02:33,436 --> 00:02:34,676
+PART.1: Algo querrá decir.
+
+48
+00:02:41,236 --> 00:02:42,076
+PART.1: Lo buscaré.
+
+49
+00:02:47,836 --> 00:02:50,516
+PART.2: ¿Cómo se llaman estos
+que no pueden ver los colores?
+
+50
+00:02:50,516 --> 00:02:51,596
+PART.1: Daltónicos.
+
+51
+00:02:51,596 --> 00:02:53,076
+PART.2: Mira, me acordé de algo.
+
+52
+00:02:56,996 --> 00:02:57,956
+PART.1: Sí, sí.
+
+53
+00:02:57,956 --> 00:03:00,236
+PART.1: Bueno, los ven, pero diferentes.
+
+54
+00:03:00,236 --> 00:03:01,396
+PART.1: Yo tengo un amigo.
+
+55
+00:03:01,956 --> 00:03:08,636
+PART.1: Creo que es él el verde, que
+nosotros vemos verde, él lo ve
+rojo, creo.
+
+56
+00:03:09,076 --> 00:03:10,196
+PART.1: O algo así.
+
+57
+00:03:10,196 --> 00:03:16,556
+PART.2: Yo tengo un amigo que
+depende de qué tan oscuro esté el
+lugar, que no puede ver.
+
+58
+00:03:16,556 --> 00:03:19,516
+PART.2: Y a veces le hacen burlas porque
+hace mal la combinación.
+
+59
+00:03:20,196 --> 00:03:22,596
+PART.1: ¿No distingue los
+colores si está muy oscuro?
+
+60
+00:03:22,596 --> 00:03:23,516
+PART.2: Si está muy oscuro.
+
+61
+00:03:23,516 --> 00:03:25,316
+PART.1: Es que hay muchos tipos
+de daltonismo.
+

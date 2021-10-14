@@ -1,0 +1,20 @@
+100
+00:04:00,151 --> 00:04:01,056
+PART.2: Mira aquest minillapis...
+
+101
+00:04:03,116 --> 00:04:04,118
+PART.1: O el coet... de Tesla.
+
+102
+00:04:06,550 --> 00:04:09,770
+PART.2: Has vist que... l’Elon Musk, resulta que...
+
+103
+00:04:10,281 --> 00:04:11,728
+PART.2: ...està molt bé el senyor, és molt gilipollas...
+
+104
+00:04:12,246 --> 00:04:13,693
+PART.1: Sí, però això ja se sabia, no?
+

@@ -1,0 +1,425 @@
+﻿1
+00:00:00,520 --> 00:00:02,200
+PART.2: Pues adelante, no sé, empieza tú.
+
+2
+00:00:02,800 --> 00:00:04,520
+PART.1: ¿Puedo volar?
+
+3
+00:00:05,400 --> 00:00:06,520
+PART.2: No.
+
+4
+00:00:09,280 --> 00:00:11,120
+PART.2: ¿Mi animal es mamífero?
+
+5
+00:00:13,600 --> 00:00:14,600
+PART.1: No.
+
+6
+00:00:17,040 --> 00:00:18,920
+PART.2: Estás pensando que igual sí.
+
+7
+00:00:19,520 --> 00:00:20,160
+PART.1: No, no.
+
+8
+00:00:20,440 --> 00:00:21,400
+PART.1: No.
+
+9
+00:00:24,320 --> 00:00:25,520
+PART.1: ¿El mío es mamífero?
+
+10
+00:00:26,360 --> 00:00:27,240
+PART.2: Sí.
+
+11
+00:00:30,920 --> 00:00:38,880
+PART.2: ¿Vivo... en el mar o en el agua
+en general?
+
+12
+00:00:38,960 --> 00:00:39,960
+PART.1: Sí.
+
+13
+00:00:46,120 --> 00:00:48,880
+PART.1: No todo el tiempo, pero sí.
+
+14
+00:00:49,600 --> 00:00:50,600
+PART.2: Okey.
+
+15
+00:00:51,840 --> 00:00:53,320
+PART.1: Yo soy mamífero, vale.
+
+16
+00:00:54,800 --> 00:00:55,920
+PART.1: ¿Vivo en el agua?
+
+17
+00:00:56,120 --> 00:00:57,120
+PART.2: Sí.
+
+18
+00:01:01,640 --> 00:01:02,400
+PART.2: A ver...
+
+19
+00:01:02,480 --> 00:01:06,760
+PART.2: No soy mamífero y vivo,
+la mayoría del tiempo, en el agua,
+¿no?
+
+20
+00:01:06,840 --> 00:01:08,400
+PART.2: Eso es lo que me has dicho,
+¿no?
+
+21
+00:01:10,440 --> 00:01:13,360
+PART.2: ¿Vivo en ríos?
+
+22
+00:01:14,320 --> 00:01:15,680
+PART.1: Sí. Puedes vivir en ríos.
+
+23
+00:01:20,400 --> 00:01:21,440
+PART.1: ¿Tengo aletas?
+
+24
+00:01:22,280 --> 00:01:23,200
+PART.1: ¿"Fins"?
+
+25
+00:01:23,840 --> 00:01:24,840
+PART.2: Sí.
+
+26
+00:01:30,560 --> 00:01:33,000
+PART.2: ¿Soy reprect...?
+
+27
+00:01:33,240 --> 00:01:34,080
+PART.2: ¿Cómo se dice?
+
+28
+00:01:33,800 --> 00:01:34,640
+PART.1: Reptil.
+
+29
+00:01:34,720 --> 00:01:35,480
+PART.2: ¿Reptil?
+
+30
+00:01:35,840 --> 00:01:36,480
+PART.2: ¿Sí?
+
+31
+00:01:42,320 --> 00:01:44,440
+PART.1: ¿La gente me ve peligroso?
+
+32
+00:01:44,520 --> 00:01:46,240
+PART.1: ¿Los humanos
+me consideran peligroso?
+
+33
+00:01:45,680 --> 00:01:46,480
+PART.2: No.
+
+34
+00:01:55,400 --> 00:01:57,800
+PART.2: ¿Soy cocodrilo?
+
+35
+00:01:57,960 --> 00:01:58,720
+PART.1: Sí.
+
+36
+00:01:58,800 --> 00:01:59,480
+PART.2: Vale.
+
+37
+00:02:02,240 --> 00:02:03,200
+PART.1: ¿Soy un delfín?
+
+38
+00:02:03,360 --> 00:02:03,840
+PART.2: Sí.
+
+39
+00:02:06,120 --> 00:02:09,120
+PART.2: Lo logramos bastante rápido.
+
+40
+00:02:08,720 --> 00:02:09,800
+PART.1: Nos han sobrado, ¿eh?
+
+41
+00:02:10,800 --> 00:02:13,120
+PART.2: Me imagino que quiere que se vean
+en las cámaras, ¿no?
+
+42
+00:02:14,320 --> 00:02:15,320
+PART.2: Así, ¿no?
+
+43
+00:02:22,040 --> 00:02:24,720
+PART.1: No sé si ahora vendrá...
+
+44
+00:02:24,800 --> 00:02:26,840
+PART.2: ¿Volverá o lo llamamos?
+
+45
+00:02:27,000 --> 00:02:28,080
+PART.1: ¡Javi!
+
+46
+00:02:30,720 --> 00:02:32,640
+PART.1: ¿Y en qué año estás de tu
+doctorado?
+
+47
+00:02:32,720 --> 00:02:34,200
+PART.2: Estoy acabando.
+
+48
+00:02:34,840 --> 00:02:37,240
+PART.2: Voy a depositar
+la tesis en septiembre.
+
+49
+00:02:38,160 --> 00:02:41,080
+PART.2: Estoy en el cuarto, quinto...
+
+50
+00:02:41,400 --> 00:02:42,200
+PART.2: No sé.
+
+51
+00:02:43,880 --> 00:02:44,920
+PART.2: Quinto.
+
+52
+00:02:46,080 --> 00:02:47,240
+PART.1: ¿Tienes beca todavía?
+
+53
+00:02:47,320 --> 00:02:48,960
+PART.2: No, no, no.
+
+54
+00:02:56,880 --> 00:02:58,960
+PART.2: Quiero acabar y...
+
+55
+00:03:00,640 --> 00:03:01,640
+PART.2: Pues qué chulo.
+
+56
+00:03:01,920 --> 00:03:03,840
+PART.2: Me has dicho que eres matemático, ¿no?
+
+57
+00:03:03,920 --> 00:03:10,080
+PART.2: Entonces, me
+podrías contar más de lo que...
+Porque no soy matemático.
+
+58
+00:03:10,200 --> 00:03:14,320
+PART.2: Nosotros usamos las herramientas
+estas un poco así, ¿no?
+
+59
+00:03:14,440 --> 00:03:15,400
+PART.1: Como "Black Box".
+
+60
+00:03:15,880 --> 00:03:16,840
+PART.2: Un poco "Black Box".
+
+61
+00:03:17,320 --> 00:03:22,560
+PART.2: Y me costó bastante leer
+todo esto de la algebra
+topológica...
+
+62
+00:03:22,640 --> 00:03:24,240
+PART.1: Eso es en lo que soy experto.
+
+63
+00:03:24,320 --> 00:03:25,720
+PART.1: Es en lo que más he trabajado.
+
+64
+00:03:28,400 --> 00:03:36,840
+PART.2: Porque lo que nos impide más,
+diría yo, son las partes
+computacionales del asunto.
+
+65
+00:03:37,400 --> 00:03:38,800
+PART.1: ¿Qué usáis para calcular...?
+
+66
+00:03:39,240 --> 00:03:40,600
+PART.2: Uso... ¿DIFA?
+
+67
+00:03:43,440 --> 00:03:45,960
+PART.1: ¿Y esa está en qué lenguaje?
+
+68
+00:03:46,360 --> 00:03:47,680
+PART.2: Creo que es C++.
+
+69
+00:03:48,920 --> 00:03:49,520
+PART.1: ¿DIFA?
+
+70
+00:03:49,600 --> 00:03:50,760
+PART.1: Pues es de las pocas que
+no he usado.
+
+71
+00:03:50,840 --> 00:03:52,800
+PART.1: He utilizado como 12
+paquetes distintos.
+
+72
+00:03:52,880 --> 00:03:59,400
+PART.2: Intenté alguna otra cosa, pero
+creo que esta es una de las más
+conocidas.
+
+73
+00:03:59,480 --> 00:04:00,760
+PART.2: ¿Qué usas tú?
+
+74
+00:04:01,360 --> 00:04:04,400
+PART.1: Depende del tipo de cálculo que
+quiera hacer.
+
+75
+00:04:05,640 --> 00:04:11,640
+PART.1: ¿Vosotros lo que
+calculáis es la analogía usando una
+filtración particular que vosotros
+definís?
+
+76
+00:04:11,720 --> 00:04:13,160
+PART.2: ¿"Vector Ribs"?
+
+77
+00:04:15,520 --> 00:04:19,080
+PART.1: Pues el "Ribs" es de los que
+mejor va.
+
+78
+00:04:19,160 --> 00:04:20,840
+PART.1: Que está en C o C++.
+
+79
+00:04:25,000 --> 00:04:39,120
+PART.1: Pero si lo que estáis calculando
+que algo que geométricamente tiene
+sentido en 3D o 2D y no tiene
+sentido más allá, quizá hacer "alfa
+complex" tiene más sentido.
+
+80
+00:04:39,480 --> 00:04:44,480
+PART.1: Porque todo se reduce y el
+cálculo es más rápido y todo te lo
+hace en medio segundo.
+
+81
+00:04:45,800 --> 00:04:51,440
+PART.1: INCOMPRENSIBLE.
+
+82
+00:04:55,160 --> 00:04:55,720
+PART.2: Claro.
+
+83
+00:04:55,800 --> 00:05:07,040
+PART.2: En las redes estas la
+topología que se realiza con una
+red, es una topología supercompleja.
+
+84
+00:05:07,120 --> 00:05:14,520
+PART.2: No tiene ningún sentido de objeto
+geométrico.
+
+85
+00:05:14,840 --> 00:05:16,320
+PART.2: Es una cosa supercomplicada.
+
+86
+00:05:16,440 --> 00:05:18,640
+PART.1: Y te interesa saber si hay cosas
+en dimensión 17.
+
+87
+00:05:19,640 --> 00:05:21,120
+PART.2: No necesariamente.
+
+88
+00:05:21,200 --> 00:05:26,120
+PART.2: Es que tenemos
+problemas en calcular en 2D.
+
+89
+00:05:26,680 --> 00:05:37,560
+PART.2: Porque yo, teóricamente, puedo
+tener el número de puntos que tengo
+en este espacio.
+
+90
+00:05:38,640 --> 00:05:44,080
+PART.2: Puede ser 1000, pero a mí me
+gustaría trabajar con 100 000.
+
+91
+00:05:45,240 --> 00:05:56,880
+PART.2: Para tener, por ejemplo,
+cada nódulo de la red 500 000
+puntos, en este espacio, que después
+los conecto y creo las topologías.
+
+92
+00:05:58,400 --> 00:06:09,800
+PART.2: Y de lo que yo vi, si voy a más
+de 5000 o 10000, se vuelve bastante
+difícil.
+
+93
+00:06:09,880 --> 00:06:12,400
+PART.2: Tarda mucho,
+tengo problemas de memoria...
+
+94
+00:06:14,360 --> 00:06:19,680
+PART.2: No sé si estoy haciendo algo mal
+o...
+
+95
+00:06:20,400 --> 00:06:22,080
+PART.1: Sí, sí, sí. Es un gran...
+

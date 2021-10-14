@@ -1,0 +1,129 @@
+﻿1
+00:00:02,007 --> 00:00:04,287
+PART.2: Bueno.
+
+2
+00:00:02,527 --> 00:00:04,327
+PART.1: ¿Cuántas cámaras eráis?
+
+3
+00:00:05,707 --> 00:00:06,367
+PART.1: ¿9, 10?
+
+4
+00:00:06,447 --> 00:00:08,247
+PART.2: Sí, no sé, hay muchas.
+
+5
+00:00:08,327 --> 00:00:09,847
+PART.1: Inés, ¿y tú?
+
+6
+00:00:09,247 --> 00:00:10,647
+PART.2: Tú nombre es Inés, yo, Gemma.
+
+7
+00:00:10,727 --> 00:00:11,247
+PART.1: Gemma.
+
+8
+00:00:11,327 --> 00:00:15,407
+PART.2: Y estás aquí porque te han...
+bueno, has venido tú.
+
+9
+00:00:15,487 --> 00:00:16,607
+PART.1: Me dijo una amiga que hizo el
+estudio.
+
+10
+00:00:16,687 --> 00:00:18,047
+PART.2: Ah, vale, vale.
+
+11
+00:00:18,127 --> 00:00:21,047
+PART.1: Y me dijo: "Mira, creo que
+necesitan más gente, apúntate".
+
+12
+00:00:21,127 --> 00:00:22,287
+PART.2: Vale.
+
+13
+00:00:22,047 --> 00:00:22,687
+PART.1: Y mira.
+
+14
+00:00:22,767 --> 00:00:24,047
+PART.2: ¿Y de qué campo eres?
+
+15
+00:00:24,127 --> 00:00:26,487
+PART.1: Eh, bueno.
+
+16
+00:00:27,647 --> 00:00:29,167
+PART.2: Soy de un campo, pero trabajo en
+otro...
+
+17
+00:00:29,247 --> 00:00:30,967
+PART.1: Eso, ya está, ves.
+
+18
+00:00:31,047 --> 00:00:31,647
+PART.2: Vale, vale.
+
+19
+00:00:31,727 --> 00:00:42,087
+PART.1: Pues sí, estudié Artes Plásticas,
+me vine a Barcelona a hacer un
+posgrado de Gestión Cultural,
+pero estoy trabajando en una PYME
+como auxiliar administrativa.
+
+20
+00:00:42,167 --> 00:00:42,927
+PART.2: Vale, vale.
+
+21
+00:00:43,007 --> 00:00:43,807
+PART.1: Así que bueno.
+
+22
+00:00:43,887 --> 00:00:44,487
+PART.2: Bueno.
+
+23
+00:00:44,567 --> 00:00:46,887
+PART.1: Sigo buscando en mi área, pero
+bueno.
+
+24
+00:00:46,967 --> 00:00:49,007
+PART.1: Lo bueno es que tengo trabajo.
+
+25
+00:00:48,007 --> 00:00:50,567
+PART.2: ¿Qué tienes que buscar, por
+ejemplo, para...?
+
+26
+00:00:50,647 --> 00:00:52,447
+PART.1: En fundaciones, museos...
+
+27
+00:00:52,527 --> 00:00:53,247
+PART.2: Vale.
+
+28
+00:00:53,327 --> 00:00:54,807
+PART.2: Eso quizá es un poco...
+
+29
+00:00:54,007 --> 00:01:00,127
+PART.1: Ahora estoy, sí,
+sí, porque tengo que homologar
+el título, por ejemplo, si es una
+institución oficial.
+

@@ -1,0 +1,131 @@
+1
+00:00:00,346 --> 00:00:01,266
+PART.1: Pues espera.
+
+2
+00:00:01,386 --> 00:00:03,186
+PART.2: Hay que identificar las piezas lo
+primero.
+
+3
+00:00:03,266 --> 00:00:04,386
+PART.1: La azul esta.
+
+4
+00:00:03,826 --> 00:00:04,266
+PART.2: Esta, ¿no?
+
+5
+00:00:04,626 --> 00:00:05,026
+PART.1: Sí.
+
+6
+00:00:05,986 --> 00:00:06,866
+PART.2: O hay otra igual.
+
+7
+00:00:06,946 --> 00:00:07,426
+PART.2: No.
+
+8
+00:00:07,106 --> 00:00:07,866
+PART.1: Cuidado, ese.
+
+9
+00:00:10,666 --> 00:00:11,586
+PART.2: Siguiente.
+
+10
+00:00:12,946 --> 00:00:13,626
+PART.2: Esta.
+
+11
+00:00:14,986 --> 00:00:15,546
+PART.1: ¿Este?
+
+12
+00:00:15,866 --> 00:00:16,346
+PART.1: No.
+
+13
+00:00:17,626 --> 00:00:18,386
+PART.1: Es una cuña, ¿no?
+
+14
+00:00:18,786 --> 00:00:19,746
+PART.2: Sí. Una cuña.
+
+15
+00:00:20,146 --> 00:00:20,946
+PART.1: Una es esta.
+
+16
+00:00:22,426 --> 00:00:23,306
+PART.2: Aquí está, aquí.
+
+17
+00:00:23,386 --> 00:00:24,146
+PART.1: Qué pequeñita, tío.
+
+18
+00:00:24,426 --> 00:00:25,826
+PART.2: Y también una de estas.
+
+19
+00:00:28,666 --> 00:00:30,786
+PART.2: Y dos mierdecillas enanas.
+
+20
+00:00:33,466 --> 00:00:35,306
+PART.1: Pero ¿la verde se queda fuera o
+dentro?
+
+21
+00:00:36,546 --> 00:00:38,226
+PART.1: Porque aquí parece que esté medio
+fuera.
+
+22
+00:00:37,786 --> 00:00:39,386
+PART.2: Parece que sobresale un poco sí.
+
+23
+00:00:39,666 --> 00:00:40,146
+PART.1: Así, ¿no?
+
+24
+00:00:40,066 --> 00:00:41,146
+PART.2: Como que solo pilla una línea.
+
+25
+00:00:41,466 --> 00:00:41,986
+PART.2: Sí.
+
+26
+00:00:42,266 --> 00:00:43,066
+PART.2: Sí. Yo creo que sí.
+
+27
+00:00:46,426 --> 00:00:48,066
+PART.2: No encuentro las negras estas.
+
+28
+00:00:48,586 --> 00:00:49,706
+PART.2: Son como arandelas pequeñas.
+
+29
+00:00:49,786 --> 00:00:50,906
+PART.2: Mira, una.
+
+30
+00:00:51,146 --> 00:00:53,066
+PART.1: Me falta una verde de estas, ¿eh?
+
+31
+00:00:53,146 --> 00:00:53,706
+PART.2: Aquí.
+
+32
+00:00:53,386 --> 00:00:53,866
+PART.1: Ah, vale.
+

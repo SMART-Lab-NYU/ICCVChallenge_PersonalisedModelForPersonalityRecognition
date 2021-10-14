@@ -1,0 +1,436 @@
+﻿1
+00:00:01,896 --> 00:00:02,456
+PART.2: Vale.
+
+2
+00:00:03,416 --> 00:00:04,336
+PART.2: Empieza si quieres.
+
+3
+00:00:07,536 --> 00:00:08,896
+PART.2: A ver, ¿le das tú?
+
+4
+00:00:08,976 --> 00:00:09,736
+PART.1: ¿Comienzo? Vale.
+
+5
+00:00:09,456 --> 00:00:10,216
+PART.2: Sí, dale.
+
+6
+00:00:17,416 --> 00:00:18,416
+PART.1: Eso es azul, ¿no?
+
+7
+00:00:18,896 --> 00:00:19,816
+PART.2: Eso es azul, sí.
+
+8
+00:00:19,896 --> 00:00:20,936
+PART.2: ¿Lo he hecho bien?
+
+9
+00:00:21,016 --> 00:00:21,696
+PART.2: Porque...
+
+10
+00:00:21,776 --> 00:00:23,336
+PART.1: Sí. No está ni el verde ni la
+botella.
+
+11
+00:00:23,656 --> 00:00:24,016
+PART.2: Vale.
+
+12
+00:00:24,856 --> 00:00:26,376
+PART.1: Pues yo he visto que no era muy
+clarito.
+
+13
+00:00:28,136 --> 00:00:28,856
+PART.1: Es gris.
+
+14
+00:00:29,576 --> 00:00:30,736
+PART.2: Sí, bueno, claro, aquí...
+
+15
+00:00:31,336 --> 00:00:33,096
+PART.2: Bueno, sí, es verdad, no es
+blanco, no es blanco.
+
+16
+00:00:33,656 --> 00:00:34,576
+PART.1: Vale, tu turno.
+
+17
+00:00:41,096 --> 00:00:41,776
+PART.2: Sí, ¿no?
+
+18
+00:00:42,056 --> 00:00:42,496
+PART.1: Sí.
+
+19
+00:00:43,136 --> 00:00:43,896
+PART.1: No, no.
+
+20
+00:00:44,096 --> 00:00:44,696
+PART.2: ¿No?
+
+21
+00:00:44,776 --> 00:00:45,216
+PART.2: Sí.
+
+22
+00:00:45,296 --> 00:00:46,336
+PART.1: ¿Qué pasa si nos equivocamos?
+
+23
+00:00:46,816 --> 00:00:47,776
+PART.1: Está el sillón rojo.
+
+24
+00:00:48,616 --> 00:00:49,856
+PART.2: ¡Ah, hostia! es verdad.
+
+25
+00:00:50,136 --> 00:00:51,056
+PART.2: Ah, pues no lo ha dicho.
+
+26
+00:00:51,136 --> 00:00:53,296
+PART.2: Bueno, la dejamos ahí y que nos
+diga.
+
+27
+00:00:54,296 --> 00:00:54,936
+PART.2: Es verdad.
+
+28
+00:01:02,216 --> 00:01:02,696
+PART.2: ¿Sí?
+
+29
+00:01:04,496 --> 00:01:05,136
+PART.2: Sí, sí.
+
+30
+00:01:05,216 --> 00:01:05,656
+PART.1: Sí, ¿no?
+
+31
+00:01:05,736 --> 00:01:06,456
+PART.2: Sí, sí, sí.
+
+32
+00:01:07,816 --> 00:01:08,416
+PART.2: Guay.
+
+33
+00:01:08,496 --> 00:01:09,296
+PART.2: A ver.
+
+34
+00:01:13,576 --> 00:01:14,336
+PART.2: Fantasma, sí.
+
+35
+00:01:14,736 --> 00:01:15,536
+PART.2: Cógelo, cógelo.
+
+36
+00:01:15,896 --> 00:01:16,536
+PART.1: Bueno...
+
+37
+00:01:23,976 --> 00:01:24,736
+PART.2: ¿Ratón?
+
+38
+00:01:25,096 --> 00:01:25,936
+PART.2: Ay, otra vez.
+
+39
+00:01:27,976 --> 00:01:28,776
+PART.2: Para ti.
+
+40
+00:01:30,136 --> 00:01:30,936
+PART.1: ¿Era tuya o mía?
+
+41
+00:01:31,296 --> 00:01:31,936
+PART.2: Tuya.
+
+42
+00:01:37,536 --> 00:01:38,456
+PART.2: ¿El libro otra vez?
+
+43
+00:01:39,896 --> 00:01:40,736
+PART.2: Sí, ¿no?
+
+44
+00:01:51,056 --> 00:01:51,736
+PART.2: ¿Esto?
+
+45
+00:01:54,656 --> 00:01:55,696
+PART.2: Hostia, otra vez.
+
+46
+00:01:55,896 --> 00:01:57,096
+PART.2: Este caso no lo he cogido, ¿eh?
+
+47
+00:01:57,176 --> 00:01:58,336
+PART.1: Esto es muy difícil.
+
+48
+00:02:00,296 --> 00:02:01,016
+PART.2: Sí, sí.
+
+49
+00:02:01,736 --> 00:02:02,336
+PART.2: Vale.
+
+50
+00:02:02,616 --> 00:02:03,816
+PART.1: Yo memoria no...
+
+51
+00:02:03,216 --> 00:02:03,616
+PART.2: Ahora tú.
+
+52
+00:02:04,256 --> 00:02:05,016
+PART.1: Ah, vale.
+
+53
+00:02:09,736 --> 00:02:10,336
+PART.2: ¿Esto?
+
+54
+00:02:10,416 --> 00:02:10,896
+PART.1: Sí.
+
+55
+00:02:10,976 --> 00:02:11,536
+PART.2: ¡Ole!
+
+56
+00:02:11,976 --> 00:02:14,136
+PART.2: Me iba a quedar el ratón, no la
+carta.
+
+57
+00:02:15,016 --> 00:02:17,536
+PART.1: Como que uno tiende a... quedarse
+con la pieza, ¿no?
+
+58
+00:02:16,296 --> 00:02:16,856
+PART.2: Sí, sí.
+
+59
+00:02:18,136 --> 00:02:18,976
+PART.2: ¿Me toca a mí?
+
+60
+00:02:19,056 --> 00:02:19,496
+PART.1: Sí.
+
+61
+00:02:19,576 --> 00:02:20,776
+PART.2: Bueno, lo que sea.
+
+62
+00:02:25,216 --> 00:02:26,016
+PART.2: El libro, sí.
+
+63
+00:02:26,776 --> 00:02:27,176
+PART.1: Sí.
+
+64
+00:02:28,736 --> 00:02:29,456
+PART.2: Ahora tú.
+
+65
+00:02:34,536 --> 00:02:35,296
+PART.2: ¿Botella?
+
+66
+00:02:36,136 --> 00:02:37,136
+PART.1: Sí, sí, sí.
+
+67
+00:02:37,336 --> 00:02:37,896
+PART.2: ¿Sí?
+
+68
+00:02:41,976 --> 00:02:42,576
+PART.2: Venga, dale.
+
+69
+00:02:47,696 --> 00:02:48,416
+PART.2: ¿Sillón?
+
+70
+00:02:49,656 --> 00:02:50,136
+PART.1: Sí.
+
+71
+00:02:50,216 --> 00:02:50,576
+PART.2: ¿Sí?
+
+72
+00:02:50,656 --> 00:02:51,296
+PART.1: Sí.
+
+73
+00:02:52,376 --> 00:02:53,256
+PART.2: Vale, bueno.
+
+74
+00:02:54,736 --> 00:02:55,776
+PART.2: Mejor que la otra vez, ¿eh?
+
+75
+00:02:55,856 --> 00:02:56,776
+PART.2: La otra vez...
+
+76
+00:02:57,456 --> 00:02:59,136
+PART.2: Me tocó con un chaval y me pegó
+una paliza.
+
+77
+00:03:01,496 --> 00:03:02,176
+PART.2: Sí, sí.
+
+78
+00:03:03,376 --> 00:03:04,656
+PART.1: Se parece a otro juego que hay.
+
+79
+00:03:05,056 --> 00:03:05,816
+PART.2: Es chulo, ¿eh?
+
+80
+00:03:05,896 --> 00:03:07,656
+PART.1: Claro, con colores, pero...
+
+81
+00:03:07,736 --> 00:03:11,896
+PART.1: Decía, por ejemplo, azul escrito,
+pero las letras no eran azules, eran
+rojas.
+
+82
+00:03:11,976 --> 00:03:13,816
+PART.2: Ah, vale, aquello que juegan con
+el...
+
+83
+00:03:14,496 --> 00:03:15,216
+PART.2: Sí, sí, sí.
+
+84
+00:03:15,296 --> 00:03:16,096
+PART.1: Es parecido.
+
+85
+00:03:16,736 --> 00:03:17,656
+PART.2: Sí, sí.
+
+86
+00:03:18,176 --> 00:03:22,696
+PART.2: Este así para... si te vas de
+excursión o lo que sea, a la playa o
+donde sea, es buena...
+
+87
+00:03:22,776 --> 00:03:24,696
+PART.2: Porque tampoco es muy complicado.
+
+88
+00:03:25,976 --> 00:03:27,096
+PART.2: Está bien, está bien.
+
+89
+00:03:27,176 --> 00:03:28,896
+PART.1: Es agarrar el hilo.
+
+90
+00:03:30,616 --> 00:03:33,416
+PART.2: Sí, yo el segundo caso no lo
+había cogido, ¿eh?
+
+91
+00:03:33,496 --> 00:03:34,536
+PART.2: Este.
+
+92
+00:03:41,256 --> 00:03:42,096
+PART.1: ¿Cómo, cómo...?
+
+93
+00:03:42,736 --> 00:03:45,896
+PART.1: Creo que lo más difícil es
+recordar quién fue el último que dio
+la vuelta a la carta.
+
+94
+00:03:45,976 --> 00:03:49,176
+PART.1: Al menos para mí eso es muy
+confuso siempre en los juegos de
+cartas.
+
+95
+00:03:49,256 --> 00:03:49,496
+PART.2: Sí.
+
+96
+00:03:51,656 --> 00:03:56,976
+PART.2: A mí también me pasa, por
+ejemplo, en tenis o cosas así, que
+tienes que ir cambiando de pista...
+
+97
+00:03:57,896 --> 00:03:58,936
+PART.2: ¿Has jugado al tenis alguna vez?
+
+98
+00:03:59,016 --> 00:04:00,296
+PART.1: No, pero sí al pimpón.
+
+99
+00:04:00,456 --> 00:04:04,256
+PART.2: Bueno, pues en el  tenis sacas de
+un lado o sacas del otro.
+
+100
+00:04:04,336 --> 00:04:04,776
+PART.1: Sí.
+
+101
+00:04:04,856 --> 00:04:11,856
+PART.2: Entonces sacas de un lado, tienes
+que sacar luego al otro y con eso me
+hago un lío siempre, como tú
+dices, ¿no?
+
+102
+00:04:11,936 --> 00:04:13,576
+PART.2: ¿Había sacado aquí? ¿Había
+sacado allí?
+
+103
+00:04:15,096 --> 00:04:16,096
+PART.2: Sí, sí, bueno.
+

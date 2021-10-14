@@ -1,0 +1,401 @@
+1
+00:00:00,000 --> 00:00:00,015
+SUPERVISOR: La que coja el objeto, se queda
+la carta y la que tenga más cartas,
+gana.
+
+2
+00:00:00,535 --> 00:00:01,335
+PART.1: Muy bien.
+
+3
+00:00:01,415 --> 00:00:01,935
+PART.2: Comienza.
+
+4
+00:00:02,015 --> 00:00:02,975
+PART.1: ¿Yo? Es igual.
+
+5
+00:00:08,015 --> 00:00:09,175
+PART.1: Ay, no. Esta.
+
+6
+00:00:09,975 --> 00:00:10,495
+PART.1: ¿No?
+
+7
+00:00:10,575 --> 00:00:11,815
+PART.2: No, ese no. Este.
+
+8
+00:00:12,375 --> 00:00:13,895
+PART.1: No, porque la botella ya está.
+
+9
+00:00:13,975 --> 00:00:16,415
+PART.2: Ah, pero lo gris...
+
+10
+00:00:16,495 --> 00:00:17,735
+PART.1: Como no coinciden en...
+
+11
+00:00:17,295 --> 00:00:19,055
+PART.2: Lo gris. A, no. ¿Es blanco?
+
+12
+00:00:19,135 --> 00:00:26,295
+PART.1: Pero como no coinciden ni el sofá
+con el color ni la botella con el
+color ni tampoco podemos coger nada
+azul y blanco, lo único que queda
+diferente es el gris.
+
+13
+00:00:26,375 --> 00:00:28,375
+PART.2: Es que era blanco.
+Yo lo veía gris.
+
+14
+00:00:28,455 --> 00:00:34,015
+PART.1: Ah, me ha pasado a mí antes aquí,
+con la chica, que yo veía una cosa
+lila y ella la veía de otro color.
+
+15
+00:00:35,095 --> 00:00:36,295
+PART.1: Esto me ha pasado.
+
+16
+00:00:39,575 --> 00:00:40,535
+PART.1: A ver.
+
+17
+00:00:41,535 --> 00:00:43,735
+PART.2: Pues... el sofá.
+
+18
+00:00:44,575 --> 00:00:45,735
+PART.2: No, es rojo.
+
+19
+00:00:46,695 --> 00:00:48,295
+PART.1: Volvemos a estar con el gris.
+
+20
+00:00:47,815 --> 00:00:48,935
+PART.2: Pues volvemos a esta.
+
+21
+00:00:49,495 --> 00:00:50,695
+PART.1: No. Cógela, cógela.
+
+22
+00:00:51,735 --> 00:00:52,975
+PART.1: ¿A quién le toca? ¿Yo?
+
+23
+00:00:53,055 --> 00:00:54,815
+PART.1: No sé, ¿eh? Me hago un lío.
+
+24
+00:00:55,895 --> 00:00:56,975
+PART.1: Este sí.
+
+25
+00:00:57,135 --> 00:00:57,815
+PART.2: Ajá.
+
+26
+00:00:57,895 --> 00:00:59,175
+PART.1: Este es el que he visto lila
+antes.
+
+27
+00:00:59,895 --> 00:01:03,335
+PART.1: ¿Ves? ¿A que lo ves lila?
+No coincidía el libro.
+
+28
+00:01:05,735 --> 00:01:06,935
+PART.1: Porque lo veía lila.
+
+29
+00:01:08,735 --> 00:01:09,575
+PART.2: Pues...
+
+30
+00:01:10,455 --> 00:01:11,375
+PART.2: Pues, ¿esto?
+
+31
+00:01:11,455 --> 00:01:12,415
+PART.1: Muy bien.
+
+32
+00:01:12,495 --> 00:01:13,055
+PART.1: Para ti.
+
+33
+00:01:13,135 --> 00:01:13,655
+PART.1: Sí, sí.
+
+34
+00:01:13,735 --> 00:01:14,535
+PART.1: Muy bien, muy bien.
+
+35
+00:01:14,735 --> 00:01:15,575
+PART.1: A ver.
+
+36
+00:01:22,935 --> 00:01:24,015
+PART.1: Esto.
+
+37
+00:01:25,055 --> 00:01:26,175
+PART.1: No. Esto o esto.
+
+38
+00:01:26,255 --> 00:01:27,135
+PART.1: Estos son dos.
+
+39
+00:01:27,375 --> 00:01:28,695
+PART.2: El libro ya está.
+
+40
+00:01:29,135 --> 00:01:30,735
+PART.1: Sí, pero no coincide el color.
+
+41
+00:01:30,815 --> 00:01:32,615
+PART.1: Y el fantasma no coincide el
+color.
+
+42
+00:01:33,375 --> 00:01:36,415
+PART.1: Pero el verde ya está y el rojo
+ya está.
+
+43
+00:01:36,495 --> 00:01:38,815
+PART.1: Aquí también podrían ser
+los dos.
+
+44
+00:01:38,895 --> 00:01:41,215
+PART.2: Este, ¿no? Porque este ya está
+con ese azul.
+
+45
+00:01:40,415 --> 00:01:42,295
+PART.1: Ah, no, que este ya está. Tienes
+razón.
+
+46
+00:01:43,855 --> 00:01:44,815
+PART.1: Tienes razón.
+
+47
+00:01:47,455 --> 00:01:49,695
+PART.2: Pues aquí... este.
+
+48
+00:01:50,655 --> 00:01:51,695
+PART.1: Lo iba a coger.
+
+49
+00:01:51,775 --> 00:01:52,335
+PART.2: ¿Sí?
+
+50
+00:01:52,415 --> 00:01:53,135
+PART.1: Sí, sí, sí.
+
+51
+00:01:53,215 --> 00:01:54,415
+PART.1: Muy bien, muy bien.
+
+52
+00:01:54,775 --> 00:01:55,695
+PART.1: Ay, dale.
+
+53
+00:01:56,615 --> 00:01:57,615
+PART.1: ¿Yo? ¿Me toca a mí?
+
+54
+00:02:00,935 --> 00:02:02,375
+PART.1: Ahora sí que es la botellita,
+¿no?
+
+55
+00:02:02,895 --> 00:02:03,735
+PART.2: Ajá.
+
+56
+00:02:06,175 --> 00:02:07,415
+PART.2: Pero... Ah, sí.
+
+57
+00:02:10,655 --> 00:02:12,495
+PART.1: Este sí que es clarísimo.
+
+58
+00:02:12,575 --> 00:02:13,535
+PART.2: Este.
+
+59
+00:02:14,975 --> 00:02:16,175
+PART.2: No sé a quién le toca.
+
+60
+00:02:17,455 --> 00:02:18,615
+PART.1: Y este vuelve a ser claro.
+
+61
+00:02:18,695 --> 00:02:20,055
+PART.1: Lo mismo, nos ha tocado lo mismo.
+
+62
+00:02:20,535 --> 00:02:21,415
+PART.2: Sí.
+
+63
+00:02:22,015 --> 00:02:25,775
+PART.1: ¿No? Pero este es el único que lo
+veo tan claro, el fantasma blanco.
+
+64
+00:02:28,015 --> 00:02:30,095
+PART.2: Pues, pues este.
+
+65
+00:02:31,055 --> 00:02:35,815
+PART.1: Pues este, porque el gris ya
+está, el blanco ya está, el sofá
+está y el libro está. Muy bien.
+
+66
+00:02:35,895 --> 00:02:36,775
+PART.1: Para ti.
+
+67
+00:02:38,255 --> 00:02:39,255
+PART.1: Y este, es este.
+
+68
+00:02:39,335 --> 00:02:39,775
+PART.2: Ah, sí.
+
+69
+00:02:39,855 --> 00:02:40,695
+PART.1: También está claro.
+
+70
+00:02:40,775 --> 00:02:41,695
+PART.1: Muy bien, oye.
+
+71
+00:02:41,775 --> 00:02:43,895
+PART.1: Pues casi,
+casi, ¿eh? Más o menos, ¿no?
+
+72
+00:02:46,095 --> 00:02:46,935
+PART.2: Cinco.
+
+73
+00:02:47,015 --> 00:02:47,575
+PART.1: Seis.
+
+74
+00:02:47,655 --> 00:02:54,055
+PART.2: Pues siempre me quedo atrás
+porque soy lenta, no pienso rápido.
+
+75
+00:02:54,295 --> 00:02:56,375
+PART.2: Lo puedo hacer, pero tengo que
+pensar.
+
+76
+00:02:57,735 --> 00:03:02,535
+PART.1: No te preocupes, ahora no me ha
+pasado a mí, pero porque me he visto
+los dos fantasmas, si no, quedo
+atrasada yo también.
+
+77
+00:03:03,095 --> 00:03:04,735
+PART.1: No te pienses.
+
+78
+00:03:04,935 --> 00:03:06,135
+PART.1: Yo rápida tampoco soy.
+
+79
+00:03:06,215 --> 00:03:06,895
+PART.2: No.
+
+80
+00:03:06,975 --> 00:03:08,255
+PART.1: Comparada con mis hijos y con...
+
+81
+00:03:08,775 --> 00:03:13,455
+PART.2: Sí, quizá la edad lo pone a uno
+más listo.
+
+82
+00:03:11,815 --> 00:03:12,935
+PART.1: Hombre, hace mucho.
+
+83
+00:03:13,015 --> 00:03:15,775
+PART.1: Los reflejos
+y todo esto para la gente joven.
+
+84
+00:03:16,855 --> 00:03:18,135
+PART.2: Tiene las pilas nuevas.
+
+85
+00:03:18,215 --> 00:03:22,135
+PART.1: Yo cosas más de pensar, pero de
+ver, así a primera vista...
+
+86
+00:03:23,255 --> 00:03:25,415
+PART.1: Me dice mi marido: "Mira quién
+pasa", y yo: "¿Dónde? ¿Quién?".
+
+87
+00:03:25,495 --> 00:03:26,455
+PART.1: Y ya hemos pasado con
+el coche.
+
+88
+00:03:26,535 --> 00:03:27,295
+PART.2: Sí. Exacto.
+
+89
+00:03:27,375 --> 00:03:28,615
+PART.1: Y yo: "Hombre, avísame" No he
+visto...
+
+90
+00:03:28,695 --> 00:03:29,375
+PART.2: Exacto.
+
+91
+00:03:29,455 --> 00:03:30,855
+PART.1: Ni lo que tenía que mirar.
+
+92
+00:03:31,335 --> 00:03:33,375
+PART.1: Ni adónde me tenía que dirigir.
+Un desastre.
+

@@ -1,0 +1,107 @@
+35
+00:01:00,154 --> 00:01:01,154
+PART.2: Vale.
+
+36
+00:01:01,238 --> 00:01:02,321
+PART.2: Eh...
+
+37
+00:01:04,404 --> 00:01:07,238
+PART.2: ¿Tengo... una musculatura
+muy desarrollada?
+
+38
+00:01:07,904 --> 00:01:08,904
+PART.1: Sí.
+
+39
+00:01:10,654 --> 00:01:12,696
+PART.2: ¿Soy un animal carroñero?
+
+40
+00:01:14,446 --> 00:01:15,404
+PART.1: No.
+
+41
+00:01:16,613 --> 00:01:17,613
+PART.1: No.
+
+42
+00:01:17,696 --> 00:01:19,988
+PART.1: Bueno, no, yo creo que
+no. No.
+
+43
+00:01:20,238 --> 00:01:21,238
+PART.2: Vale.
+
+44
+00:01:21,321 --> 00:01:22,654
+PART.1: Va, ves diciéndome.
+
+45
+00:01:23,738 --> 00:01:25,988
+PART.2: Eh... ¿soy muy peludo?
+
+46
+00:01:26,071 --> 00:01:27,071
+PART.1: Sí.
+
+47
+00:01:30,738 --> 00:01:32,863
+PART.2: ¿Puedo caminar
+con dos patas?
+
+48
+00:01:32,946 --> 00:01:33,946
+PART.1: Sí.
+
+49
+00:01:36,863 --> 00:01:40,196
+PART.1: Eh... ¿se me puede
+encontrar en bosques?
+
+50
+00:01:41,113 --> 00:01:42,363
+PART.1: En bosques sí.
+
+51
+00:01:44,446 --> 00:01:46,696
+PART.1: No es muy frecuente,
+pero bueno.
+
+52
+00:01:48,113 --> 00:01:49,946
+PART.2: Eh...
+Vale, creo que...
+
+53
+00:01:50,988 --> 00:01:51,988
+PART.2: Eh...
+
+54
+00:01:52,071 --> 00:01:55,029
+PART.1: No nos lo encontramos
+todos los días, pero bueno, venga.
+No quiero decir nada.
+
+55
+00:01:55,113 --> 00:01:57,154
+PART.2: Sí, bueno,
+pero si se puede encontrar en...
+
+56
+00:01:55,654 --> 00:01:57,279
+PART.1: Sí, sí, sí, sí, sí.
+
+57
+00:01:57,613 --> 00:01:58,321
+PART.1: Sí, sí, sí.
+
+58
+00:01:57,779 --> 00:02:02,446
+PART.2: Vale.
+¿Soy... peligroso si...
+si se meten conmigo?
+

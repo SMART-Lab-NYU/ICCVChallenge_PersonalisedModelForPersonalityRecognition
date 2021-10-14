@@ -1,0 +1,83 @@
+23
+00:01:05,024 --> 00:01:05,544
+PART.1: Sí.
+
+24
+00:01:05,624 --> 00:01:07,744
+PART.1: Lo he cogido en plan, ¿seguro?
+
+25
+00:01:13,984 --> 00:01:14,544
+PART.1: Sí.
+
+26
+00:01:15,024 --> 00:01:16,064
+PART.1: Vale, vale, vale.
+
+27
+00:01:16,264 --> 00:01:17,264
+PART.2: Es como, sí, no.
+
+28
+00:01:17,824 --> 00:01:19,184
+PART.1: Está la cosa...
+
+29
+00:01:23,264 --> 00:01:23,944
+PART.1: Sí, ¿no?
+
+30
+00:01:33,584 --> 00:01:34,824
+PART.2: Y ahora creo que vas tú.
+
+31
+00:01:34,904 --> 00:01:35,424
+PART.1: ¿Sí?
+
+32
+00:01:40,664 --> 00:01:41,664
+PART.2: Me cuesta.
+
+33
+00:01:41,744 --> 00:01:42,944
+PART.1: Vale, vale. ¿A ver?
+
+34
+00:01:43,544 --> 00:01:44,584
+PART.1: Si me has ganado.
+
+35
+00:01:44,664 --> 00:01:45,184
+PART.2: Sí.
+
+36
+00:01:45,744 --> 00:01:46,784
+PART.2: Tengo cuatro.
+
+37
+00:01:47,464 --> 00:01:50,944
+PART.1: Pero a este no le considero tanto
+un juego de mesa como a otros.
+
+38
+00:01:51,024 --> 00:01:52,184
+PART.1: O sea, sí, es un juego de mesa.
+
+39
+00:01:52,704 --> 00:01:54,304
+PART.2: Sí, pero es como de reaccionar,
+¿no?
+
+40
+00:01:54,384 --> 00:01:57,264
+PART.1: Sí. Es más de reflejos que de
+otra cosa, ¿no?
+
+41
+00:01:57,344 --> 00:01:59,144
+PART.1: Es como el "Jungle Speed".
+
+42
+00:01:59,224 --> 00:01:59,704
+PART.2: Sí.
+

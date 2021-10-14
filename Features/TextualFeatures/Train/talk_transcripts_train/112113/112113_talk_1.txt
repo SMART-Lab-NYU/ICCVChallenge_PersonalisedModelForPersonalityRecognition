@@ -1,0 +1,84 @@
+31
+00:01:03,799 --> 00:01:04,070
+PART.2: No.
+
+32
+00:01:05,765 --> 00:01:07,654
+PART.1: No... Què estaves fent? La web?
+
+33
+00:01:08,064 --> 00:01:09,486
+PART.2: No. Parlant.
+
+34
+00:01:10,846 --> 00:01:11,365
+PART.1: Jo també.
+
+35
+00:01:13,112 --> 00:01:17,399
+PART.1: Pensava que ja estava fent també el doctorat.
+
+36
+00:01:18,293 --> 00:01:19,765
+PART.2: No, fa quart de lo meu,.
+
+37
+00:01:20,341 --> 00:01:22,695
+PART.1: Sí, sí, ja m’ho ha dit.
+
+38
+00:01:24,757 --> 00:01:27,669
+PART.2: No l’havia vist mai, què raro.
+
+39
+00:01:31,957 --> 00:01:32,667
+PART.1: Va, treu tema.
+
+40
+00:01:32,948 --> 00:01:33,517
+PART.2: De què?
+
+41
+00:01:33,942 --> 00:01:34,301
+PART.1: Del que sigui.
+
+42
+00:01:35,300 --> 00:01:35,788
+PART.2: Hola...
+
+43
+00:01:36,030 --> 00:01:36,701
+PART.1: Què faràs després?
+
+44
+00:01:37,934 --> 00:01:38,894
+PART.2: Pues Estudiar.
+
+45
+00:01:42,699 --> 00:01:44,029
+PART.1: Jo, igual. On anem? A la UAB?
+
+46
+00:01:44,775 --> 00:01:45,553
+PART.2: On dinem?
+
+47
+00:01:45,928 --> 00:01:46,256
+PART.1: No ho sé.
+
+48
+00:01:47,480 --> 00:01:48,744
+PART.2: Li anava a dir a m’avia.
+
+49
+00:01:49,705 --> 00:01:50,561
+PART.1: Com vegis.
+
+50
+00:01:51,112 --> 00:01:58,145
+PART.2: Però li hauria de dir ja. Però, si anem a la UAB hem de dinar abans. On dinem? Al Fair Guys?
+
+51
+00:01:58,961 --> 00:02:02,464
+PART.1: No ho sé, algo ràpid. Ni idea, o si no...
+

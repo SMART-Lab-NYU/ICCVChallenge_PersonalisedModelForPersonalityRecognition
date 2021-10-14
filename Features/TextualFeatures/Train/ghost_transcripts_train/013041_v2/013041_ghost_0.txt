@@ -1,0 +1,113 @@
+1
+00:00:00,000 --> 00:00:00,600
+SUPERVISOR: Por turnos, les vais
+dando la vuelta, el que coja primero
+el objeto se queda la carta y el que
+tenga más cartas al final...
+
+2
+00:00:00,200 --> 00:00:01,560
+PART.2: ¿Empiezas tú o empiezo
+yo?
+
+3
+00:00:02,120 --> 00:00:03,520
+PART.1: Piedra, papel o tijera.
+
+4
+00:00:04,680 --> 00:00:05,120
+PART.2: Venga.
+
+5
+00:00:05,200 --> 00:00:05,840
+PART.1: Dale.
+
+6
+00:00:06,280 --> 00:00:07,760
+PART.1: Piedra, papel o tijera,
+un...
+
+7
+00:00:08,200 --> 00:00:08,960
+PART.2: ¡Ay, no!
+
+8
+00:00:09,480 --> 00:00:11,760
+PART.1: Piedra, papel o tijera,
+un, dos, tres.
+
+9
+00:00:12,920 --> 00:00:13,440
+PART.2: Hala.
+
+10
+00:00:13,720 --> 00:00:14,360
+PART.1: Empiezo yo.
+
+11
+00:00:14,440 --> 00:00:15,400
+PART.2: Empiezas, venga.
+
+12
+00:00:16,320 --> 00:00:17,440
+PART.1: A ver, es...
+
+13
+00:00:21,840 --> 00:00:23,200
+PART.2: Vale, perfecto.
+
+14
+00:00:28,840 --> 00:00:30,040
+PART.1: Te quedas con la carta.
+
+15
+00:00:30,240 --> 00:00:31,600
+PART.2: Vale, ahora tú.
+
+16
+00:00:37,840 --> 00:00:38,440
+PART.2: Sí.
+
+17
+00:00:41,440 --> 00:00:43,280
+PART.2: Venga, una, dos
+y tres, ahí.
+
+18
+00:00:45,120 --> 00:00:45,680
+PART.2: Este.
+
+19
+00:00:48,480 --> 00:00:49,280
+PART.1: Estamos iguales.
+
+20
+00:00:49,360 --> 00:00:49,880
+PART.2: Sí.
+
+21
+00:00:51,280 --> 00:00:52,760
+PART.1: Azul y rojo...
+
+22
+00:00:53,280 --> 00:00:53,920
+PART.2: ¿No?
+
+23
+00:00:54,000 --> 00:00:54,560
+PART.1: No hay.
+
+24
+00:00:54,840 --> 00:00:56,640
+PART.1: El tuyo sí, pero
+yo me llevé este si es tuyo.
+
+25
+00:00:56,720 --> 00:00:57,600
+PART.2: No, porque es el ratón.
+
+26
+00:00:57,920 --> 00:01:00,560
+PART.1: Sí, es tuyo, por eso, me
+lo llevé, lo hice mal.
+

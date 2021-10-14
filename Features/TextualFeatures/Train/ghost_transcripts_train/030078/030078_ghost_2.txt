@@ -1,0 +1,34 @@
+30
+00:02:01,728 --> 00:02:02,688
+PART.1: Ya, ya, ya.
+
+31
+00:02:03,848 --> 00:02:06,128
+PART.2: Yo en esta habría sacado
+solamente blanco y gris.
+
+32
+00:02:08,008 --> 00:02:10,048
+PART.2: Y sería blanco y gris.
+No haría más.
+
+33
+00:02:12,608 --> 00:02:14,408
+PART.1: ¿Jugamos otra o esperamos?
+
+34
+00:02:14,968 --> 00:02:16,248
+PART.1: ¿Cómo es el procedimiento?
+
+35
+00:02:16,328 --> 00:02:17,168
+PART.2: Esperamos.
+
+36
+00:02:17,248 --> 00:02:18,048
+PART.1: ¿Sí?
+
+37
+00:02:21,648 --> 00:02:22,608
+PART.1: Vale.
+

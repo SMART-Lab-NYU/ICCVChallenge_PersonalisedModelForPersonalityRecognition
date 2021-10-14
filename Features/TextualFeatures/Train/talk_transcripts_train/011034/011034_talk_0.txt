@@ -1,0 +1,106 @@
+1
+00:00:02,975 --> 00:00:03,535
+PART.1: ¿Qué tal?
+
+2
+00:00:04,215 --> 00:00:04,855
+PART.2: Bien.
+
+3
+00:00:04,935 --> 00:00:06,015
+PART.1: ¿Cómo ha ido con Solange?
+
+4
+00:00:06,535 --> 00:00:07,015
+PART.2: Bien.
+
+5
+00:00:07,095 --> 00:00:07,935
+PART.1: Sí, es maja.
+
+6
+00:00:07,415 --> 00:00:08,695
+PART.2: Sí, es muy simpática, sí.
+
+7
+00:00:09,735 --> 00:00:10,895
+PART.2: Lo pasamos muy bien.
+
+8
+00:00:11,095 --> 00:00:11,975
+PART.1: ¿Cómo te llamabas?
+
+9
+00:00:12,055 --> 00:00:12,695
+PART.2: Natalia.
+
+10
+00:00:12,375 --> 00:00:12,895
+PART.1: Natalia.
+
+11
+00:00:12,975 --> 00:00:13,815
+PART.1: Yo me llamo Tom.
+
+12
+00:00:13,895 --> 00:00:14,535
+PART.2: Tom.
+
+13
+00:00:16,055 --> 00:00:17,055
+PART.1: Uy, uy.
+
+14
+00:00:21,055 --> 00:00:25,535
+PART.2: Sí, yo la tuve recién y
+estaba así como sin moverme mucho
+claro.
+
+15
+00:00:24,335 --> 00:00:27,535
+PART.1: Sí, a mí me ha tocado
+antes esta y también.
+
+16
+00:00:29,255 --> 00:00:31,815
+PART.2: A lo mejor vas a tener
+que ponerle cinta de esta o algo.
+
+17
+00:00:32,775 --> 00:00:33,695
+PART.1: Vale, bueno.
+
+18
+00:00:36,255 --> 00:00:37,895
+PART.2: Y ¿qué tal?, ¿cómo te
+enteraste de esto?
+
+19
+00:00:38,695 --> 00:00:43,735
+PART.1: Pues me lo pasó Solange,
+no sé muy bien de dónde lo sacó.
+
+20
+00:00:44,815 --> 00:00:48,175
+PART.1: Me envió el link y me
+dijo en plan: "Mira hay esto, no sé
+qué, tal.
+
+21
+00:00:48,695 --> 00:00:50,935
+PART.1: Un experimento de relaciones,
+no sé qué".
+
+22
+00:00:51,255 --> 00:00:59,255
+PART.1: No me imaginaba eso, yo
+pensaba que era simplemente venir y
+charlar con una persona, que te
+hicieran preguntas, yo contestar, no
+sé, una conversación, ¿sabes?
+
+23
+00:00:59,335 --> 00:01:00,815
+PART.2: Yo pensaba en algo
+parecido, sí.
+

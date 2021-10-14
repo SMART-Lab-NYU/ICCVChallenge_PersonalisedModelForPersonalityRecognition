@@ -1,0 +1,30 @@
+51
+00:03:00,227 --> 00:03:03,727
+PART.2: When I was a kid
+I used to do chess.
+
+52
+00:03:06,227 --> 00:03:08,527
+PART.1: We can play sometimes,
+I am good.
+
+53
+00:03:08,627 --> 00:03:09,327
+PART.2: You are good?
+
+54
+00:03:09,327 --> 00:03:09,627
+PART.1: Yes, yes, I am good.
+
+55
+00:03:09,627 --> 00:03:12,627
+PART.1: Yes, yes, I am good.
+
+56
+00:03:13,827 --> 00:03:15,227
+PART.2: Yes, it is a good idea.
+
+57
+00:03:15,227 --> 00:03:17,227
+PART.1: Yes, we can do that.
+

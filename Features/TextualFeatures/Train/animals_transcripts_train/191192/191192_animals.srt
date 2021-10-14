@@ -1,0 +1,821 @@
+﻿1
+00:00:00,000 --> 00:00:02,531
+PART.2: Venga, empiezas tú,
+aprovechando que hoy no es tu cumple.
+
+2
+00:00:02,611 --> 00:00:04,091
+PART.1: ¿Es un mamífero?
+
+3
+00:00:04,971 --> 00:00:05,971
+PART.2: Sí.
+
+4
+00:00:06,051 --> 00:00:07,611
+PART.1: Has dudado
+si era un mamífero o no.
+
+5
+00:00:07,691 --> 00:00:09,571
+PART.2: Sí, un mamífero
+para siempre.
+
+6
+00:00:09,891 --> 00:00:11,251
+PART.2: ¿Es un animal marino?
+
+7
+00:00:11,971 --> 00:00:13,291
+PART.1: Eh...
+
+8
+00:00:14,091 --> 00:00:15,451
+PART.1: No, pero...
+
+9
+00:00:15,531 --> 00:00:16,331
+PART.1: No, no.
+
+10
+00:00:16,411 --> 00:00:17,571
+PART.2: No, vale.
+
+11
+00:00:17,931 --> 00:00:19,491
+PART.1: Eh...
+
+12
+00:00:19,571 --> 00:00:20,931
+PART.1: ¿Es carnívoro?
+
+13
+00:00:24,091 --> 00:00:25,451
+PART.2: Sí. Sí.
+
+14
+00:00:25,531 --> 00:00:26,491
+PART.1: Tenía que haber dicho
+otra cosa.
+
+15
+00:00:26,571 --> 00:00:28,891
+PART.2: Entonces,
+es un animal de mar, no.
+
+16
+00:00:28,971 --> 00:00:30,291
+PART.2: ¿Es un depredador?
+
+17
+00:00:30,371 --> 00:00:31,371
+PART.1: Sí.
+
+18
+00:00:31,451 --> 00:00:32,451
+PART.2: Vale.
+
+19
+00:00:32,531 --> 00:00:33,531
+PART.1: Eh...
+
+20
+00:00:34,291 --> 00:00:36,491
+PART.1: ¿Tienen cuatro patas?
+
+21
+00:00:36,571 --> 00:00:37,571
+PART.2: Sí.
+
+22
+00:00:41,651 --> 00:00:42,811
+PART.2: ¿Corre muy rápido?
+
+23
+00:00:42,891 --> 00:00:43,891
+PART.1: No.
+
+24
+00:00:43,971 --> 00:00:44,971
+PART.2: No.
+
+25
+00:00:45,051 --> 00:00:46,651
+PART.1: Eh...
+
+26
+00:00:46,731 --> 00:00:47,731
+PART.1: ¿Es doméstico?
+
+27
+00:00:47,811 --> 00:00:48,931
+PART.2: No, no, no.
+
+28
+00:00:49,011 --> 00:00:50,051
+PART.1: Hostia.
+
+29
+00:00:50,131 --> 00:00:51,131
+PART.2: Nunca.
+
+30
+00:00:51,211 --> 00:00:52,971
+PART.1: ¿Cuántas preguntas...?
+Creo que cuatro.
+
+31
+00:00:53,051 --> 00:00:54,371
+PART.1: Te toca.
+Con la tuya, cuatro.
+
+32
+00:00:54,451 --> 00:00:55,731
+PART.2: Sí, sí, sí.
+
+33
+00:00:59,971 --> 00:01:01,291
+PART.2: ¿Cabría en una casa?
+
+34
+00:01:02,171 --> 00:01:03,171
+PART.1: Sí.
+
+35
+00:01:05,451 --> 00:01:07,371
+PART.1: Eh...
+Qué te iba a decir yo.
+
+36
+00:01:08,171 --> 00:01:09,971
+PART.1: ¿Es salvaje?
+
+37
+00:01:10,051 --> 00:01:11,051
+PART.2: Sí.
+
+38
+00:01:12,851 --> 00:01:13,851
+PART.2: ¿Es herbívoro?
+
+39
+00:01:13,931 --> 00:01:14,931
+PART.1: No.
+
+40
+00:01:16,771 --> 00:01:18,891
+PART.1: Eh... ¿Ha matado a gente?
+
+41
+00:01:18,971 --> 00:01:20,171
+PART.2: Sí, sí, sí, sí.
+
+42
+00:01:20,251 --> 00:01:21,291
+PART.1: Hostia.
+
+43
+00:01:22,211 --> 00:01:24,171
+PART.2: Bueno, ha sido más
+selección natural más que otra cosa.
+
+44
+00:01:25,731 --> 00:01:26,731
+PART.2: Eh...
+
+45
+00:01:28,971 --> 00:01:30,331
+PART.2: ¿Su nombre empieza por
+vocal?
+
+46
+00:01:30,411 --> 00:01:31,411
+PART.1: No.
+
+47
+00:01:31,491 --> 00:01:32,971
+PART.1: Buah, me he rallado.
+
+48
+00:01:33,531 --> 00:01:35,731
+PART.2: ¿La w es una vocal?
+
+49
+00:01:37,931 --> 00:01:38,931
+PART.1: Eh...
+
+50
+00:01:39,491 --> 00:01:40,971
+PART.1: ¿Han hecho una peli de
+él?
+
+51
+00:01:41,051 --> 00:01:42,411
+PART.2: Hasta donde yo sé, no.
+
+52
+00:01:42,491 --> 00:01:45,451
+PART.1: Hostia.
+Joder, me has... desconcentrado.
+
+53
+00:01:53,091 --> 00:01:54,611
+PART.2: ¿Sale en El rey león?
+
+54
+00:01:55,731 --> 00:01:57,371
+PART.1: Lo peor es que...
+
+55
+00:01:58,371 --> 00:01:59,371
+PART.1: O sea, sí.
+
+56
+00:01:59,451 --> 00:02:00,451
+PART.2: Vale.
+
+57
+00:02:00,891 --> 00:02:02,331
+PART.2: Es la piedra.
+
+58
+00:02:03,251 --> 00:02:04,251
+PART.1: No.
+
+59
+00:02:04,731 --> 00:02:05,731
+PART.2: Venga.
+
+60
+00:02:05,811 --> 00:02:07,451
+PART.1: Esto...
+
+61
+00:02:07,531 --> 00:02:09,611
+PART.1: No estás preguntando
+bien, me parece a mí.
+
+62
+00:02:09,691 --> 00:02:10,691
+PART.1: Eh...
+
+63
+00:02:10,771 --> 00:02:11,971
+PART.2: Voy a palos de ciego.
+
+64
+00:02:12,051 --> 00:02:16,051
+PART.1: Coño. Yo pensaba que sí
+hasta que me has dicho lo de la peli.
+
+65
+00:02:16,131 --> 00:02:17,811
+PART.1: Eh... Joder.
+
+66
+00:02:17,891 --> 00:02:18,891
+PART.1: ¿Tiene garras?
+
+67
+00:02:18,971 --> 00:02:19,971
+PART.2: No.
+
+68
+00:02:20,051 --> 00:02:21,091
+PART.1: ¿No tiene garras?
+
+69
+00:02:21,171 --> 00:02:22,171
+PART.2: No.
+
+70
+00:02:22,971 --> 00:02:24,491
+PART.1: Entonces,
+no sé qué animal es.
+
+71
+00:02:24,571 --> 00:02:26,691
+PART.2: Pero está mamadísimo
+igualmente.
+
+72
+00:02:26,771 --> 00:02:27,771
+PART.1: Venga.
+
+73
+00:02:32,411 --> 00:02:33,771
+PART.2: ¿Puede vivir en la jungla?
+
+74
+00:02:35,491 --> 00:02:36,491
+PART.1: Sí.
+
+75
+00:02:37,091 --> 00:02:38,371
+PART.1: Buah, es que no lo sé.
+
+76
+00:02:38,451 --> 00:02:39,491
+PART.1: Haz otra pregunta.
+
+77
+00:02:39,571 --> 00:02:41,131
+PART.2: Ni sí, ni no,
+sino todo lo contario.
+
+78
+00:02:41,211 --> 00:02:42,491
+PART.1: Haz otra pregunta.
+
+79
+00:02:43,131 --> 00:02:44,331
+PART.2: Vive en la sabana.
+
+80
+00:02:44,411 --> 00:02:46,131
+PART.1: Sí, eso sí.
+"Perdona, perdona".
+
+81
+00:02:45,131 --> 00:02:46,131
+PART.2: Vale.
+
+82
+00:02:47,011 --> 00:02:49,851
+PART.2: Y no en las sábanas de tu
+cama, sino...
+
+83
+00:02:49,931 --> 00:02:53,331
+PART.1: Hostia, es un mamífero,
+come carne, ha matado gente...
+
+84
+00:02:54,651 --> 00:02:57,131
+PART.1: Es un mamífero, come
+carne, ha matado gente...
+
+85
+00:02:57,211 --> 00:02:58,451
+PART.1: Pero no tiene garras.
+
+86
+00:03:01,931 --> 00:03:02,931
+PART.1: Es un delfín.
+
+87
+00:03:03,851 --> 00:03:04,851
+PART.2: No.
+
+88
+00:03:05,531 --> 00:03:06,531
+PART.2: Eh...
+
+89
+00:03:10,771 --> 00:03:13,331
+PART.1: Nos queda una pregunta
+más después de la tuya.
+
+90
+00:03:17,171 --> 00:03:18,411
+PART.1: ¿Es la cebra?
+
+91
+00:03:18,491 --> 00:03:19,491
+PART.1: No.
+
+92
+00:03:20,651 --> 00:03:21,651
+PART.1: Es que te has...
+
+93
+00:03:21,731 --> 00:03:23,851
+PART.2: Ahí he ido a lo burro
+a ver qué salía.
+
+94
+00:03:23,931 --> 00:03:26,051
+PART.1: Yo preguntaría una cosa
+que nos has preguntado.
+
+95
+00:03:26,611 --> 00:03:28,851
+PART.1: Esto... Buah.
+
+96
+00:03:29,691 --> 00:03:30,691
+PART.1: Es que...
+
+97
+00:03:30,771 --> 00:03:32,771
+PART.1: Es que lo que más me jode
+es que no tiene garras.
+
+98
+00:03:33,131 --> 00:03:36,251
+PART.1: ¿Cómo existe un mamífero
+que come carne y no tiene garras?
+
+99
+00:03:37,051 --> 00:03:39,171
+PART.2: Estando chetadísimo
+por otra parte.
+
+100
+00:03:43,491 --> 00:03:46,371
+PART.1: Esto... Es un mamífero,
+no tiene garras...
+
+101
+00:03:46,451 --> 00:03:47,811
+PART.1: ¿Es un mono?
+
+102
+00:03:47,891 --> 00:03:48,891
+PART.2: No.
+
+103
+00:03:50,211 --> 00:03:52,531
+PART.1: Me imagino a un mono
+comiendo gente.
+
+104
+00:03:53,931 --> 00:03:54,931
+PART.1: Dale.
+
+105
+00:03:55,011 --> 00:03:57,171
+PART.2: Eh... Voy a decir
+otro animal random.
+
+106
+00:04:05,611 --> 00:04:06,611
+PART.2: ¿El león?
+
+107
+00:04:06,691 --> 00:04:07,691
+PART.1: No.
+
+108
+00:04:07,051 --> 00:04:08,211
+PART.2: "Cachis".
+
+109
+00:04:08,291 --> 00:04:11,011
+PART.2: Pues hala.
+Fin del juego para mí.
+
+110
+00:04:11,091 --> 00:04:12,651
+PART.1: No, pero te queda
+el intento extra.
+
+111
+00:04:12,731 --> 00:04:14,331
+PART.2: Ah, pues sí.
+Hostia, es verdad.
+
+112
+00:04:15,331 --> 00:04:17,091
+PART.1: Buah...
+O sea, a mí ya no.
+
+113
+00:04:17,171 --> 00:04:19,411
+PART.1: O sea, yo estoy ahora
+en mi intento extra.
+
+114
+00:04:21,371 --> 00:04:22,371
+PART.1: Piensa.
+
+115
+00:04:24,411 --> 00:04:25,291
+PART.1: Mamífero.
+
+116
+00:04:25,731 --> 00:04:26,851
+PART.1: Come gente.
+
+117
+00:04:27,171 --> 00:04:28,371
+PART.1: Come carne.
+
+118
+00:04:29,011 --> 00:04:30,531
+PART.1: a piraña no es un
+mamífero.
+
+119
+00:04:30,611 --> 00:04:31,611
+PART.2: No.
+
+120
+00:04:31,691 --> 00:04:33,011
+PART.1: Está bien saberlo.
+
+121
+00:04:33,091 --> 00:04:35,691
+PART.1: O sea, si no come carne
+y no tiene garras,
+
+122
+00:04:35,771 --> 00:04:38,451
+PART.1: por lo tanto, por donde
+coma va a ser por la boca.
+
+123
+00:04:38,531 --> 00:04:42,531
+PART.1: O sea, tiene que ser un
+animal grande que tiene que comer por la boca.
+
+124
+00:04:43,091 --> 00:04:46,691
+PART.1: Descarto todos los
+felinos porque todos los felinos tienen garras.
+
+125
+00:04:46,771 --> 00:04:47,851
+PART.1: Por lo tanto, fuera.
+
+126
+00:04:47,931 --> 00:04:49,371
+PART.1: A no ser que me estés
+engañando.
+
+127
+00:04:48,771 --> 00:04:49,771
+PART.2: No.
+
+128
+00:04:49,851 --> 00:04:50,651
+PART.1: Es el león.
+
+129
+00:04:50,731 --> 00:04:51,731
+PART.2: No.
+
+130
+00:04:51,811 --> 00:04:53,651
+PART.2: Richard el biólogo.
+
+131
+00:04:54,611 --> 00:04:56,531
+PART.2: Yo voy a decir otro
+animal random.
+
+132
+00:04:58,131 --> 00:04:59,131
+PART.2: Eh...
+
+133
+00:05:03,611 --> 00:05:04,611
+PART.2: El...
+
+134
+00:05:07,571 --> 00:05:09,331
+PART.2: Estoy pensando lo que
+salía en El rey león.
+
+135
+00:05:11,211 --> 00:05:13,571
+PART.1: Es que, claro,
+esa pregunta también...
+
+136
+00:05:13,651 --> 00:05:15,051
+PART.1: Es complicada.
+
+137
+00:05:15,131 --> 00:05:16,251
+PART.2: El jabalí.
+
+138
+00:05:16,331 --> 00:05:17,331
+PART.1: No.
+
+139
+00:05:17,011 --> 00:05:18,051
+PART.2: Cago en Dios.
+
+140
+00:05:18,131 --> 00:05:19,251
+PART.1: Ya está.
+
+141
+00:05:19,331 --> 00:05:20,011
+PART.2: Fin del juego.
+
+142
+00:05:20,091 --> 00:05:21,291
+PART.1: Eras un pelícano.
+
+143
+00:05:21,371 --> 00:05:23,371
+PART.2: Hostia puta,
+qué imbécil yo.
+
+144
+00:05:23,811 --> 00:05:26,291
+PART.1: El hipopótamo, tío.
+Hostia.
+
+145
+00:05:26,371 --> 00:05:29,211
+PART.2: Te pega un bocado
+y arranca una viga este hombre.
+
+146
+00:05:29,291 --> 00:05:30,491
+PART.1: No lo había pensado, tío.
+
+147
+00:05:30,931 --> 00:05:32,891
+PART.2: Hostia, el pelícano...
+
+148
+00:05:32,091 --> 00:05:33,451
+PART.1: Sí que ha salido
+en una peli.
+
+149
+00:05:33,531 --> 00:05:34,531
+PART.1: En Madagascar.
+
+150
+00:05:36,411 --> 00:05:39,891
+PART.2: Hostia. Es verdad,
+la Gloria esa hipopótama que estaba.
+
+151
+00:05:38,811 --> 00:05:39,891
+PART.1: Claro.
+
+152
+00:05:39,971 --> 00:05:42,491
+PART.2: Hay una banda
+de postmetal que se llama Pelican
+
+153
+00:05:42,571 --> 00:05:44,451
+PART.2: que te recomiendo
+un millón de veces y media.
+
+154
+00:05:44,531 --> 00:05:46,611
+PART.1: ¿Sabes dónde sale
+el pelícano en El Rey león?
+
+155
+00:05:47,331 --> 00:05:48,331
+PART.1: En el inicio.
+
+156
+00:05:48,411 --> 00:05:49,771
+PART.2: Ah, bueno...
+
+157
+00:05:49,211 --> 00:05:50,571
+PART.1: Porque están volando.
+
+158
+00:05:52,091 --> 00:05:54,131
+PART.1: "Por eso te he dicho
+que sí, pero no lo sé".
+
+159
+00:05:54,211 --> 00:05:55,971
+PART.2: Estaba buscando
+personajes principales.
+
+160
+00:06:00,131 --> 00:06:01,731
+PART.2: Es un matojo de hierbas.
+
+161
+00:06:01,811 --> 00:06:02,811
+PART.2: Sí.
+
+162
+00:06:07,731 --> 00:06:10,251
+PART.1: Tenías que haber
+preguntado si es un mamífero como he hecho yo.
+
+163
+00:06:10,331 --> 00:06:11,851
+PART.2: Me lo he gestionado mal esto.
+
+164
+00:06:12,971 --> 00:06:14,811
+PART.2: Y mira que jugué ayer a
+este juego.
+
+165
+00:06:14,891 --> 00:06:16,211
+PART.1: ¿Qué te salió ayer?
+
+166
+00:06:16,291 --> 00:06:17,771
+PART.2: El cocodrilo.
+
+167
+00:06:18,251 --> 00:06:19,531
+PART.1: ¿Con quién jugaste?
+
+168
+00:06:18,531 --> 00:06:19,531
+PART.2: Yo pensando...
+
+169
+00:06:19,611 --> 00:06:22,131
+PART.2: Con una señora random que
+se llamaba Elvira que era un solete.
+
+170
+00:06:24,091 --> 00:06:25,091
+PART.2: Y era en plan...
+
+171
+00:06:26,411 --> 00:06:30,891
+PART.2: Hacía una pregunta y
+pregunta algo que no tenía absolutamente nada que ver
+con esa pregunta.
+
+172
+00:06:30,971 --> 00:06:32,331
+PART.1: "¿Tú o el señor?"
+
+173
+00:06:31,971 --> 00:06:32,771
+PART.2: Yo, yo.
+
+174
+00:06:32,851 --> 00:06:34,011
+PART.1: Ah, vale.
+
+175
+00:06:34,851 --> 00:06:35,851
+PART.1: Hostia.
+
+176
+00:06:35,931 --> 00:06:38,251
+PART.1: Un hipopótamo, tío,
+nunca me lo hubiera imaginado.
+
+177
+00:06:38,331 --> 00:06:39,771
+PART.2: Yo, un pelícano.
+
+178
+00:06:42,091 --> 00:06:43,091
+PART.2: Hostia.
+
+179
+00:06:45,171 --> 00:06:47,531
+PART.2: En verdad, molaría ser un
+pelicano para todas las cosas
+
+180
+00:06:47,611 --> 00:06:50,171
+PART.2: que me encuentro por la
+calle metérmelas en el pico y llevármelas.
+
+181
+00:06:52,851 --> 00:06:54,611
+PART.1: O sea,
+en mi mente estaba...
+
+182
+00:06:54,691 --> 00:06:56,531
+PART.1: Al principio estaba el
+león.
+
+183
+00:06:56,611 --> 00:06:59,571
+PART.1: Pero me has dicho que no
+tenía garras y ahí ha sido... ¡Fua!
+
+184
+00:06:59,651 --> 00:07:02,291
+PART.2: Todos tus axiomas
+han hecho ...
+
+185
+00:07:02,371 --> 00:07:04,211
+PART.1: Y cuando me has dicho
+lo de las garras, he pensado:
+
+186
+00:07:04,291 --> 00:07:06,611
+PART.1: pues entonces tendrá
+una boca grande. Tal, piraña.
+
+187
+00:07:06,691 --> 00:07:08,091
+PART.2: Tiene toda la pinta.
+
+188
+00:07:07,251 --> 00:07:08,571
+PART.2: Luego he pensado:
+no es un mamífero.
+

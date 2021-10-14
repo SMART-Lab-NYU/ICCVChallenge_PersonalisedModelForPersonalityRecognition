@@ -1,0 +1,294 @@
+1
+00:00:00,000 --> 00:00:00,360
+SUPERVISOR: Vale, pues os dejo aquí las cartas. Por turnos, les vais dando la
+vuelta, el que coja primero el objeto se queda la carta y el que tenga más
+cartas al final...
+
+2
+00:00:00,400 --> 00:00:01,640
+PART.2: ¿Empiezas tú o empiezo yo?
+
+3
+00:00:02,360 --> 00:00:03,480
+PART.1: Piedra, papel o tijera.
+
+4
+00:00:04,720 --> 00:00:05,400
+PART.2: Venga.
+
+5
+00:00:05,480 --> 00:00:06,040
+PART.1: Dale.
+
+6
+00:00:06,400 --> 00:00:08,160
+PART.1: Piedra, papel o tijera, un...
+
+7
+00:00:08,360 --> 00:00:09,000
+PART.2: ¡Ay, no!
+
+8
+00:00:09,520 --> 00:00:11,920
+PART.1: Piedra, papel o tijera, un, dos,
+tres.
+
+9
+00:00:13,080 --> 00:00:13,560
+PART.2: Hala.
+
+10
+00:00:13,640 --> 00:00:14,360
+PART.1: Empiezo yo.
+
+11
+00:00:14,400 --> 00:00:15,520
+PART.2: Empiezas, venga.
+
+12
+00:00:16,600 --> 00:00:17,480
+PART.1: A ver, es...
+
+13
+00:00:21,840 --> 00:00:23,320
+PART.2: Vale, perfecto.
+
+14
+00:00:28,960 --> 00:00:30,080
+PART.1: Te quedas con la carta.
+
+15
+00:00:30,240 --> 00:00:31,920
+PART.2: Vale, ahora tú.
+
+16
+00:00:38,160 --> 00:00:45,840
+PART.2: Sí. Venga, una, dos y tres, ahí. Este.
+
+17
+00:00:48,480 --> 00:00:49,280
+PART.1: Estamos iguales.
+
+18
+00:00:49,400 --> 00:00:49,840
+PART.2: Sí.
+
+19
+00:00:51,200 --> 00:00:52,800
+PART.1: Azul y rojo...
+
+20
+00:00:53,560 --> 00:00:54,000
+PART.2: ¿No?
+
+21
+00:00:54,040 --> 00:00:56,600
+PART.1: No hay. El tuyo sí, pero yo me llevé este si es tuyo.
+
+22
+00:00:56,640 --> 00:00:57,640
+PART.2: No, porque es el ratón.
+
+23
+00:00:58,080 --> 00:01:01,400
+PART.1: Sí, es tuyo, por eso, me lo llevé, lo hice mal. ¿Te toca?
+
+24
+00:01:01,400 --> 00:01:02,400
+PART.2: No, te toca a ti ahora.
+
+25
+00:01:03,960 --> 00:01:06,720
+PART.1: Ya, es esto y el rojo...
+
+26
+00:01:07,960 --> 00:01:11,680
+PART.2: Ah. Ah, no, sí, tú, tú, tú. Tú.
+
+27
+00:01:12,920 --> 00:01:15,000
+PART.1: Bueno, estamos iguales, estamos
+iguales.
+
+28
+00:01:15,080 --> 00:01:17,920
+PART.2: A ver, una, dos y tres. Ay,
+espérate.
+
+29
+00:01:17,920 --> 00:01:18,920
+PART.1: El sillón...
+
+30
+00:01:19,520 --> 00:01:20,080
+PART.2: ¿No?
+
+31
+00:01:20,320 --> 00:01:21,320
+PART.1: Sí, sí, sí.
+
+32
+00:01:22,200 --> 00:01:22,840
+PART.2: Te toca.
+
+33
+00:01:23,000 --> 00:01:28,800
+PART.1: Vale, a ver, cambio de mano. Es esta porque está verde...
+
+34
+00:01:28,840 --> 00:01:30,480
+PART.2: Esta es verde, perfecto.
+
+35
+00:01:33,960 --> 00:01:35,360
+PART.1: Rojo y blanco...
+
+36
+00:01:35,440 --> 00:01:36,600
+PART.2: Eh...
+
+37
+00:01:36,720 --> 00:01:42,680
+PART.1: Muy bien. Este y el...
+
+38
+00:01:43,520 --> 00:01:44,160
+PART.2: Sí, sí.
+
+39
+00:01:44,680 --> 00:01:45,520
+PART.1: Esta es la última.
+
+40
+00:01:45,960 --> 00:01:54,800
+PART.2: Y ahora me toca a mí. Ay, no. No, no, no. ¿No? Sí, el verde no hay.
+
+41
+00:01:54,800 --> 00:01:57,480
+PART.1: Pero tú cogiste esta primero, entonces, en teoría yo me lo llevo.
+
+42
+00:01:57,760 --> 00:01:58,360
+PART.2: Bueno, bueno...
+
+43
+00:01:59,080 --> 00:02:01,920
+PART.1: Gané, pero fue por suerte.
+
+44
+00:02:02,000 --> 00:02:02,920
+PART.2: Ha sido un...
+
+45
+00:02:03,240 --> 00:02:04,240
+PART.1: ¿Quieres jugar otra vez?
+
+46
+00:02:05,160 --> 00:02:06,240
+PART.2: Yo creo que ya está, ¿no?
+
+47
+00:02:06,960 --> 00:02:07,720
+PART.1: No lo sé.
+
+48
+00:02:07,760 --> 00:02:08,280
+PART.2: Eh...
+
+49
+00:02:10,320 --> 00:02:11,800
+PART.1: O sea, tú eres de Barcelona.
+
+50
+00:02:12,000 --> 00:02:13,080
+PART.2: Yo soy de Barcelona, sí.
+
+51
+00:02:13,760 --> 00:02:15,520
+PART.1: ¿Y tú estudiaste aquí, en la UB?
+
+52
+00:02:16,120 --> 00:02:20,680
+PART.2: No, yo no estudié en la UB. Yo he hecho Administrativo, yo he hecho
+un FP.
+
+53
+00:02:21,160 --> 00:02:22,200
+PART.1: Ah, la Formación Profesional.
+
+54
+00:02:22,320 --> 00:02:23,040
+PART.2: Sí.
+
+55
+00:02:23,200 --> 00:02:25,240
+PART.1: ¿Y qué tal en la Formación Profesional?
+
+56
+00:02:25,240 --> 00:02:27,480
+PART.2: Bien, pero yo hace ya muchos años.
+
+57
+00:02:27,840 --> 00:02:36,160
+PART.1: Ya... vale porque, o sea, tú... claro, o sea... conozco algo del
+sistema español porque llevo aquí años...
+
+58
+00:02:36,280 --> 00:02:45,960
+PART.2: Yo hice el segundo grado de Formación Profesional, que son cinco
+años, y bueno... mi hijo, por ejemplo, está haciendo Bachiller ahora, y si no
+pues pasan a un...
+
+59
+00:02:46,680 --> 00:02:49,120
+PART.2: a esto, a Formación Profesional, a segundo...
+
+60
+00:02:49,320 --> 00:02:49,840
+PART.1: Ya.
+
+61
+00:02:49,840 --> 00:02:50,280
+PART.2: De esto.
+
+62
+00:02:50,640 --> 00:02:53,040
+PART.1: Y... o sea, tu hijo...
+
+63
+00:02:53,040 --> 00:02:55,560
+PART.2: No sé si tenemos que seguir jugando o qué, ¿qué hacemos?
+
+64
+00:02:56,840 --> 00:02:57,560
+PART.1: Vale, bueno.
+
+65
+00:02:57,640 --> 00:02:58,920
+PART.2: No, ¿no? Lo dejamos, ¿no?
+
+66
+00:02:59,040 --> 00:03:01,400
+PART.1: Pero ¿tu hijo va a hacer Formación Profesional, también?
+
+67
+00:03:01,760 --> 00:03:08,960
+PART.2: No... a ver, está haciendo Bachiller, en teoría va a estudiar en...
+en teoría, ya veremos, tiene 16 años solo.
+
+68
+00:03:09,360 --> 00:03:10,240
+PART.1: ¿En la universidad?
+
+69
+00:03:10,400 --> 00:03:11,400
+PART.2: En teoría, sí.
+
+70
+00:03:11,800 --> 00:03:12,480
+PART.1: Ya...
+
+71
+00:03:12,680 --> 00:03:14,480
+PART.2: En teoría. Yo quiero que estudie, pero...
+

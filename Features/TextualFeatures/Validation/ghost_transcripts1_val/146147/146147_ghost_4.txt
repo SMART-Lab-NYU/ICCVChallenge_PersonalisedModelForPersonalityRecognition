@@ -1,0 +1,35 @@
+119
+00:04:06,467 --> 00:04:07,583
+PART.1: Espera't, que hem de comptar aquest després.
+
+120
+00:04:07,650 --> 00:04:08,744
+PART.2: Ja està, si ja hem comptat.
+
+121
+00:04:08,803 --> 00:04:09,879
+PART.1: Has comptat?
+
+122
+00:04:09,887 --> 00:04:11,268
+PART.2: Claro. Si jo en tenia cinc.
+
+123
+00:04:11,878 --> 00:04:12,959
+PART.1: Sí? Vale.
+
+124
+00:04:14,213 --> 00:04:23,051
+PART.1: Que al final, al final, no és que acabés malament, 
+però sí que es va acabar la relació i tal.
+
+125
+00:04:23,119 --> 00:04:27,379
+PART.1: De fet, també va ser tema que el “C” no sabia el que volia.
+
+126
+00:04:27,526 --> 00:04:34,851
+PART.1: Ara que he fet el postgrau de Deep Learning m'adono que és que directament el “C” 
+no sabia el que volia i el va agafar l'Arash 
+i el va ficar en un merder.
+

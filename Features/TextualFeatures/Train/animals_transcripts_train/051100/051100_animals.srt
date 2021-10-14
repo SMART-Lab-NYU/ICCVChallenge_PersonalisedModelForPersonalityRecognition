@@ -1,0 +1,956 @@
+1
+00:00:00,000 --> 00:00:00,756
+SUPERVISOR: Vale! 10 preguntas de Sí o No a cada uno y cuando acabéis me avisáis.
+
+2
+00:00:01,351 --> 00:00:02,082
+PART.1: Vale va, comença.
+
+3
+00:00:02,386 --> 00:00:03,167
+PART.2: Començo jo?
+
+4
+00:00:03,773 --> 00:00:03,997
+PART.1: Sí.
+
+5
+00:00:04,600 --> 00:00:05,794
+PART.2: Ahhmm, sóc un mamífer?
+
+6
+00:00:06,463 --> 00:00:06,753
+PART.1: Sí.
+
+7
+00:00:07,280 --> 00:00:07,420
+PART.2: Si? Vale.
+
+8
+00:00:08,815 --> 00:00:10,109
+PART.2: Les faig jo totes 10? o vas...
+
+9
+00:00:09,987 --> 00:00:10,966
+PART.1: No, no, no, jo anava turnant.
+
+10
+00:00:11,367 --> 00:00:11,642
+PART.2: Vale.
+
+11
+00:00:11,428 --> 00:00:11,875
+PART.2: Sí, sí...
+
+12
+00:00:11,637 --> 00:00:11,911
+PART.2: O sigui...
+
+13
+00:00:13,406 --> 00:00:15,030
+PART.1: Ehhh... Sóc un mamífer?
+
+14
+00:00:15,384 --> 00:00:15,523
+PART.2: Sí.
+
+15
+00:00:16,033 --> 00:00:16,163
+PART.1: Molt bé!
+
+16
+00:00:17,763 --> 00:00:17,954
+PART.2: Sí.
+
+17
+00:00:18,705 --> 00:00:19,691
+PART.2: És que si hi ha dubte, no...
+
+18
+00:00:19,890 --> 00:00:21,414
+PART.1: És una pista
+
+19
+00:00:21,866 --> 00:00:24,980
+PART.2: Aviam, sí, bueno, no he hagut jo aquí, només sóc jo què...
+
+20
+00:00:25,561 --> 00:00:25,742
+PART.1: Sóc un Da Fit!
+
+21
+00:00:27,268 --> 00:00:29,131
+PART.2: Sóc... terrestre?
+
+22
+00:00:29,455 --> 00:00:29,696
+PART.1: Sí.
+
+23
+00:00:29,949 --> 00:00:30,291
+PART.2: Sí? Vale.
+
+24
+00:00:30,690 --> 00:00:31,284
+PART.2: Mamífer terrestre.
+
+25
+00:00:33,241 --> 00:00:34,597
+PART.1: Haig de fer-ho al revés per que no siga...
+
+26
+00:00:35,045 --> 00:00:36,433
+PART.1: És que se'l comenten..., estem fent el mateix quadre....
+
+27
+00:00:36,396 --> 00:00:36,938
+PART.2: Ya, ya.
+
+28
+00:00:37,023 --> 00:00:37,796
+PART.1: Sóc aquàtic?
+
+29
+00:00:37,834 --> 00:00:38,160
+PART.2: No.
+
+30
+00:00:39,012 --> 00:00:39,331
+PART.2: No.
+
+31
+00:00:39,828 --> 00:00:40,024
+PART.2: No, no.
+
+32
+00:00:42,299 --> 00:00:45,643
+PART.2: Aviammmm, sóc perillós?
+
+33
+00:00:45,738 --> 00:00:46,134
+PART.1: No.
+
+34
+00:00:46,431 --> 00:00:48,122
+PART.1: Bueno, bueno. Jo...
+
+35
+00:00:51,525 --> 00:00:54,297
+PART.1: No sé, és una pregunta un poc compli....
+
+36
+00:00:54,439 --> 00:00:55,861
+PART.1: Jo crec que pots matar gent, però....
+
+37
+00:00:56,141 --> 00:00:58,940
+PART.1: O sigui, la idea de tu no és que siguis perillós, vale?
+
+38
+00:00:58,821 --> 00:01:00,048
+PART.2: Vale, vale, vale.
+
+39
+00:01:01,906 --> 00:01:03,144
+PART.1: Vale, ehhh...
+
+40
+00:01:07,569 --> 00:01:08,643
+PART.1: Sóc carnívor?
+
+41
+00:01:09,740 --> 00:01:09,908
+PART.2: No.
+
+42
+00:01:10,765 --> 00:01:11,039
+PART.1: Vale.
+
+43
+00:01:15,384 --> 00:01:17,949
+PART.2: Ahhm... Aviam, mamífer, terrestre...
+
+44
+00:01:18,695 --> 00:01:19,372
+PART.2: Sóc d'un color fosc?
+
+45
+00:01:19,876 --> 00:01:20,766
+PART.2: Marró, negre...?
+
+46
+00:01:23,146 --> 00:01:24,344
+PART.1: Has donat teoria de conjunts?
+
+47
+00:01:25,348 --> 00:01:26,360
+PART.2: Sí, aviam, algo he fet, sí.
+
+48
+00:01:26,820 --> 00:01:28,668
+PART.1: Vale, pues t'he puc dir que sí, vale...
+
+49
+00:01:29,346 --> 00:01:29,968
+PART.2: Em pots dir que sí.
+
+50
+00:01:29,927 --> 00:01:32,230
+PART.1: Però, però saps, tingues en compte què....
+
+51
+00:01:32,879 --> 00:01:33,993
+PART.1: què no és un sí solo...
+
+52
+00:01:35,595 --> 00:01:37,774
+PART.2: Vale, serà un multicolor així...
+
+53
+00:01:38,978 --> 00:01:39,336
+PART.1: Ahmm...
+
+54
+00:01:39,879 --> 00:01:40,053
+PART.1: Vale. Jo, jo...
+
+55
+00:01:40,379 --> 00:01:48,314
+PART.1: No sóc carnívor i sóc un mamífer, per lo que se deu, herbívor, algues, i aleshores...
+
+56
+00:01:49,122 --> 00:01:49,677
+PART.1: Ehhh...
+
+57
+00:01:50,961 --> 00:01:52,058
+PART.1: Sóc un remugant?
+
+58
+00:01:52,819 --> 00:01:53,609
+PART.2: Què, què és un remugant?
+
+59
+00:01:54,647 --> 00:01:56,018
+PART.1: Pastu... reo, pastureo,  pastoreo.
+
+60
+00:01:57,429 --> 00:01:57,932
+PART.2: Què vols dir?
+
+61
+00:01:58,168 --> 00:02:02,833
+PART.1: Animals que... masteguen herba...
+
+62
+00:02:00,787 --> 00:02:03,207
+PART.2: Ahhh... Vale, vale, vale, vale, vale.
+
+63
+00:02:03,247 --> 00:02:03,521
+PART.2: No.
+
+64
+00:02:03,719 --> 00:02:08,708
+PART.1: Vale, no soy carnívor ni menje herba tampoc exactament.
+
+65
+00:02:08,718 --> 00:02:10,481
+PART.2: Bueno, aviam, o sigui, herba com aixís, no.
+
+66
+00:02:10,928 --> 00:02:11,113
+PART.1: Clar.
+
+67
+00:02:10,981 --> 00:02:11,682
+PART.2: És que com...
+
+68
+00:02:11,989 --> 00:02:12,830
+PART.2: Bueno, és que podria donar una pista.
+
+69
+00:02:12,682 --> 00:02:13,069
+PART.1: No, no no no.
+
+70
+00:02:13,280 --> 00:02:14,646
+PART.1: No, no deixa-m’ho a mi.
+
+71
+00:02:15,387 --> 00:02:15,789
+PART.2: Vale...
+
+72
+00:02:16,635 --> 00:02:17,407
+PART.2: Jo sóc...?
+
+73
+00:02:17,715 --> 00:02:18,052
+PART.2: Sóc carnívor?
+
+74
+00:02:19,014 --> 00:02:19,267
+PART.1: No.
+
+75
+00:02:20,017 --> 00:02:20,180
+PART.2: No.
+
+76
+00:02:27,441 --> 00:02:27,922
+PART.2: Vale et toca.
+
+77
+00:02:32,626 --> 00:02:34,317
+PART.1: Mmm mmm mmm
+
+78
+00:02:37,128 --> 00:02:38,785
+PART.1: És que, em queda ahí com... bueno...
+
+79
+00:02:41,401 --> 00:02:43,225
+PART.1: Ehhh... Sóc típic d'Europa?
+
+80
+00:02:44,303 --> 00:02:44,513
+PART.2: Sí.
+
+81
+00:02:45,063 --> 00:02:45,237
+PART.2: Sí, sí.
+
+82
+00:02:46,418 --> 00:02:46,648
+PART.1: Vale.
+
+83
+00:02:46,874 --> 00:02:49,099
+PART.2: Pots dir que sí, bueno...
+
+84
+00:02:50,497 --> 00:02:50,782
+PART.2: Sí sí.
+
+85
+00:02:51,214 --> 00:02:51,354
+PART.2: Deixem-ho en sí.
+
+86
+00:02:53,145 --> 00:02:53,643
+PART.2: Ahhh...
+
+87
+00:02:54,675 --> 00:02:55,889
+PART.2: Jo sóc, sóc més gros que un humà?
+
+88
+00:02:57,630 --> 00:02:59,136
+PART.1: Sssss jo diria que sí.
+
+89
+00:03:00,024 --> 00:03:00,159
+PART.1: Jo diria que sí.
+
+90
+00:03:00,779 --> 00:03:00,929
+PART.2: Ssssí.
+
+91
+00:03:01,701 --> 00:03:02,626
+PART.1: Bueno... sí.
+
+92
+00:03:04,345 --> 00:03:04,452
+PART.1: Sí.
+
+93
+00:03:05,470 --> 00:03:07,951
+PART.1: Así a ojo yo creo que...
+
+94
+00:03:07,799 --> 00:03:08,107
+PART.2: Però en pes?
+
+95
+00:03:08,956 --> 00:03:09,562
+PART.1: Però en pes...?
+
+96
+00:03:10,200 --> 00:03:12,647
+PART.1: Sí, si, hi ha humans molt grossos.
+
+97
+00:03:13,430 --> 00:03:14,814
+PART.2: Ja però en plan, típic, jo que sé...
+
+98
+00:03:15,161 --> 00:03:18,372
+PART.2: Metroooo setanta, setanta quilos o algo així.
+
+99
+00:03:15,807 --> 00:03:15,980
+PART.1: Jo diria que sí.
+
+100
+00:03:18,622 --> 00:03:19,815
+PART.1: Més gran que un humà diria que sí.
+
+101
+00:03:20,369 --> 00:03:20,542
+PART.2: Vale.
+
+102
+00:03:21,632 --> 00:03:22,424
+PART.1: Vale, ehmm...
+
+103
+00:03:23,314 --> 00:03:23,713
+PART.2: Mamífer carnívor...
+
+104
+00:03:27,133 --> 00:03:30,808
+PART.1: Vaig molt menys enfocat aquesta vegada que la anterior.
+
+105
+00:03:32,003 --> 00:03:34,937
+PART.1: Ehhhmmmmmm...
+
+106
+00:03:42,132 --> 00:03:43,185
+PART.1: Sóc diürn?
+
+107
+00:03:44,121 --> 00:03:44,435
+PART.2: Diürn?
+
+108
+00:03:44,455 --> 00:03:44,584
+PART.2: Sí.
+
+109
+00:03:45,306 --> 00:03:45,513
+PART.1: Vale.
+
+110
+00:03:48,599 --> 00:03:49,102
+PART.2: Aviam...
+
+111
+00:03:53,297 --> 00:03:54,255
+PART.2: Sóc de més d'un color?
+
+112
+00:03:54,899 --> 00:03:55,039
+PART.1: Sí.
+
+113
+00:03:56,209 --> 00:03:56,630
+PART.2: Mmmm
+
+114
+00:04:01,774 --> 00:04:02,339
+PART.2: Et toca, et toca.
+
+115
+00:04:03,134 --> 00:04:03,627
+PART.1: Ehmmm...
+
+116
+00:04:04,003 --> 00:04:04,237
+PART.2: Què em portem, sis?
+
+117
+00:04:05,486 --> 00:04:05,687
+PART.1: Cinc.
+
+118
+00:04:06,027 --> 00:04:07,136
+PART.2: Vale, ara fas la sisena, no?
+
+119
+00:04:07,450 --> 00:04:07,601
+PART.1: Sí.
+
+120
+00:04:23,617 --> 00:04:25,604
+PART.1: Visc a zones fredes?
+
+121
+00:04:30,331 --> 00:04:30,466
+PART.2: Aviam...
+
+122
+00:04:32,348 --> 00:04:35,948
+PART.2: Jo crec què pots... jo crec què pots.
+
+123
+00:04:35,983 --> 00:04:39,606
+PART.2: en plan al pol nord veus aquest animal...
+
+124
+00:04:40,071 --> 00:04:40,217
+PART.2: Aviam...
+
+125
+00:04:40,232 --> 00:04:42,472
+PART.2: És que no sé si n'hi han.
+
+126
+00:04:44,523 --> 00:04:46,633
+PART.2: Però, no sé on es crien totalment.
+
+127
+00:04:47,012 --> 00:04:52,813
+PART.1: Sóc un mamífer, no carnívor que fa coses de dia i no remuga.
+
+128
+00:04:54,308 --> 00:04:54,471
+PART.2: Sí.
+
+129
+00:04:54,993 --> 00:04:56,517
+PART.2: No remuga, així, herbes.
+
+130
+00:04:56,958 --> 00:04:57,125
+PART.1: Ja, ja.
+
+131
+00:04:57,401 --> 00:04:59,662
+PART.1: M'estic imaginant algun tipus de roedor.
+
+132
+00:05:01,540 --> 00:05:02,659
+PART.2: Pots preguntar-ho després.
+
+133
+00:05:02,517 --> 00:05:03,205
+PART.1: Te toca, te toca.
+
+134
+00:05:05,656 --> 00:05:06,025
+PART.2: Aviam...
+
+135
+00:05:07,734 --> 00:05:08,360
+PART.2: Jo era de més d'un color.
+
+136
+00:05:09,251 --> 00:05:10,135
+PART.2: És que ara tinc dos com així...
+
+137
+00:05:12,208 --> 00:05:13,613
+PART.2: Sóc, sóc pressa per a altres animals?
+
+138
+00:05:19,588 --> 00:05:21,614
+PART.1: Home, jo... jo...
+
+139
+00:05:26,700 --> 00:05:27,422
+PART.1: Jo diria què... què...
+
+140
+00:05:27,857 --> 00:05:32,331
+PART.1: O siga, si jo continués la meva lògica, de la cadena de la alimentació...
+
+141
+00:05:32,969 --> 00:05:33,351
+PART.1: Jo diria que sí.
+
+142
+00:05:33,837 --> 00:05:36,459
+PART.1: Lo que pasa és que no qui dir qui seria el teu depredador.
+
+143
+00:05:36,806 --> 00:05:38,274
+PART.1: Però jo diria que algú te té que menjar, sí.
+
+144
+00:05:40,256 --> 00:05:40,849
+PART.2: Sí eh...
+
+145
+00:05:41,617 --> 00:05:43,185
+PART.2: Jo estava pensant una cosa que m'estava liant.
+
+146
+00:05:44,270 --> 00:05:44,517
+PART.1: Però...
+
+147
+00:05:45,061 --> 00:05:45,877
+PART.1: Bueno, jo que sé.
+
+148
+00:05:46,264 --> 00:05:46,438
+PART.1: Irrelevante.
+
+149
+00:05:46,657 --> 00:05:47,532
+PART.1: Deixem-ho ahí, te sembla?
+
+150
+00:05:48,103 --> 00:05:48,359
+PART.2: Vale.
+
+151
+00:05:48,881 --> 00:05:49,306
+PART.1: Igual t’he liao més.
+
+152
+00:05:49,793 --> 00:05:50,570
+PART.2: Vale, deixem-ho.
+
+153
+00:05:51,243 --> 00:05:51,887
+PART.1: Ehmm...
+
+154
+00:05:53,122 --> 00:05:53,814
+PART.1: Sóc roedor?
+
+155
+00:05:54,833 --> 00:05:57,039
+PART.2: Sí, jo crec que sí.
+
+156
+00:05:59,045 --> 00:06:00,002
+PART.2: Sí, si, jo crec que sí.
+
+157
+00:06:00,875 --> 00:06:01,855
+PART.2: Jo crec que la resposta deu ser que sí.
+
+158
+00:06:01,763 --> 00:06:03,874
+PART.1: Però clar, no sóc un ratolí ni res així, no?
+
+159
+00:06:04,462 --> 00:06:04,910
+PART.2: Jo crec que sí.
+
+160
+00:06:06,024 --> 00:06:06,539
+PART.1: Ahhhh
+
+161
+00:06:08,259 --> 00:06:08,836
+PART.2: Ehmm...
+
+162
+00:06:09,670 --> 00:06:10,522
+PART.2: Si és que dir...
+
+163
+00:06:12,761 --> 00:06:12,923
+PART.2: Aviam...
+
+164
+00:06:14,206 --> 00:06:15,986
+PART.2: Si és que anava en bon camí cap a un... si és que m’haguessis dit que...
+
+165
+00:06:18,140 --> 00:06:18,811
+PART.1: Podem provar... Prova.
+
+166
+00:06:18,993 --> 00:06:19,413
+PART.2: Els colors...
+
+167
+00:06:31,016 --> 00:06:32,394
+PART.2: Sóc un mamífer, és gros...
+
+168
+00:06:32,897 --> 00:06:33,283
+PART.2: Sóc blanc i negre?
+
+169
+00:06:35,617 --> 00:06:35,813
+PART.1: Sí.
+
+170
+00:06:37,164 --> 00:06:37,634
+PART.2: Vale.
+
+171
+00:06:42,427 --> 00:06:45,205
+PART.2: En plan, ara puc dir algun així i si fallo dir-ne un altre, o...?
+
+172
+00:06:44,228 --> 00:06:46,189
+PART.1: M'has dit que no sóc... que no sóc aquàtic.
+
+173
+00:06:46,397 --> 00:06:46,885
+PART.1: Perdona, què?
+
+174
+00:06:47,212 --> 00:06:48,137
+PART.2: Nada, nada di, fes fes.
+
+175
+00:06:48,258 --> 00:06:49,895
+PART.2: Perquè en portem vuit, no?
+
+176
+00:06:50,201 --> 00:06:50,399
+PART.1: Sí.
+
+177
+00:06:50,422 --> 00:06:51,884
+PART.2: Quatre..., sis..., ara fem la vuitena...
+
+178
+00:06:51,371 --> 00:06:51,601
+PART.1: En queden tres.
+
+179
+00:06:52,489 --> 00:06:53,844
+PART.1: M'has dit què no sóc aquàtic i...
+
+180
+00:06:54,628 --> 00:06:55,294
+PART.1: i menjo...
+
+181
+00:06:56,050 --> 00:06:57,947
+PART.1: Sóc roedor però no sóc nocturn...
+
+182
+00:06:59,476 --> 00:07:01,492
+PART.1: Se m'ocorrisc un esquirol.
+
+183
+00:07:01,815 --> 00:07:02,425
+PART.1: Sóc un esquirol?
+
+184
+00:07:02,469 --> 00:07:02,832
+PART.2: Sí.
+
+185
+00:07:03,038 --> 00:07:04,220
+PART.1: Hòstia puta! En serio.
+
+186
+00:07:04,277 --> 00:07:05,089
+PART.2: Sí, si.
+
+187
+00:07:05,162 --> 00:07:05,756
+PART.1: Estic superfli...
+
+188
+00:07:06,051 --> 00:07:08,510
+PART.1: Estic flipant molt, i sóc lo puto pitjor en este joc saps?
+
+189
+00:07:08,762 --> 00:07:12,800
+PART.1: Este any va ser la primera vegada en ma vida que vaig guanyar el típico de "¿Quién es quién?" sabes?
+
+190
+00:07:12,869 --> 00:07:13,754
+PART.2: Vale, vale, vale, vale.
+
+191
+00:07:14,746 --> 00:07:15,451
+PART.2: Doncs ara em queda a mi...
+
+192
+00:07:15,652 --> 00:07:17,063
+PART.2: És roedor, no, l'esquirol?
+
+193
+00:07:17,780 --> 00:07:18,301
+PART.1: Sí sí sí sí.
+
+194
+00:07:20,365 --> 00:07:20,968
+PART.2: És un ós polar?
+
+195
+00:07:21,083 --> 00:07:22,158
+PART.2: Ai! un ós polar, un ós Panda?
+
+196
+00:07:22,493 --> 00:07:22,796
+PART.1: Molt bé.
+
+197
+00:07:23,309 --> 00:07:25,053
+PART.1: És que, des de que m'has dit..., els dos colors, l'he pensat.
+
+198
+00:07:24,836 --> 00:07:26,445
+PART.1: Bueno, va aniré així esgotant...
+
+199
+00:07:26,687 --> 00:07:27,318
+PART.1: Sóc negre?
+
+200
+00:07:27,374 --> 00:07:28,302
+PART.1: Mmmmm
+
+201
+00:07:28,184 --> 00:07:29,064
+PART.2: Ja, ja.
+
+202
+00:07:29,999 --> 00:07:30,583
+PART.2: Vale.
+
+203
+00:07:31,164 --> 00:07:32,730
+PART.2: Doncs... quan m'has dit..., dos que et anava a dir...
+
+204
+00:07:33,476 --> 00:07:34,611
+PART.2: Pensava, zebra o ós polar.
+
+205
+00:07:35,468 --> 00:07:38,284
+PART.2: I jo he dit, ha de ser un d'aquests dos.
+
+206
+00:07:38,924 --> 00:07:39,539
+PART.1: Clar.
+
+207
+00:07:39,250 --> 00:07:42,353
+PART.1: Claro, como el oso polar, o sea, el ós panda és, és, és herbívor...
+
+208
+00:07:40,709 --> 00:07:41,261
+PART.2: Ai, l'ós panda
+
+209
+00:07:41,924 --> 00:07:42,149
+PART.2: Això, ós panda.
+
+210
+00:07:42,743 --> 00:07:44,462
+PART.1: Tots els herbívors tenen el seu depredador.
+
+211
+00:07:43,322 --> 00:07:43,794
+PART.2: Síííí...
+
+212
+00:07:44,371 --> 00:07:45,051
+PART.2: Sí, sí.
+
+213
+00:07:45,342 --> 00:07:45,670
+PART.1: Aleshores...
+
+214
+00:07:45,357 --> 00:07:46,707
+PART.2: Vale, vale vale.
+
+215
+00:07:47,283 --> 00:07:49,265
+PART.2: Ja, ja ho he pensat quan m'has dit, n'hi ha més grans que un humà...
+
+216
+00:07:49,570 --> 00:07:49,855
+PART.2: Ho és...
+
+217
+00:07:50,017 --> 00:07:54,056
+PART.2: més aviat, en pes sí, en pes... sí.
+
+218
+00:07:54,257 --> 00:07:54,929
+PART.2: jo crec que més de...
+
+219
+00:07:54,370 --> 00:07:54,543
+PART.1: Sí, no?
+
+220
+00:07:54,964 --> 00:07:55,785
+PART.1: L'ós panda.
+
+221
+00:07:55,203 --> 00:07:56,828
+PART.2: Bueno, de vegades ho mires i et sorprèn eh!
+
+222
+00:07:57,237 --> 00:07:58,316
+PART.2: Potser posa, saps, de rang de...
+
+223
+00:07:59,082 --> 00:08:00,388
+PART.2: de rang de, no sé, de 60 a 120 quilos.
+
+224
+00:08:01,206 --> 00:08:02,650
+PART.2: No sé, no no, ni idea.
+
+225
+00:08:03,072 --> 00:08:03,884
+PART.2: Doncs, jo em pensava que anaves...
+
+226
+00:08:04,220 --> 00:08:04,477
+PART.2: en plan, anaves...
+
+227
+00:08:05,894 --> 00:08:06,773
+PART.2: força desencaminat al principi.
+
+228
+00:08:07,484 --> 00:08:08,425
+PART.2: Bueno, sé què pensaves al principi.
+
+229
+00:08:10,223 --> 00:08:11,807
+PART.1: No, volia simplement anar netejant.
+
+230
+00:08:12,379 --> 00:08:15,777
+PART.1: Proposta meva era, el castor, l'ornitorrinco i com tu has dubtat com a mamífer.
+
+231
+00:08:16,180 --> 00:08:18,673
+PART.1: L'únic que se m'ha pogut ocorre ha sigut el ornitorrinco, no?
+
+232
+00:08:18,739 --> 00:08:20,111
+PART.1: M'he ratllat, perque fica ous.
+
+233
+00:08:21,001 --> 00:08:21,689
+PART.1: I estava.
+
+234
+00:08:21,575 --> 00:08:22,168
+PART.1: M'ha dit que no és aquàtic.
+
+235
+00:08:22,311 --> 00:08:23,241
+PART.1: L'ornitorrinco i el castor ho són...
+
+236
+00:08:24,030 --> 00:08:24,210
+PART.2: Ya.
+
+237
+00:08:24,215 --> 00:08:25,756
+PART.1: Però típic en Europa, raro.
+
+238
+00:08:25,732 --> 00:08:27,943
+PART.1: Les rates, els ratolins són nocturns tots, saps?
+
+239
+00:08:28,031 --> 00:08:28,771
+PART.2: Ya.
+

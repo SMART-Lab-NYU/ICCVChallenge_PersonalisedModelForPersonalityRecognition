@@ -1,0 +1,406 @@
+﻿1
+00:00:00,162 --> 00:00:00,442
+PART.1: I que....
+
+2
+00:00:00,682 --> 00:00:01,482
+PART.2: Anem a fer un..
+
+3
+00:00:01,722 --> 00:00:02,562
+PART.1: Primer fem un i després fem l'altre
+
+4
+00:00:02,842 --> 00:00:03,282
+PART.2: Sí, no?
+
+5
+00:00:03,602 --> 00:00:08,082
+PART.1: Doncs començo! Avia’m... Per endevinar el meu, animal terrestre o marítim?
+
+6
+00:00:09,482 --> 00:00:12,082
+PART.2: Ai no! Ens ha dit si només podíem dir sí o no, o més?
+
+7
+00:00:12,402 --> 00:00:13,162
+PART.1: Home sí o no...
+
+8
+00:00:12,642 --> 00:00:13,122
+PART.2: Marítim.
+
+9
+00:00:14,122 --> 00:00:14,722
+PART.1: És un mamífer?
+
+10
+00:00:19,122 --> 00:00:26,842
+PART.2: Ostres, ara... no ho tinc clar, no ho tinc clar, jo crec que no
+
+11
+00:00:27,162 --> 00:00:28,482
+PART.1: Respira a l'aigua o respira oxigen?
+
+12
+00:00:29,242 --> 00:00:31,682
+PART.2: Ai! és que no el sé, t'ho juro que no ho sé
+
+13
+00:00:32,522 --> 00:00:34,402
+PART.1: Vale, es marítim però no és.. això sinó?
+
+14
+00:00:34,722 --> 00:00:38,362
+PART.2: Sí, jo crec que no, respira aire.
+
+15
+00:00:38,762 --> 00:00:39,522
+PART.1: Respira aire.
+
+16
+00:00:39,802 --> 00:00:44,842
+PART.2: Sí, això sí, això segur. Però si és un mamífer no ho sé, no ho tinc clar
+
+17
+00:00:45,042 --> 00:00:47,762
+PART.1: Viu a zones fredes o en zones calentes?
+
+18
+00:00:47,722 --> 00:00:48,282
+PART.2: En fredes.
+
+19
+00:00:48,522 --> 00:00:49,202
+PART.1: En zones fredes...
+
+20
+00:00:51,002 --> 00:00:51,482
+PART.2: Quantes en portes, 3?
+
+21
+00:00:56,442 --> 00:01:00,362
+PART.1: Vale. Sempre està dintre de l'aigua o de vegades està a l'aigua i a vegades està a fora?
+
+22
+00:01:00,842 --> 00:01:01,682
+PART.2: De vegades està fora.
+
+23
+00:01:02,002 --> 00:01:04,442
+PART.1: De vegades està fora, i el menjar el va a buscar a l'aigua?
+
+24
+00:01:05,642 --> 00:01:06,442
+PART.2: Jo crec que sí.
+
+25
+00:01:11,362 --> 00:01:12,082
+PART.2: 5 eh.
+
+26
+00:01:12,322 --> 00:01:18,642
+PART.1: Sí... és un animal de la família de les foques?
+
+27
+00:01:25,482 --> 00:01:26,322
+PART.2: Aquesta no te la conto.
+
+28
+00:01:26,722 --> 00:01:27,402
+PART.1: No la contes.
+
+29
+00:01:31,562 --> 00:01:32,082
+PART.1: És una foca?
+
+30
+00:01:32,802 --> 00:01:33,362
+PART.2: No.
+
+31
+00:01:35,322 --> 00:01:35,922
+PART.1: Un pingüí?
+
+32
+00:01:36,282 --> 00:01:38,602
+PART.2: Sí. Ja t'ho pots treure.
+
+33
+00:01:39,242 --> 00:01:40,922
+PART.1: El pingüí és un au, eh?
+
+34
+00:01:41,282 --> 00:01:44,402
+PART.2: És una au però no sé si és mamífer, no és mamífer? No ho sé.
+
+35
+00:01:45,082 --> 00:01:46,242
+PART.1: No, posen ous...
+
+36
+00:01:46,562 --> 00:01:48,082
+PART.2: Ah sí, que posen ous...
+
+37
+00:01:48,362 --> 00:01:49,562
+PART.1: Posen ous, posen ous, no, no
+
+38
+00:01:49,922 --> 00:01:50,962
+PART.2: No hi pensat.
+
+39
+00:01:50,282 --> 00:01:52,122
+PART.1: Bueno, sí, ja em puc treure això.
+
+40
+00:01:51,402 --> 00:01:52,602
+PART.2: Ja t'ho dic que no ho sabia jo.
+
+41
+00:01:54,762 --> 00:01:55,522
+PART.1: Ho he encertat, vinga...
+
+42
+00:01:56,042 --> 00:01:57,762
+PART.2: A veure, marítim o terrestre?
+
+43
+00:01:58,362 --> 00:01:58,802
+PART.1: Terrestre
+
+44
+00:01:59,322 --> 00:02:01,562
+PART.2: Viu a l'Àfrica?
+
+45
+00:02:05,202 --> 00:02:07,482
+PART.1: Jo crec que sí n'hi deu d’haver a l'Àfrica
+
+46
+00:02:07,642 --> 00:02:09,322
+PART.2: Però no és el seu hàbitat natural?
+
+47
+00:02:09,402 --> 00:02:11,362
+PART.1: No, jo penso que n'hi ha a tot arreu, eh?
+
+48
+00:02:21,282 --> 00:02:22,402
+PART.2: És un felí?
+
+49
+00:02:22,922 --> 00:02:24,242
+PART.1: No.
+
+50
+00:02:28,202 --> 00:02:29,362
+PART.1: ...en portes 3 ja, no?
+
+51
+00:02:29,442 --> 00:02:31,562
+PART.2: Sí. Jo amb això sóc molt dolenta.
+
+52
+00:02:45,362 --> 00:02:46,362
+PART.2: No és un felí.. De quin color és?
+
+53
+00:02:49,322 --> 00:03:00,762
+PART.1: N'hi pot haver de diversos colors, és com si em diguessis un gos de quin color és, un gat de quin color és, un... Que n'hi ha de diferents colors.
+
+54
+00:03:01,962 --> 00:03:04,082
+PART.1: No tots són exactament el mateix color.
+
+55
+00:03:04,562 --> 00:03:06,002
+PART.2: Viu en zones fredes?
+
+56
+00:03:08,202 --> 00:03:11,882
+PART.1: No especialment, no especialment...
+
+57
+00:03:11,962 --> 00:03:13,082
+PART.2: Viu a les muntanyes?
+
+58
+00:03:13,162 --> 00:03:14,242
+PART.1: Sí.
+
+59
+00:03:36,882 --> 00:03:38,682
+PART.2: La cua, que la té estarrufada?
+
+60
+00:03:42,122 --> 00:03:43,162
+PART.1: No.
+
+61
+00:03:58,442 --> 00:03:59,762
+PART.2: No sé ni que preguntar.
+
+62
+00:04:00,642 --> 00:04:05,802
+PART.1: Pots preguntar... és que si t'ho dic jo... Si t'he de dir això...
+
+63
+00:04:06,482 --> 00:04:07,842
+PART.1: Però hi ha coses importants a preguntar.
+
+64
+00:04:07,922 --> 00:04:09,002
+PART.2: Que és un mamífer?
+
+65
+00:04:09,162 --> 00:04:10,042
+PART.1: És un mamífer.
+
+66
+00:04:10,282 --> 00:04:11,562
+PART.2: És un mamífer petit?
+
+67
+00:04:11,682 --> 00:04:12,722
+PART.1: És petit sí.
+
+68
+00:04:14,482 --> 00:04:16,162
+PART.2: És de color gris-marró?
+
+69
+00:04:18,642 --> 00:04:23,082
+PART.1: Sí, potser gris-marró, no només gris-marró.
+
+70
+00:04:23,162 --> 00:04:24,282
+PART.2: En porto 9 eh.
+
+71
+00:04:24,442 --> 00:04:25,402
+PART.1: En portes 9, sí.
+
+72
+00:04:25,482 --> 00:04:28,562
+PART.2: És un mamífer,
+un mamífer petit...
+
+73
+00:04:28,642 --> 00:04:31,322
+PART.2: Quin és el continent
+que n'hi ha més...?
+
+74
+00:04:34,162 --> 00:04:36,482
+PART.1: Suposo que Europa però...
+
+75
+00:04:41,122 --> 00:04:42,082
+PART.2: ...no tinc ni idea.
+
+76
+00:04:42,202 --> 00:04:54,242
+PART.1: Podies preguntar el tipus d'alimentació, si eren presses o caçadors, si era herbívor o carnívor, si fa la caca gran o la caca petita.
+
+77
+00:04:54,322 --> 00:04:55,962
+PART.2: És veritat...
+
+78
+00:04:56,042 --> 00:04:58,882
+PART.1: Si viuen sota terra o si viuen per a dalt dels arbres..
+
+79
+00:04:59,682 --> 00:05:00,962
+PART.2: És veritat.
+
+80
+00:05:02,642 --> 00:05:06,442
+PART.2: Ara et tinc que dir una a la força no? Un ratolí?
+
+81
+00:05:06,842 --> 00:05:10,482
+PART.1: No. Era una pregunta més.
+
+82
+00:05:10,562 --> 00:05:11,842
+PART.2: Una pregunta més...
+
+83
+00:05:16,882 --> 00:05:19,762
+PART.2: És... Té hàbit nocturn?
+
+84
+00:05:21,482 --> 00:05:22,922
+PART.1: No ho crec, no.
+
+85
+00:05:23,002 --> 00:05:29,842
+PART.2: No? Ja, se m'ha acabat el temps.
+
+86
+00:05:31,242 --> 00:05:33,202
+PART.1: Que trist, no?
+
+87
+00:05:35,562 --> 00:05:38,082
+PART.1: Bueno, és molt fàcil de fet, però no...
+
+88
+00:05:38,162 --> 00:05:39,322
+PART.2: Bueno...
+
+89
+00:05:43,602 --> 00:05:44,762
+PART.1: Ho mengem sovint.
+
+90
+00:05:44,842 --> 00:05:45,442
+PART.2: Què?
+
+91
+00:05:45,522 --> 00:05:47,082
+PART.1: El menja'm sovint.
+
+92
+00:05:47,162 --> 00:05:48,042
+PART.2: El conillet.
+
+93
+00:05:48,122 --> 00:05:48,722
+PART.1: El conill.
+
+94
+00:05:48,802 --> 00:05:49,522
+PART.2: Aaah, el conillet.
+
+95
+00:05:49,602 --> 00:05:50,842
+PART.1: Sí, el conill.
+
+96
+00:05:53,722 --> 00:05:55,082
+PART.2: Ai! pobrissó...
+
+97
+00:05:59,962 --> 00:06:02,402
+PART.1: Bueno, sembla que hagi de ser més fàcil, no? de...
+
+98
+00:06:03,162 --> 00:06:04,322
+PART.2: No tenia ni idea de que preguntar, però no tenia ni idea... imaginat a mi...
+
+99
+00:06:04,402 --> 00:06:09,962
+PART.1: Exacte, és difícil saber què preguntar no? Jo quan m'has dit lo de marítim i això ja..
+
+100
+00:06:08,802 --> 00:06:10,922
+PART.2: Sí sí.
+
+101
+00:06:11,002 --> 00:06:13,882
+PART.1: Ja sabia... Bueno, ja estem
+

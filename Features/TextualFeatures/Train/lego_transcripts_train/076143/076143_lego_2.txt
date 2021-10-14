@@ -1,0 +1,22 @@
+18
+00:02:07,404 --> 00:02:10,204
+PART.1: What is that color?
+It should be pink.
+
+19
+00:02:24,104 --> 00:02:28,104
+PART.1: Or maybe this is the color?
+Maybe this is the color no?
+
+20
+00:02:28,304 --> 00:02:30,104
+PART.2: This one.
+
+21
+00:02:32,004 --> 00:02:33,104
+PART.2: No.
+
+22
+00:02:43,004 --> 00:02:44,004
+PART.1: I think so.
+

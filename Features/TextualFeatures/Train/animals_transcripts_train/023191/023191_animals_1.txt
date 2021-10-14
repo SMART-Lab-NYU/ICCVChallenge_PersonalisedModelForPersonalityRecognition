@@ -1,0 +1,74 @@
+17
+00:01:00,708 --> 00:01:03,188
+PART.1: Ok.
+
+18
+00:01:03,268 --> 00:01:14,108
+PART.1: Entonces. Es un animal marino,
+depredador. ¿Es un animal del
+Ártico? o de la Antártida? Un sitio
+así.
+
+19
+00:01:14,188 --> 00:01:15,188
+PART.2: No.
+
+20
+00:01:15,268 --> 00:01:16,268
+PART.1: Vale.
+
+21
+00:01:16,348 --> 00:01:21,588
+PART.2: El mío. ¿Vive en la jungla?
+
+22
+00:01:22,948 --> 00:01:23,788
+PART.1: No.
+
+23
+00:01:23,868 --> 00:01:24,868
+PART.2: No.
+
+24
+00:01:30,068 --> 00:01:36,948
+PART.1: ¿La carne de este animal es
+valorada muy positivamente en algún
+mercado? Por ejemplo, aleta de
+tiburón o cosas así.
+
+25
+00:01:37,028 --> 00:01:41,228
+PART.2: Eh, solo carne, hablas solo de
+carne.
+
+26
+00:01:41,308 --> 00:01:42,908
+PART.1: Cualquier cosa de ese animal.
+
+27
+00:01:42,988 --> 00:01:44,868
+PART.2: Bueno, sí, sí es valorado.
+
+28
+00:01:45,788 --> 00:01:46,788
+PART.1: Vale.
+
+29
+00:01:48,228 --> 00:01:55,748
+PART.2: Eh, a ver, no es un depredador, no
+vive en la jungla. ¿Es más pequeño
+que un perro?
+
+30
+00:01:55,828 --> 00:01:56,828
+PART.1: No.
+
+31
+00:01:56,908 --> 00:01:58,868
+PART.2: No. Es más grande que un perro.
+
+32
+00:01:58,988 --> 00:02:10,388
+PART.1: Entonces...
+Tengo un cortocircuito en la cabeza.
+

@@ -1,0 +1,503 @@
+1
+00:00:00,000 --> 00:00:00,100
+PART.1: Solo este de aquí, ¿no?
+
+2
+00:00:00,100 --> 00:00:02,340
+PART.2: Este de aquí, a ver si lo hacemos
+bien fácil. Venga.
+
+3
+00:00:02,900 --> 00:00:03,700
+PART.1: Este no es...
+
+4
+00:00:03,980 --> 00:00:04,980
+PART.2: Este no es...
+
+5
+00:00:05,540 --> 00:00:08,100
+PART.1: Este tampoco, este tampoco.
+
+6
+00:00:09,380 --> 00:00:10,140
+PART.2: Tampoco.
+
+7
+00:00:10,220 --> 00:00:12,620
+PART.1: Este tampoco, este tampoco.
+
+8
+00:00:12,620 --> 00:00:13,220
+PART.2: Este, ¿no?
+
+9
+00:00:13,220 --> 00:00:16,580
+PART.1: Este, a ver, déjame ver, comparemos
+primero, estemos seguros.
+
+10
+00:00:17,700 --> 00:00:18,420
+PART.2: Es ese, ¿no?
+
+11
+00:00:20,220 --> 00:00:27,900
+PART.1: Es hasta aquí, el 14 y el 15. A
+ver... sí, es justamente el 14 y el 15.
+
+12
+00:00:27,900 --> 00:00:28,420
+PART.2: Ajá.
+
+13
+00:00:28,660 --> 00:00:32,420
+PART.1: Vale. Entonces, lo primero que
+tenemos que buscar es...
+
+14
+00:00:33,740 --> 00:00:35,020
+PART.2: Una piececita de estas, ¿no?
+
+15
+00:00:35,020 --> 00:00:35,740
+PART.1: Sí, entonces...
+
+16
+00:00:35,740 --> 00:00:36,300
+PART.2: En rojo.
+
+17
+00:00:37,100 --> 00:00:38,580
+PART.1: Este... es esta de aquí.
+
+18
+00:00:38,580 --> 00:00:39,580
+PART.2: Vale, perfecto.
+
+19
+00:00:39,900 --> 00:00:44,660
+PART.1: Este... la base, que tiene que ser
+de cuatro, cinco... a ver...
+
+20
+00:00:44,660 --> 00:00:47,620
+PART.2: Aquí pone aquí... aquí pone dos
+rojos, ¿no?
+
+21
+00:00:47,980 --> 00:00:55,780
+PART.1: A ver, a ver, a ver. No, no, es que
+hay que... a ver, permíteme, si me permites.
+Primero, vamos por partes, aquí está, empecemos
+desde el 11.
+
+22
+00:00:55,780 --> 00:00:56,900
+PART.2: Ah, bueno, que hemos empezado...
+
+23
+00:00:56,900 --> 00:00:57,900
+PART.1: Sí, fue mi error.
+
+24
+00:00:57,900 --> 00:00:58,500
+PART.2: Vale, vale.
+
+25
+00:00:58,500 --> 00:01:05,300
+PART.1: Este... a ver, claro, porque primero
+tenemos que ver... un, dos, tres cuatro, a ver,
+de un, dos... de cuatro, un grande.
+
+26
+00:01:05,300 --> 00:01:06,300
+PART.2: Este, ¿no?
+
+27
+00:01:06,300 --> 00:01:07,460
+PART.1: Sí, empezamos con uno de cuatro.
+
+28
+00:01:07,460 --> 00:01:08,100
+PART.2: Vale.
+
+29
+00:01:08,620 --> 00:01:12,460
+PART.1: De ahí, necesitamos estas dos
+piezas, una de estas rojas.
+
+30
+00:01:12,460 --> 00:01:13,300
+PART.2: Una de estas rojas.
+
+31
+00:01:13,300 --> 00:01:14,460
+PART.1: Estas las utilizamos aquí.
+
+32
+00:01:15,820 --> 00:01:25,100
+PART.1: Esta, esta de aquí y esta de aquí,
+¿verdad? Entonces, la colocamos. Una primero...
+siguiendo las instrucciones, primero esta de
+aquí
+
+33
+00:01:27,460 --> 00:01:28,060
+PART.1: PERSON B: Vale.
+
+34
+00:01:28,740 --> 00:01:31,300
+PART.1: Y de aquí la giramos, colocamos esta
+de aquí.
+
+35
+00:01:31,300 --> 00:01:32,820
+PART.2: El 13, ese de ahí arriba.
+
+36
+00:01:32,820 --> 00:01:34,060
+PART.1: Ya, tenemos que buscar...
+
+37
+00:01:34,140 --> 00:01:35,420
+PART.2: El 14 tenemos buscar dos...
+
+38
+00:01:35,420 --> 00:01:37,260
+PART.1: Una blanca y una pequeñita.
+
+39
+00:01:37,260 --> 00:01:38,700
+PART.2: Una pequeñita blanca.
+
+40
+00:01:40,660 --> 00:01:41,660
+PART.1: Esta es la pequeñita blanca.
+
+41
+00:01:41,660 --> 00:01:42,900
+PART.2: Aquí y esta, ¿no?
+
+42
+00:01:42,900 --> 00:01:43,420
+PART.1: Sí
+
+43
+00:01:43,420 --> 00:01:44,420
+PART.2: Vale, pues ya está.
+
+44
+00:01:44,420 --> 00:01:47,500
+PART.1: Colocamos una aquí y otra aquí.
+
+45
+00:01:47,500 --> 00:01:52,860
+PART.2: Y otra ahí y... y ahora... y ya lo
+último, ¿no?
+
+46
+00:01:53,140 --> 00:01:57,500
+PART.1: Sí. Este de aquí necesitamos un
+verde.
+
+47
+00:01:57,500 --> 00:01:58,380
+PART.2: Uno verde.
+
+48
+00:01:58,700 --> 00:01:59,420
+PART.1: Este de aquí.
+
+49
+00:01:59,540 --> 00:02:00,060
+PART.2: Sí.
+
+50
+00:02:00,420 --> 00:02:01,980
+PART.1: Este... un pequeño.
+
+51
+00:02:02,060 --> 00:02:03,660
+PART.2: Un pequeño de color rosa es, ¿no?
+
+52
+00:02:03,660 --> 00:02:04,660
+PART.1: Sí, es este de aquí.
+
+53
+00:02:04,940 --> 00:02:05,500
+PART.2: Vale.
+
+54
+00:02:05,620 --> 00:02:07,820
+PART.1: Y un pequeño de color morado.
+
+55
+00:02:08,100 --> 00:02:08,820
+PART.2: ¿Morado?
+
+56
+00:02:09,100 --> 00:02:16,660
+PART.1: Morado, sí. Ayúdame a buscar. El
+rosa no es, morado. Es algo así como morado.
+
+57
+00:02:16,660 --> 00:02:18,380
+PART.2: Bueno este no es, este es rosa
+también.
+
+58
+00:02:18,500 --> 00:02:21,980
+PART.1: No, pero es que no es de este punto,
+es una especial, si te fijas, la forma.
+
+59
+00:02:21,980 --> 00:02:26,460
+PART.2: Esto es una flor y tiene que haber
+una flor y otro de este, los dos.
+
+60
+00:02:26,700 --> 00:02:29,900
+PART.1: Sí, a ver... este del bosque no
+tiene una flor.
+
+61
+00:02:30,140 --> 00:02:31,740
+PART.2: La flor, la flor, la flor....
+
+62
+00:02:31,740 --> 00:02:33,540
+PART.1: Entonces, yo le coloco este de aquí.
+
+63
+00:02:33,540 --> 00:02:35,060
+PART.2: Ponle ese porque no...
+
+64
+00:02:35,300 --> 00:02:36,900
+PART.1: Este de aquí primero, y sería la
+flor.
+
+65
+00:02:36,900 --> 00:02:40,020
+PART.2: La flor, a ver. Podría ser esta la
+flor, eh.
+
+66
+00:02:40,020 --> 00:02:40,660
+PART.1: Déjame ver.
+
+67
+00:02:40,660 --> 00:02:41,660
+PART.2: Sí, es esa, ¿no?
+
+68
+00:02:42,340 --> 00:02:43,340
+PART.1: En principio...
+
+69
+00:02:43,380 --> 00:02:44,940
+PART.2: Sí, porque no hay de...
+
+70
+00:02:45,540 --> 00:02:48,220
+PART.1: Aquí esta, a ver si... claro, es que
+es morada.
+
+71
+00:02:48,220 --> 00:02:49,100
+PART.2: Son moradas, sí.
+
+72
+00:02:49,100 --> 00:02:50,460
+PART.1: Sí, veamos si son iguales.
+
+73
+00:02:50,460 --> 00:02:51,020
+PART.2: Sí.
+
+74
+00:02:51,420 --> 00:02:55,260
+PART.1: Sí, entonces, desmontamos aquí, al
+rosa y al morado y...
+
+75
+00:02:55,260 --> 00:02:58,460
+PART.2: Al rosa y al morado y ahí, vale,
+perfecto. Ay, que se va.
+
+76
+00:02:58,780 --> 00:03:00,740
+PART.1: No pasa nada. Ya está.
+
+77
+00:03:00,740 --> 00:03:01,380
+PART.2: Ya está.
+
+78
+00:03:01,620 --> 00:03:02,100
+PART.1: Sí.
+
+79
+00:03:02,100 --> 00:03:02,540
+PART.2: Vale.
+
+80
+00:03:02,540 --> 00:03:03,020
+PART.1: Ya está.
+
+81
+00:03:04,180 --> 00:03:04,980
+PART.1: Somos muy buenos.
+
+82
+00:03:05,140 --> 00:03:10,980
+PART.2: Has visto qué bien. Es que es
+difícil esto, eh. Eh, que ya hemos acabado. No,
+que digo que da muy...
+
+83
+00:03:11,180 --> 00:03:12,140
+PART.1: Muy fácil.
+
+84
+00:03:12,140 --> 00:03:20,020
+PART.2: Me pusieron uno el otro... que era
+un complicado, bua. Con un coche con
+ruedas y...
+
+85
+00:03:21,620 --> 00:03:25,220
+PART.1: Si sigues las instrucciones, es
+fácil, pero bueno.
+
+86
+00:03:25,980 --> 00:03:29,380
+PART.2: Sí porque este es pequeñín y... ¿y
+esto qué es?
+
+87
+00:03:30,300 --> 00:03:32,500
+PART.1: Ya... pero, o sea...
+
+88
+00:03:33,300 --> 00:03:34,500
+PART.2: Me parece que ya está todo.
+
+89
+00:03:34,500 --> 00:03:35,020
+PART.1: Sí.
+
+90
+00:03:35,020 --> 00:03:35,860
+PART.2: Me parece, ¿eh?
+
+91
+00:03:36,900 --> 00:03:41,220
+PART.1: ¿Tú has viajado por... por aquí, por
+España, en general?
+
+92
+00:03:41,220 --> 00:03:49,140
+PART.2: Bueno, yo... eh, a ver... pero de
+viaje, ¿no? Sí he estado varios sitios, he
+estado... yo que sé, he estado en Egipto, he
+estado en Marruecos, he estado en Londres,
+
+93
+00:03:49,140 --> 00:03:50,900
+PART.2: he estado... pero de viaje de...
+
+94
+00:03:50,900 --> 00:03:52,420
+PART.1: Pero nunca has estado en
+Latinoamérica.
+
+95
+00:03:52,540 --> 00:03:53,780
+PART.2: No, no.
+
+96
+00:03:53,780 --> 00:03:54,220
+PART.1: Ya.
+
+97
+00:03:54,540 --> 00:03:55,620
+PART.2: No he estado nunca, no.
+
+98
+00:03:56,740 --> 00:03:58,300
+PART.1: Podrías ir algún día a visitar.
+
+99
+00:03:58,380 --> 00:04:08,620
+PART.2: No, no, no he estado, y conozco a
+mucha gente por allí porque en el colegio de mi
+hijo y eso son muchas... muchos de allí y tal,
+pero no, no...
+
+100
+00:04:08,620 --> 00:04:11,300
+PART.1: Tu colegio... el colegio de tu hijo
+es un colegio público.
+
+101
+00:04:11,620 --> 00:04:12,220
+PART.2: No.
+
+102
+00:04:12,260 --> 00:04:12,820
+PART.1: Privado.
+
+103
+00:04:13,820 --> 00:04:14,660
+PART.2: Es concertado.
+
+104
+00:04:14,860 --> 00:04:15,580
+PART.1: Ah, ¿no es privado?
+
+105
+00:04:15,580 --> 00:04:16,180
+PART.2: No.
+
+106
+00:04:16,180 --> 00:04:18,140
+PART.1: No, mitad público, mitad privado.
+
+107
+00:04:18,380 --> 00:04:27,260
+PART.2: Bueno, sí, es privado y concertado
+porque si no, por ejemplo, el Bachiller sería
+carísimo y así pues se puede sobrellevar.
+
+108
+00:04:27,420 --> 00:04:28,940
+PART.1: El Bachillerato cuesta 800 euros.
+
+109
+00:04:28,940 --> 00:04:31,060
+PART.2: Es carísimo, imagínate, por eso.
+
+110
+00:04:31,220 --> 00:04:33,180
+PART.1: Yo lo sé y... yo lo sé.
+
+111
+00:04:33,540 --> 00:04:38,860
+PART.2: Y al ser un concertado pues la cosa
+se puede permitir porque si no, imagínate, ¿no?
+
+112
+00:04:38,860 --> 00:04:39,220
+PART.1: Sí, sí.
+
+113
+00:04:39,220 --> 00:04:39,940
+PART.2: Si no...
+
+114
+00:04:39,940 --> 00:04:43,140
+SUPERVISOR: Vale, pues ahora que ya está hecho,
+lo podemos deshacer.
+

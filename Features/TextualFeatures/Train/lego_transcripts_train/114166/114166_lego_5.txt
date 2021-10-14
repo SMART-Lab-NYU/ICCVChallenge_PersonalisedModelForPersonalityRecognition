@@ -1,0 +1,87 @@
+96
+00:05:01,180 --> 00:05:02,140
+PART.2: Esta azul.
+
+97
+00:05:02,220 --> 00:05:04,060
+PART.2: Con lo que te gusta el azul,
+¿sabes?
+
+98
+00:05:04,140 --> 00:05:05,300
+PART.2: Y aquí parece que...
+
+99
+00:05:05,380 --> 00:05:07,180
+PART.1: Oye, un río.
+
+100
+00:05:07,940 --> 00:05:09,140
+PART.1: ¿Cómo no te lo he dicho yo?
+
+101
+00:05:09,220 --> 00:05:12,380
+PART.2: Claro, tendrás que regar las
+plantitas.
+
+102
+00:05:11,020 --> 00:05:12,180
+PART.1: Ay, un río.
+
+103
+00:05:12,660 --> 00:05:14,100
+PART.1: Un detallito.
+
+104
+00:05:14,340 --> 00:05:15,380
+PART.2: Una acequia.
+
+105
+00:05:16,300 --> 00:05:17,620
+PART.2: Ah, y un pez.
+
+106
+00:05:17,700 --> 00:05:19,060
+PART.2: Un delfín.
+
+107
+00:05:21,020 --> 00:05:22,460
+PART.1: Uy, ¿lo puedes quitar
+que yo no puedo?
+
+108
+00:05:25,420 --> 00:05:26,460
+PART.1: No, pero el río déjalo.
+
+109
+00:05:26,540 --> 00:05:27,540
+PART.2: Sí, ahora lo pongo.
+
+110
+00:05:29,460 --> 00:05:31,340
+PART.1: Hay que hacer un toldo.
+
+111
+00:05:32,100 --> 00:05:33,700
+PART.1: Eso es más complicado.
+
+112
+00:05:33,780 --> 00:05:35,620
+PART.2: Estos y estos.
+
+113
+00:05:38,580 --> 00:05:39,700
+PART.2: Vale, ¿lo hago yo?
+
+114
+00:05:39,780 --> 00:05:40,700
+PART.1: Vale.
+
+115
+00:05:42,100 --> 00:05:44,500
+PART.1: Un palo. ¿Hay un palo?
+
+116
+00:05:46,140 --> 00:05:47,580
+PART.2: Aquí tengo un palo.
+

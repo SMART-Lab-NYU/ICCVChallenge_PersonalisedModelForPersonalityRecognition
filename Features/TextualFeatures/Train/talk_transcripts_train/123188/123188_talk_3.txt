@@ -1,0 +1,40 @@
+54
+00:03:08,119 --> 00:03:13,759
+PART.1: Ver cuatro cosas, hacer una
+interface y hacerla aparecer.
+
+55
+00:03:13,839 --> 00:03:33,159
+PART.1: Más que nada es porque tengo unos
+cuantos amigos que hacen Informática
+y yo hago mucha música, toco el
+piano desde hace mucho tiempo y hago
+composición, y les hago
+composiciones para sus juegos y proyectos
+de informática.
+
+56
+00:03:34,639 --> 00:03:35,919
+PART.1: Y yo hago la música.
+
+57
+00:03:36,559 --> 00:03:37,479
+PART.1: Y es como siempre me...
+
+58
+00:03:37,679 --> 00:03:47,959
+PART.1: Y he trabajado seis, siete
+músicas de juegos pequeños, que son
+prácticas que tienen ellos.
+
+59
+00:03:49,759 --> 00:03:53,639
+PART.1: Siempre me ha interesado como
+coño cogen la música y la ponen
+dentro del juego.
+
+60
+00:03:55,319 --> 00:04:00,759
+PART.1: Claro, porque todo va por "loops"
+y como se juntan los "loops"...
+

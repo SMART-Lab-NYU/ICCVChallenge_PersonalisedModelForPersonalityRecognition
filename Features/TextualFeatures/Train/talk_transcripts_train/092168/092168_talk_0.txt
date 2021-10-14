@@ -1,0 +1,121 @@
+﻿1
+00:00:08,491 --> 00:00:11,611
+PART.2: Eh... ¿tú de dónde eres?
+
+2
+00:00:11,691 --> 00:00:12,491
+PART.1: Yo aquí de Barcelona, ¿tú?
+
+3
+00:00:12,571 --> 00:00:13,251
+PART.2: ¿Originario...?
+
+4
+00:00:13,331 --> 00:00:14,571
+PART.1: Sí, sí, he nacido aquí.
+
+5
+00:00:14,171 --> 00:00:15,331
+PART.2: Ah, yo de Chile.
+
+6
+00:00:15,571 --> 00:00:16,011
+PART.1: ¿De Chile?
+
+7
+00:00:16,091 --> 00:00:16,411
+PART.2: De Chile.
+
+8
+00:00:16,491 --> 00:00:17,171
+PART.1: Hostia, ella es chilena.
+
+9
+00:00:17,531 --> 00:00:18,131
+PART.2: ¿Sí?
+
+10
+00:00:18,211 --> 00:00:18,531
+PART.1: Sí.
+
+11
+00:00:18,611 --> 00:00:19,131
+PART.2: Ah...
+
+12
+00:00:19,371 --> 00:00:20,011
+PART.1: De Rancagua.
+
+13
+00:00:20,331 --> 00:00:25,331
+PART.2: El acento... encontré que era distinto de
+ella, pero quizá era de otra parte de...
+
+14
+00:00:25,411 --> 00:00:26,211
+PART.1: Ella es de Rancagua.
+
+15
+00:00:26,291 --> 00:00:26,891
+PART.2: Ah...
+
+16
+00:00:26,971 --> 00:00:28,411
+PART.1: Del sur, de... de Santiago.
+
+17
+00:00:28,051 --> 00:00:30,851
+PART.2: Santiago... sí, como una hora.
+
+18
+00:00:31,691 --> 00:00:32,611
+PART.1: Sí, no sé, yo nunca he estado.
+
+19
+00:00:32,691 --> 00:00:33,211
+PART.2: ¿No?
+
+20
+00:00:33,291 --> 00:00:33,611
+PART.1: No, no.
+
+21
+00:00:33,691 --> 00:00:34,211
+PART.2: ¿No?
+
+22
+00:00:34,291 --> 00:00:34,891
+PART.1: No he estado nunca.
+
+23
+00:00:34,451 --> 00:00:36,571
+PART.2: Ah... tienes que ir porque...
+
+24
+00:00:36,651 --> 00:00:37,811
+PART.1: Sí, bueno, tengo que ir por ella.
+
+25
+00:00:38,291 --> 00:00:39,011
+PART.1: Está muy lejos.
+
+26
+00:00:39,771 --> 00:00:41,691
+PART.2: Pero están los pasajes muy baratos.
+
+27
+00:00:42,211 --> 00:00:44,731
+PART.1: Sí, ya lo miramos, 400 euros valía ir y
+volver.
+
+28
+00:00:45,491 --> 00:00:53,251
+PART.2: Eh, no sé si has visto hace poco, pero entró
+una aerolínea muy barata que es de Iberia, pero
+se llama Level.
+
+29
+00:00:55,291 --> 00:01:01,251
+PART.2: Y está como... no sé, con anticipación,
+pueden encontrar a 350 euros.
+

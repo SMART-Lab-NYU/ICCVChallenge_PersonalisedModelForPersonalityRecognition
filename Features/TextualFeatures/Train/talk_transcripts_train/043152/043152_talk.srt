@@ -1,0 +1,604 @@
+﻿1
+00:00:00,169 --> 00:00:01,169
+PART.1: So 152?
+
+2
+00:00:01,569 --> 00:00:02,169
+PART.2: Yes.
+
+3
+00:00:02,169 --> 00:00:02,369
+PART.1: I am 43.
+
+4
+00:00:02,449 --> 00:00:02,569
+PART.2: Yes.
+
+5
+00:00:02,569 --> 00:00:03,169
+PART.1: I am 43.
+
+6
+00:00:03,169 --> 00:00:05,169
+PART.2: Oh, so you started
+at the morning already?
+
+7
+00:00:06,169 --> 00:00:08,769
+PART.1: No, I am just...
+I don't know, a random number.
+
+8
+00:00:08,769 --> 00:00:10,089
+PART.1: My name is Irine.
+
+9
+00:00:10,169 --> 00:00:11,169
+PART.2: Irine?
+
+10
+00:00:11,169 --> 00:00:12,169
+PART.1: Irine, yes, that's right.
+
+11
+00:00:12,169 --> 00:00:12,449
+PART.2: Ah, ok.
+
+12
+00:00:12,529 --> 00:00:13,169
+PART.1: Irine, yes, that's right.
+
+13
+00:00:13,169 --> 00:00:14,169
+PART.1: I am from Brazil.
+
+14
+00:00:14,169 --> 00:00:15,769
+PART.2: Ah, ok, ok.
+
+15
+00:00:15,769 --> 00:00:16,769
+PART.2: And your name?
+
+16
+00:00:16,889 --> 00:00:17,889
+PART.2: Viola.
+
+17
+00:00:17,889 --> 00:00:18,369
+PART.1: Viola?
+
+18
+00:00:18,369 --> 00:00:18,609
+PART.2: Viola.
+
+19
+00:00:18,689 --> 00:00:18,889
+PART.1: Viola?
+
+20
+00:00:18,889 --> 00:00:19,369
+PART.2: Viola.
+
+21
+00:00:19,369 --> 00:00:19,889
+PART.1: Viola.
+
+22
+00:00:19,889 --> 00:00:20,169
+PART.2: Yes, that sounds good.
+
+23
+00:00:20,249 --> 00:00:20,369
+PART.1: Viola.
+
+24
+00:00:20,369 --> 00:00:20,689
+PART.2: Yes, that sounds good.
+
+25
+00:00:20,689 --> 00:00:20,889
+PART.1: Viola, ok, where are you from?
+
+26
+00:00:20,969 --> 00:00:21,089
+PART.2: Yes, that sounds good.
+
+27
+00:00:21,089 --> 00:00:22,969
+PART.1: Viola, ok, where are you from?
+
+28
+00:00:23,049 --> 00:00:23,089
+PART.1: Viola, ok, where are you from?
+
+29
+00:00:23,089 --> 00:00:23,569
+PART.2: Germany.
+
+30
+00:00:23,569 --> 00:00:23,729
+PART.1: Germany, ok.
+
+31
+00:00:23,809 --> 00:00:23,969
+PART.2: Germany.
+
+32
+00:00:23,969 --> 00:00:25,289
+PART.1: Germany, ok.
+
+33
+00:00:25,889 --> 00:00:27,169
+PART.1: Do you live here in Barcelona?
+
+34
+00:00:27,169 --> 00:00:27,489
+PART.2: No, I just visit a friend here
+and she is organizing it
+so she was like:
+
+35
+00:00:27,569 --> 00:00:27,689
+PART.2: "Do you want to see
+where I am working?"
+
+36
+00:00:27,769 --> 00:00:27,889
+PART.1: Do you live here in Barcelona?
+
+37
+00:00:27,889 --> 00:00:31,969
+PART.2: No, I just visit a friend here
+and she is organizing it
+so she was like:
+
+38
+00:00:32,049 --> 00:00:33,969
+PART.2: "Do you want to see
+where I am working?"
+
+39
+00:00:34,089 --> 00:00:35,969
+PART.2: I was like:
+"Yes, why not?
+It could be quite interesting".
+
+40
+00:00:36,089 --> 00:00:38,969
+PART.1: "Oh, maybe I prefer
+to go to the beach".
+
+41
+00:00:39,169 --> 00:00:41,369
+PART.2: I am already a week here
+so it is fine.
+
+42
+00:00:41,369 --> 00:00:41,529
+PART.1: Ah, ok, very good.
+
+43
+00:00:41,609 --> 00:00:41,889
+PART.2: I am already a week here
+so it is fine.
+
+44
+00:00:41,889 --> 00:00:42,889
+PART.1: Ah, ok, very good.
+
+45
+00:00:42,889 --> 00:00:42,929
+PART.2: She was working
+with us in Germany
+so it is very interesting for me
+
+46
+00:00:43,089 --> 00:00:46,529
+PART.2: She was working
+with us in Germany
+so it is very interesting for me
+
+47
+00:00:46,609 --> 00:00:49,169
+PART.2: to see the research right now,
+so I was really interested.
+
+48
+00:00:49,169 --> 00:00:51,169
+PART.2: I asked her: "Can I go there?"
+
+49
+00:00:51,169 --> 00:00:51,689
+PART.1: Ah, ok.
+
+50
+00:00:51,689 --> 00:00:51,929
+PART.2: So it was ok.
+
+51
+00:00:52,009 --> 00:00:52,169
+PART.1: Ah, ok.
+
+52
+00:00:52,169 --> 00:00:52,689
+PART.2: So it was ok.
+
+53
+00:00:52,689 --> 00:00:54,369
+PART.1: Ah, that's good.
+
+54
+00:00:54,569 --> 00:00:56,369
+PART.1: And how many days
+are you going to stay here?
+
+55
+00:00:56,369 --> 00:01:00,569
+PART.2: Only one week,
+tomorrow we are leaving
+very early so it was already a week.
+
+56
+00:01:00,569 --> 00:01:01,569
+PART.1: Ah, ok.
+
+57
+00:01:01,689 --> 00:01:06,769
+PART.1: I live in Barcelona
+for almost three years now.
+
+58
+00:01:06,769 --> 00:01:09,369
+PART.2: Oh, wow!
+How did it come to come you here?
+
+59
+00:01:09,369 --> 00:01:12,889
+PART.1: I started as a master,
+I came here to study.
+
+60
+00:01:12,889 --> 00:01:13,289
+PART.2: Ok. studying.
+
+61
+00:01:13,369 --> 00:01:14,369
+PART.1: I started as a master,
+I came here to study.
+
+62
+00:01:14,369 --> 00:01:14,769
+PART.1: I started as a master,
+I came here to study.
+
+63
+00:01:15,889 --> 00:01:20,569
+PART.1: Then I have a master
+in Project Management
+and then I decided to stay.
+
+64
+00:01:20,689 --> 00:01:26,969
+PART.1: I was doing
+my Italian citizenship
+in the meantime of my master.
+
+65
+00:01:26,969 --> 00:01:27,969
+PART.2: What is it?
+
+66
+00:01:28,089 --> 00:01:32,969
+PART.1: Italian citizenship,
+my family is from Italy,
+I am Brazilian
+
+67
+00:01:33,049 --> 00:01:35,369
+PART.1: but my family came
+a long time ago
+
+68
+00:01:35,449 --> 00:01:38,369
+PART.1: so we can apply
+for the double citizenship.
+
+69
+00:01:38,369 --> 00:01:40,369
+PART.2: So you need to do a test
+or are you just...?
+
+70
+00:01:40,449 --> 00:01:42,889
+PART.2: Because you have some relatives
+and it's fine and you just have it?
+
+71
+00:01:42,889 --> 00:01:50,969
+PART.1: Yes, for the Italians yes,
+the problem is that
+there is a lot of bureaucracy,
+
+72
+00:01:51,049 --> 00:01:58,169
+PART.1: you have to find all the birth
+certificates from very, very far
+from my family.
+
+73
+00:01:58,489 --> 00:02:04,489
+PART.1: So, I mean,
+you don't have to speak Italian
+but you have to find the papers...
+
+74
+00:02:05,889 --> 00:02:11,969
+PART.1: And I was able to have
+the Italian passport
+and then I decided to stay here.
+
+75
+00:02:11,969 --> 00:02:16,969
+PART.1: Well, at least for the moment
+and then I was able
+to find a job and so on.
+
+76
+00:02:17,169 --> 00:02:18,969
+PART.1: Where do you live in Germany?
+
+77
+00:02:18,969 --> 00:02:20,969
+PART.2: Near Frankfurt,
+do you know Darmstadt?
+
+78
+00:02:21,769 --> 00:02:22,769
+PART.1: Frankfurt yes.
+
+79
+00:02:22,769 --> 00:02:26,089
+PART.2: But Darmstadt no one knows,
+it is a university city
+so there are a lot of students.
+
+80
+00:02:27,169 --> 00:02:29,169
+PART.1: But it is very close from Frankfurt.
+
+81
+00:02:29,289 --> 00:02:30,289
+PART.2: Yes, half an hour.
+
+82
+00:02:30,289 --> 00:02:31,369
+PART.1: Ok.
+
+83
+00:02:31,369 --> 00:02:33,369
+PART.2: But it is like a big city.
+
+84
+00:02:33,969 --> 00:02:38,169
+PART.1: Right, but your family
+is from the same place
+or you live...?
+
+85
+00:02:38,289 --> 00:02:43,769
+PART.2: Yes, the same,
+it is like again half an hour from it
+and where actually I grow up.
+
+86
+00:02:44,169 --> 00:02:45,569
+PART.1: Ah, ok.
+
+87
+00:02:45,689 --> 00:02:51,569
+PART.2: So, I actually stayed
+around the area in Frankfurt
+but, yes, I am happy.
+
+88
+00:02:51,569 --> 00:02:53,569
+PART.1: Ah, ok, good.
+
+89
+00:02:53,569 --> 00:02:55,569
+PART.1: Is it your first time in Barcelona?
+
+90
+00:02:55,569 --> 00:02:57,569
+PART.2: Yes, I never visited it before.
+
+91
+00:02:57,769 --> 00:03:00,529
+PART.2: I mean, it is very touristic
+but it is nice to have
+someone here,
+
+92
+00:03:00,609 --> 00:03:03,769
+PART.2: this is very cool and someone can
+tell you things like: "This is cool
+or this is cool".
+
+93
+00:03:03,769 --> 00:03:07,769
+PART.2: And you are not
+the typical tourist walking around
+like "I don't know what to do".
+
+94
+00:03:07,769 --> 00:03:09,769
+PART.1: Yes, definitely.
+
+95
+00:03:09,769 --> 00:03:18,369
+PART.1: There is a lot of things to do,
+I agree with you
+that there are a lot of tourists,
+specially in this time of the year.
+
+96
+00:03:18,489 --> 00:03:19,489
+PART.2: Oh, yes.
+
+97
+00:03:19,489 --> 00:03:25,969
+PART.1: There is like the summer
+that is calmly, the city is warmer
+like we have more visitors.
+
+98
+00:03:27,169 --> 00:03:28,969
+PART.1: But it is nice, I like it.
+
+99
+00:03:30,289 --> 00:03:37,929
+PART.1: I came to study,
+but like open-minded
+to say maybe it is a place to visit,
+
+100
+00:03:38,009 --> 00:03:43,929
+PART.1: to live and of course
+it is one city when you visit it
+as a tourist
+
+101
+00:03:44,009 --> 00:03:48,489
+PART.1: and it is a different city
+when you actually live,
+
+102
+00:03:48,769 --> 00:03:55,569
+PART.1: But I am having a good time,
+I don't have complains
+and I have friends already.
+
+103
+00:03:56,569 --> 00:03:58,649
+PART.2: That's a point, I mean,
+you studied here
+
+104
+00:03:58,729 --> 00:04:00,969
+PART.2: and you have a lot of people,
+you met a lot of people.
+
+105
+00:04:01,129 --> 00:04:01,169
+PART.2: and you have a lot of people,
+you met a lot of people.
+
+106
+00:04:01,169 --> 00:04:04,689
+PART.1: Yes, now I am working so yes.
+
+107
+00:04:04,969 --> 00:04:06,689
+PART.2: But you want to stay here?
+
+108
+00:04:06,689 --> 00:04:08,889
+PART.1: Well, that's a good question.
+
+109
+00:04:08,889 --> 00:04:10,889
+PART.2: Ok, no one can tell.
+
+110
+00:04:10,889 --> 00:04:18,729
+PART.1: It's hard to say,
+for the moment yes
+but of course I miss my family,
+
+111
+00:04:18,809 --> 00:04:23,569
+PART.1: so sometimes I say maybe
+but for the moment yes.
+
+112
+00:04:25,289 --> 00:04:33,969
+PART.1: Let's say, two or three weeks ago
+my parents came for the first time.
+
+113
+00:04:33,969 --> 00:04:34,569
+PART.2: Yes, wow!
+
+114
+00:04:34,569 --> 00:04:35,529
+PART.1: So it was nice for the
+first time.
+
+115
+00:04:35,609 --> 00:04:35,969
+PART.2: Yes, wow!
+
+116
+00:04:35,969 --> 00:04:36,369
+PART.1: So it was nice for the
+first time.
+
+117
+00:04:36,369 --> 00:04:41,369
+PART.2: For the first time,
+it is far away
+so it is quite an effort for them.
+
+118
+00:04:41,369 --> 00:04:51,769
+PART.1: It is far
+and they have a certain age
+so the trip is not easy for them.
+
+119
+00:04:52,889 --> 00:04:54,889
+PART.1: But they had a very good time.
+
+120
+00:04:54,889 --> 00:04:56,169
+PART.2: That's nice, it's cool.
+
+121
+00:04:56,169 --> 00:05:01,489
+PART.1: So, first in Europe
+and from here we went to Italy.
+
+122
+00:05:01,489 --> 00:05:02,489
+PART.2: Ah, ok.
+
+123
+00:05:02,489 --> 00:05:07,489
+PART.1: So, we stayed in Milano,
+in Verona, in Venecia as well.
+
+124
+00:05:07,489 --> 00:05:07,689
+PART.2: Ah, it's really nice Venecia.
+
+125
+00:05:07,689 --> 00:05:08,089
+PART.1: It is Venice, right?
+
+126
+00:05:08,169 --> 00:05:08,689
+PART.2: Ah, it's really nice Venecia.
+
+127
+00:05:08,689 --> 00:05:08,969
+PART.1: So, it was nice.
+
+128
+00:05:09,049 --> 00:05:09,489
+PART.2: Ah, it's really nice Venecia.
+
+129
+00:05:09,489 --> 00:05:11,289
+PART.1: So, it was nice.
+

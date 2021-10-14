@@ -1,0 +1,5 @@
+53
+00:03:00,563 --> 00:03:06,243
+PART.2: Pero de Santiago a donde yo vivo son dos
+horas y media en avión.
+

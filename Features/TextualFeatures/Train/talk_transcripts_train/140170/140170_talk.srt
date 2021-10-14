@@ -1,0 +1,534 @@
+﻿1
+00:00:00,000 --> 00:00:00,494
+PART.2: Vale...
+
+2
+00:00:01,014 --> 00:00:01,854
+PART.1: Pues hablemos.
+
+3
+00:00:04,534 --> 00:00:06,014
+PART.1: Pues nada, ¿quién empieza la conversación?
+
+4
+00:00:06,894 --> 00:00:08,574
+PART.2: ¿Tú eres de aquí de Barcelona?
+
+5
+00:00:08,654 --> 00:00:10,334
+PART.1: Eh, no, soy de Valencia, de hecho.
+
+6
+00:00:10,414 --> 00:00:11,374
+PART.1: Bueno, y Javi también.
+
+7
+00:00:10,574 --> 00:00:10,934
+PART.2: Ah, ¿sí?
+
+8
+00:00:11,134 --> 00:00:11,894
+PART.1: Sí, sí.
+
+9
+00:00:11,974 --> 00:00:13,454
+PART.1: Somos los dos de Valencia, sí.
+
+10
+00:00:13,774 --> 00:00:15,574
+PART.1: Pero, bueno, estamos aquí para estudiar.
+
+11
+00:00:15,654 --> 00:00:21,334
+PART.1: Al final, hacían aquí lo que quería y me
+vine, ya hace cuatro años, y pues nada, aquí
+estamos.
+
+12
+00:00:20,894 --> 00:00:22,014
+PART.2: ¿Tienes cuatro años aquí?
+
+13
+00:00:22,334 --> 00:00:24,094
+PART.1: Sí, estoy ya cuatro años aquí, sí, sí.
+
+14
+00:00:23,774 --> 00:00:24,814
+PART.2: ¿Empezando la universidad?
+
+15
+00:00:25,214 --> 00:00:29,574
+PART.1: Bueno, empezando la universidad, sí, pues
+eso, hace cuatro años, y ahora ya, pues estamos
+casi acabando, es...
+
+16
+00:00:29,654 --> 00:00:32,334
+PART.1: Bueno, ya he pasado cuatro años, es mucho
+tiempo.
+
+17
+00:00:31,374 --> 00:00:32,614
+PART.2: ¿Qué es lo que estás estudiando?
+
+18
+00:00:33,094 --> 00:00:37,014
+PART.1: Hago un doble grado en Matemáticas e
+Ingeniería Informática aquí en la Universidad
+de Barcelona.
+
+19
+00:00:37,894 --> 00:00:40,974
+PART.1: Pero, bueno, por eso más años de lo que toca,
+pero, bueno, al final básicamente...
+
+20
+00:00:40,494 --> 00:00:41,934
+PART.2: Yo tengo dos años en Barcelona.
+
+21
+00:00:42,254 --> 00:00:42,454
+PART.1: ¿Sí?
+
+22
+00:00:42,534 --> 00:00:43,174
+PART.1: ¿Y qué tal?
+
+23
+00:00:42,654 --> 00:00:43,894
+PART.2: Sí, soy venezolana.
+
+24
+00:00:44,454 --> 00:00:45,174
+PART.1: ¿Y cómo...?
+
+25
+00:00:45,254 --> 00:00:46,894
+PART.2: Me encanta, estoy enamorada de esta ciudad.
+
+26
+00:00:47,014 --> 00:00:47,214
+PART.1: ¿Sí?
+
+27
+00:00:47,294 --> 00:00:47,574
+PART.2: Sí.
+
+28
+00:00:47,654 --> 00:00:47,774
+PART.1: ¿Por qué?
+
+29
+00:00:48,814 --> 00:00:54,694
+PART.1: Me gusta toda la parte cultural, la arquitectura, la playa que la tiene ahí...
+
+30
+00:00:55,094 --> 00:00:55,974
+PART.1: Sí, no, no, eso...
+
+31
+00:00:56,054 --> 00:00:59,254
+PART.2: Sin la playa... sin la playa yo no podría, no
+podría.
+
+32
+00:00:59,814 --> 00:01:10,334
+PART.2: De hecho, teníamos chance, era irnos para
+Madrid, que era más fácil todo y yo dije: no,
+me voy para Barcelona, si no tengo a nadie,
+pero está la playa.
+
+33
+00:01:05,374 --> 00:01:06,214
+PART.1: Por la playa...
+
+34
+00:01:10,494 --> 00:01:17,614
+PART.2: Y la universidad, o sea, la ciudad me
+cautivó, nada más investigando, me cautivó, y
+cuando llegué...
+
+35
+00:01:18,494 --> 00:01:21,094
+PART.1: ¿Y qué es lo que más te gustó de la ciudad,
+aparte del mar?
+
+36
+00:01:21,414 --> 00:01:22,094
+PART.2: ¿Del mar?
+
+37
+00:01:22,174 --> 00:01:23,454
+PART.1: Aparte, sí.
+
+38
+00:01:22,414 --> 00:01:35,534
+PART.2: La arquitectura de la ciudad me encanta y que
+tiene muchas culturas y siempre hay algo nuevo
+que están haciendo, siempre hacen espectáculos,
+es muy movida, la gente...
+
+39
+00:01:30,534 --> 00:01:30,574
+PART.1: Sí.
+
+40
+00:01:36,254 --> 00:01:37,014
+PART.1: Sí, ¿no?
+
+41
+00:01:36,454 --> 00:01:41,654
+PART.2: La verdad, no he tenido problemas con los
+SEÑOR C:atalanes, que siempre me decían que... "los
+catalanes"...
+
+42
+00:01:40,974 --> 00:01:41,574
+PART.1: Bueno...
+
+43
+00:01:42,534 --> 00:01:44,374
+PART.1: Bueno, siempre... pero eso es un estigma que
+hay.
+
+44
+00:01:44,454 --> 00:01:51,054
+PART.2: Pero sí, nada que ver, he tenido buen vínculo
+con ellos, no he tenido ningún tipo de
+problema.
+
+45
+00:01:50,414 --> 00:01:53,134
+PART.1: Sí, a ver, es que eso de los catalanes es muy
+relativo.
+
+46
+00:01:53,214 --> 00:01:58,534
+PART.1: Siempre se escuchan cosas por España, pero,
+bueno, es lo típico, ¿no?, que se escucha de
+gente de fuera que no está aquí.
+
+47
+00:01:58,614 --> 00:02:00,534
+PART.2: Yo lo he escuchado desde Venezuela,
+imagínate.
+
+48
+00:02:00,614 --> 00:02:01,894
+PART.1: ¿Desde Venezuela, en serio?
+
+49
+00:02:01,134 --> 00:02:02,694
+PART.2: Sí, yo soy venezolana.
+
+50
+00:02:02,414 --> 00:02:03,934
+PART.1: Sí, pero ¿desde allí lo has escuchado?
+
+51
+00:02:04,014 --> 00:02:05,774
+PART.2: Claro, sí, los cuentos.
+
+52
+00:02:05,854 --> 00:02:07,494
+PART.1: Ostras, pero esto es muy mal.
+
+53
+00:02:07,574 --> 00:02:11,534
+PART.2: Sí, dicen que el carácter, cómo son, que son
+muy cerrados...
+
+54
+00:02:12,054 --> 00:02:15,374
+PART.2: Pero yo no he tenido ningún tipo de problema
+con ninguno.
+
+55
+00:02:15,454 --> 00:02:25,454
+PART.1: Sí, completamente al revés, yo cuando vine
+PERSONA A:quí, todo superbién, y además, yo que hablo
+valenciano, que es muy parecido, y es como que
+nunca se han reído de mí por eso, pero... no,
+la verdad es que muy bien, sí.
+
+56
+00:02:25,534 --> 00:02:26,814
+PART.2: A Valencia sí no he ido.
+
+57
+00:02:27,174 --> 00:02:29,574
+PART.1: Bueno, está bien, es más pequeño que
+barcelona.
+
+58
+00:02:29,294 --> 00:02:29,734
+PART.2: Sí...
+
+59
+00:02:29,814 --> 00:02:34,534
+PART.1: También tenemos cosas, también tenemos cosas,
+pero, bueno, a ver, Barcelona es una capital de
+provincia y es bastante diferente.
+
+60
+00:02:34,614 --> 00:02:36,294
+PART.1: Pero, bueno, no...
+
+61
+00:02:36,374 --> 00:02:37,614
+PART.2: ¿Y tienes a tu familia allá?
+
+62
+00:02:37,974 --> 00:02:40,014
+PART.1: Sí, sí, sí, yo a mi familia la tengo allí.
+
+63
+00:02:40,454 --> 00:02:41,774
+PART.1: Pero, bueno, aquí estamos...
+
+64
+00:02:41,614 --> 00:02:43,574
+PART.2: Está cerca, puedes ir cada vez que quieras.
+
+65
+00:02:43,654 --> 00:02:44,814
+PART.1: No te creas, ¿eh?, que está cerca.
+
+66
+00:02:44,894 --> 00:02:46,374
+PART.2: Bueno, son seis horas, ¿siete?
+
+67
+00:02:46,454 --> 00:02:48,174
+PART.1: Cinco horas y media de viaje.
+
+68
+00:02:48,254 --> 00:02:50,214
+PART.2: ¿En autobús, en bus o en tren?
+
+69
+00:02:49,134 --> 00:02:49,974
+PART.1: En tren.
+
+70
+00:02:50,054 --> 00:02:52,654
+PART.1: No, en bus imposible ir, en bus es...
+
+71
+00:02:52,734 --> 00:02:53,574
+PART.2: ¿En bus es mucho?
+
+72
+00:02:53,614 --> 00:02:54,134
+PART.2: ¿Cuánto?
+
+73
+00:02:53,654 --> 00:02:54,054
+PART.1: Demasiado.
+
+74
+00:02:55,214 --> 00:03:03,694
+PART.1: Pues si son cinco horas en tren... suponiendo
+que no haya atascos y que el bus es más lento y
+que tiene que hacer toda la carretera, ¿pues
+seis, siete horas?
+
+75
+00:03:03,974 --> 00:03:06,774
+PART.2: Ah... digo, porque quiero ir a Valencia a
+conocerlo.
+
+76
+00:03:06,334 --> 00:03:10,414
+PART.1: Ah, bueno, vale, perdón, es que yo soy de una
+parte de Valencia, pero que está muy lejos, yo
+soy de Alicante.
+
+77
+00:03:10,934 --> 00:03:11,934
+PART.1: Entonces...
+
+78
+00:03:12,014 --> 00:03:15,414
+PART.1: Bueno, toda mi vida he vivido en Valencia,
+pero mi familia está en Alicante, no está en
+Valencia Valencia.
+
+79
+00:03:15,494 --> 00:03:19,734
+PART.1: Entonces, es mucho más trayecto, a Valencia
+en bus hay unas cuatro o cinco horas y en tren,
+tres.
+
+80
+00:03:20,054 --> 00:03:20,894
+PART.2: ¿Y si voy en coche?
+
+81
+00:03:21,534 --> 00:03:23,854
+PART.1: Pues unas tres horas y pico, tres o cuatro
+horas.
+
+82
+00:03:23,934 --> 00:03:26,134
+PART.2: Entonces, nos podemos echar un viaje.
+
+83
+00:03:26,214 --> 00:03:28,854
+PART.1: Sí, claro que sí, además, conocer sitios está
+muy chulo.
+
+84
+00:03:28,934 --> 00:03:30,854
+PART.2: Sí, y tengo amistades allá.
+
+85
+00:03:30,934 --> 00:03:31,694
+PART.1: ¿Sí, en Valencia?
+
+86
+00:03:31,414 --> 00:03:32,254
+PART.2: Sí, de Venezuela.
+
+87
+00:03:32,934 --> 00:03:35,054
+PART.1: Es curioso, ¿no?, lo pequeño que es el mundo
+al final.
+
+88
+00:03:35,134 --> 00:03:40,614
+PART.2: No, es que los venezolanos ahorita estamos en
+todas partes, estamos regados en todas partes.
+
+89
+00:03:40,694 --> 00:03:41,894
+PART.1: ¿Y cómo va por allí el tema?
+
+90
+00:03:42,214 --> 00:03:46,694
+PART.2: No está bien, entonces... ahorita tú
+consigues venezolanos donde sea.
+
+91
+00:03:47,654 --> 00:03:48,494
+PART.1: No, sí...
+
+92
+00:03:48,574 --> 00:03:52,814
+PART.2: Y quiero ir para allá para ver a la gente y
+Valencia, que dicen, es lindo.
+
+93
+00:03:53,054 --> 00:03:55,334
+PART.1: Sí, es bastante linda, la verdad es que sí.
+
+94
+00:03:55,774 --> 00:04:00,454
+PART.1: Pero, bueno, estás en Barcelona, quejarnos no
+nos podemos quejar, que es lo que tú dices,
+tenemos de todo.
+
+95
+00:04:00,534 --> 00:04:06,014
+PART.2: Yo ya había ido a Madrid tres veces, y nada,
+no, no me gusta, no me gusta.
+
+96
+00:04:06,134 --> 00:04:18,214
+PART.2: O sea, es muy linda como ciudad, pero... no
+sé, es que Barcelona tiene algo cautivador, no
+sé, tiene algo que me... me... que conmigo se
+compenetró totalmente.
+
+97
+00:04:06,174 --> 00:04:06,774
+PART.1: Pero ¿por qué?
+
+98
+00:04:07,094 --> 00:04:07,854
+PART.1: Sí...
+
+99
+00:04:19,214 --> 00:04:26,494
+PART.1: Madrid fui una vez solamente, o sea que no te
+puedo decir, porque era muy pequeño, pero
+tampoco le vi una gracia espectacular, es un
+pueblo pero en forma de ciudad.
+
+100
+00:04:26,574 --> 00:04:28,934
+PART.2: Pero lo veo como que es la moda ahorita.
+
+101
+00:04:29,014 --> 00:04:30,694
+PART.2: Todo el mundo está en Madrid.
+
+102
+00:04:31,254 --> 00:04:33,854
+PART.2: Lo veo como si ahorita es la ciudad de moda.
+
+103
+00:04:34,374 --> 00:04:34,974
+PART.1: ¿Sí?
+
+104
+00:04:35,054 --> 00:04:43,094
+PART.2: Sí, por lo menos por la gente que yo conozco,
+todos van para Madrid, y les digo: "Ustedes no
+saben lo que se están perdiendo en Barcelona".
+
+105
+00:04:43,774 --> 00:04:47,854
+PART.2: Porque es que es toda la parte de Cataluña,
+no es solo la ciudad.
+
+106
+00:04:48,534 --> 00:04:54,294
+PART.2: Puedes conocer tantos lugares alrededor de...
+de la ciudad, hermosos.
+
+107
+00:04:54,574 --> 00:05:00,174
+PART.2: Yo nada más en estos días fui, bueno, unos
+lagos, unos ríos... o sea, puedes ir, Andorra
+también está cerca...
+
+108
+00:05:00,254 --> 00:05:01,094
+PART.1: Sí, Andorra está cerca.
+
+109
+00:05:01,174 --> 00:05:02,414
+PART.2: O sea, tienes todo.
+
+110
+00:05:02,494 --> 00:05:04,374
+PART.1: Sí... sí, estoy completamente...
+
+111
+00:05:03,534 --> 00:05:04,414
+PART.2: ¿Qué más quieres?
+
+112
+00:05:05,014 --> 00:05:10,494
+PART.1: O sea, montaña, mar, nieve... tienes todo aquí.
+
+113
+00:05:08,334 --> 00:05:09,254
+PART.1: Sí, sí.
+
+114
+00:05:09,734 --> 00:05:18,334
+PART.2: Estamos aquí hablando maravillas de
+Barcelona.
+
+115
+00:05:10,694 --> 00:05:14,734
+PART.1: No, no, desde luego, y de hecho, es eso, que
+tienes el mar aquí, la montaña aquí... es
+increíble.
+
+116
+00:05:15,054 --> 00:05:15,934
+PART.1: Pero sí, sí.
+

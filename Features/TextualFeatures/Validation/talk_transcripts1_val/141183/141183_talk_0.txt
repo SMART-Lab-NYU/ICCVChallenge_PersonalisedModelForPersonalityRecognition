@@ -1,0 +1,121 @@
+1
+00:00:01,684 --> 00:00:03,404
+PART.1: Bueno...
+
+2
+00:00:03,484 --> 00:00:05,204
+PART.1: Hay que buscar de qu�
+hablar.
+
+3
+00:00:05,484 --> 00:00:07,084
+PART.1: �T� haces el m�ster,
+entonces?
+
+4
+00:00:07,164 --> 00:00:07,764
+PART.2: S�.
+
+5
+00:00:08,524 --> 00:00:09,924
+PART.1: Ya la hemos liado.
+
+6
+00:00:10,124 --> 00:00:12,084
+PART.1: �Ibas a hacer el m�ster?
+
+7
+00:00:12,164 --> 00:00:14,284
+PART.2: No, no. No he hecho todav�a...
+
+8
+00:00:14,364 --> 00:00:17,444
+PART.1: Ah, est�s en la carrera.
+�En ingenier�a inform�tica?
+
+9
+00:00:17,524 --> 00:00:18,484
+PART.2: S�, s�.
+
+10
+00:00:18,564 --> 00:00:20,364
+PART.1: Yo hice la aeron�utica.
+
+11
+00:00:20,444 --> 00:00:22,764
+PART.1: Ten�a alguna carrera
+de programaci�n...
+
+12
+00:00:22,844 --> 00:00:26,044
+PART.1: Pero en cuanto empec� a
+programar digo: "Esto me flipa".
+
+13
+00:00:26,124 --> 00:00:27,324
+PART.1: Me gusta mucho.
+
+14
+00:00:27,404 --> 00:00:29,244
+PART.1: La aeron�utica me
+gustaba, pero...
+
+15
+00:00:29,324 --> 00:00:31,164
+PART.1: Bueno, cosas que s� y
+cosas que no.
+
+16
+00:00:31,244 --> 00:00:34,724
+PART.1: Lo que es tema de
+f�sica... La acab�,
+
+17
+00:00:34,804 --> 00:00:37,684
+PART.1: pero luego me met� en el
+m�ster de Inteligencia Artificial.
+
+18
+00:00:37,764 --> 00:00:40,204
+PART.1: Y casi todos mis
+compa�eros ven�an de inform�tica.
+
+19
+00:00:40,284 --> 00:00:42,124
+PART.1: Era como: "�Qu� haces
+aqu�?".
+
+20
+00:00:43,364 --> 00:00:45,444
+PART.1: Hice la Aeron�utica
+porque en Castelldefels
+
+21
+00:00:45,524 --> 00:00:47,364
+PART.1: te dan a elegir
+aeron�utica o telecos.
+
+22
+00:00:47,564 --> 00:00:49,604
+PART.1: No. ingenier�a agr�noma
+tambi�n hay.
+
+23
+00:00:50,364 --> 00:00:51,724
+PART.1: Y mi hermano ya es
+teleco,
+
+24
+00:00:51,804 --> 00:00:54,844
+PART.1: la agr�noma no me llamaba
+nada y dije: "Pues aeron�utica".
+
+25
+00:00:55,084 --> 00:00:57,244
+PART.1: S�. Y luego hice...
+
+26
+00:00:57,564 --> 00:01:00,204
+PART.1: Inteligencia Artificial,
+cada vez me gustaba m�s.
+

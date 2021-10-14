@@ -1,0 +1,1116 @@
+1
+00:00:00,170 --> 00:00:00,890
+PART.1: A ver...
+
+2
+00:00:01,890 --> 00:00:03,730
+PART.2: Empiezas... empieza tú,
+si quieres.
+
+3
+00:00:03,850 --> 00:00:06,130
+PART.1: Si quieres, podemos
+empezar por piedra, papel y tijera
+otra vez.
+
+4
+00:00:06,650 --> 00:00:08,170
+PART.2: Da igual, empieza tú.
+
+5
+00:00:09,250 --> 00:00:09,890
+PART.1: ¿Segura?
+
+6
+00:00:10,010 --> 00:00:11,130
+PART.2: Sí, da igual, da igual.
+
+7
+00:00:11,250 --> 00:00:11,610
+PART.1: Vale.
+
+8
+00:00:11,690 --> 00:00:13,130
+PART.2: Yo antes no he acertado,
+te aviso.
+
+9
+00:00:15,450 --> 00:00:17,170
+PART.1: Bueno, la siguiente te
+tocará a ti primero.
+
+10
+00:00:17,650 --> 00:00:18,130
+PART.2: Vale.
+
+11
+00:00:18,490 --> 00:00:19,810
+PART.1: Para ser un poco
+equitativos.
+
+12
+00:00:19,890 --> 00:00:20,450
+PART.2: Exacto.
+
+13
+00:00:21,170 --> 00:00:25,050
+PART.1: Este... a ver, ¿de qué
+color es mi animal?
+
+14
+00:00:26,090 --> 00:00:27,170
+PART.2: ¿De qué color es?
+
+15
+00:00:27,290 --> 00:00:30,170
+PART.2: Es que tiene varios colores.
+
+16
+00:00:31,250 --> 00:00:33,930
+PART.1: ¿Me podrías nombrar cada
+uno de los colores?
+
+17
+00:00:34,250 --> 00:00:37,290
+PART.2: Eh... bueno, no sé si te
+puedo nombrar cada uno.
+
+18
+00:00:37,370 --> 00:00:39,850
+PART.2: Tiene, por ejemplo, blanco,
+por ejemplo.
+
+19
+00:00:40,370 --> 00:00:41,610
+PART.1: ¿Y tiene... solo blanco?
+
+20
+00:00:41,690 --> 00:00:44,250
+PART.2: Solamente puedes
+preguntar eso, ahora tú pregúntame a
+mí.
+
+21
+00:00:44,730 --> 00:00:46,050
+PART.2: Ay, ahora yo te pregunto a ti.
+
+22
+00:00:46,130 --> 00:00:46,730
+PART.1: Sí, dale.
+
+23
+00:00:46,810 --> 00:00:49,090
+PART.2: ¿Es un mamífero o es un
+ave?
+
+24
+00:00:49,290 --> 00:00:50,290
+PART.1: Es un mamífero.
+
+25
+00:00:50,690 --> 00:00:51,890
+PART.2: Es un mamífero, vale.
+
+26
+00:00:51,970 --> 00:00:54,530
+PART.2: Ahora tú, ya llevamos
+una, ahora la segunda.
+
+27
+00:00:55,490 --> 00:00:58,090
+PART.1: ¿Tiene alguna forma
+la piel?
+
+28
+00:00:58,410 --> 00:01:03,370
+PART.1: O sea, no la forma del animal,
+si no si la piel tiene rayas, tiene
+puntos...
+
+29
+00:01:03,930 --> 00:01:04,490
+PART.2: No.
+
+30
+00:01:04,930 --> 00:01:05,490
+PART.1: ¿No tiene?
+
+31
+00:01:05,570 --> 00:01:08,410
+PART.2: No, no, la forma del...
+no.
+
+32
+00:01:08,690 --> 00:01:10,370
+PART.2: A ver, la piel en sí, no.
+
+33
+00:01:10,810 --> 00:01:12,530
+PART.1: Vale, entonces,
+descartado.
+
+34
+00:01:13,130 --> 00:01:14,090
+PART.2: Ahora me toca a mí.
+
+35
+00:01:14,930 --> 00:01:24,730
+PART.2: A ver, me has dicho que era
+un mamífero, vamos a ver, eh...
+mamífero, vamos a ver, ¿tiene cuatro
+patas?
+
+36
+00:01:25,570 --> 00:01:26,770
+PART.1: Sí, tiene cuatro patas.
+
+37
+00:01:27,570 --> 00:01:28,210
+PART.1: Vale.
+
+38
+00:01:28,290 --> 00:01:29,810
+PART.1: Esa es la única que
+puedes preguntar.
+
+39
+00:01:30,650 --> 00:01:32,650
+PART.1: Este... a ver.
+
+40
+00:01:32,730 --> 00:01:40,090
+PART.1: Tiene varios
+colores y no tiene rayas y es
+blanco.
+
+41
+00:01:40,930 --> 00:01:42,610
+PART.2: Puede tener blanco, es
+que es un poco...
+
+42
+00:01:42,690 --> 00:01:43,290
+PART.1: Sí, sí.
+
+43
+00:01:43,370 --> 00:01:44,690
+PART.1: Bueno, es un poco
+difuso.
+
+44
+00:01:45,690 --> 00:01:47,970
+PART.1: Eh... ¿de qué tipo...?
+
+45
+00:01:49,290 --> 00:01:54,050
+PART.1: Utilizando tu pregunta, ¿es un
+mamífero o es un ave o es...?
+
+46
+00:01:54,130 --> 00:01:56,050
+PART.2: No, no es un mamífero.
+
+47
+00:01:56,810 --> 00:01:57,490
+PART.2: Es un ave.
+
+48
+00:01:57,570 --> 00:01:58,570
+PART.1: Es un ave.
+
+49
+00:01:59,770 --> 00:02:02,770
+PART.1: Vale, ya creo que por ahí va,
+ya creo que sé.
+
+50
+00:02:03,130 --> 00:02:10,730
+PART.2: Eh... el mío, a ver,
+eh.... supongo... come carne, ¿no?
+
+51
+00:02:11,370 --> 00:02:11,970
+PART.1: No.
+
+52
+00:02:12,050 --> 00:02:12,850
+PART.2: ¿No come carne?
+
+53
+00:02:12,930 --> 00:02:14,450
+PART.1: No come carne, es
+vegetariano.
+
+54
+00:02:15,130 --> 00:02:21,330
+PART.2: Ah, a ver, es un
+mamífero, tiene cuatro patas, ¿y es
+vegetariano?
+
+55
+00:02:21,770 --> 00:02:22,370
+PART.1: Sí.
+
+56
+00:02:22,570 --> 00:02:25,170
+PART.2: Uf... ahora sí que me has
+dejado...
+
+57
+00:02:26,650 --> 00:02:27,210
+PART.1: Ya.
+
+58
+00:02:28,250 --> 00:02:29,290
+PART.1: Está complicado.
+
+59
+00:02:31,010 --> 00:02:32,890
+PART.2: Uy, es vegetariano, bua.
+
+60
+00:02:33,370 --> 00:02:34,530
+PART.1: Sí, a ver...
+
+61
+00:02:34,690 --> 00:02:36,450
+PART.2: Pues no sé, ahora ya me
+he perdido.
+
+62
+00:02:36,970 --> 00:02:45,370
+PART.1: Predomina el blanco,
+este... es... es un ave y no tiene
+manchas en la
+piel.
+
+63
+00:02:46,010 --> 00:02:52,690
+PART.1: Este... ¿en qué parte,
+exactamente, se lo puede encontrar a
+este... a este animal?
+
+64
+00:02:53,090 --> 00:02:54,130
+PART.1: ¿Está dentro...?
+
+65
+00:02:54,210 --> 00:02:56,450
+PART.1: ¿Se puede encontrar
+en el área urbana?
+
+66
+00:02:56,970 --> 00:02:58,730
+PART.2: No, no, no,
+en la urbana no.
+
+67
+00:02:59,050 --> 00:02:59,850
+PART.1: ¿Fuera del área urbana?
+
+68
+00:02:59,930 --> 00:03:00,330
+PART.2: Sí.
+
+69
+00:03:01,170 --> 00:03:03,570
+PART.1: ¿Exactamente, qué parte?
+
+70
+00:03:06,210 --> 00:03:12,210
+PART.2: Es que no lo sé, te
+mentiría porque... pero el área
+urbana, normalmente, no, bueno, no.
+
+71
+00:03:13,130 --> 00:03:16,850
+PART.1: No se encuentra en el
+área urbana, entonces, descartadas
+todas las opciones que tenía.
+
+72
+00:03:17,010 --> 00:03:17,650
+PART.2: Ahora me toca a mí.
+
+73
+00:03:17,890 --> 00:03:20,730
+PART.2: Es que... es vegetariano,
+me has dicho.
+
+74
+00:03:21,810 --> 00:03:24,290
+PART.2: Ay, ay, ay, vegetariano.
+
+75
+00:03:25,850 --> 00:03:26,810
+PART.2: ¿Tiene una trompa?
+
+76
+00:03:27,490 --> 00:03:29,290
+PART.1: No tiene una trompa, no.
+
+77
+00:03:30,010 --> 00:03:30,730
+PART.1: No tiene trompa.
+
+78
+00:03:32,850 --> 00:03:33,410
+PART.1: A ver...
+
+79
+00:03:33,570 --> 00:03:34,330
+PART.2: No tiene trompa.
+
+80
+00:03:34,450 --> 00:03:35,530
+PART.1: No, no tiene trompa.
+
+81
+00:03:36,170 --> 00:03:46,290
+PART.1: En mi caso, entonces, es animal,
+es, es... a ver, es un ave, blanco,
+no tiene rayas y no se lo
+encuentra dentro de la ciudad.
+
+82
+00:03:47,010 --> 00:03:50,090
+PART.1: Entonces, obviamente no
+es... este...
+
+83
+00:03:51,450 --> 00:04:00,290
+PART.1: A ver, exactamente,
+entonces, ¿este animal se lo puede
+encontrar dentro... alrededor
+de la playa?
+
+84
+00:04:01,050 --> 00:04:02,090
+PART.1: ¿Cerca del mar?
+
+85
+00:04:02,210 --> 00:04:03,170
+PART.2: No, no.
+
+86
+00:04:03,250 --> 00:04:03,650
+PART.1: ¿No?
+
+87
+00:04:03,730 --> 00:04:06,450
+PART.2: No, yo creo que no.
+
+88
+00:04:08,010 --> 00:04:11,170
+PART.2: Tampoco sé mucho de la vida de
+este animal, también te lo digo,
+pero vaya, creo que no.
+
+89
+00:04:11,370 --> 00:04:16,890
+PART.1: Ya. Entonces, descartadas
+todas las opciones que tenía, ahora
+sí que me la pusiste difícil.
+
+90
+00:04:17,090 --> 00:04:22,650
+PART.2: Sí, pues anda que tú
+con mamífero, que no come carne,
+que...
+
+91
+00:04:26,890 --> 00:04:28,650
+PART.2: ¿Tiene el cuello muy grande,
+muy alto?
+
+92
+00:04:28,890 --> 00:04:30,450
+PART.1: No tiene, no tiene un
+cuello...
+
+93
+00:04:30,530 --> 00:04:31,650
+PART.2: No tiene el cuello muy
+alto.
+
+94
+00:04:31,730 --> 00:04:35,050
+PART.1: De hecho, por así
+decirlo, se podría decir que no
+tiene cuello.
+
+95
+00:04:35,330 --> 00:04:36,210
+PART.2: Ah, que no tiene cuello.
+
+96
+00:04:36,010 --> 00:04:39,250
+PART.1: Se podría decir, no te
+sabría decir a ciencia cierta.
+
+97
+00:04:38,770 --> 00:04:40,170
+PART.2: Bueno, bueno, vale.
+
+98
+00:04:40,530 --> 00:04:41,130
+PART.1: Ya...
+
+99
+00:04:41,930 --> 00:04:45,850
+PART.1: Entonces, muy bien, descartadas
+todas las opciones anteriores, muy
+bien.
+
+100
+00:04:46,370 --> 00:04:49,090
+PART.1: ¿En qué periodo histórico se
+encuentra este...?
+
+101
+00:04:49,370 --> 00:04:50,290
+PART.2: No tengo ni idea.
+
+102
+00:04:50,930 --> 00:05:02,170
+PART.1: O sea, pero a lo que me
+refiero es que, ¿se lo puedo
+encontrar actualmente o es, por
+ejemplo, dentro de la época de los
+dinosaurios?
+
+103
+00:05:01,770 --> 00:05:04,170
+PART.2: No, no, se puede
+encontrar actualmente.
+
+104
+00:05:04,490 --> 00:05:08,330
+PART.1: Listo, entonces,
+eliminado la idea
+de los dinosaurios.
+
+105
+00:05:08,410 --> 00:05:16,450
+PART.2: A ver, el mío no tiene
+cuello, eh...
+no tiene cuello, ¿es de agua o está
+en tierra?
+
+106
+00:05:16,530 --> 00:05:17,250
+PART.1: Es de tierra.
+
+107
+00:05:17,730 --> 00:05:18,730
+PART.2: Es de tierra.
+
+108
+00:05:18,810 --> 00:05:21,330
+PART.1: Sí, es de tierra, sí, sí.
+
+109
+00:05:21,610 --> 00:05:22,410
+PART.2: Es de tierra...
+
+110
+00:05:22,490 --> 00:05:23,130
+PART.1: Vale.
+
+111
+00:05:24,050 --> 00:05:34,770
+PART.1: Este... ahora bien, el ave que yo
+te menciono, ¿es de montaña o... es
+de montaña o no es de montaña?
+
+112
+00:05:38,810 --> 00:05:39,730
+PART.2: Es que no lo sé.
+
+113
+00:05:41,450 --> 00:05:41,930
+PART.1: ¿No lo sabes?
+
+114
+00:05:42,010 --> 00:05:42,650
+PART.2: No lo sé.
+
+115
+00:05:43,090 --> 00:05:52,130
+PART.1: O sea, a lo que
+me refiero es que... más o menos,
+tengo una idea porque, a ver,
+este... tú me decías que es de color
+blanco exactamente.
+
+116
+00:05:52,210 --> 00:06:00,610
+PART.2: A ver, por ejemplo, en
+este dibujo predomina, a lo mejor
+en... no siempre los... tiene otros
+colores, para que me entiendas, ¿no?
+
+117
+00:06:00,690 --> 00:06:01,730
+PART.1: Sí, sí, sí...
+
+118
+00:06:02,130 --> 00:06:04,450
+PART.2: Puedes arriesgarte a
+decir algo por si... por si...
+
+119
+00:06:04,890 --> 00:06:13,410
+PART.1: Yo, más o menos, ya tengo
+una idea, pero quisiera saber si,
+exactamente, se encuentra dentro de
+planicies altas, o sea,
+montañas y otras cosas.
+
+120
+00:06:14,090 --> 00:06:17,930
+PART.2: Es que ya te digo que es
+un animal que no sé muy bien...
+
+121
+00:06:18,530 --> 00:06:19,850
+PART.1: ¿Nunca lo habías visto
+antes?
+
+122
+00:06:19,930 --> 00:06:31,050
+PART.2: Sí, sí, hombre, lo he
+visto, pero que no es una cosa que
+sepa mucho... que no conozca mucho
+su ambiente y su todo, su
+medioambiente... no lo sé muy bien.
+
+123
+00:06:31,130 --> 00:06:31,610
+PART.1: Ya.
+
+124
+00:06:31,890 --> 00:06:33,690
+PART.2: No lo sé,
+pero bueno es un...
+
+125
+00:06:34,090 --> 00:06:35,090
+PART.1: No pasa nada.
+
+126
+00:06:35,570 --> 00:06:42,450
+PART.2: A ver, ¿tiene la... de
+esto duro... tiene dientes grandes
+el mío?
+
+127
+00:06:43,330 --> 00:06:44,850
+PART.1: No lo sé, no creo.
+
+128
+00:06:45,170 --> 00:06:47,610
+PART.2: No tiene dientes
+grandes... joder, es que no tengo ni
+idea, eh.
+
+129
+00:06:48,570 --> 00:06:49,170
+PART.1: Vale.
+
+130
+00:06:49,770 --> 00:06:52,730
+PART.1: Tampoco yo tengo
+idea, así que estamos en lo mismo.
+
+131
+00:06:54,970 --> 00:06:59,290
+PART.1: Entonces... sería la octava.
+
+132
+00:07:00,250 --> 00:07:00,890
+PART.2: Sí.
+
+133
+00:07:02,330 --> 00:07:03,490
+PART.1: Es que me has matado.
+
+134
+00:07:03,890 --> 00:07:04,850
+PART.2: Yo es que...
+
+135
+00:07:05,290 --> 00:07:07,290
+PART.1: Exactamente,
+¿en dónde has visto a este animal?
+
+136
+00:07:07,810 --> 00:07:08,610
+PART.1: ¿En la televisión?
+
+137
+00:07:09,410 --> 00:07:11,090
+PART.2: Bueno, lo he visto en la
+televisión, sí.
+
+138
+00:07:11,410 --> 00:07:13,530
+PART.1: ¿Nunca lo has visto en...
+directamente?
+
+139
+00:07:13,810 --> 00:07:17,650
+PART.2: Pues... creo que no, no
+he visto ninguno directamente, no.
+
+140
+00:07:18,290 --> 00:07:19,210
+PART.1: En la televisión.
+
+141
+00:07:19,290 --> 00:07:20,250
+PART.2: Creo que no he visto, no.
+
+142
+00:07:20,450 --> 00:07:24,010
+PART.1: Creo que ya, más o menos,
+sé, sé por dónde... por dónde va.
+
+143
+00:07:24,090 --> 00:07:27,170
+PART.1: Yo creo que en la novena y en la
+décima pregunta adivinaré, creo.
+
+144
+00:07:27,530 --> 00:07:31,690
+PART.2: A ver, este... me has
+dicho que no era de agua, me has
+dicho, eh.
+
+145
+00:07:31,770 --> 00:07:32,730
+PART.1: No, no, no.
+
+146
+00:07:32,810 --> 00:07:38,610
+PART.2: No era de agua y es un
+mamífero y tiene... es que no tengo
+ni idea, ni tiene cuatro patas...
+
+147
+00:07:38,970 --> 00:07:40,090
+PART.1: Tiene cuatro patas.
+
+148
+00:07:40,170 --> 00:07:41,490
+PART.2: No, ya, ya, ya.
+
+149
+00:07:41,890 --> 00:07:44,770
+PART.2: Tiene cuatro patas,
+es un mamífero y no es de agua...
+
+150
+00:07:47,250 --> 00:07:50,290
+PART.2: no tiene dientes,
+no tiene cuello.
+
+151
+00:07:50,650 --> 00:07:56,210
+PART.2: Ay... de verdad que
+no tengo ni idea, ¿eh?
+
+152
+00:07:57,330 --> 00:07:58,690
+PART.1: Pregúntame cualquier
+cosa.
+
+153
+00:08:01,170 --> 00:08:02,850
+PART.2: ¿Está en el zoo, por
+ejemplo?
+
+154
+00:08:03,810 --> 00:08:04,810
+PART.1: Es probable que sí.
+
+155
+00:08:04,890 --> 00:08:05,730
+PART.2: Está en el zoo.
+
+156
+00:08:05,810 --> 00:08:07,090
+PART.1: Es lo más probable
+que sí.
+
+157
+00:08:07,170 --> 00:08:07,690
+PART.2: Que sí.
+
+158
+00:08:07,770 --> 00:08:11,770
+PART.1: No te sabría decir si en
+el zoo de Barcelona, pero sí es
+probable...
+
+159
+00:08:11,250 --> 00:08:12,970
+PART.2: Puede ser que esté
+en los dos.
+
+160
+00:08:13,890 --> 00:08:16,450
+PART.1: Es que nunca me he ido al
+zoo de Barcelona, entonces, no te
+sabría decir.
+
+161
+00:08:16,530 --> 00:08:20,250
+PART.1: Pero te puedo decir que en un zoo
+alrededor del mundo es probable que
+sí esté en un zoo.
+
+162
+00:08:20,890 --> 00:08:21,450
+PART.1: Vale.
+
+163
+00:08:22,450 --> 00:08:27,090
+PART.1: A ver, como pregunta,
+puede ser una pregunta, normalmente.
+
+164
+00:08:27,730 --> 00:08:32,410
+PART.1: Este... ¿simboliza algo de algún
+país en general?
+
+165
+00:08:33,930 --> 00:08:34,970
+PART.2: No, yo creo que no.
+
+166
+00:08:35,250 --> 00:08:35,850
+PART.1: ¿No?
+
+167
+00:08:35,930 --> 00:08:36,690
+PART.2: No.
+
+168
+00:08:41,810 --> 00:08:43,410
+PART.2: No, creo que no, eh.
+
+169
+00:08:43,730 --> 00:08:46,330
+PART.1: Vale, entonces,
+queda eliminada esa...
+
+170
+00:08:47,050 --> 00:08:47,970
+PART.2: A ver.
+
+171
+00:08:53,250 --> 00:08:54,890
+PART.2: Es que no se me ocurre,
+¿eh?
+
+172
+00:08:56,010 --> 00:08:58,330
+PART.2: Está en el zoo me has
+dicho, puede ser.
+
+173
+00:08:59,130 --> 00:09:05,370
+PART.2: Eh... ¿es bastante... bastante
+salvaje, bastante... o no?
+
+174
+00:09:05,930 --> 00:09:07,450
+PART.2: Bueno, bastante fiera.
+
+175
+00:09:08,090 --> 00:09:10,410
+PART.1: Yo creo que es bastante
+tranquilo hasta que le atacan.
+
+176
+00:09:11,610 --> 00:09:13,290
+PART.2: Bastante tranquilo hasta
+que lo atacan.
+
+177
+00:09:13,810 --> 00:09:16,410
+PART.1: Creo, pero yo creo que es
+lo más probable que sí.
+
+178
+00:09:16,690 --> 00:09:17,170
+PART.2: ¿Sí?
+
+179
+00:09:17,530 --> 00:09:18,170
+PART.1: Creo.
+
+180
+00:09:18,810 --> 00:09:22,730
+PART.2: Bueno... bueno, ahora ya
+la última diré lo que se me ocurra y
+ya está.
+
+181
+00:09:22,810 --> 00:09:24,890
+PART.1: Yo también, o sea, yo
+también.
+
+182
+00:09:26,610 --> 00:09:28,610
+PART.1: Este... y como última
+pregunta.
+
+183
+00:09:32,650 --> 00:09:36,810
+PART.1: Este... claro, ¿se lo
+puede encontrar en Europa o no?
+
+184
+00:09:37,690 --> 00:09:39,930
+PART.2: Sí, yo creo que sí.
+
+185
+00:09:40,010 --> 00:09:44,490
+PART.2: Es que ya te digo que es un ave
+que no la... no sé muy bien de su...
+
+186
+00:09:45,970 --> 00:09:47,050
+PART.2: pero...
+
+187
+00:09:49,250 --> 00:09:50,130
+PART.2: yo creo que sí.
+
+188
+00:09:53,330 --> 00:09:54,130
+PART.2: Es que no lo sé.
+
+189
+00:09:55,210 --> 00:09:57,090
+PART.2: Y yo, por último,
+voy a decirte algo.
+
+190
+00:09:58,730 --> 00:10:04,290
+PART.2: Es que no sé si
+es... ¿un hipopótamo?
+
+191
+00:10:04,370 --> 00:10:04,890
+PART.2: No.
+
+192
+00:10:07,250 --> 00:10:08,290
+PART.1: Casi.
+
+193
+00:10:08,370 --> 00:10:09,410
+PART.2: Un rinoceronte.
+
+194
+00:10:10,370 --> 00:10:11,610
+PART.1: Sí, rinoceronte.
+
+195
+00:10:11,690 --> 00:10:12,370
+PART.2: Ah, ¿rinoceronte?
+
+196
+00:10:12,450 --> 00:10:13,050
+PART.1: Sí, un rinoceronte.
+
+197
+00:10:12,890 --> 00:10:15,010
+PART.2: Tenía entre hipopótamo y
+rinoceronte.
+
+198
+00:10:15,570 --> 00:10:20,530
+PART.1: En mi caso, bueno... es
+que es bastante complicado con la
+información que me has dado.
+
+199
+00:10:20,650 --> 00:10:21,930
+PART.2: Ya, es que... bua.
+
+200
+00:10:22,010 --> 00:10:22,810
+PART.1: No te preocupes.
+
+201
+00:10:22,970 --> 00:10:24,050
+PART.1: Este, ¿es...?
+
+202
+00:10:24,730 --> 00:10:25,650
+PART.2: Tú di un ave.
+
+203
+00:10:25,730 --> 00:10:27,250
+PART.1: Sí, ¿es un águila?
+
+204
+00:10:27,650 --> 00:10:28,330
+PART.2: No.
+
+205
+00:10:28,890 --> 00:10:29,530
+PART.1: ¿Es una garza?
+
+206
+00:10:29,610 --> 00:10:30,330
+PART.2: No.
+
+207
+00:10:31,170 --> 00:10:31,970
+PART.1: Bueno, me quitaré...
+
+208
+00:10:32,050 --> 00:10:37,450
+PART.2: Es un... es que te iba a
+decir, yo tengo en casa muchos,
+dicen que trae suerte, eh... o mala
+suerte.
+
+209
+00:10:37,530 --> 00:10:38,250
+PART.2: Un búho.
+
+210
+00:10:38,730 --> 00:10:39,410
+PART.1: Ah, un búho.
+
+211
+00:10:39,490 --> 00:10:41,210
+PART.2: Es que un búho, no sé yo
+exactamente mucho.
+
+212
+00:10:41,290 --> 00:10:42,490
+PART.1: Los búhos están en la
+ciudad.
+
+213
+00:10:42,930 --> 00:10:44,050
+PART.2: ¿Los búhos están en la
+ciudad?
+
+214
+00:10:44,970 --> 00:10:45,610
+PART.1: Sí.
+
+215
+00:10:46,610 --> 00:10:49,690
+PART.1: En los parques están
+los búhos, en la noche.
+
+216
+00:10:49,770 --> 00:10:55,810
+PART.1: No sé aquí en Barcelona,
+pero, por ejemplo, en Nueva York tú
+ves a los búhos.
+
+217
+00:10:57,210 --> 00:11:00,890
+PART.1: A los búhos los ves... es que, a
+ver, los búhos van...
+
+218
+00:11:00,970 --> 00:11:07,650
+PART.2: Yo sé que son de noche y
+todo eso, pero yo no... yo creo que
+en el zoo creo que he visto uno, es
+que no lo sé porque es un animal
+que tampoco...
+
+219
+00:11:07,850 --> 00:11:12,370
+PART.2: Yo tengo en mi casa búhos
+que dicen que trae... hay gente que
+dice que trae suerte, pero cosas así
+un poco...
+
+220
+00:11:12,650 --> 00:11:14,490
+PART.1: Pero no es blanco, no
+predomina...
+
+221
+00:11:14,570 --> 00:11:15,650
+PART.2: Tiene cositas blancas.
+
+222
+00:11:15,730 --> 00:11:17,090
+PART.1: Pero no predomina el
+blanco.
+
+223
+00:11:17,730 --> 00:11:19,610
+PART.2: Es que, claro, pero no
+todos son igual.
+
+224
+00:11:20,250 --> 00:11:21,290
+PART.1: No, no lo sé.
+
+225
+00:11:21,370 --> 00:11:22,850
+PART.2: No, no son todos igual,
+¿no?
+
+226
+00:11:22,930 --> 00:11:25,010
+PART.1: Bueno, digamos que la
+descripción...
+
+227
+00:11:25,090 --> 00:11:26,170
+PART.2: Es que es muy complicado.
+
+228
+00:11:28,130 --> 00:11:29,330
+PART.2: Muy complicado.
+
+229
+00:11:29,410 --> 00:11:29,970
+PART.1: Bueno...
+
+230
+00:11:30,130 --> 00:11:30,730
+PART.2: Bueno...
+
+231
+00:11:30,930 --> 00:11:31,570
+PART.1: No pasa nada...
+
+232
+00:11:31,650 --> 00:11:42,290
+PART.2: Yo antes tampoco la
+acerté, ahora digo... pero ni idea,
+eh, ni idea porque digo: "¿Cuatro
+patas? Fiero, no sé si es fiero o no
+es fiero un rinoceronte".
+
+233
+00:11:42,890 --> 00:11:44,010
+PART.1: No pasa nada.
+
+234
+00:11:46,010 --> 00:11:48,690
+PART.2: Bueno... es que para
+decir un búho...
+
+235
+00:11:50,010 --> 00:11:51,970
+PART.1: Pero tampoco pasa nada, o
+sea que no te preocupes.
+

@@ -1,0 +1,88 @@
+121
+00:06:00,125 --> 00:06:01,365
+PART.1: ¿Sí?
+
+122
+00:06:01,445 --> 00:06:03,365
+PART.2: ¿Es la sexta ahora?
+
+123
+00:06:03,445 --> 00:06:04,565
+PART.1: Exacto.
+
+124
+00:06:04,645 --> 00:06:06,245
+PART.2: Eh...
+
+125
+00:06:10,565 --> 00:06:11,925
+PART.2: Es que claro...
+
+126
+00:06:12,005 --> 00:06:14,085
+PART.2: Que no tiene pelaje...
+
+127
+00:06:14,485 --> 00:06:16,245
+PART.2: Que sí, pero...
+
+128
+00:06:18,725 --> 00:06:20,245
+PART.1: Es confuso eso.
+
+129
+00:06:20,445 --> 00:06:22,285
+PART.1: Sí que tienen pelo, pero
+no sé.
+
+130
+00:06:23,045 --> 00:06:24,565
+PART.1: No te voy a liar más.
+
+131
+00:06:27,805 --> 00:06:30,485
+PART.2: ¿Y que puede ser
+doméstico y no tiene pelaje?
+
+132
+00:06:30,685 --> 00:06:32,045
+PART.2: Es que es muy raro.
+
+133
+00:06:33,445 --> 00:06:35,525
+PART.1: Igual sí que es pelaje, pero...
+
+134
+00:06:35,965 --> 00:06:38,925
+PART.1: No es lo que tú pensarías
+si te digo que tiene pelaje.
+
+135
+00:06:42,005 --> 00:06:45,645
+PART.2: ¿Tiene... garras?
+
+136
+00:06:48,605 --> 00:06:50,805
+PART.2: Entre garras o...
+
+137
+00:06:50,885 --> 00:06:52,525
+PART.2: o pezuñas.
+
+138
+00:06:53,165 --> 00:06:55,005
+PART.1: Sería más garra. Pezuña no.
+
+139
+00:06:56,045 --> 00:06:57,925
+PART.1: Claro, lo de la garra...
+
+140
+00:06:58,005 --> 00:06:59,685
+PART.1: ¿Qué consideras una
+garra?
+
+141
+00:06:59,765 --> 00:07:01,605
+PART.2: Que te araña.
+

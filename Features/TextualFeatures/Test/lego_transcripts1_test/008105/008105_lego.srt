@@ -1,0 +1,505 @@
+1
+00:00:00,062 --> 00:00:01,062
+PART.1: A ver.
+
+2
+00:00:02,302 --> 00:00:05,022
+PART.1: Espera, hay que entender las
+instrucciones, ¿no?
+
+3
+00:00:05,902 --> 00:00:06,902
+PART.1: El uno...
+
+4
+00:00:08,542 --> 00:00:09,582
+PART.1: Aquí, ¿no?
+
+5
+00:00:12,302 --> 00:00:12,902
+PART.1: ¿Sí?
+
+6
+00:00:12,982 --> 00:00:13,982
+PART.2: Vale, pues a ver.
+
+7
+00:00:14,062 --> 00:00:16,662
+PART.1: Marrón de dos, cuatro, seis,
+ocho...
+
+8
+00:00:15,022 --> 00:00:16,742
+PART.2: Marrón y verde.
+
+9
+00:00:17,462 --> 00:00:18,742
+PART.2: ¿Dónde está el verde?
+
+10
+00:00:18,822 --> 00:00:20,022
+PART.1: Aquí está, ¿no?
+
+11
+00:00:20,382 --> 00:00:21,742
+PART.2: Ah, sí, tienes razón.
+
+12
+00:00:21,822 --> 00:00:23,022
+PART.1: Y este es el verde.
+
+13
+00:00:23,102 --> 00:00:23,622
+PART.1: Sí.
+
+14
+00:00:23,702 --> 00:00:24,302
+PART.2: Vale.
+
+15
+00:00:24,382 --> 00:00:25,662
+PART.2: Vamos montando aquí.
+
+16
+00:00:25,742 --> 00:00:26,422
+PART.1: Sí.
+
+17
+00:00:26,502 --> 00:00:28,302
+PART.1: Y luego hay que coger, ¿qué es eso
+rosa?
+
+18
+00:00:28,382 --> 00:00:29,142
+PART.2: Dos flores.
+
+19
+00:00:29,222 --> 00:00:30,382
+PART.2: Ah, mira, justo las tengo aquí.
+
+20
+00:00:30,462 --> 00:00:31,502
+PART.1: ¿Las de color?
+
+21
+00:00:31,582 --> 00:00:32,702
+PART.2: Sí.
+
+22
+00:00:33,382 --> 00:00:35,022
+PART.1: Era rosa.
+
+23
+00:00:37,062 --> 00:00:38,902
+PART.2: Yo creo que es esto, ¿o no es una
+flor?
+
+24
+00:00:38,342 --> 00:00:40,502
+PART.1: Sí, sí, este, no, este, sí.
+
+25
+00:00:39,782 --> 00:00:40,502
+PART.2: Ah, no es una flor.
+
+26
+00:00:40,582 --> 00:00:43,422
+PART.2: ¿Esto sí es una flor o hay más
+rosas?
+
+27
+00:00:43,502 --> 00:00:45,262
+PART.1: Bueno, se puede poner esta, no
+creo que...
+
+28
+00:00:45,342 --> 00:00:46,502
+PART.2: Sí, no creo que varíe.
+
+29
+00:00:50,422 --> 00:00:51,422
+PART.2: A ver.
+
+30
+00:00:53,462 --> 00:00:55,222
+PART.2: Puentes, ¿puentes?
+
+31
+00:00:55,302 --> 00:00:57,062
+PART.1: Sí, yo antes lo he visto con
+Guille.
+
+32
+00:00:57,142 --> 00:00:58,582
+PART.1: Aquí, ¿tú tienes otro?
+
+33
+00:00:58,662 --> 00:01:00,902
+PART.2: "Joe", tío,
+no veo ni torta, yo.
+
+34
+00:01:01,622 --> 00:01:03,102
+PART.2: No veo otro, la verdad.
+
+35
+00:01:03,182 --> 00:01:04,502
+PART.1: Espera, ahora te ayudo.
+
+36
+00:01:06,342 --> 00:01:10,022
+PART.1: No, no podemos hacerlo, no hay
+más, ¿ni otro color que no sea
+blanco?
+
+37
+00:01:11,142 --> 00:01:15,582
+PART.2: A lo mejor esto es parte de
+la prueba, eh,
+para ver cómo reaccionamos a la
+frustración.
+
+38
+00:01:15,662 --> 00:01:16,662
+PART.1: Javi.
+
+39
+00:01:17,742 --> 00:01:20,382
+PART.2: A ver, no sé,
+me parece...
+
+40
+00:01:20,462 --> 00:01:23,542
+PART.2: No está, yo creo que falta.
+
+41
+00:01:20,862 --> 00:01:23,102
+PART.1: Podemos buscar una alternativa,
+¿no?
+
+42
+00:01:24,182 --> 00:01:25,422
+PART.2: No está, no está.
+
+43
+00:01:25,502 --> 00:01:27,142
+PART.1: Pues lo haremos sin puente.
+
+44
+00:01:27,222 --> 00:01:28,662
+PART.2: Pues sí, pasamos.
+
+45
+00:01:28,742 --> 00:01:29,702
+PART.1: Sí, sí, sí.
+
+46
+00:01:29,782 --> 00:01:32,582
+PART.2: Pondremos las dos...
+
+47
+00:01:32,902 --> 00:01:34,542
+PART.1: Lo dejamos en el aire, ¿no?
+
+48
+00:01:34,622 --> 00:01:36,422
+PART.2: Sí, es que no, no...
+
+49
+00:01:36,502 --> 00:01:37,342
+PART.1: ¿Tienes otra?
+
+50
+00:01:37,422 --> 00:01:38,422
+PART.2: Eh...
+
+51
+00:01:39,182 --> 00:01:40,662
+PART.2: Bueno, siguiente.
+
+52
+00:01:41,422 --> 00:01:44,702
+PART.2: Sí, porque esto,
+a no ser que haya alguna por ahí.
+
+53
+00:01:44,782 --> 00:01:45,862
+PART.2: No.
+
+54
+00:01:45,942 --> 00:01:47,222
+PART.1: Igual se ha caído.
+
+55
+00:01:47,302 --> 00:01:50,862
+PART.2: Este era el paso tres, cuatro,
+y cinco.
+
+56
+00:01:52,062 --> 00:01:53,062
+PART.2: A ver.
+
+57
+00:01:52,782 --> 00:01:54,182
+PART.1: No sé si aguantará.
+
+58
+00:01:59,622 --> 00:02:02,542
+PART.2: ¿Qué les pasa con las piezas
+blancas, tú?
+
+59
+00:02:03,102 --> 00:02:08,702
+PART.2: Falta, o sea, esta es dos, y luego
+falta esta que es así...
+
+60
+00:02:08,782 --> 00:02:12,662
+PART.1: Antes las hemos utilizado,
+pero no la veo ahora aquí.
+
+61
+00:02:12,742 --> 00:02:14,502
+PART.2: A lo mejor están en otra...
+
+62
+00:02:13,662 --> 00:02:14,462
+PART.1: ¿En otra caja?
+
+63
+00:02:14,542 --> 00:02:16,222
+PART.2: Sí, puede ser, porque esto no
+está.
+
+64
+00:02:17,462 --> 00:02:19,902
+PART.1: Nos faltan piezas, ahora sí que es
+complicadísimo.
+
+65
+00:02:20,542 --> 00:02:23,422
+PART.2: Yo creo que como es de las
+fáciles, me da igual, le cambiamos
+de...
+
+66
+00:02:23,502 --> 00:02:24,502
+PART.1: De color.
+
+67
+00:02:24,582 --> 00:02:26,062
+PART.2: Ya está, esto así.
+
+68
+00:02:26,822 --> 00:02:27,822
+PART.2: Venga.
+
+69
+00:02:28,702 --> 00:02:30,142
+PART.1: ¿Y ahora esto qué es? ¿Esto?
+
+70
+00:02:32,022 --> 00:02:33,582
+PART.2: Mira, aquí y aquí.
+
+71
+00:02:34,142 --> 00:02:35,302
+PART.2: Aquí y aquí.
+
+72
+00:02:35,382 --> 00:02:37,862
+PART.2: Y uno verde y a ver si encuentras
+tú la rosa que yo no...
+
+73
+00:02:37,942 --> 00:02:40,022
+PART.2: Ah, mira, ahí hay una.
+
+74
+00:02:40,102 --> 00:02:41,622
+PART.2: Este verde.
+
+75
+00:02:43,022 --> 00:02:43,982
+PART.2: Este va con este.
+
+76
+00:02:46,982 --> 00:02:47,982
+PART.1: Vale.
+
+77
+00:02:48,262 --> 00:02:49,262
+PART.2: Aquí.
+
+78
+00:02:49,502 --> 00:02:51,382
+PART.2: Y el otro tú.
+
+79
+00:02:51,902 --> 00:02:53,542
+PART.2: Pero no puedo meterlo.
+
+80
+00:02:53,622 --> 00:02:54,902
+PART.1: ¿Le falta algo? ¿A ver?
+
+81
+00:02:56,662 --> 00:02:57,862
+PART.1: La ponemos al revés.
+
+82
+00:02:59,822 --> 00:03:02,262
+PART.1: Tiene que tener un adaptador o
+algo, ¿no?
+
+83
+00:03:02,342 --> 00:03:04,862
+PART.2: Y estos que parecían fáciles,
+no...
+
+84
+00:03:05,582 --> 00:03:08,062
+PART.2: Bueno, a lo mejor, mira, ah, no.
+
+85
+00:03:10,822 --> 00:03:11,822
+PART.1: ¿Así?
+
+86
+00:03:12,822 --> 00:03:13,382
+PART.2: Sí.
+
+87
+00:03:13,462 --> 00:03:14,342
+PART.1: Irá al revés, ¿no?
+
+88
+00:03:14,502 --> 00:03:15,262
+PART.1: ¿Sí?
+
+89
+00:03:15,342 --> 00:03:17,382
+PART.1: Aquí no cabe.
+
+90
+00:03:19,382 --> 00:03:20,782
+PART.2: Mira.
+
+91
+00:03:21,742 --> 00:03:22,742
+PART.2: Ya está.
+
+92
+00:03:22,822 --> 00:03:24,542
+PART.2: Lo montamos...
+
+93
+00:03:25,222 --> 00:03:26,422
+PART.2: Esto va así.
+
+94
+00:03:28,102 --> 00:03:29,942
+PART.1: Claro, como nos falta un puente.
+
+95
+00:03:30,022 --> 00:03:31,022
+PART.2: Sí.
+
+96
+00:03:31,102 --> 00:03:34,142
+PART.2: Ya está, es que no hay más porque
+nos falta el...
+
+97
+00:03:34,862 --> 00:03:35,862
+PART.2: ¡Ya está!
+
+98
+00:03:36,462 --> 00:03:40,262
+PART.2: Sí, es que no está el...
+
+99
+00:03:40,822 --> 00:03:45,062
+PART.2: No, por mucho que quisiéramos
+hacer otro, no...
+
+100
+00:03:45,142 --> 00:03:46,182
+PART.1: No hay otro color, por lo que veo.
+
+101
+00:03:46,262 --> 00:03:46,782
+PART.2: No.
+
+102
+00:03:46,862 --> 00:03:50,342
+PART.2: Esto tiene que ser parte de la
+prueba, seguro, te dicen de hacer un
+seis.
+
+103
+00:03:50,422 --> 00:03:51,582
+PART.1: Un seis y un cuatro.
+
+104
+00:03:51,662 --> 00:03:55,822
+PART.2: Que vamos, a mí me dices qué
+número es este y me da un patatús,
+yo no sabría adivinarlo.
+
+105
+00:03:55,902 --> 00:03:59,742
+PART.2: Este el único, porque el cero,
+desde cuando lleva el cero eso así.
+
+106
+00:03:59,822 --> 00:04:00,862
+PART.2: Sí.
+
+107
+00:04:00,942 --> 00:04:03,342
+PART.2: No sabría decirte, la verdad.
+
+108
+00:04:07,542 --> 00:04:08,702
+PART.2: Vale, pues ya está.
+
+109
+00:04:12,302 --> 00:04:15,782
+PART.2: Hemos estado así para coger la
+caja y recogerlo todo, pero...
+
+110
+00:04:16,822 --> 00:04:17,822
+PART.2: Sí.
+
+111
+00:04:17,902 --> 00:04:18,902
+PART.1: Qué mono.
+
+112
+00:04:19,502 --> 00:04:22,502
+PART.2: Sí, pero yo no me gastaría dinero
+en comprar...
+
+113
+00:04:22,582 --> 00:04:24,542
+PART.1: Bueno, yo no sé si es un seis.
+
+114
+00:04:25,582 --> 00:04:32,262
+PART.2: O sea, quiero decir, que aunque
+tuviéramos las piezas, yo no creo
+que me gastara en una edición
+especial del 2016.
+
+115
+00:04:33,262 --> 00:04:34,262
+PART.2: Ya.
+
+116
+00:04:34,742 --> 00:04:37,862
+PART.2: A ver, los globos a lo mejor sí
+que compraría algo así más raro,
+porque me hace gracia, pero esto.
+

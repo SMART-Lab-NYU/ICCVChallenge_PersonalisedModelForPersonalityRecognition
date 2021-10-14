@@ -1,0 +1,103 @@
+﻿1
+00:00:00,000 --> 00:00:01,965
+PART.1: Ja, doncs em fa por això.
+Qui comença? Ah, després parlem. Qui comença?
+
+2
+00:00:02,045 --> 00:00:04,085
+PART.2: No ho sé. Va, tu, que has guanyat.
+
+3
+00:00:04,165 --> 00:00:04,805
+PART.1: Val.
+
+4
+00:00:06,445 --> 00:00:07,285
+PART.1: Soc un mamífer?
+
+5
+00:00:07,365 --> 00:00:08,125
+PART.2: Sí.
+
+6
+00:00:08,205 --> 00:00:09,045
+PART.1: Val.
+
+7
+00:00:09,125 --> 00:00:13,325
+PART.2: Què dius? És molt arriscat!
+Volia dir el mateix, però dic: "No".
+
+8
+00:00:13,405 --> 00:00:14,965
+PART.1: Arriscat per què?
+
+9
+00:00:15,045 --> 00:00:17,445
+PART.2: Perquè abans hi ha moltes coses.
+
+10
+00:00:17,925 --> 00:00:20,325
+PART.2: Jo et pregunto: "Soc vertebrat?".
+
+11
+00:00:20,405 --> 00:00:22,965
+PART.1: Sí. T'anava a dir: "Yes".
+
+12
+00:00:23,045 --> 00:00:25,405
+PART.2: Perquè està en anglès.
+
+13
+00:00:25,485 --> 00:00:26,805
+PART.1: Sí. Val.
+
+14
+00:00:27,285 --> 00:00:27,765
+PART.1: Sí, sí, sí.
+
+15
+00:00:27,845 --> 00:00:28,685
+PART.2: Sí, què?
+
+16
+00:00:28,765 --> 00:00:29,805
+PART.1: És vertebrat.
+
+17
+00:00:29,885 --> 00:00:31,285
+PART.2: Ja, però et toca, no?
+
+18
+00:00:31,365 --> 00:00:32,005
+PART.1: Val.
+
+19
+00:00:34,885 --> 00:00:36,925
+PART.1: Mamífer, mamífer...
+
+20
+00:00:39,285 --> 00:00:44,325
+PART.1: Puc viure a les cases de les ciutats?
+
+21
+00:00:46,165 --> 00:00:47,765
+PART.1: Vull dir, soc domèstic?
+
+22
+00:00:47,845 --> 00:00:48,765
+PART.2: No.
+
+23
+00:00:48,845 --> 00:00:49,845
+PART.1: Val.
+
+24
+00:00:49,925 --> 00:00:51,805
+PART.2: Val, soc mamífer?
+
+25
+00:00:56,485 --> 00:01:00,685
+PART.2: O sigui, els meus bebès xuclen la mamella?
+Surto d'una placenta?
+

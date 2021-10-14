@@ -1,0 +1,191 @@
+﻿1
+00:00:00,104 --> 00:00:02,464
+PART.1: Aquí viene otra prueba
+de nivel, ¿eh?
+
+2
+00:00:03,144 --> 00:00:05,344
+PART.1: ¿Está dentro?
+
+3
+00:00:05,824 --> 00:00:06,904
+PART.2: Sí, ¿no? Esto.
+
+4
+00:00:08,024 --> 00:00:10,944
+PART.1: Ah, vale, pensaba que ya
+con eso lo teníamos que hacer.
+
+5
+00:00:10,944 --> 00:00:12,344
+PART.1: Vale.
+
+6
+00:00:13,424 --> 00:00:15,264
+PART.1: Buscamos las piezas que nos hacen
+falta primero.
+
+7
+00:00:16,024 --> 00:00:18,944
+PART.1: Esta, pero es la de cuatro, no la
+grande.
+
+8
+00:00:30,664 --> 00:00:32,344
+PART.1: Es que no van diciendo, ¿o sí?
+
+9
+00:00:34,264 --> 00:00:35,104
+PART.1: Ah, sí, sí.
+
+10
+00:00:35,704 --> 00:00:36,744
+PART.1: Ah, vale.
+
+11
+00:00:37,304 --> 00:00:38,704
+PART.2: Entonces...
+
+12
+00:00:39,224 --> 00:00:39,824
+PART.2: Son...
+
+13
+00:00:39,824 --> 00:00:41,824
+PART.1: Una doble de estas
+marrones.
+
+14
+00:00:41,824 --> 00:00:43,824
+PART.1: Yo he encontrado esta, pero esta no
+es.
+
+15
+00:00:44,424 --> 00:00:45,584
+PART.2: Esta es de por aquí.
+
+16
+00:00:45,584 --> 00:00:47,144
+PART.1: Ah, esta y esta oscura.
+
+17
+00:00:47,144 --> 00:00:48,664
+PART.2: A ver...
+
+18
+00:00:49,184 --> 00:00:50,344
+PART.1: Oscura.
+
+19
+00:00:50,344 --> 00:00:52,904
+PART.1: Y clara.
+
+20
+00:00:54,504 --> 00:00:55,944
+PART.1: Y...
+
+21
+00:00:55,944 --> 00:00:57,064
+PART.1: Cuadrada esta.
+
+22
+00:00:57,064 --> 00:00:57,784
+PART.2: Sí.
+
+23
+00:00:57,784 --> 00:00:58,824
+PART.1: Esta aquí.
+
+24
+00:01:06,984 --> 00:01:08,184
+PART.1: ¿Qué color tiene?
+
+25
+00:01:08,184 --> 00:01:09,984
+PART.1: Va a ser oscuro. No, porque es
+claro.
+
+26
+00:01:09,984 --> 00:01:10,824
+PART.2: Más claro.
+
+27
+00:01:13,704 --> 00:01:14,744
+PART.2: Aquí está.
+
+28
+00:01:14,744 --> 00:01:15,624
+PART.1: Ahí.
+
+29
+00:01:15,624 --> 00:01:16,784
+PART.1: Vale.
+
+30
+00:01:16,784 --> 00:01:17,944
+PART.1: Esta aquí.
+
+31
+00:01:25,624 --> 00:01:26,824
+PART.2: Sí.
+
+32
+00:01:31,304 --> 00:01:32,344
+PART.1: Aquí.
+
+33
+00:01:39,424 --> 00:01:40,544
+PART.1: Sí.
+
+34
+00:01:49,224 --> 00:01:50,744
+PART.1: ¿Por dónde vamos? Por la...
+
+35
+00:01:53,984 --> 00:01:55,824
+PART.1: Esta, porque no hay verde más
+claro.
+
+36
+00:01:56,384 --> 00:01:57,704
+PART.1: Va a ser esta.
+
+37
+00:01:59,704 --> 00:02:00,904
+PART.1: Ah, primero esta.
+
+38
+00:02:25,184 --> 00:02:26,184
+PART.2: Es esta.
+
+39
+00:02:26,184 --> 00:02:26,984
+PART.1: Ya está terminado, ¿no?
+
+40
+00:02:26,984 --> 00:02:27,744
+PART.2: Sí.
+
+41
+00:02:34,904 --> 00:02:36,224
+PART.1: Pues ya está.
+
+42
+00:03:06,744 --> 00:03:12,664
+PART.1: Esta es la que tenías que montar
+antes un barco, que tenía cuatro
+piezas y... y he dudado.
+
+43
+00:03:13,864 --> 00:03:14,824
+PART.1: Por un momento.
+
+44
+00:03:16,464 --> 00:03:18,624
+PART.2: Pues esto está muy
+abstracto, ¿eh?
+
+45
+00:03:21,184 --> 00:03:22,224
+PART.1: Está guay.
+

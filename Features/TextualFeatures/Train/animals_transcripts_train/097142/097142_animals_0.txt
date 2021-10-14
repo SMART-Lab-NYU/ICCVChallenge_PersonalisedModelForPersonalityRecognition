@@ -1,0 +1,91 @@
+﻿1
+00:00:00,000 --> 00:00:00,507
+PART.1: Pregunta.
+
+2
+00:00:00,587 --> 00:00:02,307
+PART.2: Fem 10 jo i 10 tu?
+
+3
+00:00:02,387 --> 00:00:04,867
+PART.1: Sí, no? A veure si l'endevinem.
+
+4
+00:00:04,947 --> 00:00:07,147
+PART.2: Val, doncs començo jo, va.
+
+5
+00:00:08,507 --> 00:00:10,787
+PART.2: Soc un mamífer?
+
+6
+00:00:10,867 --> 00:00:12,067
+PART.1: Sí.
+
+7
+00:00:12,147 --> 00:00:13,307
+PART.2: Sí.
+
+8
+00:00:13,387 --> 00:00:15,627
+PART.2: Visc a l'aigua?
+
+9
+00:00:19,747 --> 00:00:21,827
+PART.1: Pots estar a l'aigua.
+
+10
+00:00:21,907 --> 00:00:24,627
+PART.2: Puc estar a l'aigua,
+però… Val.
+
+11
+00:00:24,707 --> 00:00:27,707
+PART.2: Un mamífer, puc estar a l'aigua…
+Soc carnívor?
+
+12
+00:00:28,867 --> 00:00:30,267
+PART.1: No. És vegetarià.
+
+13
+00:00:30,347 --> 00:00:31,067
+PART.2: Val.
+
+14
+00:00:31,147 --> 00:00:33,747
+PART.1: Ja t'he donat una pista, no pot ser això.
+
+15
+00:00:35,827 --> 00:00:39,907
+PART.2: Val, soc vegetarià. Soc gran?
+
+16
+00:00:39,987 --> 00:00:41,387
+PART.1: Sí.
+
+17
+00:00:43,187 --> 00:00:49,667
+PART.2: És clar, aquesta pregunta de "soc gran"
+és molt relativa perquè gran respecte a què.
+
+18
+00:00:49,747 --> 00:00:50,947
+PART.1: Exacte.
+
+19
+00:00:51,027 --> 00:00:54,307
+PART.2: "Bueno", soc gran, relativament gran.
+
+20
+00:00:54,387 --> 00:00:55,307
+PART.1: Sí.
+
+21
+00:00:55,387 --> 00:00:57,627
+PART.2: Val. Soc de color gris?
+
+22
+00:00:57,707 --> 00:00:59,227
+PART.1: "Bueno", sí.
+

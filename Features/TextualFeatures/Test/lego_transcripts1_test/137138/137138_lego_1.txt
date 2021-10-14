@@ -1,0 +1,122 @@
+31
+00:01:00,037 --> 00:01:01,037
+PART.1: Y esto.
+
+32
+00:01:01,917 --> 00:01:03,037
+PART.1: Bueno, pues nada.
+
+33
+00:01:03,117 --> 00:01:05,717
+PART.1: Ya estaría, como el que dice.
+
+34
+00:01:05,797 --> 00:01:06,797
+PART.1: Esta de aquí.
+
+35
+00:01:08,597 --> 00:01:10,437
+PART.1: Y ahora faltará la última ya
+verás.
+
+36
+00:01:11,877 --> 00:01:14,917
+PART.2: O habrá que hacerla, a lo mejor
+hay que...
+
+37
+00:01:16,997 --> 00:01:17,997
+PART.1: Aquí está.
+
+38
+00:01:18,397 --> 00:01:19,837
+PART.1: Pues ya está.
+
+39
+00:01:22,237 --> 00:01:23,077
+PART.1: Bien.
+
+40
+00:01:23,677 --> 00:01:24,957
+PART.2: Team work.
+
+41
+00:01:24,957 --> 00:01:25,957
+PART.1: No, espera.
+
+42
+00:01:26,677 --> 00:01:28,077
+PART.1: Esto va encima.
+
+43
+00:01:30,317 --> 00:01:31,317
+PART.2: Uh, vale.
+
+44
+00:01:31,397 --> 00:01:32,117
+PART.1: Sí.
+
+45
+00:01:32,397 --> 00:01:33,837
+PART.1: Y lo demás ya.
+
+46
+00:01:34,677 --> 00:01:35,677
+PART.2: Vale.
+
+47
+00:01:36,117 --> 00:01:37,597
+PART.1: Bien, somos los números uno.
+
+48
+00:01:37,677 --> 00:01:38,557
+PART.2: Se lo enseñamos a cámara.
+
+49
+00:01:38,637 --> 00:01:42,197
+PART.2: Y aquí está nuestro video
+tutorial, amigos,
+gracias por seguirnos, suscríbanse.
+
+50
+00:01:42,997 --> 00:01:44,957
+PART.2: Por cierto, ¿tú te ves Meme Verso?
+
+51
+00:01:45,037 --> 00:01:46,037
+PART.1: Sí.
+
+52
+00:01:46,117 --> 00:01:47,117
+PART.2: Vale.
+
+53
+00:01:47,197 --> 00:01:50,757
+PART.1: Es más, participé en la primera
+parte en que salió Noel.
+
+54
+00:01:51,237 --> 00:01:53,197
+PART.2: No, ¿participaste en "Crónicas"?
+
+55
+00:01:53,277 --> 00:01:53,637
+PART.1: Sí.
+
+56
+00:01:53,717 --> 00:01:54,597
+PART.2: Ah, qué fuerte.
+
+57
+00:01:54,677 --> 00:01:55,757
+PART.2: Hostia, qué fuerte.
+
+58
+00:01:55,837 --> 00:01:57,277
+PART.1: No sé si viste la del cura.
+
+59
+00:01:57,357 --> 00:02:03,677
+PART.2: No, es que no vi mucho "Crónicas",
+pero "Quetzal" me apasiona.
+

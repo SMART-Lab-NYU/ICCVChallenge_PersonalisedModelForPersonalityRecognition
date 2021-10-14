@@ -1,0 +1,579 @@
+﻿1
+00:00:01,643 --> 00:00:02,403
+PART.1: ¡Hum!
+
+2
+00:00:05,403 --> 00:00:06,163
+PART.2: Venga.
+
+3
+00:00:06,163 --> 00:00:07,683
+PART.1: Estoy pensando.
+
+4
+00:00:11,203 --> 00:00:12,403
+PART.1: ¿Es de color blanco?
+
+5
+00:00:13,443 --> 00:00:14,603
+PART.2: No.
+
+6
+00:00:17,003 --> 00:00:20,643
+PART.2: Eh..., ¿vivo en el mar,
+en el agua?
+
+7
+00:00:21,483 --> 00:00:22,523
+PART.1: No.
+
+8
+00:00:23,163 --> 00:00:24,403
+PART.1: Sería bastante raro.
+
+9
+00:00:24,563 --> 00:00:25,923
+PART.2: Ah, bueno, es uno.
+
+10
+00:00:25,923 --> 00:00:27,523
+PART.2: Estamos mezclando ahora.
+
+11
+00:00:27,563 --> 00:00:28,043
+PART.1: ¿Cómo?
+
+12
+00:00:28,043 --> 00:00:30,643
+PART.2: ¿Qué hay que hacer,
+diez seguidas, preguntas, o una, una, una?
+
+13
+00:00:30,643 --> 00:00:31,963
+PART.1: Creo que es una, una, una.
+
+14
+00:00:31,963 --> 00:00:32,443
+PART.2: Vale.
+
+15
+00:00:32,443 --> 00:00:32,803
+PART.1: Antes lo hemos hecho así.
+
+16
+00:00:32,803 --> 00:00:33,723
+PART.2: Vale.
+
+17
+00:00:34,243 --> 00:00:35,283
+PART.1: Uh...
+
+18
+00:00:35,283 --> 00:00:36,123
+PART.1: ¿Tiene cuernos?
+
+19
+00:00:37,243 --> 00:00:37,843
+PART.2: No.
+
+20
+00:00:44,323 --> 00:00:44,963
+PART.1: Vale.
+
+21
+00:00:44,963 --> 00:00:45,483
+PART.2: ¿Vuelo?
+
+22
+00:00:46,523 --> 00:00:47,003
+PART.1: No.
+
+23
+00:00:47,323 --> 00:00:47,803
+PART.2: Vale.
+
+24
+00:00:49,443 --> 00:00:51,203
+PART.1: Eh...
+
+25
+00:00:51,643 --> 00:00:52,843
+PART.1: Pues ya que estamos, ¿vuelo?
+
+26
+00:00:53,523 --> 00:00:54,243
+PART.2: No.
+
+27
+00:00:56,323 --> 00:00:58,163
+PART.2: Eh...
+
+28
+00:01:03,203 --> 00:01:04,803
+PART.2: ¿Soy carnívoro?
+
+29
+00:01:08,123 --> 00:01:08,923
+PART.1: No.
+
+30
+00:01:14,643 --> 00:01:16,523
+PART.1: Se me había ocurrido
+una nueva y se me ha ido, tío.
+
+31
+00:01:17,003 --> 00:01:17,803
+PART.1: Vale, sí.
+
+32
+00:01:17,803 --> 00:01:18,843
+PART.1: ¿Tiene garras?
+
+33
+00:01:22,723 --> 00:01:23,603
+PART.2: Sí.
+
+34
+00:01:27,643 --> 00:01:28,923
+PART.1: Uh...
+
+35
+00:01:33,563 --> 00:01:35,723
+PART.1: ¿Llevamos cuatro, tres?
+
+36
+00:01:35,723 --> 00:01:37,603
+PART.2: Algo así, bueno.
+
+37
+00:01:43,083 --> 00:01:47,843
+PART.2: ¿Vivo en una zona
+poblada de bastantes árboles?
+
+38
+00:01:50,443 --> 00:01:51,283
+PART.1: No.
+
+39
+00:01:53,963 --> 00:01:55,683
+PART.1: A ver, tengo la teoría de que
+no.
+
+40
+00:01:56,283 --> 00:01:57,123
+PART.1: Me lo pienso.
+
+41
+00:01:58,403 --> 00:01:59,083
+PART.1: ¿Contexto?
+
+42
+00:02:00,123 --> 00:02:01,003
+PART.1: No, diría que no.
+
+43
+00:02:01,003 --> 00:02:04,843
+PART.2: Es decir, es más bien tipo
+bosque, selva, más que sabana, desierto.
+
+44
+00:02:05,483 --> 00:02:06,603
+PART.2: O sea, al revés.
+
+45
+00:02:06,603 --> 00:02:08,083
+PART.1: Sí, eso sí.
+
+46
+00:02:10,083 --> 00:02:11,003
+PART.1: Vale, a ver.
+
+47
+00:02:11,563 --> 00:02:16,003
+PART.1: Tiene garras o algo parecido,
+no vuela, no es blanco.
+
+48
+00:02:18,203 --> 00:02:20,163
+PART.1: Uh...
+
+49
+00:02:24,403 --> 00:02:25,523
+PART.1: ¿Es grande?
+
+50
+00:02:26,243 --> 00:02:27,043
+PART.2: No.
+
+51
+00:02:29,523 --> 00:02:31,163
+PART.2: Eh...
+
+52
+00:02:37,083 --> 00:02:41,363
+PART.2: ¿Vivo en un sitio
+de temperaturas extremas?
+
+53
+00:02:41,963 --> 00:02:42,723
+PART.1: No.
+
+54
+00:02:47,403 --> 00:02:48,563
+PART.1: ¿Vivo en el desierto?
+
+55
+00:02:50,763 --> 00:02:51,563
+PART.2: No.
+
+56
+00:02:53,403 --> 00:02:54,643
+PART.2: Ah...
+
+57
+00:02:57,203 --> 00:02:58,443
+PART.2: ¿Tengo cuernos?
+
+58
+00:02:59,043 --> 00:02:59,563
+PART.1: Sí.
+
+59
+00:03:07,803 --> 00:03:08,923
+PART.1: ¿Es herbívoro?
+
+60
+00:03:10,523 --> 00:03:11,403
+PART.2: Sí.
+
+61
+00:03:19,683 --> 00:03:20,843
+PART.2: Vale.
+
+62
+00:03:24,083 --> 00:03:24,603
+PART.2: ¿Es...?
+
+63
+00:03:24,603 --> 00:03:25,923
+PART.1: ¿Que tenga garras
+y sea herbívoro?
+
+64
+00:03:28,963 --> 00:03:30,683
+PART.2: ¿Soy...?
+
+65
+00:03:31,683 --> 00:03:35,523
+PART.2: ¿Un color característico mío
+es de la escala de los grises?
+
+66
+00:03:38,283 --> 00:03:39,243
+PART.1: Sí.
+
+67
+00:03:40,323 --> 00:03:40,883
+PART.1: Sí.
+
+68
+00:03:50,803 --> 00:03:52,443
+PART.1: ¿Tengo rayas en el pelo?
+
+69
+00:03:54,883 --> 00:03:57,203
+PART.1: En plan, de cualquier tipo.
+
+70
+00:03:57,843 --> 00:03:58,683
+PART.2: No.
+
+71
+00:03:59,243 --> 00:03:59,763
+PART.2: No.
+
+72
+00:04:09,203 --> 00:04:10,683
+PART.1: Buah, voy perdidísimo.
+
+73
+00:04:11,523 --> 00:04:15,323
+PART.2: ¿Soy muy grande?
+
+74
+00:04:15,763 --> 00:04:16,523
+PART.1: No.
+
+75
+00:04:20,363 --> 00:04:21,163
+PART.2: ¿No?
+
+76
+00:04:30,203 --> 00:04:31,083
+PART.1: ¿Soy pequeño?
+
+77
+00:04:36,043 --> 00:04:37,923
+PART.2: Tirando a que sí.
+
+78
+00:04:40,683 --> 00:04:43,203
+PART.2: No vivo en el agua...
+
+79
+00:04:45,123 --> 00:04:50,003
+PART.2: Soy de grises, con cuernos,
+herbívoro, no muy grande.
+
+80
+00:05:02,483 --> 00:05:05,523
+PART.1: ¿En qué momento podemos
+preguntar qué animal es o decir?
+
+81
+00:05:05,603 --> 00:05:08,483
+PART.2: Creo que cuando se acaban
+las diez hay que preguntar el animal.
+
+82
+00:05:08,483 --> 00:05:09,043
+PART.1: Cuando se acaba.
+
+83
+00:05:18,843 --> 00:05:20,923
+PART.2: ¡Puf, qué preguntar!
+
+84
+00:05:35,483 --> 00:05:39,043
+PART.2: ¿Soy pequeño,
+tirando a bastante pequeñito?
+
+85
+00:05:39,043 --> 00:05:39,763
+PART.1: No.
+
+86
+00:05:41,083 --> 00:05:43,403
+PART.1: Es un punto medio,
+ni muy pequeño ni muy grande.
+
+87
+00:05:45,523 --> 00:05:46,243
+PART.2: Bien.
+
+88
+00:05:47,523 --> 00:05:48,603
+PART.1: ¿Me queda una?
+
+89
+00:05:51,603 --> 00:05:53,003
+PART.1: Uh...
+
+90
+00:05:53,723 --> 00:05:54,683
+PART.1: ¿Soy nocturno?
+
+91
+00:05:55,363 --> 00:05:57,963
+PART.1: O sea, es en plan,
+¿un animal nocturno?
+
+92
+00:06:00,283 --> 00:06:02,763
+PART.2: No, no especialmente.
+
+93
+00:06:02,763 --> 00:06:05,963
+PART.2: Igual haces algo por la noche,
+pero tampoco...
+
+94
+00:06:07,523 --> 00:06:09,803
+PART.2: Eh, y la última mía también.
+
+95
+00:06:09,803 --> 00:06:10,843
+PART.2: La última, ¿no?
+
+96
+00:06:32,443 --> 00:06:33,923
+PART.2: ¿Estoy en granjas?
+
+97
+00:06:33,923 --> 00:06:34,883
+PART.1: Sí.
+
+98
+00:06:44,323 --> 00:06:45,083
+PART.2: Venga.
+
+99
+00:06:48,763 --> 00:06:50,803
+PART.1: Uh..., yo diría que soy un ratón.
+
+100
+00:06:51,323 --> 00:06:54,083
+PART.1: Pero... pero no lo sé.
+
+101
+00:06:54,843 --> 00:06:56,283
+PART.1: Me la estoy jugando ahí.
+
+102
+00:06:58,483 --> 00:07:00,323
+PART.2: Y...
+
+103
+00:07:00,323 --> 00:07:02,803
+PART.2: Vale, y yo diría que soy...
+
+104
+00:07:13,203 --> 00:07:15,043
+PART.2: No sé si decirla...
+
+105
+00:07:16,843 --> 00:07:17,523
+PART.2: Una cabra.
+
+106
+00:07:18,003 --> 00:07:18,643
+PART.1: Sí.
+
+107
+00:07:18,643 --> 00:07:19,483
+PART.2: ¿Sí?
+
+108
+00:07:19,483 --> 00:07:20,323
+PART.1: De pleno.
+
+109
+00:07:20,323 --> 00:07:21,843
+PART.1: ¡Buena!
+
+110
+00:07:23,523 --> 00:07:24,683
+PART.1: ¿Me la puedo quitar o...?
+
+111
+00:07:24,683 --> 00:07:25,403
+PART.2: Sí, quítatela.
+
+112
+00:07:25,403 --> 00:07:26,363
+PART.1: O sigo intentando, porque...
+
+113
+00:07:27,323 --> 00:07:28,883
+PART.1: ¡Hala, venga!
+
+114
+00:07:28,883 --> 00:07:30,083
+PART.1: Igual.
+
+115
+00:07:30,683 --> 00:07:31,603
+PART.2: Era complicadillo.
+
+116
+00:07:31,603 --> 00:07:32,523
+PART.1: ¡Uf!
+
+117
+00:07:32,523 --> 00:07:33,803
+PART.1: Pero complicado.
+
+118
+00:07:33,803 --> 00:07:34,683
+PART.2: Sí.
+
+119
+00:07:34,683 --> 00:07:36,203
+PART.1: Yo creo que es lo último
+que se me ha ocurrido.
+
+120
+00:07:36,203 --> 00:07:39,723
+PART.1: Estaba pensando en animales
+más, yo qué sé, que te puedas encontrar
+en el bosque, ¿sabes?
+
+121
+00:07:39,723 --> 00:07:42,523
+PART.1: Esto, como te vayas
+a Australia, no lo ves.
+
+122
+00:07:42,523 --> 00:07:45,923
+PART.2: Creo que a mí me han puesto
+porque estaban en tres niveles:
+fácil, medio y difícil.
+
+123
+00:07:45,923 --> 00:07:48,443
+PART.2: A mí me han puesto medio
+y a ti difícil, creo.
+
+124
+00:07:48,443 --> 00:07:50,203
+PART.2: Creo que era el difícil.
+
+125
+00:07:50,203 --> 00:07:53,643
+PART.1: Mira que he pensado en plan,
+¿un canguro tiene garras?
+
+126
+00:07:53,643 --> 00:07:56,843
+PART.1: Pero he dicho pequeño no,
+o sea no...
+
+127
+00:07:56,843 --> 00:07:57,763
+PART.2: Claro, este tiene...
+
+128
+00:07:57,763 --> 00:07:59,923
+PART.2: Digo, tiene que tener, porque si
+no, no trepa.
+
+129
+00:07:59,923 --> 00:08:00,563
+PART.1: Claro.
+
+130
+00:08:01,003 --> 00:08:02,123
+PART.1: Bueno, diría que sí.
+
+131
+00:08:02,123 --> 00:08:02,763
+PART.1: Sí que tiene.
+
+132
+00:08:02,763 --> 00:08:03,323
+PART.2: Tiene...
+
+133
+00:08:03,803 --> 00:08:05,843
+PART.2: Sería otro estilo, no para...
+
+134
+00:08:05,843 --> 00:08:06,603
+PART.2: Tipo enganche.
+
+135
+00:08:07,843 --> 00:08:08,603
+PART.1: Sí, sí.
+
+136
+00:08:09,403 --> 00:08:10,523
+PART.2: Eh...
+
+137
+00:08:10,523 --> 00:08:11,323
+PART.2: Javi, venga.
+
+138
+00:08:11,683 --> 00:08:12,523
+PART.1: Aparece.
+

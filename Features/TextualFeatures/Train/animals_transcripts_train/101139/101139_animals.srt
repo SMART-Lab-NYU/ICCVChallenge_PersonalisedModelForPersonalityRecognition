@@ -1,0 +1,666 @@
+1
+00:00:00,308 --> 00:00:02,108
+PART.2: ¿Quién empieza preguntando?
+
+2
+00:00:02,188 --> 00:00:02,868
+PART.1: Empiezo yo.
+
+3
+00:00:05,868 --> 00:00:08,348
+PART.1: ¿Soy un animal de granja?
+
+4
+00:00:08,428 --> 00:00:09,268
+PART.2: No.
+
+5
+00:00:11,708 --> 00:00:13,708
+PART.2: Ah, ¿quieres ir turnando o
+hacerlas de golpe?
+
+6
+00:00:13,788 --> 00:00:14,348
+PART.1: Sí, turnando.
+
+7
+00:00:14,428 --> 00:00:15,108
+PART.2: Vale.
+
+8
+00:00:18,268 --> 00:00:21,988
+PART.2: ¿Soy un animal de tierra?
+
+9
+00:00:22,628 --> 00:00:23,308
+PART.1: Sí.
+
+10
+00:00:23,628 --> 00:00:26,868
+PART.2: Puede ser volador, de tierra o de
+agua.
+
+11
+00:00:26,948 --> 00:00:28,588
+PART.2: Hago esa distinción. Es de
+tierra, ¿no?
+
+12
+00:00:28,668 --> 00:00:29,308
+PART.1: Sí.
+
+13
+00:00:31,268 --> 00:00:33,068
+PART.1: ¿Soy un animal marino?
+
+14
+00:00:33,988 --> 00:00:34,988
+PART.2: Sí.
+
+15
+00:00:35,668 --> 00:00:38,468
+PART.1: Vale, voy a repetir la pregunta,
+¿soy animal acuático?
+
+16
+00:00:42,108 --> 00:00:44,188
+PART.2: O sea...
+
+17
+00:00:44,268 --> 00:00:46,668
+PART.1: Me quedo con el marino,
+me quedo con el marino.
+
+18
+00:00:46,748 --> 00:00:47,348
+PART.2: Vale, vale.
+
+19
+00:00:47,428 --> 00:00:49,788
+PART.2: Gran parte de la vida del animal
+es el agua.
+
+20
+00:00:49,868 --> 00:00:50,468
+PART.1: Vale.
+
+21
+00:00:53,388 --> 00:00:55,108
+PART.2: ¿Soy un animal de bosque?
+
+22
+00:00:55,508 --> 00:00:56,268
+PART.1: Sí.
+
+23
+00:00:56,348 --> 00:00:57,428
+PART.2: De bosque. Vale, bien.
+
+24
+00:01:01,708 --> 00:01:03,388
+PART.1: ¿Soy un animal doméstico?
+
+25
+00:01:03,468 --> 00:01:04,228
+PART.2: No.
+
+26
+00:01:05,068 --> 00:01:06,268
+PART.2: ¿Soy herbívoro?
+
+27
+00:01:06,948 --> 00:01:07,868
+PART.1: No.
+
+28
+00:01:07,948 --> 00:01:08,948
+PART.2: No. Vale.
+
+29
+00:01:10,308 --> 00:01:11,788
+PART.2: Venga, adelante.
+
+30
+00:01:24,148 --> 00:01:25,628
+PART.1: ¿Soy un anfibio?
+
+31
+00:01:25,708 --> 00:01:27,548
+PART.2: No. No lo eres.
+
+32
+00:01:27,628 --> 00:01:28,308
+PART.1: Vale.
+
+33
+00:01:30,348 --> 00:01:33,988
+PART.2: Vale, has dicho herbívoro, de
+bosque y terrestre.
+
+34
+00:01:37,868 --> 00:01:39,308
+PART.2: ¿Soy de clima...?
+
+35
+00:01:39,388 --> 00:01:41,668
+PART.2: Claro, si no es de clima cálido,
+es de clima frío.
+
+36
+00:01:41,748 --> 00:01:47,268
+PART.2: ¿Soy de clima cálido?
+¿Bosque cálido? ¿Bosque con sol,
+calor mediterráneo?
+
+37
+00:01:47,348 --> 00:01:52,748
+PART.2: ¿O bosque en plan montañoso,
+nieve, arboles con hielo...?
+
+38
+00:01:52,828 --> 00:01:54,268
+PART.1: Eso no es una pregunta de sí o
+no.
+
+39
+00:01:54,348 --> 00:01:57,068
+PART.2: Bueno, ¿soy cálido o frío?
+
+40
+00:01:57,148 --> 00:01:58,948
+PART.1: No, eso tampoco es una pregunta
+de sí o no.
+
+41
+00:01:59,028 --> 00:02:02,788
+PART.2: ¿Soy cálido?
+¿Soy un animal de bosque cálido?
+
+42
+00:02:02,868 --> 00:02:03,348
+PART.1: No.
+
+43
+00:02:03,428 --> 00:02:04,588
+PART.2: No. Vale.
+
+44
+00:02:11,948 --> 00:02:16,108
+PART.1: No soy de granja, no soy
+doméstico, soy un poco acuático.
+
+45
+00:02:27,708 --> 00:02:30,028
+PART.1: ¿Soy usado en espectáculos
+del zoo?
+
+46
+00:02:30,108 --> 00:02:30,988
+PART.2: Sí.
+
+47
+00:02:31,068 --> 00:02:31,628
+PART.1: Vale.
+
+48
+00:02:31,708 --> 00:02:33,068
+PART.2: Bueno, eh...
+
+49
+00:02:35,188 --> 00:02:39,588
+PART.2: Yo lo he visto alguna vez, no en
+persona, pero sé que alguna vez se
+hace.
+
+50
+00:02:39,668 --> 00:02:40,628
+PART.1: Vale.
+
+51
+00:02:41,428 --> 00:02:44,028
+PART.2: O sea, has visto que no es muy
+común con ese animal, pero sí.
+
+52
+00:02:45,388 --> 00:02:47,028
+PART.2: ¿Qué te pregunto yo?
+
+53
+00:02:48,148 --> 00:02:49,068
+PART.2: A ver.
+
+54
+00:02:50,788 --> 00:02:52,668
+PART.2: Has dicho no cálido.
+
+55
+00:02:56,188 --> 00:02:57,148
+PART.2: Y herbívoro.
+
+56
+00:02:57,228 --> 00:02:58,588
+PART.2: ¿Me habías dicho que sí o que no?
+
+57
+00:02:58,668 --> 00:03:00,388
+PART.1: Me has preguntado herbívoro
+y te he dicho que no.
+
+58
+00:03:00,468 --> 00:03:01,908
+PART.2: Vale, no herbívoro.
+
+59
+00:03:05,348 --> 00:03:06,508
+PART.2: Soy de clima... Vale.
+
+60
+00:03:07,788 --> 00:03:12,148
+PART.2: ¿Un espécimen adulto de este
+animal supera esta estatura?
+
+61
+00:03:12,228 --> 00:03:13,148
+PART.1: Sí.
+
+62
+00:03:13,228 --> 00:03:17,188
+PART.2: Sí. Lo has dicho con creces, eso
+es que es bastante alto.
+
+63
+00:03:17,268 --> 00:03:18,628
+PART.2: Llevamos cinco preguntas.
+
+64
+00:03:19,548 --> 00:03:20,708
+PART.1: Ahora voy a por mi sexta.
+
+65
+00:03:20,788 --> 00:03:21,988
+PART.1: ¿Soy una foca?
+
+66
+00:03:22,068 --> 00:03:22,988
+PART.2: No.
+
+67
+00:03:23,428 --> 00:03:26,948
+PART.2: Bueno, te quedan cinco, pero
+puedes intentar dos veces el animal.
+
+68
+00:03:27,028 --> 00:03:29,148
+PART.2: O sea, te quedan cinco preguntas
+más y tu intento.
+
+69
+00:03:30,868 --> 00:03:31,668
+PART.2: Ah... Vale.
+
+70
+00:03:36,548 --> 00:03:37,508
+PART.2: ¿Soy un oso?
+
+71
+00:03:37,588 --> 00:03:38,388
+PART.1: Sí.
+
+72
+00:03:38,708 --> 00:03:39,668
+PART.2: ¡Premio!
+
+73
+00:03:41,548 --> 00:03:46,628
+PART.2: Vale, pues te quedan...
+¿Me habías preguntado algo?
+
+74
+00:03:47,268 --> 00:03:49,148
+PART.2: No, me habías dicho un animal.
+
+75
+00:03:49,628 --> 00:03:51,308
+PART.1: Te había preguntado si era tal.
+
+76
+00:03:51,388 --> 00:03:52,308
+PART.2: Vale, de acuerdo.
+
+77
+00:03:52,388 --> 00:03:54,028
+PART.2: Pues cinco preguntas más te
+quedan.
+
+78
+00:03:54,748 --> 00:03:56,828
+PART.1: ¿Han hecho películas sobre mí?
+
+79
+00:03:59,908 --> 00:04:03,308
+PART.2: En plan películas dibujos
+animados y tal, sí.
+
+80
+00:04:04,628 --> 00:04:09,268
+PART.2: No eres un animal como... poco
+querido.
+
+81
+00:04:16,988 --> 00:04:21,028
+PART.1: ¿Soy conocido por ser agresivo?
+
+82
+00:04:21,628 --> 00:04:22,468
+PART.2: No.
+
+83
+00:04:22,548 --> 00:04:22,908
+PART.1: Vale.
+
+84
+00:04:22,988 --> 00:04:23,748
+PART.2: No.
+
+85
+00:04:34,468 --> 00:04:36,828
+PART.1: ¿Tengo un agujero en la parte de
+arriba de mi cuerpo?
+
+86
+00:04:36,908 --> 00:04:37,948
+PART.2: No.
+
+87
+00:04:38,388 --> 00:04:40,308
+PART.2: No. No va por ahí, ¿eh?
+
+88
+00:04:40,868 --> 00:04:41,788
+PART.2: No va...
+
+89
+00:04:46,028 --> 00:04:49,308
+PART.2: Lo de la película era una buena
+pregunta.
+
+90
+00:04:49,508 --> 00:04:50,228
+PART.1: Ya, Ya.
+
+91
+00:04:55,988 --> 00:05:01,028
+PART.2: O sea, foca no, no tiene zoo,
+no tiene agujero encima...
+
+92
+00:05:01,108 --> 00:05:03,268
+PART.1: ¿Tengo tentáculos?
+
+93
+00:05:03,348 --> 00:05:03,788
+PART.2: No.
+
+94
+00:05:05,668 --> 00:05:06,988
+PART.1: No lo voy a acertar.
+
+95
+00:05:07,988 --> 00:05:11,508
+PART.2: Te queda una y un... extra.
+
+96
+00:05:15,148 --> 00:05:16,908
+PART.2: Piensa. Zoo, no.
+
+97
+00:05:17,508 --> 00:05:24,108
+PART.2: Algún pequeño espectáculo poco
+común con este animal, pero poco
+común.
+
+98
+00:05:26,108 --> 00:05:27,748
+PART.2: No foca, no delfín.
+
+99
+00:05:28,588 --> 00:05:33,828
+PART.2: Bueno, si no tiene agujero
+encima, no puede ser un delfín.
+
+100
+00:05:35,788 --> 00:05:39,028
+PART.2: Es... Parte de su hábitat es el
+agua.
+
+101
+00:05:41,588 --> 00:05:43,988
+PART.2: No es agresivo en general.
+
+102
+00:05:45,148 --> 00:05:47,948
+PART.2: O sea, todo animal se puede poner
+en plan muy loco.
+
+103
+00:05:48,028 --> 00:05:51,028
+PART.2: Pero tampoco se le conoce por ser
+supermajo.
+
+104
+00:05:51,468 --> 00:05:54,908
+PART.2: Un animal más bien mono, se ha
+hecho alguna película sobre él.
+
+105
+00:05:56,988 --> 00:05:58,588
+PART.1: Es que pueden ser muchos ahora
+mismo.
+
+106
+00:06:01,188 --> 00:06:07,588
+PART.2: Diciéndote que es acuático y zoo,
+y que no es ni foca ni delfín, te
+quedan muy pocas.
+
+107
+00:06:10,228 --> 00:06:12,228
+PART.1: Es que no visualizo más ahora
+mismo, la verdad.
+
+108
+00:06:17,468 --> 00:06:20,668
+PART.2: Piensa que también te he dicho
+que es un animal un poco querido y
+tal.
+
+109
+00:06:20,748 --> 00:06:22,828
+PART.2: Tienes una pregunta más para
+intentar...
+
+110
+00:06:22,908 --> 00:06:25,028
+PART.1: Ya, ya, ya, pero es que...
+
+111
+00:06:36,148 --> 00:06:37,908
+PART.1: No se me ocurre qué puede ser.
+
+112
+00:06:55,028 --> 00:06:57,388
+PART.1: ¿Soy más grande que un ser
+humano?
+
+113
+00:06:57,468 --> 00:06:58,188
+PART.2: No.
+
+114
+00:06:58,268 --> 00:06:59,268
+PART.2: Para nada.
+
+115
+00:07:16,148 --> 00:07:17,468
+PART.1: ¿Soy un león marino?
+
+116
+00:07:17,548 --> 00:07:18,708
+PART.2: ¡Eres un pingüino!
+
+117
+00:07:18,788 --> 00:07:19,588
+PART.1: Ay, un pingüino.
+
+118
+00:07:19,668 --> 00:07:22,108
+PART.2: Un pingüino, tío.
+"Happy Feet", la película.
+
+119
+00:07:22,868 --> 00:07:24,868
+PART.1: Ah, es verdad.
+
+120
+00:07:25,908 --> 00:07:26,828
+PART.2: Es que no caías.
+
+121
+00:07:26,908 --> 00:07:28,828
+PART.1: No caía, no caía en un pingüino.
+
+122
+00:07:31,268 --> 00:07:32,748
+PART.2: Nada, pero bueno.
+
+123
+00:07:35,508 --> 00:07:36,868
+PART.2: Pues sí. Sí, sí.
+
+124
+00:07:37,348 --> 00:07:38,388
+PART.1: Ay, el pingüino.
+
+125
+00:07:40,908 --> 00:07:44,308
+PART.2: Decías que estabas estudiando el
+máster, ¿no?
+
+126
+00:07:44,388 --> 00:07:46,748
+PART.1: No. Ya lo he terminado y ahora
+estoy trabajando.
+
+127
+00:07:46,828 --> 00:07:47,908
+PART.2: ¿Qué edad tienes tú?
+
+128
+00:07:47,988 --> 00:07:48,628
+PART.1: 25.
+
+129
+00:07:48,708 --> 00:07:49,788
+PART.2: 25. Vale, vale.
+
+130
+00:07:50,708 --> 00:07:51,748
+PART.2: ¿De qué trabajas?
+
+131
+00:07:51,828 --> 00:07:53,108
+PART.1: En Rakuten TV.
+
+132
+00:07:53,308 --> 00:07:54,268
+PART.2: ¡No jodas!
+
+133
+00:07:54,348 --> 00:07:54,788
+PART.1: Sí.
+
+134
+00:07:54,868 --> 00:07:56,068
+PART.2: ¿En Rakuten TV?
+
+135
+00:07:56,268 --> 00:07:57,108
+PART.1: Sí, sí.
+
+136
+00:07:58,788 --> 00:08:01,828
+PART.2: Oigo mucho de esa empresa
+últimamente.
+
+137
+00:08:01,908 --> 00:08:03,148
+PART.2: Yo tengo un amigo que...
+
+138
+00:08:03,548 --> 00:08:05,508
+PART.2: ¿Sabes quiénes son
+Nice People at Work?
+
+139
+00:08:08,508 --> 00:08:20,188
+PART.2: Son una empresa que básicamente
+se centra en distribución de
+contenido en "streaming" para
+empresas como Rakuten, Netflix,
+HBO...
+
+140
+00:08:20,268 --> 00:08:20,908
+PART.1: ¿Ah, sí?
+
+141
+00:08:20,988 --> 00:08:21,908
+PART.2: Sí, sí, sí.
+
+142
+00:08:21,428 --> 00:08:22,748
+PART.1: Pero ¿de distribución?
+
+143
+00:08:22,828 --> 00:08:25,228
+PART.2: Les llevan todo el tema, como se
+dice...
+
+144
+00:08:26,548 --> 00:08:32,948
+PART.2: Técnico, a nivel de servicios,
+servidores, que el contenido sea...
+
+145
+00:08:33,388 --> 00:08:39,748
+PART.2: Claro, porque tú cuando haces
+"streaming" la calidad no importa
+demasiado, importa pues que no se
+pare. ¿Entiendes?
+
+146
+00:08:40,748 --> 00:08:42,108
+PART.1: Sí, que vaya en condiciones.
+
+147
+00:08:42,548 --> 00:08:52,948
+PART.2: Mi amigo, que hizo Informática en
+la URV de Tarragona, ha estado
+trabajando, hasta este mes, en la
+empresa que le lleva, pues esto,
+"streaming".
+
+148
+00:08:53,468 --> 00:08:54,268
+PART.2: Sí, sí.
+
+149
+00:08:54,348 --> 00:08:57,348
+PART.2: Estoy oyendo hablar bastante de
+esta empresa últimamente.
+
+150
+00:08:59,388 --> 00:09:01,508
+PART.1: Sí, ahora mismo sí,
+está creciendo bastante.
+

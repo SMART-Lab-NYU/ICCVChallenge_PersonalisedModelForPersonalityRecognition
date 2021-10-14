@@ -1,0 +1,420 @@
+﻿1
+00:00:00,000 --> 00:00:00,037
+PART.2: Molt bé.
+
+2
+00:00:00,000 --> 00:00:00,133
+PART.1: Molt bé.
+
+3
+00:00:06,548 --> 00:00:07,889
+PART.2: Així ha quedat bé, eh?, el què hem fet?
+
+4
+00:00:07,228 --> 00:00:09,396
+PART.1: Sí, ha estat bé. Hem...
+
+5
+00:00:09,432 --> 00:00:11,612
+PART.1: Ara no sé si t'ho puc dir, perquè potser en vols repetir algun.
+
+6
+00:00:11,651 --> 00:00:14,765
+PART.2: No. No, estos... fan sempre els mateixos.
+
+7
+00:00:14,845 --> 00:00:15,908
+PART.1: Ah, vale.
+
+8
+00:00:16,007 --> 00:00:17,288
+PART.2: Quin animal has hagut d'endevinar?
+
+9
+00:00:17,316 --> 00:00:19,164
+PART.1: A mi m'ha tocat el picoc.
+
+10
+00:00:19,620 --> 00:00:21,001
+PART.2: L'has endevinat?
+
+11
+00:00:20,669 --> 00:00:23,160
+PART.1: Sí! Però és que m'ha dit que era...
+
+12
+00:00:22,424 --> 00:00:24,626
+PART.2: Però un picoc... què era?
+
+13
+00:00:24,659 --> 00:00:25,820
+PART.1: Un paó reial.
+
+14
+00:00:25,841 --> 00:00:26,925
+PART.2: Ah, sí.
+
+15
+00:00:27,000 --> 00:00:28,112
+PART.1: Un paó reial.
+
+16
+00:00:27,980 --> 00:00:30,412
+PART.1: Clar, el seu era molt fàcil, era un hipopòtam!
+
+17
+00:00:28,519 --> 00:00:29,525
+PART.2: Què era?
+
+18
+00:00:30,477 --> 00:00:36,331
+PART.1: Clar! I quan m'ha dit... m'ha fet una pregunta que jo pensava: “és que clar, si li dic”...
+
+19
+00:00:36,531 --> 00:00:42,419
+PART.1: No, m'ha preguntat si era de terra, i dic: “part; part va per terra i part no”.
+
+20
+00:00:43,296 --> 00:00:47,629
+PART.1: Llavors aquí jo l'he despistat i l'he tingut despistat durant una estona, però...
+
+21
+00:00:48,237 --> 00:00:52,308
+PART.2: És que no es tracta de guanyar, tampoc.
+
+22
+00:00:50,396 --> 00:00:54,640
+PART.1: No, ja ho sé, però clar, teníem 10 preguntes i jo pensava, jo pensava...
+
+23
+00:00:54,416 --> 00:00:56,656
+PART.2: I no pensava ell el cas que va bé...
+
+24
+00:00:56,684 --> 00:01:02,078
+PART.1: S'ha estat a dos o tres preguntes que estava una mica així, i jo anava com més ràpid, fins al moment en que m'ha dit:
+
+25
+00:01:02,628 --> 00:01:06,261
+PART.1: "No", diu, "no, no, el color de les seves plomes...", perquè...
+
+26
+00:01:06,436 --> 00:01:10,100
+PART.1: Diu "no és aquest", i jo: "doncs ara sí que m'has ben fotut".
+
+27
+00:01:10,229 --> 00:01:15,117
+PART.1: Però és perquè jo m'havia oblidat d'una informació que m'havia donat ell, i que jo li he preguntat: "vola?"
+
+28
+00:01:15,405 --> 00:01:19,037
+PART.1: I m'ha dit, diu: "jo diria que no vola, aquest animal".
+
+29
+00:01:19,412 --> 00:01:22,324
+PART.1: Però clar, com després he sabut que era una au...
+
+30
+00:01:23,179 --> 00:01:25,560
+PART.1: Hi han aus que... bueno, perquè li he preguntat si tenia plomes...
+
+31
+00:01:24,577 --> 00:01:25,592
+PART.2: Hm...
+
+32
+00:01:26,860 --> 00:01:35,245
+PART.1: Clar, llavors ha set com... vale, m'he oblidat d'aquesta informació i després no avançava allò, i després ja m'ha atrapat.
+
+33
+00:01:35,580 --> 00:01:36,661
+PART.2: Ah!!
+
+34
+00:01:36,737 --> 00:01:38,236
+PART.1: M'ha atrapat i la dit abans que jo.
+
+35
+00:01:38,216 --> 00:01:41,944
+PART.2: Però jo no era en plan competir, els hem acabat els dos alhora.
+
+36
+00:01:40,672 --> 00:01:41,689
+PART.1: No, ja ho sé.
+
+37
+00:01:42,359 --> 00:01:46,092
+PART.1: Però ell l'ha acabat a la pregunta sis i jo l'he acabat a la pregunta vuit.
+
+38
+00:01:46,164 --> 00:01:49,245
+PART.2: És que jo, totes les vegades que ho he fet, ho hem fet primer un i després l'altre.
+
+39
+00:01:49,547 --> 00:01:51,471
+PART.1: Ah, nosaltres anàvem fent una cadascú.
+
+40
+00:01:51,539 --> 00:01:54,292
+PART.2: Perquè és més fàcil de contar així, no ho sé.
+
+41
+00:01:53,265 --> 00:01:54,436
+PART.1: Ah, vale.
+
+42
+00:01:54,908 --> 00:01:55,975
+PART.1: Vale, nosaltres no ho hem pensat.
+
+43
+00:01:55,744 --> 00:01:57,681
+PART.2: I si no és la competició, pff.
+
+44
+00:01:57,716 --> 00:02:01,424
+PART.1: Vale, no es que nosaltres com que... no ho sé, ens ha sortit així, tampoc ens ho hem plantejat.
+
+45
+00:02:01,460 --> 00:02:02,476
+PART.2: Ja.
+
+46
+00:02:02,515 --> 00:02:03,553
+PART.1: Després hem fet...
+
+47
+00:02:03,561 --> 00:02:04,597
+PART.2: Els Legos?
+
+48
+00:02:03,824 --> 00:02:05,792
+PART.1: ...una construcció de Lego.
+
+49
+00:02:06,308 --> 00:02:11,180
+PART.1: Que jo li he dit: "Luis, con estas manos... no puedes construir bien, ¿eh?"
+
+50
+00:02:11,452 --> 00:02:14,045
+PART.1: Perquè les peces eren molt petites i quan havia de posar...
+
+51
+00:02:14,285 --> 00:02:15,757
+PART.2: Té els dits grossos i quan...
+
+52
+00:02:14,907 --> 00:02:17,509
+PART.1: Clar, ell tenia les mans molt grosses.
+
+53
+00:02:17,669 --> 00:02:19,104
+PART.1: Em deia: "té, ponla tú, porque yo no..."
+
+54
+00:02:19,109 --> 00:02:20,536
+PART.2: Heu fet el joc aquell de la...?
+
+55
+00:02:19,580 --> 00:02:20,587
+PART.1: "Lo voy a destrozar".
+
+56
+00:02:20,598 --> 00:02:24,308
+PART.2: El joc aquell, què tal se t'ha donat, el joc del fantasma i tal?
+
+57
+00:02:24,571 --> 00:02:25,592
+PART.1: M'ha costat.
+
+58
+00:02:25,640 --> 00:02:27,132
+PART.2: Sí, no? Costa, al principi.
+
+59
+00:02:27,231 --> 00:02:28,461
+PART.1: M'ha costat al principi.
+
+60
+00:02:28,520 --> 00:02:30,885
+PART.1: Jo crec que si haguéssim tingut temps de fer un parell de...
+
+61
+00:02:31,692 --> 00:02:32,884
+PART.2: De proves.
+
+62
+00:02:32,816 --> 00:02:34,073
+PART.1: Clar, el Lluís ja havia jugat.
+
+63
+00:02:34,085 --> 00:02:35,117
+PART.2: Sí, jo també.
+
+64
+00:02:35,172 --> 00:02:37,085
+PART.1: Clar, hem tingut temps de fer una.
+
+65
+00:02:37,156 --> 00:02:38,249
+PART.2: Sí.
+
+66
+00:02:38,345 --> 00:02:40,229
+PART.1: I l'altre, hem estat a mitges.
+
+67
+00:02:40,229 --> 00:02:48,433
+PART.2: És molt més fàcil quan tens el color dels objectes ben clar, si saps que el ratolí és gris, el fantasma és blanc, el llibre és blau...
+
+68
+00:02:47,448 --> 00:02:48,528
+PART.1: Sí.
+
+69
+00:02:49,571 --> 00:02:51,504
+PART.2: ...la butaca és vermella, crec.
+
+70
+00:02:50,348 --> 00:03:02,669
+PART.1: Sí... I la norma aquesta de què si a la carta hi ha el mateix color i l'objecte, has d'agafar el mateix color de l'objecte, però clar, et quedes amb que... o sigui, jo penso que el teu cervell es queda com amb la imatge que...
+
+71
+00:03:02,940 --> 00:03:06,460
+PART.1: Si et surt una carta que no coincideix en color ni forma...
+
+72
+00:03:06,521 --> 00:03:07,561
+PART.2: Hmm.
+
+73
+00:03:07,584 --> 00:03:15,431
+PART.1: ...el teu cervell es queda amb aquesta idea, i quan surt un altre que coincideix, és com... "espera, ara què faig?"
+
+74
+00:03:12,448 --> 00:03:18,925
+PART.2: Sí, sí, no, és que no està clar, no està clar quina és la millor manera de jugar-hi.
+
+75
+00:03:19,116 --> 00:03:27,645
+PART.2: Si buscar el que no hi ha, primer, i després buscar si algo coincideix, o buscar si coincideix i després buscar el que no hi ha.
+
+76
+00:03:27,907 --> 00:03:35,245
+PART.2: Jo, normalment, ho faig... busco primer si n'hi ha algo que coincideix, i si no, l'objecte del color que no hi ha.
+
+77
+00:03:36,291 --> 00:03:41,252
+PART.2: Però quan tens clar els cinc objectes i els cinc colors, i el tens ben associat, és molt més fàcil.
+
+78
+00:03:41,555 --> 00:03:45,596
+PART.1: Sí, jo en aquest joc hi havia jugat, però era d'un altre estil.
+
+79
+00:03:45,869 --> 00:03:47,508
+PART.1: Era... es deia...
+
+80
+00:03:49,228 --> 00:03:50,496
+PART.1: Com es deia?
+
+81
+00:03:50,527 --> 00:03:51,788
+PART.1: Jungle...
+
+82
+00:03:52,057 --> 00:03:53,696
+PART.2: Jungle Dungle...
+
+83
+00:03:53,702 --> 00:03:54,724
+PART.2: No és com es deia?
+
+84
+00:03:54,812 --> 00:03:57,365
+PART.1: Jungle...  Algo de Jungle, ara no ho sé.
+
+85
+00:03:57,564 --> 00:04:07,357
+PART.1: Però tens un tòtem al mig. Un tòtem és una peça de fusta, i llavors tens això, un piló de cartes cada jugador, i treus les cartes alhora.
+
+86
+00:04:08,465 --> 00:04:09,548
+PART.2: Sí.
+
+87
+00:04:10,625 --> 00:04:14,403
+PART.1: I n’hi ha una al mig. Una carta al mig, que comença.
+
+88
+00:04:15,678 --> 00:04:29,036
+PART.1: Llavors, quan tu obres... quan obres totes les que... obres les que esta..., la que destapes, crec que... no sé, anava per forma i per colors, també.
+
+89
+00:04:29,176 --> 00:04:37,580
+PART.1: I llavors també era el primer que agafava el tòtem, diguéssim... És que, clar, guanyava qui es quedava sense cartes.
+
+90
+00:04:38,816 --> 00:04:40,460
+PART.1: El Jungle Speed, es diu.
+
+91
+00:04:40,516 --> 00:04:41,655
+PART.2: Jungle Speed.
+
+92
+00:04:41,709 --> 00:04:45,413
+PART.1: Jungle Speed. Però era una mica diferent, perquè no hi havia diferents figures...
+
+93
+00:04:47,665 --> 00:04:52,572
+PART.1: En el què havia jugat, que també era com de diferents figures, però eren tipo cartes, era el Dobble Dobble.
+
+94
+00:04:53,445 --> 00:04:54,828
+PART.2: No sé quin és.
+
+95
+00:04:55,149 --> 00:04:56,205
+PART.1: És que aquest és per nens.
+
+96
+00:04:56,233 --> 00:05:00,824
+PART.1: Bueno, aquest també és per nens, però jo li he preguntat al Javi...
+
+97
+00:04:59,603 --> 00:05:03,100
+PART.2: Clar que és per nens... Saps que aquí venen nens, també; sols que no han portat gaires.
+
+98
+00:05:00,936 --> 00:05:04,324
+PART.1: Sí, m'ho ha dit, m'ho ha dit en Javi.
+
+99
+00:05:04,399 --> 00:05:10,156
+PART.1: I jo li he dit: "home, en aquest, dic, nens de P4 no us ho saben fer, això, eh?"
+
+100
+00:05:10,261 --> 00:05:11,305
+PART.1: I diu: "no, no".
+
+101
+00:05:11,312 --> 00:05:12,507
+PART.2: Aquell del fantasma i tal?
+
+102
+00:05:12,516 --> 00:05:23,989
+PART.1: No, sí, clar. Els nens de fins a sis o set anys... bueno, una mica abans, amb quatre, algun podria començar... amb quatre o cinc.
+
+103
+00:05:24,115 --> 00:05:36,853
+PART.1: Però és que amb aquest edat només pensen en una qualitat... És a dir, ells només mirarien si a la carta surt el ratolí, un es fixaria en agafar el ratolí i l'altre es fixaria en agafar l'ampolla, no mirarien que hi ha colors, també.
+
+104
+00:05:38,715 --> 00:05:41,061
+PART.1: I en el del Lego, igual.
+
+105
+00:05:42,325 --> 00:05:43,612
+PART.1: De muntar un per un...
+

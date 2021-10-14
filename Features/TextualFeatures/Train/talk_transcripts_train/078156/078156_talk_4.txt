@@ -1,0 +1,105 @@
+100
+00:04:00,555 --> 00:04:03,955
+PART.1: Es bastante
+descorazonador a veces lo de...
+
+101
+00:04:03,955 --> 00:04:06,555
+PART.1: Es bastante
+descorazonador.
+
+102
+00:04:06,555 --> 00:04:07,235
+PART.2: Es que es eso.
+
+103
+00:04:07,235 --> 00:04:12,195
+PART.1: Tú pones unos datos ahí,
+piensas, "esto va a prender" y no prende.
+
+104
+00:04:12,195 --> 00:04:20,115
+PART.1: O lo que suele pasar es
+que la "loss" de "training"
+va bajando, la "loss" de "validation"
+no baja y estás perdido.
+
+105
+00:04:20,115 --> 00:04:22,955
+PART.1: El "accuracy" no sube en
+"validation" tampoco y no sabes qué pasa.
+
+106
+00:04:22,955 --> 00:04:24,155
+PART.1: Es un poco así.
+
+107
+00:04:24,155 --> 00:04:29,435
+PART.1: De hecho, no sé si lo has
+notado, que hablando de "learning", en la...
+
+108
+00:04:29,995 --> 00:04:36,155
+PART.1: Porque en el año
+que empezaste tú, ¿tú has notado todo
+este creciente de gente cada vez más
+trabajando en el campo?
+
+109
+00:04:36,155 --> 00:04:36,555
+PART.2: Sí.
+
+110
+00:04:36,555 --> 00:04:37,395
+PART.1: ¿Más y más gente?
+
+111
+00:04:37,395 --> 00:04:44,115
+PART.2: Claro, de hecho, en el año
+que fui yo, estaba solamente "CAI" y...
+
+112
+00:04:44,475 --> 00:04:46,795
+PART.2: Y luego la continuación
+de "CAI", no recuerdo cómo se llama.
+
+113
+00:04:46,795 --> 00:04:48,675
+PART.2: Habían dos asignaturas
+nada más que se hablaba de...
+
+114
+00:04:48,675 --> 00:04:49,115
+PART.1: Sí.
+
+115
+00:04:49,115 --> 00:04:52,875
+PART.2: De "deep learning"
+y no era el centro, era como, bueno,
+una de las cosas.
+
+116
+00:04:52,875 --> 00:04:53,395
+PART.1: Sí.
+
+117
+00:04:53,395 --> 00:04:56,115
+PART.2: Entonces bueno, se cubría
+algoritmos genético y alguna otra cosa.
+
+118
+00:04:55,275 --> 00:04:56,435
+PART.1: Sí, sí.
+
+119
+00:04:56,755 --> 00:04:58,915
+PART.2: Ahora hay una asignatura
+de "deep learning".
+
+120
+00:04:59,355 --> 00:05:04,435
+PART.1: Y una que es de
+"deep learning" y el resto que también
+deben hacer algo de "deep learning",
+¿no?, imagino.
+

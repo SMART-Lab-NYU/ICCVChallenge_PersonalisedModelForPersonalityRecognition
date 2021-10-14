@@ -1,0 +1,90 @@
+1
+00:00:00,393 --> 00:00:01,393
+PART.1: A ver...
+
+2
+00:00:01,873 --> 00:00:03,873
+PART.2: Este... Ah, este de aquí.
+
+3
+00:00:04,593 --> 00:00:06,393
+SUPERVISOR: Sí. Solo hay ese.
+
+4
+00:00:07,233 --> 00:00:10,433
+PART.2: Vale, vale, vale. Lo primero que
+tenemos que hacer...
+
+5
+00:00:10,513 --> 00:00:12,353
+PART.1: Es coger las piezas rojas.
+
+6
+00:00:12,553 --> 00:00:16,833
+PART.2: No, no. Vamos por partes o no
+vamos a poder solucionar el
+problema.
+
+7
+00:00:16,913 --> 00:00:17,793
+PART.1: Yo ahí veo el rojo.
+
+8
+00:00:17,873 --> 00:00:18,713
+PART.2: Sí. A ver...
+
+9
+00:00:18,793 --> 00:00:19,273
+PART.1: Y el marrón.
+
+10
+00:00:19,353 --> 00:00:32,233
+PART.2: No, no. Pongámonos serios.
+Necesitamos, primero, una pieza de
+un, dos, tres, cuatro, cinco, seis,
+siete, ocho. Tenemos la primera
+pieza, que es esta de aquí.
+
+11
+00:00:32,313 --> 00:00:36,713
+PART.2: Y aquí necesitamos la marrón que
+es de un, dos, tres, cuatro.
+¿Cuántas tiene esa?
+
+12
+00:00:36,793 --> 00:00:38,313
+PART.1: Esta no. Esta no es.
+
+13
+00:00:38,393 --> 00:00:39,953
+PART.2: No, no es. Es de cuatro.
+
+14
+00:00:40,113 --> 00:00:41,193
+PART.1: Mira, ¿esta?
+
+15
+00:00:41,273 --> 00:00:44,313
+PART.2: Sí, esta es de cuatro. Una de...
+dos.
+
+16
+00:00:45,113 --> 00:00:47,793
+PART.1: No. Esta no. Aquí.
+
+17
+00:00:47,873 --> 00:00:52,873
+PART.2: Sí. Y una de estas de aquí. Que
+sería esta de aquí.
+
+18
+00:00:53,233 --> 00:00:57,593
+PART.1: Sí. Ah, vale, es verdad. Aquí el
+color negro es diferente.
+
+19
+00:00:58,033 --> 00:01:06,073
+PART.2: A mí me gustan estas... A ver, me
+estoy equivocando. No se tiene que
+poner así. No se puede quitar.
+

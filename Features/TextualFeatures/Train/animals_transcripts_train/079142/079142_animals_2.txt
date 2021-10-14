@@ -1,0 +1,78 @@
+58
+00:02:02,742 --> 00:02:04,022
+PART.1: Eh...
+
+59
+00:02:06,902 --> 00:02:07,982
+PART.1: ¿Soy peligroso?
+
+60
+00:02:11,622 --> 00:02:12,742
+PART.2: Depende, pero no.
+
+61
+00:02:14,582 --> 00:02:18,702
+PART.2: O sea, puedo pensar
+situaciones en las que, quizá, puede
+ser un poco peligroso,
+
+62
+00:02:18,782 --> 00:02:20,542
+PART.2: pero no, no, no, no, no.
+De normal no.
+
+63
+00:02:21,902 --> 00:02:24,622
+PART.2: Eh.. Me has
+dicho que soy pequeño.
+
+64
+00:02:24,942 --> 00:02:25,422
+PART.2: No.
+
+65
+00:02:25,502 --> 00:02:27,462
+PART.1: No eres...
+No eres grande.
+
+66
+00:02:27,542 --> 00:02:29,542
+PART.1: Que no soy grande,
+perdón. Vale.
+
+67
+00:02:32,622 --> 00:02:34,582
+PART.2: Eh... ¿Tengo manchas?
+
+68
+00:02:38,822 --> 00:02:39,822
+PART.1: Sí.
+
+69
+00:02:41,822 --> 00:02:42,822
+PART.2: Vale.
+
+70
+00:02:45,102 --> 00:02:46,062
+PART.1: Eh...
+
+71
+00:02:46,702 --> 00:02:49,502
+PART.1: ¿Tengo pico largo?
+
+72
+00:02:52,262 --> 00:02:53,862
+PART.1: No tienes pico largo.
+
+73
+00:02:54,102 --> 00:02:55,222
+PART.2: Vale.
+
+74
+00:02:56,542 --> 00:02:57,782
+PART.1: No tienes pico largo.
+
+75
+00:02:59,062 --> 00:03:00,062
+PART.1: Vale.
+

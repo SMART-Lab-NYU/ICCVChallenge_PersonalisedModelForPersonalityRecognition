@@ -1,0 +1,77 @@
+﻿1
+00:00:00,000 --> 00:00:00,243
+PART.1: Ok.
+
+2
+00:00:00,323 --> 00:00:00,763
+PART.2: Ok.
+
+3
+00:00:00,763 --> 00:00:02,763
+PART.1: Ten questions.
+
+4
+00:00:02,763 --> 00:00:04,363
+PART.1: Ok, we can start.
+
+5
+00:00:07,643 --> 00:00:11,163
+PART.2: Is it a carnivore?
+
+6
+00:00:11,243 --> 00:00:12,243
+PART.1: A what?
+
+7
+00:00:12,243 --> 00:00:14,963
+PART.2: Carnivore, that eats only the animals.
+
+8
+00:00:17,243 --> 00:00:19,363
+PART.2: That eats only flesh
+or is it like a...
+
+9
+00:00:19,843 --> 00:00:24,763
+PART.1: I don't know,
+I don't think it eats flesh,
+does it?
+
+10
+00:00:26,963 --> 00:00:29,243
+PART.1: I am not sure,
+you can ask me another question.
+
+11
+00:00:30,363 --> 00:00:31,443
+PART.1: Something easier.
+
+12
+00:00:33,843 --> 00:00:35,443
+PART.2: Can it fly?
+
+13
+00:00:35,563 --> 00:00:36,563
+PART.1: Yes!
+
+14
+00:00:36,563 --> 00:00:38,563
+PART.2: Ok, that makes sense.
+
+15
+00:00:38,643 --> 00:00:42,443
+PART.1: It can fly, so, what about mine?
+Can it fly?
+
+16
+00:00:42,563 --> 00:00:43,563
+PART.2: No.
+
+17
+00:00:44,043 --> 00:00:45,563
+PART.1: Ok, that's enough.
+
+18
+00:00:55,043 --> 00:01:03,043
+PART.2: Does it eat with its paws?
+

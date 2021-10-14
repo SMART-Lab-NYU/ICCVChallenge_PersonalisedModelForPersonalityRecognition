@@ -1,0 +1,40 @@
+38
+00:03:03,925 --> 00:03:05,210
+PART.2: És què no soc de portar res...
+
+39
+00:03:05,274 --> 00:03:08,022
+PART.1: Cronómetro, alarmas, el tiempo...
+
+40
+00:03:09,155 --> 00:03:11,092
+PART.1: Jo tampoc porto rellotge
+
+41
+00:03:12,488 --> 00:03:17,713
+PART.1: Perquè em molesta aquí al canell, em fa suar. Em sua això, em molesta.
+
+42
+00:03:19,234 --> 00:03:31,154
+PART.1: En el meu mòbil hi ha, ejercicios, relax, cronómetros, alarmas... el tiempo. L'antiga esquerra de l'Exemple... vint-i-set graus.
+
+43
+00:03:32,146 --> 00:03:32,705
+PART.2: Ah si?
+
+44
+00:03:37,890 --> 00:03:39,315
+PART.1: Cap als costats?
+
+45
+00:03:46,025 --> 00:03:50,425
+PART.1: Oye, mira... posa, miércoles màxima 27, jueves 28
+
+46
+00:03:51,921 --> 00:03:53,699
+PART.1: Això vol dir que te connexió a internet?
+
+47
+00:03:54,641 --> 00:04:02,152
+PART.2: es pot connectar a la WIFI, o no se què...
+

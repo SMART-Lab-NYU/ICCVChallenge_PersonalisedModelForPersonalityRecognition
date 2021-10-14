@@ -1,0 +1,634 @@
+﻿1
+00:00:00,000 --> 00:00:02,416
+PART.1: Sí, però per això et dic jo
+que tu vas més de pressa en aquest tema.
+
+2
+00:00:02,496 --> 00:00:03,416
+PART.2: Val, doncs…
+
+3
+00:00:03,496 --> 00:00:04,816
+PART.1: Vinga, què vols fer?
+
+4
+00:00:04,896 --> 00:00:06,576
+PART.2: Hem de fer el cotxe. Aviam...
+
+5
+00:00:08,056 --> 00:00:10,456
+PART.2: Si vols, el pots tenir tu i anem mirant.
+
+6
+00:00:10,536 --> 00:00:13,336
+PART.1: Sí, mira, el primer serà aquest, no?
+
+7
+00:00:13,416 --> 00:00:14,936
+PART.2: Sí, molt bé. I…
+
+8
+00:00:15,016 --> 00:00:16,256
+PART.1: I el segon?
+
+9
+00:00:16,336 --> 00:00:18,776
+PART.2: …hi ha una cosa negra amb això.
+
+10
+00:00:18,856 --> 00:00:20,256
+PART.1: Un de sis…
+
+11
+00:00:20,336 --> 00:00:21,496
+PART.2: Aquest.
+
+12
+00:00:21,576 --> 00:00:22,736
+PART.1: Aquest.
+
+13
+00:00:22,816 --> 00:00:25,856
+PART.2: Ah, no, és més finet, és més finet.
+
+14
+00:00:25,936 --> 00:00:28,176
+PART.1: Dos, quatre, sis, vuit.
+
+15
+00:00:28,256 --> 00:00:29,816
+PART.2: Sí, però en comptes de…
+
+16
+00:00:29,896 --> 00:00:31,416
+PART.1: Dos, quatre, sis, vuit.
+
+17
+00:00:31,496 --> 00:00:33,416
+PART.2: En comptes de ser així, és així.
+
+18
+00:00:33,496 --> 00:00:34,736
+PART.1: Ah, és més finet.
+
+19
+00:00:34,816 --> 00:00:36,416
+PART.2: Sí, és com aquest. Aviam…
+
+20
+00:00:36,496 --> 00:00:37,936
+PART.1: Doncs crec que no, eh?
+
+21
+00:00:39,056 --> 00:00:40,336
+PART.2: No pot ser.
+
+22
+00:00:40,416 --> 00:00:43,776
+PART.1: La foto és la foto i l'original aquí no hi és.
+
+23
+00:00:43,856 --> 00:00:44,656
+PART.1: Sí que és una…
+
+24
+00:00:44,736 --> 00:00:47,256
+PART.2: Ah, si és aquest! És aquest! Val.
+
+25
+00:00:47,336 --> 00:00:48,896
+PART.2: Doncs aquest i un de petit.
+
+26
+00:00:49,696 --> 00:00:51,336
+PART.2: El petit aquest és… No.
+
+27
+00:00:51,416 --> 00:00:53,456
+PART.1: Sí, aquest de dos.
+
+28
+00:00:53,536 --> 00:00:57,736
+PART.2: Però aquest és marró i ha de ser d'aquest color.
+
+29
+00:01:00,456 --> 00:01:01,536
+PART.2: Aquest, perfecte.
+
+30
+00:01:01,616 --> 00:01:02,576
+PART.1: Val.
+
+31
+00:01:02,656 --> 00:01:05,696
+PART.2: Val, aleshores, ara l'hem de muntar.
+
+32
+00:01:05,776 --> 00:01:08,896
+PART.1: A veure com el muntem. Aquest al mig…
+
+33
+00:01:08,976 --> 00:01:10,616
+PART.2: Aquest va aquí.
+
+34
+00:01:10,696 --> 00:01:11,816
+PART.1: Al mig…
+
+35
+00:01:11,896 --> 00:01:13,656
+PART.2: Aquest va al mig.
+
+36
+00:01:13,736 --> 00:01:15,296
+PART.1: Espera, que...
+
+37
+00:01:17,976 --> 00:01:18,696
+PART.1: Val.
+
+38
+00:01:18,776 --> 00:01:19,496
+PART.2: Val.
+
+39
+00:01:19,576 --> 00:01:21,096
+PART.1: Pàgina número tres.
+
+40
+00:01:21,176 --> 00:01:21,856
+PART.2: Sí.
+
+41
+00:01:21,936 --> 00:01:25,696
+PART.1: Un quadrat de quatre i un altre quadrat de quatre.
+Un de granat…
+
+42
+00:01:25,776 --> 00:01:27,696
+PART.2: Un vermell i l'altre granat.
+
+43
+00:01:27,776 --> 00:01:29,256
+PART.1: …i l'altre vermell.
+
+44
+00:01:32,056 --> 00:01:32,896
+PART.2: Aquí.
+
+45
+00:01:32,976 --> 00:01:34,536
+PART.1: Doncs ja el tenim.
+
+46
+00:01:34,616 --> 00:01:35,416
+PART.2: Val.
+
+47
+00:01:35,496 --> 00:01:36,856
+PART.1: I on el fiquem?
+
+48
+00:01:36,936 --> 00:01:37,976
+PART.2: Cap aquí.
+
+49
+00:01:38,056 --> 00:01:40,096
+PART.1: El vermell aquí i el granat…
+
+50
+00:01:40,176 --> 00:01:41,616
+PART.2: A l'altre costat.
+
+51
+00:01:41,696 --> 00:01:42,576
+PART.1: …aquí.
+
+52
+00:01:43,616 --> 00:01:44,176
+PART.1: Què més?
+
+53
+00:01:44,256 --> 00:01:46,496
+PART.2: Un altre d'aquests.
+
+54
+00:01:46,576 --> 00:01:49,176
+PART.1: I un de quatre llarguet.
+
+55
+00:01:49,256 --> 00:01:51,016
+PART.2: Aquesta aquí…
+
+56
+00:01:51,096 --> 00:01:55,296
+PART.1: Un de quatre llarguet marró. Serà aquest, no?
+
+57
+00:01:55,376 --> 00:01:56,976
+PART.2: Sí. Sí, sí.
+
+58
+00:01:57,056 --> 00:02:00,376
+PART.1: I aquest el fiquem aquí al davant.
+
+59
+00:02:00,456 --> 00:02:01,536
+PART.2: Val.
+
+60
+00:02:01,616 --> 00:02:03,456
+PART.2: Cinc. Aquest… Aquest!
+
+61
+00:02:03,536 --> 00:02:07,016
+PART.2: Aquest, molt bé. Són dos? Sí.
+
+62
+00:02:07,096 --> 00:02:08,296
+PART.1: Sí.
+
+63
+00:02:08,376 --> 00:02:10,096
+PART.2: Són aquí.
+
+64
+00:02:10,176 --> 00:02:13,256
+PART.1: Val i on el fiquem? Aquí.
+
+65
+00:02:13,336 --> 00:02:15,456
+PART.2: Aquí. Aquí un…
+
+66
+00:02:15,536 --> 00:02:17,296
+PART.1: I l'altre…
+
+67
+00:02:17,376 --> 00:02:18,536
+PART.2: Ui.
+
+68
+00:02:19,536 --> 00:02:20,496
+PART.1: Molt bé.
+
+69
+00:02:20,576 --> 00:02:22,616
+PART.2: Ara ja va semblant un cotxe.
+
+70
+00:02:22,696 --> 00:02:25,776
+PART.1: I ara què més tenim? Un de quatre petitet marró.
+
+71
+00:02:25,856 --> 00:02:26,936
+PART.2: Aquest. Sí.
+
+72
+00:02:27,016 --> 00:02:28,896
+PART.1: I un de vermell quadradet.
+
+73
+00:02:29,456 --> 00:02:31,296
+PART.2: Té com… O sigui, és com…
+
+74
+00:02:31,376 --> 00:02:33,336
+PART.1: Sí, que és com una pujada.
+
+75
+00:02:33,416 --> 00:02:36,696
+PART.2: …triangular. És aquest. Sí. Un d'aquests i… aquest.
+
+76
+00:02:36,776 --> 00:02:38,776
+PART.1: D'aquest, en necessitem dos.
+
+77
+00:02:38,856 --> 00:02:39,616
+PART.2: Dos.
+
+78
+00:02:39,696 --> 00:02:40,416
+PART.1: Val.
+
+79
+00:02:41,576 --> 00:02:44,616
+PART.1: Llavors, el marró el fiquem aquí al darrera, no?
+
+80
+00:02:44,696 --> 00:02:47,136
+PART.2: Sí. Aquests són els alerons.
+
+81
+00:02:47,216 --> 00:02:49,296
+PART.1: I aquests són els dos…
+
+82
+00:02:49,376 --> 00:02:52,816
+PART.2: Uh! Perdó. Que me'l carrego! El posaré així.
+
+83
+00:02:52,896 --> 00:02:55,456
+PART.2: Dona'm, que el poso primer, perquè si no…
+
+84
+00:02:55,536 --> 00:02:56,616
+PART.1: Sí, sí.
+
+85
+00:02:56,696 --> 00:02:57,576
+PART.2: Ara.
+
+86
+00:02:59,456 --> 00:03:02,456
+PART.1: "Bueno" i això… Espera't.
+
+87
+00:03:02,536 --> 00:03:04,456
+PART.2: Ah, sí. Val.
+
+88
+00:03:04,536 --> 00:03:06,496
+PART.1: Eh… Sis… Set.
+
+89
+00:03:06,576 --> 00:03:08,056
+PART.2: Ara un…
+
+90
+00:03:08,136 --> 00:03:11,776
+PART.1: Un de blanc amb dos dallò… Blanc.
+
+91
+00:03:11,856 --> 00:03:14,896
+PART.2: És transparent. És aquest.
+
+92
+00:03:14,976 --> 00:03:16,416
+PART.1: Ah, sí.
+
+93
+00:03:16,496 --> 00:03:19,936
+PART.2: És com la finestreta del cotxe.
+
+94
+00:03:23,376 --> 00:03:24,696
+PART.2: I aquest el posem aquí, no?
+
+95
+00:03:24,776 --> 00:03:26,096
+PART.2: Mmm. I ara, les…
+
+96
+00:03:26,176 --> 00:03:29,376
+PART.1: Al damunt del cotxe n'hi ha una de transparent també.
+
+97
+00:03:29,456 --> 00:03:32,176
+PART.2: …les rodes. És això, o sigui, són les rodes.
+
+98
+00:03:32,256 --> 00:03:33,496
+PART.1: Per quatre. Sí.
+
+99
+00:03:33,576 --> 00:03:35,296
+PART.2: Aquí n'hi a un de muntat.
+
+100
+00:03:35,376 --> 00:03:36,096
+PART.1: Una…
+
+101
+00:03:37,776 --> 00:03:38,336
+PART.1: Aquesta no.
+
+102
+00:03:38,416 --> 00:03:42,256
+PART.2: Sí, sí. Sí, sí. Aquestes són les rodes
+i el que hi ha a dins...
+
+103
+00:03:42,336 --> 00:03:43,656
+PART.1: I el dallò, sí.
+
+104
+00:03:43,736 --> 00:03:45,296
+PART.2: …que s'ha de muntar.
+
+105
+00:03:45,376 --> 00:03:46,296
+PART.1: A veure.
+
+106
+00:03:46,376 --> 00:03:47,576
+PART.2: Ui. No entra.
+
+107
+00:03:49,136 --> 00:03:50,976
+PART.1: Una, dues, tres…
+
+108
+00:03:51,056 --> 00:03:52,056
+PART.2: Ara.
+
+109
+00:03:52,136 --> 00:03:53,856
+PART.1: Aquesta altra.
+
+110
+00:03:53,936 --> 00:03:55,216
+PART.2: I… Aquí.
+
+111
+00:03:55,296 --> 00:03:57,736
+PART.1: Falta un marró d'aquests.
+
+112
+00:03:57,816 --> 00:04:00,256
+PART.2: Sí. Val, el poso on toca.
+
+113
+00:04:00,336 --> 00:04:03,216
+PART.1: Sí. I el marró d'aquests, on és?
+
+114
+00:04:03,296 --> 00:04:05,456
+PART.2: És aquest, és aquest.
+
+115
+00:04:09,616 --> 00:04:10,776
+PART.2: Ah! Ara!
+
+116
+00:04:10,856 --> 00:04:13,896
+PART.1: Molt bé. Ja s'ha acabat el cotxe, no?
+
+117
+00:04:13,976 --> 00:04:16,056
+PART.2: Sí. Doncs ja el tenim.
+
+118
+00:04:16,136 --> 00:04:18,136
+PART.2: Aviam, que acabi de muntar això.
+
+119
+00:04:18,216 --> 00:04:21,816
+PART.1: "Bueno", dintre de tot, no ho hem fet malament.
+
+120
+00:04:21,896 --> 00:04:23,936
+PART.2: No, no, està perfecte!
+
+121
+00:04:24,016 --> 00:04:26,656
+PART.1: O sigui, per no saber jugar, no?
+
+122
+00:04:26,736 --> 00:04:29,616
+PART.2: Doncs mira, ara ja pots dir que has jugat a Lego!
+
+123
+00:04:29,696 --> 00:04:32,576
+PART.1: He jugat molt amb els meus fills quan eren petits.
+
+124
+00:04:32,656 --> 00:04:34,856
+PART.1: Quan eren petits, sí que tenien Lego d'aquests.
+
+125
+00:04:34,936 --> 00:04:36,496
+PART.2: Lego d'aquests, sí, sí.
+
+126
+00:04:36,576 --> 00:04:38,976
+PART.2: Jo, quan era petita, també tenia una caixa sencera.
+
+127
+00:04:39,576 --> 00:04:45,616
+PART.1: És clar, els meus fills tenen 50 anys gairebé
+i era el principi de sortir això.
+
+128
+00:04:45,696 --> 00:04:46,616
+PART.2: Sí?
+
+129
+00:04:46,696 --> 00:04:50,616
+PART.1: Sí i llavors jo era molt de joguines educatives…
+
+130
+00:04:50,696 --> 00:04:52,856
+PART.2: Ah, això està molt bé.
+
+131
+00:04:52,936 --> 00:04:56,016
+PART.1: No volia pistoles ni res de tot això…
+
+132
+00:04:56,096 --> 00:04:56,976
+PART.2: No.
+
+133
+00:04:57,056 --> 00:05:00,176
+PART.1: I els compràvem Lego. Encara els tinc.
+
+134
+00:05:00,256 --> 00:05:02,656
+PART.1: O sigui que hi he jugat dintre de tot.
+
+135
+00:05:02,736 --> 00:05:04,736
+PART.2: Llavors hi has jugat.
+
+136
+00:05:04,816 --> 00:05:08,976
+PART.2: Quan era petita, hi jugava, però
+també jugava a aquests de fusta.
+
+137
+00:05:10,296 --> 00:05:17,656
+PART.2: Aquests de fusta amb què jugava ja fa molts anys que hi són,
+però és clar, no sé des de quan estan…
+
+138
+00:05:17,736 --> 00:05:22,176
+PART.1: A veure, quan jo era petita, no teníem joguines.
+
+139
+00:05:23,136 --> 00:05:31,496
+PART.1: Quan ja vaig ser més grandeta,
+quan tenia 15 o 20 anys, ja els nens tenien joguines,
+però quan jo era petita, de joguines en teníem molt poques.
+
+140
+00:05:31,576 --> 00:05:32,816
+PART.2: Ja, no, no.
+
+141
+00:05:32,896 --> 00:05:38,696
+PART.1: Jo vaig néixer acabada la guerra
+i, és clar, el que teníem era feina per menjar cada dia.
+
+142
+00:05:38,776 --> 00:05:39,616
+PART.2: Sí, sí, sí.
+
+143
+00:05:39,696 --> 00:05:41,296
+PART.1: No anàvem als psicòlegs, saps?
+
+144
+00:05:41,376 --> 00:05:42,216
+PART.2: Ja, no, no.
+
+145
+00:05:42,296 --> 00:05:44,456
+PART.1: Ja li deia a l'Aleix. No anàvem al psicòleg.
+
+146
+00:05:44,536 --> 00:05:45,816
+PART.2: No n'hi havia, tampoc.
+
+147
+00:05:45,896 --> 00:05:47,056
+PART.1: Hi havia capellans.
+
+148
+00:05:47,136 --> 00:05:48,776
+PART.2: Ah, això ho feien els capellans!
+
+149
+00:05:48,856 --> 00:05:50,616
+PART.1: Els capellans feien de psicòleg, sí.
+
+150
+00:05:50,696 --> 00:05:52,656
+PART.2: Ostres! És una feina doble.
+
+151
+00:05:52,736 --> 00:05:53,776
+PART.1: Sí, sí,sí.
+
+152
+00:05:53,856 --> 00:05:56,176
+PART.1: Els capellans eren els psicòlegs d'aleshores.
+
+153
+00:05:56,256 --> 00:05:56,936
+PART.2: Ui!
+
+154
+00:05:57,016 --> 00:06:00,096
+PART.1: I eren gratuïts. No com ara, que els han de pagar.
+
+155
+00:06:00,176 --> 00:06:02,496
+PART.2: Sí, ara no, ara estan bastant cars.
+
+156
+00:06:02,576 --> 00:06:06,216
+SUPERVISOR: Val. Espera. Aneu fent això
+i jo vaig desfent aquest.
+

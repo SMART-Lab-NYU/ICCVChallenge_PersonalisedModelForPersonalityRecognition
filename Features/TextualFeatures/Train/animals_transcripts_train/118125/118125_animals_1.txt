@@ -1,0 +1,44 @@
+24
+00:01:01,347 --> 00:01:01,801
+PART.1: No
+
+25
+00:01:03,321 --> 00:01:04,496
+PART.2: Bueno, vale
+
+26
+00:01:18,081 --> 00:01:28,865
+PART.1: Es què de cop m'ha vingut una pregunta que m'han fet abans, i m'he quedat amb aquella pregunta... emm, té pèl?
+
+27
+00:01:35,226 --> 00:01:40,915
+PART.2: No se com dir-ho, pel? o que?
+
+28
+00:01:40,994 --> 00:01:42,051
+PART.1: Pel, pel
+
+29
+00:01:44,811 --> 00:01:47,082
+PART.2: Se'n pot considerar pel però no
+
+30
+00:01:47,162 --> 00:01:48,451
+PART.1: No, vale
+
+31
+00:01:48,482 --> 00:01:51,521
+PART.2: Bueno, sí, sí sí, en alguns llocs sí
+
+32
+00:01:51,562 --> 00:01:52,747
+PART.1: Vale
+
+33
+00:01:55,442 --> 00:01:57,570
+PART.2: Emm, es domèstic?
+
+34
+00:01:57,626 --> 00:02:00,346
+PART.1: No, no ho es
+

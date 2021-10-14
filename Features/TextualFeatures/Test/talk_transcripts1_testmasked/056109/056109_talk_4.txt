@@ -1,0 +1,122 @@
+94
+00:04:01,826 --> 00:04:03,386
+PART.1: �Qu� est�s haciendo,
+segundo a�o ahora?
+
+95
+00:04:05,799 --> 00:04:06,706
+PART.2: [MASKED] es m�ster de un a�o.
+
+96
+00:04:06,706 --> 00:04:07,746
+PART.1: S�, a�o y medio.
+
+97
+00:04:08,306 --> 00:04:09,800
+PART.2: Es de un a�o [MASKED]
+
+98
+00:04:11,799 --> 00:04:12,986
+PART.2: [MASKED]
+pero yo lo har�a en un a�o y medio
+
+99
+00:04:13,066 --> 00:04:15,800
+PART.2: porque como estoy haciendo con el
+trabajo a la [MASKED]
+
+100
+00:04:17,799 --> 00:04:19,266
+PART.1: [MASKED] s�, es comprensible.
+
+101
+00:04:19,266 --> 00:04:19,866
+PART.2: S�.
+
+102
+00:04:19,866 --> 00:04:21,800
+PART.1: Yo cuando empec� tambi�n
+estaba co [MASKED]
+
+103
+00:04:23,799 --> 00:04:26,506
+PART.1: Lo dej� al primer
+semestre porque era en plan "no".
+
+104
+00:04:27,146 --> 00:04:28,666
+PART.1: O hago una cosa o hago
+la otra.
+
+105
+00:04:28,666 --> 00:04:29,146
+PART.2: Ya.
+
+106
+00:04:29,866 --> 00:04:30,706
+PART.1: S�.
+
+107
+00:04:31,386 --> 00:04:32,026
+PART.2: Pues eso.
+
+108
+00:04:32,026 --> 00:04:33,240
+PART.2: Y ahora en vera [MASKED]
+
+109
+00:04:35,239 --> 00:04:35,506
+PART.1: �King?
+
+110
+00:04:35,506 --> 00:04:36,626
+PART.2: En los del Candy Crush.
+
+111
+00:04:36,826 --> 00:04:37,666
+PART.1: �Ah!
+
+112
+00:04:37,666 --> 00:04:39,186
+PART.2: Me han cogido para hacer
+[MASKED]
+
+113
+00:04:41,239 --> 00:04:42,386
+PART.2: De "Data Scientist".
+
+114
+00:04:42,386 --> 00:04:43,306
+PART.1: �Aqu� en Barcelona?
+
+115
+00:04:43,306 --> 00:04:44,026
+PART.2: S�.
+
+116
+00:04:44,146 --> 00:04:47,666
+PART.2: Est�n en Francesc Maci�,
+ahora se cambian a Gl�ries creo.
+
+117
+00:04:48,906 --> 00:04:50,066
+PART.1: No sab�a que eran de aqu�.
+
+118
+00:04:50,426 --> 00:04:53,306
+PART.2: No, ser, son de Suecia, creo.
+
+119
+00:04:53,786 --> 00:04:54,546
+PART.1: Ah, vale.
+
+120
+00:04:54,546 --> 00:04:57,026
+PART.2: Pero tienen oficina en Londres
+y en Barcelona, s�.
+
+121
+00:04:57,426 --> 00:04:59,226
+PART.2: S�, ahora todo el mundo
+tiene oficina en Barcelona.
+

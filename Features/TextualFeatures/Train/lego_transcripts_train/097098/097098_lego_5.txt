@@ -1,0 +1,74 @@
+84
+00:05:06,938 --> 00:05:09,138
+PART.1: Blau a baix.
+
+85
+00:05:09,218 --> 00:05:12,938
+PART.2: Espera't. Blau a baix, mira.
+
+86
+00:05:13,018 --> 00:05:14,338
+PART.1: Sí.
+
+87
+00:05:14,418 --> 00:05:24,058
+PART.2: Blau a baix, però de quants? Dos, quatre, sis, vuit.
+No, aquest és massa gran. Aquest. Val.
+
+88
+00:05:24,138 --> 00:05:25,538
+PART.1: Val.
+
+89
+00:05:30,018 --> 00:05:32,178
+PART.1: Aquests què són? Quadrats…
+
+90
+00:05:32,258 --> 00:05:34,058
+PART.2: Dos de dos.
+
+91
+00:05:34,138 --> 00:05:37,098
+PART.1: Dos de dos de quin color?
+
+92
+00:05:37,178 --> 00:05:40,458
+PART.2: D'aquest color carabassa. Un…
+
+93
+00:05:40,538 --> 00:05:41,898
+PART.1: I dos.
+
+94
+00:05:41,978 --> 00:05:44,858
+PART.2: Espera't. Un i dos. Val.
+
+95
+00:05:46,698 --> 00:05:47,578
+PART.2: Aquí`què tenim?
+
+96
+00:05:47,658 --> 00:05:49,058
+PART.1: Un de quatre.
+
+97
+00:05:49,138 --> 00:05:50,258
+PART.2: Dos més.
+
+98
+00:05:50,338 --> 00:05:52,338
+PART.1: Aquest no és de quatre?
+
+99
+00:05:52,418 --> 00:05:55,418
+PART.2: No, estan col·locats de manera diferent.
+
+100
+00:05:55,498 --> 00:05:59,778
+PART.2: O sigui, veus? Estan col·locats així
+i els altres estan col·locats rectes.
+
+101
+00:05:59,858 --> 00:06:00,938
+PART.1: Ah, val.
+

@@ -1,0 +1,130 @@
+61
+00:02:00,436 --> 00:02:00,796
+PART.1: No.
+
+62
+00:02:00,876 --> 00:02:02,036
+PART.1: ¿Vive en la selva?
+
+63
+00:02:03,276 --> 00:02:04,516
+PART.1: ¿En la Sabana?
+
+64
+00:02:04,596 --> 00:02:05,836
+PART.1: ¿Algo parecido?
+
+65
+00:02:06,516 --> 00:02:07,516
+PART.1: ¿No lo sabes?
+
+66
+00:02:08,796 --> 00:02:10,756
+PART.2: Es que no sabría qué decir.
+
+67
+00:02:10,276 --> 00:02:11,516
+PART.1: Es igual, ¿vive en un árbol?
+
+68
+00:02:12,236 --> 00:02:15,916
+PART.2: Vivir es una palabra...
+
+69
+00:02:16,396 --> 00:02:18,036
+PART.2: No, no vive en un árbol.
+
+70
+00:02:17,356 --> 00:02:18,436
+PART.1: No vive en un árbol.
+
+71
+00:02:18,516 --> 00:02:20,076
+PART.1: ¿En medio acuático?
+
+72
+00:02:20,156 --> 00:02:20,796
+PART.2: No.
+
+73
+00:02:20,876 --> 00:02:22,236
+PART.1: No te gusta la frase.
+
+74
+00:02:23,716 --> 00:02:25,276
+PART.1: Podría en un árbol.
+
+75
+00:02:25,356 --> 00:02:27,036
+PART.1: Pero, ¿repta?
+
+76
+00:02:27,116 --> 00:02:27,836
+PART.2: No.
+
+77
+00:02:27,956 --> 00:02:28,836
+PART.1: No repta.
+
+78
+00:02:29,436 --> 00:02:30,396
+PART.1: ¿Come animales?
+
+79
+00:02:30,476 --> 00:02:31,476
+PART.1: ¿Es carnívoro?
+
+80
+00:02:30,836 --> 00:02:31,436
+PART.2: No.
+
+81
+00:02:36,036 --> 00:02:37,316
+PART.1: ¿Qué más, qué más?
+
+82
+00:02:37,876 --> 00:02:42,316
+PART.1: No es carnívoro,
+podría estar en un árbol, yo qué sé.
+
+83
+00:02:42,396 --> 00:02:43,676
+PART.1: ¿Vuela?
+
+84
+00:02:43,756 --> 00:02:49,076
+PART.2: Podría estar en un árbol, o sea,
+quiero decir, no vive en un árbol,
+pero podría subir a un árbol
+si quisiera.
+
+85
+00:02:49,156 --> 00:02:49,916
+PART.1: Trepando.
+
+86
+00:02:49,996 --> 00:02:50,716
+PART.2: Sí.
+
+87
+00:02:50,796 --> 00:02:51,796
+PART.2: Vale.
+
+88
+00:02:53,556 --> 00:02:55,396
+PART.1: Me has dicho que no es grande,
+¿no?
+
+89
+00:02:55,476 --> 00:02:57,716
+PART.2: No,es grande.
+
+90
+00:02:57,796 --> 00:02:59,276
+PART.1: ES grande y podría estar en un
+árbol.
+
+91
+00:02:59,356 --> 00:03:01,276
+PART.1: ¿Qué más podría ser?
+

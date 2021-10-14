@@ -1,0 +1,56 @@
+17
+00:02:07,783 --> 00:02:08,889
+PART.1: És bona.
+
+18
+00:02:11,399 --> 00:02:11,952
+PART.1: Estàs en ratxa.
+
+19
+00:02:14,616 --> 00:02:15,303
+PART.2: Mira que sempre perdo en els jocs.
+
+20
+00:02:18,606 --> 00:02:18,911
+PART.1: Bona.
+
+21
+00:02:23,006 --> 00:02:24,351
+PART.1: Un, dos, tres, quatre.
+
+22
+00:02:24,832 --> 00:02:26,328
+PART.2: Oh, noi, t’he fotut un panot.
+
+23
+00:02:26,671 --> 00:02:34,319
+PART.2: Tres, quatre, cinc, sis, set, vuit i nou.
+
+24
+00:02:35,312 --> 00:02:36,544
+PART.2: Mare...
+
+25
+00:02:37,200 --> 00:02:37,673
+PART.2: Xupao.
+
+26
+00:02:39,552 --> 00:02:40,409
+PART.1: Un a zero.
+
+27
+00:02:46,216 --> 00:02:48,255
+PART.2: Bueno, el primer el deuen fer per trencar el gel.
+
+28
+00:02:49,025 --> 00:02:50,969
+PART.1: Coi, el gel, quin fart de pensar.
+
+29
+00:02:52,040 --> 00:02:53,976
+PART.2: Mira, hem aclarit que anirem més tard.
+
+30
+00:02:58,769 --> 00:03:03,294
+PART.2: Sí, més val marxar a la fresqueta, perquè així no t’agafarà tant cansat ni res.
+

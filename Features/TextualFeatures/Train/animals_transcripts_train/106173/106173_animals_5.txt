@@ -1,0 +1,65 @@
+82
+00:05:00,039 --> 00:05:02,359
+PART.1: ¿Ves las palomas? Las palomas lo
+tienen pequeño.
+
+83
+00:05:02,439 --> 00:05:03,199
+PART.1: Pues no.
+
+84
+00:05:03,799 --> 00:05:04,439
+PART.2: Vale.
+
+85
+00:05:04,519 --> 00:05:08,559
+PART.1: Pero no lo tiene como los
+flamingos, que lo tienen muy grande.
+
+86
+00:05:11,279 --> 00:05:12,119
+PART.2: Vale.
+
+87
+00:05:13,839 --> 00:05:14,719
+PART.2: Te toca.
+
+88
+00:05:16,719 --> 00:05:18,239
+PART.1: Ah...
+
+89
+00:05:19,879 --> 00:05:21,559
+PART.1: Tiene cuatro patas...
+
+90
+00:05:28,199 --> 00:05:29,679
+PART.1: Habíamos quedado en que no es
+grande, ¿verdad?
+
+91
+00:05:29,759 --> 00:05:32,879
+PART.2: Es más bien pequeñito.
+
+92
+00:05:32,959 --> 00:05:35,559
+PART.2: O sea, una cosa así.
+
+93
+00:05:36,919 --> 00:05:37,879
+PART.1: ¿Es un roedor?
+
+94
+00:05:41,679 --> 00:05:47,839
+PART.2: No sé si se considera roedor,
+pero es bastante parecido.
+
+95
+00:05:54,439 --> 00:05:56,999
+PART.2: Pero yo no sé si se considera
+roedor.
+
+96
+00:05:59,839 --> 00:06:00,839
+PART.2: Vale, a ver.
+

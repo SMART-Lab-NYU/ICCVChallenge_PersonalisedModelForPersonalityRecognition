@@ -1,0 +1,123 @@
+1
+00:00:01,039 --> 00:00:02,839
+PART.1: Vale, ¿cómo hacemos? ¿Quién
+empieza?
+
+2
+00:00:02,919 --> 00:00:03,799
+PART.2:  Empiezas tú.
+
+3
+00:00:03,879 --> 00:00:04,879
+PART.1: Vale.
+
+4
+00:00:04,959 --> 00:00:07,399
+PART.1: ¿Hacemos como primero todas las
+preguntas yo y luego tú o nos vamos
+preguntando el uno al otro?
+
+5
+00:00:07,719 --> 00:00:10,079
+PART.2:  Sí, sí, turnándonos es que nos
+confundimos mucho.
+
+6
+00:00:10,159 --> 00:00:10,879
+PART.1: Vale, vale.
+
+7
+00:00:10,959 --> 00:00:13,079
+PART.1: ¿Soy un mamífero?
+
+8
+00:00:13,159 --> 00:00:13,799
+PART.2:  No.
+
+9
+00:00:14,399 --> 00:00:17,079
+PART.1: ¿Soy un reptil?
+
+10
+00:00:17,159 --> 00:00:17,639
+PART.2:  No.
+
+11
+00:00:17,719 --> 00:00:18,239
+PART.1: Soy un ave.
+
+12
+00:00:18,319 --> 00:00:18,719
+PART.2:  Sí.
+
+13
+00:00:18,799 --> 00:00:19,719
+PART.1: Toma ya.
+
+14
+00:00:21,239 --> 00:00:22,479
+PART.1: Llevo tres preguntas.
+
+15
+00:00:23,159 --> 00:00:24,599
+PART.1: Soy...
+
+16
+00:00:27,399 --> 00:00:29,119
+PART.1: ¿Qué podría decir?
+
+17
+00:00:29,199 --> 00:00:30,839
+PART.1: ¿Tengo colores vivos?
+
+18
+00:00:30,919 --> 00:00:32,799
+PART.1: ¿Sabes?
+
+19
+00:00:32,879 --> 00:00:33,479
+PART.2:  No.
+
+20
+00:00:33,559 --> 00:00:34,159
+PART.1: No.
+
+21
+00:00:34,679 --> 00:00:37,319
+PART.2:  Así como amarillo, azul, rojo...
+No.
+
+22
+00:00:37,399 --> 00:00:41,439
+PART.1: Vale, eh, ¿puedo estar en la
+ciudad? ¿Sabes?
+
+23
+00:00:41,519 --> 00:00:42,519
+PART.2:  No.
+
+24
+00:00:42,599 --> 00:00:43,799
+PART.1: No soy de ciudad.
+
+25
+00:00:47,079 --> 00:00:49,999
+PART.1: Qué sería, eh...
+
+26
+00:00:51,839 --> 00:00:54,279
+PART.1: ¿Pero vivo con...?
+
+27
+00:00:54,359 --> 00:00:58,759
+PART.1: ¿Soy acuático? O sea, como un
+alimento del agua y tal.
+
+28
+00:00:55,879 --> 00:00:56,679
+PART.2:  Sí.
+
+29
+00:00:59,039 --> 00:00:59,919
+PART.1: Sí.
+

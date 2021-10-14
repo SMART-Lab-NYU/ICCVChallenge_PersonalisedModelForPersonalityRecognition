@@ -1,0 +1,29 @@
+81
+00:05:00,628 --> 00:05:02,548
+PART.1: Querido diario...
+
+82
+00:05:02,628 --> 00:05:05,228
+PART.2:  Esto parece más una goma que un...
+
+83
+00:05:05,308 --> 00:05:07,228
+PART.1: Sí, es una goma, claro.
+
+84
+00:05:07,948 --> 00:05:09,708
+PART.1: ¿Pero por qué hemos dicho
+sacapuntas?
+
+85
+00:05:09,788 --> 00:05:10,588
+PART.1: Porque Javi lo ha dicho.
+
+86
+00:05:10,668 --> 00:05:12,188
+PART.2:  Él dice, sí, tiene sacapuntas.
+
+87
+00:05:12,268 --> 00:05:14,268
+PART.1: Que va, no tiene ni idea.
+

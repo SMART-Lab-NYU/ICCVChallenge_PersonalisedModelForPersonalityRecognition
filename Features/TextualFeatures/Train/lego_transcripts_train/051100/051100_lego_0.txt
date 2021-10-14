@@ -1,0 +1,108 @@
+﻿1
+00:00:00,000 --> 00:00:00,836
+PART.2: Vale, vale, ja está bé!
+
+2
+00:00:00,723 --> 00:00:04,372
+PART.1: Vale, va, Javi, pues una florecilla.
+
+3
+00:00:04,373 --> 00:00:06,073
+PART.1: En serio, en serio?
+
+4
+00:00:06,084 --> 00:00:07,376
+PART.2: Bueno, sí, no?
+
+5
+00:00:07,455 --> 00:00:09,687
+PART.2: Vale, som-hi, jo tinc aquest, un...
+
+6
+00:00:12,608 --> 00:00:15,522
+PART.2: Aquí tens el verd...
+
+7
+00:00:15,523 --> 00:00:20,423
+PART.1: Després hi ha un com aquest però obscur, n'hi ha?
+
+8
+00:00:19,777 --> 00:00:21,532
+PART.1: És un color així, fosc.
+
+9
+00:00:24,033 --> 00:00:25,333
+PART.2: No, però aquest és el que m'has donat tu, eh?
+
+10
+00:00:25,447 --> 00:00:27,543
+PART.1: Ah, sí, sí són el mateix.
+
+11
+00:00:28,063 --> 00:00:29,607
+PART.2: Potser no n'hi han, eh?
+
+12
+00:00:29,823 --> 00:00:30,983
+PART.2: És que sembla…
+
+13
+00:00:31,075 --> 00:00:33,032
+PART.1: Ja, però no n'hi ha cap més color.
+
+14
+00:00:33,232 --> 00:00:34,976
+PART.1: Un error d'impressió.
+
+15
+00:00:35,216 --> 00:00:36,264
+PART.2: Sí, no?
+
+16
+00:00:36,348 --> 00:00:38,207
+PART.1: Necessitaràs un altre…
+
+17
+00:00:38,208 --> 00:00:39,208
+PART.1: Un altre...
+
+18
+00:00:39,239 --> 00:00:43,804
+PART.2: A veure, aquest petit, jo crec que és color blau, el blau fosc no.
+
+19
+00:00:43,832 --> 00:00:45,787
+PART.2: Hi ha més colors? Mira!
+
+20
+00:00:45,853 --> 00:00:47,151
+PART.1: És verd.
+
+21
+00:00:47,231 --> 00:00:48,516
+PART.2: Ai, volia dir verd fosc.
+
+22
+00:00:49,616 --> 00:00:51,410
+PART.2: Ho trobava una miqueta raro, eh?
+
+23
+00:00:51,451 --> 00:00:52,524
+PART.1: Pren.
+
+24
+00:00:52,480 --> 00:00:54,655
+PART.2: I això, era un altre d'aquests?
+
+25
+00:00:54,679 --> 00:00:56,039
+PART.1: Este és aquest...
+
+26
+00:00:56,169 --> 00:00:57,279
+PART.1: Ah, sí, sí, sí.
+
+27
+00:00:58,512 --> 00:01:02,585
+PART.1: Després tenim aquest i aquest…
+

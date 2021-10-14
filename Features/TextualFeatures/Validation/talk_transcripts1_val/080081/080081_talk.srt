@@ -1,0 +1,674 @@
+1
+00:00:03,875 --> 00:00:05,959
+PART.2: Hola, Marc. ¿Con
+qué has hablao de la Pepi?
+
+2
+00:00:06,042 --> 00:00:07,750
+PART.2: ¿Eh? ¿Eh?
+
+3
+00:00:08,542 --> 00:00:10,584
+PART.1: No, pues hemos
+hablado de las...
+
+4
+00:00:10,667 --> 00:00:12,417
+PART.1: de las vacaciones.
+
+5
+00:00:13,167 --> 00:00:14,375
+PART.1: Entonces, eh...
+
+6
+00:00:14,792 --> 00:00:16,959
+PART.1: Me preguntó que qué hacía
+y, pues yo le he dicho que iba al...
+
+7
+00:00:17,042 --> 00:00:18,042
+PART.1: iba al pueblo
+
+8
+00:00:18,500 --> 00:00:21,000
+PART.1: porque iba a ver a los
+abuelos y ella me ha explicado que...
+
+9
+00:00:21,250 --> 00:00:22,542
+PART.2: Ella se va a Cazorla.
+
+10
+00:00:23,667 --> 00:00:24,625
+PART.1: Sí, a...
+
+11
+00:00:24,667 --> 00:00:25,792
+PART.2: Se va el mes
+que viene a Cazorla.
+
+12
+00:00:26,125 --> 00:00:26,840
+PART.1: Sí, eso me ha...
+[MASKED]
+
+13
+00:00:28,839 --> 00:00:30,542
+PART.2: [MASKED] gusta mucho todo.
+
+14
+00:00:30,625 --> 00:00:32,750
+PART.1: Sí. Me ando
+explicando de que...
+
+15
+00:00:34,839 --> 00:00:35,667
+PART.1: [MASKED] Barcelona toda,
+
+16
+00:00:35,750 --> 00:00:37,125
+PART.1: que ella no tiene pueblo.
+
+17
+00:00:37,792 --> 00:00:40,500
+PART.2: No, no tiene pueblo,
+pero bueno, tiene capital.
+
+18
+00:00:41,209 --> 00:00:41,640
+PART.1: Bueno [MASKED]
+
+19
+00:00:43,639 --> 00:00:45,417
+PART.2: sus padre vinieron
+hace...
+
+20
+00:00:45,500 --> 00:00:47,640
+PART.2: hace años y ya bueno,
+no volvieron.
+
+21
+00:00:49,639 --> 00:00:50,625
+PART.2: [MASKED] viven, ¿sabes?
+
+22
+00:00:51,292 --> 00:00:51,959
+PART.2: Y eso.
+
+23
+00:00:52,042 --> 00:00:54,167
+PART.2: No, yo digo, a lo mejor,
+bueno te hará preguntas...
+
+24
+00:00:54,250 --> 00:00:55,240
+PART.2: Sabes que su hijo
+[MASKED]
+
+25
+00:00:57,239 --> 00:00:57,375
+PART.1: [MASKED] sí.
+
+26
+00:00:57,459 --> 00:00:58,667
+PART.2: Sí, ella tiene un hijo.
+
+27
+00:00:58,709 --> 00:01:00,625
+PART.2: Bueno, pues eso, que...
+
+28
+00:01:00,667 --> 00:01:02,334
+PART.2: ¿Esta noche qué haremos
+de cenar?
+
+29
+00:01:02,875 --> 00:01:04,875
+PART.1: No sé, ¿qué...?
+¿Qué hay?
+
+30
+00:01:03,792 --> 00:01:05,375
+PART.2: Verdura, hay verdura.
+Hay verdura.
+
+31
+00:01:05,459 --> 00:01:07,667
+PART.2: Eh...
+porque otra cosa.
+
+32
+00:01:07,750 --> 00:01:09,417
+PART.1: Bueno, también queda
+una ensalada de estas de bote.
+
+33
+00:01:09,625 --> 00:01:10,560
+PART.2: Ah, bueno,
+pues [MASKED]
+
+34
+00:01:12,559 --> 00:01:13,042
+PART.1: [MASKED]
+madrugar
+
+35
+00:01:13,125 --> 00:01:16,209
+PART.1: Y si mañana te vas a
+comer fuera, sino vamos a comer
+fuera por ahí también y ya está.
+
+36
+00:01:16,292 --> 00:01:17,292
+PART.1: Sí.
+
+37
+00:01:17,375 --> 00:01:17,560
+PART.2: Y ya [MASKED]
+
+38
+00:01:19,834 --> 00:01:21,667
+PART.2: A ver qué...
+qué hacemos, ¿no?
+
+39
+00:01:21,750 --> 00:01:22,750
+PART.2: Sí.
+
+40
+00:01:22,834 --> 00:01:25,584
+PART.2: Yo con tal de salir de...
+por ahí.
+
+41
+00:01:25,667 --> 00:01:26,280
+PART.2: Bueno, y que no tenga
+que hacer [MASKED]
+
+42
+00:01:28,279 --> 00:01:29,042
+PART.2: [MASKED] tengo bastante.
+
+43
+00:01:29,125 --> 00:01:31,125
+PART.2: No... No voy a hacer cena
+ninguna.
+
+44
+00:01:31,209 --> 00:01:33,480
+PART.2: Y... ¿Sabes?
+Y si vamos tarde, pues [MASKED]
+
+45
+00:01:35,479 --> 00:01:36,042
+PART.2: [MASKED]
+Eh...
+
+46
+00:01:36,584 --> 00:01:38,834
+PART.2: ¿Y qué tal...? ¿Qué tal
+los exámenes? ¿Qué tal el examen?
+
+47
+00:01:42,375 --> 00:01:45,084
+PART.2: Bueno.
+A ver si apruebas todo.
+
+48
+00:01:45,167 --> 00:01:45,959
+PART.1: Hago lo que puedo.
+
+49
+00:01:46,042 --> 00:01:47,084
+PART.2: Haces lo que puedes.
+
+50
+00:01:47,167 --> 00:01:48,250
+PART.1: O sea...
+Sí, porque las...
+
+51
+00:01:48,334 --> 00:01:50,417
+PART.1: O sea, los exámenes de
+ingeniería son bastante complicados
+
+52
+00:01:50,667 --> 00:01:52,334
+PART.1: y hay que saber eh...
+
+53
+00:01:52,417 --> 00:01:54,084
+PART.1: buscar los puntos fáciles
+
+54
+00:01:54,709 --> 00:01:57,459
+PART.1: y hacer todo lo posible
+para obtener el máximo resultado.
+
+55
+00:01:57,542 --> 00:01:58,160
+PART.2: Me pa [MASKED]
+
+56
+00:02:00,159 --> 00:02:02,209
+PART.2: Bueno, ¿ves? Yo como no
+me tengo que examinar ya.
+
+57
+00:02:02,292 --> 00:02:03,542
+PART.1: Ya, bueno.
+
+58
+00:02:04,417 --> 00:02:05,584
+PART.2: Lo tengo mejor que tu.
+
+59
+00:02:06,209 --> 00:02:07,834
+PART.2: ¿Sabes? ¿Y cuánto te
+queda?
+
+60
+00:02:07,917 --> 00:02:09,084
+PART.2: ¿Cuánto tiempo te queda?
+
+61
+00:02:09,542 --> 00:02:10,709
+PART.1: Pues de...
+
+62
+00:02:10,792 --> 00:02:11,360
+PART.1: lo que queda [MASKED]
+
+63
+00:02:13,359 --> 00:02:14,084
+PART.1: [MASKED]
+semanas de junio.
+
+64
+00:02:14,167 --> 00:02:15,250
+PART.2: Bueno, está bien.
+
+65
+00:02:15,875 --> 00:02:18,667
+PART.2: Entonces, ¿te vas a ir
+mañana a comer fuera con los chicos?
+
+66
+00:02:18,750 --> 00:02:19,417
+PART.1: Todavía no lo sé.
+
+67
+00:02:19,500 --> 00:02:20,160
+PART.2: ¿Todavía no lo sabes?
+
+68
+00:02:22,159 --> 00:02:22,542
+PART.2: [MASKED] tienes.
+
+69
+00:02:23,625 --> 00:02:25,125
+PART.2: Son más lentos que una
+tortuga.
+
+70
+00:02:25,625 --> 00:02:26,667
+PART.1: Pero no digas esto.
+
+71
+00:02:27,792 --> 00:02:29,125
+PART.2: Por decir algo, hombre.
+No pasa nada.
+
+72
+00:02:29,209 --> 00:02:30,250
+PART.1: Te están grabando.
+
+73
+00:02:30,334 --> 00:02:32,250
+PART.2: Ya lo sé, pero
+no pasa nada, ¿qué más da?
+
+74
+00:02:32,709 --> 00:02:33,834
+PART.2: No pasa nada.
+
+75
+00:02:33,917 --> 00:02:34,917
+PART.2: ¿Sabes?
+
+76
+00:02:35,000 --> 00:02:35,880
+PART.2: No, pero [MASKED]
+
+77
+00:02:38,042 --> 00:02:40,459
+PART.2: Y si eso, pues que
+salimos por ahí a comer y ya está.
+
+78
+00:02:40,542 --> 00:02:41,500
+PART.1: Sí, ya veremos a ver.
+
+79
+00:02:41,709 --> 00:02:43,084
+PART.1: Sí. Claro.
+
+80
+00:02:43,167 --> 00:02:44,334
+PART.1: No, es que...
+
+81
+00:02:45,292 --> 00:02:46,959
+PART.1: Por lo menos que nos dé
+un poquito el aire.
+
+82
+00:02:49,279 --> 00:02:49,917
+PART.1: [MASKED] sol ya nos da.
+
+83
+00:02:50,375 --> 00:02:51,750
+PART.2: Sí, mira,
+esta tarde ha salido.
+
+84
+00:02:51,834 --> 00:02:53,280
+PART.1: Hombre, si está
+lloviendo, pues [MASKED]
+
+85
+00:02:55,834 --> 00:02:57,917
+PART.2: Sí.
+Pues esto está bien, ¿eh?
+
+86
+00:02:58,584 --> 00:02:59,667
+PART.1: ¿El qué?
+
+87
+00:02:59,750 --> 00:03:00,875
+PART.2: Esto de la... de...
+
+88
+00:03:01,167 --> 00:03:03,709
+PART.2: La idea que tiene. Mira,
+tienen hasta parquet y todo.
+
+89
+00:03:04,125 --> 00:03:04,834
+PART.2: ¿Sabes?
+
+90
+00:03:04,917 --> 00:03:06,000
+PART.1: Si esto es una clase.
+
+91
+00:03:06,334 --> 00:03:07,680
+PART.2: Ah, es una clase,
+pero tiene parqu [MASKED]
+
+92
+00:03:09,679 --> 00:03:10,625
+PART.2: A sí son las sillas
+también de...
+
+93
+00:03:10,667 --> 00:03:13,000
+PART.2: Cuando yo iba a catalán,
+las sillas también eran así.
+
+94
+00:03:13,084 --> 00:03:14,834
+PART.1: Sí, depende el
+sitio, son de ese tipo.
+
+95
+00:03:15,542 --> 00:03:19,584
+PART.2: Está bien porque ahí
+puedes estar entado en la silla y
+tienes la mesita delante.
+
+96
+00:03:20,042 --> 00:03:23,875
+PART.1: Ya, lo que pasa es
+que es incómodo para escribir,
+básicamente.
+
+97
+00:03:23,959 --> 00:03:26,209
+PART.2: Ya, porque claro,
+na más te coge que el libro.
+
+98
+00:03:27,084 --> 00:03:29,125
+PART.1: Bueno, no, es
+que no coge ni el libro. O sea...
+
+99
+00:03:29,209 --> 00:03:31,417
+PART.2: Bueno, el libro,
+tienes que...
+
+100
+00:03:31,500 --> 00:03:33,500
+PART.2: Tienes que escribir
+encima, tienes que escribir encima.
+
+101
+00:03:35,759 --> 00:03:37,500
+PART.1: [MASKED] ámenes
+de inglés, que los hacemos en...
+
+102
+00:03:38,084 --> 00:03:39,375
+PART.1: en sillas de estas,
+
+103
+00:03:39,625 --> 00:03:39,760
+PART.1: que [MASKED]
+
+104
+00:03:41,917 --> 00:03:43,917
+PART.1: lo tienes que ir
+sujetando y esas cosas.
+
+105
+00:03:44,584 --> 00:03:45,292
+PART.2: Sí.
+
+106
+00:03:45,375 --> 00:03:47,667
+PART.1: O sea, es mejor
+tener una mesa para... para
+escribir.
+
+107
+00:03:47,750 --> 00:03:49,542
+PART.2: Ya, pero así pueden
+venir...
+
+108
+00:03:49,625 --> 00:03:53,417
+PART.2: Hay más gente, porque si
+tienen que tener una mesa grande
+también, tela, ¿no?
+
+109
+00:03:54,250 --> 00:03:56,167
+PART.1: Sí, también.
+Esto ocupa menos espacio.
+
+110
+00:03:59,119 --> 00:03:59,667
+PART.2: [MASKED] al Ikea
+
+111
+00:03:59,709 --> 00:04:01,209
+PART.2: para ver lo de las mesas
+aquellas que te dije.
+
+112
+00:04:01,292 --> 00:04:02,292
+PART.1: ¿Qué mesas?
+
+113
+00:04:02,375 --> 00:04:04,459
+PART.2: Aquella mesita
+que te decía yo, a ver.
+
+114
+00:04:04,542 --> 00:04:05,875
+PART.2: En el Ikea
+a ver si hay algo de eso.
+
+115
+00:04:06,875 --> 00:04:07,920
+PART.1: ¿Pero qué tipo
+de mesa [MASKED]
+
+116
+00:04:09,919 --> 00:04:10,459
+PART.2: [MASKED] un...
+
+117
+00:04:10,542 --> 00:04:12,542
+PART.2: como para escribir.
+Pequeña.
+
+118
+00:04:12,625 --> 00:04:13,125
+PART.1: Ah, vale.
+
+119
+00:04:13,209 --> 00:04:14,167
+PART.2: Tienes que ponerla en
+la...
+
+120
+00:04:14,250 --> 00:04:15,500
+PART.2: Que a lo mejor queda
+bien.
+
+121
+00:04:15,709 --> 00:04:16,840
+PART.2: Y tirar aquella otra.
+
+122
+00:04:18,839 --> 00:04:20,334
+PART.2: Pero si esa
+la quiero tirar.
+
+123
+00:04:20,500 --> 00:04:23,042
+PART.2: Entonces, si veo alguna
+que me gusta, pues la compro.
+
+124
+00:04:23,750 --> 00:04:24,750
+PART.2: ¿Sabes?
+
+125
+00:04:24,834 --> 00:04:25,680
+PART.2: No, porque
+[MASKED]
+
+126
+00:04:27,679 --> 00:04:29,042
+PART.2: poner el ordenador y tal.
+
+127
+00:04:29,375 --> 00:04:31,792
+PART.2: Y el ordenador este
+grande, ¿qué tal te va?
+
+128
+00:04:31,875 --> 00:04:33,417
+PART.2: ¿Es como esos de los
+chavales esos?
+
+129
+00:04:33,500 --> 00:04:35,292
+PART.1: Sí, es que se
+parece mucho al...
+
+130
+00:04:35,375 --> 00:04:36,667
+PART.1: al HP aquel.
+
+131
+00:04:36,917 --> 00:04:38,167
+PART.1: Lo que pasa que ese es...
+
+132
+00:04:38,250 --> 00:04:38,920
+PART.1: más de... para...
+[MASKED]
+
+133
+00:04:40,919 --> 00:04:43,584
+PART.1: [MASKED] teclado
+retroiluminado en color rojo.
+
+134
+00:04:43,667 --> 00:04:44,334
+PART.2: Es bonito eso.
+
+135
+00:04:44,417 --> 00:04:46,292
+PART.1: O sea, pero en sí, la
+estructura sí que el la misma del
+otro ordenador.
+
+136
+00:04:46,375 --> 00:04:47,875
+PART.2: Pero ¿qué cuesta más ese?
+
+137
+00:04:48,292 --> 00:04:49,334
+PART.1: Supongo yo que sí.
+
+138
+00:04:50,292 --> 00:04:53,160
+PART.1: Sí, porque yo aparte lo
+compre sin sistema operat [MASKED]
+
+139
+00:04:55,750 --> 00:04:59,000
+PART.1: O sea, eh... la versión
+que compre yo era más.. más económica.
+
+140
+00:05:00,250 --> 00:05:01,834
+PART.2: Claro, que hay
+que ahorrar dinero.
+
+141
+00:05:01,917 --> 00:05:02,917
+PART.1: Sí.
+
+142
+00:05:03,000 --> 00:05:04,167
+PART.2: Pero si te hace
+la misma función.
+
+143
+00:05:04,250 --> 00:05:05,959
+PART.1: Sí, bueno,
+ya porque los ordenadores estos
+
+144
+00:05:06,042 --> 00:05:07,080
+PART.1: que les ponen lucecitas
+[MASKED]
+
+145
+00:05:09,079 --> 00:05:09,917
+PART.1: [MASKED] bran más por
+eso.
+
+146
+00:05:10,000 --> 00:05:11,625
+PART.2: No hace falta más,
+¿sabes?
+

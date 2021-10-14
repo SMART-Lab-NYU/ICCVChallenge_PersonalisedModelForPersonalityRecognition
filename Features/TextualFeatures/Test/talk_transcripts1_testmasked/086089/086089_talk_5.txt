@@ -1,0 +1,36 @@
+109
+00:05:01,384 --> 00:05:01,760
+PART.1: Seria un detall, s�.
+
+110
+00:05:03,759 --> 00:05:05,744
+PART.2: Vull dir, vale que
+l'examen no sigui res de l'altre
+m�n, perqu� tampoc hem fet massa
+cosa de clase...
+
+111
+00:05:05,824 --> 00:05:07,064
+PART.1: Mai ha fet examen.
+
+112
+00:05:07,144 --> 00:05:07,584
+PART.1: O sigui, aleshores...
+
+113
+00:05:07,664 --> 00:05:08,704
+PART.2: Pues...
+
+114
+00:05:09,464 --> 00:05:11,304
+PART.2: Li podr�em recomanar...
+
+115
+00:05:15,184 --> 00:05:17,024
+PART.2: Era broma, sempre...
+
+116
+00:05:17,224 --> 00:05:19,384
+PART.2: Home, pues estaria b�,
+estaria b�.
+

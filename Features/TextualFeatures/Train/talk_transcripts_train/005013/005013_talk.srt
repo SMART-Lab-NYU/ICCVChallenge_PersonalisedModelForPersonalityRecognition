@@ -1,0 +1,413 @@
+1
+00:00:02,551 --> 00:00:04,071
+PART.1: Vale. Muy bien.
+
+2
+00:00:04,231 --> 00:00:06,071
+PART.2: ¿Cómo te llamas?
+
+3
+00:00:07,311 --> 00:00:09,271
+PART.1: Eso es un dato personal.
+
+4
+00:00:09,351 --> 00:00:11,071
+PART.2: Bueno, entonces no te...
+
+5
+00:00:11,151 --> 00:00:13,151
+PART.1: Me llamo "cinco".
+
+6
+00:00:13,231 --> 00:00:14,751
+PART.2: Ya. Yo me llamo "trece".
+
+7
+00:00:15,031 --> 00:00:16,431
+PART.1: Encantada "trece".
+
+8
+00:00:16,631 --> 00:00:21,191
+PART.2: Sí. Encantado. ¿Y qué haces?
+¿Estudias?
+
+9
+00:00:21,751 --> 00:00:25,591
+PART.1: No. Estoy trabajando. ¿Tú estás
+Estudiando?
+
+10
+00:00:25,751 --> 00:00:32,751
+PART.2: Estoy haciendo el doctorado de
+Historia de la Ciencia. Estoy
+trabajando el tema de la
+intratabilidad computacional.
+
+11
+00:00:33,911 --> 00:00:35,671
+PART.1: Eso, a mí, me suena muy
+complicado.
+
+12
+00:00:36,551 --> 00:00:39,911
+PART.2: Es complicado incluso para quien
+está haciendo el doctorado, así que
+no te preocupes.
+
+13
+00:00:39,991 --> 00:00:43,551
+PART.1: ¿Cómo lo explicarías para una
+persona que no entiende nada de eso?
+
+14
+00:00:43,631 --> 00:00:49,271
+PART.2: A ver, en resumidas cuentas,
+porque es algo un poco filosófico,
+pero yo lo tomo desde un punto de
+vista más histórico.
+
+15
+00:00:49,351 --> 00:01:04,351
+PART.2: Es como las personas encuentran
+solución a un problema, dada la
+posibilidad de soluciones que tiene
+ese problema, o sea, por ejemplo: en
+ese reloj, ¿cómo puedo cambiarle la
+hora?
+
+16
+00:01:05,151 --> 00:01:09,351
+PART.2: Estoy estudiando como surgen esos
+conceptos y esas ideas..
+
+17
+00:01:09,431 --> 00:01:17,551
+PART.1: Es decir, lo que estudias es cómo
+empezó, ¿no? Es decir, en la
+historia los avances científicos y
+todo esto...
+
+18
+00:01:17,631 --> 00:01:20,111
+PART.2: No tanto, sino como se llegó
+hasta allá.
+
+19
+00:01:20,511 --> 00:01:30,671
+PART.1: Bueno, a eso llego. Como la
+primera persona pensó en cómo
+hacerlo o los métodos que se fueron
+siguiendo.
+
+20
+00:01:30,751 --> 00:01:39,191
+PART.2: Más o menos es algo así. Sí,sí. Es que
+en la historia no se tiene una
+linealidad, es un poco más complejo.
+
+21
+00:01:39,271 --> 00:01:53,871
+PART.2: Pero la historia es una
+disciplina un poco más complicada de
+lo que yo pensaba al comienzo. Pero
+no pasa nada. ¿Y tú estudiaste aquí
+en la UB?
+
+22
+00:01:53,951 --> 00:01:57,231
+PART.1: No. Yo nunca he estudiado en la
+universidad.
+
+23
+00:01:57,511 --> 00:02:00,551
+PART.2: Ah, vale. ¿Tú hiciste una FP?
+
+24
+00:02:00,751 --> 00:02:05,271
+PART.1: No. Yo soy una plebeya... Es
+broma.
+
+25
+00:02:07,511 --> 00:02:09,511
+PART.2: Hiciste solo el FP.
+
+26
+00:02:09,591 --> 00:02:11,191
+PART.1: No. No tengo estudios.
+
+27
+00:02:11,271 --> 00:02:12,351
+PART.2: ¿No tienes estudios?
+
+28
+00:02:12,431 --> 00:02:13,551
+PART.1: Tengo la ESO y ya está.
+
+29
+00:02:17,471 --> 00:02:18,471
+PART.2: Y...
+
+30
+00:02:20,871 --> 00:02:24,311
+PART.2: O sea, ¿acabaste la ESO o el
+bachillerato?
+
+31
+00:02:24,391 --> 00:02:25,391
+PART.1: La ESO.
+
+32
+00:02:25,831 --> 00:02:32,871
+PART.2: Es que yo no entiendo muy bien
+porque soy de Ecuador. Entonces,
+está la escuela, ¿no? Y después
+vienen la ESO.
+
+33
+00:02:32,951 --> 00:02:33,631
+PART.1: Sí.
+
+34
+00:02:33,711 --> 00:02:34,551
+PART.2: Después viene el bachillerato.
+
+35
+00:02:34,631 --> 00:02:35,071
+PART.1: Sí.
+
+36
+00:02:35,151 --> 00:02:36,711
+PART.2: Ah, entonces, ¿acabaste la ESO?
+
+37
+00:02:36,791 --> 00:02:37,511
+PART.1: Sí.
+
+38
+00:02:37,591 --> 00:02:42,671
+PART.2: Vale. Tú te retiraste a los 14 o
+15 años del colegio.
+
+39
+00:02:42,751 --> 00:02:44,751
+PART.1: A los 16. Aquí es hasta los 16.
+
+40
+00:02:44,831 --> 00:02:47,711
+PART.2: Vale. A los 16 tú terminaste tu
+educación.
+
+41
+00:02:47,791 --> 00:02:53,191
+PART.1: Sí. No sé en otros países, pero
+aquí es obligatorio hasta los 16.
+
+42
+00:02:53,351 --> 00:02:58,271
+PART.2: En Ecuador es hasta que termines
+el colegio. Tienes que terminar el
+bachillerato.
+
+43
+00:02:58,351 --> 00:03:06,831
+PART.1: Claro. Aquí el bachillerato no es
+obligatorio. Si fuera obligatorio,
+más gente tendría el bachillerato,
+pero no es el caso.
+
+44
+00:03:07,591 --> 00:03:11,391
+PART.2: Vale, vale, vale. Ahora tú te
+dedicas a trabajar.
+
+45
+00:03:11,471 --> 00:03:12,471
+PART.1: Sí.
+
+46
+00:03:13,351 --> 00:03:16,151
+PART.2: No te voy a preguntar porque es
+un dato personal, ¿no?
+
+47
+00:03:16,231 --> 00:03:16,911
+PART.1: Sí.
+
+48
+00:03:16,991 --> 00:03:19,711
+PART.2: Pero, exactamente, ¿en qué área
+trabajas?
+
+49
+00:03:20,631 --> 00:03:26,711
+PART.1: Pues... ahora trabajo en el de la
+basura. No puedo contarte más.
+
+50
+00:03:26,791 --> 00:03:29,191
+PART.2: Ah, vale. Recogedor...
+
+51
+00:03:29,271 --> 00:03:32,991
+PART.1: No exactamente. Estoy en un
+despacho.
+
+52
+00:03:33,711 --> 00:03:38,311
+PART.2: Vale. No te voy a preguntar dónde
+y creo que es lo más adecuado
+dejarlo así.
+
+53
+00:03:45,391 --> 00:03:49,951
+PART.2: ¿A ti qué te gusta?
+
+54
+00:03:51,631 --> 00:03:55,591
+PART.1: Uy... A mí me gustan muchas
+cosas. Empieza tú.
+
+55
+00:03:56,271 --> 00:04:01,911
+PART.2: Bueno, yo no tengo mucho
+tiempo... A mí me gusta mucho el
+cine y los libros.
+
+56
+00:04:02,551 --> 00:04:04,631
+PART.1: ¿Qué tipo de cine te gusta?
+
+57
+00:04:04,711 --> 00:04:05,711
+PART.2: Cine antiguo.
+
+58
+00:04:05,791 --> 00:04:08,311
+PART.1: ¿Cine antiguo? ¿Cuánto de
+antiguo?
+
+59
+00:04:08,951 --> 00:04:11,511
+PART.2: 1930, 40, 50, 60...
+
+60
+00:04:12,911 --> 00:04:14,391
+PART.1: ¿Es el único cine que ves?
+
+61
+00:04:14,471 --> 00:04:23,391
+PART.2: A veces veo películas nuevas,
+pero, más que todo, son películas no
+muy comerciales. O sea, están dentro
+del circuito comercial,
+
+62
+00:04:25,911 --> 00:04:41,831
+PART.2: pero no tienen nada que ver, por
+ejemplo, con la última película de
+los "Avengers". Mi cine es, por
+ejemplo, como Paul Gauguin llegó a
+ser. Como llegó a ser Paul Gauguin a
+partir de esto o aquello.
+
+63
+00:04:41,911 --> 00:04:51,751
+PART.2: O la última película ganadora
+del Óscar que es "Green book". Es de
+cómo una persona llegó a ser a
+partir de unas condiciones.
+
+64
+00:04:52,191 --> 00:05:01,471
+PART.1: Veo que todo eso está un poco
+relacionado con lo que estudias,
+¿no? De alguna manera, en otro
+ámbito, un ámbito más de arte, pero está
+relacionado.
+
+65
+00:05:01,871 --> 00:05:07,791
+PART.2: A mí me gusta que mi vida gire
+alrededor de eso desde siempre.
+
+66
+00:05:08,071 --> 00:05:09,111
+PART.1: ¿Desde siempre?
+
+67
+00:05:09,191 --> 00:05:12,151
+PART.2: Desde que soy adulto. Desde que
+tengo 20 años.
+
+68
+00:05:13,711 --> 00:05:22,831
+PART.1: Más o menos, ¿cuándo empezaste a
+desarrollar esa afición por las
+películas más antiguas?
+
+69
+00:05:22,911 --> 00:05:35,271
+PART.2: A los 20 años. En Ecuador
+había un canal independiente, de la
+Universidad Católica de
+Santiago de Guayaquil, y en este
+canal se desarrollaban algunas
+cosas.
+
+70
+00:05:35,351 --> 00:05:38,471
+PART.2: Bueno, ¿y a ti qué te gusta? ¿Qué
+"hobbies" te gustan?
+
+71
+00:05:40,151 --> 00:05:46,551
+PART.1: También me gusta el cine, pero no
+veo películas antiguas. Alguna vez,
+pero no tan antiguas.
+
+72
+00:05:46,831 --> 00:05:48,311
+PART.2: Más contemporáneo.
+
+73
+00:05:48,391 --> 00:06:06,471
+PART.1: Sí. Más contemporáneo. Sí que hay
+películas de antes que están muy
+bien. Muchas no las conozco, pero
+por desconocimiento también.
+Realmente no me he puesto a
+buscar... buenas películas de tal época.
+
+74
+00:06:06,551 --> 00:06:10,991
+PART.1: A lo mejor tampoco ha salido
+mucho de mí, ¿no?
+
+75
+00:06:11,471 --> 00:06:16,791
+PART.2: Ya. Bueno, claro. ¿El género de
+las películas que te gustan?
+
+76
+00:06:18,151 --> 00:06:25,831
+PART.1: ¿El género? Desde drama hasta
+acción. No sé, un poco de todo. Las
+que menos son las de terror.
+
+77
+00:06:25,911 --> 00:06:26,911
+PART.2: Ya.
+
+78
+00:06:27,271 --> 00:06:31,711
+PART.1: Que las veo, pero tengo miedo.
+
+79
+00:06:31,791 --> 00:06:32,911
+PART.2: Te da mucho miedo.
+
+80
+00:06:33,231 --> 00:06:39,831
+SUPERVISOR: Vale. Pues ahora que os conocéis
+un poco podemos empezar a jugar.
+

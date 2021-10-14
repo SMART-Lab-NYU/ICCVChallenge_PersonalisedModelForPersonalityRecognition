@@ -1,0 +1,147 @@
+﻿1
+00:00:00,041 --> 00:00:01,241
+PART.2: Vale, coge una azul.
+
+2
+00:00:01,321 --> 00:00:02,321
+PART.2: De dos.
+
+3
+00:00:02,641 --> 00:00:03,601
+PART.2: Esta, la tengo aquí.
+
+4
+00:00:03,681 --> 00:00:05,041
+PART.1: El lila, sí.
+
+5
+00:00:05,721 --> 00:00:06,441
+PART.2: Se pone aquí.
+
+6
+00:00:06,521 --> 00:00:07,561
+PART.1: Qué bonito.
+
+7
+00:00:08,201 --> 00:00:09,201
+PART.2: Listo.
+
+8
+00:00:11,201 --> 00:00:12,001
+PART.1: Eh...
+
+9
+00:00:12,081 --> 00:00:13,761
+PART.2: Uno de cuatro,
+que es esta.
+
+10
+00:00:13,841 --> 00:00:14,961
+PART.1: De ocho.
+
+11
+00:00:15,041 --> 00:00:16,081
+PART.2: De cuatro de largo,
+digo yo.
+
+12
+00:00:16,161 --> 00:00:16,761
+PART.1: Ah.
+
+13
+00:00:16,841 --> 00:00:18,401
+PART.1: De ocho cositas, digo yo.
+
+14
+00:00:18,681 --> 00:00:20,241
+PART.2: No me digas
+que a lo mejor hay premios.
+
+15
+00:00:20,481 --> 00:00:22,841
+PART.2: Y ahora coges cuatro de
+dos.
+
+16
+00:00:22,921 --> 00:00:24,601
+PART.1: De estos de cafecito.
+
+17
+00:00:24,761 --> 00:00:25,521
+PART.1: Uno...
+
+18
+00:00:25,601 --> 00:00:27,081
+PART.2: Y se pone aquí, vale.
+
+19
+00:00:27,761 --> 00:00:29,241
+PART.1: ¿Es en esos cafés
+los pusiste bajitos?
+
+20
+00:00:29,321 --> 00:00:30,321
+PART.2: Sí.
+
+21
+00:00:30,401 --> 00:00:32,281
+PART.1: Café claro, este.
+
+22
+00:00:34,481 --> 00:00:35,761
+PART.2: Yo soy el constructor.
+
+23
+00:00:35,841 --> 00:00:37,241
+PART.1: Tú eres
+el Bob constructor.
+
+24
+00:00:37,321 --> 00:00:38,321
+PART.1: Tú eres la ingeniera.
+
+25
+00:00:38,401 --> 00:00:39,761
+PART.1: Yo soy la ingeniera.
+
+26
+00:00:39,841 --> 00:00:41,161
+PART.1: Sí, toda la razón.
+
+27
+00:00:42,961 --> 00:00:43,961
+PART.1: Aquí está la T.
+
+28
+00:00:44,521 --> 00:00:46,321
+PART.1: Pero te tienes que saltar
+una...
+
+29
+00:00:46,881 --> 00:00:48,281
+PART.2: Ah, "chucha".
+
+30
+00:00:50,201 --> 00:00:51,721
+PART.2: Lo tenemos ahora.
+
+31
+00:00:54,121 --> 00:00:55,121
+PART.2: Vale, ¿qué más?
+
+32
+00:00:55,201 --> 00:00:56,081
+PART.1: Sigamos.
+
+33
+00:00:56,161 --> 00:00:57,161
+PART.1: Siguiente paso.
+
+34
+00:00:57,241 --> 00:00:58,721
+PART.1: El café arriba.
+
+35
+00:00:58,801 --> 00:00:59,921
+PART.2: ¿Uno largo?
+

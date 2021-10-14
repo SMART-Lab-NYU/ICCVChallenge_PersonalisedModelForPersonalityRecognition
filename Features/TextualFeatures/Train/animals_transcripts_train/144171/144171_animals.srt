@@ -1,0 +1,628 @@
+﻿1
+00:00:02,096 --> 00:00:03,976
+PART.1: Guay, ¿quien empieza?
+¿Empiezas tú?
+
+2
+00:00:04,056 --> 00:00:05,016
+PART.2: Sí, está bien.
+
+3
+00:00:04,816 --> 00:00:05,616
+PART.1: Vale.
+
+4
+00:00:05,816 --> 00:00:09,016
+PART.2: ¿Mi animal es terrestre?
+
+5
+00:00:09,856 --> 00:00:10,856
+PART.1: Sí.
+
+6
+00:00:11,016 --> 00:00:12,256
+PART.2: Sí, bien.
+
+7
+00:00:17,856 --> 00:00:20,536
+PART.2: ¿Te toca a ti? ¿Una y una
+o hacemos las diez?
+
+8
+00:00:20,656 --> 00:00:21,856
+PART.1: Las diez, sí.
+
+9
+00:00:21,416 --> 00:00:22,416
+PART.2: ¿Sí?
+
+10
+00:00:22,536 --> 00:00:23,496
+PART.1: Porque se me olvida.
+
+11
+00:00:23,096 --> 00:00:24,496
+PART.2: ¿Yo hago las diez
+entonces?
+
+12
+00:00:24,576 --> 00:00:25,456
+PART.1: Tú haces tus diez, sí.
+
+13
+00:00:25,536 --> 00:00:27,416
+PART.2: Ah, okey, nunca lo había
+jugado así.
+
+14
+00:00:28,776 --> 00:00:32,016
+PART.2: Bueno, es terrestre...
+¿Y anda en cuatro patas?
+
+15
+00:00:34,616 --> 00:00:35,616
+PART.1: Sí.
+
+16
+00:00:36,056 --> 00:00:37,256
+PART.2: ¿Sí?
+
+17
+00:00:39,976 --> 00:00:41,056
+PART.2: ¿Tiene mucho pelo?
+
+18
+00:00:41,136 --> 00:00:42,136
+PART.1: Sí.
+
+19
+00:00:43,616 --> 00:00:45,656
+PART.2: ¿Es grande, en
+comparación del humano?
+
+20
+00:00:45,816 --> 00:00:48,376
+PART.1: No. Pequeñito.
+
+21
+00:00:50,856 --> 00:00:53,856
+PART.2: Pequeñito... Terrestre...
+
+22
+00:00:56,936 --> 00:01:00,696
+PART.2: ¿Es un animal doméstico o
+es salvaje?
+
+23
+00:01:03,176 --> 00:01:04,416
+PART.1: Puede ser.
+
+24
+00:01:04,736 --> 00:01:06,256
+PART.2: ¿A veces es doméstico?
+
+25
+00:01:16,816 --> 00:01:18,176
+PART.1: Te quedan cinco.
+
+26
+00:01:18,976 --> 00:01:20,136
+PART.2: Sí, sí.
+
+27
+00:01:20,536 --> 00:01:22,696
+PART.2: Es pequeño, doméstico...
+
+28
+00:01:22,776 --> 00:01:23,896
+PART.2: ¿Tiene cola?
+
+29
+00:01:24,216 --> 00:01:25,216
+PART.1: Sí.
+
+30
+00:01:43,096 --> 00:01:44,216
+PART.2: ¿Es un roedor?
+
+31
+00:01:48,496 --> 00:01:49,696
+PART.1: Ostras.
+
+32
+00:01:51,776 --> 00:01:53,096
+PART.1: ¿Es un roedor?
+
+33
+00:01:55,216 --> 00:01:56,256
+PART.1: ¿No?
+
+34
+00:01:56,336 --> 00:01:57,856
+PART.2: ¿No es un roedor?
+
+35
+00:01:59,056 --> 00:02:00,336
+PART.2: Un roedor...
+
+36
+00:02:01,456 --> 00:02:03,856
+PART.1: No, un poquito más
+grande.
+
+37
+00:02:04,496 --> 00:02:06,176
+PART.2: Es pequeño...
+
+38
+00:02:06,496 --> 00:02:07,536
+PART.1: Ostras.
+
+39
+00:02:07,976 --> 00:02:09,296
+PART.2: Cuatro patas...
+
+40
+00:02:10,616 --> 00:02:12,576
+PART.1: Pero ¿qué tiene que hacer
+para ser un roedor?
+
+41
+00:02:12,856 --> 00:02:14,416
+PART.2: Eh... Eh...
+
+42
+00:02:15,096 --> 00:02:18,136
+PART.2: Es que hay varios tipos
+de roedores.
+
+43
+00:02:19,176 --> 00:02:23,056
+PART.2: Tampoco... Rata, ratón...
+
+44
+00:02:23,376 --> 00:02:24,896
+PART.1: Ya, no, no.
+
+45
+00:02:27,096 --> 00:02:30,056
+PART.2: No, sé, ahora estoy
+perdido por completo.
+
+46
+00:02:30,136 --> 00:02:31,616
+PART.1: Claro, pero es que...
+
+47
+00:02:36,016 --> 00:02:39,016
+PART.2: Tiene cola, va de cuatro
+patas...
+
+48
+00:02:39,696 --> 00:02:40,976
+PART.1: Mucho pelo.
+
+49
+00:02:41,056 --> 00:02:42,336
+PART.2: Mucho pelo.
+
+50
+00:02:45,696 --> 00:02:46,736
+PART.2: ¿Come carne?
+
+51
+00:02:46,816 --> 00:02:47,816
+PART.1: No.
+
+52
+00:02:53,216 --> 00:02:55,296
+PART.2: No, no, no. Ahora, sí.
+
+53
+00:02:55,576 --> 00:02:57,296
+PART.1: Le gusta algo mucho
+mucho.
+
+54
+00:02:58,696 --> 00:03:00,016
+PART.1: Es fan de un vegetal.
+
+55
+00:03:01,896 --> 00:03:03,936
+PART.2: Ah, del... del...
+
+56
+00:03:06,056 --> 00:03:07,256
+PART.2: ¿Del bambú?
+
+57
+00:03:07,336 --> 00:03:08,176
+PART.1: ¿Del?
+
+58
+00:03:08,256 --> 00:03:11,456
+PART.2: Es...
+¿Es... fanático del bambú?
+
+59
+00:03:11,736 --> 00:03:12,736
+PART.1: No.
+
+60
+00:03:12,816 --> 00:03:14,776
+PART.2: Ah. ¿Tiene orejas
+grandes?
+
+61
+00:03:15,016 --> 00:03:16,016
+PART.1: Sí.
+
+62
+00:03:15,656 --> 00:03:17,256
+PART.2: Ah. Entonces, es un
+conejo.
+
+63
+00:03:17,336 --> 00:03:18,336
+PART.1: Sí.
+
+64
+00:03:20,776 --> 00:03:22,056
+PART.2: Al último, al último.
+
+65
+00:03:22,136 --> 00:03:24,816
+PART.1: He dudado con lo del
+roedor, he dicho: "Es que es muy
+grande".
+
+66
+00:03:25,016 --> 00:03:27,016
+PART.2: Sí, sí, a lo último, lo
+logré.
+
+67
+00:03:27,736 --> 00:03:28,816
+PART.2: La última.
+
+68
+00:03:28,896 --> 00:03:30,856
+PART.1: Sí, a mí me pasó ayer.
+
+69
+00:03:30,936 --> 00:03:32,736
+PART.2: Sí, sí, lo del vegetal,
+me ayudó.
+
+70
+00:03:33,416 --> 00:03:34,576
+PART.2: Perfecto.
+
+71
+00:03:34,216 --> 00:03:36,856
+PART.1: Eh... Ahora voy yo.
+A ver. ¿Vuela?
+
+72
+00:03:37,496 --> 00:03:38,496
+PART.2: No.
+
+73
+00:03:39,176 --> 00:03:41,216
+PART.1: Okey. Eh...
+
+74
+00:03:43,616 --> 00:03:46,736
+PART.1: Eh... ¿Nada, vive en el
+agua?
+
+75
+00:03:47,176 --> 00:03:49,536
+PART.2: En las dos, agua y
+tierra.
+
+76
+00:03:49,616 --> 00:03:51,376
+PART.1: Huy. Eh...
+
+77
+00:03:54,416 --> 00:03:55,616
+PART.1: Eh...
+
+78
+00:03:59,656 --> 00:04:01,976
+PART.1: ¿Caza otros animalitos?
+
+79
+00:04:04,336 --> 00:04:05,736
+PART.1: ¿Es su dieta?
+
+80
+00:04:07,096 --> 00:04:11,216
+PART.2: Sí... Según yo, sí.
+Sí, sí, sí.
+
+81
+00:04:11,896 --> 00:04:13,176
+PART.2: Sí, sí.
+
+82
+00:04:13,336 --> 00:04:14,496
+PART.1: Eh...
+
+83
+00:04:16,376 --> 00:04:17,616
+PART.1: ¿Es peligroso?
+
+84
+00:04:17,976 --> 00:04:18,776
+PART.2: No, no.
+
+85
+00:04:18,856 --> 00:04:19,856
+PART.1: ¿No?
+
+86
+00:04:20,616 --> 00:04:21,856
+PART.1: Este...
+
+87
+00:04:22,576 --> 00:04:25,256
+PART.1: Agua y... ¿Tiene
+caparazón?
+
+88
+00:04:25,376 --> 00:04:26,376
+PART.2: No.
+
+89
+00:04:29,576 --> 00:04:31,176
+PART.1: Agua y tierra.
+
+90
+00:04:31,776 --> 00:04:33,056
+PART.1: Y no vuela.
+
+91
+00:04:36,656 --> 00:04:39,416
+PART.1: Según tú, sí caza
+animales. ¿A ver?
+
+92
+00:04:39,496 --> 00:04:40,856
+PART.2: Sí, chiquititos.
+
+93
+00:04:41,176 --> 00:04:42,776
+PART.1: A ver... Ay.
+
+94
+00:04:43,616 --> 00:04:45,496
+PART.1: Que se me ocurre uno,
+pero...
+
+95
+00:04:47,296 --> 00:04:50,176
+PART.1: ¿Qué fue lo último que
+pregunté, si era peligroso?
+
+96
+00:04:50,256 --> 00:04:51,296
+PART.2: Si era peligroso.
+
+97
+00:04:51,016 --> 00:04:53,616
+PART.1: Sí, entonces, no es un de
+esto.
+
+98
+00:04:54,296 --> 00:04:55,376
+PART.1: Eh...
+
+99
+00:04:59,976 --> 00:05:01,576
+PART.1: Y tampoco tiene
+caparazón.
+
+100
+00:05:01,656 --> 00:05:02,776
+PART.2: Tampoco.
+
+101
+00:05:03,056 --> 00:05:04,256
+PART.1: Eh...
+
+102
+00:05:05,536 --> 00:05:07,176
+PART.1: Ah. ¿Tiene colmillos?
+
+103
+00:05:07,496 --> 00:05:08,816
+PART.2: Eh... No.
+
+104
+00:05:17,096 --> 00:05:19,816
+PART.1: ¿Se arrastra cuando sale
+a la tierra?
+
+105
+00:05:20,976 --> 00:05:25,576
+PART.2: Eh... Se desliza algunas
+veces, pero, por lo regular, siempre
+camina.
+
+106
+00:05:25,896 --> 00:05:26,896
+PART.1: Pingüino.
+
+107
+00:05:26,976 --> 00:05:27,976
+PART.2: Sí.
+
+108
+00:05:28,816 --> 00:05:33,496
+PART.1: Estaba pensando en un
+cocodrilo, en un..., ¿cómo se llama
+esto?, manatí, que van...
+
+109
+00:05:33,576 --> 00:05:34,816
+PART.2: Ajá. Sí, sí, sí.
+
+110
+00:05:34,896 --> 00:05:36,056
+PART.1: Pingüino.
+
+111
+00:05:39,736 --> 00:05:42,216
+PART.1: Se desliza.
+Claro, eso fue clave.
+
+112
+00:05:42,296 --> 00:05:44,016
+PART.1: ¿Qué más se desliza?
+Más nada.
+
+113
+00:05:44,096 --> 00:05:45,376
+PART.2: Se desliza y camina.
+
+114
+00:05:45,576 --> 00:05:46,896
+PART.1: Más nada.
+
+115
+00:05:47,096 --> 00:05:49,376
+PART.1: Bien, este sí lo
+conseguí.
+
+116
+00:05:49,456 --> 00:05:52,656
+PART.1: La otra...
+Ayer, no, ayer ¿qué me tocó? Una cebra.
+
+117
+00:05:53,536 --> 00:05:54,896
+PART.1: Y no hubo manera.
+
+118
+00:05:54,976 --> 00:05:56,376
+PART.2: Sí, está difícil.
+
+119
+00:05:56,456 --> 00:05:58,736
+PART.1: Nunca pensé, ni siquiera
+en caballo.
+
+120
+00:05:59,656 --> 00:06:02,416
+PART.1: Pensaba en jirafa,
+elefante...
+
+121
+00:06:02,496 --> 00:06:08,256
+PART.2: Ese siempre lo había
+adivinado, este me costó muchísimo,
+hasta el final, que dijiste que era
+fan de un vegetal.
+
+122
+00:06:08,376 --> 00:06:09,416
+PART.1: Un vegetal.
+
+123
+00:06:09,496 --> 00:06:14,496
+PART.2: Con ese fue, pero, la
+primera, me tocó un tucán, ayer, me
+tocó un hipopótamo...
+
+124
+00:06:15,496 --> 00:06:18,816
+PART.2: ¿Y cuál fue la segunda?
+La segunda también estuvo
+superdifícil.
+
+125
+00:06:19,696 --> 00:06:21,816
+PART.2: Pero no recuerdo cuál fue
+la segunda.
+
+126
+00:06:22,776 --> 00:06:27,056
+PART.2: Sé que me había ido bien,
+pero esta, no. Es pequeño...
+
+127
+00:06:27,256 --> 00:06:29,216
+PART.1: Sí, y puede ser
+doméstico.
+
+128
+00:06:29,296 --> 00:06:31,096
+PART.2: Ajá, sí, sí.
+
+129
+00:06:31,296 --> 00:06:32,896
+PART.1: Pensé que ibas a
+preguntar: "¿Se come?".
+
+130
+00:06:33,696 --> 00:06:35,296
+PART.1: Y habría sido: "Sí".
+
+131
+00:06:36,216 --> 00:06:38,136
+PART.1: Ya sabías que no era una
+rata ni...
+
+132
+00:06:39,096 --> 00:06:40,776
+PART.2: Bueno, en China, se comen
+las ratas.
+
+133
+00:06:40,856 --> 00:06:43,376
+PART.1: Huy, sí, sí, los
+perritos...
+
+134
+00:06:43,456 --> 00:06:46,216
+PART.2: Yo estaba seguro que era
+un roedor, una rata o...
+
+135
+00:06:46,296 --> 00:06:47,456
+PART.1: Sí, sí.
+
+136
+00:06:48,696 --> 00:06:49,656
+PART.1: He dudado.
+
+137
+00:06:49,736 --> 00:06:54,336
+PART.2: Un topo, una ardilla,
+un..., todo ese tipo de cosas.
+
+138
+00:06:54,416 --> 00:06:57,896
+PART.2: Pero ya, cuando dijiste
+que era fanático de un vegetal...
+
+139
+00:06:59,216 --> 00:07:01,216
+PART.1: Bueno, no sé si es
+trampa, ¿eh?
+
+140
+00:07:01,296 --> 00:07:04,416
+PART.1: A mí me dieron pistas
+ayer, si no, no lo adivino.
+
+141
+00:07:05,336 --> 00:07:06,776
+PART.2: Sí, sí, sí.
+
+142
+00:07:07,856 --> 00:07:09,376
+PART.2: Estuvo superbién.
+

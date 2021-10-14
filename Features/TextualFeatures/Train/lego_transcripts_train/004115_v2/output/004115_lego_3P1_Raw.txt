@@ -1,0 +1,9 @@
+El azul parece que tiene más caña.
+Vamos a hacer el azul. 
+Sí. A ver cómo saco esto. 
+¿Tú puedes sacar esto? 
+Es en lo que más se está trabajando hoy en día.
+Hay varias ramas que trabajan en homología persistente y una es lacomputación.
+Realmente poder hacerlo... 
+O sea, porque ahora con el sistema tú tienes muchas CPUy puedes hacerlo todo muy rápido,pero ahora no te sirve de muchotener 50 000 CPU...
+Hace una semana o dos, recibí un mensaje de alguien que, en algúnpaquete, había metido laimplementación de homologíapersistente.

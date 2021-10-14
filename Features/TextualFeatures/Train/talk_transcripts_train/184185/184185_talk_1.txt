@@ -1,0 +1,84 @@
+11
+00:01:05,432 --> 00:01:07,456
+PART.1: Para, que això queda gravat…
+
+12
+00:01:11,485 --> 00:01:15,367
+PART.1: Explica una noticia que es faci el tele diari.
+
+13
+00:01:15,743 --> 00:01:17,023
+PART.2: No l’he vist.
+
+14
+00:01:17,286 --> 00:01:18,262
+PART.1: No has mirat el què?
+
+15
+00:01:18,504 --> 00:01:19,358
+PART.2: El tele diari.
+
+16
+00:01:19,559 --> 00:01:20,638
+PART.1: El diari, dic...
+
+17
+00:01:20,807 --> 00:01:22,751
+PART.1: Si l’expliques, amb les càmeres serà el tele diari.
+
+18
+00:01:25,151 --> 00:01:27,223
+PART.2: No sé, ni me’n recordo en aquest moment ara.
+
+19
+00:01:27,913 --> 00:01:29,497
+PART.2: Tantes càmeres aquí ja ni me’n recordo.
+
+20
+00:01:30,553 --> 00:01:31,498
+PART.2: Ai, per favor.
+
+21
+00:01:31,169 --> 00:01:31,976
+PART.1: No t’has mirat el tour?
+
+22
+00:01:34,146 --> 00:01:35,337
+PART.1: Avui no me l’han deixat acabar.
+
+23
+00:01:36,720 --> 00:01:37,642
+PART.2: Però si has dormit...
+
+24
+00:01:41,064 --> 00:01:42,745
+PART.2: T’asseguro que no tinc cap conversa.
+
+25
+00:01:45,345 --> 00:01:46,050
+PART.2: Em pixo, eh?
+
+26
+00:01:46,281 --> 00:01:48,289
+PART.1: Doncs inventa-te’n una, que en acabat...
+
+27
+00:01:48,738 --> 00:01:49,674
+PART.2: Tindré amb un altre?
+
+28
+00:01:49,865 --> 00:01:50,849
+PART.1: Amb un altre tindràs que...
+
+29
+00:01:51,001 --> 00:01:54,034
+PART.2: Ai, per favor, per favor, quina conversa tinc que...
+
+30
+00:01:54,194 --> 00:01:55,105
+PART.1: Inventar-te’n alguna.
+
+31
+00:01:57,225 --> 00:01:59,609
+PART.2: Ai, relaxem-nos una mica.
+

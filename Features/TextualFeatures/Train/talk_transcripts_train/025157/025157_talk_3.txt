@@ -1,0 +1,75 @@
+69
+00:03:03,657 --> 00:03:04,657
+PART.1: ¿Quiénes?
+
+70
+00:03:06,097 --> 00:03:08,737
+PART.2: Carlos, en la facultad de
+matemáticas.
+
+71
+00:03:11,457 --> 00:03:12,737
+PART.2: ¿No escuchaste el vídeo?
+
+72
+00:03:13,377 --> 00:03:15,097
+PART.1: Voy a venir a trabajar a la
+universidad.
+
+73
+00:03:16,457 --> 00:03:17,857
+PART.2: ¿Vas a venir a trabajar a la
+universidad?
+
+74
+00:03:17,937 --> 00:03:19,417
+PART.1: Voy a pedir trabajo aquí.
+
+75
+00:03:19,497 --> 00:03:20,777
+PART.2: Bueno, pide.
+
+76
+00:03:21,097 --> 00:03:25,377
+PART.1: Soy ingeniero mecánico y quiero
+trabajar en la universidad.
+
+77
+00:03:26,177 --> 00:03:29,737
+PART.1: Voy a ayudarles a estar mas
+relajados.
+
+78
+00:03:31,377 --> 00:03:34,377
+PART.1: Grábenme bien. Miren, miren.
+
+79
+00:03:34,537 --> 00:03:37,017
+PART.2: Pero si no te ven porque tienes
+la cara haciendo así.
+
+80
+00:03:37,217 --> 00:03:38,337
+PART.1: Ahora sí me conocen, mira.
+
+81
+00:03:39,577 --> 00:03:40,937
+PART.2: Pero ponte serio.
+
+82
+00:03:42,977 --> 00:03:48,417
+PART.1: Como si fueras a presentarte
+formalmente, háblame de ti.
+
+83
+00:03:51,817 --> 00:03:53,817
+PART.2: Tengo 42 años.
+
+84
+00:03:54,857 --> 00:03:56,297
+PART.2: Estoy casada.
+
+85
+00:03:57,817 --> 00:04:01,337
+PART.2: Tengo 42 años, claro que sí.
+

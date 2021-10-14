@@ -1,0 +1,540 @@
+1
+00:00:00,000 --> 00:00:00,400
+PART.2: ¿Cómo se llamaba la página?
+
+2
+00:00:01,200 --> 00:00:03,440
+PART.2: Comprar el bidón
+de gasolina, ¿no?
+
+3
+00:00:03,520 --> 00:00:04,000
+PART.1: No.
+
+4
+00:00:05,999 --> 00:00:07,440
+PART.1: ¿De qué hablas?
+
+5
+00:00:07,520 --> 00:00:10,320
+PART.1: ¿Cuándo te he pasado un
+página para comprar un bidón de gasolina?
+
+6
+00:00:10,400 --> 00:00:12,240
+PART.2: ¿No ibas a hacer
+una página sobre eso?
+
+7
+00:00:12,800 --> 00:00:14,280
+PART.1: No, tío. No.
+
+8
+00:00:14,360 --> 00:00:14,640
+PART.2: Ah, vale.
+
+9
+00:00:16,639 --> 00:00:18,240
+PART.1: [MASKED] ye, adelante, pero que sepas
+
+10
+00:00:18,320 --> 00:00:21,680
+PART.1: que no dejo a ningún
+competidor vivo, ¿sabes?
+
+11
+00:00:23,720 --> 00:00:24,840
+PART.2: ¿Cómo se llama esto?
+
+12
+00:00:25,440 --> 00:00:26,720
+PART.2: No sé, tío.
+
+13
+00:00:26,800 --> 00:00:28,840
+PART.2: ¿Y el trabajo este
+al final que estás haciendo?
+
+14
+00:00:30,879 --> 00:00:32,320
+PART.1: [MASKED]
+delante de las cámaras.
+
+15
+00:00:32,400 --> 00:00:35,240
+PART.2: Bueno, pero...
+El código este que me dijiste,
+
+16
+00:00:35,320 --> 00:00:36,640
+PART.2: que lo entendiste y eso.
+
+17
+00:00:36,720 --> 00:00:38,920
+PART.1: Ah, bien. Bien, bien.
+
+18
+00:00:39,000 --> 00:00:41,200
+PART.2: Ya lo ves más...
+asequible.
+
+19
+00:00:40,160 --> 00:00:42,000
+PART.1: Ya lo veo más asequible.
+
+20
+00:00:42,080 --> 00:00:43,480
+PART.1: El problema es cuando te dicen:
+
+21
+00:00:43,560 --> 00:00:45,920
+PART.1: Oye, mira, que hay que
+cambiar de proyecto.
+
+22
+00:00:46,000 --> 00:00:49,680
+PART.1: Claro... O sea,
+a proyectos me refiero, claro,
+
+23
+00:00:49,760 --> 00:00:53,240
+PART.1: es un gran proyecto
+que tiene diferentes módulos.
+
+24
+00:00:52,680 --> 00:00:55,280
+PART.1: Entonces se dice:
+Ah, has tocado este módulo.
+
+25
+00:00:55,360 --> 00:00:58,480
+PART.1: Pero es uno de,
+a lo mejor, 25 que hay, ¿sabes?
+
+26
+00:00:58,560 --> 00:00:59,560
+PART.2: Joder.
+
+27
+00:00:59,080 --> 00:01:01,880
+PART.1: Entonces, claro,
+hay algunos que están más especializados
+
+28
+00:01:01,960 --> 00:01:03,640
+PART.1: en unas cosas
+y otros en otras.
+
+29
+00:01:03,720 --> 00:01:05,120
+PART.1: Y yo, pues...
+
+30
+00:01:05,520 --> 00:01:06,960
+PART.1: Pues, bueno, en...
+
+31
+00:01:07,040 --> 00:01:09,440
+PART.1: He tocado uno o dos
+[MASKED]
+
+32
+00:01:11,439 --> 00:01:12,040
+PART.1: [MASKED] vamos a dar otro.
+
+33
+00:01:12,120 --> 00:01:16,640
+PART.1: Y abrí, pum.
+Tacatá, 20 paquetes dentro.
+
+34
+00:01:16,720 --> 00:01:19,560
+PART.1: Y abro un paquete, pum,
+tacatá, 40 paquetes dentro.
+
+35
+00:01:19,640 --> 00:01:20,840
+PART.1: Y dije: Bueno, pues nada.
+
+36
+00:01:22,839 --> 00:01:24,720
+PART.1: [MASKED] tra vez
+aquí darlo todo, ¿sabes?
+
+37
+00:01:24,800 --> 00:01:25,800
+PART.2: Madre mía, tío.
+
+38
+00:01:25,880 --> 00:01:29,200
+PART.2: Pero lo primero que
+hiciste ... en el primero, ¿no?
+
+39
+00:01:29,280 --> 00:01:30,840
+PART.1: Sí, en el primero.
+Ahora ya me [MASKED]
+
+40
+00:01:32,839 --> 00:01:35,600
+PART.2: [MASKED] ¿qué te han hecho
+hacer, más o menos?
+
+41
+00:01:35,680 --> 00:01:36,640
+PART.1: ¿En el otro?
+
+42
+00:01:38,839 --> 00:01:39,920
+PART.1: [MASKED] ra simplemente...
+
+43
+00:01:41,040 --> 00:01:42,840
+PART.1: Recogía datos de [MASKED]
+
+44
+00:01:45,200 --> 00:01:47,840
+PART.1: lo recibía
+y eso luego lo procesaba
+
+45
+00:01:47,920 --> 00:01:48,840
+PART.1: y lo mostraba
+en [MASKED]
+
+46
+00:01:51,200 --> 00:01:53,360
+PART.1: Entonces, el tema está
+en que tenía que arreglar...
+
+47
+00:01:53,440 --> 00:01:56,800
+PART.2: "¿Y qué es, frame...?
+¿Framework o eso? No, ¿no?
+
+48
+00:01:56,880 --> 00:01:57,880
+PART.1: Nada.
+
+49
+00:01:57,640 --> 00:01:58,640
+PART.2: Nada.
+
+50
+00:01:58,440 --> 00:01:59,520
+PART.1: Full javascript.
+
+51
+00:01:59,600 --> 00:01:59,640
+PART.2: ¿Java [MASKED]
+
+52
+00:02:01,639 --> 00:02:03,080
+PART.1: [MASKED]
+Y yo cuando...
+
+53
+00:02:03,160 --> 00:02:05,640
+PART.1: Si es que
+cuando me dijeron: Ex [MASKED]
+
+54
+00:02:07,639 --> 00:02:09,040
+PART.1: [MASKED]
+yo cuando entré la primera semana
+
+55
+00:02:09,120 --> 00:02:12,840
+PART.1: estaba una chica que me
+iba enseñando más o menos cómo iban las cosas.
+
+56
+00:02:12,920 --> 00:02:15,320
+PART.1: Pero la chica
+dejó la empresa, ¿sabes?
+
+57
+00:02:20,760 --> 00:02:23,280
+PART.1: Claro, se quería
+cortar las venas, ¿sabes?
+
+58
+00:02:23,360 --> 00:02:25,800
+PART.1: No, pero me refiero a
+que, claro, la pri [MASKED]
+
+59
+00:02:27,799 --> 00:02:31,240
+PART.1: [MASKED] ella se fue
+y, de golpe, llego le siguiente día,
+
+60
+00:02:30,680 --> 00:02:35,200
+PART.1: abro el... el "Gira",
+que es donde están los tickets, ¿sabes?
+
+61
+00:02:37,199 --> 00:02:38,800
+PART.1: [MASKED] cuatro incidencias, ¿sabes?
+
+62
+00:02:38,880 --> 00:02:40,400
+PART.1: Y digo: Hostia.
+
+63
+00:02:43,199 --> 00:02:43,480
+PART.1: [MASKED] ¿sabes?
+
+64
+00:02:43,560 --> 00:02:45,400
+PART.1: Y los tengo que arreglar
+y, bueno...
+
+65
+00:02:46,280 --> 00:02:50,160
+PART.1: Sinceramente,
+¿te acuerdas del "jQuery" ese que hicimos?
+
+66
+00:02:50,240 --> 00:02:51,760
+PART.2: Sí.
+"Que no entendía nada".
+
+67
+00:02:51,840 --> 00:02:52,000
+PART.1: Una [MASKED]
+
+68
+00:02:53,999 --> 00:02:54,240
+PART.1: [MASKED] esto.
+
+69
+00:02:55,440 --> 00:02:58,000
+PART.1: O sea, si para arreglar
+los bugs, a lo mejor para... [MASKED]
+
+70
+00:02:59,999 --> 00:03:04,000
+PART.1: Oye, el botón se ve más
+grande de lo que se tiene que ver.
+
+71
+00:03:05,999 --> 00:03:07,800
+PART.1: [MASKED] botón, pero no es en HTML,
+
+72
+00:03:07,880 --> 00:03:10,000
+PART.1: que tú lo hardcoreas,
+sino que tiene que hacerse [MASKED]
+
+73
+00:03:11,999 --> 00:03:12,920
+PART.2: Dinámico.
+
+74
+00:03:13,000 --> 00:03:16,000
+PART.1: Dinámicamente,
+pues, claro, yo [MASKED]
+
+75
+00:03:17,999 --> 00:03:18,680
+PART.1: Y nada.
+
+76
+00:03:18,880 --> 00:03:19,880
+PART.1: A tope.
+
+77
+00:03:19,960 --> 00:03:21,240
+PART.2: Pero te ayudan, ¿no?
+
+78
+00:03:21,320 --> 00:03:22,000
+PART.1: Sí, tuve que llama [MASKED]
+
+79
+00:03:23,999 --> 00:03:24,560
+PART.1: [MASKED] un cable,
+
+80
+00:03:24,640 --> 00:03:25,960
+PART.2: Este botón cómo...
+
+81
+00:03:26,040 --> 00:03:28,360
+PART.1: Este botón...
+Que le doy clic y no va, ¿eh?
+
+82
+00:03:30,399 --> 00:03:31,760
+PART.2: [MASKED] HTML.
+
+83
+00:03:31,840 --> 00:03:34,400
+PART.1: Entonces, le dije:
+Pero ¿no puedo hacer un [MASKED]
+
+84
+00:03:36,399 --> 00:03:37,320
+PART.1: [MASKED] full javascript.
+
+85
+00:03:37,400 --> 00:03:39,920
+PART.2: Pero ¿y por qué
+no quieren usar framework?
+
+86
+00:03:40,000 --> 00:03:41,560
+PART.2: ¿Hay una razón
+con sentido?
+
+87
+00:03:41,640 --> 00:03:43,280
+PART.1: Porque se perdería
+mucho tiempo.
+
+88
+00:03:43,360 --> 00:03:45,320
+PART.1: Y ahora mismo
+no están para perder el tiempo.
+
+89
+00:03:47,319 --> 00:03:48,040
+PART.1: [MASKED] portantes.
+
+90
+00:03:49,000 --> 00:03:50,520
+PART.1: Pero, bueno, oye,
+es lo que hay.
+
+91
+00:03:50,600 --> 00:03:52,960
+PART.2: Bueno, se pierde tiempo,
+pero después ganas, ¿no?
+
+92
+00:03:53,880 --> 00:03:54,120
+PART.2: Se pie [MASKED]
+
+93
+00:03:56,119 --> 00:03:59,040
+PART.1: Sí, bueno, pero es que
+eso no te creas que es solo...
+
+94
+00:03:59,120 --> 00:04:02,240
+PART.1: un poquito, ¿sabes?
+Hay un montón de cosas que hacer por ahí.
+
+95
+00:04:02,320 --> 00:04:03,680
+PART.1: O sea que...
+
+96
+00:04:05,160 --> 00:04:07,520
+PART.1: Y, nada, ahora
+lo último que me han dicho es...
+
+97
+00:04:07,600 --> 00:04:09,200
+PART.2: Joder,
+es que todo a mano, tío...
+
+98
+00:04:09,280 --> 00:04:12,840
+PART.1: Algo de migrar datos
+de un lugar a otro. O sea que...
+
+99
+00:04:12,920 --> 00:04:15,040
+PART.1: Facilillo, relativamente.
+
+100
+00:04:15,800 --> 00:04:17,040
+PART.1: Y, bueno, así hago.
+
+101
+00:04:17,120 --> 00:04:20,640
+PART.1: Ayer, eso sí. ¿Ayer fue?
+Sí, ayer.
+
+102
+00:04:20,720 --> 00:04:23,200
+PART.1: Estaba aburrido,
+porque no tenía trabajo.
+
+103
+00:04:23,280 --> 00:04:24,760
+PART.1: Y hoy estoy full trabajo.
+
+104
+00:04:24,840 --> 00:04:27,520
+PART.1: Porque como trabajamos
+en sprints de dos semanas...
+
+105
+00:04:28,360 --> 00:04:32,080
+PART.1: Pues, claro,
+ayer era justo el final del sprint.
+
+106
+00:04:32,160 --> 00:04:33,840
+PART.1: Entonces, yo ya había
+acabado todas mis tareas.
+
+107
+00:04:34,760 --> 00:04:36,960
+PART.1: Y ayer me aburría
+en plan: Pues nada,
+
+108
+00:04:37,040 --> 00:04:39,400
+PART.1: podría hacer lo que estoy
+haciendo aquí en mi casa.
+
+109
+00:04:39,480 --> 00:04:41,680
+PART.1: Y hoy, full tareas.
+
+110
+00:04:41,760 --> 00:04:45,000
+PART.1: Porque, yo qué sé,
+me han abierto dos bugs de lo otro...
+
+111
+00:04:45,080 --> 00:04:46,640
+PART.2: Pero ¿normalmente haces...?
+
+112
+00:04:46,720 --> 00:04:50,160
+PART.2: Trabajas sobre los bugs
+que abren... La incidencia que abren.
+
+113
+00:04:50,240 --> 00:04:53,360
+PART.1: Sí, o sea,
+no solo de los bugs que hay,
+
+114
+00:04:53,440 --> 00:04:55,400
+PART.1: sino también a lo mejor me piden...
+
+115
+00:04:56,040 --> 00:04:57,920
+PART.1: Cuando hay
+que "refractorizar" cosas
+
+116
+00:04:58,000 --> 00:04:59,680
+PART.1: o hay que cambiar cosas,
+pues...
+
+117
+00:04:59,760 --> 00:05:01,600
+PART.1: Pues eso, "te lías".
+
+118
+00:05:01,680 --> 00:05:04,440
+PART.1: Porque continuamente
+están moviendo cosas de sitio. O sea que...
+

@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:05,567
+PART.2: This is it
+and we can start forward
+with the blue one and then orange.
+
+2
+00:00:05,567 --> 00:00:07,367
+PART.1: Is this one? I think so.
+
+3
+00:00:08,567 --> 00:00:09,767
+PART.1: Yes, it's this one.
+
+4
+00:00:12,847 --> 00:00:14,847
+PART.1: So, we are starting
+with the piece of blue.
+
+5
+00:00:18,767 --> 00:00:20,247
+PART.2: Then the yellow...
+
+6
+00:00:23,047 --> 00:00:24,047
+PART.2: Ok.
+
+7
+00:00:25,247 --> 00:00:26,767
+PART.1: And then more...
+
+8
+00:00:27,247 --> 00:00:28,767
+PART.2: Another yellow?
+
+9
+00:00:29,447 --> 00:00:30,767
+PART.2: This one?
+
+10
+00:00:31,647 --> 00:00:32,767
+PART.2: Or is it orange?
+
+11
+00:00:32,967 --> 00:00:35,967
+PART.1: I don't know,
+there's another yellow here also.
+
+12
+00:00:36,367 --> 00:00:40,967
+PART.2: Yes, because on top
+I think the first one
+is orange and then yellow.
+
+13
+00:00:41,447 --> 00:00:46,247
+PART.1: Maybe, of course one orange
+and the two yellow above.
+
+14
+00:00:47,367 --> 00:00:48,367
+PART.1: But in the other way.
+
+15
+00:00:48,967 --> 00:00:50,367
+PART.2: Oh, yes, that's true.
+
+16
+00:00:51,567 --> 00:00:54,247
+PART.1: And we need two more yellow
+and here is one.
+
+17
+00:00:59,447 --> 00:01:00,247
+PART.1: Maybe that one?
+
+18
+00:01:00,247 --> 00:01:00,287
+PART.2: Yes.
+
+19
+00:01:00,367 --> 00:01:00,447
+PART.1: Maybe that one?
+
+20
+00:01:00,447 --> 00:01:01,247
+PART.2: Yes.
+
+21
+00:01:02,767 --> 00:01:04,167
+PART.1: Cool, now we know one...
+
+22
+00:01:04,767 --> 00:01:05,367
+PART.2: Then grey.
+
+23
+00:01:05,367 --> 00:01:07,367
+PART.1: Yes, a small grey one.
+
+24
+00:01:09,247 --> 00:01:12,847
+PART.1: I don't know,
+is it grey or is it black?
+
+25
+00:01:12,847 --> 00:01:13,847
+PART.1: I saw one black.
+
+26
+00:01:14,167 --> 00:01:15,847
+PART.2: It could be a black, yes-
+
+27
+00:01:19,647 --> 00:01:21,647
+PART.1: And then with this blue?
+
+28
+00:01:22,967 --> 00:01:26,247
+PART.2: But there's like a grey one with...
+
+29
+00:01:35,567 --> 00:01:37,167
+PART.2: Just the black
+and the grey, yes.
+
+30
+00:01:37,167 --> 00:01:38,447
+PART.1: I think it's that one.
+
+31
+00:01:38,647 --> 00:01:40,447
+PART.2: Yes, it's this.
+
+32
+00:01:47,247 --> 00:01:48,247
+PART.1: Ok, this blue.
+
+33
+00:01:53,247 --> 00:01:56,567
+PART.2: Is it also in the station?
+No, here.
+
+34
+00:01:56,567 --> 00:02:01,647
+PART.1: Yes, and then I think
+there is this one and it's too
+small!
+
+35
+00:02:01,647 --> 00:02:02,647
+PART.2: But...
+
+36
+00:02:03,047 --> 00:02:04,247
+PART.1: Ah, and the other one.
+
+37
+00:02:04,247 --> 00:02:06,247
+PART.2: Exactly, yes.
+
+38
+00:02:13,967 --> 00:02:17,247
+PART.2: It goes like this, yes.
+
+39
+00:02:22,647 --> 00:02:23,447
+PART.2: Ok.
+
+40
+00:02:23,447 --> 00:02:23,567
+PART.1: That's it,
+do you want to do another one?
+
+41
+00:02:23,647 --> 00:02:25,367
+PART.1: That's it,
+do you want to do another one?
+
+42
+00:02:25,367 --> 00:02:25,967
+PART.2: Yes.
+
+43
+00:02:25,967 --> 00:02:26,207
+PART.1: Which one do you want?
+
+44
+00:02:26,287 --> 00:02:26,367
+PART.2: Yes.
+
+45
+00:02:26,367 --> 00:02:27,367
+PART.1: Which one do you want?
+
+46
+00:02:29,367 --> 00:02:30,367
+PART.2: The first one?
+
+47
+00:02:30,367 --> 00:02:30,767
+PART.1: The first one?
+
+48
+00:02:30,767 --> 00:02:30,967
+PART.2: Yes.
+
+49
+00:02:31,047 --> 00:02:31,367
+PART.1: The first one?
+
+50
+00:02:31,367 --> 00:02:31,447
+PART.2: Yes.
+
+51
+00:02:31,447 --> 00:02:31,647
+PART.2: Ok, I don't know what it is.
+
+52
+00:02:31,727 --> 00:02:31,767
+PART.2: Yes.
+
+53
+00:02:31,767 --> 00:02:33,767
+PART.2: Ok, I don't know what it is.
+
+54
+00:02:38,567 --> 00:02:39,247
+PART.1: Starting with a brown.
+
+55
+00:02:39,247 --> 00:02:39,527
+PART.2: This.
+
+56
+00:02:39,607 --> 00:02:40,247
+PART.1: Starting with a brown.
+
+57
+00:02:40,447 --> 00:02:44,047
+PART.1: Brown six
+and then maybe that one?
+
+58
+00:02:44,167 --> 00:02:46,047
+PART.2: Yes.
+
+59
+00:02:50,567 --> 00:02:53,767
+PART.1: Then another one brown?
+I think this one.
+
+60
+00:02:55,647 --> 00:02:58,447
+PART.2: Ok, it's like on the other side.
+
+61
+00:02:59,447 --> 00:03:01,247
+PART.2: Is it round like this?
+
+62
+00:03:01,647 --> 00:03:02,247
+PART.1: Yes and then the other one
+it is not rounded.
+
+63
+00:03:02,247 --> 00:03:02,407
+PART.2: Ok.
+
+64
+00:03:02,487 --> 00:03:03,247
+PART.1: Yes and then the other one
+it is not rounded.
+
+65
+00:03:03,247 --> 00:03:04,967
+PART.1: Yes and then the other one
+it is not rounded.
+
+66
+00:03:06,767 --> 00:03:08,567
+PART.1: Which I think is this one.
+
+67
+00:03:12,047 --> 00:03:14,767
+PART.1: And then a green weird thing.
+
+68
+00:03:17,447 --> 00:03:17,847
+PART.1: Maybe this?
+
+69
+00:03:17,847 --> 00:03:18,087
+PART.2: Yes, this.
+
+70
+00:03:18,167 --> 00:03:18,447
+PART.1: Maybe this?
+
+71
+00:03:18,447 --> 00:03:18,847
+PART.2: Yes, this.
+
+72
+00:03:19,967 --> 00:03:22,767
+PART.1: But no,
+we have a brown first
+so always keep this.
+
+73
+00:03:23,447 --> 00:03:25,167
+PART.2: Yes, the small brown.
+
+74
+00:03:27,247 --> 00:03:29,047
+PART.1: In the middle,
+this one goes in the middle.
+
+75
+00:03:29,767 --> 00:03:30,767
+PART.2: Ok.
+
+76
+00:03:30,767 --> 00:03:32,847
+PART.1: And then you have this green
+on one side of the...
+
+77
+00:03:32,847 --> 00:03:33,007
+PART.2: But the first here,
+the light brown goes on top.
+
+78
+00:03:33,087 --> 00:03:33,247
+PART.1: And then you have this green
+on one side of the...
+
+79
+00:03:33,247 --> 00:03:35,247
+PART.2: But the first here,
+the light brown goes on top.
+
+80
+00:03:35,447 --> 00:03:36,447
+PART.1: Yes.
+
+81
+00:03:36,447 --> 00:03:38,447
+PART.2: This one before the green?
+
+82
+00:03:39,247 --> 00:03:40,447
+PART.1: This one, yes.
+
+83
+00:03:52,447 --> 00:03:55,967
+PART.1: I think it was on top of the brown
+but maybe it wasn't neither.
+
+84
+00:03:56,567 --> 00:03:57,567
+PART.2: Yes.
+
+85
+00:03:59,247 --> 00:04:00,567
+PART.1: I don't know which one goes.
+
+86
+00:04:03,767 --> 00:04:04,847
+PART.2: Oh, very difficult.
+
+87
+00:04:04,967 --> 00:04:07,447
+PART.1: Oh, we have to put this away.
+
+88
+00:04:07,647 --> 00:04:09,447
+PART.2: Yes, that's true.
+
+89
+00:04:11,247 --> 00:04:13,767
+PART.1: And now another weird one
+looking brown.
+
+90
+00:04:14,247 --> 00:04:15,247
+PART.2: Yes.
+
+91
+00:04:16,247 --> 00:04:17,247
+PART.1: Yes, I think.
+
+92
+00:04:18,247 --> 00:04:20,047
+PART.1: Yes, just put it on top.
+
+93
+00:04:22,447 --> 00:04:24,047
+PART.1: Of the second half.
+
+94
+00:04:25,247 --> 00:04:26,647
+PART.2: On the other side, yes?
+
+95
+00:04:26,767 --> 00:04:28,647
+PART.2: Yes, it's like this.
+
+96
+00:04:29,847 --> 00:04:30,847
+PART.1: Yes.
+
+97
+00:04:32,047 --> 00:04:37,167
+PART.1: And then we have one green
+and another brown, maybe that one.
+
+98
+00:04:37,167 --> 00:04:37,207
+SUPERVISOR: Hi!
+
+99
+00:04:37,287 --> 00:04:37,767
+PART.1: And then we have one green
+and another brown, maybe that one.
+

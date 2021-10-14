@@ -1,0 +1,80 @@
+71
+00:03:00,373 --> 00:03:01,373
+PART.1: No.
+
+72
+00:03:01,373 --> 00:03:02,373
+PART.2: Vale.
+
+73
+00:03:03,373 --> 00:03:04,373
+PART.1: És una tortuga?
+
+74
+00:03:03,373 --> 00:03:04,373
+PART.2: Sí.
+
+75
+00:03:04,373 --> 00:03:05,373
+PART.1: Bieeen!
+
+76
+00:03:05,373 --> 00:03:08,373
+PART.2: La meva és un rat penat?
+
+77
+00:03:09,373 --> 00:03:10,373
+PART.1: No!!
+
+78
+00:03:10,373 --> 00:03:11,373
+PART.2: Doncs ja està.
+
+79
+00:03:12,373 --> 00:03:14,373
+PART.2: Ah, un dofí, hòstia.
+
+80
+00:03:14,373 --> 00:03:17,373
+PART.1: Clar, es que m'has preguntat si podia saltar, i justament la foto...
+
+81
+00:03:17,373 --> 00:03:18,373
+PART.2: Clar.
+
+82
+00:03:18,373 --> 00:03:21,373
+PART.1: Saltar, com a terra no pot saltar, però...
+
+83
+00:03:23,373 --> 00:03:24,373
+PART.1: Salta, saps?
+
+84
+00:03:26,373 --> 00:03:28,373
+PART.1: M'has preguntat una altra que també he fet "merda!".
+
+85
+00:03:29,373 --> 00:03:30,373
+PART.1: Té cua?
+
+86
+00:03:30,373 --> 00:03:31,373
+PART.1: Sí, té cua.
+
+87
+00:03:34,373 --> 00:03:36,373
+PART.1: Hi ha hagut una què he fet... no sé quina has dit...
+
+88
+00:03:42,373 --> 00:03:43,373
+PART.1: Ah, si es omnívor!
+
+89
+00:03:44,373 --> 00:03:45,373
+PART.1: No sé si és omnívor.
+
+90
+00:03:45,373 --> 00:03:46,373
+PART.2: No sé.
+

@@ -1,0 +1,33 @@
+114
+00:07:12,119 --> 00:07:22,039
+PART.2: Me dice... Alejandro... bueno, ¿es un
+mamífero?, es un mamífero, y yo le digo, no.
+
+115
+00:07:23,479 --> 00:07:25,879
+PART.2: Ah, no, me dice, ¿es un ave?, sí.
+
+116
+00:07:25,959 --> 00:07:26,799
+PART.2: ¿Es acuático?
+
+117
+00:07:29,679 --> 00:07:30,999
+PART.2: Pero era un pelícano.
+
+118
+00:07:33,319 --> 00:07:34,479
+PART.2: Entonces, ¿qué le digo?
+
+119
+00:07:34,559 --> 00:07:37,999
+PART.2: Le dije... ¿no...?
+
+120
+00:07:39,559 --> 00:07:42,199
+PART.2: Pero ahí ya se le llevó para el otro lado.
+
+121
+00:07:41,439 --> 00:07:42,039
+PART.1: Sí, sí...
+

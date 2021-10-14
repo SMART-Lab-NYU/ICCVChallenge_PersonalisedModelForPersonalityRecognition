@@ -1,0 +1,9 @@
+¿Es un ave? 
+Vale. 
+Llevamos una cada uno. 
+No. 
+¿Es un animal terrestre? 
+No. 
+¿Es un animal doméstico? 
+Sí. 
+¿Es un camaleón? 

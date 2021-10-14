@@ -1,0 +1,31 @@
+117
+00:05:01,271 --> 00:05:02,437
+PART.2: �s molt "guai".
+
+118
+00:05:02,521 --> 00:05:03,104
+PART.1: S�?
+
+119
+00:05:03,187 --> 00:05:03,771
+PART.2: S�.
+
+120
+00:05:03,854 --> 00:05:05,271
+PART.1: O sigui, has triat b�.
+
+121
+00:05:05,354 --> 00:05:07,187
+PART.2: S�, s�. Aix� ho tinc clar�ssim.
+
+122
+00:05:07,271 --> 00:05:13,687
+PART.2: Que despr�s no me'n pugui
+sortir per m�s o per menys, no ho
+s�, per� que �s el que vull fer,
+total.
+
+123
+00:05:13,771 --> 00:05:15,229
+PART.1: Doncs ja est�.
+

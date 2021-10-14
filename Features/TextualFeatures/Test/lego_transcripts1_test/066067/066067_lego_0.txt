@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:00,085
+PART.1: Este avión.
+
+2
+00:00:04,925 --> 00:00:06,925
+PART.1: Mira per pantalla, mira per
+pantalla.
+
+3
+00:00:07,005 --> 00:00:08,005
+PART.2: Venga, vamos.
+
+4
+00:00:08,085 --> 00:00:09,965
+PART.2: A ver, espabila.
+
+5
+00:00:10,045 --> 00:00:12,765
+PART.2: Mira, este...
+
+6
+00:00:12,845 --> 00:00:14,125
+PART.1: Tú sola puedes, eh.
+
+7
+00:00:14,205 --> 00:00:15,525
+PART.2: Voy diciendo.
+
+8
+00:00:15,605 --> 00:00:16,645
+PART.2: Vamos, va.
+
+9
+00:00:16,725 --> 00:00:17,725
+PART.2: Este, venga.
+
+10
+00:00:19,005 --> 00:00:20,005
+PART.1: Venga.
+
+11
+00:00:21,845 --> 00:00:23,885
+PART.1: Pero si esto se lo han llevado
+para jugar.
+
+12
+00:00:25,245 --> 00:00:26,525
+PART.1: Esto, ya no quedan piezas de esto.
+
+13
+00:00:26,605 --> 00:00:28,325
+PART.2: Este, venga, pasa.
+
+14
+00:00:28,405 --> 00:00:30,645
+PART.2: La blanca y la brava.
+
+15
+00:00:32,165 --> 00:00:33,605
+PART.2: Así de "petitas".
+
+16
+00:00:35,605 --> 00:00:37,565
+PART.1: Estas se han podido perder, pero
+vamos.
+
+17
+00:00:39,285 --> 00:00:40,605
+PART.2: La blanca está aquí, vale.
+
+18
+00:00:40,685 --> 00:00:42,245
+PART.1: La azul es la que no veo.
+
+19
+00:00:45,485 --> 00:00:46,485
+PART.2: Está aquí.
+
+20
+00:00:46,565 --> 00:00:47,165
+PART.1: Ole.
+
+21
+00:00:47,245 --> 00:00:48,245
+PART.1: Grande.
+
+22
+00:00:48,925 --> 00:00:51,125
+PART.1: Luego hace falta una "cuñeti", que
+es esta.
+
+23
+00:00:52,525 --> 00:00:53,685
+PART.2: Vale, ¿qué más?
+
+24
+00:00:53,765 --> 00:00:55,205
+PART.1: Una "cuñeti", que es esta.
+
+25
+00:00:56,005 --> 00:00:58,365
+PART.1: Esta y esta.
+
+26
+00:00:58,445 --> 00:01:00,405
+PART.2: Vale, pues venga.
+

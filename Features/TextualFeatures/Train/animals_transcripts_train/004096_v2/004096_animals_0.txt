@@ -1,0 +1,91 @@
+﻿1
+00:00:01,407 --> 00:00:02,967
+PART.1: Empezamos. ¿Pregunto yo?
+
+2
+00:00:06,287 --> 00:00:07,607
+PART.1: Eh... ¿Es un ave?
+
+3
+00:00:07,687 --> 00:00:08,687
+PART.2: Sí.
+
+4
+00:00:08,767 --> 00:00:11,327
+PART.1: Sí. Vale. Pregunta tú.
+
+5
+00:00:11,847 --> 00:00:13,167
+PART.2: ¿Es un ave?
+
+6
+00:00:13,247 --> 00:00:14,247
+PART.1: Sí.
+
+7
+00:00:20,487 --> 00:00:22,007
+PART.1: ¿Las plumas son verdes?
+
+8
+00:00:24,967 --> 00:00:25,847
+PART.2: No.
+
+9
+00:00:26,007 --> 00:00:26,927
+PART.1: Vale.
+
+10
+00:00:27,407 --> 00:00:28,807
+PART.2: ¿Las plumas del mío son
+verdes?
+
+11
+00:00:28,807 --> 00:00:29,327
+PART.1: No.
+
+12
+00:00:29,647 --> 00:00:31,127
+PART.2: Digo: "A ver si me estás dando
+pistas".
+
+13
+00:00:32,807 --> 00:00:35,167
+PART.1: Bueno, no vendría mal, ¿no?
+Resolverlo así.
+
+14
+00:00:35,247 --> 00:00:37,807
+PART.2: Estaría bueno, pero se supone que
+no...
+
+15
+00:00:37,887 --> 00:00:40,047
+PART.1: Si es una competencia...
+
+16
+00:00:40,527 --> 00:00:42,407
+PART.2: Bueno, no sé si es una
+competencia.
+
+17
+00:00:42,567 --> 00:00:46,247
+PART.2: Creo que, simplemente, es para
+vernos... jugar.
+
+18
+00:00:45,087 --> 00:00:45,567
+PART.1: Jugar.
+
+19
+00:00:47,847 --> 00:00:53,167
+PART.1: Eh... A lo mejor se me ocurre una
+pregunta del tuyo.
+
+20
+00:00:56,127 --> 00:00:57,287
+PART.1: ¿Las plumas son negras?
+
+21
+00:00:57,607 --> 00:00:58,407
+PART.2: No.
+

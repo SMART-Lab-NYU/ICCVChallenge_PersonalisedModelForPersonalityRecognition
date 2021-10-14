@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:00,553
+SUPERVISOR: Venga, pues cuando salga
+podéis empezar.
+
+2
+00:00:00,633 --> 00:00:01,673
+PART.2: ¿Empiezas tú o yo?
+
+3
+00:00:01,833 --> 00:00:02,513
+PART.1: Tú.
+
+4
+00:00:02,633 --> 00:00:03,473
+PART.2: Espera.
+
+5
+00:00:08,193 --> 00:00:08,673
+PART.1: Bueno.
+
+6
+00:00:08,753 --> 00:00:09,873
+PART.2: No, era el ratón.
+
+7
+00:00:09,953 --> 00:00:12,833
+PART.1: Ay, no sabemos qué hacer
+cuando pierdes, ¿te ha dicho qué hay
+que hacer?
+
+8
+00:00:13,913 --> 00:00:15,873
+PART.1: El que agarra el que no
+corresponde, digamos.
+
+9
+00:00:16,513 --> 00:00:17,593
+PART.2: Ah, no. Nada.
+
+10
+00:00:17,673 --> 00:00:17,993
+PART.1: ¿Nada?
+
+11
+00:00:18,073 --> 00:00:18,433
+PART.1: Vale.
+
+12
+00:00:18,953 --> 00:00:19,753
+PART.1: Yo creo que tienen...
+
+13
+00:00:19,833 --> 00:00:20,753
+PART.1: Que hay que castigarlos.
+
+14
+00:00:24,753 --> 00:00:25,313
+PART.1: Sí.
+
+15
+00:00:32,913 --> 00:00:33,513
+PART.1: Sí.
+
+16
+00:00:34,433 --> 00:00:35,553
+PART.1: Lentísima voy.
+
+17
+00:00:36,713 --> 00:00:38,073
+PART.2: El otro día yo también
+estaba...
+
+18
+00:00:38,433 --> 00:00:39,993
+PART.2: El otro día, hace una hora.
+
+19
+00:00:40,073 --> 00:00:40,833
+PART.2: Estaba igual.
+
+20
+00:00:41,513 --> 00:00:42,473
+PART.1: Sí, yo voy como...
+
+21
+00:00:42,553 --> 00:00:43,553
+PART.1: Pero creo que es este, ¿no?
+
+22
+00:00:44,193 --> 00:00:44,753
+PART.2: ¿Dime?
+
+23
+00:00:44,833 --> 00:00:45,873
+PART.1: Que creo que es el libro
+azul.
+
+24
+00:00:45,953 --> 00:00:47,033
+PART.2: Sí, sí, sí.
+
+25
+00:00:48,073 --> 00:00:48,833
+PART.2: Vale.
+
+26
+00:00:54,673 --> 00:00:56,353
+PART.1: Pero no me dejes juntar
+cartas.
+
+27
+00:00:57,073 --> 00:00:58,633
+PART.2: No te las dejo,
+te lo juro.
+
+28
+00:00:58,113 --> 00:00:58,593
+PART.1: ¿No?
+
+29
+00:00:58,793 --> 00:00:59,393
+PART.2: No.
+

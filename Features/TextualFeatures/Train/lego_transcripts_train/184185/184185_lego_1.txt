@@ -1,0 +1,56 @@
+16
+00:01:04,548 --> 00:01:07,502
+PART.1: No és aquesta, em falten peces ara a mi.
+
+17
+00:01:09,804 --> 00:01:12,326
+PART.1: La cabina hauria de ser més petita.
+
+18
+00:01:18,901 --> 00:01:22,682
+PART.1: Un, dos, tres, quatre, cinc, sis, quantes.
+
+19
+00:01:23,213 --> 00:01:23,914
+PART.1: És esta, eh?
+
+20
+00:01:25,074 --> 00:01:26,420
+PART.2: Aquesta es té que fer?
+
+21
+00:01:27,164 --> 00:01:28,780
+PART.1: És esta la peça d’aquí.
+
+22
+00:01:29,028 --> 00:01:29,620
+PART.2: Ah...
+
+23
+00:01:31,074 --> 00:01:33,913
+PART.1: I jo aquesta, però ara, el que no trobo, és la cabina.
+
+24
+00:01:35,252 --> 00:01:35,972
+PART.2: Això tant petit?
+
+25
+00:01:36,515 --> 00:01:37,450
+PART.2: Jo ho fotia gran...
+
+26
+00:01:40,652 --> 00:01:42,027
+PART.1: La cabina blanca...
+
+27
+00:01:45,579 --> 00:01:47,116
+PART.1: La peça blanca aquesta...
+
+28
+00:01:50,684 --> 00:01:51,491
+PART.2: És grisa?
+
+29
+00:01:55,355 --> 00:01:56,822
+PART.1: És això. Ah mira!, una peça com aquesta haig de trobar.
+

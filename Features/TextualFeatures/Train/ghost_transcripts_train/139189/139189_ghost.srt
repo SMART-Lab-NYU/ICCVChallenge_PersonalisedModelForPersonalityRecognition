@@ -1,0 +1,272 @@
+﻿1
+00:00:00,070 --> 00:00:01,030
+PART.1: Vale, pues hala.
+
+2
+00:00:01,390 --> 00:00:03,670
+PART.2: Hagamos una cosa, las manos aquí, ¿vale?
+
+3
+00:00:03,750 --> 00:00:04,550
+PART.1: Tú primero.
+
+4
+00:00:05,110 --> 00:00:06,790
+PART.2: Y bueno, vamos avanzando por turnos, ¿eh?
+
+5
+00:00:06,870 --> 00:00:07,430
+PART.1: Sí...
+
+6
+00:00:11,350 --> 00:00:12,710
+PART.1: Eh... la rata, ¿verdad?
+
+7
+00:00:14,030 --> 00:00:14,990
+PART.2: Levanta tú ahora.
+
+8
+00:00:18,590 --> 00:00:20,390
+PART.2: No, este es el fantasma, buah, se me ha ido
+la olla.
+
+9
+00:00:18,750 --> 00:00:19,270
+PART.1: No.
+
+10
+00:00:20,470 --> 00:00:21,590
+PART.1: No, no, está bien, está bien.
+
+11
+00:00:21,670 --> 00:00:22,670
+PART.1: Así yo he podido...
+
+12
+00:00:29,310 --> 00:00:29,870
+PART.1: Ah...
+
+13
+00:00:30,630 --> 00:00:31,470
+PART.1: La rata, la rata...
+
+14
+00:00:31,550 --> 00:00:33,550
+PART.2: "Yas"... por poco.
+
+15
+00:00:40,310 --> 00:00:41,950
+PART.2: No, no... la rata.
+
+16
+00:00:40,350 --> 00:00:41,070
+PART.1: Sí, sí.
+
+17
+00:00:42,470 --> 00:00:44,430
+PART.1: Ah, claro, bueno... igualmente para
+ti.
+
+18
+00:00:44,510 --> 00:00:46,550
+PART.2: No, para ti, para ti, si he fallado...
+
+19
+00:00:46,630 --> 00:00:50,390
+PART.1: No, no, es que lo he dicho, es en este caso a
+ver quién se da cuenta.
+
+20
+00:00:50,670 --> 00:00:55,910
+PART.1: Si tú la fallas, yo tengo más tiempo
+para adivinarlo, ¿vale?, con lo cual esto es
+para ti.
+
+21
+00:00:56,550 --> 00:00:57,310
+PART.2: Vale, vale.
+
+22
+00:01:01,070 --> 00:01:02,070
+PART.1: Eh...
+
+23
+00:01:03,030 --> 00:01:04,270
+PART.2: Sí, cierto.
+
+24
+00:01:09,270 --> 00:01:10,030
+PART.2: Verdad...
+
+25
+00:01:10,270 --> 00:01:11,950
+PART.1: Joder, estás que no fallas, tío.
+
+26
+00:01:13,190 --> 00:01:14,390
+PART.2: La última vez gané de paliza.
+
+27
+00:01:14,990 --> 00:01:15,830
+PART.1: Yo estoy espeso.
+
+28
+00:01:16,430 --> 00:01:17,750
+PART.1: Eh, mira, esta la sé.
+
+29
+00:01:18,030 --> 00:01:20,510
+PART.2: Hostia... qué directo.
+
+30
+00:01:24,630 --> 00:01:26,270
+PART.1: Ahí está, directo.
+
+31
+00:01:31,230 --> 00:01:32,190
+PART.1: Para ti, para ti.
+
+32
+00:01:40,110 --> 00:01:40,950
+PART.1: Para ti, para ti.
+
+33
+00:01:40,350 --> 00:01:40,910
+PART.2: El libro.
+
+34
+00:01:41,950 --> 00:01:42,510
+PART.2: í, ¿no?
+
+35
+00:01:42,590 --> 00:01:43,430
+PART.1: Sí, sí, sí.
+
+36
+00:01:44,550 --> 00:01:45,190
+PART.2: Adelante.
+
+37
+00:01:52,630 --> 00:01:53,710
+PART.1: Ah, no, claro, claro.
+
+38
+00:01:52,790 --> 00:01:53,510
+PART.2: Es la botella.
+
+39
+00:01:54,190 --> 00:01:54,910
+PART.1: Hala...
+
+40
+00:01:54,990 --> 00:01:55,670
+PART.2: Ah...
+
+41
+00:01:55,910 --> 00:01:56,590
+PART.1: Hala, hala...
+
+42
+00:01:56,670 --> 00:01:58,590
+PART.2: Nos hemos quedado ahí... sí, sí.
+
+43
+00:01:58,870 --> 00:01:59,830
+PART.1: Superespeso, ¿eh?
+
+44
+00:01:58,950 --> 00:01:59,910
+PART.2: Bloqueados.
+
+45
+00:02:00,830 --> 00:02:01,870
+PART.1: Digo "no, no", que ya...
+
+46
+00:02:01,950 --> 00:02:04,430
+PART.2: No, es... el fantasma, sí.
+
+47
+00:02:03,470 --> 00:02:04,230
+PART.1: El fantasma.
+
+48
+00:02:06,870 --> 00:02:09,590
+PART.2: Y... el libro.
+
+49
+00:02:10,510 --> 00:02:11,390
+PART.1: ¿El libro?
+
+50
+00:02:12,150 --> 00:02:14,070
+PART.1: Ah, claro, sí, sí, sí, el libro, el
+libro.
+
+51
+00:02:16,230 --> 00:02:17,110
+PART.2: Bueno...
+
+52
+00:02:16,550 --> 00:02:18,230
+PART.1: Jolín, has señalado todo rápido, ¿eh?
+
+53
+00:02:20,070 --> 00:02:22,070
+PART.2: Sí, bueno, para esto parece que tengo
+facilidad.
+
+54
+00:02:22,910 --> 00:02:23,790
+PART.2: Bueno...
+
+55
+00:02:27,230 --> 00:02:28,590
+PART.2: Y ahora a esperar a que...
+
+56
+00:02:28,670 --> 00:02:30,270
+PART.1: Sí, ahora Javi en un rato entrará.
+
+57
+00:02:32,990 --> 00:02:34,110
+PART.1: ¿Dónde vives tú?
+
+58
+00:02:34,190 --> 00:02:36,030
+PART.2: Yo... soy de Salou, ¿eh?
+
+59
+00:02:36,110 --> 00:02:40,550
+PART.2: Pero estoy viviendo en un piso de alquiler
+en... ¿sabes el Gran Vía 2?
+
+60
+00:02:36,270 --> 00:02:36,350
+PART.1: Vale.
+
+61
+00:02:40,630 --> 00:02:41,950
+PART.2: Bueno, claro, tú eres nuevo aquí.
+
+62
+00:02:41,670 --> 00:02:46,510
+PART.1: Sí, no, o sea... me refiero, he vivido en las
+afueras, pero sí, Gran Vía 2.
+
+63
+00:02:46,070 --> 00:02:48,670
+PART.2: Pues estoy en un piso de alquiler allí al
+lado, básicamente.
+
+64
+00:02:48,830 --> 00:02:49,750
+PART.2: Llevo un año ya.
+
+65
+00:02:49,830 --> 00:02:57,230
+PART.2: Antes estuve tres años en Hospital
+Clinic, pero me subieron el alquiler, como es
+típico aquí, y nada, nos tuvimos que ir.
+

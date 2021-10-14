@@ -1,0 +1,40 @@
+363
+00:18:06,831 --> 00:18:09,552
+PART.1: I és l'únic animal, el colom, que conec de ciutat.
+
+364
+00:18:10,046 --> 00:18:16,490
+PART.1: Que no tingui, que no tingui... que no pugui ser mascota.
+
+365
+00:18:16,490 --> 00:18:19,314
+PART.2: I per què no pot estar en el bosc? També pot estar en el bosc.
+
+366
+00:18:21,027 --> 00:18:34,103
+PART.1: Eeeh, ja, però... No ho sé, a veure, no ho sé.
+
+367
+00:18:35,128 --> 00:18:47,174
+PART.1: L'únic que et puc preguntar és: mengen... mengen altres animals?
+
+368
+00:18:48,052 --> 00:18:49,598
+PART.1: És que no sé, és que...
+
+369
+00:18:51,765 --> 00:18:53,417
+PART.2: Podem especificar una mica més la pregunta?
+
+370
+00:18:53,503 --> 00:18:55,075
+PART.1: Mengen animals més petits?
+
+371
+00:18:55,103 --> 00:18:57,192
+PART.2: Sí. Bueno, més grans ja m'imagino que no.
+
+372
+00:18:57,622 --> 00:19:04,011
+PART.1: Mengen restos de..., o sea, ¿comen partes de otros animales muertos? O...
+

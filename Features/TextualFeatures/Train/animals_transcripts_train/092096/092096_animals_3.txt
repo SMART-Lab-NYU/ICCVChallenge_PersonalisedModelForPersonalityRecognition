@@ -1,0 +1,83 @@
+58
+00:03:02,789 --> 00:03:03,349
+PART.1: ¿Cuál puede ser?
+
+59
+00:03:08,629 --> 00:03:10,589
+PART.1: Ah, el tamaño, ¿es pequeño?
+
+60
+00:03:12,869 --> 00:03:14,189
+PART.2: Depende de qué es lo que
+consideres pequeño.
+
+61
+00:03:14,269 --> 00:03:15,829
+PART.1: Comparado con una persona,
+por ejemplo.
+
+62
+00:03:16,269 --> 00:03:16,869
+PART.2: No, es así.
+
+63
+00:03:17,229 --> 00:03:17,789
+PART.1: Pequeño.
+
+64
+00:03:18,789 --> 00:03:20,109
+PART.1: Ya, más pequeño que una
+persona.
+
+65
+00:03:20,709 --> 00:03:22,069
+PART.1: OK. Tú.
+
+66
+00:03:22,349 --> 00:03:22,749
+PART.2: Voy yo.
+
+67
+00:03:23,469 --> 00:03:24,189
+PART.2: ¿Es un hipopótamo?
+
+68
+00:03:24,629 --> 00:03:24,909
+PART.1: Sí.
+
+69
+00:03:25,229 --> 00:03:26,549
+PART.2: Vale, ya está.
+
+70
+00:03:28,349 --> 00:03:29,069
+PART.1: Eh...
+
+71
+00:03:30,309 --> 00:03:33,309
+PART.2: No quedan mucho más
+mamíferos grandes en África y con piel gris.
+
+72
+00:03:34,629 --> 00:03:39,669
+PART.1: No, no, claro, estaba fácil el...
+
+73
+00:03:42,869 --> 00:03:43,909
+PART.2: Te quedan tres, ¿no? ¿O
+cuatro?
+
+74
+00:03:45,229 --> 00:03:45,989
+PART.1: Tres, tres.
+
+75
+00:03:47,989 --> 00:03:51,269
+PART.1: ¿Tiene veneno? Pero...
+
+76
+00:03:52,909 --> 00:03:59,189
+PART.2: No significa que nazca con él,
+significa que no te lo puedes comer porque te
+mataría.
+

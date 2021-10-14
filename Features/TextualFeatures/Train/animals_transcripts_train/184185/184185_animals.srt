@@ -1,0 +1,464 @@
+﻿1
+00:00:00,000 --> 00:00:00,922
+PART.2: Té quatre potes?
+
+2
+00:00:01,439 --> 00:00:01,993
+PART.1: Sí.
+
+3
+00:00:03,383 --> 00:00:04,012
+PART.1: Té quatre potes?
+
+4
+00:00:04,156 --> 00:00:04,788
+PART.2: Sí.
+
+5
+00:00:09,990 --> 00:00:10,844
+PART.2: És un mamífer?
+
+6
+00:00:11,870 --> 00:00:12,419
+PART.1: Sí.
+
+7
+00:00:14,250 --> 00:00:16,363
+PART.1: És un mamífer?
+
+8
+00:00:15,926 --> 00:00:16,922
+PART.2: Sí.
+
+9
+00:00:19,924 --> 00:00:21,059
+PART.2: Viu a la selva?
+
+10
+00:00:23,883 --> 00:00:24,722
+PART.1: No.
+
+11
+00:00:30,923 --> 00:00:31,948
+PART.1: És de corral?
+
+12
+00:00:32,171 --> 00:00:33,043
+PART.2: No.
+
+13
+00:00:34,387 --> 00:00:37,243
+PART.2: És de corral?
+
+14
+00:00:36,867 --> 00:00:38,228
+PART.1: No.
+
+15
+00:00:40,188 --> 00:00:40,499
+PART.1: Viu a la selva?
+
+16
+00:00:41,051 --> 00:00:41,987
+PART.2: No.
+
+17
+00:00:44,859 --> 00:00:46,059
+PART.2: Es pot menjar?
+
+18
+00:00:48,898 --> 00:00:49,282
+PART.1: Sí.
+
+19
+00:00:50,282 --> 00:00:53,065
+PART.2: Ja ho deu fotre molt fàcil...
+
+20
+00:01:08,395 --> 00:01:09,483
+PART.2: No hi he comptat les preguntes.
+
+21
+00:01:08,988 --> 00:01:09,493
+PART.1: Vola?
+
+22
+00:01:11,164 --> 00:01:11,517
+PART.2: No.
+
+23
+00:01:12,212 --> 00:01:13,269
+PART.2: No he comptat les preguntes.
+
+24
+00:01:15,060 --> 00:01:17,262
+PART.1: Ara no ho sé, em sembla que anem per la...
+
+25
+00:01:17,821 --> 00:01:18,589
+PART.2: Per la cinquena, poder.
+
+26
+00:01:19,069 --> 00:01:20,803
+PART.1: O per la sisena, no ho sé.
+
+27
+00:01:20,948 --> 00:01:22,381
+PART.2: No ho sé, és igual, no ve d’aquí.
+
+28
+00:01:22,971 --> 00:01:24,078
+PART.2: Va, ara a mi em toca?
+
+29
+00:01:24,331 --> 00:01:24,757
+PART.1: Sí.
+
+30
+00:01:25,629 --> 00:01:27,111
+PART.2: Viu amb les persones aquest animal?
+
+31
+00:01:27,883 --> 00:01:28,091
+PART.1: No.
+
+32
+00:01:35,141 --> 00:01:35,989
+PART.1: Pesa més de 100 quilos?
+
+33
+00:01:35,990 --> 00:01:36,990
+PART.2: Sí
+
+34
+00:01:41,100 --> 00:01:41,325
+PART.1: Tu.
+
+35
+00:01:41,877 --> 00:01:43,382
+PART.2: Pesa més de cinc quilos?
+
+36
+00:01:44,016 --> 00:01:44,313
+PART.1: De quants?
+
+37
+00:01:44,817 --> 00:01:45,016
+PART.2: Cinc.
+
+38
+00:01:45,281 --> 00:01:46,823
+PART.1: De cinc? Jo t’he dit de 100, eh?
+
+39
+00:01:47,129 --> 00:01:47,609
+PART.2: Sí.
+
+40
+00:01:48,065 --> 00:01:49,120
+PART.1: Tu, de cinc...
+
+41
+00:01:49,528 --> 00:01:49,969
+PART.1: Sí.
+
+42
+00:01:59,593 --> 00:01:59,905
+PART.1: Hiverna?
+
+43
+00:02:02,544 --> 00:02:03,217
+PART.2: No.
+
+44
+00:02:06,728 --> 00:02:07,152
+PART.2: No.
+
+45
+00:02:09,096 --> 00:02:13,800
+PART.2: Hm... Viu en un clima fred?
+
+46
+00:02:15,503 --> 00:02:16,216
+PART.1: Sí.
+
+47
+00:02:25,169 --> 00:02:29,549
+PART.1: Menja carn?
+
+48
+00:02:30,716 --> 00:02:31,181
+PART.2: No.
+
+49
+00:02:33,604 --> 00:02:34,724
+PART.2: I el meu, menja carn?
+
+50
+00:02:35,548 --> 00:02:36,131
+PART.1: Sí.
+
+51
+00:02:36,564 --> 00:02:37,116
+PART.2: Ai, carai.
+
+52
+00:02:53,675 --> 00:02:57,179
+PART.2: ... Islas Canarias, Islas Canarias...
+
+53
+00:03:01,900 --> 00:03:03,603
+PART.1: Menja fulles dels arbres?
+
+54
+00:03:04,034 --> 00:03:04,748
+PART.2: Sí.
+
+55
+00:03:17,969 --> 00:03:19,324
+PART.2: És un os?
+
+56
+00:03:19,898 --> 00:03:20,192
+PART.1: És un?
+
+57
+00:03:20,521 --> 00:03:20,955
+PART.2: Un os.
+
+58
+00:03:22,211 --> 00:03:23,393
+PART.1: Ah, ja dius l’animal?
+
+59
+00:03:22,806 --> 00:03:24,037
+PART.2: Sí, els deu.
+
+60
+00:03:24,334 --> 00:03:24,709
+PART.1: Sí.
+
+61
+00:03:24,892 --> 00:03:25,852
+PART.2: L’he encertat!
+
+62
+00:03:28,432 --> 00:03:29,943
+PART.1: A mi encara em queda una pregunta, o no?
+
+63
+00:03:30,183 --> 00:03:30,743
+PART.2: Sí.
+
+64
+00:03:31,559 --> 00:03:32,446
+PART.1: Esta no era la pregunta, eh?
+
+65
+00:03:36,014 --> 00:03:36,614
+PART.1: Té el coll molt llarg?
+
+66
+00:03:37,365 --> 00:03:37,782
+PART.2: Sí.
+
+67
+00:03:38,061 --> 00:03:38,799
+PART.2: Una girafa.
+
+68
+00:03:39,159 --> 00:03:39,679
+PART.2: No.
+
+69
+00:03:40,047 --> 00:03:40,486
+PART.1: Ah...
+
+70
+00:03:40,903 --> 00:03:42,847
+PART.2: Una altra pregunta, però té el coll llarg.
+
+71
+00:03:42,903 --> 00:03:45,455
+PART.1: No, una altra pregunta, no, tinc una altra oportunitat.
+
+72
+00:03:45,784 --> 00:03:48,024
+PART.2: Una altra oportunitat.., sí, pots fer una altra pregunta.
+
+73
+00:03:48,801 --> 00:03:51,409
+PART.1: O sigui té el coll llarg, menja dels arbres...
+
+74
+00:03:51,444 --> 00:03:53,687
+PART.2: Islas Canarias, Islas Canarias...
+
+75
+00:03:54,088 --> 00:03:56,673
+PART.1: I no és una girafa?
+
+76
+00:03:59,048 --> 00:04:00,002
+PART.1: Què té el coll llarg?
+
+77
+00:04:29,266 --> 00:04:30,081
+PART.1: No ho sé.
+
+78
+00:04:34,305 --> 00:04:37,546
+PART.2: Islas Canarias, Islas Canarias...
+
+79
+00:04:41,090 --> 00:04:42,762
+PART.2: Et dono una pista, noi?
+
+80
+00:04:55,978 --> 00:04:57,906
+PART.1: És que això del coll llarg ara m’ha despistat.
+
+81
+00:05:02,385 --> 00:05:05,266
+PART.2: He dit que menjava fulles perquè suposo que menja herba,
+
+82
+00:05:05,738 --> 00:05:08,466
+PART.2: Perquè és un roedor...
+
+83
+00:05:34,256 --> 00:05:35,450
+PART.2: Paquet de tabac...
+
+84
+00:05:43,953 --> 00:05:50,834
+PART.1: Si no és un camell...
+
+85
+00:05:50,875 --> 00:05:53,925
+PART.2: Ho és, no t’ho podia dir ja...
+
+86
+00:05:59,048 --> 00:06:01,128
+PART.2: Em sembla que hem fet més de deu preguntes, no ho sé.
+
+87
+00:06:01,455 --> 00:06:02,121
+PART.1: Vols dir? No...
+
+88
+00:06:02,440 --> 00:06:02,962
+PART.2: No?
+
+89
+00:06:04,361 --> 00:06:05,826
+PART.1: No... Em sembla que encara en faltava alguna i tot.
+
+90
+00:06:06,050 --> 00:06:06,721
+PART.2: Vols dir?
+
+91
+00:06:17,755 --> 00:06:19,915
+PART.1: Bueno, mos haurem d’entrenar en aquest joc, eh?
+
+92
+00:06:20,099 --> 00:06:20,481
+PART.2: Sí.
+
+93
+00:06:23,946 --> 00:06:25,724
+PART.2: Home, té el coll llarg aquest animalet.
+
+94
+00:06:26,043 --> 00:06:27,436
+PART.1: Sí, sí, sí.
+
+95
+00:06:29,410 --> 00:06:31,690
+PART.2: I a la selva no viu, viu al desert.
+
+96
+00:06:36,666 --> 00:06:38,228
+PART.2: A mi m’has donat una pista amb aquest.
+
+97
+00:06:39,762 --> 00:06:40,883
+PART.1: Quina pista t’he donat?
+
+98
+00:06:41,419 --> 00:06:48,204
+PART.2: M’has preguntat el meu, i quan m’has preguntat el meu he pensat, ara pregunta coses pel meu.
+
+99
+00:06:48,371 --> 00:06:52,618
+PART.1: No, perquè em pensava que posaven el mateix als dos.
+
+100
+00:06:53,377 --> 00:06:53,696
+PART.2: Ah... Ah...
+
+101
+00:06:56,040 --> 00:06:57,696
+PART.1: Llavors feia preguntes mirant el...
+
+102
+00:06:57,665 --> 00:07:12,648
+PART.2: Ah... vale. Jo com preguntaves coses del meu animal, m’he donat compte i llavors he descobert que era l’os per les preguntes que has fet.
+
+103
+00:07:12,960 --> 00:07:13,904
+PART.1: Vale, t’he donat pistes.
+
+104
+00:07:14,064 --> 00:07:14,856
+PART.2: M’has donat pistes, sí.
+
+105
+00:07:15,655 --> 00:07:17,496
+PART.2: Jo també t’he donat pistes amb les Islas Canarias.
+
+106
+00:07:36,111 --> 00:07:37,511
+PART.1: No ho sé si saben que hem acabat...
+
+107
+00:07:38,488 --> 00:07:40,273
+PART.2: No, mos volen fer patir una mica, home.
+
+108
+00:07:43,424 --> 00:07:49,135
+PART.2: Són... Van a un altre ritme, nosaltres ja estem bragans i anem a un ritme diferent.
+
+109
+00:07:49,319 --> 00:07:51,144
+PART.1: O va per temps això, tant temps...
+
+110
+00:07:51,402 --> 00:07:52,104
+PART.2: Suposo que sí.
+
+111
+00:07:57,513 --> 00:07:58,593
+PART.2: Ara, ara deuen venir.
+
+112
+00:08:14,440 --> 00:08:19,975
+PART.1: Això es posa en marxa quan ho miro, o és quan mous el braç...
+
+113
+00:08:20,193 --> 00:08:21,735
+PART.2: Ah, jo perquè apreto.
+
+114
+00:08:28,122 --> 00:08:32,810
+PART.2: Jo... És constant, no puja i baixa.
+
+115
+00:08:34,762 --> 00:08:36,763
+PART.2: Les pulsacions deuen ser per les emocions.
+
+116
+00:08:37,321 --> 00:08:40,242
+PART.1: Ah, ara estic a 85, dec estar emocionat.
+

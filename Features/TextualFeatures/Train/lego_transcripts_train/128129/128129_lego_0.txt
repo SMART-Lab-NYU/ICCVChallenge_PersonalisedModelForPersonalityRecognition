@@ -1,0 +1,99 @@
+1
+00:00:00,905 --> 00:00:01,905
+PART.1: El 2.
+
+2
+00:00:01,985 --> 00:00:05,585
+PART.2: 2, 4, 6, 8, 10, 12. Una de 12.
+
+3
+00:00:06,905 --> 00:00:07,545
+PART.1: Potser aquesta.
+
+4
+00:00:07,625 --> 00:00:08,905
+PART.2: Aquesta em sembla que deu ser de més...
+
+5
+00:00:08,985 --> 00:00:12,385
+PART.1: 2, 3, 6, 8, 10, 12, 14, 16, 18, 20.
+
+6
+00:00:12,665 --> 00:00:13,825
+PART.2: Però era blava.
+
+7
+00:00:15,265 --> 00:00:17,145
+PART.1: 2, 4, 6, 8, 10, 12.
+
+8
+00:00:17,345 --> 00:00:21,105
+PART.2: 2, 4, 6, 8, 10, 12.
+Un altre grisa com aquesta.
+
+9
+00:00:21,305 --> 00:00:22,225
+PART.1: Bueno
+
+10
+00:00:23,105 --> 00:00:28,425
+PART.2: Una de 2 d'aquesta i una igual amb blau.
+
+11
+00:00:32,905 --> 00:00:33,905
+PART.2: Aquesta
+
+12
+00:00:34,505 --> 00:00:35,425
+PART.1: Ah molt bé
+
+13
+00:00:35,665 --> 00:00:36,945
+PART.2: Aquesta, a veure...
+
+14
+00:00:37,465 --> 00:00:41,385
+PART.1: Per què? Espera un momentet. Perquè a més a més d'anar d'això, anem anant enganxant allò, enganxant això.
+
+15
+00:00:41,465 --> 00:00:42,385
+PART.2: No
+
+16
+00:00:42,265 --> 00:00:44,105
+PART.1: Però bueno veus que aquest té...
+
+17
+00:00:44,185 --> 00:00:48,465
+PART.2: Esperat que acabem de fer... de tenir aquestes i ens ho muntem...
+
+18
+00:00:48,625 --> 00:00:50,545
+PART.1: Haurem de tirar enrere igual. Bueno va!
+
+19
+00:00:50,625 --> 00:00:52,225
+PART.2: Però aquesta
+no s'ha de tirar enrere.
+
+20
+00:00:52,305 --> 00:00:53,145
+PART.1: Vale, doncs vinga.
+
+21
+00:00:53,225 --> 00:00:53,865
+PART.2: No que farem tot això
+
+22
+00:00:53,945 --> 00:00:54,945
+PART.1: Ah, vale d'acord
+
+23
+00:00:55,865 --> 00:00:58,385
+PART.2: Es que sinó no sabrem
+quines peces tenim i quines no.
+
+24
+00:00:58,625 --> 00:00:59,985
+PART.1: Aquest és, deu ser aquest. Això.
+

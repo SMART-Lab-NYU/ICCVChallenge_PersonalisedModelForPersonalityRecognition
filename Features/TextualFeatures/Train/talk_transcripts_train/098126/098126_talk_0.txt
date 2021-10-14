@@ -1,0 +1,96 @@
+﻿1
+00:00:00,000 --> 00:00:03,411
+PART.2: Val. Començo a preguntar-te jo.
+
+2
+00:00:02,691 --> 00:00:04,011
+PART.1: Ah, val.
+
+3
+00:00:06,091 --> 00:00:07,491
+PART.2: Estudies?
+
+4
+00:00:07,571 --> 00:00:08,531
+PART.1: Sí.
+
+5
+00:00:08,611 --> 00:00:10,211
+PART.2: I treballes?
+
+6
+00:00:08,291 --> 00:00:10,891
+PART.1: També, sí. Les dues coses.
+
+7
+00:00:10,971 --> 00:00:12,371
+PART.2: I fas esport?
+
+8
+00:00:12,451 --> 00:00:14,291
+PART.1: Vaig jugar a bàsquet.
+
+9
+00:00:14,371 --> 00:00:15,731
+PART.2: I actualment?
+
+10
+00:00:15,811 --> 00:00:18,411
+PART.1: Ara hauria de fer-ne més, però no…
+
+11
+00:00:18,491 --> 00:00:26,811
+PART.1: Vaig ser en un equip de bàsquet fins als 19 o així
+i després vaig seguir jugant a la facultat, però ara ja no,
+fa un parell d'anys o així que no.
+
+12
+00:00:26,891 --> 00:00:28,011
+PART.1: Sí, ho vaig deixar.
+
+13
+00:00:29,611 --> 00:00:30,811
+PART.2: Jo soc casteller.
+
+14
+00:00:30,891 --> 00:00:31,651
+PART.1: Ah, sí?
+
+15
+00:00:31,731 --> 00:00:32,331
+PART.2: Sí.
+
+16
+00:00:32,411 --> 00:00:34,011
+PART.1: De quin barri o de quina…?
+
+17
+00:00:34,091 --> 00:00:36,571
+PART.2: De la colla… Soc de la colla jove de Barcelona.
+
+18
+00:00:36,651 --> 00:00:37,251
+PART.1: Val.
+
+19
+00:00:38,411 --> 00:00:41,491
+PART.2: I soc també membre de la colla dels xiquets…
+
+20
+00:00:41,571 --> 00:00:42,891
+PART.2: Ai, de la colla de Gavà.
+
+21
+00:00:42,971 --> 00:00:43,771
+PART.1: Mmm.
+
+22
+00:00:45,171 --> 00:00:56,091
+PART.2: Soc un dels castellers que encara viu
+i encara fa castells dels xiquets de Gavà
+que es van formar l'any 1960.
+
+23
+00:00:56,171 --> 00:01:00,011
+PART.2: És a dir, fa 58 anys, jo ja feia castells.
+

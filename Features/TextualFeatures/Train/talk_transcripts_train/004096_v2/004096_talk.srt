@@ -1,0 +1,475 @@
+﻿1
+00:00:01,433 --> 00:00:06,633
+PART.2: Joaquín, ¿tú que tienes que ver
+con el departamento? ¿Cómo te han
+engañado?
+
+2
+00:00:07,473 --> 00:00:10,073
+PART.1: Sergio nos ha convencido a
+casi toda la clase.
+
+3
+00:00:10,153 --> 00:00:12,953
+PART.1: Era profesor
+nuestro de una materia en el máster.
+
+4
+00:00:13,033 --> 00:00:17,473
+PART.1: De hecho, no sé si has hablado
+con Aitor. Aitor es el que estaba...
+
+5
+00:00:17,553 --> 00:00:18,553
+PART.2: El de blanco, ¿no?
+
+6
+00:00:18,633 --> 00:00:19,673
+PART.1: El de blanco, sí.
+
+7
+00:00:20,113 --> 00:00:28,913
+PART.1: Él es compañero
+de clase mío y entre él y Sergio
+nos han arrastrado, a casi toda la
+clase, a los experimentos.
+
+8
+00:00:29,993 --> 00:00:31,353
+PART.2: Tú estás haciendo el máster.
+
+9
+00:00:31,433 --> 00:00:33,753
+PART.1: Yo estoy haciendo el máster de
+Inteligencia Artificial.
+
+10
+00:00:38,233 --> 00:00:41,913
+PART.1: Sergio no nos dijo de qué sería,
+pero dijo: "Tienen que ir ya".
+
+11
+00:00:41,993 --> 00:00:43,273
+PART.1: Y todos los estudiantes van.
+
+12
+00:00:44,353 --> 00:00:48,113
+PART.1: Bueno, y así nos convenció a
+todos. ¿Y tú?
+
+13
+00:00:48,833 --> 00:00:56,033
+PART.2: A mí me envió un correo alguien,
+algún amigo, y me dijo: "Mira, unos
+amigos tienen este proyecto y
+necesitan gente", y dije: "Pues
+vale".
+
+14
+00:00:56,753 --> 00:01:03,393
+PART.2: Conozco gente del departamento
+porque yo estudié aquí y a veces doy
+clases como asociado.
+
+15
+00:01:04,353 --> 00:01:06,353
+PART.2: Y dije: "Bueno. Esto es fácil".
+
+16
+00:01:06,433 --> 00:01:07,233
+PART.1: ¿Estudiaste aquí?
+
+17
+00:01:07,313 --> 00:01:09,673
+PART.2: Sí. La licenciatura y el máster
+los hice aquí.
+
+18
+00:01:09,993 --> 00:01:11,513
+PART.2: El doctorado ya lo hice fuera.
+
+19
+00:01:13,273 --> 00:01:14,713
+PART.1: ¿Y qué hiciste aquí?
+
+20
+00:01:14,793 --> 00:01:15,513
+PART.2: Matemáticas.
+
+21
+00:01:15,593 --> 00:01:16,273
+PART.1: Matemáticas.
+
+22
+00:01:16,353 --> 00:01:20,033
+PART.2: Pero ahora me he ido tirando
+hacia más o menos lo que haces tú.
+
+23
+00:01:21,593 --> 00:01:23,393
+PART.2: Las redes neuronales
+y cosas de esas.
+
+24
+00:01:24,473 --> 00:01:26,753
+PART.2: El mundo entero se
+dirige hacia lo mismo.
+
+25
+00:01:26,593 --> 00:01:31,353
+PART.1: Yo tengo un compañero de clase
+que es matemático y físico, las dos.
+
+26
+00:01:32,313 --> 00:01:34,833
+PART.1: Primero en la autónoma y ahora
+está estudiando el máster aquí.
+
+27
+00:01:35,353 --> 00:01:40,993
+PART.1: Pero la mayoría de las personas
+que están en el máster son
+ingenieros o "Computer Science".
+
+28
+00:01:41,753 --> 00:01:42,593
+PART.2: ¿Y tú qué eres?
+
+29
+00:01:42,673 --> 00:01:43,553
+PART.1: Yo ingeniería.
+
+30
+00:01:43,633 --> 00:01:54,393
+PART.1: Aunque no se
+podría llamar ingeniería solo,
+porque yo vengo de Uruguay y en
+Uruguay la carrera de ingeniería
+lleva cinco años más la tesis, que
+es de 12.
+
+31
+00:01:56,633 --> 00:02:02,353
+PART.1: Uno puede solapar el último año
+con la tesis, pero la mayoría de la
+gente llegamos en unos seis años.
+
+32
+00:02:02,433 --> 00:02:09,153
+PART.1: Y como es bastante más larga,
+damos cosas de Computer Science y de
+ingeniería, de las dos.
+
+33
+00:02:09,353 --> 00:02:10,353
+PART.2: ¿Qué ingeniería?
+
+34
+00:02:10,473 --> 00:02:13,553
+PART.1: En Sistemas o en Computer Science
+o en Software.
+
+35
+00:02:14,153 --> 00:02:16,033
+PART.1: Tiene muchos nombres dependiendo
+del lugar.
+
+36
+00:02:15,953 --> 00:02:16,913
+PART.2: Vale.
+
+37
+00:02:17,233 --> 00:02:18,873
+PART.2: Ah, muy bien. ¿Cuánto
+llevas aquí?
+
+38
+00:02:18,953 --> 00:02:20,113
+PART.1: Un año.
+
+39
+00:02:20,193 --> 00:02:21,273
+PART.2: ¿Para los másteres?
+
+40
+00:02:21,353 --> 00:02:26,833
+PART.1: Sí. Vine en agosto y desde
+entonces estoy aquí.
+
+41
+00:02:28,793 --> 00:02:31,513
+PART.1: Dentro de un mes
+hará un año que estoy aquí.
+
+42
+00:02:32,393 --> 00:02:34,673
+PART.2: ¿Y te vas a quedar por aquí
+cuando termines el máster o...?
+
+43
+00:02:34,753 --> 00:02:35,673
+PART.1: Bueno, no sé.
+
+44
+00:02:35,753 --> 00:02:39,993
+PART.1: El máster termina
+en enero, febrero del año que viene.
+
+45
+00:02:40,473 --> 00:02:43,993
+PART.1: Mi novia se ha apuntado en una
+universidad para estudiar Diseño
+Gráfico.
+
+46
+00:02:44,073 --> 00:02:49,233
+PART.1: Y tendré que estar hasta que ella
+acabe la universidad.
+
+47
+00:02:49,313 --> 00:02:54,993
+PART.1: Que eso será un año
+y medio más después de tener el
+máster, tiene dos años menos.
+
+48
+00:02:55,953 --> 00:03:02,393
+PART.2: Bueno, en Barcelona hay una de
+trabajo brutal de todo esto, o sea,
+que no tendrías ningún problema
+en...
+
+49
+00:03:03,273 --> 00:03:04,233
+PART.1: Espero que sí.
+
+50
+00:03:04,593 --> 00:03:08,233
+PART.1: Ahora, dentro de un... Ah, ¿tiene
+la hora?
+
+51
+00:03:08,553 --> 00:03:19,073
+PART.1: Dentro de cuatro horas
+tengo una entrevista en una empresa,
+así que a lo mejor empiezo la faena
+con ellos en verano.
+
+52
+00:03:19,593 --> 00:03:21,833
+PART.2: ¿Qué empresa es? Si se puede
+decir... Porque hay cámaras.
+
+53
+00:03:21,113 --> 00:03:22,193
+PART.1: Sí, sí, claro.
+
+54
+00:03:22,753 --> 00:03:24,953
+PART.1: ¿SIM se llama la empresa?
+
+55
+00:03:25,033 --> 00:03:25,913
+PART.2: ¿Cómo?
+
+56
+00:03:25,993 --> 00:03:26,513
+PART.1: SIM.
+
+57
+00:03:26,593 --> 00:03:28,113
+PART.2: ¿Cómo? Ah, me suena.
+
+58
+00:03:29,433 --> 00:03:31,233
+PART.1: Es una empresa...
+
+59
+00:03:34,393 --> 00:03:36,953
+PART.1: Ellos se nombran como un "IA
+start-ups".
+
+60
+00:03:41,913 --> 00:03:47,513
+PART.1: Todos sus productos
+están desde un punto de vista de
+inteligencia artificial, pero son,
+básicamente, márquetin.
+
+61
+00:03:50,433 --> 00:03:54,513
+PART.1: Yo estay aplicando para un puesto
+de "Full Stack Developer".
+
+62
+00:03:54,593 --> 00:04:05,873
+PART.1: Aunque cuando me preguntaron, les
+dije que quería entrar en otro
+puesto, pero dijeron que por mi
+perfil les convenía a ellos que
+entrara en "Full Stack".
+
+63
+00:04:06,953 --> 00:04:08,593
+PART.1: Hoy hablaré con ellos.
+
+64
+00:04:08,673 --> 00:04:10,513
+PART.2: ¿Y "Full Stack" qué significa?
+
+65
+00:04:10,593 --> 00:04:17,873
+PART.1: "Full Stack Developer" es que
+trabajas en desarrollo web,
+normalmente en "Fron-End" y
+"Back-End", en las dos.
+
+66
+00:04:19,473 --> 00:04:24,633
+PART.1: Trabajas tanto la parte de
+servidor como la parte de web.
+
+67
+00:04:26,393 --> 00:04:32,753
+PART.1: Porque los desarrolladores de
+"Fron-End" no son los de "Back-End",
+pero los de "Full Stack" debería
+poder encargarse de todas las
+tareas.
+
+68
+00:04:33,033 --> 00:04:35,153
+PART.2: Vale. ¿Y eso también te motiva?
+
+69
+00:04:35,473 --> 00:04:38,033
+PART.1: Sí. Bueno, es lo que estudié
+mientras estaba en Uruguay.
+
+70
+00:04:38,113 --> 00:04:50,113
+PART.1: Aunque ahora me estoy moviendo
+más hacia inteligencia artificial
+más que de desarrollo.
+
+71
+00:04:50,913 --> 00:04:59,633
+PART.1: Después de que terminé la
+universidad en Uruguay estuve dos o
+tres años trabajando con un
+investigador para un departamento de
+la universidad y dando clases.
+
+72
+00:05:00,513 --> 00:05:05,873
+PART.1: Ahora estoy un poquito más
+alejado del desarrollo, pero sí, es
+algo que me gusta. Me mola igual.
+
+73
+00:05:06,513 --> 00:05:09,553
+PART.2: Si estuviste estudiando en
+Uruguay seguro que tomas mate, ¿no?
+
+74
+00:05:09,633 --> 00:05:11,033
+PART.1: Sí.
+
+75
+00:05:11,393 --> 00:05:13,073
+PART.2: Eres de los que lo hace así con
+el...
+
+76
+00:05:13,153 --> 00:05:18,793
+PART.1: Sí... Con el mate aquí y el...
+
+77
+00:05:18,873 --> 00:05:21,273
+PART.1: Con el
+termo y el mate todo el día.
+
+78
+00:05:21,433 --> 00:05:28,353
+PART.1: Yo no tomo tanto mate, como la
+mayoría de los uruguayos, que toman
+las 24 horas, yo tomo un café.
+
+79
+00:05:28,793 --> 00:05:31,313
+PART.1: Y son cosas que no se mezclan.
+Es o mate o café.
+
+80
+00:05:31,393 --> 00:05:31,913
+PART.2: ¿Ah, sí?
+
+81
+00:05:31,993 --> 00:05:40,473
+PART.1: Sí. La mayoría de las personas
+que toman mate lo hacen por
+costumbre y porque te da un poco de
+cafeína, te mantiene despierto.
+
+82
+00:05:42,993 --> 00:05:45,673
+PART.1: Pero yo tomo café,
+así que no se mezcla.
+
+83
+00:05:45,753 --> 00:05:47,553
+PART.1: Sería demasiado
+tomar mate y café.
+
+84
+00:05:47,633 --> 00:05:50,073
+PART.2: Vale, vale. Demasiada cafeína.
+
+85
+00:05:50,873 --> 00:06:00,793
+PART.2: La primera vez que tomé mate, con
+unos amigos argentinos, me pasaron
+la calabaza esta y me puse a
+remover...
+
+86
+00:06:02,393 --> 00:06:04,433
+PART.2: Nos pasa a todos los españoles.
+
+87
+00:06:06,153 --> 00:06:07,993
+PART.1: Lo peor es el sabor de la primera
+vez.
+
+88
+00:06:08,073 --> 00:06:09,353
+PART.2: Es un poco amargo.
+
+89
+00:06:09,433 --> 00:06:11,193
+PART.1: Sí. Es asqueroso la primera vez.
+
+90
+00:06:11,433 --> 00:06:16,073
+PART.1: Bueno, si uno piensa en ello, no
+hay nada salubre en él.
+
+91
+00:06:16,153 --> 00:06:24,673
+PART.1: Porque es un vaso de madera, que
+uno utiliza durante años y lo lava,
+a lo mejor, una vez al mes.
+
+92
+00:06:25,953 --> 00:06:29,793
+PART.1: Con una pajilla de metal de la
+que todo el mundo chupa.
+
+93
+00:06:29,873 --> 00:06:30,993
+SUPERVISOR: Esto es el mate, ¿no?
+
+94
+00:06:30,833 --> 00:06:31,633
+PART.1: Sí, es el mate.
+

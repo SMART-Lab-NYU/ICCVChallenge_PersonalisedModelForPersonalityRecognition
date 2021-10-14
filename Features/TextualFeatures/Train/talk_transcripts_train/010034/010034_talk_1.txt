@@ -1,0 +1,145 @@
+34
+00:01:02,159 --> 00:01:02,599
+PART.1: Sí, me suena.
+
+35
+00:01:02,479 --> 00:01:02,839
+PART.2: ¿Sí?
+
+36
+00:01:03,279 --> 00:01:03,959
+PART.2: Pues vivo...
+
+37
+00:01:04,159 --> 00:01:06,079
+PART.2: Mi amigo, Tom, somos de ahí.
+
+38
+00:01:06,159 --> 00:01:08,039
+PART.1: Ah, ¿y cómo te enteraste
+de esto?
+
+39
+00:01:08,279 --> 00:01:09,399
+PART.2: Pues no tengo ni idea, la
+verdad.
+
+40
+00:01:09,159 --> 00:01:09,919
+PART.1: Yo no me acuerdo.
+
+41
+00:01:10,159 --> 00:01:11,839
+PART.2: Es que no, hace muchísimo
+tiempo.
+
+42
+00:01:11,919 --> 00:01:13,399
+PART.2: Yo creo que lo vi por la...
+
+43
+00:01:14,199 --> 00:01:19,039
+PART.2: O por el campus virtual o por
+la página web de la universidad,
+pero ni idea.
+
+44
+00:01:19,119 --> 00:01:21,279
+PART.1: Yo no estoy segura, pero
+como en diciembre, creo.
+
+45
+00:01:21,439 --> 00:01:22,159
+PART.2: Sí, sí.
+
+46
+00:01:22,239 --> 00:01:23,999
+PART.2: Como un puñado de tiempo atrás.
+
+47
+00:01:24,079 --> 00:01:26,439
+PART.1: Sí. Fue como que mandé un
+correo para informarme.
+
+48
+00:01:26,239 --> 00:01:27,079
+PART.2: Exacto.
+
+49
+00:01:27,159 --> 00:01:29,439
+PART.1: Ni siquiera me inscribí
+ni nada y ahora me hablaron.
+
+50
+00:01:29,039 --> 00:01:31,279
+PART.2: Ah, yo sí que me
+inscribí, dije: "Me da igual".
+
+51
+00:01:32,159 --> 00:01:32,759
+PART.1: Claro.
+
+52
+00:01:32,919 --> 00:01:33,479
+PART.2: Sí.
+
+53
+00:01:34,119 --> 00:01:38,279
+PART.2: Es que ha pasado bastante
+tiempo desde la primera vez,
+supongo.
+
+54
+00:01:38,399 --> 00:01:44,359
+PART.2: Y, además, todo el rato
+hemos hablado con Cristina
+y claro, esta mañana estábamos
+sentados ahí abajo
+y no sabíamos a quién tenía...
+
+55
+00:01:44,679 --> 00:01:46,399
+PART.2: ¿Sabes? Nosotros nos
+esperábamos a una chica.
+
+56
+00:01:46,919 --> 00:01:47,559
+PART.1: Claro, claro.
+
+57
+00:01:47,839 --> 00:01:49,399
+PART.1: Cristina es como la
+coordinadora, ¿no?
+
+58
+00:01:49,159 --> 00:01:49,999
+PART.2: Sí, sí.
+
+59
+00:01:49,479 --> 00:01:50,079
+PART.1: La jefa.
+
+60
+00:01:50,159 --> 00:01:53,959
+PART.1: Claro, entonces ella se
+encarga de armar todo y los chicos
+vienen a grabar.
+
+61
+00:01:53,079 --> 00:01:55,519
+PART.2: Ya, como del proyecto,
+supongo.
+
+62
+00:01:55,599 --> 00:01:56,279
+PART.1: Claro.
+
+63
+00:01:56,759 --> 00:01:58,479
+PART.2: Que me parece muy
+interesante, la verdad.
+
+64
+00:01:58,799 --> 00:01:59,759
+PART.1: A mí también.
+

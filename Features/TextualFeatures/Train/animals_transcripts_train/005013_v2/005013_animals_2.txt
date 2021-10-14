@@ -1,0 +1,62 @@
+35
+00:02:01,494 --> 00:02:02,414
+PART.2: Algunas.
+
+36
+00:02:02,654 --> 00:02:03,494
+PART.2: La mayoría.
+
+37
+00:02:03,734 --> 00:02:04,814
+PART.2: No. La minoría, perdón.
+
+38
+00:02:04,974 --> 00:02:05,854
+PART.1: La minoría.
+
+39
+00:02:06,454 --> 00:02:08,574
+PART.2: Es de otro color totalmente
+distinto.
+
+40
+00:02:13,334 --> 00:02:18,414
+PART.2: El ave que yo tengo, ¿es nocturna
+o diurna?
+
+41
+00:02:21,174 --> 00:02:22,894
+PART.2: Sale de día o sale de noche.
+
+42
+00:02:23,134 --> 00:02:24,974
+PART.2: O es indistinto.
+
+43
+00:02:28,894 --> 00:02:30,574
+PART.1: Que sepa es indistinto.
+
+44
+00:02:31,454 --> 00:02:32,774
+PART.2: Vale, indistinto.
+
+45
+00:02:40,934 --> 00:02:43,894
+PART.1: ¿Suele verse en poblaciones de
+humanos?
+
+46
+00:02:44,974 --> 00:02:51,054
+PART.2: Yo creo que es un poco difícil
+que se vea en poblaciones de
+humanos, aunque podría ser.
+
+47
+00:02:51,134 --> 00:02:52,174
+PART.2: No estoy seguro.
+
+48
+00:02:56,014 --> 00:02:59,934
+PART.2: ¿De qué color son las plumas del
+animal que tengo?
+

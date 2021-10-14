@@ -1,0 +1,82 @@
+93
+00:03:00,846 --> 00:03:02,806
+PART.2: "Ah, mientras venía, hicimos tres más".
+
+94
+00:03:03,126 --> 00:03:03,526
+PART.2: Digo...
+
+95
+00:03:04,326 --> 00:03:06,246
+PART.2: "Así no, tenés que esperar a que"...
+
+96
+00:03:06,606 --> 00:03:09,926
+PART.1: Bueno, está bien, mira, más información
+añade.
+
+97
+00:03:10,606 --> 00:03:11,126
+PART.1: Sí, sí.
+
+98
+00:03:11,206 --> 00:03:17,886
+PART.2: Relajado entonces, estaba más que relajado,
+porque están mirando las emociones, ¿no?, y
+cómo se pueden sentir con otra persona.
+
+99
+00:03:17,966 --> 00:03:21,966
+PART.1: A ver, la idea es, a partir de... sí, más
+o... sí, sí, tal cual.
+
+100
+00:03:22,046 --> 00:03:23,926
+PART.2: ¿El comportamiento de cada...?
+
+101
+00:03:24,006 --> 00:03:24,686
+PART.1: Sí, correcto.
+
+102
+00:03:25,246 --> 00:03:27,526
+PART.1: O sea, básicamente es el vídeo, tú analizas
+el...
+
+103
+00:03:28,166 --> 00:03:37,686
+PART.1: Obviamente hay unos factores que según la
+cara, la forma de hablar, la tal... pues puedes
+asignar a cada momento, a cada persona, un...
+un estado de ánimo.
+
+104
+00:03:38,086 --> 00:03:41,806
+PART.1: Entonces, con esos estados de ánimo, pues tú
+vas poniendo en el video en qué momento se
+encuentra.
+
+105
+00:03:41,886 --> 00:03:50,766
+PART.1: Por ejemplo, si ahora me pongo a reírme, me
+etiquetarán... justo como me acaba de pasar, me
+etiquetarán risa durante este instante, y luego
+me etiquetarán neutral... bueno, etc.
+
+106
+00:03:51,206 --> 00:03:54,246
+PART.1: Y a partir de eso, construyes una base de
+datos de cómo se comporta la persona.
+
+107
+00:03:54,846 --> 00:03:57,646
+PART.1: Y luego, bueno, pues eso, básicamente.
+
+108
+00:03:57,966 --> 00:04:06,206
+PART.1: Y con el test que has hecho, pues también
+ayuda a añadir información a los videos... y al
+final esto se utiliza pues es... bueno, pues en
+inteligencia artificial y demás y otros
+proyectos.
+

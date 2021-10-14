@@ -1,0 +1,92 @@
+115
+00:05:02,836 --> 00:05:03,836
+PART.1: Jo tinc 21 anys, eh?
+
+116
+00:05:03,836 --> 00:05:04,836
+PART.1: O sigui acabo d'acabar...
+
+117
+00:05:04,836 --> 00:05:07,836
+PART.2: Ets molt jove, hòstia, jo tinc quasi 31.
+
+118
+00:05:10,836 --> 00:05:15,836
+PART.1: Vaig fer el batxillerat tecnològic per entrar a fer Enginyeria Aeronàutica a Terrassa...
+
+119
+00:05:15,836 --> 00:05:16,836
+PART.2: Hmm.
+
+120
+00:05:17,836 --> 00:05:18,836
+PART.1: La volia fer molt fortament.
+
+121
+00:05:19,836 --> 00:05:20,836
+PART.2: ...la va acabar.
+
+122
+00:05:20,836 --> 00:05:21,836
+PART.1: Sí?
+
+123
+00:05:21,836 --> 00:05:23,836
+PART.1: Déu-n'hi-do, es xungo.
+
+124
+00:05:23,836 --> 00:05:27,836
+PART.1: I al final vaig passar-me a la part artística i he fet Teatre Musical.
+
+125
+00:05:27,836 --> 00:05:28,836
+PART.1: Absolutament diferent.
+
+126
+00:05:29,836 --> 00:05:33,836
+PART.1: Toco el piano des de molt de temps i, just ara, he acabat la carrera de Teatre Musical.
+
+127
+00:05:33,836 --> 00:05:34,836
+PART.2: Teatre?
+
+128
+00:05:34,836 --> 00:05:35,836
+PART.1: Sí.
+
+129
+00:05:35,836 --> 00:05:36,836
+PART.2: On?
+
+130
+00:05:36,836 --> 00:05:44,836
+PART.1: Bueno, es pot fer a Escoles Memory, Aules, Eòlia, l'Institut del Teatre...
+
+131
+00:05:43,836 --> 00:05:45,836
+PART.2: Aules?
+
+132
+00:05:45,836 --> 00:05:46,836
+PART.2: Conec gent a Aules.
+
+133
+00:05:46,836 --> 00:05:47,836
+PART.1: Sí.
+
+134
+00:05:47,836 --> 00:05:49,836
+PART.2: M'han dit que els millors professors estan allí, pràcticament.
+
+135
+00:05:49,836 --> 00:05:50,836
+PART.1: Sí, està molt bé.
+
+136
+00:05:50,836 --> 00:05:56,836
+PART.1: Aules està bé, jo sóc de Memory, i m'agrada més, però sí, sí, Aules està igualment bé.
+
+137
+00:05:56,836 --> 00:05:57,836
+PART.1: Completament.
+

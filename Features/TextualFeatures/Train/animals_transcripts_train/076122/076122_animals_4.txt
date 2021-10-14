@@ -1,0 +1,33 @@
+72
+00:04:09,203 --> 00:04:10,683
+PART.1: Buah, voy perdidísimo.
+
+73
+00:04:11,523 --> 00:04:15,323
+PART.2: ¿Soy muy grande?
+
+74
+00:04:15,763 --> 00:04:16,523
+PART.1: No.
+
+75
+00:04:20,363 --> 00:04:21,163
+PART.2: ¿No?
+
+76
+00:04:30,203 --> 00:04:31,083
+PART.1: ¿Soy pequeño?
+
+77
+00:04:36,043 --> 00:04:37,923
+PART.2: Tirando a que sí.
+
+78
+00:04:40,683 --> 00:04:43,203
+PART.2: No vivo en el agua...
+
+79
+00:04:45,123 --> 00:04:50,003
+PART.2: Soy de grises, con cuernos,
+herbívoro, no muy grande.
+

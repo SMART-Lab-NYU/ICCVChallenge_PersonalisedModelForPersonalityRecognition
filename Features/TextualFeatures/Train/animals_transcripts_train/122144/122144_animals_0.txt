@@ -1,0 +1,73 @@
+﻿1
+00:00:00,790 --> 00:00:05,230
+PART.1: Empieza tú con las preguntas
+porque yo estoy todavía pensando en
+qué puede ser por el nombre.
+
+2
+00:00:09,870 --> 00:00:11,150
+PART.2: ¿Es terrestre?
+
+3
+00:00:13,830 --> 00:00:14,590
+PART.1: No.
+
+4
+00:00:15,990 --> 00:00:18,390
+PART.1: Bueno, ¿qué entiendes por
+terrestre?
+
+5
+00:00:18,470 --> 00:00:20,150
+PART.2: Que se desplaza solo en la
+tierra.
+
+6
+00:00:20,230 --> 00:00:22,350
+PART.2: Que no vuela ni...
+
+7
+00:00:22,750 --> 00:00:23,430
+PART.1: Entonces, no.
+
+8
+00:00:23,510 --> 00:00:24,270
+PART.2: Ni está en el agua.
+
+9
+00:00:24,350 --> 00:00:25,230
+PART.1: No es terrestre.
+
+10
+00:00:27,270 --> 00:00:30,230
+PART.2: ¿Son seguidas las mías?
+¿Son las diez o es una y una?
+
+11
+00:00:30,310 --> 00:00:32,110
+PART.1: Es una y una. Estoy pensando.
+
+12
+00:00:35,230 --> 00:00:36,310
+PART.1: ¿Es un reptil?
+
+13
+00:00:37,630 --> 00:00:38,390
+PART.2: No.
+
+14
+00:00:41,990 --> 00:00:43,630
+PART.2: ¿Está en el agua?
+
+15
+00:00:44,670 --> 00:00:45,430
+PART.1: No.
+
+16
+00:00:54,590 --> 00:00:55,630
+PART.1: ¿Tiene garras?
+
+17
+00:00:58,390 --> 00:01:01,310
+PART.2: Eh... Sí.
+

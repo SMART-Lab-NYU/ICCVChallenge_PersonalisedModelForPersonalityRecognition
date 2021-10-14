@@ -1,0 +1,103 @@
+1
+00:00:00,000 --> 00:00:00,732
+PART.1: Vale.
+A ver...
+
+2
+00:00:00,812 --> 00:00:02,892
+PART.1: Eh..., ¿quieres empezar tú?
+
+3
+00:00:02,972 --> 00:00:04,212
+PART.2: Vale.
+
+4
+00:00:04,292 --> 00:00:08,292
+PART.2: Eh..., el mío, ¿vive en foresta,
+
+5
+00:00:08,372 --> 00:00:10,972
+PART.2: en un bosque?
+
+6
+00:00:13,652 --> 00:00:18,092
+PART.1: Mmm... Es que no lo sé.
+No lo sé.
+
+7
+00:00:18,292 --> 00:00:21,252
+PART.1: ¿Las preguntas
+que no sabes se cuentan?
+
+8
+00:00:21,332 --> 00:00:24,972
+PART.2: Si no sabes
+la respuesta, pregunto otra cosa
+
+9
+00:00:25,052 --> 00:00:27,052
+PART.2: para que me comentes,
+pienso yo.
+
+10
+00:00:27,172 --> 00:00:29,012
+PART.1: Mmm...
+
+11
+00:00:29,092 --> 00:00:30,732
+PART.1: Vale, venga, hacemos esto.
+
+12
+00:00:30,812 --> 00:00:32,732
+PART.2: ¿El mío es mamífero?
+
+13
+00:00:32,812 --> 00:00:33,932
+PART.1: Sí.
+
+14
+00:00:34,012 --> 00:00:36,332
+PART.2: Sí. No ayudó nada.
+
+15
+00:00:36,412 --> 00:00:38,812
+PART.1: Bueno,
+ya descartas mucho.
+
+16
+00:00:38,892 --> 00:00:42,172
+PART.1: ¿El mío es...
+
+17
+00:00:43,172 --> 00:00:43,852
+PART.1: mamífero?
+
+18
+00:00:43,932 --> 00:00:45,532
+PART.2: "Yes". Sí.
+
+19
+00:00:45,612 --> 00:00:46,692
+PART.1: Vale.
+
+20
+00:00:46,772 --> 00:00:48,852
+PART.2: Es que qué nombre...
+
+21
+00:00:48,932 --> 00:00:50,612
+PART.1: ¿Qué preguntas?
+
+22
+00:00:50,692 --> 00:00:52,732
+PART.2: ¿Qué pregunto ahora?
+
+23
+00:00:53,812 --> 00:00:56,732
+PART.2: ¿El mío vive en el mar?
+
+24
+00:00:56,852 --> 00:01:00,972
+PART.1: En el agua.
+Pasa mucho tiempo en el agua.
+

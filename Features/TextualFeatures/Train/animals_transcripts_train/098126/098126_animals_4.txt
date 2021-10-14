@@ -1,0 +1,73 @@
+85
+00:04:05,859 --> 00:04:08,139
+PART.1: És típic com de bec corbat?
+
+86
+00:04:08,219 --> 00:04:12,059
+PART.2: Sí, no és molt corbat, però no és…
+
+87
+00:04:12,139 --> 00:04:13,979
+PART.1: No és així.
+
+88
+00:04:14,059 --> 00:04:19,059
+PART.2: …no és el que insinues,
+no és el que tu insinues.
+
+89
+00:04:19,139 --> 00:04:21,779
+PART.1: Val. OK. Val, vas tu.
+
+90
+00:04:21,859 --> 00:04:24,699
+PART.2: Has dit que tenia pèls.
+
+91
+00:04:25,979 --> 00:04:28,419
+PART.2: Acostuma a tenir molts cadells?
+
+92
+00:04:28,499 --> 00:04:29,579
+PART.1: Sí.
+
+93
+00:04:29,659 --> 00:04:31,419
+PART.2: O criatures?
+
+94
+00:04:31,499 --> 00:04:32,539
+PART.1: Sí.
+
+95
+00:04:32,619 --> 00:04:33,739
+PART.2: Val.
+
+96
+00:04:33,819 --> 00:04:34,939
+PART.1: Set.
+
+97
+00:04:39,379 --> 00:04:44,099
+PART.1: Val. És un ocell caçador? O sigui, menja altres…
+
+98
+00:04:44,179 --> 00:04:45,939
+PART.2: No. No.
+
+99
+00:04:46,019 --> 00:04:47,859
+PART.1: OK. Val.
+
+100
+00:04:47,939 --> 00:04:53,179
+PART.2: Un animal que té pèl, que té molts cadells.
+
+101
+00:04:53,259 --> 00:04:55,459
+PART.2: Segons com és agressiu?
+
+102
+00:04:59,779 --> 00:05:01,659
+PART.2: Si és el que penso, segons com, és agressiu.
+

@@ -1,0 +1,130 @@
+1
+00:00:01,892 --> 00:00:03,492
+PART.2:  ¿Cómo te llamabas? ¿Bárbara?
+
+2
+00:00:03,572 --> 00:00:04,332
+PART.1: PERSONA A: Bárbara, ¿y tú?
+
+3
+00:00:04,412 --> 00:00:04,932
+PART.2:  Minerva.
+
+4
+00:00:05,012 --> 00:00:06,532
+PART.1: Minerva, muy bien.
+
+5
+00:00:06,612 --> 00:00:08,012
+PART.1: ¿Y qué haces?
+
+6
+00:00:08,092 --> 00:00:09,092
+PART.2:  ¿Qué hago?
+
+7
+00:00:09,172 --> 00:00:10,412
+PART.2:  ¿Qué hago, a qué me dedico?
+
+8
+00:00:10,492 --> 00:00:11,212
+PART.1: Ajá.
+
+9
+00:00:11,292 --> 00:00:12,132
+PART.2:  Soy psicóloga.
+
+10
+00:00:12,212 --> 00:00:13,212
+PART.1: ¿En serio?
+
+11
+00:00:13,292 --> 00:00:14,652
+PART.2:  Sí, ¿tú qué haces?
+
+12
+00:00:14,732 --> 00:00:15,532
+PART.1: Enfermera.
+
+13
+00:00:15,612 --> 00:00:16,372
+PART.2:  Enfermera.
+
+14
+00:00:16,452 --> 00:00:29,932
+PART.2:  Soy psicóloga, pero ahora no
+trabajo como psicóloga,
+trabajé hasta enero,
+me dejé el curro,
+y luego me di como unos mesecitos de
+estar parada y ahora me estoy dando
+un tiempo para hacer algo diferente
+a lo que he hecho siempre.
+
+15
+00:00:30,012 --> 00:00:32,092
+PART.2:  Llevo un mes trabajando de
+camarera.
+
+16
+00:00:32,172 --> 00:00:33,012
+PART.1: Ya.
+
+17
+00:00:33,092 --> 00:00:44,892
+PART.2:  y pretendo estar así como un añito
+porque estoy haciendo una formación
+paralela, es decir, hice la carrera,
+hice el máster, me puse a currar,
+y ahora me he metido en una
+formación superconcreta de
+psicología.
+
+18
+00:00:44,972 --> 00:00:45,812
+PART.1: ¿De qué?
+
+19
+00:00:45,892 --> 00:00:47,172
+PART.2:  Gestalt.
+
+20
+00:00:47,252 --> 00:00:47,972
+PART.2:  No sé si lo conoces.
+
+21
+00:00:48,052 --> 00:00:48,412
+PART.1: Sí.
+
+22
+00:00:48,492 --> 00:00:48,812
+PART.2:  ¿Lo conoces?
+
+23
+00:00:48,892 --> 00:00:49,372
+PART.1: Sí.
+
+24
+00:00:49,452 --> 00:00:53,652
+PART.2:  Pues estoy haciendo la formación
+para ser terapeuta Gestalt
+y acabo el año que viene.
+
+25
+00:00:53,732 --> 00:00:56,892
+PART.2:  Y entonces me he querido dar como
+un tiempo porque...
+
+26
+00:00:56,972 --> 00:00:59,852
+PART.1: ¿En eso también hacen como lo de
+las constelaciones...?
+
+27
+00:00:59,932 --> 00:01:07,972
+PART.2:  Está superligado, sí,
+está súper es, constelaciones
+digamos que es otra rama, pero está
+dentro de la psicología humanista,
+que es esto, la Gestalt.
+

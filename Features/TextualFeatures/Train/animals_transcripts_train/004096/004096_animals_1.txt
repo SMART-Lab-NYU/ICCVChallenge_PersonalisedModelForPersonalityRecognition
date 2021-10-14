@@ -1,0 +1,57 @@
+18
+00:01:00,447 --> 00:01:11,127
+PART.2: ¿El mío vive en granjas o suele
+estar libre? No se puede decir
+dos... Bueno, ¿vive en grajas
+normalmente?
+
+19
+00:01:11,207 --> 00:01:12,207
+PART.1: No.
+
+20
+00:01:14,727 --> 00:01:16,727
+PART.1: Vale. ¿Tiene un pico corto?
+
+21
+00:01:18,807 --> 00:01:24,447
+PART.2: No. Entre la media de las aves y
+tal... No. No es de los más cortos.
+
+22
+00:01:24,527 --> 00:01:25,527
+PART.1: Vale.
+
+23
+00:01:25,807 --> 00:01:27,287
+PART.2: ¿El mío tiene un pico corto?
+
+24
+00:01:27,367 --> 00:01:28,367
+PART.1: No.
+
+25
+00:01:34,047 --> 00:01:43,607
+PART.1: Veamos... ¿Es un ave que vive en
+la jungla?
+
+26
+00:01:44,247 --> 00:01:45,247
+PART.2: No.
+
+27
+00:01:45,727 --> 00:01:54,807
+PART.2: ¿Mi ave pasa una parte
+significativa del tiempo volando o
+es casi anecdótico si la ves volar o
+directamente no vuela?
+
+28
+00:01:55,407 --> 00:01:59,287
+PART.1: Bueno, no. Pasa poco tiempo
+volando.
+
+29
+00:01:59,367 --> 00:02:00,687
+PART.2: Poco tiempo volando.
+

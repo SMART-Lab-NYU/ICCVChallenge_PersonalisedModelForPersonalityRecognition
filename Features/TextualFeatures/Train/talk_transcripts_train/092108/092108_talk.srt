@@ -1,0 +1,395 @@
+﻿1
+00:00:00,000 --> 00:00:00,301
+SUPERVISOR: "Ya está".
+
+2
+00:00:11,181 --> 00:00:11,661
+PART.1: Ya.
+
+3
+00:00:12,181 --> 00:00:15,061
+PART.2: ¿Y ya sabes en qué materias te vas a apuntar
+en el próximo semestre?
+
+4
+00:00:15,141 --> 00:00:21,341
+PART.1: Uf... no, pero... tengo que escoger tres...
+tres.
+
+5
+00:00:21,501 --> 00:00:23,741
+PART.2: Ah, porque hiciste 32 créditos...
+
+6
+00:00:23,421 --> 00:00:24,141
+PART.1: Sí.
+
+7
+00:00:24,381 --> 00:00:34,461
+PART.1: Eh... probablemente... en el curso con
+"Bellido", eh... el de Análisis de Datos, ¿no
+lo has visto?
+
+8
+00:00:34,021 --> 00:00:36,701
+PART.2: OK, no me las he chequeado todavía.
+
+9
+00:00:38,421 --> 00:00:40,181
+PART.1: Sí, yo lo estuve viendo por los horarios.
+
+10
+00:00:40,261 --> 00:00:40,781
+PART.2: OK.
+
+11
+00:00:41,221 --> 00:00:43,421
+PART.1: "Lo que te había dicho, el MBA"...
+
+12
+00:00:43,861 --> 00:00:48,141
+PART.2: Ah, sí, cierto, ah, pero ¿lo vas a hacer en
+el mismo tiempo, comenzaría en el mismo tiempo
+que...?
+
+13
+00:00:47,941 --> 00:00:50,141
+PART.1: Sí, por eso estoy postulando ahora.
+
+14
+00:00:51,781 --> 00:00:53,421
+PART.1: Porque voy a extender la tesis.
+
+15
+00:00:53,501 --> 00:00:54,261
+PART.2: OK.
+
+16
+00:00:54,621 --> 00:01:02,341
+PART.1: Voy a extender los cursos y avanzar en la
+tesis, pero finalmente voy a presentarla en el
+segundo semestre.
+
+17
+00:01:02,421 --> 00:01:02,861
+PART.2: OK.
+
+18
+00:01:03,981 --> 00:01:12,861
+PART.1: Las clases a veces son a partir de las seis y
+hay algunos cursos de lo otro que me chocan ese
+horario, entonces hay algunos que ya los tengo
+que descartar.
+
+19
+00:01:13,301 --> 00:01:13,781
+PART.2: OK...
+
+20
+00:01:14,141 --> 00:01:16,741
+PART.1: Otros, depende, pero...
+
+21
+00:01:17,221 --> 00:01:19,461
+PART.2: Te tendrás que ir a Tarragona también, tanto.
+
+22
+00:01:18,981 --> 00:01:32,781
+PART.1: Sí, lo estuve pensando, no, lo estuve
+valorando, porque en el peor de los casos,
+claro, quizá... eh... puedo ir y volver en la
+mañana, antes de las seis de la tarde.
+
+23
+00:01:19,501 --> 00:01:19,821
+PART.2: ¿Sí?
+
+24
+00:01:32,861 --> 00:01:33,261
+PART.2: Sí.
+
+25
+00:01:33,981 --> 00:01:36,901
+PART.1: Sí, hay varios que lo hacen y tienen dos o
+tres cursos ya durante el día.
+
+26
+00:01:38,261 --> 00:01:39,421
+PART.1: Eh... es una opción.
+
+27
+00:01:39,501 --> 00:01:41,181
+PART.1: ¿Y tú, qué piensas hacer?
+
+28
+00:01:41,501 --> 00:01:45,701
+PART.2: Yo, a ver, quiero cogerme un... una clase de
+otro máster.
+
+29
+00:01:46,741 --> 00:01:52,461
+PART.2: Estaba viendo el de "Operational Research",
+porque son muchos créditos de golpe.
+
+30
+00:01:49,941 --> 00:01:55,381
+PART.1: Y... ¿y lo hablaste con el...?
+
+31
+00:01:56,341 --> 00:02:05,221
+PART.2: No, tengo que buscar el... tengo que buscar,
+y qué clase me interesa.
+
+32
+00:02:05,301 --> 00:02:12,261
+PART.1: Sí, pero eso lo que dijo era que podía ser
+siempre y cuando no fuera similar a uno de...
+
+33
+00:02:11,741 --> 00:02:13,621
+PART.2: Sí, no, no va a ser similar.
+
+34
+00:02:13,701 --> 00:02:20,701
+PART.1: Claro, tiene que ser muy distinto, sí, porque
+cualquier similitud te va a decir no... no es
+lo mismo que nosotros tenemos, es mejor.
+
+35
+00:02:17,461 --> 00:02:20,181
+PART.2: No, sí...
+
+36
+00:02:22,221 --> 00:02:24,501
+PART.2: ¿Con qué clase era la que dijeron, era "Deep
+Learning"?
+
+37
+00:02:24,581 --> 00:02:25,101
+PART.1: "Deep Learning".
+
+38
+00:02:25,861 --> 00:02:28,141
+PART.2: Sí, pero no...
+
+39
+00:02:31,341 --> 00:02:36,101
+PART.2: Sería diferente, pero en "Operational
+Research", que es...
+
+40
+00:02:36,901 --> 00:02:49,621
+PART.2: Con la excusa de que si puedes meter algo que
+no sea inteligencia artificial o tal... si
+tienes un... un método objetivo, es mejor.
+
+41
+00:02:50,261 --> 00:02:53,381
+PART.1: ¿Y cuántos cursos tendrías que tomar el...?
+
+42
+00:02:54,101 --> 00:03:01,661
+PART.2: Pues a ver, me faltan... dos... cuatro...
+dieciséis créditos.
+
+43
+00:02:57,981 --> 00:02:58,701
+PART.1: ¿Como cinco?
+
+44
+00:03:02,581 --> 00:03:06,661
+PART.1: Ah, cuatro, pueden ser cuatro de cuatro...
+cuatro o cinco.
+
+45
+00:03:07,101 --> 00:03:09,941
+PART.2: Sí, y el del otro máster seguro me dará
+seis...
+
+46
+00:03:11,781 --> 00:03:13,701
+PART.1: Y hay un seminario acá de dos.
+
+47
+00:03:14,021 --> 00:03:14,581
+PART.2: Ah, pues...
+
+48
+00:03:15,421 --> 00:03:17,181
+PART.1: Que igual, es una semana...
+
+49
+00:03:19,541 --> 00:03:21,021
+PART.1: También lo tengo yo evaluado.
+
+50
+00:03:21,101 --> 00:03:24,141
+PART.1: Pero imagino que es todo un día... o sea,
+todo el día.
+
+51
+00:03:24,941 --> 00:03:28,421
+PART.1: Ah, un... sí, como el seminario que hicieron
+ahorita.
+
+52
+00:03:28,501 --> 00:03:42,821
+PART.1: Sí, sí, entonces, no sé si pueda... bueno,
+hay que ver los horarios, pero si es enero, uno
+acá, seminario en la UBE, de "Recommendation
+Systems", ¿puede ser?
+
+53
+00:03:42,901 --> 00:03:43,821
+PART.2: Bueno, no sé...
+
+54
+00:03:43,901 --> 00:03:49,061
+PART.1: Y después de eso, ya cuando termines la
+tesis, ¿porque tienes que hacer la tesis
+también durante el otro semestre?
+
+55
+00:03:49,141 --> 00:03:49,621
+PART.2: Sí.
+
+56
+00:03:49,701 --> 00:03:50,821
+PART.1: ¿Y, te quedas?
+
+57
+00:03:51,581 --> 00:03:55,101
+PART.2: Eh... no lo sé.
+
+58
+00:03:55,461 --> 00:03:57,221
+PART.2: O sea, no creo que lo vaya a alargar.
+
+59
+00:03:57,301 --> 00:03:59,261
+PART.2: Si puedo no alargarlo, no lo alargo.
+
+60
+00:03:59,741 --> 00:04:01,901
+PART.1: No, no, pero yo digo, ¿después de terminar la
+tesis?
+
+61
+00:04:01,981 --> 00:04:03,461
+PART.2: Ah, ¿si me quedo?, ni idea.
+
+62
+00:04:03,981 --> 00:04:05,221
+PART.2: Voy a buscar en...
+
+63
+00:04:05,301 --> 00:04:06,701
+PART.1: ¿Tus padres están en Valencia?
+
+64
+00:04:06,781 --> 00:04:10,741
+PART.2: Sí, pero voy a buscar a ver si puedo sacarme
+un trabajo en Suiza.
+
+65
+00:04:12,541 --> 00:04:19,021
+PART.1: Si no... si encuentro algo interesante
+aquí... aquí, y si no, pues en Francia.
+
+66
+00:04:19,101 --> 00:04:19,821
+PART.1: Es más difícil.
+
+67
+00:04:20,261 --> 00:04:27,181
+PART.1: Y allá, en el... ¿en el "BCC"?
+
+68
+00:04:27,541 --> 00:04:28,341
+PART.2: ¿En el "BCC"...?
+
+69
+00:04:31,101 --> 00:04:32,141
+PART.1: Ahí, con "Yanis".
+
+70
+00:04:32,581 --> 00:04:33,221
+PART.2: Sí.
+
+71
+00:04:35,381 --> 00:04:37,301
+PART.2: Depende de las condiciones del trabajo.
+
+72
+00:04:37,381 --> 00:04:39,901
+PART.2: Es que lo que me da miedo de aquí son las
+condiciones del trabajo.
+
+73
+00:04:39,981 --> 00:04:40,581
+PART.1: ¿Por qué?
+
+74
+00:04:42,621 --> 00:04:47,981
+PART.2: Que son... o sea... he visto que mucha gente
+trabaja más de 40 horas.
+
+75
+00:04:48,301 --> 00:04:48,741
+PART.1: ¿Sí?
+
+76
+00:04:48,821 --> 00:04:58,021
+PART.2: Y eso... no, o sea, si trabajo más de 40
+horas, quiero que me las paguen, y que me las
+paguen...
+
+77
+00:04:59,501 --> 00:05:02,101
+PART.1: Pero ¿tú dices en general o "research"?
+
+78
+00:05:01,221 --> 00:05:01,901
+PART.2: En general.
+
+79
+00:05:02,501 --> 00:05:07,861
+PART.2: No, en general, la gente que trabaja en
+España, en una oficina.
+
+80
+00:05:11,581 --> 00:05:12,501
+PART.1: No sé yo, bueno...
+
+81
+00:05:13,301 --> 00:05:16,941
+PART.2: Entonces, en Suiza y en Francia está mucho
+más controlado.
+
+82
+00:05:17,021 --> 00:05:19,301
+PART.1: Sí, trabajan mucho menos.
+
+83
+00:05:21,381 --> 00:05:24,661
+PART.1: En México trabajan con... son los peores
+en...
+
+84
+00:05:25,901 --> 00:05:29,861
+PART.2: Se trabajan fácilmente sus 70-80 horas.
+
+85
+00:05:28,101 --> 00:05:38,341
+PART.1: Creo que com... creo que están comparados los
+peores de la "OCD" con Corea del Sur me parece,
+sí, sí.
+
+86
+00:05:37,381 --> 00:05:37,781
+PART.2: Ah, ¿sí?
+
+87
+00:05:38,501 --> 00:05:39,901
+PART.1: Y Chile está como quinto.
+

@@ -1,0 +1,504 @@
+﻿1
+00:00:00,847 --> 00:00:02,056
+PART.1: ¿Quién comienza?
+
+2
+00:00:03,957 --> 00:00:06,457
+PART.1: Eh... Pregunto por el mío.
+
+3
+00:00:08,435 --> 00:00:10,316
+PART.1: ¿Es un animal pequeño?
+
+4
+00:00:11,303 --> 00:00:12,390
+PART.2: No.
+
+5
+00:00:12,292 --> 00:00:13,895
+PART.1: No es pequeño.
+
+6
+00:00:14,992 --> 00:00:17,053
+PART.1: ¿Eeees... un pájaro?
+
+7
+00:00:15,392 --> 00:00:17,053
+PART.2: ¿Vuela?
+
+8
+00:00:17,135 --> 00:00:19,215
+PART.2: No, ahora yo. Es una cada uno.
+
+9
+00:00:18,344 --> 00:00:20,315
+PART.1: Ah, ya, va una.
+
+10
+00:00:20,483 --> 00:00:21,528
+PART.2: ¿Vuela?
+
+11
+00:00:21,574 --> 00:00:22,640
+PART.1: No.
+
+12
+00:00:24,271 --> 00:00:28,551
+PART.1: Eeh, qué quería preguntar... ¿Es un mamífero?
+
+13
+00:00:29,361 --> 00:00:30,480
+PART.2: Sí.
+
+14
+00:00:32,604 --> 00:00:35,048
+PART.2: Eeh... ¿come carne?
+
+15
+00:00:38,328 --> 00:00:42,608
+PART.1: Ya va, ya va ese animalito... no sé... Sí.
+
+16
+00:00:48,654 --> 00:00:54,775
+PART.1: Eeh... pregunté si era pequeño, no es pequeño, sí es mamífero...
+
+17
+00:00:54,976 --> 00:00:56,276
+PART.1: ¿Él... vuela?
+
+18
+00:00:56,771 --> 00:00:57,928
+PART.2: No.
+
+19
+00:00:57,928 --> 00:01:00,376
+PART.1: Ay, pero que, si es mamífero, ¡cómo va a volar!
+
+20
+00:01:01,377 --> 00:01:02,377
+PART.1: Qué idea...
+
+21
+00:01:05,020 --> 00:01:08,327
+PART.2: ¿Es de corral o de casa?
+
+22
+00:01:08,476 --> 00:01:10,363
+PART.1: No. No, no.
+
+23
+00:01:12,128 --> 00:01:17,985
+PART.1: ¿Qué más pregunto? Que si era mamífero, que si era pequeño...
+
+24
+00:01:18,486 --> 00:01:19,786
+PART.1: ¿Es un animal salvaje?
+
+25
+00:01:20,407 --> 00:01:21,363
+PART.2: Sí.
+
+26
+00:01:25,407 --> 00:01:27,044
+PART.2: ¿Normalmente está en la selva?
+
+27
+00:01:28,832 --> 00:01:30,039
+PART.1: Sí.
+
+28
+00:01:33,440 --> 00:01:35,440
+PART.1: Salvaje, mamífero, grande...
+
+29
+00:01:40,379 --> 00:01:41,583
+PART.1: ¿Es un felino?
+
+30
+00:01:42,783 --> 00:01:44,008
+PART.2: No.
+
+31
+00:01:49,515 --> 00:01:51,057
+PART.2: ¿Sube a los árboles?
+
+32
+00:01:51,104 --> 00:01:52,202
+PART.1: No.
+
+33
+00:01:53,959 --> 00:01:56,135
+PART.1: ¿Qué más puedo preguntar?
+
+34
+00:01:58,707 --> 00:01:59,959
+PART.1: ¿Te había preguntado si era salvaje, yo?
+
+35
+00:02:01,510 --> 00:02:04,405
+PART.2: Sí. Sí, sí, lo es.
+
+36
+00:02:04,476 --> 00:02:05,503
+PART.1: Y es salvaje, ¿no?
+
+37
+00:02:05,307 --> 00:02:06,700
+PART.2: Sí.
+
+38
+00:02:08,111 --> 00:02:10,136
+PART.1: Me queda una sola pregunta.
+
+39
+00:02:11,183 --> 00:02:13,230
+PART.2: ¡No! Vamos por la cinco.
+
+40
+00:02:13,247 --> 00:02:14,756
+PART.1: Ah, Ok.
+
+41
+00:02:15,724 --> 00:02:17,603
+PART.2: Quedan cinco todavía.
+
+42
+00:02:17,767 --> 00:02:20,888
+PART.1: ¿Su color es... gris?
+
+43
+00:02:23,528 --> 00:02:24,639
+PART.2: No.
+
+44
+00:02:30,461 --> 00:02:34,359
+PART.2: ¿Pesa menos de 50 kilos?
+
+45
+00:02:35,435 --> 00:02:36,604
+PART.1: Sí.
+
+46
+00:02:39,999 --> 00:02:46,760
+PART.1: Este animal... ¿es muy, muy grande?
+
+47
+00:02:49,451 --> 00:02:50,792
+PART.1: ¿Sí o no?
+
+48
+00:02:55,191 --> 00:02:56,281
+PART.2: No.
+
+49
+00:02:56,440 --> 00:02:58,259
+PART.1: No es muy muy grande.
+
+50
+00:03:00,079 --> 00:03:01,137
+PART.2: Eeh...
+
+51
+00:03:01,143 --> 00:03:02,567
+PART.1: Última pregunta.
+
+52
+00:03:02,592 --> 00:03:03,604
+PART.2: No.
+
+53
+00:03:03,639 --> 00:03:04,887
+PART.1: La tuya, sí, la última, ¿no?
+
+54
+00:03:04,927 --> 00:03:09,479
+PART.1: No. Ahora vamos por la siete, ¿no?
+
+55
+00:03:10,071 --> 00:03:11,079
+PART.1: Pero son seis.
+
+56
+00:03:11,131 --> 00:03:12,180
+PART.2: No, son diez.
+
+57
+00:03:12,279 --> 00:03:13,356
+PART.1: ¿Son diez?
+
+58
+00:03:13,404 --> 00:03:14,420
+PART.2: Sí.
+
+59
+00:03:13,487 --> 00:03:14,420
+PART.1: ¡Ah!
+
+60
+00:03:18,871 --> 00:03:20,515
+PART.2: ¿Es felino?
+
+61
+00:03:20,537 --> 00:03:21,544
+PART.1: No.
+
+62
+00:03:21,611 --> 00:03:22,703
+PART.2: No.
+
+63
+00:03:28,914 --> 00:03:31,726
+PART.1: ¿Es violento, este animal?
+
+64
+00:03:31,771 --> 00:03:32,867
+PART.2: No.
+
+65
+00:03:33,461 --> 00:03:35,645
+PART.1: No es un depredador, ni nada de eso.
+
+66
+00:03:41,327 --> 00:03:44,000
+PART.2: Eeh... 50 kilos, come carne...
+
+67
+00:03:55,701 --> 00:03:57,601
+PART.2: ¿Caza otros animales?
+
+68
+00:03:57,944 --> 00:03:59,232
+PART.1: Sí.
+
+69
+00:04:02,423 --> 00:04:04,535
+PART.1: A ver, a ver...
+
+70
+00:04:04,840 --> 00:04:05,992
+PART.2: Quedan dos.
+
+71
+00:04:06,076 --> 00:04:07,588
+PART.1: Me has dicho que no era salvaje.
+
+72
+00:04:08,915 --> 00:04:10,500
+PART.2: Sí, sí que es salvaje.
+
+73
+00:04:10,531 --> 00:04:12,388
+PART.1: ¡Ah, no! Que no era agresivo.
+
+74
+00:04:12,479 --> 00:04:13,480
+PART.2: Sí.
+
+75
+00:04:13,499 --> 00:04:15,239
+PART.1: Que no era violento.
+
+76
+00:04:15,353 --> 00:04:16,531
+PART.2: No.
+
+77
+00:04:17,420 --> 00:04:18,895
+PART.1: ¡Aaay! ¿Es de color marrón?
+
+78
+00:04:18,948 --> 00:04:20,064
+PART.2: Sí.
+
+79
+00:04:32,855 --> 00:04:35,960
+PART.2: ¿Tiene la cola larga?
+
+80
+00:04:35,976 --> 00:04:37,085
+PART.1: Sí.
+
+81
+00:04:42,542 --> 00:04:43,552
+PART.2: ¡La última!
+
+82
+00:04:43,612 --> 00:04:45,319
+PART.1: Ay, qué pregunto...
+
+83
+00:04:47,820 --> 00:04:52,220
+PART.1: ¿Es un... es un oso hormiguero?
+
+84
+00:04:53,266 --> 00:04:54,343
+PART.2: No.
+
+85
+00:04:54,437 --> 00:04:55,499
+PART.1: Ya.
+
+86
+00:04:55,516 --> 00:04:56,544
+PART.2: No.
+
+87
+00:05:05,923 --> 00:05:07,304
+PART.2: ¿Come conejos?
+
+88
+00:05:08,914 --> 00:05:13,247
+PART.1: Dame otra porque no sé. Es posible, no sé.
+
+89
+00:05:13,486 --> 00:05:16,408
+PART.2: Entonces no será. Tenía en mente el zorro.
+
+90
+00:05:17,787 --> 00:05:19,050
+PART.1: ¿Qué dijiste?
+
+91
+00:05:17,787 --> 00:05:20,351
+PART.2: Pero me has despistado... ¿Un zorro?
+
+92
+00:05:20,480 --> 00:05:21,564
+PART.1: Sí.
+
+93
+00:05:21,639 --> 00:05:23,039
+PART.2: ¿Es un zorro? ¿Sí?
+
+94
+00:05:23,128 --> 00:05:24,420
+PART.2: Bueno... Te queda...
+
+95
+00:05:23,454 --> 00:05:24,547
+PART.1: Un éxito.
+
+96
+00:05:26,679 --> 00:05:27,732
+PART.2: Te queda la de...
+
+97
+00:05:27,831 --> 00:05:29,771
+PART.1: Lo de la cola larga ya... ¿verdad?
+
+98
+00:05:29,780 --> 00:05:30,971
+PART.2: Sí.
+
+99
+00:05:31,168 --> 00:05:34,336
+PART.2: Tiene cuernos, el tuyo.
+
+100
+00:05:34,436 --> 00:05:36,416
+PART.1: ¿Una vaca? No, ahí te queda marrón.
+
+101
+00:05:36,471 --> 00:05:37,856
+PART.2: No, más salvaje.
+
+102
+00:05:39,416 --> 00:05:42,402
+PART.1: Es igual, ya he perdido, no importa. Ahora la tenemos que poner ahí.
+
+103
+00:05:43,948 --> 00:05:45,384
+PART.1: ¡Ah, El venado!
+
+104
+00:05:49,807 --> 00:05:51,206
+PART.2: ¿De estos tenéis?
+
+105
+00:05:53,604 --> 00:05:54,652
+PART.1: Bueno, un éxito.
+
+106
+00:05:54,744 --> 00:05:58,831
+PART.1: A nosotras, a mi hija y a mí nos pusieron animales raros, así que... ninguna de las dos acertó.
+
+107
+00:05:58,055 --> 00:06:00,315
+PART.2: De los que cuestan.
+
+108
+00:06:00,459 --> 00:06:04,715
+PART.1: Sí... que otra vez me salió un oso hormiguero...
+
+109
+00:06:01,936 --> 00:06:05,520
+PART.2: Bueno, dice que normalmente no se aciertan, ¿eh?
+
+110
+00:06:05,616 --> 00:06:07,987
+PART.1: Sí, exacto, normalmente no se acierta.
+
+111
+00:06:08,139 --> 00:06:11,782
+PART.2: Nosotros lo hemos acertado, pero hemos hecho un poco de trampa, con mi mujer.
+
+112
+00:06:15,823 --> 00:06:18,248
+PART.2: No sé si vale, pero bueno...
+
+113
+00:06:21,279 --> 00:06:23,459
+PART.1: Pero, ¿tú me habías preguntado el tamaño?
+
+114
+00:06:24,476 --> 00:06:27,400
+PART.2: Te había preguntado si pesaba menos de 50 kilos.
+
+115
+00:06:27,519 --> 00:06:30,959
+PART.1: Ah, sí, claro, menos de 50 kilos es como un perro.
+
+116
+00:06:29,040 --> 00:06:34,419
+PART.2: Ya veía que era pequeño, un perro no porque no era de casa...
+
+117
+00:06:35,835 --> 00:06:39,280
+PART.1: Pero, claro, un animal salvaje que sea tamaño de un perro, está...
+
+118
+00:06:39,281 --> 00:06:40,555
+PART.2: Sí.
+
+119
+00:06:42,320 --> 00:06:46,156
+PART.2: Era más difícil, eso de los cuernos y tal.
+
+120
+00:06:49,725 --> 00:06:52,879
+PART.2: Pero bueno, prueba superada. Otra, ya tenemos otra.
+
+121
+00:06:52,955 --> 00:06:53,998
+PART.1: Sí.
+
+122
+00:06:54,720 --> 00:06:56,187
+PART.2: ¿Cuál nos falta?
+
+123
+00:06:56,230 --> 00:06:57,907
+PART.2: Ah, no, ahora ya está. Las pruebas ya están.
+
+124
+00:06:57,960 --> 00:06:59,482
+PART.2: Ahora es esto del...
+
+125
+00:06:59,519 --> 00:07:00,551
+PART.1: Las planillas.
+
+126
+00:07:00,603 --> 00:07:04,177
+PART.2: Las vistas y no sé qué, con las caras y...
+

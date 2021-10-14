@@ -1,0 +1,106 @@
+117
+00:05:02,423 --> 00:05:04,023
+PART.1: ¿Me explico?
+
+118
+00:05:04,103 --> 00:05:06,863
+PART.1: Es que en la sabana viven muchos animales.
+
+119
+00:05:06,943 --> 00:05:08,903
+PART.1: Por eso te he dicho antes, que yo sepa no.
+
+120
+00:05:08,983 --> 00:05:09,783
+PART.2: Ya, ya.
+
+121
+00:05:09,863 --> 00:05:11,263
+PART.1: Pero podría ser.
+
+122
+00:05:11,343 --> 00:05:12,863
+PART.1: Podría ser, pero no es lo normal.
+
+123
+00:05:12,943 --> 00:05:13,983
+PART.2: ¿Y la selva?
+
+124
+00:05:14,063 --> 00:05:16,903
+PART.1: En la selva seguro que esto se muere.
+
+125
+00:05:18,183 --> 00:05:19,623
+PART.2: Bua...
+
+126
+00:05:20,823 --> 00:05:22,103
+PART.2: Pregunta número diez.
+
+127
+00:05:22,183 --> 00:05:23,703
+PART.1: No, no, nueve.
+
+128
+00:05:23,783 --> 00:05:24,463
+PART.1: Llevas ocho.
+
+129
+00:05:24,543 --> 00:05:25,303
+PART.2: No.
+
+130
+00:05:25,383 --> 00:05:27,503
+PART.2: Acabo de hacer la pregunta
+y esa es la novena.
+
+131
+00:05:27,583 --> 00:05:28,463
+PART.1: ¿Seguro?
+
+132
+00:05:28,543 --> 00:05:29,343
+PART.2: Sí, sí.
+
+133
+00:05:29,423 --> 00:05:30,183
+PART.1: Vale.
+
+134
+00:05:30,263 --> 00:05:31,783
+PART.2: Me queda una última.
+
+135
+00:05:37,263 --> 00:05:40,743
+PART.2: ¿Esta especie vive en un clima frío?
+
+136
+00:05:42,503 --> 00:05:44,423
+PART.1: No.
+
+137
+00:05:44,503 --> 00:05:46,903
+PART.1: Esta especie vive en un clima normal.
+
+138
+00:05:46,983 --> 00:05:48,863
+PART.1: Como el que hay aquí.
+
+139
+00:05:50,383 --> 00:05:53,143
+PART.2: A ver, a ver qué animal se me ocurre.
+
+140
+00:05:53,383 --> 00:05:54,583
+PART.2: A ver.
+
+141
+00:05:54,663 --> 00:05:57,063
+PART.1: Tienes otra oportunidad
+si fallas ahora.
+
+142
+00:05:57,143 --> 00:06:00,543
+PART.1: No África, no Sudamérica,
+

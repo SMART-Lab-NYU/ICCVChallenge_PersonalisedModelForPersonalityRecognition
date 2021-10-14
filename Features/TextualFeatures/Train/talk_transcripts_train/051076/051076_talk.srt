@@ -1,0 +1,533 @@
+1
+00:00:00,257 --> 00:00:01,817
+PART.1: A: Vale.
+
+2
+00:00:03,577 --> 00:00:05,017
+PART.1: A:
+Pues no sé, nosotros ya nos conocemos.
+
+3
+00:00:07,417 --> 00:00:09,217
+PART.2: B:
+Y tampoco podemos decir nada muy personal.
+
+4
+00:00:09,297 --> 00:00:12,817
+PART.1: A:
+No es que diga,
+pero de hobbies así en general, sí.
+
+5
+00:00:12,897 --> 00:00:15,417
+PART.2: B: Vale. Mis hobbies.
+
+6
+00:00:15,497 --> 00:00:17,217
+PART.1: A: Crossfit.
+
+7
+00:00:17,297 --> 00:00:18,497
+PART.2: B: Crossfit.
+
+8
+00:00:19,017 --> 00:00:19,657
+PART.1: A: No.
+
+9
+00:00:19,737 --> 00:00:21,057
+PART.2: B: Me gusta leer.
+
+10
+00:00:21,137 --> 00:00:22,857
+PART.1: A: Spinning.
+
+11
+00:00:22,937 --> 00:00:26,537
+PART.2: B: Me gusta leer,
+siempre antes de ir a dormir,
+
+12
+00:00:26,617 --> 00:00:28,177
+PART.2: 27
+media horita, para relajarme.
+
+13
+00:00:28,257 --> 00:00:29,697
+PART.1: A: De pilates.
+
+14
+00:00:29,777 --> 00:00:35,777
+PART.2:  B: No. Intento algo
+totalmente distinto en plan
+novelas o lo que sea.
+
+15
+00:00:35,857 --> 00:00:40,617
+PART.2: B: No sé, y...
+No sé, jugar fútbol de toda la
+vida.
+
+16
+00:00:40,697 --> 00:00:45,577
+PART.2: B: Como casi todos
+los niños, supongo. Y me
+gustaría....
+
+17
+00:00:45,657 --> 00:00:50,617
+PART.2: B: Bueno, cuando estuve
+viajando me saqué el título de
+buceo,
+
+18
+00:00:51,017 --> 00:00:52,217
+PART.2: 20
+porque es como muy barato.
+
+19
+00:00:52,297 --> 00:00:52,977
+PART.1: A: ¿Dónde? ¿Dónde?
+
+20
+00:00:53,057 --> 00:00:54,057
+PART.2: B: En Tailandia.
+
+21
+00:00:54,137 --> 00:00:54,777
+PART.1: A: Qué bueno.
+
+22
+00:00:54,857 --> 00:01:01,417
+PART.2:  B: Creo que son como 200
+euros y haces como 4 días.
+
+23
+00:01:01,497 --> 00:01:05,177
+PART.2: B: Puedes bajar hasta 18
+o algo así.
+
+24
+00:01:05,257 --> 00:01:07,257
+PART.2: B: Así que espero este año,
+este verano...
+
+25
+00:01:07,337 --> 00:01:09,297
+PART.1: A: ¿Pero aprovechaste o...?
+
+26
+00:01:09,377 --> 00:01:14,057
+PART.2: B:
+No, no estaba... Estaba viajando.
+Estuve 7 meses viajando así, porque
+sí.
+
+27
+00:01:14,697 --> 00:01:15,617
+PART.1: A: Ah.
+
+28
+00:01:15,697 --> 00:01:21,337
+PART.2: B: Sí. Terminé la carrera,
+empecé las prácticas en una
+empresa.
+
+29
+00:01:21,417 --> 00:01:23,857
+PART.2: B: Pensaba estar un año,
+pero no me gustaba, así que lo
+dejé.
+
+30
+00:01:23,937 --> 00:01:24,897
+PART.2: B: Y me fui.
+
+31
+00:01:24,977 --> 00:01:27,737
+PART.1: A: 7 meses. ¿A qué sitios?
+
+32
+00:01:27,817 --> 00:01:35,737
+PART.2:  B: Tailandia,
+Camboya, Vietnam, Tailandia,
+Singapur, Indonesia, Filipinas,
+Filipinas, Indonesia.
+
+33
+00:01:35,817 --> 00:01:37,377
+PART.1: A: Qué bueno.
+
+34
+00:01:37,457 --> 00:01:41,817
+PART.2: B: Todo bien. En principio
+quería ir, ir allí a trabajar como
+voluntariado.
+
+35
+00:01:41,897 --> 00:01:46,697
+PART.2: B: O algo así. Bueno, que
+era trabajar a cambio de comer y
+dormir,
+que lo hice un par de meses.
+
+36
+00:01:46,777 --> 00:01:50,937
+PART.2: B: Pero
+vi que era muy barato vivir allí.
+
+37
+00:01:51,017 --> 00:01:56,217
+PART.2: B: Así que estuve viajando
+y aproveche para sacarme de buceo.
+
+38
+00:01:56,297 --> 00:01:57,297
+PART.1: A: Qué buena experiencia.
+
+39
+00:01:57,377 --> 00:01:59,097
+PART.2: B: Sí, sí, sí.
+
+40
+00:01:59,177 --> 00:02:01,017
+PART.1: A: Pero
+¿fuiste en plan solo?
+
+41
+00:02:01,097 --> 00:02:04,417
+PART.2: B: Sí, sí, sí, sí, sí.
+Solo.
+
+42
+00:02:04,497 --> 00:02:07,977
+PART.1: A: ¿Y cómo decidiste hacer
+un máster después de esa
+experiencia?
+
+43
+00:02:08,057 --> 00:02:10,497
+PART.2: B: Mira, no sé, tocaba.
+
+44
+00:02:10,577 --> 00:02:13,057
+PART.2: B:
+Era como un pacto con mis padres.
+Pues aplico dos másters.
+
+45
+00:02:13,137 --> 00:02:16,897
+PART.2: B:
+Si me aceptan, vuelvo,
+si no, me quedo. Y me aceptaron.
+
+46
+00:02:16,977 --> 00:02:20,777
+PART.1: A: También
+tenía ganas de estudiar, volver.
+
+47
+00:02:22,817 --> 00:02:24,217
+PART.2: B: Sería más bien.
+
+48
+00:02:24,297 --> 00:02:26,897
+PART.2: B: ¿Y tú qué de hobbies?
+
+49
+00:02:27,977 --> 00:02:31,257
+PART.1: A:
+Pues tampoco tengo mucho tiempo,
+pero el deporte un poco.
+
+50
+00:02:31,337 --> 00:02:34,897
+PART.1: A:
+Lo que pasa es que no lo hago mucho.
+Bici de montaña, me gusta mucho.
+
+51
+00:02:35,377 --> 00:02:37,617
+PART.1: A:
+Ahora estoy haciendo un poco otra
+vez de montaña.
+
+52
+00:02:37,697 --> 00:02:41,617
+PART.2: B: Pero ¿qué haces?
+¿Vas hacia la montaña
+con la bici, con un coche y eso?
+
+53
+00:02:41,697 --> 00:02:45,297
+PART.1: A: No. Donde vivo yo,
+tenemos una ruta de río al lado.
+
+54
+00:02:45,377 --> 00:02:47,297
+PART.2: B:
+No es aquí, en Barcelona.
+
+55
+00:02:47,817 --> 00:02:49,817
+PART.1: A:
+A las afueras, a las afueras.
+
+56
+00:02:49,897 --> 00:02:53,617
+PART.1: A: Entonces nada. Me
+voy tranquilamente, 30 kilómetros.
+
+57
+00:02:53,697 --> 00:02:57,297
+PART.1: A: Es fácil.
+Y desconectar unas cuantas horas.
+
+58
+00:02:57,377 --> 00:02:59,537
+PART.1: A: Eso me gusta mucho.
+Siempre que tengo tiempo.
+
+59
+00:02:59,617 --> 00:03:02,217
+PART.1: A: Estuve muchos años
+jugando al frontón.
+
+60
+00:03:02,297 --> 00:03:05,337
+PART.2: B: ¿Pádel no?
+
+61
+00:03:05,417 --> 00:03:06,857
+PART.1: A: No, no me he puesto.
+
+62
+00:03:06,937 --> 00:03:10,017
+PART.2: B: Supongo que todo el
+mundo de tenis se fueron
+hacia pádel.
+
+63
+00:03:10,097 --> 00:03:12,217
+PART.1: A: Tenis estuve un tiempo.
+
+64
+00:03:12,297 --> 00:03:16,137
+PART.1: A: Lo que pasa que casi
+siempre por tema de familia,
+que hacía frontón.
+
+65
+00:03:16,217 --> 00:03:22,057
+PART.1: A: Yo he sido de frontón.
+Mi hermano, frontón.
+
+66
+00:03:22,897 --> 00:03:25,937
+PART.1: A: Y aparte de eso,
+cuesta un poco viajar.
+
+67
+00:03:26,017 --> 00:03:29,857
+PART.1: A: Lo que
+pasa que después de tener el
+niño, la cosa ha bajado un poco.
+
+68
+00:03:29,937 --> 00:03:31,897
+PART.2: B: Hay que dedicar más
+tiempo.
+
+69
+00:03:38,737 --> 00:03:43,137
+PART.2: B: Ya, tengo mucho tiempo
+libre. Y al final...
+
+70
+00:03:43,217 --> 00:03:46,177
+PART.2: B: Si empiezo a
+trabajar, pues ya, ya voy a ver...
+
+71
+00:03:46,257 --> 00:03:51,777
+PART.1: A: Ya será complicado.
+Aprovecha mientras no tengas
+familia, que luego el tiempo libre
+se reduce.
+
+72
+00:03:51,857 --> 00:03:53,977
+PART.1: A:
+Bueno, son otras cosas, está
+muy bien.
+
+73
+00:03:54,057 --> 00:03:56,457
+PART.2: B:
+Dedicas tu tiempo libre
+a la familia.
+
+74
+00:03:56,537 --> 00:03:57,457
+PART.1: A: Exacto.
+
+75
+00:03:57,537 --> 00:03:59,657
+PART.2: B: Yo creo que aún me
+queda.
+
+76
+00:04:00,617 --> 00:04:02,817
+PART.2: B:
+Un tiempo, yo creo que sí.
+
+77
+00:04:02,897 --> 00:04:05,137
+PART.1: A:
+¿Cuántos años?
+Eso sí que se puede decir.
+
+78
+00:04:05,217 --> 00:04:06,337
+PART.2: B: Sí, 23.
+
+79
+00:04:06,417 --> 00:04:09,377
+PART.1: A: 23.
+Hostia, eres viejete.
+
+80
+00:04:10,417 --> 00:04:13,537
+PART.2: B:
+Hombre, terminé la carrera en 4
+años.
+
+81
+00:04:13,617 --> 00:04:17,057
+PART.2: B:
+Uno más, uno como de relax.
+
+82
+00:04:19,057 --> 00:04:21,377
+PART.1: A:
+Bueno, yo tengo alguno más que
+tú, pero...
+
+83
+00:04:21,457 --> 00:04:22,417
+PART.2: B: Sí, ¿no?
+
+84
+00:04:22,497 --> 00:04:23,697
+PART.1: A: Más o menos.
+
+85
+00:04:23,777 --> 00:04:26,057
+PART.2: B:
+Con el hijo, trabajando, estudiando
+y de todo.
+
+86
+00:04:26,137 --> 00:04:28,217
+PART.1: A: Soy joven. Soy joven.
+
+87
+00:04:30,017 --> 00:04:32,817
+PART.1: A:
+¿Y qué? ¿Saldrá algo de esto?
+
+88
+00:04:32,897 --> 00:04:34,897
+PART.1: A:
+¿Nos dará tiempo
+a anotar y sacar cosas?
+
+89
+00:04:35,377 --> 00:04:37,497
+PART.2: B:
+Esperemos que sí, ¿no? Dos meses.
+
+90
+00:04:37,577 --> 00:04:39,377
+PART.2: B:
+Si no, no hubiera dado tiempo
+de nada.
+
+91
+00:04:39,457 --> 00:04:41,257
+PART.1: A:
+¿No te vas a Camboya y a Vietnam en
+agosto?
+
+92
+00:04:41,337 --> 00:04:42,817
+PART.2: B: No. En principio no.
+
+93
+00:04:42,897 --> 00:04:46,017
+PART.2: B: En agosto,
+no sé si voy a estar 100%.
+
+94
+00:04:46,097 --> 00:04:49,377
+PART.2: B:
+Supongo que haré un viaje o algo.
+
+95
+00:04:49,457 --> 00:04:51,217
+PART.1: A: Hay que sacar tiempo.
+
+96
+00:04:51,297 --> 00:04:56,817
+PART.2: B: Pero, a ver, mi idea
+sería en julio dejar bastante así
+hecho.
+
+97
+00:04:58,257 --> 00:05:03,297
+PART.2: B:
+Al menos la parte de experimentar
+lo que tenía que hacer
+con eso de la repetición.
+
+98
+00:05:03,377 --> 00:05:04,457
+PART.2: B: Tengo que mirar otras
+cosas.
+
+99
+00:05:04,537 --> 00:05:08,377
+PART.2: B: Eso en
+julio dejarlo hecho y después, en
+agosto, sí es más cosas de anotar,
+
+100
+00:05:08,457 --> 00:05:11,857
+PART.2: B:
+que es más metódico, que es un par
+de horas después. Eso sí que no.
+
+101
+00:05:12,217 --> 00:05:15,777
+PART.1: A: Queda un mes y
+medio para julio, que está bien.
+
+102
+00:05:15,857 --> 00:05:17,217
+PART.2: B: Yo creo que sí.
+
+103
+00:05:18,097 --> 00:05:19,417
+PART.2: B: Esperemos.
+
+104
+00:05:20,057 --> 00:05:22,177
+PART.1: A: Pero julio
+también hay que anotar.
+
+105
+00:05:22,257 --> 00:05:26,977
+PART.2: B: Sí, sí, sí. En
+principio, julio tengo todo
+el tiempo libre.
+

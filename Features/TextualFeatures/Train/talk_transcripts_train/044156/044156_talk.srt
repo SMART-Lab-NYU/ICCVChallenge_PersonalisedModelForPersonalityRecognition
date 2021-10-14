@@ -1,0 +1,559 @@
+1
+00:00:00,000 --> 00:00:01,529
+PART.1: ¿Cinco minutos?
+Es para saber...
+
+2
+00:00:01,609 --> 00:00:04,009
+PART.2: Con vino o algo, mejor.
+
+3
+00:00:04,089 --> 00:00:06,369
+PART.1: Para romper el hielo.
+
+4
+00:00:06,449 --> 00:00:08,489
+PART.2: Empezamos por el nombre.
+
+5
+00:00:08,569 --> 00:00:09,809
+PART.1: Sí. Albert.
+
+6
+00:00:09,889 --> 00:00:11,529
+PART.2: Vale. Marina.
+
+7
+00:00:11,609 --> 00:00:13,849
+PART.1: Vale. ¿De dónde eres?
+
+8
+00:00:13,929 --> 00:00:15,249
+PART.2: De Brasil.
+
+9
+00:00:15,329 --> 00:00:17,449
+PART.1: Es que noté un acento.
+
+10
+00:00:17,529 --> 00:00:20,209
+PART.2: Esta tía
+que habla tan raro...
+
+11
+00:00:20,289 --> 00:00:24,769
+PART.1: No, he notado un acento,
+pero podría ser porque hay veces
+
+12
+00:00:24,849 --> 00:00:28,569
+PART.1: que gente de Europa del Este
+tiene un acento y no sé
+
+13
+00:00:28,649 --> 00:00:31,329
+PART.1: si son de Rumanía...
+No hubiera dicho Brasil,
+
+14
+00:00:31,409 --> 00:00:33,449
+PART.1: hubiera dicho Bulgaria o así.
+
+15
+00:00:33,529 --> 00:00:35,329
+PART.2: Viví en Bosnia.
+
+16
+00:00:35,409 --> 00:00:37,769
+PART.1: Por eso. ¿Mucho tiempo?
+
+17
+00:00:37,849 --> 00:00:39,369
+PART.2: Hace mucho.
+
+18
+00:00:39,449 --> 00:00:42,329
+PART.1: ¿El español
+no lo aprendiste en Bosnia?
+
+19
+00:00:42,409 --> 00:00:43,769
+PART.2: No, aquí.
+
+20
+00:00:43,849 --> 00:00:45,889
+PART.1: ¿Llevas mucho aquí?
+
+21
+00:00:45,969 --> 00:00:49,729
+PART.2: Casi tres años.
+En septiembre u octubre
+
+22
+00:00:49,809 --> 00:00:52,369
+PART.2: van a hacer tres años.
+
+23
+00:00:52,449 --> 00:00:55,889
+PART.2: Pero tres años
+que creo que estoy más tiempo
+
+24
+00:00:55,969 --> 00:00:57,929
+PART.2: e Brasil o viajando que aquí.
+
+25
+00:00:58,009 --> 00:00:59,329
+PART.1: Ah, vale.
+
+26
+00:00:59,409 --> 00:01:01,449
+PART.1: ¿Viniste a trabajar o a vivir?
+
+27
+00:01:01,529 --> 00:01:03,249
+PART.2: Mi marido vino
+
+28
+00:01:03,329 --> 00:01:06,769
+PART.2: para hacer el máster
+y ahí se quedó, trabajando.
+
+29
+00:01:06,929 --> 00:01:10,809
+PART.2: Y yo tengo una empresa
+y puedo trabajar desde aquí
+
+30
+00:01:10,889 --> 00:01:11,689
+PART.2: y en Brasil...
+
+31
+00:01:11,769 --> 00:01:13,369
+PART.1: Haces trabajo...
+
+32
+00:01:13,449 --> 00:01:16,929
+PART.1: O sea, tú estás trabajando
+en una empresa de Brasil
+
+33
+00:01:17,009 --> 00:01:18,129
+PART.1: y viviendo aquí.
+
+34
+00:01:18,209 --> 00:01:19,209
+PART.2: Sí.
+
+35
+00:01:19,289 --> 00:01:22,329
+PART.2: Entonces,
+para mí da igual donde esté.
+
+36
+00:01:22,409 --> 00:01:23,289
+PART.1: Ya.
+
+37
+00:01:23,369 --> 00:01:25,049
+PART.2: ¿Y tú qué haces?
+
+38
+00:01:25,129 --> 00:01:28,129
+PART.1: Habrás visto
+que conozco a Javi,
+
+39
+00:01:28,209 --> 00:01:31,049
+PART.1: soy del mismo grupo
+de investigación que él,
+
+40
+00:01:31,129 --> 00:01:33,969
+PART.1: pero no tengo
+nada que ver con esto.
+
+41
+00:01:34,049 --> 00:01:38,969
+PART.1: Le había visto grabar alguna vez,
+pero no me dejaron estar aquí
+
+42
+00:01:39,049 --> 00:01:42,409
+PART.1: para el momento en que m grabaran
+no estar condicionado.
+
+43
+00:01:42,489 --> 00:01:43,209
+PART.1: Yo estudié...
+
+44
+00:01:43,289 --> 00:01:45,169
+PART.2: Trabajas en el grupo...
+
+45
+00:01:45,249 --> 00:01:47,729
+PART.1: Sí.
+Estudié en esta facultad,
+
+46
+00:01:47,809 --> 00:01:51,449
+PART.1: el máster lo hice en otra,
+luego un doctorado aquí,
+
+47
+00:01:51,529 --> 00:01:55,289
+PART.1: y llevo muchos años aquí.
+Y ahora estoy trabajando
+
+48
+00:01:55,369 --> 00:01:58,569
+PART.1: en un proyecto
+para el grupo de investigación
+
+49
+00:01:58,649 --> 00:02:02,889
+PART.1: en otro centro, pero sigo
+viniendo aquí de vez en cuando
+
+50
+00:02:02,969 --> 00:02:04,969
+PART.1: y me convocaron
+para el experimento.
+
+51
+00:02:05,049 --> 00:02:08,009
+PART.2: Para "País y par".
+Que venga.
+
+52
+00:02:08,089 --> 00:02:12,129
+PART.1: Sí. Pero no me dejaron
+ver nada para no condicionarme
+
+53
+00:02:12,209 --> 00:02:13,049
+PART.1: y ya está.
+
+54
+00:02:13,129 --> 00:02:15,649
+PART.2: Pero ¿eres de aquí?
+
+55
+00:02:15,729 --> 00:02:17,169
+PART.1: Soy de Menorca.
+
+56
+00:02:17,249 --> 00:02:18,609
+PART.2: Ah, Menorca...
+
+57
+00:02:18,689 --> 00:02:20,409
+PART.1: No sé si estuviste.
+
+58
+00:02:20,489 --> 00:02:22,129
+PART.2: Sí, fui a Menorca.
+
+59
+00:02:22,209 --> 00:02:23,489
+PART.1: ¿Estuviste?
+
+60
+00:02:23,569 --> 00:02:25,369
+PART.2: Sí, me gustó mucho.
+
+61
+00:02:25,449 --> 00:02:29,569
+PART.1: A muchos les digo,
+porque no saben dónde está...
+
+62
+00:02:29,649 --> 00:02:32,249
+PART.1: Los alemanes saben
+dónde está Mallorca.
+
+63
+00:02:32,329 --> 00:02:34,289
+PART.2: Menorca casi nadie.
+
+64
+00:02:34,369 --> 00:02:35,289
+PART.1: No.
+
+65
+00:02:35,369 --> 00:02:39,209
+PART.1: A la mayoría les digo...
+Les doy la referencia por Ibiza,
+
+66
+00:02:39,289 --> 00:02:43,689
+PART.1: porque todos saben dónde está.
+Les digo: "Ibiza es una isla,
+
+67
+00:02:43,769 --> 00:02:47,209
+PART.1: encima, en el norte, está Mallorca
+y luego Menorca".
+
+68
+00:02:47,289 --> 00:02:50,369
+PART.1: Todos dicen: "Vale".
+Digo: "¿Ves qué fácil?".
+
+69
+00:02:50,449 --> 00:02:53,929
+PART.2: Es muy bonito.
+Es más familiar que las otras,
+
+70
+00:02:54,009 --> 00:02:56,489
+PART.2: pero muy bonita la isla,
+me encantó.
+
+71
+00:02:56,569 --> 00:02:59,849
+PART.1: Hace muchos años
+que estoy aquí,
+
+72
+00:02:59,929 --> 00:03:02,729
+PART.2: pero muchos me dicen:
+¿Es como Ibiza?".
+
+73
+00:03:02,809 --> 00:03:05,689
+PART.2: Y les digo: "No.
+Tú te tienes que imaginar..."
+
+74
+00:03:05,769 --> 00:03:07,889
+PART.2: Menorca es turismo familiar
+británico,
+
+75
+00:03:07,969 --> 00:03:11,209
+PART.2: estaba pensado para esto,
+y traían a charters,
+
+76
+00:03:11,289 --> 00:03:15,329
+PART.2: que son vuelos contratados
+por grupos de ingleses, familias,
+
+77
+00:03:15,409 --> 00:03:18,249
+PART.2: y los traen a los hoteles
+y a la playa.
+
+78
+00:03:18,329 --> 00:03:20,729
+PART.2: Con los niños
+y con todo.
+
+79
+00:03:20,809 --> 00:03:23,009
+PART.1: Menorca es
+de los británicos,
+
+80
+00:03:23,089 --> 00:03:25,169
+PART.1: Mallorca de los alemanes
+e Ibiza...
+
+81
+00:03:25,249 --> 00:03:26,609
+PART.2: De la gente.
+
+82
+00:03:26,689 --> 00:03:28,369
+PART.1: De los italianos.
+
+83
+00:03:28,449 --> 00:03:31,289
+PART.1: Sí, hay muchos italianos.
+Muchos restaurantes italianos
+
+84
+00:03:31,369 --> 00:03:32,569
+PART.1: y muchos italianos.
+
+85
+00:03:32,649 --> 00:03:34,089
+PART.2: No lo sabía.
+
+86
+00:03:34,169 --> 00:03:35,489
+PART.2: No ido a Ibiza aún.
+
+87
+00:03:35,569 --> 00:03:37,889
+PART.1: Yo no he estado nunca.
+
+88
+00:03:37,969 --> 00:03:40,729
+PART.1: Me dicen: "¿Estuviste en Ibiza?".
+Digo: "No".
+
+89
+00:03:40,809 --> 00:03:44,809
+PART.1: Porque la playa la tengo en Menorca
+y por la fiesta, no...
+
+90
+00:03:44,889 --> 00:03:47,969
+PART.2: No me atrae tampoco
+la fiesta.
+
+91
+00:03:48,049 --> 00:03:51,049
+PART.2: Creo que hay
+una fiesta algo loca ahí.
+
+92
+00:03:51,129 --> 00:03:54,009
+PART.1: Sí. No he estado,
+pero es cierto.
+
+93
+00:03:54,089 --> 00:03:57,369
+PART.2: No tengo
+tanta energía para eso.
+
+94
+00:03:57,449 --> 00:04:00,809
+PART.1: No. Además,
+creo que es fiesta de juventud
+
+95
+00:04:00,889 --> 00:04:01,929
+PART.1: y bastante droga.
+
+96
+00:04:02,009 --> 00:04:02,889
+PART.2: Sí.
+
+97
+00:04:02,969 --> 00:04:05,849
+PART.1: Tienes que estar
+en el rollo.
+
+98
+00:04:05,929 --> 00:04:08,329
+PART.2: No es algo
+que me atraiga.
+
+99
+00:04:08,409 --> 00:04:11,289
+PART.2: Nunca he ido allí
+y no me hace falta,
+
+100
+00:04:11,369 --> 00:04:15,529
+PART.2: pero Menorca me encantó
+está muy bonita.
+
+101
+00:04:15,609 --> 00:04:16,929
+PART.1: Es playa.
+
+102
+00:04:17,009 --> 00:04:19,129
+PART.2: Lo que me gustó mucho
+
+103
+00:04:19,209 --> 00:04:23,489
+PART.2: es que el agua
+es un tanto más caliente que aquí.
+
+104
+00:04:23,569 --> 00:04:25,169
+PART.1: Que aquí, sí.
+
+105
+00:04:25,249 --> 00:04:28,129
+PART.1: No sabía con qué comparabas,
+si con Brasil o...
+
+106
+00:04:28,209 --> 00:04:29,769
+PART.2: No, que aquí,
+
+107
+00:04:29,849 --> 00:04:33,009
+PART.2: en Brasil estamos acostumbrados
+al agua más caliente.
+
+108
+00:04:33,089 --> 00:04:37,129
+PART.2: Un poco más al norte de Brasil
+que al sur,
+
+109
+00:04:37,209 --> 00:04:40,169
+PART.2: porque al sur está más fría,
+como aquí.
+
+110
+00:04:40,249 --> 00:04:41,809
+PART.1: Es al revés...
+
+111
+00:04:41,889 --> 00:04:44,569
+PART.2: Me gustan las playas
+más calientes.
+
+112
+00:04:44,649 --> 00:04:47,729
+PART.1: Norte y sur
+es al revés que aquí.
+
+113
+00:04:47,809 --> 00:04:50,569
+PART.1: Aquí, si dices "norte",
+imaginas más frío;
+
+114
+00:04:50,689 --> 00:04:52,609
+PART.1: y si dices "sur", más calor.
+
+115
+00:04:52,689 --> 00:04:54,929
+PART.2: En Brasil es al revés.
+
+116
+00:04:55,009 --> 00:04:56,729
+PART.2: Brasil es total.
+
+117
+00:04:56,809 --> 00:05:00,809
+PART.1: Es agua más caliente
+que aquí y más limpia, seguro.
+
+118
+00:05:00,889 --> 00:05:02,049
+PART.2: Sí.
+
+119
+00:05:02,129 --> 00:05:04,649
+PART.1: Es más rollo
+isla griega.
+
+120
+00:05:04,729 --> 00:05:07,929
+PART.1: No he estado, pero imagino
+cómo es el Mediterráneo.
+
+121
+00:05:08,009 --> 00:05:12,809
+PART.2: Pero allí el agua no
+está tan caliente como en Menorca.
+
+122
+00:05:12,889 --> 00:05:15,169
+PART.2: Menorca me gustó mucho por eso.
+
+123
+00:05:15,249 --> 00:05:16,809
+PART.1: Puede ser.
+

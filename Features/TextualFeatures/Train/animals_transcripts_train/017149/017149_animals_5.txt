@@ -1,0 +1,52 @@
+95
+00:05:12,804 --> 00:05:14,444
+PART.1: Más grande que un perro.
+
+96
+00:05:16,004 --> 00:05:17,204
+PART.1: A cuatro patas.
+
+97
+00:05:28,204 --> 00:05:29,804
+PART.1: Estás seguro de que está
+domado, ¿no?
+
+98
+00:05:29,884 --> 00:05:30,924
+PART.2: Sí.
+
+99
+00:05:31,524 --> 00:05:35,284
+PART.1: O sea, no es una...
+Es más... No voy a decir más.
+
+100
+00:05:39,564 --> 00:05:40,804
+PART.1: ¿No se lo come nadie?
+
+101
+00:05:41,964 --> 00:05:42,804
+PART.2: Que yo sepa no.
+
+102
+00:05:44,084 --> 00:05:45,644
+PART.2: A mí me parecería
+un poco raro.
+
+103
+00:05:46,924 --> 00:05:48,564
+PART.2: A lo mejor sí en algún
+país.
+
+104
+00:05:51,724 --> 00:05:52,844
+PART.1: ¿Tiene pelo?
+
+105
+00:05:52,924 --> 00:05:53,924
+PART.2: Sí.
+
+106
+00:05:54,204 --> 00:05:55,044
+PART.1: Joder.
+

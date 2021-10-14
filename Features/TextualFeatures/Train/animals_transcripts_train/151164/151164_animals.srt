@@ -1,0 +1,478 @@
+﻿1
+00:00:00,000 --> 00:00:01,820
+PART.2: ¿Se supone que van diez tú
+y luego diez yo o alternamos?
+
+2
+00:00:01,820 --> 00:00:02,940
+PART.1: Lo podemos hacer
+como quieras.
+
+3
+00:00:04,100 --> 00:00:06,300
+PART.1: Yo las veces que jugué,
+las hice alternando.
+
+4
+00:00:06,300 --> 00:00:07,300
+PART.2: Yo también.
+
+5
+00:00:07,620 --> 00:00:09,140
+PART.1: Vale, a ver.
+
+6
+00:00:10,900 --> 00:00:13,300
+PART.1: Es que tengo demasiadas
+pistas.
+
+7
+00:00:14,060 --> 00:00:15,660
+PART.1: ¿Soy un ave?
+
+8
+00:00:15,660 --> 00:00:17,580
+PART.2: Sí, ya sabes lo que eres.
+
+9
+00:00:17,580 --> 00:00:23,740
+PART.1: No, no, pero sé que
+de dificultad tres, que es
+lo que nos ha tocado, casi todo son aves.
+
+10
+00:00:25,540 --> 00:00:26,220
+PART.2: ¿Soy un ave?
+
+11
+00:00:26,220 --> 00:00:26,860
+PART.1: Sí.
+
+12
+00:00:29,660 --> 00:00:30,300
+PART.1: Vale.
+
+13
+00:00:30,300 --> 00:00:31,780
+PART.1: Eh...
+
+14
+00:00:34,660 --> 00:00:35,700
+PART.1: Soy un ave.
+
+15
+00:00:35,700 --> 00:00:37,420
+PART.1: ¿Soy grande para un ave?
+
+16
+00:00:37,420 --> 00:00:39,300
+PART.1: O sea, ¿soy más grande
+que un humano?
+
+17
+00:00:39,780 --> 00:00:40,740
+PART.2: No.
+
+18
+00:00:40,740 --> 00:00:41,460
+PART.1: Vale.
+
+19
+00:00:45,780 --> 00:00:47,260
+PART.2: ¿Tengo muchos colores?
+
+20
+00:00:47,260 --> 00:00:47,820
+PART.1: No.
+
+21
+00:00:49,540 --> 00:00:50,780
+PART.1: ¿Tengo muchos colores?
+
+22
+00:00:50,780 --> 00:00:51,740
+PART.2: Sí.
+
+23
+00:00:52,420 --> 00:00:52,900
+PART.1: Vale.
+
+24
+00:00:57,420 --> 00:00:58,820
+PART.2: ¿Un pico grande?
+
+25
+00:01:01,700 --> 00:01:03,260
+PART.1: Eh... no.
+
+26
+00:01:04,900 --> 00:01:05,820
+PART.1: Eh...
+
+27
+00:01:09,380 --> 00:01:10,020
+PART.1: Vale.
+
+28
+00:01:11,780 --> 00:01:12,860
+PART.1: ¿Puedo volar?
+
+29
+00:01:13,420 --> 00:01:14,220
+PART.2: Sí.
+
+30
+00:01:15,460 --> 00:01:17,220
+PART.1: O sea, puede ser un pingüino.
+
+31
+00:01:25,140 --> 00:01:25,860
+PART.2: ¡Puf!
+
+32
+00:01:28,420 --> 00:01:30,500
+PART.2: Uh...
+
+33
+00:01:34,100 --> 00:01:35,500
+PART.2: ¿Y yo soy muy grande?
+
+34
+00:01:36,180 --> 00:01:36,900
+PART.1: No.
+
+35
+00:01:45,060 --> 00:01:47,660
+PART.1: Eh... Voy a dejar de hacer el
+paripé.
+
+36
+00:01:47,660 --> 00:01:48,420
+PART.1: ¿Soy un tucán?
+
+37
+00:01:48,900 --> 00:01:49,380
+PART.2: Sí.
+
+38
+00:01:51,500 --> 00:01:52,900
+PART.2: O sea, sí lo sabías.
+
+39
+00:01:53,380 --> 00:01:56,900
+PART.1: No los he elegido yo, pero con
+lo de los colores, ya...
+
+40
+00:01:59,180 --> 00:02:00,180
+PART.2: Joder.
+
+41
+00:02:00,300 --> 00:02:01,220
+PART.2: ¿Cuántas preguntas llevo?
+
+42
+00:02:01,780 --> 00:02:04,380
+PART.1: Si yo llevaba cuatro,
+tú vas a por la cuarta ahora.
+
+43
+00:02:06,460 --> 00:02:07,100
+PART.2: ¡Uf!
+
+44
+00:02:19,220 --> 00:02:20,740
+PART.2: ¿Vivo en un clima frío?
+
+45
+00:02:23,260 --> 00:02:28,100
+PART.1: No excesivamente frío, más
+fresco que aquí se suelen ver más.
+
+46
+00:02:28,300 --> 00:02:36,660
+PART.1: Pero yo qué sé, al norte
+de Europa, y aquí en España incluso alguno
+puedes llegar a ver, pero...
+
+47
+00:02:38,380 --> 00:02:41,140
+PART.1: Pero no especialmente frío,
+creo que le da igual.
+
+48
+00:02:41,140 --> 00:02:41,860
+PART.2: ¿Soy peligroso?
+
+49
+00:02:42,860 --> 00:02:43,620
+PART.1: Creo que sí.
+
+50
+00:02:46,700 --> 00:02:47,700
+PART.2: ¿Carroñero?
+
+51
+00:02:48,100 --> 00:02:48,620
+PART.1: Sí.
+
+52
+00:02:49,620 --> 00:02:50,860
+PART.1: Me he descontado.
+
+53
+00:02:51,340 --> 00:02:51,900
+PART.2: Creo que seis.
+
+54
+00:02:53,660 --> 00:02:54,660
+PART.1: Siete.
+
+55
+00:02:54,660 --> 00:02:56,180
+PART.2: Siete, va.
+
+56
+00:03:09,820 --> 00:03:13,660
+PART.2: ¿Salgo como relativamente
+importante en alguna película?
+
+57
+00:03:15,940 --> 00:03:18,900
+PART.1: Sí, seguramente.
+
+58
+00:03:21,020 --> 00:03:21,980
+PART.2: Qué cojones.
+
+59
+00:03:25,980 --> 00:03:26,780
+PART.2: ¡Uf!
+
+60
+00:03:31,180 --> 00:03:32,660
+PART.2: ¿Cuántas llevo entonces,
+ocho?
+
+61
+00:03:38,700 --> 00:03:40,220
+PART.2: No era muy grande, ¿no?
+
+62
+00:03:40,220 --> 00:03:40,940
+PART.1: No.
+
+63
+00:03:45,220 --> 00:03:45,860
+PART.2: Vale.
+
+64
+00:03:46,580 --> 00:03:47,500
+PART.2: ¿Un águila?
+
+65
+00:03:49,260 --> 00:03:50,380
+PART.2: Mierda.
+
+66
+00:03:51,020 --> 00:03:52,100
+PART.1: El águila no es carroñera.
+
+67
+00:03:52,100 --> 00:03:53,780
+PART.2: Ah, es verdad, claro.
+
+68
+00:04:04,500 --> 00:04:05,580
+PART.2: ¿Soy negro?
+
+69
+00:04:06,100 --> 00:04:07,100
+PART.2: ¿Cuervo?
+
+70
+00:04:08,740 --> 00:04:10,020
+PART.1: Ahí, al límite.
+
+71
+00:04:11,340 --> 00:04:12,540
+PART.1: Muy bien.
+
+72
+00:04:13,020 --> 00:04:15,380
+PART.1: Es que claro,
+con muchos colores no hay.
+
+73
+00:04:15,380 --> 00:04:15,780
+PART.2: Ya.
+
+74
+00:04:15,780 --> 00:04:16,220
+PART.1: Eh...
+
+75
+00:04:16,220 --> 00:04:16,900
+PART.2: No sé.
+
+76
+00:04:18,420 --> 00:04:22,020
+PART.1: Claro, es que los he visto
+tantas veces, es muy difícil que...
+
+77
+00:04:22,020 --> 00:04:23,540
+PART.2: Juegas con ventaja.
+
+78
+00:04:23,540 --> 00:04:24,500
+PART.1: Yo estaba...
+
+79
+00:04:24,500 --> 00:04:29,980
+PART.1: De hecho, he hecho como dos
+preguntas cuando ya pensaba que era
+el tucán, pero he dicho: "Vamos a hacer
+un poquito de paripé".
+
+80
+00:04:30,340 --> 00:04:31,820
+PART.1: A ver qué pasa.
+
+81
+00:04:32,700 --> 00:04:34,140
+PART.1: 65 pulsaciones.
+
+82
+00:04:36,060 --> 00:04:37,300
+PART.2: Joder, qué relajado estás.
+
+83
+00:04:38,420 --> 00:04:39,780
+PART.1: ¿Lo llevas bien puesto?
+
+84
+00:04:40,220 --> 00:04:41,100
+PART.1: ¿Nos lo ha comprobado?
+
+85
+00:04:41,100 --> 00:04:41,700
+PART.2: Sí.
+
+86
+00:04:42,220 --> 00:04:45,540
+PART.2: A mí no me lo ha comprobado,
+pero va cambiando un poquillo.
+
+87
+00:04:47,740 --> 00:04:49,420
+PART.1: Pues ya estamos casi.
+
+88
+00:04:50,460 --> 00:04:55,140
+PART.1: tiene que dar tiempo a
+otra más antes de las siete, yo creo que sí.
+
+89
+00:04:56,460 --> 00:04:58,380
+PART.2: ¿Por qué tardáis tanto
+en llegar?
+
+90
+00:04:58,380 --> 00:04:58,740
+PART.1: ¿Uh?
+
+91
+00:04:58,740 --> 00:05:00,380
+PART.2: ¿Por qué tardáis tantísimo en
+llegar?
+
+92
+00:05:01,220 --> 00:05:02,740
+PART.1: Aún te queda una sesión.
+
+93
+00:05:03,060 --> 00:05:03,540
+PART.2: ¿Eh?
+
+94
+00:05:03,540 --> 00:05:07,260
+PART.1: Eh... no sé qué me hablas,
+porque debe estar despistada o lo que sea.
+
+95
+00:05:09,060 --> 00:05:10,580
+PART.2: Es que siempre tardáis mucho.
+
+96
+00:05:11,220 --> 00:05:12,380
+PART.1: No es mucho.
+
+97
+00:05:13,060 --> 00:05:13,780
+PART.2: Pero bueno.
+
+98
+00:05:14,220 --> 00:05:18,180
+PART.1: Con lo de los animales al
+principio sí me he despistado, y claro, ya
+venías a lo mejor con la...
+
+99
+00:05:18,180 --> 00:05:19,900
+PART.2: Quiero decir, o sea...
+
+100
+00:05:20,340 --> 00:05:26,820
+PART.2: Desde que me lo quito, o sea,
+me lo quito y me imagino a quien lo ve,
+se levanta y viene y no tarda tanto.
+
+101
+00:05:27,700 --> 00:05:29,140
+PART.2: Que estáis aquí.
+
+102
+00:05:30,940 --> 00:05:32,300
+PART.2: Algo pasa ahí.
+
+103
+00:05:32,340 --> 00:05:36,900
+PART.1: Qué ganas tengo de afeitarme,
+de verdad, me está molestando mucho esto,
+tengo un calor...
+
+104
+00:05:36,900 --> 00:05:39,220
+PART.1: Me vas a rapar tú esta noche.
+
+105
+00:05:40,620 --> 00:05:41,820
+PART.1: Eh...
+
+106
+00:05:41,860 --> 00:05:45,180
+PART.1: Para no volver a hacer
+la movida del colchón,
+duerme en la habitación vacía.
+
+107
+00:05:45,180 --> 00:05:46,100
+PART.2: Tienen un hotel creo.
+
+108
+00:05:46,100 --> 00:05:47,260
+PART.1: ¿Ah, sí? ¿Al final no te vienes?
+
+109
+00:05:47,900 --> 00:05:48,460
+PART.2: No.
+
+110
+00:05:48,460 --> 00:05:49,420
+PART.1: Pues vaya.
+
+111
+00:05:49,420 --> 00:05:50,260
+PART.1: ¿Entonces tienes ropa?
+

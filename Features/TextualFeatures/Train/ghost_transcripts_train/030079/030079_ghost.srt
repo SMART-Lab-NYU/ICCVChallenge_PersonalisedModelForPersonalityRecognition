@@ -1,0 +1,266 @@
+1
+00:00:00,000 --> 00:00:00,518
+SUPERVISOR: Sí, ya está, ya podéis.
+
+2
+00:00:00,000 --> 00:00:00,518
+PART.1: Venga.
+
+3
+00:00:03,798 --> 00:00:04,678
+PART.1: Sí.
+
+4
+00:00:10,158 --> 00:00:11,158
+PART.2: Sí.
+
+5
+00:00:13,838 --> 00:00:14,798
+PART.2: ¿Otra vez?
+
+6
+00:00:14,878 --> 00:00:15,878
+PART.1: Sí.
+
+7
+00:00:21,078 --> 00:00:21,758
+PART.1: Ah, no.
+
+8
+00:00:21,838 --> 00:00:22,278
+PART.2: No.
+
+9
+00:00:22,358 --> 00:00:23,438
+PART.2: Eh, este.
+
+10
+00:00:24,358 --> 00:00:26,598
+PART.2: Ah, tienes razón "estaba la silla",
+bien.
+
+11
+00:00:27,678 --> 00:00:28,678
+PART.2: Tuya.
+
+12
+00:00:31,118 --> 00:00:31,998
+PART.2: No.
+
+13
+00:00:32,078 --> 00:00:32,678
+PART.2: Est...
+
+14
+00:00:32,758 --> 00:00:33,958
+PART.2: ¡El ratón! ¡Ay!
+
+15
+00:00:34,038 --> 00:00:34,678
+PART.1: Libro.
+
+16
+00:00:35,918 --> 00:00:37,518
+PART.2: Maldito, me ganaste.
+
+17
+00:00:42,598 --> 00:00:43,358
+PART.1: Ah.
+
+18
+00:01:03,958 --> 00:01:06,158
+PART.2: Ya veis antes.
+
+19
+00:01:07,598 --> 00:01:08,638
+PART.2: La botella.
+
+20
+00:01:14,038 --> 00:01:14,838
+PART.1: Sí.
+
+21
+00:01:20,358 --> 00:01:22,398
+PART.1: Ah, ah, sí, sí.
+
+22
+00:01:20,918 --> 00:01:21,958
+PART.2: No, es el libro.
+
+23
+00:01:23,358 --> 00:01:24,358
+PART.2: Tú.
+
+24
+00:01:26,958 --> 00:01:27,958
+PART.2: Sí.
+
+25
+00:01:29,078 --> 00:01:31,158
+PART.1: Bueno, has ganado.
+
+26
+00:01:32,558 --> 00:01:33,798
+PART.1: 15.
+
+27
+00:01:34,598 --> 00:01:38,238
+PART.2: Joder, pues para que se te den mal
+estos juegos, se te dan bien.
+
+28
+00:01:38,318 --> 00:01:42,998
+PART.2: No, es que hoy estoy más
+despierta, el otro día tenía mucho
+sueño, cuando vine la primera vez.
+
+29
+00:01:47,758 --> 00:01:49,478
+PART.2: A mí me gusta el de Lego.
+
+30
+00:01:51,038 --> 00:01:52,038
+PART.1: ¿El de Lego?
+
+31
+00:01:52,118 --> 00:01:53,118
+PART.2: Sí.
+
+32
+00:01:53,198 --> 00:01:54,198
+PART.1: Ajá.
+
+33
+00:01:54,558 --> 00:01:57,238
+PART.1: Está bien, yo de pequeño no jugaba
+a Lego.
+
+34
+00:01:57,318 --> 00:01:58,958
+PART.2: Yo nunca jugué a Lego cuando
+pequeña.
+
+35
+00:01:59,038 --> 00:02:00,918
+PART.1: No, me gustaría...
+
+36
+00:02:00,998 --> 00:02:02,358
+PART.2: Es entretenido.
+
+37
+00:02:02,438 --> 00:02:03,158
+PART.1: Sí.
+
+38
+00:02:05,558 --> 00:02:11,518
+PART.1: Si fuera niño otra vez,
+bueno podría jugar, otra vez, no
+necesito ser un niño.
+
+39
+00:02:11,598 --> 00:02:13,438
+PART.2: Exacto, puedes comprarlo igual.
+
+40
+00:02:13,518 --> 00:02:21,438
+PART.1: Hay, en Dinamarca, no sé si hay un
+museo, un parque de atracciones de
+Lego.
+
+41
+00:02:21,518 --> 00:02:22,358
+PART.2: ¿En serio?
+
+42
+00:02:22,438 --> 00:02:25,918
+PART.1: Sí, como un Disneyland París o un
+Lego o algo así. ,
+
+43
+00:02:26,438 --> 00:02:27,718
+PART.1: Quizás grande, sí.
+
+44
+00:02:27,798 --> 00:02:29,358
+PART.2: ¿No será un "cuento" Disney?
+
+45
+00:02:29,438 --> 00:02:31,798
+PART.2: Tampoco "meto" mucho la atención.
+
+46
+00:02:31,878 --> 00:02:32,638
+PART.1: No, no.
+
+47
+00:02:32,718 --> 00:02:35,958
+PART.2: Cuando chica sí, pero después
+crecí...
+
+48
+00:02:36,038 --> 00:02:39,878
+PART.1: Hoy Disney está muy enterrado ya
+es...
+
+49
+00:02:37,238 --> 00:02:38,118
+PART.2: Sobrevalorado.
+
+50
+00:02:40,318 --> 00:02:47,638
+PART.1: Sobre todo con los movimientos de
+masculinidad y feminismo, las
+películas están perdiendo mucho
+valor.
+
+51
+00:02:48,518 --> 00:02:53,398
+PART.1: Bueno, el valor que tienen que
+tener porque están muy mal
+diseñadas.
+
+52
+00:02:57,278 --> 00:02:59,438
+PART.1: Entonces tú, ¿de qué zona eres de
+Chile?
+
+53
+00:02:59,518 --> 00:03:01,158
+PART.2: Del centro sur.
+
+54
+00:03:01,238 --> 00:03:02,798
+PART.1: ¿Centro sur?
+
+55
+00:03:02,878 --> 00:03:04,038
+PART.1: Eso, centro, sur...
+
+56
+00:03:04,118 --> 00:03:05,398
+PART.2: Santiago es la capital.
+
+57
+00:03:05,478 --> 00:03:15,398
+PART.2: Yo soy de Cañete, una ciudad que
+está como a dos y media de
+Concepción que es la segunda capital
+de Chile.
+
+58
+00:03:15,478 --> 00:03:19,918
+PART.2: O sea, de Santiago a ocho horas en
+bus, siete horas.
+
+59
+00:03:18,398 --> 00:03:19,918
+PART.2: ¿No tenéis tren?
+
+60
+00:03:20,438 --> 00:03:32,318
+PART.2: Hay un tren que va de Triana a
+Santiago, pero no de Concepción,
+entonces puedes moverte a Santiago
+en bus o en avión.
+

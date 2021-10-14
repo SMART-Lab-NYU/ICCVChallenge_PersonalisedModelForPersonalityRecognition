@@ -1,0 +1,68 @@
+75
+00:04:02,247 --> 00:04:03,047
+PART.2: Sí.
+
+76
+00:04:03,647 --> 00:04:05,647
+PART.2: Es que se puede confundir con
+otro.
+
+77
+00:04:06,327 --> 00:04:07,727
+PART.2: Al menos, yo lo confundiría.
+
+78
+00:04:11,847 --> 00:04:12,887
+PART.2: ¿Soy negro?
+
+79
+00:04:13,207 --> 00:04:14,007
+PART.1: Sí.
+
+80
+00:04:15,127 --> 00:04:19,447
+PART.1: Bueno, no enteramente negro, pero
+bastante negro.
+
+81
+00:04:20,967 --> 00:04:22,767
+PART.1: ¿Soy de la familia de las
+águilas?
+
+82
+00:04:24,487 --> 00:04:25,607
+PART.2: No.
+
+83
+00:04:34,207 --> 00:04:35,567
+PART.2: A ver, vamos a contar las
+preguntas.
+
+84
+00:04:35,647 --> 00:04:37,647
+PART.2: Te he preguntado si es doméstico.
+
+85
+00:04:39,287 --> 00:04:40,327
+PART.2: Si...
+
+86
+00:04:43,767 --> 00:04:44,727
+PART.1: Si era un ave.
+
+87
+00:04:45,407 --> 00:04:46,447
+PART.2: Si era un ave.
+
+88
+00:04:49,407 --> 00:04:50,807
+PART.2: Si era típico de España.
+
+89
+00:04:51,447 --> 00:04:54,607
+PART.2: Si era de color negro.
+
+90
+00:04:54,687 --> 00:04:55,247
+PART.1: Sí.
+

@@ -1,0 +1,88 @@
+93
+00:04:03,712 --> 00:04:04,632
+PART.2: ¿Soy un delfín?
+
+94
+00:04:04,712 --> 00:04:05,232
+PART.1: Sí.
+
+95
+00:04:05,312 --> 00:04:06,312
+PART.2: ¡Toma!
+
+96
+00:04:06,872 --> 00:04:08,032
+PART.2: La primera que adivino.
+
+97
+00:04:09,032 --> 00:04:09,512
+PART.2: Vale.
+
+98
+00:04:09,592 --> 00:04:10,432
+PART.1: ¿Tengo el cuello largo?
+
+99
+00:04:10,512 --> 00:04:11,112
+PART.2: No.
+
+100
+00:04:12,272 --> 00:04:14,432
+PART.2: Te queda la última, el comodín.
+
+101
+00:04:19,232 --> 00:04:20,152
+PART.2: Pregunta.
+
+102
+00:04:20,672 --> 00:04:21,912
+PART.2: Si preguntaras bien...
+
+103
+00:04:24,272 --> 00:04:28,752
+PART.1: No soy de agua, no soy carnívoro,
+no tengo plumas.
+
+104
+00:04:29,552 --> 00:04:30,512
+PART.2: Eres grande.
+
+105
+00:04:30,592 --> 00:04:32,192
+PART.1: Soy grande y no intimido.
+
+106
+00:04:36,552 --> 00:04:37,512
+PART.1: No soy agresivo.
+
+107
+00:04:38,992 --> 00:04:39,672
+PART.2: Corres.
+
+108
+00:04:40,192 --> 00:04:40,752
+PART.1: Corre.
+
+109
+00:04:41,392 --> 00:04:42,232
+PART.2: Pero no mucho.
+
+110
+00:04:43,992 --> 00:04:49,472
+PART.1: No tengo el cuello largo y no
+tengo plumas.
+
+111
+00:04:50,752 --> 00:04:52,832
+PART.2: Porque no vuelas, mama, no
+vuelas.
+
+112
+00:04:52,912 --> 00:04:55,592
+PART.2: Eres un animal terrestre y
+mamífero.
+
+113
+00:04:57,152 --> 00:04:58,512
+PART.1: Como no hay...
+

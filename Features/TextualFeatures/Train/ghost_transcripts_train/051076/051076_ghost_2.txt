@@ -1,0 +1,77 @@
+50
+00:02:04,641 --> 00:02:05,961
+PART.1: A: Qué cabrón.
+
+51
+00:02:10,121 --> 00:02:11,361
+PART.1: A: Muy bien.
+
+52
+00:02:11,441 --> 00:02:15,121
+PART.1: A:
+Muy bien, muy bien.
+Venga, mientras entra Javi,
+la revancha.
+
+53
+00:02:15,201 --> 00:02:15,681
+PART.2: : Sí, ¿no?
+
+54
+00:02:15,761 --> 00:02:16,761
+PART.1: A: Que estoy picado.
+
+55
+00:02:17,721 --> 00:02:18,921
+PART.2: B: Vale.
+
+56
+00:02:22,961 --> 00:02:24,001
+PART.2: B: No puede terminar así.
+
+57
+00:02:24,081 --> 00:02:25,521
+PART.1: A: No puede terminar.
+
+58
+00:02:25,601 --> 00:02:26,361
+PART.1: A: Pero no me dejes.
+
+59
+00:02:26,441 --> 00:02:27,201
+PART.1: A: ¡No, no!
+
+60
+00:02:30,281 --> 00:02:31,041
+PART.1: A: Muy bien.
+
+61
+00:02:31,121 --> 00:02:32,441
+PART.2: B: Que no.
+
+62
+00:02:32,521 --> 00:02:35,921
+PART.1: A: Pues normalmente
+soy bueno en esto, no sé qué está
+pasando aquí.
+
+63
+00:02:41,761 --> 00:02:42,641
+PART.2: B: ¡Ah, no!
+
+64
+00:02:42,721 --> 00:02:43,921
+PART.1: A: Espera. Hemos fallado.
+
+65
+00:02:44,001 --> 00:02:45,281
+PART.2: B: Hemos fallado los dos.
+
+66
+00:02:45,361 --> 00:02:46,441
+PART.1: A: A ver.
+
+67
+00:02:52,241 --> 00:02:53,441
+PART.1: A: Tú.
+

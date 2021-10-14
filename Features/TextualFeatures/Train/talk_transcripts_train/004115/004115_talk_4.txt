@@ -1,0 +1,36 @@
+44
+00:04:08,471 --> 00:04:18,911
+PART.2: Pero cuando empieza a memorizar,
+esas cavidades colapsan. Y eso es
+una cosa de... Bueno, con varios
+experimentos y...
+
+45
+00:04:20,511 --> 00:04:27,671
+PART.1: Está guay.  Porque siempre es la
+cosa esta de... gente intentando
+entender por qué funcionan o cómo
+funcionan. Qué bueno.
+
+46
+00:04:28,471 --> 00:04:42,391
+PART.1: Tengo un estudiante de TFG para
+el semestre que viene y quiero que se
+mire un “paper” de algo muy parecido. Estudian la
+arquitectura de una red neuronal con
+homología persistente para detectar
+"adversarial examples",
+
+47
+00:04:42,471 --> 00:04:49,831
+PART.1: pero directamente mirando, como los
+"Betti numbers", de cómo se activa la
+red cuando metes ese ejemplo.
+
+48
+00:04:50,431 --> 00:05:09,471
+PART.2: También tuvimos un experimento, en
+Este “paper”, en el cual les pasamos ejemplos
+adversos y no es, de verdad, una
+forma de detectarlos. ¿Por qué?
+

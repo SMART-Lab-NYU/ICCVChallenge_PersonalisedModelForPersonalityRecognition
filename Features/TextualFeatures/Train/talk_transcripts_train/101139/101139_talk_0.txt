@@ -1,0 +1,132 @@
+1
+00:00:00,374 --> 00:00:01,534
+PART.2: ¿Quién eres?
+
+2
+00:00:01,734 --> 00:00:03,374
+PART.1: ¿Quién soy? Germán.
+
+3
+00:00:03,454 --> 00:00:04,414
+PART.1: Soy Germán.
+
+4
+00:00:04,494 --> 00:00:08,014
+PART.1: No soy de aquí. Soy de Madrid.
+
+5
+00:00:08,534 --> 00:00:09,334
+PART.1: Y...
+
+6
+00:00:10,214 --> 00:00:12,054
+PART.2: No eres de aquí, así en plan...
+
+7
+00:00:12,134 --> 00:00:13,654
+PART.1: Claro, no soy de aquí.
+
+8
+00:00:14,214 --> 00:00:16,494
+PART.1: Es importante para saber...
+
+9
+00:00:14,574 --> 00:00:15,654
+PART.2: Entre comillas.
+
+10
+00:00:18,294 --> 00:00:19,574
+PART.2: Ya, Ya. Sí, sí.
+
+11
+00:00:19,774 --> 00:00:20,854
+PART.2: ¿Qué te trae a Barcelona?
+
+12
+00:00:20,934 --> 00:00:22,094
+PART.1: Pues estudiar un máster.
+
+13
+00:00:22,174 --> 00:00:23,094
+PART.2: ¿De qué?
+
+14
+00:00:23,174 --> 00:00:24,454
+PART.1: De Producción Cultural.
+
+15
+00:00:24,534 --> 00:00:26,254
+PART.2: Ah, ¿qué has estudiado tú?
+
+16
+00:00:26,694 --> 00:00:28,374
+PART.1: Periodismo y Comunicación
+Audiovisual.
+
+17
+00:00:28,454 --> 00:00:29,774
+PART.2: Vale, vale.
+
+18
+00:00:31,134 --> 00:00:35,094
+PART.2: ¿Y por qué viniste hasta aquí
+para este máster? ¿No había en
+Madrid?
+
+19
+00:00:35,174 --> 00:00:36,494
+PART.1: Sí que había, lo que pasa es...
+
+20
+00:00:36,574 --> 00:00:37,294
+PART.2: Querías irte.
+
+21
+00:00:37,214 --> 00:00:39,014
+PART.1: Sí. Me apetecía cambiar de aires.
+
+22
+00:00:38,774 --> 00:00:40,574
+PART.2: Bien dicho, bien dicho. Sí, sí.
+
+23
+00:00:40,734 --> 00:00:46,374
+PART.1: Mi hermana también vive
+aquí desde hace muchos años y no sé,
+como que me apetecía...
+
+24
+00:00:47,494 --> 00:00:48,814
+PART.2: Un cambio de aires, ¿no?
+
+25
+00:00:49,734 --> 00:00:53,054
+PART.1: No. Más que cambio de aires, es
+que yo siempre he querido venir a
+Barcelona.
+
+26
+00:00:53,134 --> 00:00:53,934
+PART.2: Ah.
+
+27
+00:00:55,174 --> 00:00:56,014
+PART.2: ¿Te mola?
+
+28
+00:00:56,094 --> 00:00:56,254
+PART.1: Sí.
+
+29
+00:00:56,334 --> 00:00:56,774
+PART.2: ¿Sí?
+
+30
+00:00:56,854 --> 00:00:59,654
+PART.2: Te ha satisfecho en lo que
+esperabas, ¿sí?
+
+31
+00:00:59,414 --> 00:01:00,014
+PART.1: Sí.
+

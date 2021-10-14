@@ -1,0 +1,630 @@
+﻿1
+00:00:02,979 --> 00:00:03,979
+PART.1: Qui vol començar? Tu?
+
+2
+00:00:04,379 --> 00:00:05,539
+PART.2: Comença, comença, pregunta...
+
+3
+00:00:06,339 --> 00:00:10,179
+PART.1: Mmmm, te quatre potes?
+
+4
+00:00:11,779 --> 00:00:11,979
+PART.2: Sí.
+
+5
+00:00:12,699 --> 00:00:13,059
+PART.1: Vale.
+
+6
+00:00:14,699 --> 00:00:16,219
+PART.2: El meu te quatre potes?
+
+7
+00:00:17,099 --> 00:00:17,419
+PART.1: Sí.
+
+8
+00:00:21,179 --> 00:00:22,619
+PART.2: Una pregunta eh, ja em fet una.
+
+9
+00:00:23,299 --> 00:00:24,059
+PART.1: Té pel?
+
+10
+00:00:23,899 --> 00:00:24,379
+PART.2: No.
+
+11
+00:00:26,259 --> 00:00:29,259
+PART.2: Mmm, és domèstic?
+
+12
+00:00:30,379 --> 00:00:30,899
+PART.1: No.
+
+13
+00:00:32,699 --> 00:00:32,979
+PART.1: No.
+
+14
+00:00:33,979 --> 00:00:35,059
+PART.2: I ara riu.
+
+15
+00:00:36,539 --> 00:00:41,179
+PART.1: Mmmm, ens el menjem?
+
+16
+00:00:43,659 --> 00:00:43,939
+PART.2: Sí.
+
+17
+00:00:45,139 --> 00:00:45,339
+PART.1: Vale.
+
+18
+00:00:46,899 --> 00:00:48,779
+PART.2: Mmm, té molt pel?
+
+19
+00:00:49,299 --> 00:00:49,539
+PART.1: No.
+
+20
+00:00:51,499 --> 00:00:52,699
+PART.2: Tres.
+
+21
+00:01:06,819 --> 00:01:07,099
+PART.1: És mamífer?
+
+22
+00:01:08,379 --> 00:01:08,619
+PART.2: No.
+
+23
+00:01:10,139 --> 00:01:10,779
+PART.2: El meu és mamífer?
+
+24
+00:01:10,219 --> 00:01:10,939
+PART.1: Vale.
+
+25
+00:01:11,779 --> 00:01:12,459
+PART.2: Et puc copiar la pregunta?
+
+26
+00:01:13,299 --> 00:01:13,699
+PART.1: Crec que no.
+
+27
+00:01:14,939 --> 00:01:15,739
+PART.1: Crec que no.
+
+28
+00:01:22,579 --> 00:01:25,859
+PART.1: Aaaammmm
+
+29
+00:01:30,819 --> 00:01:34,059
+PART.1: Viu a la terra?
+
+30
+00:01:35,339 --> 00:01:39,219
+PART.1: No la terra de planeta, sinó, al terra, ni aire ni mar.
+
+31
+00:01:41,939 --> 00:01:42,979
+PART.2: pot ser mig i mig.
+
+32
+00:01:45,019 --> 00:01:45,339
+PART.1: Va bé.
+
+33
+00:01:45,579 --> 00:01:48,979
+PART.2: Mmmm, ah, m'has dit quatre potes, això has dit al principi, no?
+
+34
+00:01:49,819 --> 00:01:54,659
+PART.2: Mmmm, m'has dit mamífer, que sí, que creus que sí, no?
+
+35
+00:01:55,059 --> 00:01:55,579
+PART.1: Que no, que crec que no.
+
+36
+00:01:55,539 --> 00:01:56,019
+PART.2: Ah, que no?
+
+37
+00:01:57,059 --> 00:01:57,619
+PART.2: Mmm, ufff.
+
+38
+00:01:59,499 --> 00:01:59,699
+PART.2: Rèptil?
+
+39
+00:02:01,099 --> 00:02:01,299
+PART.1: Sí.
+
+40
+00:02:02,259 --> 00:02:02,459
+PART.2: Sí.
+
+41
+00:02:04,099 --> 00:02:04,979
+PART.1: Vale.
+
+42
+00:02:11,139 --> 00:02:11,579
+PART.1: És hevíbor?
+
+43
+00:02:13,099 --> 00:02:13,299
+PART.2: No.
+
+44
+00:02:14,179 --> 00:02:14,819
+PART.2: Bueno, no ho sé.
+
+45
+00:02:18,899 --> 00:02:22,299
+PART.1: Vale, bueno, pot ser... pot ser o no, vale
+
+46
+00:02:23,419 --> 00:02:26,419
+PART.2: Ehh, és salvatge m'havies dit,o no, no t'ho he preguntat.
+
+47
+00:02:26,499 --> 00:02:27,219
+PART.1: No, no m'ho has preguntat.
+
+48
+00:02:26,659 --> 00:02:26,979
+PART.2: És salvatge?
+
+49
+00:02:28,019 --> 00:02:28,339
+PART.1: Sí.
+
+50
+00:02:30,579 --> 00:02:33,379
+PART.1: Mmmmm, és domèstic?
+
+51
+00:02:36,699 --> 00:02:37,259
+PART.2: Mascota? No.
+
+52
+00:02:37,819 --> 00:02:38,259
+PART.1: Vale.
+
+53
+00:02:39,179 --> 00:02:40,059
+PART.2: Bueno, no sé, hi ha de tot.
+
+54
+00:02:40,459 --> 00:02:41,179
+PART.1: Sí, pot ser però...
+
+55
+00:02:40,539 --> 00:02:40,779
+PART.2: Pot ser, sí.
+
+56
+00:02:43,099 --> 00:02:44,299
+PART.2: No sé quantes portem ja, vuit?
+
+57
+00:02:44,339 --> 00:02:44,779
+PART.1: Portem set.
+
+58
+00:02:45,499 --> 00:02:45,899
+PART.2: Set.
+
+59
+00:02:46,219 --> 00:02:47,059
+PART.2: ...primer era el teu.
+
+60
+00:02:49,539 --> 00:02:50,659
+PART.2: M'has dit, salvatge no.
+
+61
+00:02:51,539 --> 00:02:51,739
+PART.1: Sí.
+
+62
+00:02:52,539 --> 00:02:52,819
+PART.2: M'has dit que sí.
+
+63
+00:02:54,499 --> 00:02:57,019
+PART.2: Mmmm, ah, està als llacs o mars o...?
+
+64
+00:02:58,379 --> 00:02:58,619
+PART.1: Sí.
+
+65
+00:03:00,299 --> 00:03:01,179
+PART.2: Bueno.
+
+66
+00:03:01,339 --> 00:03:04,099
+PART.1: Sí, ara mateix no et sabria dir què de les dos coses però sí.
+
+67
+00:03:06,099 --> 00:03:11,979
+PART.1: Mmmm, és molt gros?
+
+68
+00:03:12,739 --> 00:03:12,979
+PART.2: No.
+
+69
+00:03:13,859 --> 00:03:14,019
+PART.1: Vale.
+
+70
+00:03:15,139 --> 00:03:17,059
+PART.2: Té una boca enorme?
+
+71
+00:03:17,499 --> 00:03:17,659
+PART.1: Sí.
+
+72
+00:03:21,259 --> 00:03:21,499
+PART.1: Ja saps quin és?
+
+73
+00:03:21,659 --> 00:03:21,979
+PART.2: No sé, penso.
+
+74
+00:03:22,259 --> 00:03:22,499
+PART.1: Vale.
+
+75
+00:03:23,539 --> 00:03:24,339
+PART.1: Ho pots dir eh, si ho saps.
+
+76
+00:03:24,859 --> 00:03:25,259
+PART.2: Un cocodril?
+
+77
+00:03:25,859 --> 00:03:26,419
+PART.1: Sí que és un cocodril.
+
+78
+00:03:26,979 --> 00:03:28,379
+PART.1: Vale.
+
+79
+00:03:29,019 --> 00:03:30,179
+PART.1: Jo tinc dos preguntes doncs...
+
+80
+00:03:30,579 --> 00:03:31,499
+PART.1: No tinc ni idea de què és.
+
+81
+00:03:35,299 --> 00:03:36,059
+PART.2: No vols fer, donar pistes?
+
+82
+00:03:36,459 --> 00:03:37,859
+PART.1: Té ales?
+
+83
+00:03:38,819 --> 00:03:39,139
+PART.2: No.
+
+84
+00:03:39,739 --> 00:03:39,979
+PART.1: Vale.
+
+85
+00:03:40,899 --> 00:03:41,819
+PART.1: Fa molta calor al cap.
+
+86
+00:03:43,379 --> 00:03:44,699
+PART.1: Mmmm.
+
+87
+00:03:45,059 --> 00:03:46,019
+PART.2: A veure si he fallat en alguna?
+
+88
+00:03:53,539 --> 00:03:56,219
+PART.1: No ho sé, és de color marró?
+
+89
+00:03:58,699 --> 00:03:59,019
+PART.1: Vale.
+
+90
+00:03:59,939 --> 00:04:00,259
+PART.2: En principi no.
+
+91
+00:04:02,499 --> 00:04:03,299
+PART.2: No sé si hi ha algun...
+
+92
+00:04:03,619 --> 00:04:04,939
+PART.1: Doncs ara només em queda...
+
+93
+00:04:05,379 --> 00:04:06,499
+PART.1: Endivinar-ho, que no...
+
+94
+00:04:06,899 --> 00:04:07,899
+PART.1: Ja t'ho dic jo que no ...
+
+95
+00:04:08,339 --> 00:04:09,779
+PART.2: Jo per això t'he dit lo de la pista que ho endevines segur.
+
+96
+00:04:10,539 --> 00:04:11,179
+PART.1: Donam la pista...
+
+97
+00:04:12,059 --> 00:04:16,339
+PART.2: Tip tip, pup, pup, camina així.
+
+98
+00:04:18,979 --> 00:04:19,699
+PART.1: És una granota?
+
+99
+00:04:20,259 --> 00:04:21,699
+PART.2: Aiii, sí, el frog.
+
+100
+00:04:22,219 --> 00:04:23,699
+PART.1: Sí? Ja veus.
+
+101
+00:04:22,819 --> 00:04:23,619
+PART.2: El frog és una granota, no?
+
+102
+00:04:24,099 --> 00:04:24,459
+PART.1: Sí, és granota.
+
+103
+00:04:25,099 --> 00:04:25,419
+PART.2: Molt bé!
+
+104
+00:04:26,139 --> 00:04:27,899
+PART.1: No, pues no ho hauria... t'ho juro que no ho hauria...
+
+105
+00:04:28,259 --> 00:04:30,139
+PART.2: Es que no sé si en alguna resposta l'hauré dit... pot ser malament, no?
+
+106
+00:04:29,859 --> 00:04:30,099
+PART.1: No.
+
+107
+00:04:30,779 --> 00:04:31,819
+PART.1: Però jo estava pensant, quatre potes...
+
+108
+00:04:32,179 --> 00:04:32,459
+PART.2: No, es que quan...
+
+109
+00:04:32,899 --> 00:04:33,459
+PART.1: Però has dit, no te pel...
+
+110
+00:04:34,099 --> 00:04:35,339
+PART.2: ...si es pot menjar? o no m'ho has dit això.
+
+111
+00:04:35,339 --> 00:04:37,499
+PART.1: Sí, si es pot menjar... sí, sí, en veritat, sí.
+
+112
+00:04:35,699 --> 00:04:37,819
+PART.2: Clar, hi ha gent que menja anques, no, en veritat?
+
+113
+00:04:38,019 --> 00:04:38,299
+PART.1: Ai!
+
+114
+00:04:38,339 --> 00:04:39,979
+PART.1: Em de... em acabat.
+
+115
+00:04:39,019 --> 00:04:39,939
+PART.2: Ai, que ens em de treure això.
+
+116
+00:04:42,979 --> 00:04:45,219
+PART.1: Sí, sí però, però no hi he estat pensant gens, eh?
+
+117
+00:04:46,779 --> 00:04:47,139
+PART.2: No?
+
+118
+00:04:47,699 --> 00:04:47,979
+PART.1: No.
+
+119
+00:04:48,099 --> 00:04:48,979
+PART.2: Es que pot ser era més complicat.
+
+120
+00:04:48,339 --> 00:04:53,779
+PART.1: Estava pensant en coses més tirant cap a... jo que sé, vaca i...
+
+121
+00:04:54,339 --> 00:04:55,579
+PART.1: ...he pensat hipopòtam ...
+
+122
+00:04:55,379 --> 00:04:56,459
+PART.1: vaca no pot ser perquè no te pel.
+
+123
+00:04:56,899 --> 00:04:59,099
+PART.1: Lo de la pregunta del pel, t'ho juro que m'ha...
+
+124
+00:04:59,619 --> 00:05:00,579
+PART.2: T'ha deixat despistada, despistada.
+
+125
+00:05:00,259 --> 00:05:01,379
+PART.1: Sí, sí sí.
+
+126
+00:05:01,939 --> 00:05:02,339
+PART.1: Què fort.
+
+127
+00:05:02,779 --> 00:05:03,099
+PART.1: Molt bé.
+
+128
+00:05:03,859 --> 00:05:04,779
+PART.2: Bueno, les dos, eh?
+
+129
+00:05:08,819 --> 00:05:09,059
+PART.2: Està bé.
+
+130
+00:05:09,459 --> 00:05:11,179
+PART.2: Jo ho trobo interesant, eh? lo de l'estudi aquest.
+
+131
+00:05:12,059 --> 00:05:13,579
+PART.1: Sí, sí, sí jo també.
+
+132
+00:05:14,659 --> 00:05:15,219
+PART.2: Té que ser guai.
+
+133
+00:05:15,579 --> 00:05:19,699
+PART.1: Perquè... perquè a més a més et pregunten sobre tu i sobre l'altre, saps?
+
+134
+00:05:19,539 --> 00:05:21,539
+PART.2: es que a mi m'agrada molt, observar la gent i...
+
+135
+00:05:22,019 --> 00:05:22,699
+PART.1: Sí, a mi també.
+
+136
+00:05:22,539 --> 00:05:22,779
+PART.2: Sí molt.
+
+137
+00:05:23,659 --> 00:05:24,019
+PART.1: I el que vaig...
+
+138
+00:05:23,899 --> 00:05:29,539
+PART.1: A l'últim cop ho vaig fer amb una persona que coneixia, amb una que no coneixia i amb ma germana.
+
+139
+00:05:31,579 --> 00:05:35,299
+PART.1: I... i en alguns moments també estaven analitzant a veure qui agafava el poder, qui no...
+
+140
+00:05:37,539 --> 00:05:49,619
+PART.1: I... i vaig veure que amb les persones, amb la que coneixia i amb la que no coneixia més aviat jo
+era la que agafava la iniciativa però amb ma germana, que es la meva germana gran,
+l'agafava ella
+
+141
+00:05:49,179 --> 00:05:49,539
+PART.2: Què curiós, no?
+
+142
+00:05:49,819 --> 00:05:50,259
+PART.1: I ella...
+
+143
+00:05:50,219 --> 00:05:51,739
+PART.2: Ah, que t'enteres també tu de les res...
+
+144
+00:05:52,219 --> 00:05:52,939
+PART.1: Clar, sí.
+
+145
+00:05:52,339 --> 00:05:52,979
+PART.2: Ah, que guapo, no?
+
+146
+00:05:53,659 --> 00:05:55,779
+PART.1: No, si no t'ho diuen però jo m'hi vaig fitxar, saps? de...
+
+147
+00:05:55,939 --> 00:05:56,699
+PART.2: Ah, vale, vale, vale...
+
+148
+00:05:56,299 --> 00:05:59,299
+PART.1: ...de hòstia! pues, sí, pot ser sí que...
+
+149
+00:05:59,339 --> 00:05:59,819
+PART.2: Clar, clar.
+
+150
+00:06:00,259 --> 00:06:02,019
+PART.2: No, es que és interesant eh, bueno, jo ho trobo molt bé...
+
+151
+00:06:01,539 --> 00:06:02,179
+PART.1: Sí, molt.
+
+152
+00:06:01,939 --> 00:06:02,939
+PART.2: És que a mi aquestes coses m'agraden molt.
+
+153
+00:06:02,979 --> 00:06:04,539
+PART.1: I d'aquí poden treure moltes coses en realitat.
+
+154
+00:06:04,139 --> 00:06:04,379
+PART.2: Moltes.
+
+155
+00:06:04,979 --> 00:06:05,179
+PART.2: I fa falta, eh?
+
+156
+00:06:05,939 --> 00:06:06,179
+PART.1: Sí.
+
+157
+00:06:06,099 --> 00:06:06,339
+PART.2: La veritat és que sí.
+

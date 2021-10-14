@@ -1,0 +1,43 @@
+47
+00:03:17,287 --> 00:03:20,847
+PART.1: Tiene el pico corto, no
+corto, pero no largo.
+
+48
+00:03:21,407 --> 00:03:23,767
+PART.1: No es un ave exótica...
+
+49
+00:03:24,807 --> 00:03:26,527
+PART.2: Exótica... No sé lo que tú
+entiendes por exótica.
+
+50
+00:03:26,607 --> 00:03:29,767
+PART.1: Bueno, sí, porque tú dijiste
+"suricata".
+
+51
+00:03:40,247 --> 00:03:42,127
+PART.1: Y no vive en la selva.
+
+52
+00:03:43,287 --> 00:03:44,287
+PART.2: No.
+
+53
+00:03:52,887 --> 00:03:54,247
+PART.1: ¿Es un avestruz?
+
+54
+00:03:54,327 --> 00:03:55,327
+PART.2: No.
+
+55
+00:03:55,407 --> 00:03:57,247
+PART.1: Vale, me quedan tres preguntas.
+
+56
+00:03:59,047 --> 00:04:01,327
+PART.2: ¿Vive en los árboles?
+

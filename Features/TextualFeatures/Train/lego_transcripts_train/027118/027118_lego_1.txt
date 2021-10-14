@@ -1,0 +1,44 @@
+18
+00:01:00,950 --> 00:01:01,910
+PART.1: Aquí está.
+
+19
+00:01:02,750 --> 00:01:03,750
+PART.2: Perfecto.
+
+20
+00:01:06,870 --> 00:01:08,110
+PART.2: Y ahora, esta.
+
+21
+00:01:12,430 --> 00:01:16,710
+PART.1: Hay una cosita negra que la cubre. ¿Esta?
+
+22
+00:01:17,510 --> 00:01:22,350
+PART.2: Ah, ¿esta? Vale. Aquí.
+
+23
+00:01:23,390 --> 00:01:27,590
+PART.1: Y lleva dos orejitas. Aquí está una.
+
+24
+00:01:30,470 --> 00:01:31,630
+PART.2: ¿Cuál es aquí?
+
+25
+00:01:35,630 --> 00:01:36,830
+PART.1: Es muy tierna, ¿verdad?
+
+26
+00:01:36,950 --> 00:01:37,950
+PART.2: Sí.
+
+27
+00:01:39,950 --> 00:01:44,750
+PART.2: Los ojos... Los ojos cerrados.
+
+28
+00:01:59,550 --> 00:02:00,710
+PART.1: Y las patas.
+

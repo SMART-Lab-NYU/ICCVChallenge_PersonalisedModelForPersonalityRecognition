@@ -1,0 +1,445 @@
+1
+00:00:00,000 --> 00:00:01,158
+SUPERVISOR: Entre los dos, sí.
+
+2
+00:00:01,238 --> 00:00:03,798
+PART.1: La vaca,
+¿cuántas piezas...?
+
+3
+00:00:03,878 --> 00:00:04,878
+PART.2: Aquí.
+
+4
+00:00:04,958 --> 00:00:07,038
+PART.1: Ah, ¿estamos dos aquí?
+
+5
+00:00:07,118 --> 00:00:08,318
+PART.1: Vienen juntos, ¿no?
+
+6
+00:00:08,398 --> 00:00:09,758
+PART.2: ¿Seguimos?
+
+7
+00:00:09,838 --> 00:00:12,758
+PART.1: Sí.
+Hay que buscarlas...
+
+8
+00:00:13,478 --> 00:00:16,558
+PART.1: No entiendo muy bien...
+Ah, esto es por la vaca.
+
+9
+00:00:16,638 --> 00:00:18,518
+PART.1: Esto... A ver si nos aclaramos.
+
+10
+00:00:18,598 --> 00:00:20,358
+PART.2: Esta es la vaca...
+
+11
+00:00:20,438 --> 00:00:22,518
+PART.1: Esto será el lomo.
+
+12
+00:00:22,598 --> 00:00:23,598
+PART.2: Sí.
+
+13
+00:00:23,678 --> 00:00:24,958
+PART.2: Empezamos con esta...
+
+14
+00:00:25,038 --> 00:00:26,398
+PART.1: Es el lomo.
+
+15
+00:00:26,478 --> 00:00:27,998
+PART.1: Sí, blanca, esta misma.
+
+16
+00:00:28,078 --> 00:00:28,958
+PART.2: Sí.
+
+17
+00:00:29,038 --> 00:00:30,838
+PART.2: Hay que tener dos, exacto.
+
+18
+00:00:30,918 --> 00:00:32,678
+PART.1: La chepa, ¿no?
+
+19
+00:00:32,758 --> 00:00:33,598
+PART.2: No.
+
+20
+00:00:33,678 --> 00:00:35,518
+PART.1: Es que me fui aquí.
+
+21
+00:00:35,598 --> 00:00:37,398
+PART.2: Este es de dos.
+
+22
+00:00:37,478 --> 00:00:39,598
+PART.1: Sí, avancé el dedo.
+
+23
+00:00:39,678 --> 00:00:40,678
+PART.1: No, es más alto.
+
+24
+00:00:40,758 --> 00:00:42,758
+PART.2: Este es más cortito.
+
+25
+00:00:42,838 --> 00:00:44,318
+PART.2: ¿Dónde está? Esta.
+
+26
+00:00:44,398 --> 00:00:45,598
+PART.1: Esa.
+
+27
+00:00:46,038 --> 00:00:48,718
+PART.1: A lo mejor faltan piezas
+
+28
+00:00:48,798 --> 00:00:52,798
+PART.1: para que perdamos un poco...,
+para que nos pongamos nerviosos.
+
+29
+00:00:52,878 --> 00:00:54,238
+PART.1: Eso es.
+
+30
+00:00:54,398 --> 00:00:58,918
+PART.1: Y luego un lateral negro intuyo,
+¿no?
+
+31
+00:00:58,998 --> 00:01:00,758
+PART.1: Sí.
+
+32
+00:01:01,438 --> 00:01:03,998
+PART.1: Mmm..., las dos orejas.
+
+33
+00:01:04,078 --> 00:01:07,918
+PART.1: Yo busco una, tú otra...
+Aquí hay una de este estilo.
+
+34
+00:01:07,998 --> 00:01:10,518
+PART.1: Hay que ponerlas así, ¿no?
+Una aquí...
+
+35
+00:01:10,598 --> 00:01:12,638
+PART.2: Esta es otra, ¿no?
+
+36
+00:01:12,718 --> 00:01:14,438
+PART.1: Sí. ¿Esta? Sí.
+
+37
+00:01:14,518 --> 00:01:15,918
+PART.2: Aquí.
+
+38
+00:01:15,998 --> 00:01:18,078
+PART.1: Sí, eso, así.
+
+39
+00:01:18,158 --> 00:01:21,038
+PART.1: Los dos ojos.
+
+40
+00:01:22,598 --> 00:01:25,958
+PART.1: Toma, decide tú si los ponemos
+tristes o contentos.
+
+41
+00:01:26,038 --> 00:01:27,598
+PART.1: Contentos.
+
+42
+00:01:29,678 --> 00:01:34,238
+PART.1: La pusiste contenta,
+en las instrucciones está triste.
+
+43
+00:01:34,318 --> 00:01:37,438
+PART.2: A mí me gusta contenta,
+es más bonito.
+
+44
+00:01:37,518 --> 00:01:39,558
+PART.1: La vaca que ríe.
+
+45
+00:01:39,638 --> 00:01:41,678
+PART.2: Pero hace falta.
+
+46
+00:01:41,758 --> 00:01:43,398
+PART.1: ¿Salté mucho?
+
+47
+00:01:43,478 --> 00:01:45,518
+PART.2: Faltan estas piezas
+
+48
+00:01:45,598 --> 00:01:49,718
+PART.2: que son más prietas, las negras.
+Estas, ¿no?
+
+49
+00:01:49,798 --> 00:01:51,598
+PART.2: Hay de dos tipos creo.
+
+50
+00:01:51,678 --> 00:01:53,078
+PART.1: Mmm...
+
+51
+00:01:53,158 --> 00:01:55,998
+PART.1: No.
+Esta también, mira.
+
+52
+00:01:56,158 --> 00:01:59,198
+PART.2: Espera, falta... No.
+Así.
+
+53
+00:01:59,278 --> 00:02:00,838
+PART.1: Dos.
+
+54
+00:02:01,238 --> 00:02:02,118
+PART.2: Ya.
+
+55
+00:02:02,198 --> 00:02:03,478
+PART.1: ¿Ya está?
+
+56
+00:02:03,558 --> 00:02:04,918
+PART.1: Giramos, ¿no?
+
+57
+00:02:04,998 --> 00:02:06,278
+PART.2: ¿Verde?
+
+58
+00:02:06,358 --> 00:02:08,558
+PART.1: Aquí hay uno, mira.
+
+59
+00:02:09,278 --> 00:02:12,518
+PART.2: Y allí este...
+Aquí creo, ¿no?
+
+60
+00:02:12,598 --> 00:02:15,798
+PART.1: Sí. ¿Ahí en medio? Sí.
+
+61
+00:02:15,878 --> 00:02:17,718
+PART.1: La flor...
+
+62
+00:02:18,678 --> 00:02:20,758
+PART.1: Cualquiera. Mira aquí hay una.
+
+63
+00:02:20,838 --> 00:02:21,958
+PART.2: Esta.
+
+64
+00:02:22,038 --> 00:02:24,038
+PART.1: ¿Cómo va? Así.
+
+65
+00:02:24,118 --> 00:02:26,198
+PART.2: Y después esta.
+
+66
+00:02:27,758 --> 00:02:31,278
+PART.1: Me falta la semilla.
+
+67
+00:02:32,998 --> 00:02:34,878
+PART.2: Y ya, ¿no? Ya.
+
+68
+00:02:34,958 --> 00:02:36,358
+PART.1: Ya está.
+
+69
+00:02:36,598 --> 00:02:38,758
+PART.2: Qué bonito.
+
+70
+00:02:38,838 --> 00:02:43,038
+PART.1: La vaca que ríe.
+Hay una marca de quesos en España
+
+71
+00:02:43,118 --> 00:02:46,758
+PART.1: que se llamaban Kiri
+y luego La Vaca que Ríe.
+
+72
+00:02:46,838 --> 00:02:49,718
+PART.1: Kiri, Kiri, Kiri. Sí.
+
+73
+00:02:50,198 --> 00:02:51,678
+PART.1: Ya está, creo que...
+
+74
+00:02:51,758 --> 00:02:53,638
+PART.2: ¡Ay, qué mono!
+
+75
+00:02:53,718 --> 00:02:56,678
+PART.1: Esto será
+una granja con animales,
+
+76
+00:02:56,758 --> 00:03:00,518
+PART.1: si hubiera que montarlo todo
+sería un buen trabajo.
+
+77
+00:03:01,158 --> 00:03:04,598
+PART.1: Mira que luego
+lo tendrá que desmontar.
+
+78
+00:03:05,118 --> 00:03:07,358
+PART.2: Vamos a hacerlo, ¿no?
+
+79
+00:03:07,438 --> 00:03:09,358
+PART.1: Hasta que venga.
+
+80
+00:03:09,678 --> 00:03:12,838
+PART.1: Si me montas esto
+me harás una putada, ¿eh?
+
+81
+00:03:12,918 --> 00:03:15,238
+PART.1: Habrá que quitar
+las piezas pequeñas...
+
+82
+00:03:15,318 --> 00:03:18,558
+PART.2: Nos pide
+para sacar todo después.
+
+83
+00:03:18,638 --> 00:03:19,478
+PART.1: No.
+
+84
+00:03:19,558 --> 00:03:21,118
+PART.2: Mejor dejarlo.
+
+85
+00:03:21,198 --> 00:03:22,798
+PART.1: Sí, porque...
+
+86
+00:03:22,878 --> 00:03:24,478
+PART.2: ¿Qué es esto?
+
+87
+00:03:24,838 --> 00:03:27,998
+PART.1: El palo de una palmera.
+¿A ver aquí?
+
+88
+00:03:32,198 --> 00:03:34,678
+PART.1: Podría ser cualquier cosa.
+
+89
+00:03:38,198 --> 00:03:40,558
+PART.1: Ah, mira, una historia...
+
+90
+00:03:41,638 --> 00:03:45,518
+PART.2: Parece
+que se encaja con algo, no sé...
+
+91
+00:03:47,398 --> 00:03:50,838
+PART.1: A lo mejor es
+el eje de la turbina esta.
+
+92
+00:03:50,918 --> 00:03:52,198
+PART.1: ¿Pasa dentro esto?
+
+93
+00:03:52,278 --> 00:03:53,518
+PART.2: Quizás.
+
+94
+00:03:53,598 --> 00:03:55,558
+PART.2: Sí, sí, sí.
+
+95
+00:03:56,238 --> 00:03:57,918
+PART.1: Será eso.
+
+96
+00:03:57,998 --> 00:04:01,758
+PART.1: Esto es como una tienda,
+una floristería, mira.
+
+97
+00:04:01,838 --> 00:04:03,678
+PART.2: Ah...
+
+98
+00:04:04,238 --> 00:04:07,518
+PART.1: "The flower shop".
+Una verdulería.
+
+99
+00:04:07,598 --> 00:04:09,678
+PART.2: Mira, también para...
+
+100
+00:04:09,758 --> 00:04:11,038
+PART.1: Ah, vale.
+
+101
+00:04:11,118 --> 00:04:14,998
+PART.2: A lo mejor no tiene que ver
+con la turbina y me lo inventé.
+
+102
+00:04:15,078 --> 00:04:17,118
+PART.2: Creo que está ahí.
+
+103
+00:04:17,198 --> 00:04:18,718
+PART.1: Mmm..., no,
+
+104
+00:04:18,798 --> 00:04:21,518
+PART.1: porque par la hélice
+se usa otra cosa.
+

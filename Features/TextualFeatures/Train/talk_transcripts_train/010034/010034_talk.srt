@@ -1,0 +1,730 @@
+1
+00:00:00,159 --> 00:00:00,999
+PART.2: Hasta ahora.
+
+2
+00:00:01,679 --> 00:00:03,239
+PART.2: Pues nada. Solange.
+
+3
+00:00:03,319 --> 00:00:04,079
+PART.1: Natalia.
+
+4
+00:00:04,159 --> 00:00:04,519
+PART.2: Natalia.
+
+5
+00:00:04,639 --> 00:00:05,679
+PART.2: ¿Has hecho esto ya antes?
+
+6
+00:00:05,759 --> 00:00:06,319
+PART.1: Sí.
+
+7
+00:00:07,159 --> 00:00:08,559
+PART.2: Ah, ¿otro día los has
+hecho?
+
+8
+00:00:08,639 --> 00:00:09,039
+PART.1: Claro.
+
+9
+00:00:09,119 --> 00:00:12,959
+PART.1: Vine... Pues no recuerdo
+exactamente, la semana pasada,
+jueves.
+
+10
+00:00:12,599 --> 00:00:13,519
+PART.2: La semana pasada.
+
+11
+00:00:13,679 --> 00:00:15,159
+PART.2: ¿Y te dijeron que tenías que
+volver?
+
+12
+00:00:15,239 --> 00:00:18,919
+PART.2: O ya, digo, ¿ese día te dijeron
+que tenías que volver esta semana?
+
+13
+00:00:19,319 --> 00:00:26,399
+PART.1: Bueno, me dijeron que iba
+a tener que volver a venir, no
+exactamente cuándo, pero por correo
+ya me dijo Cristina: "Mira, tengo
+estos días".
+
+14
+00:00:26,479 --> 00:00:28,239
+PART.2: Cristina, que no hemos
+visto a Cristina nunca.
+
+15
+00:00:27,799 --> 00:00:29,199
+PART.1: Claro, es como...
+
+16
+00:00:30,159 --> 00:00:31,919
+PART.1: Creo que es una de ellas,
+a lo mejor.
+
+17
+00:00:31,999 --> 00:00:33,039
+PART.2: Sí, sí.
+
+18
+00:00:34,159 --> 00:00:35,759
+PART.1: Y, bueno, aquí estoy.
+
+19
+00:00:35,839 --> 00:00:37,119
+PART.2: ¿Y vives cerca de por
+aquí?
+
+20
+00:00:37,639 --> 00:00:38,839
+PART.1: Vivo en Poblenou.
+
+21
+00:00:39,479 --> 00:00:40,119
+PART.2: Ah, vale.
+
+22
+00:00:40,479 --> 00:00:41,879
+PART.2: Poblenou, está por ahí, ¿no?
+
+23
+00:00:42,239 --> 00:00:43,039
+PART.1: Sí, esta como...
+
+24
+00:00:42,799 --> 00:00:43,599
+PART.2: Por ahí abajo.
+
+25
+00:00:43,839 --> 00:00:45,319
+PART.1: A ver ¿la diagonal?
+
+26
+00:00:45,399 --> 00:00:45,759
+PART.2: Sí.
+
+27
+00:00:45,719 --> 00:00:47,279
+PART.1: Justo donde está Glorias,
+ahí, en ese sector.
+
+28
+00:00:47,359 --> 00:00:49,559
+PART.2: Ah, vale, tipo San
+Andrés, por ahí, ¿no?
+
+29
+00:00:49,679 --> 00:00:52,319
+PART.1: Claro, pero más cerca de
+Glorias que de San Andrés.
+
+30
+00:00:51,959 --> 00:00:52,959
+PART.2: Vale, vale.
+
+31
+00:00:53,119 --> 00:00:57,439
+PART.2: Es que el
+otro día estuve, bueno, el otro día,
+ayer, estuve paseando, sí.
+
+32
+00:00:57,519 --> 00:00:58,879
+PART.1: Ah, ¿no eres de acá? ¿De
+Barcelona?
+
+33
+00:00:58,959 --> 00:01:02,079
+PART.2: O sea, no vivo en
+Barcelona, vivo en Premiá de Mar, no
+sé si te suena.
+
+34
+00:01:02,159 --> 00:01:02,599
+PART.1: Sí, me suena.
+
+35
+00:01:02,479 --> 00:01:02,839
+PART.2: ¿Sí?
+
+36
+00:01:03,279 --> 00:01:03,959
+PART.2: Pues vivo...
+
+37
+00:01:04,159 --> 00:01:06,079
+PART.2: Mi amigo, Tom, somos de ahí.
+
+38
+00:01:06,159 --> 00:01:08,039
+PART.1: Ah, ¿y cómo te enteraste
+de esto?
+
+39
+00:01:08,279 --> 00:01:09,399
+PART.2: Pues no tengo ni idea, la
+verdad.
+
+40
+00:01:09,159 --> 00:01:09,919
+PART.1: Yo no me acuerdo.
+
+41
+00:01:10,159 --> 00:01:11,839
+PART.2: Es que no, hace muchísimo
+tiempo.
+
+42
+00:01:11,919 --> 00:01:13,399
+PART.2: Yo creo que lo vi por la...
+
+43
+00:01:14,199 --> 00:01:19,039
+PART.2: O por el campus virtual o por
+la página web de la universidad,
+pero ni idea.
+
+44
+00:01:19,119 --> 00:01:21,279
+PART.1: Yo no estoy segura, pero
+como en diciembre, creo.
+
+45
+00:01:21,439 --> 00:01:22,159
+PART.2: Sí, sí.
+
+46
+00:01:22,239 --> 00:01:23,999
+PART.2: Como un puñado de tiempo atrás.
+
+47
+00:01:24,079 --> 00:01:26,439
+PART.1: Sí. Fue como que mandé un
+correo para informarme.
+
+48
+00:01:26,239 --> 00:01:27,079
+PART.2: Exacto.
+
+49
+00:01:27,159 --> 00:01:29,439
+PART.1: Ni siquiera me inscribí
+ni nada y ahora me hablaron.
+
+50
+00:01:29,039 --> 00:01:31,279
+PART.2: Ah, yo sí que me
+inscribí, dije: "Me da igual".
+
+51
+00:01:32,159 --> 00:01:32,759
+PART.1: Claro.
+
+52
+00:01:32,919 --> 00:01:33,479
+PART.2: Sí.
+
+53
+00:01:34,119 --> 00:01:38,279
+PART.2: Es que ha pasado bastante
+tiempo desde la primera vez,
+supongo.
+
+54
+00:01:38,399 --> 00:01:44,359
+PART.2: Y, además, todo el rato
+hemos hablado con Cristina
+y claro, esta mañana estábamos
+sentados ahí abajo
+y no sabíamos a quién tenía...
+
+55
+00:01:44,679 --> 00:01:46,399
+PART.2: ¿Sabes? Nosotros nos
+esperábamos a una chica.
+
+56
+00:01:46,919 --> 00:01:47,559
+PART.1: Claro, claro.
+
+57
+00:01:47,839 --> 00:01:49,399
+PART.1: Cristina es como la
+coordinadora, ¿no?
+
+58
+00:01:49,159 --> 00:01:49,999
+PART.2: Sí, sí.
+
+59
+00:01:49,479 --> 00:01:50,079
+PART.1: La jefa.
+
+60
+00:01:50,159 --> 00:01:53,959
+PART.1: Claro, entonces ella se
+encarga de armar todo y los chicos
+vienen a grabar.
+
+61
+00:01:53,079 --> 00:01:55,519
+PART.2: Ya, como del proyecto,
+supongo.
+
+62
+00:01:55,599 --> 00:01:56,279
+PART.1: Claro.
+
+63
+00:01:56,759 --> 00:01:58,479
+PART.2: Que me parece muy
+interesante, la verdad.
+
+64
+00:01:58,799 --> 00:01:59,759
+PART.1: A mí también.
+
+65
+00:02:01,399 --> 00:02:02,799
+PART.2: ¿Y tú qué estudias?
+
+66
+00:02:02,879 --> 00:02:04,839
+PART.2: O sea, o estudiaste
+o estás trabajando.
+
+67
+00:02:04,919 --> 00:02:09,359
+PART.1: Bueno, yo ya terminé hace
+nada, hace dos semanas mi máster
+de profesora de español.
+
+68
+00:02:09,439 --> 00:02:09,999
+PART.2: ¿Qué me dices?
+
+69
+00:02:10,079 --> 00:02:10,519
+PART.1: Sí.
+
+70
+00:02:10,599 --> 00:02:11,039
+PART.2: Bua, qué fuerte.
+
+71
+00:02:11,119 --> 00:02:12,039
+PART.1: Que lo hice en la UB.
+
+72
+00:02:12,239 --> 00:02:13,559
+PART.2: ¿Aquí en la de filología?
+
+73
+00:02:13,679 --> 00:02:15,879
+PART.1: No, lo hacen en
+educación, en Mundet.
+
+74
+00:02:16,039 --> 00:02:16,999
+PART.2: Ah, en Mundet.
+
+75
+00:02:17,159 --> 00:02:19,519
+PART.2: Pero cuando estudias filología
+española era aquí.
+
+76
+00:02:19,599 --> 00:02:21,839
+PART.1: Claro, es que no estudié
+filología aquí, porque yo soy de
+Chile.
+
+77
+00:02:21,919 --> 00:02:22,839
+PART.2: Ah, eres de Chile.
+
+78
+00:02:23,199 --> 00:02:24,479
+PART.2: Sí, ya te pillaba de fuera.
+
+79
+00:02:24,559 --> 00:02:25,719
+PART.1: El acento no es de aquí,
+claro.
+
+80
+00:02:26,079 --> 00:02:27,199
+PART.1: Y vine a hacer el máster.
+
+81
+00:02:27,279 --> 00:02:29,599
+PART.1: Porque bueno, acá en España
+es solamente como máster.
+
+82
+00:02:29,719 --> 00:02:30,199
+PART.2: Ah, ¿sí?
+
+83
+00:02:30,279 --> 00:02:30,919
+PART.1: En Latinoamérica
+no existe.
+
+84
+00:02:30,999 --> 00:02:31,999
+PART.2: ¿No existe como máster?
+
+85
+00:02:32,079 --> 00:02:32,879
+PART.1: Que yo sepa, no.
+
+86
+00:02:32,959 --> 00:02:35,359
+PART.1: Solo diplomado, cosas así,
+cursos...
+
+87
+00:02:35,439 --> 00:02:36,439
+PART.2: ¿Y posgrados?
+
+88
+00:02:36,679 --> 00:02:40,039
+PART.1: Pero claro, no son
+habilitadores para investigación,
+¿sabes?
+
+89
+00:02:40,119 --> 00:02:40,679
+PART.2: Vale.
+
+90
+00:02:40,439 --> 00:02:42,279
+PART.1: Solamente como cursos
+como para trabajar.
+
+91
+00:02:42,519 --> 00:02:43,279
+PART.2: Vale, vale.
+
+92
+00:02:43,359 --> 00:02:44,959
+PART.1: Así que, me inscribí
+aquí.
+
+93
+00:02:45,119 --> 00:02:46,439
+PART.1: Bueno, con una beca de Chile.
+
+94
+00:02:46,759 --> 00:02:50,079
+PART.1: Y ya se me termina el plazo, ya
+terminé y todo, ahora tengo que
+volver.
+
+95
+00:02:50,519 --> 00:02:52,799
+PART.2: Te vas aprobado todo, te
+lo has sacado todo.
+
+96
+00:02:51,799 --> 00:02:53,719
+PART.1: Sí, todo bien,
+todo bien, sí.
+
+97
+00:02:53,879 --> 00:02:54,999
+PART.2: Y ¿qué tal?
+
+98
+00:02:55,119 --> 00:02:56,839
+PART.2: Porque, tú has obtenido beca.
+
+99
+00:02:57,119 --> 00:03:03,039
+PART.2: Pero yo, por ejemplo, si quiero
+hacer, o sea, si soy extranjera y
+quiero hacer el máster aquí, ¿sabes?
+
+100
+00:03:03,159 --> 00:03:04,119
+PART.2: Son supercaros.
+
+101
+00:03:04,199 --> 00:03:04,639
+PART.1: Sí.
+
+102
+00:03:04,719 --> 00:03:05,839
+PART.2: Es como que el doble o...
+
+103
+00:03:05,919 --> 00:03:06,679
+PART.1: Sí, el doble.
+
+104
+00:03:06,759 --> 00:03:08,639
+PART.2: Es que me parece brutal,
+no lo entiendo.
+
+105
+00:03:08,719 --> 00:03:12,039
+PART.2: Si encima que vienes de fuera,
+¿tienes que pagar todavía más?
+
+106
+00:03:12,119 --> 00:03:14,239
+PART.1: Encima que tienes que
+pagarte la vida, los alquileres...
+
+107
+00:03:13,639 --> 00:03:14,559
+PART.2: Ya, ya, ya.
+
+108
+00:03:14,919 --> 00:03:15,719
+PART.1: Que es carísimo, pero
+bueno.
+
+109
+00:03:15,799 --> 00:03:17,479
+PART.2: Y luego que las becas
+tampoco es que ayuden mucho.
+
+110
+00:03:17,599 --> 00:03:19,719
+PART.1: Bueno, la mía es muy
+buena, mi beca es muy buena.
+
+111
+00:03:19,279 --> 00:03:21,319
+PART.2: Pero ¿la tuya es de aquí
+o beca de Chile?
+
+112
+00:03:21,119 --> 00:03:22,639
+PART.1: No, de Chile, de Chile.
+
+113
+00:03:22,719 --> 00:03:27,039
+PART.1: Es una beca como de formación de
+capital humano avanzado, entonces es
+muy competitiva.
+
+114
+00:03:27,159 --> 00:03:27,879
+PART.2: ¿Formación de qué?
+
+115
+00:03:27,959 --> 00:03:30,039
+PART.1: De capital humano
+avanzado, ese es
+el término.
+
+116
+00:03:30,359 --> 00:03:34,759
+PART.1: Es como vamos a formar másteres y
+doctorados para el país, ¿sabes?
+
+117
+00:03:34,959 --> 00:03:36,359
+PART.2: Ah, claro, vale, vale.
+
+118
+00:03:35,799 --> 00:03:36,719
+PART.1: Esa es como la idea.
+
+119
+00:03:36,919 --> 00:03:39,399
+PART.2: Entonces por eso ayudan
+un montón y subvencionan muchísimo.
+
+120
+00:03:39,519 --> 00:03:44,639
+PART.1: Montón, a mí me dan
+dinero de manutención, me pagan la
+matrícula, los créditos, todo.
+
+121
+00:03:43,719 --> 00:03:44,719
+PART.2: ¿Te han pagado la
+matrícula?
+
+122
+00:03:44,719 --> 00:03:46,039
+PART.1: A mí me pagaron todo.
+
+123
+00:03:44,999 --> 00:03:45,679
+PART.2: ¡Qué dices!
+
+124
+00:03:46,079 --> 00:03:46,719
+PART.2: ¿Y si suspendes?
+
+125
+00:03:47,199 --> 00:03:48,319
+PART.1: Tengo que devolverla.
+
+126
+00:03:49,159 --> 00:03:53,199
+PART.1: Bueno, hay algunos
+recursos pero tengo que devolver el
+dinero que me han dado si suspendo.
+
+127
+00:03:53,479 --> 00:04:00,719
+PART.2: No, pero claro, quiero
+decir, si suspendes una asignatura,
+por ejemplo, luego el siguiente año
+tendrías que costeártela tú,
+ellos ya no te ayudan.
+
+128
+00:04:00,799 --> 00:04:01,799
+PART.1: Claro, ya no me ayudan.
+
+129
+00:04:02,039 --> 00:04:04,519
+PART.1: Igual, la beca para el máster el
+máximo es de dos años.
+
+130
+00:04:04,599 --> 00:04:07,319
+PART.1: Y aquí los
+masters son generalmente son de año,
+año y medio.
+
+131
+00:04:07,639 --> 00:04:14,319
+PART.1: El mío era de un año y
+medio y yo lo extendí para hacer la
+tesis en, o sea, el TFM, en
+seis meses más, con más tiempo.
+
+132
+00:04:13,599 --> 00:04:16,719
+PART.2: Claro, un poco más
+"chill", con tranquilidad y tal.
+
+133
+00:04:15,719 --> 00:04:17,719
+PART.1: Claro, y una buena
+investigación.
+
+134
+00:04:17,799 --> 00:04:18,399
+PART.2: Claro.
+
+135
+00:04:18,839 --> 00:04:26,359
+PART.1: Así que ya llevo por dos
+años, pero si me hubiese pasado eso,
+yo creo que puedo pedir como una
+subvención pagarme yo la vida y los
+otros meses que tenga que...
+
+136
+00:04:26,799 --> 00:04:30,439
+PART.2: Pero claro, ellos te van
+ayudando para seguir, para llevar a
+cabo tu trabajo, ¿no?
+
+137
+00:04:30,559 --> 00:04:31,279
+PART.1: Claro.
+
+138
+00:04:32,599 --> 00:04:33,279
+PART.2: Guau.
+
+139
+00:04:33,359 --> 00:04:34,159
+PART.1: Está muy bien.
+
+140
+00:04:34,239 --> 00:04:39,279
+PART.1: Creo que México también tiene una
+beca así, Colombia, no son como
+ministeriales, son como del Gobierno.
+
+141
+00:04:40,199 --> 00:04:47,239
+PART.1: Pero como te digo es muy
+difícil sacar una, o sea, yo tenía
+muy buenas notas en el grado y por
+eso saqué la beca, pero si no
+fuese...
+
+142
+00:04:47,319 --> 00:04:49,879
+PART.2: Pero ya, ya,
+privilegiados, claro.
+
+143
+00:04:49,559 --> 00:04:50,359
+PART.1: Claro.
+
+144
+00:04:51,319 --> 00:04:52,999
+PART.2: Pues qué bien,
+me alegro mucho.
+
+145
+00:04:52,039 --> 00:04:55,399
+PART.1: Porque no te miraban los
+recursos económicos tuyos, sino que
+te la dan...
+
+146
+00:04:56,079 --> 00:04:57,239
+PART.1: Eso si es un problema.
+
+147
+00:04:56,759 --> 00:05:01,799
+PART.2: Pero a ver, pero tienen
+que mirarte tanto lo que sacas como
+tus recursos económicos.
+
+148
+00:05:01,999 --> 00:05:02,999
+PART.1: Pero esta no.
+
+149
+00:05:03,759 --> 00:05:07,119
+PART.2: Porque claro, puedes ser
+supermillonario y también puedes ser
+superlisto, ¿sabes?
+
+150
+00:05:07,199 --> 00:05:13,679
+PART.2: Entonces le estás
+quitando una beca a una persona que
+quizás es un poquito menos lista en
+cuanto a notas y no se las pueda
+pagar.
+
+151
+00:05:13,879 --> 00:05:14,399
+PART.1: Exacto.
+
+152
+00:05:14,479 --> 00:05:17,399
+PART.1: Ahí es un problema serio, porque
+hay hijos de ministros que se les da
+la beca.
+
+153
+00:05:17,479 --> 00:05:19,599
+PART.2: Ah, joder.
+

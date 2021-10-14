@@ -1,0 +1,125 @@
+97
+00:03:03,565 --> 00:03:04,645
+PART.2: Vale, dime, dime.
+
+98
+00:03:07,885 --> 00:03:09,405
+PART.1: No se puede domesticar, es...
+
+99
+00:03:12,805 --> 00:03:16,125
+PART.1: ¿Pesa más de 100 kilos este
+animal?
+
+100
+00:03:17,965 --> 00:03:19,325
+PART.2: La verdad es que no...
+
+101
+00:03:20,005 --> 00:03:20,965
+PART.2: Sí que pesará más.
+
+102
+00:03:21,045 --> 00:03:21,685
+PART.2: Sí, sí.
+
+103
+00:03:21,445 --> 00:03:22,605
+PART.1: Más de 100 kilos.
+
+104
+00:03:22,125 --> 00:03:23,045
+PART.2: Yo creo que sí, sí.
+
+105
+00:03:23,765 --> 00:03:24,245
+PART.1: Vale.
+
+106
+00:03:25,805 --> 00:03:27,125
+PART.1: ¿Más de 100 kilos pesa?
+
+107
+00:03:27,365 --> 00:03:28,085
+PART.2: Es que no...
+
+108
+00:03:29,365 --> 00:03:32,045
+PART.2: Ahora me lo imagino en pequeño y
+no me lo imagino tan grande.
+
+109
+00:03:32,125 --> 00:03:34,085
+PART.2: No, pero irá por ahí.
+
+110
+00:03:34,165 --> 00:03:35,965
+PART.2: Mucho más, no creo que pese.
+
+111
+00:03:36,045 --> 00:03:36,725
+PART.1: Vale, vale.
+
+112
+00:03:38,085 --> 00:03:39,125
+PART.2: Entonces, si no es una...
+
+113
+00:03:40,205 --> 00:03:41,045
+PART.2: ¿Una ternera?
+
+114
+00:03:41,565 --> 00:03:43,805
+PART.1: No, la ternera no es de la
+familia, pero no es una ternera.
+
+115
+00:03:43,885 --> 00:03:46,005
+PART.1: La ternera es un...
+
+116
+00:03:46,525 --> 00:03:48,365
+PART.1: La ternera es una vaca.
+
+117
+00:03:46,845 --> 00:03:47,565
+PART.2: Una vaca.
+
+118
+00:03:48,525 --> 00:03:49,205
+PART.2: Ya, vaca.
+
+119
+00:03:49,285 --> 00:03:50,725
+PART.1: Pero las vacas pesan 300 kilos.
+
+120
+00:03:50,365 --> 00:03:51,645
+PART.2: Ah, sí, es verdad, claro.
+
+121
+00:03:52,445 --> 00:03:53,205
+PART.2: ¿De la oveja?
+
+122
+00:03:53,285 --> 00:03:54,165
+PART.2: Bueno, nada.
+
+123
+00:03:54,845 --> 00:03:56,365
+PART.2: Uf. Estoy fatal.
+
+124
+00:03:56,445 --> 00:03:57,125
+PART.2: No caigo.
+
+125
+00:03:57,685 --> 00:03:59,765
+PART.1: Me has preguntado una oveja y te
+he dicho de la familia.
+
+126
+00:03:59,845 --> 00:04:01,405
+PART.2: Sí, me has dicho de la familia de
+las ovejas.
+

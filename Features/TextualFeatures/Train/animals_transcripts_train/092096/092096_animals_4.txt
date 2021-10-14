@@ -1,0 +1,56 @@
+77
+00:04:03,349 --> 00:04:05,349
+PART.1: "Eso no lo sé, ninguno".
+
+78
+00:04:05,909 --> 00:04:09,109
+PART.1: A ver, probemos con colores.
+
+79
+00:04:11,389 --> 00:04:14,389
+PART.1: ¿Es anaranjado?
+
+80
+00:04:15,509 --> 00:04:15,869
+PART.2: No.
+
+81
+00:04:24,309 --> 00:04:25,509
+PART.2: Es un mamífero, tiene pelo.
+
+82
+00:04:29,029 --> 00:04:29,629
+PART.1: Y veneno.
+
+83
+00:04:30,469 --> 00:04:35,909
+PART.2: Tiene veneno, es carnívoro,
+pero la presa es pequeña, es más o menos
+de este tamaño.
+
+84
+00:04:43,789 --> 00:04:44,909
+PART.1: No sé, a ver...
+
+85
+00:04:46,509 --> 00:04:47,109
+PART.1: OK, OK.
+
+86
+00:04:50,069 --> 00:04:52,629
+PART.1: ¿Utiliza veneno él para cazar?
+
+87
+00:04:51,829 --> 00:04:52,189
+PART.2: No.
+
+88
+00:04:52,789 --> 00:04:55,429
+PART.1: No, no utiliza veneno para
+cazar.
+
+89
+00:04:56,509 --> 00:04:57,749
+PART.2: Es una consecuencia el
+veneno.
+

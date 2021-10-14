@@ -1,0 +1,59 @@
+197
+00:15:02,663 --> 00:15:03,943
+PART.2: B:
+Tienes una pregunta que hacer.
+
+198
+00:15:04,023 --> 00:15:07,503
+PART.1: A:
+Tipos mapache. No, pero es grande,
+has dicho que es grande, es un
+bicho.
+
+199
+00:15:07,583 --> 00:15:09,023
+PART.1: A: Sí, sí.
+
+200
+00:15:10,423 --> 00:15:11,903
+PART.1: A: No existe.
+
+201
+00:15:16,143 --> 00:15:18,063
+PART.2: B: El mío no sé cuál es.
+
+202
+00:15:28,823 --> 00:15:30,183
+PART.2: B: ¿Soy peligroso?
+
+203
+00:15:30,263 --> 00:15:31,023
+PART.1: A: No.
+
+204
+00:15:31,103 --> 00:15:32,023
+PART.2: B: ¿No?
+
+205
+00:15:35,463 --> 00:15:36,663
+PART.2: B: Bueno.
+
+206
+00:15:42,183 --> 00:15:43,823
+PART.1: A:
+Creo que nos tenemos que rendir.
+
+207
+00:15:43,903 --> 00:15:49,463
+SUPERVISOR: No, que se me ha quedado sin
+batería la GoPro. Entonces no
+sé cuándo acaba esto.
+
+208
+00:15:51,063 --> 00:15:52,303
+PART.2: B: ¿Qué tenemos?
+
+209
+00:15:52,383 --> 00:15:54,543
+PART.1: A: Ya, queda un minuto.
+

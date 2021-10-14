@@ -1,0 +1,86 @@
+20
+00:01:02,026 --> 00:01:04,306
+PART.1: Había una así, pero no sé si es.
+
+21
+00:01:04,586 --> 00:01:06,026
+PART.1: Creo que son dos como esta.
+
+22
+00:01:06,106 --> 00:01:07,786
+PART.2: Deberían ir pegados, ¿no?
+
+23
+00:01:18,546 --> 00:01:20,026
+PART.1: Verás como hay una pieza perdida.
+
+24
+00:01:21,346 --> 00:01:22,706
+PART.1: Sería un poco...
+
+25
+00:01:24,666 --> 00:01:25,546
+PART.2: Tal vez.
+
+26
+00:01:25,626 --> 00:01:26,746
+PART.1: Oye, pues...
+
+27
+00:01:26,826 --> 00:01:28,746
+PART.2: Está esta que es de otro color.
+
+28
+00:01:28,826 --> 00:01:29,866
+PART.1: No. Esa no es.
+
+29
+00:01:29,946 --> 00:01:31,226
+PART.1: Ah, mira, aquí.
+
+30
+00:01:31,346 --> 00:01:32,306
+PART.2: Estaba abajo.
+
+31
+00:01:34,506 --> 00:01:35,426
+PART.2: Se unen.
+
+32
+00:01:36,106 --> 00:01:37,146
+PART.1: Uno por aquí.
+
+33
+00:01:39,506 --> 00:01:40,546
+PART.1: Y el otro por aquí.
+
+34
+00:01:43,706 --> 00:01:44,866
+PART.2: Y sigue esta.
+
+35
+00:01:45,666 --> 00:01:47,346
+PART.2: Una que lleva... No, esa no es.
+
+36
+00:01:47,426 --> 00:01:49,066
+PART.1: Sí. Pensaba que era la que habías
+cogido.
+
+37
+00:01:50,946 --> 00:01:52,066
+PART.2: Es esta.
+
+38
+00:01:53,426 --> 00:01:55,026
+PART.1: Esto va delante, ¿no? ¿Así?
+
+39
+00:01:55,186 --> 00:01:56,026
+PART.2: Ajá.
+
+40
+00:01:56,346 --> 00:02:02,866
+PART.2: Después sigue esta y un cono
+naranja.
+

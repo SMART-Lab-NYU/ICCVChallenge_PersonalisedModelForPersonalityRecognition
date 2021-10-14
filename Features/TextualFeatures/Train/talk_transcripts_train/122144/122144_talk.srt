@@ -1,0 +1,441 @@
+1
+00:00:00,940 --> 00:00:03,100
+PART.1: Vale, pues como quieras.
+
+2
+00:00:03,180 --> 00:00:04,020
+PART.1: Me llamo Adrián.
+
+3
+00:00:04,540 --> 00:00:05,340
+PART.1: ¿Tú cómo te llamas?
+
+4
+00:00:05,420 --> 00:00:06,340
+PART.2: Yo me llamo Luis.
+
+5
+00:00:07,220 --> 00:00:09,300
+PART.2: Soy parte del equipo de aquí.
+
+6
+00:00:09,380 --> 00:00:13,020
+PART.2: Hace 15 días que llegué de
+México.
+
+7
+00:00:13,100 --> 00:00:18,740
+PART.2: Voy a estar aquí un año de
+estancia para estudiar con ellos y
+aprender lo más que se pueda.
+
+8
+00:00:18,820 --> 00:00:19,740
+PART.1: ¿Qué estás estudiando?
+
+9
+00:00:20,660 --> 00:00:26,460
+PART.2: En México un doctorado en
+Comunicaciones y Electrónica y aquí
+vengo a aprender de "Deep Learning".
+
+10
+00:00:26,740 --> 00:00:29,500
+PART.2: Aprendizaje profundo sobre redes
+neuronales.
+
+11
+00:00:29,780 --> 00:00:30,660
+PART.1: Ostras.
+
+12
+00:00:32,620 --> 00:00:34,900
+PART.1: Hablando de redes neuronales,
+yo estudio Psicología.
+
+13
+00:00:35,420 --> 00:00:36,660
+PART.2: Ah, vale.
+
+14
+00:00:36,740 --> 00:00:39,780
+PART.1: No es a un nivel tan complejo,
+pero va por el camino.
+
+15
+00:00:39,860 --> 00:00:43,860
+PART.2: Sí, sí. Al final, el cerebro
+humano es muy difícil de descifrar.
+
+16
+00:00:41,980 --> 00:00:42,700
+PART.1: Sí, sí.
+
+17
+00:00:44,540 --> 00:00:45,180
+PART.2: ¿Y en qué semes...?
+
+18
+00:00:45,260 --> 00:00:47,260
+PART.2: Bueno, no sé si serán semestres
+o...
+
+19
+00:00:47,340 --> 00:00:48,700
+PART.1: Sí, bueno, son...
+
+20
+00:00:49,420 --> 00:00:52,740
+PART.1: Aquí va por años, pero se divide
+en dos semestres cada año.
+
+21
+00:00:53,140 --> 00:00:55,300
+PART.1: Estoy acabando el segundo
+semestre del primer año.
+
+22
+00:00:55,380 --> 00:00:56,940
+PART.2: El primer año. Okey.
+
+23
+00:00:57,500 --> 00:00:59,260
+PART.2: ¿Son tres o cuatro años?
+
+24
+00:00:59,340 --> 00:00:59,660
+PART.1: Cuatro.
+
+25
+00:00:59,740 --> 00:01:00,620
+PART.2: Cuatro.
+
+26
+00:01:00,940 --> 00:01:01,900
+PART.2: Perfecto.
+
+27
+00:01:02,540 --> 00:01:10,420
+PART.1: Me parece que a partir del
+tercero es cuando empiezan las
+optativas y el cuarto año es el
+trabajo final de grado.
+
+28
+00:01:10,980 --> 00:01:13,860
+PART.1: Las asignaturas que tú cojas,
+depende de lo que te quieras
+especializar.
+
+29
+00:01:14,980 --> 00:01:17,940
+PART.2: ¿Y por qué salió ese interés por
+la Psicología?
+
+30
+00:01:18,300 --> 00:01:19,300
+PART.1: Desde siempre.
+
+31
+00:01:19,380 --> 00:01:19,740
+PART.2: ¿Sí?
+
+32
+00:01:19,820 --> 00:01:24,580
+PART.1: Desde pequeño he tenido
+curiosidad, en plan, como funciona
+el cuerpo humano...
+
+33
+00:01:26,180 --> 00:01:36,740
+PART.1: Hasta el Bachillerato siempre
+había tenido la idea de hacer
+medicina, pero como me quería
+especializar en psiquiatría pues
+pensé en tirar más por la vertiente
+de la psicología.
+
+34
+00:01:37,380 --> 00:01:39,540
+PART.1: Porque la nota no me llegaba para
+medicina ni de broma.
+
+35
+00:01:40,060 --> 00:01:41,460
+PART.1: Y dije: "Pues allá que voy".
+
+36
+00:01:42,380 --> 00:01:46,180
+PART.1: Y ahora que estoy en Psicología
+no tengo muy claro para donde tirar.
+
+37
+00:01:46,580 --> 00:01:56,460
+PART.1: Sí que tengo, más o menos, la
+idea de que me gustaría hacer algo
+de Psicología Clínica o Criminal,
+pero está en el airea aún.
+
+38
+00:01:56,540 --> 00:01:58,100
+PART.2: No está bien decidido.
+
+39
+00:01:58,660 --> 00:02:02,260
+PART.1: Depende de como avance
+la carrera y de como me vaya.
+
+40
+00:02:04,100 --> 00:02:05,140
+PART.1: ¿Tú cuántos años tienes?
+
+41
+00:02:05,220 --> 00:02:06,660
+PART.2: Yo tengo 32 años.
+
+42
+00:02:07,140 --> 00:02:10,660
+PART.2: Tengo 32 años y llevo dos años en
+el doctorado.
+
+43
+00:02:11,260 --> 00:02:17,340
+PART.2: Pude sacar la mitad y aproveché
+la oportunidad de venir para acá,
+conocer Barcelona y trabajar.
+
+44
+00:02:17,780 --> 00:02:20,380
+PART.1: Yo creo que es de las mejores
+ciudades de...
+
+45
+00:02:21,220 --> 00:02:23,620
+PART.1: Si tenías la opción de venir a...
+
+46
+00:02:24,020 --> 00:02:25,940
+PART.1: Bueno, España en general, no sé.
+
+47
+00:02:26,020 --> 00:02:30,620
+PART.1: Si podías ir a España, entre
+Madrid y Barcelona las dos ciudades
+están muy bien a la hora de venir.
+
+48
+00:02:31,620 --> 00:02:38,780
+PART.1: Pero si es en plan Cataluña, de
+Cataluña la mejor ciudad en cuanto a
+cultura y...
+
+49
+00:02:39,500 --> 00:02:42,380
+PART.1: En mi opinión personal, eh.
+A lo mejor hay gente que discrepa.
+
+50
+00:02:42,460 --> 00:02:43,980
+PART.1: Yo creo que Barcelona es lo
+mejor.
+
+51
+00:02:44,060 --> 00:02:49,060
+PART.2: Sí, sí. Lo que he visto y he
+conocido es muy bonita la ciudad.
+
+52
+00:02:49,340 --> 00:02:53,580
+PART.2: Otra cultura, los edificios son
+muy bonitos.
+
+53
+00:02:53,660 --> 00:02:55,620
+PART.2: Antiguos, pero bien cuidados.
+
+54
+00:02:55,700 --> 00:02:58,100
+PART.2: Limpia, segura.
+
+55
+00:02:58,420 --> 00:02:59,780
+PART.1: Eso es muy importante.
+
+56
+00:03:00,340 --> 00:03:03,420
+PART.2: De donde yo vengo,
+la ciudad no es segura.
+
+57
+00:03:03,780 --> 00:03:06,300
+PART.2: No puedes salir por la noche como
+sales aquí.
+
+58
+00:03:06,380 --> 00:03:08,100
+PART.1: Bueno, depende de la zona.
+
+59
+00:03:10,420 --> 00:03:12,300
+PART.1: Has dicho que eras de México,
+pero...
+
+60
+00:03:12,380 --> 00:03:13,740
+PART.2: De la ciudad de México.
+
+61
+00:03:13,820 --> 00:03:14,700
+PART.1: De la ciudad.
+
+62
+00:03:14,780 --> 00:03:16,260
+PART.2: Sí. Ahí si es...
+
+63
+00:03:16,820 --> 00:03:24,460
+PART.2: Yo vivo en el norte y es donde
+más es complicado estar de noche
+y...
+
+64
+00:03:24,540 --> 00:03:28,100
+PART.1: Bueno, hay una inseguridad que
+aquí pues no encuentras.
+
+65
+00:03:28,180 --> 00:03:31,740
+PART.1: Aquí, por ejemplo, la gente sale
+a pasear por la noche sin problemas.
+
+66
+00:03:31,820 --> 00:03:37,980
+PART.1: Yo vivo en una zona que está
+relativamente apartada de la ciudad,
+porque no vivo hacia el centro, sino
+que estoy...
+
+67
+00:03:38,940 --> 00:03:44,460
+PART.1: ¿Sabes dónde está la universidad
+de Barcelona, pero de Mundet?
+
+68
+00:03:45,460 --> 00:03:47,900
+PART.2: ¿En el Camp Nou? No.
+
+69
+00:03:49,460 --> 00:03:51,060
+PART.1: ¿El Palacio de las Heuras?
+
+70
+00:03:51,140 --> 00:03:51,980
+PART.2: No, todavía no.
+
+71
+00:03:52,060 --> 00:03:54,420
+PART.1: Está tocando Collserola,
+la montaña.
+
+72
+00:03:54,500 --> 00:03:56,060
+PART.2: Ah, okey.
+
+73
+00:03:56,140 --> 00:04:01,140
+PART.1: Es una zona que es todo montaña y
+luego las casas que hay están a las
+afueras.
+
+74
+00:04:02,020 --> 00:04:06,500
+PART.1: De hecho, allí consideramos que
+es como un pueblo, no es la ciudad.
+
+75
+00:04:07,220 --> 00:04:15,620
+PART.1: Y aún así, hay noches
+que me apetece salir un rato a
+la calle para despejarme y puedo
+salir tranquilamente a las diez y
+media, y no me pasa nada.
+
+76
+00:04:17,420 --> 00:04:20,180
+PART.2: No, si es muy distinto.
+
+77
+00:04:20,660 --> 00:04:21,940
+PART.2: Eso es lo que he notado aquí.
+
+78
+00:04:22,580 --> 00:04:29,340
+PART.2: El ruido de la ciudad, aquí los
+coches no tocan el claxon.
+
+79
+00:04:29,420 --> 00:04:33,660
+PART.1: No, pero también, yo creo,
+es un tema de cultura.
+
+80
+00:04:35,180 --> 00:04:40,220
+PART.1: Si te vas a México, es un poco
+más que aquí, pero si te vas a
+China, es una burrada el claxon.
+
+81
+00:04:40,780 --> 00:04:42,500
+PART.1: Para cualquier cosa pican el
+claxon.
+
+82
+00:04:42,580 --> 00:04:45,020
+PART.2: Imagino que sí. Hay más gente
+y...
+
+83
+00:04:45,100 --> 00:04:52,700
+PART.2: En la ciudad de México el
+promedio es de como 28 millones de
+habitantes por día.
+
+84
+00:04:52,780 --> 00:04:55,300
+PART.2: Vienen de afuera y trabajan,
+entonces...
+
+85
+00:04:54,940 --> 00:04:55,900
+PART.1: Es una burrada.
+
+86
+00:04:56,220 --> 00:04:57,500
+PART.2: Son muchísimas personas.
+
+87
+00:04:57,580 --> 00:05:08,900
+PART.2: La ciudad está llena de
+personas y aquí puedes estar
+tranquilo, montar en bici, caminar,
+el metro no va...
+
+88
+00:05:10,020 --> 00:05:10,820
+PART.1: No cabes.
+
+89
+00:05:10,900 --> 00:05:12,700
+PART.2: Es superdifícil, superdifícil.
+
+90
+00:05:13,140 --> 00:05:19,500
+PART.1: Aquí depende del metro, y en qué
+zonas, es así a veces, pero en
+general yo creo que la red de metro
+está muy bien montada.
+
+91
+00:05:19,580 --> 00:05:20,980
+PART.1: No tengo problemas.
+

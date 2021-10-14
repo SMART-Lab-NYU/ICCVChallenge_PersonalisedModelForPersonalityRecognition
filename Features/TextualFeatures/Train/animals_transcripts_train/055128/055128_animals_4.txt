@@ -1,0 +1,84 @@
+94
+00:04:01,772 --> 00:04:02,444
+PART.1: Sí.
+
+95
+00:04:03,477 --> 00:04:05,165
+PART.1: Sí, però amb matisos.
+
+96
+00:04:05,640 --> 00:04:06,232
+PART.2: Què vol dir amb matisos?
+
+97
+00:04:07,149 --> 00:04:13,150
+PART.1: Que menja un tipu d’herba, un tipu de vegetal concret.
+
+98
+00:04:13,482 --> 00:04:15,410
+PART.2: Vale, però és herbívor.
+
+99
+00:04:15,284 --> 00:04:17,500
+PART.1: És herbívor, sí, suposo que es pot dir així.
+
+100
+00:04:20,176 --> 00:04:21,241
+PART.2: És gran o petit?
+
+101
+00:04:21,671 --> 00:04:22,407
+PART.2: És gran?
+
+102
+00:04:22,547 --> 00:04:23,066
+PART.1: Sí.
+
+103
+00:04:23,324 --> 00:04:24,052
+PART.2: Sí.
+
+104
+00:04:27,797 --> 00:04:28,413
+PART.2: N'hi ha a Europa?
+
+105
+00:04:31,085 --> 00:04:32,740
+PART.1: No és d'Europa, aquest tipus.
+
+106
+00:04:33,789 --> 00:04:34,189
+PART.2: Vale.
+
+107
+00:04:35,052 --> 00:04:35,381
+PART.2: És de Xina?
+
+108
+00:04:36,158 --> 00:04:36,517
+PART.1: Sí.
+
+109
+00:04:36,594 --> 00:04:37,658
+PART.1: És un Ós panda?
+
+110
+00:04:37,693 --> 00:04:37,778
+PART.1: Sí.
+
+111
+00:04:39,860 --> 00:04:41,323
+PART.1: Com ho has sapigut?
+
+112
+00:04:41,824 --> 00:04:45,576
+PART.2: Perquè, quan has dit lo del vegetal concret, això no hauries d'haver dit.
+
+113
+00:04:45,904 --> 00:04:46,480
+PART.1: Ah.
+
+114
+00:04:46,995 --> 00:04:48,060
+PART.2: Però aleshores... no sé
+

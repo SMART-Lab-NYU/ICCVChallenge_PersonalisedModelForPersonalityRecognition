@@ -1,0 +1,46 @@
+60
+00:03:01,391 --> 00:03:07,071
+PART.1: Es que la mayoría de mascotas son
+mamíferos, eh, técnicamente.
+
+61
+00:03:07,151 --> 00:03:07,711
+PART.2: Sí.
+
+62
+00:03:07,791 --> 00:03:09,991
+PART.1: Bueno, menos peces, tortugas...
+
+63
+00:03:11,271 --> 00:03:13,031
+PART.1: Eh...
+
+64
+00:03:19,991 --> 00:03:20,991
+PART.1: Me quedan dos.
+
+65
+00:03:27,031 --> 00:03:29,391
+PART.1: Es que no caigo, no sé qué decir.
+
+66
+00:03:32,711 --> 00:03:33,711
+PART.1: Eh...
+
+67
+00:03:47,791 --> 00:03:52,591
+PART.1: Es más pequeño que un perro,
+es pseudodoméstico.
+
+68
+00:03:52,671 --> 00:03:53,391
+PART.2: Sí.
+
+69
+00:03:55,751 --> 00:03:57,111
+PART.1: No sé si es del bosque.
+
+70
+00:03:59,191 --> 00:04:01,231
+PART.2: Creo que no, o sea.
+

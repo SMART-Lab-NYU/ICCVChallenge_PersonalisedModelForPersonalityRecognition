@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:00,359
+PART.1: Vale, venga.
+
+2
+00:00:04,799 --> 00:00:05,999
+PART.1: Esta, ¿no?
+
+3
+00:00:09,199 --> 00:00:10,519
+PART.1: La vuelvo a poner.
+
+4
+00:00:16,239 --> 00:00:17,759
+PART.1: Me quedo la carta.
+
+5
+00:00:23,719 --> 00:00:26,479
+PART.1: Había que coger el
+que está en diferente color, ¿no?
+
+6
+00:00:27,559 --> 00:00:27,959
+PART.1: Ah, no.
+
+7
+00:00:28,039 --> 00:00:29,639
+PART.1: El que está en color
+correcto.
+
+8
+00:00:31,079 --> 00:00:32,079
+PART.1: Exacto, sí.
+
+9
+00:00:32,759 --> 00:00:34,279
+PART.2: Ni color ni forma, ¿no?
+
+10
+00:00:34,359 --> 00:00:35,239
+PART.1: Exacto.
+
+11
+00:00:37,839 --> 00:00:38,759
+PART.1: Madre mía.
+
+12
+00:00:44,759 --> 00:00:46,119
+PART.1: Este, que es lo que falta.
+
+13
+00:00:46,519 --> 00:00:47,239
+PART.2: Sí.
+
+14
+00:01:06,519 --> 00:01:07,519
+PART.1: Ese.
+
+15
+00:01:07,599 --> 00:01:08,599
+PART.2: Sí.
+
+16
+00:01:16,999 --> 00:01:17,559
+PART.1: Sí.
+
+17
+00:01:17,639 --> 00:01:18,239
+PART.2: Sí.
+
+18
+00:01:34,839 --> 00:01:35,559
+PART.1: Sí.
+
+19
+00:01:35,639 --> 00:01:36,119
+PART.2: No.
+
+20
+00:01:36,199 --> 00:01:37,239
+PART.2: Porque... No.
+
+21
+00:01:37,319 --> 00:01:38,479
+PART.1: Pues este.
+
+22
+00:01:38,479 --> 00:01:39,479
+PART.2: Es ese.
+
+23
+00:01:45,799 --> 00:01:46,799
+PART.1: Sí.
+
+24
+00:01:49,399 --> 00:01:50,399
+PART.1: La última.
+
+25
+00:02:01,479 --> 00:02:02,399
+PART.2: ¿Javi?
+
+26
+00:02:03,279 --> 00:02:04,559
+PART.1: Se ha ido a tomar un café.
+
+27
+00:02:05,439 --> 00:02:07,999
+PART.2: No está fuera mirando su "paper".
+
+28
+00:02:11,639 --> 00:02:14,719
+PART.2: Deberíamos tener un botón aquí.
+
+29
+00:02:15,399 --> 00:02:16,759
+PART.1: Para darle "electroshock".
+
+30
+00:02:18,159 --> 00:02:19,319
+PART.1: ¿Esto se podrá girar?
+
+31
+00:02:20,359 --> 00:02:21,239
+PART.2: Vale.
+
+32
+00:02:23,359 --> 00:02:25,519
+PART.2: Esto es para todo el mundo,
+¿no?
+
+33
+00:02:25,599 --> 00:02:27,479
+PART.2: No hay ninguna cosa mágica que...
+
+34
+00:02:27,559 --> 00:02:29,559
+PART.1: Hay gente trabajando en
+paralelizarlo.
+
+35
+00:02:30,919 --> 00:02:33,479
+PART.1: Y la forma de hacerlo
+es matemáticas.
+
+36
+00:02:33,559 --> 00:02:35,479
+PART.1: Tienes que saber mucho.
+
+37
+00:02:35,559 --> 00:02:38,759
+PART.1: Manejar algebraica muy bien
+para entenderlo.
+
+38
+00:02:38,959 --> 00:02:46,319
+PART.1: Ha habido muchos intentos, pero
+al final nada ha cuajado todavía.
+
+39
+00:02:46,399 --> 00:02:47,399
+PART.2: Vale.
+
+40
+00:02:48,719 --> 00:02:55,839
+PART.1: Hace poco, tres semanas, hubo
+aquí un seminario en la facultad y
+dimos una charla dos chicos.
+
+41
+00:02:56,319 --> 00:02:57,839
+PART.1: Uno que está haciendo
+la tesis y yo.
+
+42
+00:02:57,519 --> 00:02:58,199
+PART.2: ¿En serio?
+
+43
+00:02:59,039 --> 00:03:00,759
+PART.2: Debería hablar más con vosotros.
+
+44
+00:03:01,279 --> 00:03:02,999
+PART.1: De hecho, Casacuberta...
+
+45
+00:03:03,079 --> 00:03:03,879
+PART.1: ¿Conoces a Casacuberta?
+
+46
+00:03:03,959 --> 00:03:09,319
+PART.1: Es el decano de la
+facultad y quiere meter en el máster
+una asignatura con parte de
+homología persistente.
+
+47
+00:03:12,039 --> 00:03:15,839
+PART.1: Y el chico que vino a dar la
+charla está trabajando en eso de
+paralelizarlo.
+
+48
+00:03:17,359 --> 00:03:19,559
+PART.2: A mí, todo lo que tiene que ver
+con...
+

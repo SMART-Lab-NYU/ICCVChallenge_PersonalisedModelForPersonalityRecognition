@@ -1,0 +1,30 @@
+63
+00:03:01,578 --> 00:03:04,298
+PART.1: Menos mal, te he roto la
+racha.
+
+64
+00:03:05,578 --> 00:03:07,338
+PART.2: ¡No! ¡No!
+
+65
+00:03:07,818 --> 00:03:09,618
+PART.2: ¿Qué hago?
+
+66
+00:03:09,698 --> 00:03:11,338
+PART.2: Ya me has roto la racha.
+
+67
+00:03:11,418 --> 00:03:12,778
+PART.2: Sí, ya lo sé.
+
+68
+00:03:12,858 --> 00:03:14,858
+PART.1: Sí, estamos de acuerdo.
+
+69
+00:03:14,938 --> 00:03:17,578
+PART.1: Están cerca.
+Eso es medio segundo.
+

@@ -1,0 +1,64 @@
+23
+00:01:00,631 --> 00:01:02,591
+PART.2: ¿Y qué estás investigando?
+
+24
+00:01:02,871 --> 00:01:07,871
+PART.1: Este último año estaba en el
+instituto de robótica de la UPC, o
+sea, que hacía cosas parecidas a lo
+que hacéis vosotros.
+
+25
+00:01:10,591 --> 00:01:15,191
+PART.1: Pero antes yo lo que hacía era más
+de topología algebraica, que es una
+especie de geometría y tal, que aquí
+hace mucha gente.
+
+26
+00:01:15,271 --> 00:01:15,911
+PART.2: ¿En serio?
+
+27
+00:01:17,071 --> 00:01:21,111
+PART.1: Me metí un poco a mezclar
+topología algebraica con análisis de
+datos y...
+
+28
+00:01:21,591 --> 00:01:26,111
+PART.2: ¿Sabes que acabo de publicar
+exactamente sobre esto?
+
+29
+00:01:26,191 --> 00:01:28,591
+PART.1: ¿Ah, sí? ¿Sobre qué?
+
+30
+00:01:29,151 --> 00:01:43,191
+PART.2: Sobre... bueno, usamos
+"Persistent homology", ¿no? Para
+calcular los "Betti numbers" en unas
+redes que se están entrenando.
+
+31
+00:01:43,791 --> 00:01:52,991
+PART.2: Y lo estamos comparando con lo que
+está pasando con las cavidades en
+las redes que están aprendiendo
+versus las redes que están
+memorizando.
+
+32
+00:01:53,871 --> 00:01:57,271
+PART.1: Pero ¿el cálculo de qué es? Del
+grafo que sale...
+
+33
+00:01:57,511 --> 00:02:05,911
+PART.2: De un grafo... Un grafo funcional
+de la red. Estoy definiendo un grafo
+funcional de la red basado en la
+correlación prácticamente.
+

@@ -1,0 +1,704 @@
+﻿1
+00:00:00,000 --> 00:00:00,243
+PART.1: Ok.
+
+2
+00:00:00,323 --> 00:00:00,763
+PART.2: Ok.
+
+3
+00:00:00,763 --> 00:00:02,763
+PART.1: Ten questions.
+
+4
+00:00:02,763 --> 00:00:04,363
+PART.1: Ok, we can start.
+
+5
+00:00:07,643 --> 00:00:11,163
+PART.2: Is it a carnivore?
+
+6
+00:00:11,243 --> 00:00:12,243
+PART.1: A what?
+
+7
+00:00:12,243 --> 00:00:14,963
+PART.2: Carnivore, that eats only the animals.
+
+8
+00:00:17,243 --> 00:00:19,363
+PART.2: That eats only flesh
+or is it like a...
+
+9
+00:00:19,843 --> 00:00:24,763
+PART.1: I don't know,
+I don't think it eats flesh,
+does it?
+
+10
+00:00:26,963 --> 00:00:29,243
+PART.1: I am not sure,
+you can ask me another question.
+
+11
+00:00:30,363 --> 00:00:31,443
+PART.1: Something easier.
+
+12
+00:00:33,843 --> 00:00:35,443
+PART.2: Can it fly?
+
+13
+00:00:35,563 --> 00:00:36,563
+PART.1: Yes!
+
+14
+00:00:36,563 --> 00:00:38,563
+PART.2: Ok, that makes sense.
+
+15
+00:00:38,643 --> 00:00:42,443
+PART.1: It can fly, so, what about mine?
+Can it fly?
+
+16
+00:00:42,563 --> 00:00:43,563
+PART.2: No.
+
+17
+00:00:44,043 --> 00:00:45,563
+PART.1: Ok, that's enough.
+
+18
+00:00:55,043 --> 00:01:03,043
+PART.2: Does it eat with its paws?
+
+19
+00:01:03,963 --> 00:01:10,963
+PART.2: You know, some animals
+eat like pitting from the ground
+and some grab and then eat.
+
+20
+00:01:11,363 --> 00:01:15,043
+PART.2: Is it like using its paws
+while eating or...?
+
+21
+00:01:17,643 --> 00:01:21,163
+PART.2: No, you have to answer
+with yes or no so,
+does it use its paws to eat?
+
+22
+00:01:21,243 --> 00:01:23,163
+PART.2: Like its feet to eat?
+
+23
+00:01:23,843 --> 00:01:26,843
+PART.1: I think so,
+it has strong paws.
+
+24
+00:01:26,843 --> 00:01:28,843
+PART.2: Ok.
+
+25
+00:01:28,843 --> 00:01:29,843
+PART.2: You can go next.
+
+26
+00:01:29,843 --> 00:01:31,843
+PART.1: So mine does not fly.
+
+27
+00:01:33,443 --> 00:01:36,763
+PART.1: Does it have one color
+or does it have different colors?
+
+28
+00:01:38,963 --> 00:01:40,763
+PART.2: I should answer
+in yes or no or...?
+
+29
+00:01:40,763 --> 00:01:41,763
+PART.1: Really?
+
+30
+00:01:41,763 --> 00:01:44,243
+PART.2: It has more than one color.
+
+31
+00:01:45,243 --> 00:01:49,243
+PART.1: Ok, it has more than one color.
+
+32
+00:01:49,243 --> 00:01:50,243
+PART.2: Yes.
+
+33
+00:01:54,243 --> 00:01:55,963
+PART.1: Ok, your question.
+
+34
+00:02:00,243 --> 00:02:01,243
+PART.2: Does it hunt?
+
+35
+00:02:01,243 --> 00:02:02,243
+PART.1: Does it what?
+
+36
+00:02:02,243 --> 00:02:05,843
+PART.2: Hunt, like for prey for eating.
+
+37
+00:02:05,843 --> 00:02:07,843
+PART.1: Probably.
+
+38
+00:02:10,563 --> 00:02:11,843
+PART.2: Ok, your question.
+
+39
+00:02:16,643 --> 00:02:22,163
+PART.1: I can have more than one
+color and how many or does it...?
+
+40
+00:02:22,243 --> 00:02:24,163
+PART.1: It is only yes or no questions?
+
+41
+00:02:24,163 --> 00:02:26,443
+PART.2: I don't know,
+we can be...
+
+42
+00:02:27,243 --> 00:02:28,243
+PART.1: I don't know,
+last time we were like just...
+
+43
+00:02:28,443 --> 00:02:30,243
+PART.2: Ok, so whatever.
+
+44
+00:02:31,363 --> 00:02:32,643
+PART.1: So, how many legs
+does it have?
+
+45
+00:02:33,643 --> 00:02:35,243
+PART.2: It's like two.
+
+46
+00:02:37,243 --> 00:02:38,243
+PART.1: Two...
+
+47
+00:02:40,163 --> 00:02:41,763
+PART.1: Two and it doesn't fly?
+
+48
+00:02:42,243 --> 00:02:43,363
+PART.2: Yes.
+
+49
+00:02:47,763 --> 00:02:51,563
+PART.2: I am not sure about this one,
+but I mean little...
+
+50
+00:02:51,763 --> 00:02:54,563
+PART.1: Maybe legs and hands.
+
+51
+00:02:54,563 --> 00:03:00,443
+PART.1: Hands, I would say yes,
+it can use legs and hands
+as well so...
+
+52
+00:03:00,443 --> 00:03:01,443
+PART.1: Ok.
+
+53
+00:03:02,763 --> 00:03:07,363
+PART.2: It has legs, it has four legs
+and the front legs
+are also hands.
+
+54
+00:03:07,843 --> 00:03:09,363
+PART.2: I don't know,
+it's a bit confusing.
+
+55
+00:03:10,043 --> 00:03:11,363
+PART.1: Ok.
+
+56
+00:03:12,243 --> 00:03:13,363
+PART.2: So, my question.
+
+57
+00:03:15,443 --> 00:03:26,963
+PART.2: It can fly, it can hunt,
+does it have like a nest
+in the trees or in the mountains?
+
+58
+00:03:30,563 --> 00:03:31,563
+PART.1: In trees.
+
+59
+00:03:31,563 --> 00:03:33,563
+PART.2: In trees.
+
+60
+00:03:37,163 --> 00:03:39,163
+PART.2: Ok, your question.
+
+61
+00:03:41,363 --> 00:03:44,563
+PART.1: Can it climb trees?
+
+62
+00:03:44,643 --> 00:03:45,643
+PART.2: Yes.
+
+63
+00:03:45,843 --> 00:03:48,643
+PART.1: I think I know,
+I think I know.
+
+64
+00:03:48,643 --> 00:03:50,243
+PART.2: What??
+
+65
+00:03:50,243 --> 00:03:52,843
+PART.1: Ok, don't worry,
+your question.
+
+66
+00:03:54,843 --> 00:03:56,443
+PART.1: Maybe,
+maybe I'm guessing wrong.
+
+67
+00:03:57,763 --> 00:04:00,163
+PART.2: Does it have
+like a really good eye sight?
+
+68
+00:04:00,363 --> 00:04:01,363
+PART.1: Yes.
+
+69
+00:04:01,363 --> 00:04:03,363
+PART.2: Ok, I think I know it.
+
+70
+00:04:03,443 --> 00:04:05,363
+PART.1: Maybe you know it.
+
+71
+00:04:05,363 --> 00:04:06,363
+PART.2: Ok.
+
+72
+00:04:07,763 --> 00:04:12,043
+PART.1: It can have
+I think maybe a good night vision.
+
+73
+00:04:14,243 --> 00:04:16,443
+PART.1: Because it is like a night thing.
+
+74
+00:04:18,243 --> 00:04:22,443
+PART.2: I am not sure, I don't
+think so, I wouldn't say it has a
+good night vision.
+
+75
+00:04:23,163 --> 00:04:24,443
+PART.1: No, no, I am talking about yours.
+
+76
+00:04:24,443 --> 00:04:28,443
+PART.2: Ah, mine? It has a good night vision?
+Ok, I know exactly what it is.
+
+77
+00:04:28,443 --> 00:04:29,243
+PART.2: Its an owl!
+
+78
+00:04:29,243 --> 00:04:29,323
+PART.1: Yes!! I think mine is a bear?
+
+79
+00:04:29,403 --> 00:04:29,443
+PART.2: Its an owl!
+
+80
+00:04:29,443 --> 00:04:31,963
+PART.1: Yes!! I think mine is a bear?
+
+81
+00:04:32,163 --> 00:04:32,963
+PART.2: No.
+
+82
+00:04:32,963 --> 00:04:33,123
+PART.1: No? Oh no! I am wrong!
+
+83
+00:04:33,203 --> 00:04:33,243
+PART.2: No.
+
+84
+00:04:33,243 --> 00:04:35,243
+PART.1: No? Oh no! I am wrong!
+
+85
+00:04:36,043 --> 00:04:40,643
+PART.2: It can climb and has two legs
+but with hands...
+
+86
+00:04:41,643 --> 00:04:42,843
+PART.1: Can I change color?
+
+87
+00:04:42,963 --> 00:04:43,643
+PART.2: No.
+
+88
+00:04:43,643 --> 00:04:43,883
+PART.1: Ok, because I though
+in something that changes colors.
+
+89
+00:04:43,963 --> 00:04:46,563
+PART.1: Ok, because I though
+in something that changes colors.
+
+90
+00:04:51,963 --> 00:04:54,443
+PART.1: Where does it live?
+Does it live in the forest?
+
+91
+00:04:54,523 --> 00:04:54,563
+PART.1: Where does it live?
+Does it live in the forest?
+
+92
+00:04:54,563 --> 00:04:55,563
+PART.2: Yes.
+
+93
+00:04:55,643 --> 00:04:57,563
+PART.1: All animals live in the forest.
+
+94
+00:04:58,363 --> 00:04:59,563
+PART.1: What kind of question is that?
+
+95
+00:05:09,163 --> 00:05:10,843
+PART.1: Can you find it in the zoo?
+
+96
+00:05:11,843 --> 00:05:12,843
+PART.2: I think yes.
+
+97
+00:05:27,243 --> 00:05:28,243
+PART.1: Is it small?
+
+98
+00:05:28,363 --> 00:05:29,363
+PART.2: Yes.
+
+99
+00:05:29,363 --> 00:05:30,363
+PART.1: Is it a squirrel?
+
+100
+00:05:30,443 --> 00:05:32,243
+PART.2: Yes!!
+
+101
+00:05:32,363 --> 00:05:34,643
+PART.1: Yes!! It's cute actually.
+
+102
+00:05:34,963 --> 00:05:35,643
+PART.2: Yes.
+
+103
+00:05:36,643 --> 00:05:38,963
+PART.1: It eats with hands, nice!
+
+104
+00:05:39,243 --> 00:05:40,963
+PART.1: The owl looks really nice.
+
+105
+00:05:41,363 --> 00:05:44,363
+PART.2: When you said the night
+I already knew it was the owl.
+
+106
+00:05:48,043 --> 00:05:49,643
+PART.2: I was going for eagle.
+
+107
+00:05:49,763 --> 00:05:52,763
+PART.1: I thought so when you said
+strong eye sight.
+
+108
+00:05:53,443 --> 00:05:54,763
+PART.1: But no, so...
+
+109
+00:05:57,163 --> 00:05:58,643
+PART.1: Yes, yes, this could be.
+
+110
+00:06:03,443 --> 00:06:09,643
+PART.1: This is nice, but
+sometimes, in the last one I got a
+chameleon?
+
+111
+00:06:10,243 --> 00:06:12,243
+PART.2: A chameleon then,
+a lizard than changes colors.
+
+112
+00:06:12,243 --> 00:06:12,523
+PART.1: Yes and I don't know
+what it is called, so it's a lizard
+and my friend was like...
+
+113
+00:06:12,603 --> 00:06:12,763
+PART.2: A chameleon then,
+a lizard than changes colors.
+
+114
+00:06:12,763 --> 00:06:16,963
+PART.1: Yes and I don't know
+what it is called, so it's a lizard
+and my friend was like...
+
+115
+00:06:17,843 --> 00:06:18,443
+PART.1: You are right!
+
+116
+00:06:18,443 --> 00:06:18,603
+PART.2: Yes, you are right.
+
+117
+00:06:18,683 --> 00:06:18,843
+PART.1: You are right!
+
+118
+00:06:18,843 --> 00:06:20,843
+PART.2: Yes, you are right.
+
+119
+00:06:22,363 --> 00:06:24,643
+PART.1: And she got a rhino, rhino?
+
+120
+00:06:24,643 --> 00:06:26,643
+PART.2: Rhino, like the dinosaur, yes.
+
+121
+00:06:26,643 --> 00:06:30,563
+PART.1: She also like described it
+like this thing, that thing,
+i don't know how it is called!
+
+122
+00:06:30,643 --> 00:06:31,363
+PART.1: Ok, you are right.
+
+123
+00:06:31,363 --> 00:06:33,363
+PART.1: Just get over it.
+
+124
+00:06:33,763 --> 00:06:36,443
+PART.2: I got a pelican
+in the previous one.
+
+125
+00:06:36,443 --> 00:06:38,043
+PART.1: A pelican what is that?
+
+126
+00:06:38,043 --> 00:06:38,243
+PART.2: It is like a bird
+that eats fishes in the sea.
+
+127
+00:06:38,323 --> 00:06:38,443
+PART.1: A pelican what is that?
+
+128
+00:06:38,443 --> 00:06:41,043
+PART.2: It is like a bird
+that eats fishes in the sea.
+
+129
+00:06:42,443 --> 00:06:45,763
+PART.1: That's why you were asking
+if it eats with its paws.
+
+130
+00:06:45,763 --> 00:06:53,043
+PART.2: Yes, i was asking that
+if it is like a chicken
+that just picks things.
+
+131
+00:06:56,243 --> 00:06:58,963
+PART.1: That's the second bird you get.
+
+132
+00:06:58,963 --> 00:06:59,963
+PART.2: Yes.
+
+133
+00:07:01,443 --> 00:07:02,443
+PART.1: This looks good.
+
+134
+00:07:05,363 --> 00:07:06,963
+PART.1: It is also a nice game.
+
+135
+00:07:06,963 --> 00:07:07,363
+PART.2: Yes.
+
+136
+00:07:07,363 --> 00:07:07,763
+PART.1: If you know
+all the names in English.
+
+137
+00:07:07,843 --> 00:07:07,963
+PART.2: Yes.
+
+138
+00:07:07,963 --> 00:07:09,363
+PART.1: If you know
+all the names in English.
+
+139
+00:07:09,363 --> 00:07:10,363
+PART.2: Yes.
+
+140
+00:07:13,643 --> 00:07:18,363
+PART.2: We used to play this game
+but like acting.
+
+141
+00:07:20,363 --> 00:07:26,603
+PART.1: I remember
+there is this like heads-up game
+but something like this
+but with your phone
+
+142
+00:07:26,683 --> 00:07:29,203
+PART.1: and then the other person
+should act it,
+
+143
+00:07:29,283 --> 00:07:32,843
+PART.1: it's like a sequence
+and you have a timer, that's tough.
+
+144
+00:07:32,843 --> 00:07:35,443
+PART.1: It is nice also,
+I remember something like this.
+
+145
+00:07:35,843 --> 00:07:41,443
+PART.1: But I don't know,
+sometimes it was like movies
+or like actors or songs.
+
+146
+00:07:42,363 --> 00:07:43,443
+PART.1: It was also nice.
+
+147
+00:07:43,443 --> 00:07:44,363
+PART.2: Yes.
+
+148
+00:07:44,443 --> 00:07:45,443
+PART.1: Good times.
+
+149
+00:07:48,243 --> 00:07:49,243
+PART.1: It was nice.
+
+150
+00:07:51,763 --> 00:07:53,163
+PART.1: So, what do you do
+now for fun?
+
+151
+00:07:57,363 --> 00:08:01,363
+PART.2: I mostly play ping-pong,
+like table tennis.
+
+152
+00:08:01,363 --> 00:08:09,163
+PART.2: We play in some parks,
+like the Ciutadella park
+or in the Barceloneta park.
+
+153
+00:08:09,763 --> 00:08:11,443
+PART.2: Have you seen Barcelona a lot?
+
+154
+00:08:12,563 --> 00:08:15,163
+PART.1: We've been here a month,
+a month no,
+a week, sorry.
+
+155
+00:08:15,243 --> 00:08:17,163
+PART.2: A week, not enough.
+
+156
+00:08:17,243 --> 00:08:20,043
+PART.1: Not enough, yes,
+but we've been to the beach
+
+157
+00:08:20,123 --> 00:08:24,163
+PART.1: and I've seen some tables
+and it is nice to have
+something in common like this.
+

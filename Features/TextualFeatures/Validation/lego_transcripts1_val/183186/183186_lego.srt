@@ -1,0 +1,893 @@
+﻿1
+00:00:00,000 --> 00:00:00,001
+SUPERVISOR: Los dos entre los dos.
+
+2
+00:00:00,081 --> 00:00:01,081
+PART.2: ¿Cuál quieres?
+
+3
+00:00:01,161 --> 00:00:02,401
+PART.1: ¿Por qué primero la bota?
+
+4
+00:00:02,481 --> 00:00:03,721
+PART.2: El que quieras, tío.
+
+5
+00:00:03,801 --> 00:00:06,241
+PART.1: ¡Chist, chist!
+Cuidadito conmigo.
+
+6
+00:00:07,161 --> 00:00:08,161
+PART.2: A ver.
+
+7
+00:00:08,241 --> 00:00:09,601
+PART.1: A ver, venga, vamos.
+
+8
+00:00:11,161 --> 00:00:12,441
+PART.1: Pero si este no es.
+
+9
+00:00:13,241 --> 00:00:14,481
+PART.2: Es el molino, ¿no?
+
+10
+00:00:14,561 --> 00:00:15,961
+PART.1: Pero este
+no es el molino.
+
+11
+00:00:16,041 --> 00:00:17,921
+PART.2: Ah, vale, sí. Perdón.
+
+12
+00:00:20,641 --> 00:00:21,801
+PART.1: ¿De cuánto es?
+
+13
+00:00:21,881 --> 00:00:23,201
+PART.2: "Este de aquí".
+
+14
+00:00:23,281 --> 00:00:24,281
+PART.1: De...
+
+15
+00:00:23,561 --> 00:00:24,561
+PART.1: ¿Esto es un molino?
+
+16
+00:00:24,641 --> 00:00:26,721
+PART.1: Sí, sí,
+pero de cuánto es. De seis.
+
+17
+00:00:26,801 --> 00:00:27,961
+PART.2: Seis, sí.
+
+18
+00:00:27,681 --> 00:00:28,521
+PART.1: O sea, cuatro, perdón.
+
+19
+00:00:28,601 --> 00:00:29,641
+PART.2: Cuatro.
+
+20
+00:00:31,321 --> 00:00:32,441
+PART.1: Lo tengo, lo tengo.
+
+21
+00:00:34,601 --> 00:00:36,361
+PART.2: No se puede...
+Tienes que...
+
+22
+00:00:36,441 --> 00:00:38,041
+PART.1: Bueno, no pasa nada,
+no pasa nada.
+
+23
+00:00:37,401 --> 00:00:38,521
+PART.2: "Ahora vas y lo cascas".
+
+24
+00:00:38,601 --> 00:00:39,841
+PART.1: ¿Lo coges?
+
+25
+00:00:40,401 --> 00:00:42,401
+PART.2: "Que esto falta antes".
+
+26
+00:00:42,681 --> 00:00:45,121
+PART.2: Vale. Ay...
+
+27
+00:00:46,601 --> 00:00:47,881
+PART.1: Vale, vale.
+
+28
+00:00:48,601 --> 00:00:50,361
+PART.1: ¿Y ahora qué? Dos de dos.
+
+29
+00:00:50,441 --> 00:00:51,801
+PART.2: Dos de esta.
+
+30
+00:00:51,881 --> 00:00:53,641
+PART.1: Dos naranjas. Vale.
+
+31
+00:00:53,721 --> 00:00:56,121
+PART.1: Y en el medio, ¿no?
+Por lo que entiendo.
+
+32
+00:00:56,201 --> 00:00:57,201
+PART.2: Sí.
+
+33
+00:00:58,961 --> 00:00:59,961
+PART.1: Guau.
+
+34
+00:01:00,041 --> 00:01:04,441
+PART.2: Vale, después...
+Dos amarillas. Aquí.
+
+35
+00:01:04,521 --> 00:01:05,921
+PART.1: Una... y la otra.
+
+36
+00:01:05,481 --> 00:01:06,641
+PART.2: Aquí hay dos.
+
+37
+00:01:06,721 --> 00:01:09,761
+PART.2: Pero no en la misma...
+Así. Exactamente.
+
+38
+00:01:10,601 --> 00:01:12,641
+PART.2: Y después de nuevo. ¿No?
+
+39
+00:01:12,721 --> 00:01:13,961
+PART.1: Sí, otras dos amarillas.
+
+40
+00:01:14,041 --> 00:01:16,081
+PART.1: Ah, no, es que es
+uno primera y uno...
+
+41
+00:01:16,161 --> 00:01:17,601
+PART.1: Sí,
+son dos amarillas más.
+
+42
+00:01:17,681 --> 00:01:18,961
+PART.2: Sí, tienes razón.
+
+43
+00:01:19,041 --> 00:01:20,961
+PART.1: No sé dónde hay
+amarillas.
+
+44
+00:01:21,641 --> 00:01:23,121
+PART.2: "No hay amarillas, tío".
+
+45
+00:01:23,201 --> 00:01:24,601
+PART.1: Aquí hay una.
+
+46
+00:01:26,081 --> 00:01:27,561
+PART.2: Aquí hay otra.
+
+47
+00:01:32,361 --> 00:01:33,481
+PART.2: Negra...
+
+48
+00:01:33,961 --> 00:01:35,521
+PART.2: Sí, pero la negra...
+
+49
+00:01:34,601 --> 00:01:35,641
+PART.1: La negra de qué.
+
+50
+00:01:35,721 --> 00:01:36,761
+PART.2: Sí, pero así no.
+
+51
+00:01:36,841 --> 00:01:38,361
+PART.1: Es...
+como esto de aquí, ¿no?
+
+52
+00:01:38,441 --> 00:01:39,481
+PART.2: Sí, sí.
+
+53
+00:01:39,561 --> 00:01:42,281
+PART.1: Y qué... En qué...
+Vale, esta en el mismo sentido.
+
+54
+00:01:43,801 --> 00:01:45,521
+PART.2: Y después la esta...
+
+55
+00:01:46,841 --> 00:01:48,321
+PART.2: De esta no hay más, ¿no?
+
+56
+00:01:50,321 --> 00:01:51,401
+PART.1: "¿Qué es eso?"
+
+57
+00:01:51,841 --> 00:01:54,721
+PART.2: Esta. Es como...
+Tiene como una cosa...
+
+58
+00:01:54,801 --> 00:01:56,281
+PART.2: Por un lado así...
+
+59
+00:01:56,361 --> 00:01:57,361
+PART.1: ¿Esto?
+
+60
+00:01:57,441 --> 00:01:58,441
+PART.2: Sí.
+
+61
+00:02:00,481 --> 00:02:01,481
+PART.1: Vale.
+
+62
+00:02:01,561 --> 00:02:04,401
+PART.2: Y ahora ahí...
+Ahora pones el azul este.
+
+63
+00:02:04,481 --> 00:02:05,681
+PART.2: Ah, no, es ese, sí.
+
+64
+00:02:05,761 --> 00:02:07,161
+PART.1: ¿Es este? Sí.
+
+65
+00:02:06,481 --> 00:02:07,521
+PART.2: Sí, sí.
+
+66
+00:02:07,601 --> 00:02:10,361
+PART.2: Y después pones la...
+La hélice.
+
+67
+00:02:10,441 --> 00:02:11,921
+PART.1: Pero tiene que ir en...
+
+68
+00:02:12,001 --> 00:02:13,361
+PART.2: Eh... A ver.
+
+69
+00:02:13,441 --> 00:02:14,001
+PART.1: Así.
+
+70
+00:02:14,081 --> 00:02:16,921
+PART.2: Así. Y ahora pones
+una hélice de aquí.
+
+71
+00:02:18,641 --> 00:02:19,641
+PART.2: Esto se quita, ¿no?
+
+72
+00:02:19,721 --> 00:02:20,721
+PART.1: No.
+
+73
+00:02:20,801 --> 00:02:22,361
+PART.2: Hay algunos separados,
+¿no?
+
+74
+00:02:23,361 --> 00:02:24,361
+PART.1: No, ¿eh?
+
+75
+00:02:25,401 --> 00:02:26,921
+PART.1: ¿Esto se quita?
+
+76
+00:02:27,801 --> 00:02:32,001
+PART.2: Sí, porque es que
+no hay... No hay... No lo quitarían la otra vez.
+
+77
+00:02:32,881 --> 00:02:35,321
+PART.1: Yo creo que sí.
+Entonces, ¿cómo hacemos esto?
+
+78
+00:02:37,721 --> 00:02:39,641
+PART.1: Sí, se necesita
+solo la hélice.
+
+79
+00:02:42,801 --> 00:02:43,801
+PART.2: Sí.
+
+80
+00:02:43,881 --> 00:02:44,881
+PART.1: ¿Sí?
+
+81
+00:02:46,361 --> 00:02:47,881
+PART.1: Alta calidad, ¿eh?
+
+82
+00:02:47,961 --> 00:02:50,481
+PART.1: ¿Y en qué sentido va?
+¿Así o así?
+
+83
+00:02:51,441 --> 00:02:53,121
+PART.2: "Hostia". Así, ¿no?
+
+84
+00:02:53,201 --> 00:02:54,201
+PART.1: ¿Así?
+
+85
+00:02:53,481 --> 00:02:54,481
+PART.2: Ponlo.
+
+86
+00:02:55,681 --> 00:02:56,681
+PART.1: Ya está.
+
+87
+00:02:56,761 --> 00:02:57,881
+PART.2: Ya está.
+
+88
+00:02:57,481 --> 00:02:58,641
+PART.1: Ojo, ¿eh?
+
+89
+00:02:58,721 --> 00:02:59,641
+PART.2: Vale, ya está.
+
+90
+00:02:59,281 --> 00:03:00,281
+PART.1: Ojo.
+
+91
+00:03:00,041 --> 00:03:00,961
+PART.2: Ahora esta.
+
+92
+00:03:01,761 --> 00:03:02,801
+PART.1: El uno.
+
+93
+00:03:02,881 --> 00:03:04,361
+PART.2: La bota.
+
+94
+00:03:04,441 --> 00:03:06,201
+PART.1: La última de todas.
+
+95
+00:03:07,081 --> 00:03:08,081
+PART.1: ¿No?
+
+96
+00:03:08,161 --> 00:03:09,881
+PART.1: Tiene un montón
+de pasos, ¿eh?
+
+97
+00:03:09,961 --> 00:03:11,001
+PART.2: Qué va.
+
+98
+00:03:13,121 --> 00:03:15,601
+PART.1: Bueno, venga, va,
+ya está. Terminado.
+
+99
+00:03:16,761 --> 00:03:18,881
+PART.2: Vale, una de cuatro igual.
+
+100
+00:03:21,721 --> 00:03:23,401
+PART.2: Espérate,
+que ahora la han puesto...
+
+101
+00:03:22,401 --> 00:03:23,641
+PART.1: El puente.
+
+102
+00:03:23,721 --> 00:03:25,161
+PART.2: Una cosa de estas...
+
+103
+00:03:24,401 --> 00:03:25,201
+PART.1: Lo tengo, lo tengo.
+
+104
+00:03:25,281 --> 00:03:26,921
+PART.2: Y después otra pequeña.
+
+105
+00:03:27,001 --> 00:03:28,761
+PART.1: Lo tengo, lo tengo.
+
+106
+00:03:29,761 --> 00:03:31,001
+PART.2: Después, una de cuatro.
+
+107
+00:03:33,161 --> 00:03:34,361
+PART.2: Tienes la de cuatro, ¿no?
+
+108
+00:03:36,081 --> 00:03:37,241
+PART.1: Ahí está.
+
+109
+00:03:37,841 --> 00:03:39,441
+PART.1: Esta de cuatro dónde va,
+¿encima?
+
+110
+00:03:39,521 --> 00:03:41,081
+PART.2: Sí. Y después una blanca.
+
+111
+00:03:41,161 --> 00:03:42,721
+PART.1: Pero no se queda igual,
+mira.
+
+112
+00:03:42,801 --> 00:03:44,161
+PART.2: Lo has hecho mal, tío.
+
+113
+00:03:45,761 --> 00:03:48,441
+PART.1: Vale, vale.
+Lo he puesto mal, lo he puesto mal.
+
+114
+00:03:48,521 --> 00:03:49,881
+PART.1: Esto va así.
+
+115
+00:03:53,721 --> 00:03:55,081
+PART.2: La blanca...
+
+116
+00:03:56,041 --> 00:03:59,281
+PART.2: Vale, una blanca...
+más ancha y otra menos...
+
+117
+00:03:59,361 --> 00:04:00,761
+PART.2: ¿Sabes? Mira.
+
+118
+00:04:06,521 --> 00:04:07,921
+PART.1: ¿Y la blanca?
+
+119
+00:04:09,241 --> 00:04:10,601
+PART.1: Aquí hay lagunas, ¿eh?
+
+120
+00:04:13,681 --> 00:04:16,241
+PART.1: Esta. Pero falta...
+
+121
+00:04:15,561 --> 00:04:16,561
+PART.2: ¿Y la otra qué?
+
+122
+00:04:16,641 --> 00:04:18,521
+PART.1: Falta la otra que es...
+
+123
+00:04:22,841 --> 00:04:24,961
+PART.2: Vale,
+y ya terminas ya porque...
+
+124
+00:04:25,041 --> 00:04:26,601
+PART.2: "Hostia, una bota".
+
+125
+00:04:29,241 --> 00:04:31,881
+PART.2: Esto son tres piezas.
+Esta primero.
+
+126
+00:04:31,961 --> 00:04:34,441
+PART.2: ¿No? Bueno, da igual.
+Esa...
+
+127
+00:04:35,921 --> 00:04:37,441
+PART.2: Tienes... esta.
+
+128
+00:04:40,481 --> 00:04:42,361
+PART.2: Y ahora el... La flor.
+
+129
+00:04:42,441 --> 00:04:43,521
+PART.2: La flor, sí.
+
+130
+00:04:43,601 --> 00:04:46,521
+PART.1: Que es ese color, porque
+antes la rosa nos ha pasado lo mismo
+
+131
+00:04:46,601 --> 00:04:47,721
+PART.1: "y la rosa no existe".
+
+132
+00:04:47,801 --> 00:04:49,441
+PART.2: Es como esta,
+pero con rosa.
+
+133
+00:04:49,521 --> 00:04:50,961
+PART.1: Sí, pero que no existe.
+O sea...
+
+134
+00:04:51,041 --> 00:04:52,041
+PART.2: ¿No?
+
+135
+00:04:52,121 --> 00:04:53,521
+PART.1: No hay ninguna
+de color rosa.
+
+136
+00:04:53,601 --> 00:04:55,121
+PART.2: Yo creo
+que sí que había, ¿eh?
+
+137
+00:04:55,201 --> 00:04:56,201
+PART.1: No.
+
+138
+00:04:57,521 --> 00:05:01,281
+PART.1: Porque antes lo hemos
+intentado. Teníamos también una rosa...
+
+139
+00:05:01,361 --> 00:05:02,681
+PART.2: y no había.
+
+140
+00:05:02,761 --> 00:05:04,761
+PART.2: Pues ya está.
+Será el color de la impresión también.
+
+141
+00:05:05,881 --> 00:05:07,521
+PART.1: ¿Ves? No, no hay.
+
+142
+00:05:08,241 --> 00:05:10,201
+PART.1: ¿Ya hemos terminado
+la bota?
+
+143
+00:05:10,841 --> 00:05:13,601
+PART.2: Sí. "Ya no hay nada más".
+Después están para...
+
+144
+00:05:14,441 --> 00:05:19,561
+PART.1: Pues ya estaríamos.
+Muy bien, Alejandro. Lo has hecho genial.
+
+145
+00:05:22,201 --> 00:05:24,681
+PART.1: Lo has hecho muy bien.
+Pues no, no existe.
+
+146
+00:05:27,241 --> 00:05:28,721
+PART.1: No existe, tío.
+
+147
+00:05:33,961 --> 00:05:35,081
+PART.1: "Uy-va".
+
+148
+00:05:36,241 --> 00:05:37,641
+PART.1: Esto era para un coche.
+
+149
+00:05:42,081 --> 00:05:43,961
+PART.1: Entonces,
+¿tú trabajas hasta las dos solo?
+
+150
+00:05:44,041 --> 00:05:45,241
+PART.2: Bueno, hasta la una, ¿eh?
+
+151
+00:05:45,321 --> 00:05:46,361
+PART.1: ¿Hasta la una?
+
+152
+00:05:46,441 --> 00:05:48,561
+PART.2: Cuatro horas porque es...
+
+153
+00:05:49,521 --> 00:05:51,121
+PART.2: De becario
+no puedes hacer mucho tampoco.
+
+154
+00:05:51,201 --> 00:05:52,601
+PART.1: Yo hago ocho.
+
+155
+00:05:53,281 --> 00:05:54,961
+PART.2: Pero no sé
+por qué haces ocho.
+
+156
+00:05:55,041 --> 00:05:56,761
+PART.2: Ah, porque es en verano
+solo, después no.
+
+157
+00:05:57,481 --> 00:05:59,601
+PART.2: Claro, yo mantengo
+las horas mías...
+
+158
+00:06:00,761 --> 00:06:02,681
+PART.1: Claro, yo,
+cuando empiece el curso, haré...
+
+159
+00:06:02,761 --> 00:06:04,201
+PART.2: Y yo sigo
+haciendo lo mismo.
+
+160
+00:06:05,081 --> 00:06:06,561
+PART.1: Yo, cuando empiece
+el curso, haré cinco.
+
+161
+00:06:06,641 --> 00:06:09,281
+PART.2: A ver si nos toca
+el mismo grupo, tío. De...
+
+162
+00:06:09,361 --> 00:06:11,641
+PART.2: La asignatura única
+que tengo contigo sería...
+
+163
+00:06:11,721 --> 00:06:13,001
+PART.1: Ingeniería.
+
+164
+00:06:12,241 --> 00:06:13,561
+PART.2: Engineering. Esa.
+
+165
+00:06:13,641 --> 00:06:16,161
+PART.1: Tío, no sé qué hacer,
+¿eh? No sé si pillarme
+
+166
+00:06:16,241 --> 00:06:18,041
+PART.1: Inteligencia Artificial...
+
+167
+00:06:18,121 --> 00:06:19,201
+PART.2: ¿Distribuidas?
+
+168
+00:06:19,281 --> 00:06:22,161
+PART.1: Sí, o...
+"Bases de datos" avanzadas.
+
+169
+00:06:22,921 --> 00:06:24,161
+PART.2: ¿Entre esas dos?
+
+170
+00:06:23,921 --> 00:06:24,801
+PART.1: Sí.
+
+171
+00:06:24,881 --> 00:06:26,241
+PART.2: ...avanzadas, tío.
+
+172
+00:06:26,321 --> 00:06:29,401
+PART.1: Es que me voy a coger,
+lo más probable,
+
+173
+00:06:29,481 --> 00:06:31,241
+PART.1: la de "dadas"
+multimedia...
+
+174
+00:06:31,321 --> 00:06:32,721
+PART.2: Tecnología...
+
+175
+00:06:32,801 --> 00:06:36,081
+PART.1: Sí. Y la de
+ciberseguridad, que van a coger...
+
+176
+00:06:36,161 --> 00:06:37,481
+PART.2: Sí, tío,
+esa hubiera querido coger yo.
+
+177
+00:06:37,561 --> 00:06:39,401
+PART.1: Esa me la voy a coger,
+aunque sea...
+
+178
+00:06:39,481 --> 00:06:40,961
+PART.2: A ver cómo está también.
+
+179
+00:06:41,041 --> 00:06:42,321
+PART.1: Ya, pero...
+
+180
+00:06:41,881 --> 00:06:43,081
+PART.2: Lo hace un policía, creo.
+
+181
+00:06:43,601 --> 00:06:44,601
+PART.1: ¿Sí?
+
+182
+00:06:44,681 --> 00:06:46,481
+PART.2: Creo. Eso me dijeron,
+no sé si es verdad.
+
+183
+00:06:46,561 --> 00:06:49,121
+PART.1: Es que me apetece...
+Me apetece hacerla, ¿sabes?
+
+184
+00:06:49,201 --> 00:06:50,201
+PART.2: Sí.
+
+185
+00:06:50,281 --> 00:06:53,161
+PART.1: Es algo interesante.
+Y, entonces, como me llama la atención...
+
+186
+00:06:54,681 --> 00:06:56,681
+PART.1: Pues eso,
+esa la quiero hacer.
+
+187
+00:06:56,761 --> 00:06:59,001
+PART.1: Y, entonces, claro,
+me queda por coger una
+
+188
+00:06:59,081 --> 00:07:01,081
+PART.2: y es de primer semestre
+la que tengo que coger.
+
+189
+00:07:01,161 --> 00:07:03,561
+PART.2: Entre esas dos, cogería... avanzadas.
+
+190
+00:07:03,641 --> 00:07:04,641
+PART.1: ¿Sí?
+
+191
+00:07:04,721 --> 00:07:05,721
+PART.2: Sí.
+
+192
+00:07:06,001 --> 00:07:07,881
+PART.2: A ver, las dos
+están fáciles, ¿eh?
+
+193
+00:07:07,961 --> 00:07:09,961
+PART.2: Las optativas
+no se las curran mucho, que digamos.
+
+194
+00:07:11,081 --> 00:07:13,881
+PART.1: No, pero como tú
+has hecho las dos... Por eso te preguntaba.
+
+195
+00:07:13,961 --> 00:07:15,881
+PART.2: Yo cogería
+Bases de Datos Avanzado.
+
+196
+00:07:15,961 --> 00:07:18,121
+PART.2: Porque... no...
+
+197
+00:07:18,881 --> 00:07:19,881
+PART.2: No sé.
+
+198
+00:07:19,521 --> 00:07:20,681
+PART.1: Pero ¿qué hiciste?
+
+199
+00:07:20,761 --> 00:07:22,161
+PART.2: ...he aprendido en mi casa, ¿sabes?
+
+200
+00:07:22,761 --> 00:07:24,401
+PART.1: Ya, ya,
+pero ¿qué hicisteis?
+
+201
+00:07:24,481 --> 00:07:28,921
+PART.2: Eh... Es "multiagente"
+más como la evolución de la otra.
+
+202
+00:07:29,001 --> 00:07:30,601
+PART.2: Programación
+multiagente...
+
+203
+00:07:30,681 --> 00:07:31,641
+PART.1: ¿Y en qué...?
+
+204
+00:07:31,721 --> 00:07:33,081
+PART.2: En NetLogo. Un...
+
+205
+00:07:32,681 --> 00:07:33,681
+PART.1: ¿Qué?
+

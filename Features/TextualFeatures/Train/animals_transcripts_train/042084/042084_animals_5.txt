@@ -1,0 +1,145 @@
+160
+00:05:03,485 --> 00:05:04,805
+PART.1: De la familia de las ovejas.
+
+161
+00:05:05,245 --> 00:05:06,285
+PART.2: De las ovejas, sí.
+
+162
+00:05:06,365 --> 00:05:06,965
+PART.2: Pues ahora...
+
+163
+00:05:07,045 --> 00:05:07,925
+PART.2: ¿De las ovejas?
+
+164
+00:05:09,845 --> 00:05:10,685
+PART.2: ¿Una cabra?
+
+165
+00:05:11,165 --> 00:05:11,805
+PART.1: Una cabra.
+
+166
+00:05:11,885 --> 00:05:12,485
+PART.2: ¡Anda!
+
+167
+00:05:12,565 --> 00:05:13,485
+PART.1: Has acertado, es una cabra.
+
+168
+00:05:13,565 --> 00:05:14,205
+PART.2: Jolines.
+
+169
+00:05:14,365 --> 00:05:16,245
+PART.1: Y yo, ¿una jirafa?
+
+170
+00:05:16,325 --> 00:05:16,965
+PART.2: No.
+
+171
+00:05:19,605 --> 00:05:20,445
+PART.1: ¿No es una jirafa?
+
+172
+00:05:20,525 --> 00:05:21,085
+PART.2: No.
+
+173
+00:05:21,165 --> 00:05:22,245
+PART.1: Entonces no sé...
+
+174
+00:05:23,485 --> 00:05:24,365
+PART.1: ¿Y qué es, entonces?
+
+175
+00:05:24,445 --> 00:05:25,205
+PART.2: Sigue.
+
+176
+00:05:25,285 --> 00:05:26,605
+PART.2: Aún puedes decir más cosas.
+
+177
+00:05:26,685 --> 00:05:27,445
+PART.1: ¿Sí?
+
+178
+00:05:27,525 --> 00:05:28,445
+PART.1: A ver.
+
+179
+00:05:29,205 --> 00:05:30,245
+PART.1: Dices que no se come.
+
+180
+00:05:30,725 --> 00:05:31,205
+PART.2: No.
+
+181
+00:05:32,045 --> 00:05:34,485
+PART.1: Me dices que no es peligroso para
+las personas.
+
+182
+00:05:34,845 --> 00:05:36,125
+PART.1: No ataca a las personas, me has
+dicho.
+
+183
+00:05:36,965 --> 00:05:40,245
+PART.2: Pero, claro, están en libertad,
+no están...
+
+184
+00:05:40,765 --> 00:05:42,365
+PART.2: Como no es doméstico, no está...
+
+185
+00:05:42,445 --> 00:05:44,325
+PART.1: Ya, pero si yo me acerco a ellos,
+¿me atacan?
+
+186
+00:05:45,245 --> 00:05:47,245
+PART.2: Yo creo que no te puedes acercar.
+
+187
+00:05:47,645 --> 00:05:48,205
+PART.1: ¿No?
+
+188
+00:05:49,005 --> 00:05:52,445
+PART.2: Bueno, cuando son adultos, no
+creo que...
+
+189
+00:05:52,525 --> 00:05:53,525
+PART.1: ¿Es acuático?
+
+190
+00:05:53,605 --> 00:05:53,965
+PART.2: No.
+
+191
+00:05:54,045 --> 00:05:54,725
+PART.2: Acuático, no.
+
+192
+00:05:54,805 --> 00:05:55,845
+PART.1: No le gusta el agua, ¿no?
+
+193
+00:05:55,925 --> 00:05:56,325
+PART.2: No.
+
+194
+00:05:57,605 --> 00:05:59,205
+PART.1: Y no pesa más de 100 kilos.
+

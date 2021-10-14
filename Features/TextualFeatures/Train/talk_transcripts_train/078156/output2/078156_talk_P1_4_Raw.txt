@@ -1,0 +1,13 @@
+Es bastante descorazonador a veces lo de...
+Es bastante descorazonador.
+Tú pones unos datos ahí, piensas, "esto va a prender" y no prende.
+O lo que suele pasar es que la "loss" de "training"va bajando, la "loss" de "validation"no baja y estás perdido.
+El "accuracy" no sube en "validation" tampoco y no sabes qué pasa.
+Es un poco así. 
+De hecho, no sé si lo has notado, que hablando de "learning", en la...
+Porque en el año que empezaste tú, ¿tú has notado todoeste creciente de gente cada vez mástrabajando en el campo?
+¿Más y más gente? 
+Sí. 
+Sí. 
+Sí, sí. 
+Y una que es de "deep learning" y el resto que tambiéndeben hacer algo de "deep learning",¿no?, imagino.

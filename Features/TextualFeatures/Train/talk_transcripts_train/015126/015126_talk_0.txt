@@ -1,0 +1,115 @@
+﻿1
+00:00:00,360 --> 00:00:03,760
+PART.1: És veritat,
+perquè si arriba un rebut, el pots retornar.
+
+2
+00:00:03,840 --> 00:00:04,320
+PART.1: T'ho juro.
+
+3
+00:00:04,400 --> 00:00:06,200
+PART.2: Estic molt tranquil·la.
+
+4
+00:00:06,280 --> 00:00:08,200
+PART.2: No ho pots fer si hi poses el número de la targeta.
+
+5
+00:00:08,280 --> 00:00:09,480
+PART.2: Ah, aquí "pringuem".
+
+6
+00:00:09,560 --> 00:00:10,080
+PART.1: Sí.
+
+7
+00:00:10,160 --> 00:00:11,680
+SUPERVISOR: Aneu parlant i ja toranré jo...
+
+8
+00:00:11,760 --> 00:00:12,680
+PART.1: Sí, sí.
+
+9
+00:00:12,760 --> 00:00:14,400
+PART.2: Que "guai!". Molt bé.
+
+10
+00:00:14,480 --> 00:00:16,000
+PART.1: No ho sabies, això?
+
+11
+00:00:16,080 --> 00:00:16,760
+PART.2: No.
+
+12
+00:00:16,840 --> 00:00:18,440
+PART.1: És que… Bé, és igual.
+
+13
+00:00:23,400 --> 00:00:28,880
+PART.1: Vaig buscar: Què passa si dones el número de compte…?
+Perquè, és clar, li dono el número de compte
+perquè em faci l'ingrés…
+
+14
+00:00:28,960 --> 00:00:30,000
+PART.2: I "pringues".
+
+15
+00:00:30,080 --> 00:00:30,880
+PART.1: És clar.
+
+16
+00:00:30,960 --> 00:00:38,120
+PART.1: I no, pots retornar rebuts de fa molt.
+Vaig pensar retornar fins i tot rebuts de de Can Ricart.
+
+17
+00:00:38,200 --> 00:00:39,120
+PART.1: Perquè dic, escolta...
+
+18
+00:00:39,200 --> 00:00:40,880
+PART.2: Que els donin pel cul, saps?
+
+19
+00:00:40,960 --> 00:00:43,720
+PART.1: Perquè és clar, són diners que tornen al teu compte.
+
+20
+00:00:43,800 --> 00:00:46,840
+PART.2: Però els altres poden reclamar
+i pots acabar anant a judici.
+
+21
+00:00:47,200 --> 00:00:51,120
+PART.1: Can Ricart sé que no.
+Sé que, com a molt, truquen i diuen…
+
+22
+00:00:51,200 --> 00:00:53,200
+PART.2: Com és, Can Ricart Seca?
+
+23
+00:00:53,760 --> 00:00:54,280
+PART.1: Com?
+
+24
+00:00:54,360 --> 00:00:56,160
+PART.2: Ah, Can Ricart "sé que no"! Hòstia, val.
+
+25
+00:00:56,240 --> 00:00:57,040
+PART.1: "Sé que no".
+
+26
+00:00:57,120 --> 00:00:58,240
+PART.2: Sí, sí, estic "tonto".
+
+27
+00:00:58,320 --> 00:01:00,880
+PART.1: Sí, com a molt et truquen i et diuen:
+"Ai, ha arribat el teu…".
+

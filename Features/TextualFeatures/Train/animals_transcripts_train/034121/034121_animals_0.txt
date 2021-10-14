@@ -1,0 +1,97 @@
+1
+00:00:04,557 --> 00:00:07,157
+PART.1: A ver, ¿empiezo yo?
+
+2
+00:00:06,597 --> 00:00:07,757
+PART.2: Comienza tú, sí.
+
+3
+00:00:07,837 --> 00:00:09,277
+PART.2: Voy contando.
+
+4
+00:00:10,557 --> 00:00:13,197
+PART.1: ¿Es doméstico?
+
+5
+00:00:14,637 --> 00:00:15,117
+PART.2: No.
+
+6
+00:00:15,197 --> 00:00:16,477
+PART.1: Para nada.
+
+7
+00:00:17,757 --> 00:00:19,037
+PART.2: ¿Soy un mamífero?
+
+8
+00:00:19,517 --> 00:00:20,237
+PART.1: No.
+
+9
+00:00:20,317 --> 00:00:29,637
+PART.2: Tengo problemas, hay animales que
+no sé si son mamíferos o no, así
+que, hazte otra pregunta por si
+acaso.
+
+10
+00:00:29,717 --> 00:00:30,877
+PART.2: A mí también me pasa.
+
+11
+00:00:31,677 --> 00:00:32,677
+PART.2: Pues...
+
+12
+00:00:33,917 --> 00:00:36,757
+PART.2: Comparado con un oso, ¿soy grande,
+soy más grande?
+
+13
+00:00:37,117 --> 00:00:37,877
+PART.1: No.
+
+14
+00:00:37,957 --> 00:00:38,717
+PART.2: Vale.
+
+15
+00:00:38,797 --> 00:00:40,117
+PART.1: Esa pregunta es buena.
+
+16
+00:00:40,197 --> 00:00:43,077
+PART.1: Como se nota que has jugado cinco
+veces.
+
+17
+00:00:43,157 --> 00:00:44,757
+PART.2: Sé las que sirven.
+
+18
+00:00:45,997 --> 00:00:47,477
+PART.1: ¿Es carnívoro?
+
+19
+00:00:47,557 --> 00:00:48,117
+PART.2: No.
+
+20
+00:00:48,557 --> 00:00:49,357
+PART.1: No es carnívoro.
+
+21
+00:00:52,877 --> 00:00:54,397
+PART.2: ¿Soy vegetariano?
+
+22
+00:00:55,757 --> 00:00:56,837
+PART.2: Creo que sí.
+
+23
+00:00:57,317 --> 00:00:58,237
+PART.2: Me alegro.
+

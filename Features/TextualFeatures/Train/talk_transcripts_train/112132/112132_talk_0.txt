@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:00,103
+PART.2: Vale.
+
+2
+00:00:01,383 --> 00:00:03,823
+PART.1: Bueno. ¿Cómo te llamas?
+
+3
+00:00:04,023 --> 00:00:05,263
+PART.2: 112.
+
+4
+00:00:05,463 --> 00:00:07,543
+PART.1: 132.
+
+5
+00:00:08,103 --> 00:00:10,423
+PART.2: Y ¿qué haces?
+
+6
+00:00:10,823 --> 00:00:12,103
+PART.1: Bueno, soy fotógrafa.
+
+7
+00:00:12,303 --> 00:00:18,103
+PART.1: Hace muy poco que estoy en Barcelona, vine a trabajar de eso.
+
+8
+00:00:18,303 --> 00:00:24,503
+PART.1: Vengo de Argentina y bueno, básicamente eso y vos ¿sos de acá?
+
+9
+00:00:24,703 --> 00:00:25,743
+PART.2: Sí, yo soy de aquí.
+
+10
+00:00:25,943 --> 00:00:30,383
+PART.2: Yo vivo aquí cerca, en una ciudad cerca de aquí.
+
+11
+00:00:30,583 --> 00:00:33,343
+PART.2: Y bueno, estoy estudiando aquí.
+
+12
+00:00:33,543 --> 00:00:35,183
+PART.1: ¿Sí? ¿Qué carrera?
+
+13
+00:00:35,383 --> 00:00:36,423
+PART.2: ¿Qué carrera? Estoy en el máster.
+
+14
+00:00:36,583 --> 00:00:37,221
+PART.1: ¡Ah!
+
+15
+00:00:37,245 --> 00:00:39,183
+PART.2: Con Sergio.
+
+16
+00:00:39,383 --> 00:00:40,771
+PART.1: ¿Qué es esto mismo?
+
+17
+00:00:40,795 --> 00:00:42,183
+PART.2: Sí, sí, sí, es que nos dijo venid aquí.
+
+18
+00:00:42,383 --> 00:00:46,223
+PART.1: ¿Y podés participar? ¿Vos no estás investigando esto?
+
+19
+00:00:46,423 --> 00:00:50,223
+PART.2: No, no, yo no estoy investigando que yo estaba haciendo el máster.
+
+20
+00:00:47,384 --> 00:00:49,784
+PART.1: Ah ok, haciendo el máster.
+
+21
+00:00:50,423 --> 00:00:51,279
+PART.2: Sí, sí.
+
+22
+00:00:51,303 --> 00:00:56,543
+PART.2: Y nos dijo que, que bueno que nos apuntásemos, que quería gente que traería cruasanes.
+
+23
+00:00:56,743 --> 00:00:59,703
+PART.1: Sí, pero no hubo cosas.
+
+24
+00:00:59,903 --> 00:01:01,423
+PART.1: Da igual.
+

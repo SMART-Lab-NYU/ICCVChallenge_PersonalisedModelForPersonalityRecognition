@@ -1,0 +1,425 @@
+1
+00:00:06,370 --> 00:00:07,570
+PART.2: Empieza tú.
+
+2
+00:00:08,250 --> 00:00:09,330
+PART.1: Vale, a ver.
+
+3
+00:00:09,410 --> 00:00:11,050
+PART.1: ¿Empiezo yo preguntando?
+
+4
+00:00:11,130 --> 00:00:11,570
+PART.2: Sí.
+
+5
+00:00:11,650 --> 00:00:12,650
+PART.1: Vale, primero voy a pensar.
+
+6
+00:00:13,970 --> 00:00:15,210
+PART.1: ¿Soy un mamífero?
+
+7
+00:00:15,450 --> 00:00:16,170
+PART.2: Sí.
+
+8
+00:00:16,250 --> 00:00:17,010
+PART.1: Vale.
+
+9
+00:00:19,490 --> 00:00:20,490
+PART.2: ¿Soy acuático?
+
+10
+00:00:20,570 --> 00:00:21,370
+PART.1: No.
+
+11
+00:00:27,890 --> 00:00:29,850
+PART.2: Vale. ¿Tengo pelo?
+
+12
+00:00:29,930 --> 00:00:30,770
+PART.2: No.
+
+13
+00:00:31,570 --> 00:00:32,370
+PART.1: Vale.
+
+14
+00:00:32,690 --> 00:00:33,650
+PART.2: ¿Vuelo?
+
+15
+00:00:33,810 --> 00:00:34,570
+PART.1: No.
+
+16
+00:00:37,330 --> 00:00:38,850
+PART.1: Un mamífero sin pelo.
+
+17
+00:00:39,530 --> 00:00:40,730
+PART.1: ¿Soy acuático?
+
+18
+00:00:41,090 --> 00:00:41,890
+PART.2: No.
+
+19
+00:00:46,530 --> 00:00:47,610
+PART.2: ¿Soy mamífero?
+
+20
+00:00:47,690 --> 00:00:48,610
+PART.1: Ajá.
+
+21
+00:00:53,730 --> 00:00:54,930
+PART.1: ¿Soy grande?
+
+22
+00:00:55,130 --> 00:00:55,970
+PART.2: Sí.
+
+23
+00:01:06,250 --> 00:01:07,410
+PART.2: ¿Soy peludo?
+
+24
+00:01:07,690 --> 00:01:08,450
+PART.1: Sí.
+
+25
+00:01:10,210 --> 00:01:15,010
+PART.1: Vale, ¿es de color... negro?
+
+26
+00:01:15,250 --> 00:01:15,970
+PART.2: No.
+
+27
+00:01:17,890 --> 00:01:19,010
+PART.2: ¿Soy un felino?
+
+28
+00:01:19,130 --> 00:01:19,890
+PART.1: No.
+
+29
+00:01:23,570 --> 00:01:25,170
+PART.1: ¿Soy de color gris?
+
+30
+00:01:25,730 --> 00:01:26,610
+PART.2: Sí.
+
+31
+00:01:27,010 --> 00:01:27,730
+PART.1: Vale.
+
+32
+00:01:36,330 --> 00:01:37,850
+PART.2: ¿Soy una especie de simio?
+
+33
+00:01:38,370 --> 00:01:39,130
+PART.1: No.
+
+34
+00:01:40,690 --> 00:01:42,210
+PART.1: ¿Tengo cuatro patas?
+
+35
+00:01:42,290 --> 00:01:43,010
+PART.2: Sí.
+
+36
+00:01:43,090 --> 00:01:43,930
+PART.1: Vale.
+
+37
+00:01:52,730 --> 00:01:54,170
+PART.2: Estoy repasando el zoológico.
+
+38
+00:01:58,770 --> 00:01:59,850
+PART.2: ¿Soy grande?
+
+39
+00:02:00,930 --> 00:02:02,370
+PART.1: Eh... Norma.
+
+40
+00:02:03,690 --> 00:02:04,770
+PART.1: Bueno, sí.
+
+41
+00:02:06,410 --> 00:02:07,850
+PART.1: A ver, no...
+
+42
+00:02:09,330 --> 00:02:10,090
+PART.1: Sí.
+
+43
+00:02:11,530 --> 00:02:12,570
+PART.1: ¿Tengo trompa?
+
+44
+00:02:12,650 --> 00:02:13,370
+PART.2: Sí.
+
+45
+00:02:13,450 --> 00:02:14,450
+PART.1: Vale.
+
+46
+00:02:33,490 --> 00:02:34,450
+PART.2: ¿Tengo cuatro patas?
+
+47
+00:02:34,530 --> 00:02:35,330
+PART.1: Sí.
+
+48
+00:02:36,850 --> 00:02:37,970
+PART.1: Vale. ¿Soy un elefante?
+
+49
+00:02:38,050 --> 00:02:38,850
+PART.2: Sí.
+
+50
+00:02:38,930 --> 00:02:39,970
+PART.1: ¡Bien!
+
+51
+00:02:42,650 --> 00:02:43,650
+PART.1: He ganado.
+
+52
+00:02:45,450 --> 00:02:46,730
+PART.2: Yo creo que me fui, ¿eh?
+
+53
+00:02:46,810 --> 00:02:47,890
+PART.2: Estoy superperdido.
+
+54
+00:02:48,130 --> 00:02:49,010
+PART.2: A ver.
+
+55
+00:02:49,290 --> 00:02:51,490
+PART.1: Creo que te faltan una o dos
+preguntas.
+
+56
+00:02:51,570 --> 00:02:52,530
+PART.2: Sí, dos.
+
+57
+00:02:57,930 --> 00:02:59,050
+PART.2: Ya me rindo.
+
+58
+00:03:01,130 --> 00:03:02,490
+PART.2: Sí, porque si no...
+
+59
+00:03:02,730 --> 00:03:04,130
+PART.2: Bueno, a ver...
+
+60
+00:03:05,410 --> 00:03:06,770
+PART.2: Tengo cuatro patas...
+
+61
+00:03:08,250 --> 00:03:09,690
+PART.2: ¿Tengo cola?
+
+62
+00:03:09,970 --> 00:03:10,890
+PART.1: Ajá.
+
+63
+00:03:18,210 --> 00:03:19,450
+PART.2: Es que puede ser...
+
+64
+00:03:26,170 --> 00:03:27,450
+PART.2: Ay, no sé.
+
+65
+00:03:31,930 --> 00:03:32,970
+PART.2: ¿Soy un caballo?
+
+66
+00:03:34,370 --> 00:03:35,170
+PART.1: No.
+
+67
+00:03:35,810 --> 00:03:37,210
+PART.1: Pero por ahí.
+
+68
+00:03:40,890 --> 00:03:43,130
+PART.2: Más pequeño que el caballo,
+pero dirías tú...
+
+69
+00:03:43,450 --> 00:03:44,010
+PART.1: Sí.
+
+70
+00:03:44,090 --> 00:03:44,970
+PART.2: ¿Soy un burro?
+
+71
+00:03:45,050 --> 00:03:45,570
+PART.1: Sí.
+
+72
+00:03:52,850 --> 00:03:54,130
+PART.1: Lo he adivinado, ¿vale?
+
+73
+00:03:54,210 --> 00:03:55,490
+PART.1: Estoy flipando ya.
+
+74
+00:03:56,810 --> 00:03:58,170
+PART.1: Creo que esta era más fácil.
+
+75
+00:03:58,370 --> 00:04:01,970
+PART.2: Sí, pero que como tus preguntas
+iban... directas.
+
+76
+00:04:02,610 --> 00:04:05,290
+PART.2: Lo tenías como a la quinta,
+me parece.
+
+77
+00:04:06,010 --> 00:04:09,610
+PART.1: Sí, es que, claro, he empezado a
+pensar, ¿un mamífero sin pelo?
+
+78
+00:04:10,370 --> 00:04:16,010
+PART.1: Y grande, porque, claro, al
+principio estaba pensando en un
+delfín o así algo marino, ¿no?
+
+79
+00:04:16,290 --> 00:04:16,890
+PART.2: Sí.
+
+80
+00:04:16,970 --> 00:04:19,890
+PART.1: Pero cuando me has dicho que
+no era acuático digo, ostras, ¿sin
+pelo?
+
+81
+00:04:20,410 --> 00:04:27,210
+PART.1: Mamífero... Y se me ha ocurrido
+un elefante y digo, bueno, voy a
+tirar por ahí.
+
+82
+00:04:28,410 --> 00:04:29,210
+PART.2: Qué crac, ¿eh?
+
+83
+00:04:30,170 --> 00:04:31,930
+PART.1: Pero es que, claro,
+esto al final...
+
+84
+00:04:32,410 --> 00:04:34,650
+PART.2: Esto es lo más fácil
+que me ha tocado.
+
+85
+00:04:34,730 --> 00:04:35,250
+PART.1: ¿Sí?
+
+86
+00:04:35,330 --> 00:04:35,890
+PART.2: Sí.
+
+87
+00:04:35,970 --> 00:04:37,290
+PART.1: ¿Qué me ha tocado a mí antes?
+
+88
+00:04:38,090 --> 00:04:39,170
+PART.1: Ay, no me acuerdo.
+
+89
+00:04:39,770 --> 00:04:42,810
+PART.2: No, cuando se meten con aves,
+jamás vas a adivinarlo.
+
+90
+00:04:42,890 --> 00:04:43,850
+PART.1: Ah, sí. Un flamenco.
+
+91
+00:04:44,050 --> 00:04:44,810
+PART.2: Sí.
+
+92
+00:04:46,290 --> 00:04:48,410
+PART.1: Pregunté: "¿Es negro?
+¿Es blanco?" Y me dice: "No".
+
+93
+00:04:48,490 --> 00:04:51,170
+PART.1: ¿Cómo? Pues ya no sé
+de qué color puede ser.
+
+94
+00:04:52,450 --> 00:04:54,370
+PART.1: Digo, un loro que es así de
+colores.
+
+95
+00:04:55,090 --> 00:04:55,850
+PART.1: No sé.
+
+96
+00:04:55,930 --> 00:04:56,770
+PART.1: ¿Un flamenco?
+
+97
+00:05:01,810 --> 00:05:05,730
+PART.1: Javi, como ya se lo conoce,
+juega con ventaja.
+
+98
+00:05:11,810 --> 00:05:13,970
+PART.2: Bueno, pero los caballos son
+grandes, ¿no?
+
+99
+00:05:15,290 --> 00:05:19,610
+PART.1: Claro, pero estaba yo pensando
+que en comparación con un
+elefante...
+
+100
+00:05:20,050 --> 00:05:21,010
+PART.2: Ah, bueno.
+
+101
+00:05:21,090 --> 00:05:22,850
+PART.1: Claro, no es tan grande como eso.
+

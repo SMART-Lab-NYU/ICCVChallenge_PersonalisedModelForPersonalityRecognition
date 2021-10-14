@@ -1,0 +1,64 @@
+38
+00:02:02,013 --> 00:02:03,213
+PART.1: ¿Es carnívoro?
+
+39
+00:02:06,933 --> 00:02:12,173
+PART.2: No sé, no sé mucho de este animal,
+pero tiene una cosa que es muy
+característica.
+
+40
+00:02:14,093 --> 00:02:18,213
+PART.1: Mira, dijiste que era marrón,
+vivía en una zona calurosa...
+
+41
+00:02:18,293 --> 00:02:19,293
+PART.1: Sí, sí, sí, sí.
+
+42
+00:02:19,733 --> 00:02:20,733
+PART.2: Por ese lado.
+
+43
+00:02:20,813 --> 00:02:24,733
+PART.2: Pero no es África, es otra zona
+calurosa donde igual hay playa.
+
+44
+00:02:31,773 --> 00:02:32,893
+PART.1: ¿Puede nadar?
+
+45
+00:02:32,973 --> 00:02:33,973
+PART.2: No.
+
+46
+00:02:36,733 --> 00:02:37,813
+PART.1: Me falta una pregunta.
+
+47
+00:02:41,613 --> 00:02:42,573
+PART.2: Te voy a dar una pista.
+
+48
+00:02:42,653 --> 00:02:43,653
+PART.1: No, no puedes dar pistas.
+
+49
+00:02:43,733 --> 00:02:44,253
+PART.2: ¿No?
+
+50
+00:02:45,653 --> 00:02:46,653
+PART.1: No.
+
+51
+00:02:50,973 --> 00:02:52,333
+PART.1: ¿Come verdura?
+
+52
+00:02:53,373 --> 00:02:54,853
+PART.2: Yo creo que sí, sí.
+

@@ -1,0 +1,33 @@
+122
+00:05:01,489 --> 00:05:02,489
+PART.2: Ah, ok.
+
+123
+00:05:02,489 --> 00:05:07,489
+PART.1: So, we stayed in Milano,
+in Verona, in Venecia as well.
+
+124
+00:05:07,489 --> 00:05:07,689
+PART.2: Ah, it's really nice Venecia.
+
+125
+00:05:07,689 --> 00:05:08,089
+PART.1: It is Venice, right?
+
+126
+00:05:08,169 --> 00:05:08,689
+PART.2: Ah, it's really nice Venecia.
+
+127
+00:05:08,689 --> 00:05:08,969
+PART.1: So, it was nice.
+
+128
+00:05:09,049 --> 00:05:09,489
+PART.2: Ah, it's really nice Venecia.
+
+129
+00:05:09,489 --> 00:05:11,289
+PART.1: So, it was nice.
+

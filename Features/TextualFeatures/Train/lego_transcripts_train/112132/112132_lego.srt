@@ -1,0 +1,382 @@
+﻿1
+00:00:05,821 --> 00:00:07,141
+PART.2: Vale.
+
+2
+00:00:08,381 --> 00:00:09,749
+PART.1: Ok.
+
+3
+00:00:09,773 --> 00:00:11,141
+PART.2: A ver
+
+4
+00:00:11,341 --> 00:00:13,438
+PART.1: Vamos separando.
+
+5
+00:00:13,462 --> 00:00:16,341
+PART.2: Una de dos por ocho rojas.
+
+6
+00:00:16,365 --> 00:00:17,237
+PART.1: Esta.
+
+7
+00:00:17,261 --> 00:00:19,043
+PART.2: Ésta también.
+
+8
+00:00:19,067 --> 00:00:20,101
+PART.1: Sí.
+
+9
+00:00:20,301 --> 00:00:21,541
+PART.2: Una de dos por uno, roja.
+
+10
+00:00:21,741 --> 00:00:24,021
+PART.1: Esta, ¿no?
+
+11
+00:00:24,045 --> 00:00:24,197
+PART.2: Sí.
+
+12
+00:00:24,221 --> 00:00:26,592
+PART.2: Y una
+de cuatro por dos, rojas.
+
+13
+00:00:26,616 --> 00:00:28,581
+PART.2: está
+no es roja, pero.
+
+14
+00:00:28,605 --> 00:00:28,757
+PART.1: Esta.
+
+15
+00:00:28,781 --> 00:00:31,181
+PART.2: Pero no tiene que ser flat.
+
+16
+00:00:31,381 --> 00:00:35,941
+PART.2: Ah, igual que esta, esta tampoco es es flat.
+
+17
+00:00:36,661 --> 00:00:38,557
+PART.1: Ah, claro.
+
+18
+00:00:38,581 --> 00:00:42,021
+PART.2: Tiene que ser de estas más.
+
+19
+00:00:42,541 --> 00:00:44,661
+PART.2: Ah, no está, está el mismo color.
+
+20
+00:00:44,861 --> 00:00:46,461
+PART.1: Pues no, pero es igual, mira,
+
+21
+00:00:46,661 --> 00:00:49,259
+PART.1: En realidad, es más oscura.
+
+22
+00:00:48,445 --> 00:00:48,885
+PART.2: Ah, claro.
+
+23
+00:00:48,909 --> 00:00:50,317
+PART.2: Es más oscura, es esta.
+
+24
+00:00:50,341 --> 00:00:52,324
+PART.1: Bueno, ¿la montamos?
+
+25
+00:00:52,348 --> 00:00:54,781
+PART.2: Sí, al de dos va en una punta.
+
+26
+00:00:54,981 --> 00:00:57,141
+PART.2: Pues al cuadrado.
+
+27
+00:00:57,821 --> 00:01:01,061
+PART.2: Espera, está a contrarreloj.
+
+28
+00:01:01,341 --> 00:01:05,821
+PART.2: Ahora sí, en todos los cuadrados para encima.
+
+29
+00:01:03,965 --> 00:01:04,685
+PART.1: Ah, ah.
+
+30
+00:01:06,021 --> 00:01:13,181
+PART.2: Primero el claro, en la punta, más rojo en la punta.
+
+31
+00:01:11,245 --> 00:01:11,805
+PART.1: Está.
+
+32
+00:01:14,741 --> 00:01:20,421
+PART.2: Después yo voy sacando la siguiente es esto y un cuatro por dos, este.
+
+33
+00:01:18,805 --> 00:01:19,205
+PART.1: Este.
+
+34
+00:01:21,141 --> 00:01:27,541
+PART.2: Y van al cuatro por dos y este delante.
+
+35
+00:01:31,061 --> 00:01:34,421
+PART.2: Vale entonces, ahora toca esta pieza.
+
+36
+00:01:34,621 --> 00:01:36,821
+PART.2: Es decir, dos de estas.
+
+37
+00:01:38,141 --> 00:01:39,821
+PART.1: Aquí las hay.
+
+38
+00:01:40,021 --> 00:01:44,421
+PART.2: Ahora un cuatro por dos estas y a esta la veo.
+
+39
+00:01:44,621 --> 00:01:47,279
+PART.1: Y el pequeñito ese, ah.
+
+40
+00:01:47,303 --> 00:01:48,181
+PART.2: Aquí hay una.
+
+41
+00:01:48,381 --> 00:01:53,221
+PART.1: Sí, y una de éstas.
+
+42
+00:01:53,245 --> 00:01:59,581
+PART.2: Ah y está, no la hemos puesto aún.
+
+43
+00:01:59,605 --> 00:01:59,757
+PART.2: La pongo aquí.
+
+44
+00:01:59,781 --> 00:02:02,701
+PART.2: Entonces los dos de estos detrás.
+
+45
+00:02:02,901 --> 00:02:04,058
+PART.2: Ah, claro.
+
+46
+00:02:04,082 --> 00:02:05,741
+PART.1: Son dos, me parece.
+
+47
+00:02:05,941 --> 00:02:08,701
+PART.2: Sí, si se pone esto, aquí otra.
+
+48
+00:02:08,901 --> 00:02:10,021
+PART.1: Ahora sí.
+
+49
+00:02:10,221 --> 00:02:12,141
+PART.2: Ten, si quieres.
+
+50
+00:02:14,301 --> 00:02:17,301
+PART.1: Ya tiene forma.
+
+51
+00:02:17,501 --> 00:02:20,541
+PART.2: Después, ahora falta uno blanco y uno rojo.
+
+52
+00:02:21,381 --> 00:02:22,861
+PART.1: ¿Este transparente será?
+
+53
+00:02:23,061 --> 00:02:27,741
+PART.2: Sí, ah sí es el transparente y otro rojo.
+
+54
+00:02:29,021 --> 00:02:30,141
+PART.1: Este ¿no?
+
+55
+00:02:30,341 --> 00:02:31,737
+PART.2: Sí.
+
+56
+00:02:31,761 --> 00:02:35,621
+PART.1: Sí, que van como enfrentadas así ¿no?.
+
+57
+00:02:35,821 --> 00:02:36,821
+PART.2: Sí.
+
+58
+00:02:37,021 --> 00:02:38,821
+PART.1: No sé.
+
+59
+00:02:39,101 --> 00:02:41,381
+PART.2: ¿Te imaginas que falta una pieza final?
+
+60
+00:02:41,581 --> 00:02:48,181
+PART.2: Ahora cuatro ruedas y también unas con pequeñas.
+
+61
+00:02:45,246 --> 00:02:46,086
+PART.1: Pero tienen como...
+
+62
+00:02:48,781 --> 00:02:49,905
+PART.1: Esto al final.
+
+63
+00:02:49,929 --> 00:02:52,661
+PART.2: Sí esto, esto sí debe ser.
+
+64
+00:02:57,901 --> 00:02:59,621
+PART.2: Falta una.
+
+65
+00:03:02,181 --> 00:03:03,621
+PART.2: Aquí.
+
+66
+00:03:04,301 --> 00:03:06,495
+PART.1: Y una ruedita ¿no?
+
+67
+00:03:06,519 --> 00:03:09,701
+PART.2: Sí, se tienen que poner dentro.
+
+68
+00:03:15,981 --> 00:03:19,981
+PART.2: Vale, entonces se ponen las cuatro.
+
+69
+00:03:20,181 --> 00:03:23,301
+PART.2: Oy, que me lo cargo.
+
+70
+00:03:25,301 --> 00:03:29,261
+PART.2: Por aquí, Bueno, si quieres ponerlas.
+
+71
+00:03:30,021 --> 00:03:31,661
+PART.2: "Qué onda".
+
+72
+00:03:31,861 --> 00:03:33,541
+PART.2: Anda, ya hemos acabado.
+
+73
+00:03:33,741 --> 00:03:37,381
+PART.1: Oh, qué equipo, más veloz.
+
+74
+00:03:37,405 --> 00:03:37,557
+PART.2: Eh, sí, sí ¡toma ya!
+
+75
+00:03:37,581 --> 00:03:40,621
+PART.1: Ha quedado bien.
+
+76
+00:03:40,821 --> 00:03:43,501
+PART.2: Sí, sí, hala, ya está.
+
+77
+00:03:43,581 --> 00:03:45,061
+PART.2: ¡Choca!
+
+78
+00:03:46,701 --> 00:03:49,101
+PART.1: Bueno, vamos a hacer otras.
+
+79
+00:03:55,781 --> 00:03:58,381
+PART.1: Esto transparentes me gustan.
+
+80
+00:03:58,581 --> 00:04:03,581
+PART.2: Pff a mí me encantaba todo el lego.
+
+81
+00:04:21,421 --> 00:04:25,261
+PART.2: A ver cuánto se piensa ahora que vamos a tardar.
+
+82
+00:04:26,301 --> 00:04:28,581
+PART.1: Sí, podríamos haber traído el café y el té.
+
+83
+00:04:28,781 --> 00:04:30,381
+PART.2: Sí, sí.
+
+84
+00:05:02,541 --> 00:05:04,141
+PART.2: Espero que hay otro de estos.
+
+85
+00:05:04,341 --> 00:05:05,461
+PART.2: Ahora es más complicado, ahora el coche.
+
+86
+00:05:05,661 --> 00:05:10,581
+PART.1: Sí, nivel 2.
+
+87
+00:05:10,605 --> 00:05:12,605
+PART.2: Nivel 2.
+
+88
+00:05:19,501 --> 00:05:22,861
+PART.1: ¿Y vos hacés experimentos también de este tipo?
+
+89
+00:05:23,061 --> 00:05:24,522
+PART.1: No vos estás haciendo un master.
+
+90
+00:05:24,546 --> 00:05:25,341
+PART.2: Sí, sí, sí.
+
+91
+00:05:25,421 --> 00:05:27,741
+PART.1: ¿Y qué haces en el máster? ¿Solo estudias?
+
+92
+00:05:27,941 --> 00:05:28,981
+PART.2: Ah, sí.
+
+93
+00:05:29,005 --> 00:05:30,981
+PART.1: ¿Hay una parte práctica?
+
+94
+00:05:31,181 --> 00:05:32,381
+PART.2: Hay mucha parte práctica.
+
+95
+00:05:32,481 --> 00:05:44,341
+PART.2: De hecho, es la mayoría en la cual tenemos que, muchos de los conceptos que vemos, muchos algoritmos en inteligencia artificial, al final los tenemos que aplicar y testear.
+

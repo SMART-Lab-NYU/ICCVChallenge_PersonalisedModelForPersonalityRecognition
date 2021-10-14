@@ -1,0 +1,64 @@
+44
+00:02:01,681 --> 00:02:02,531
+PART.2: ¿Se monta?
+
+45
+00:02:02,531 --> 00:02:03,401
+PART.1: No.
+
+46
+00:02:06,581 --> 00:02:09,401
+PART.2: O sea que se come su carne, pero no su leche.
+
+47
+00:02:15,331 --> 00:02:17,001
+PART.2: ¿Se cría en granjas?
+
+48
+00:02:17,281 --> 00:02:18,331
+PART.1: Sí.
+
+49
+00:02:21,631 --> 00:02:22,781
+PART.2: ¿Oveja?
+
+50
+00:02:22,781 --> 00:02:23,781
+PART.1: No.
+
+51
+00:02:24,231 --> 00:02:25,901
+PART.1: ¿Cuántas preguntas te quedan?
+
+52
+00:02:26,831 --> 00:02:30,451
+PART.2: Creo que me quedan dos o tres, no me acuerdo, no las hemos contado.
+
+53
+00:02:31,301 --> 00:02:33,031
+PART.1: Bueno, ¿yo tengo que dejar la carta ya?
+
+54
+00:02:33,031 --> 00:02:37,131
+PART.2: No lo sé, podemos terminarlo y... eh...
+
+55
+00:02:37,431 --> 00:02:38,801
+PART.2: Mamífero...
+
+56
+00:02:39,581 --> 00:02:42,231
+PART.2: Se come la carne, no su leche...
+
+57
+00:02:50,031 --> 00:02:51,601
+PART.2: Se cría en granjas...
+
+58
+00:02:51,601 --> 00:02:53,681
+PART.2: No se me ocurren más cosas que preguntar.
+
+59
+00:02:53,681 --> 00:02:55,481
+PART.1: Bueno, creo que se cría en granjas...
+

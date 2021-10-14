@@ -1,0 +1,110 @@
+78
+00:05:00,014 --> 00:05:00,574
+PART.1: No.
+
+79
+00:05:00,774 --> 00:05:01,694
+PART.2: ¿No soy una cebra?
+
+80
+00:05:01,774 --> 00:05:02,534
+PART.2: Pero soy a rayas.
+
+81
+00:05:02,054 --> 00:05:02,894
+PART.1: Eres un felino.
+
+82
+00:05:03,574 --> 00:05:04,654
+PART.2: Ay, claro.
+
+83
+00:05:04,934 --> 00:05:06,334
+PART.2: Un felino a rayas.
+
+84
+00:05:07,174 --> 00:05:08,454
+PART.2: ¿Felino a rayas?
+
+85
+00:05:10,974 --> 00:05:12,174
+PART.2: Felino a...
+
+86
+00:05:17,054 --> 00:05:20,774
+PART.1: Vamos a ver, vivo en la
+sabana, soy un mamífero, vivo en
+manada
+
+87
+00:05:20,574 --> 00:05:21,574
+PART.2: ¿Felino a rayas?
+
+88
+00:05:23,934 --> 00:05:25,294
+PART.1: ¿Yo tengo algún diseño?
+
+89
+00:05:25,374 --> 00:05:26,254
+PART.1: ¿Algún patrón?
+
+90
+00:05:26,334 --> 00:05:27,174
+PART.1: O soy de un color.
+
+91
+00:05:27,414 --> 00:05:28,654
+PART.1: Perdón, ¿tengo algún patrón?
+
+92
+00:05:29,094 --> 00:05:29,534
+PART.2: Sí.
+
+93
+00:05:29,614 --> 00:05:30,934
+PART.1: Sí, tengo un patrón,
+vale.
+
+94
+00:05:31,854 --> 00:05:32,854
+PART.1: Ahora la última.
+
+95
+00:05:33,014 --> 00:05:33,854
+PART.2: ¿Ya es la última?
+
+96
+00:05:33,934 --> 00:05:34,774
+PART.1: Ahora viene la última
+tuya.
+
+97
+00:05:37,174 --> 00:05:38,854
+PART.2: ¿Soy un felino a rayas?
+
+98
+00:05:39,214 --> 00:05:41,014
+PART.2: Felino a rayas...
+
+99
+00:05:45,214 --> 00:05:47,054
+PART.1: Creo que es el único
+felino a rayas.
+
+100
+00:05:49,774 --> 00:05:51,494
+PART.2: Bua, te lo juro que no se
+me ocurre nada.
+
+101
+00:05:52,414 --> 00:05:53,734
+PART.1: Mi felino favorito.
+
+102
+00:05:55,694 --> 00:05:56,934
+PART.2: ¿Favorito?
+
+103
+00:05:57,614 --> 00:05:58,694
+PART.1: El más bonito.
+

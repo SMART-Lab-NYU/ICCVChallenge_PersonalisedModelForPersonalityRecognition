@@ -1,0 +1,102 @@
+﻿1
+00:00:02,639 --> 00:00:03,999
+PART.1: Yo soy Albert.
+
+2
+00:00:04,079 --> 00:00:04,999
+PART.2: Yo Alberto.
+
+3
+00:00:05,079 --> 00:00:06,199
+PART.1: Perfecto. Encantado.
+
+4
+00:00:07,559 --> 00:00:08,519
+PART.2: ¿Lo sabías o...?
+
+5
+00:00:08,599 --> 00:00:11,679
+PART.1: No. Ha dicho ahora Alberto y
+mira, yo justamente me llamo Albert.
+
+6
+00:00:13,319 --> 00:00:15,279
+PART.1: ¿Qué haces aquí? ¿Cómo has...?
+
+7
+00:00:16,639 --> 00:00:20,159
+PART.2: Pues yo estoy haciendo un
+proyecto con Cristina.
+
+8
+00:00:20,239 --> 00:00:21,039
+PART.1: Ah, vale.
+
+9
+00:00:21,119 --> 00:00:23,799
+PART.2: Cristina Palmero.
+¿La conoces de algo?
+
+10
+00:00:23,879 --> 00:00:27,119
+PART.1: De hablar por WhatsApp con ella.
+Es la que organiza esto, ¿no?
+
+11
+00:00:27,199 --> 00:00:33,199
+PART.2: Sí. Es la que organiza esto y yo
+estoy haciendo un TFM, trabajo final
+de máster, con ella.
+
+12
+00:00:33,279 --> 00:00:33,959
+PART.1: Ah, vale.
+
+13
+00:00:34,039 --> 00:00:38,239
+PART.2: Me dijo: "¿Oye, puedes venir a
+grabar para un proyecto?".
+
+14
+00:00:38,959 --> 00:00:39,839
+PART.1: Claro.
+
+15
+00:00:40,799 --> 00:00:43,319
+PART.1: Yo conozco a la hermana de Alexa.
+
+16
+00:00:43,879 --> 00:00:44,919
+PART.2: Hermana de Alexa.
+
+17
+00:00:44,999 --> 00:00:45,439
+PART.1: Sí.
+
+18
+00:00:45,519 --> 00:00:46,359
+PART.2: ¿Quién es Alexa?
+
+19
+00:00:46,439 --> 00:00:48,119
+PART.1: Es la chica que está aquí...
+
+20
+00:00:48,199 --> 00:00:48,879
+PART.2: Vale.
+
+21
+00:00:49,919 --> 00:00:54,239
+PART.2: Sí, la que me abrió ayer y me ha
+venido a buscar hoy.
+
+22
+00:00:54,719 --> 00:00:56,119
+PART.1: Pues sí, la chica que está ahí.
+
+23
+00:00:56,199 --> 00:01:04,839
+PART.1: Su hermana hacía teatro conmigo y
+dijo: "Mi hermana está haciendo
+esto, a ver si podéis ir".
+

@@ -1,0 +1,589 @@
+﻿1
+00:00:01,371 --> 00:00:02,531
+PART.2: Hola, ¿cómo te llamas?
+
+2
+00:00:02,611 --> 00:00:03,411
+PART.1: Soy Ana.
+
+3
+00:00:03,491 --> 00:00:04,051
+PART.1: ¿Y tú?
+
+4
+00:00:04,131 --> 00:00:05,051
+PART.2: Alejandro.
+
+5
+00:00:05,491 --> 00:00:06,931
+PART.2: ¿Y cómo te embaucaron en esto?
+
+6
+00:00:07,411 --> 00:00:16,891
+PART.1: Pues nada, conocí a Javi y me
+comentó el experimento y como yo soy
+así, a mí me gusta hacer estas
+cosas, pues le dije: "Oye, yo, si
+quieres, puedo participar".
+
+7
+00:00:17,371 --> 00:00:18,971
+PART.1: Y me dijo: "Ah, ¿sí? Pues
+maravilloso".
+
+8
+00:00:19,051 --> 00:00:19,891
+PART.2: Muy bien.
+
+9
+00:00:20,651 --> 00:00:21,331
+PART.1: ¿Y tú?
+
+10
+00:00:21,411 --> 00:00:23,011
+PART.2: Yo trabajo al lado de Javi.
+
+11
+00:00:23,091 --> 00:00:23,731
+PART.1: Ah.
+
+12
+00:00:23,811 --> 00:00:24,811
+PART.2: Somos compañeros de despacho.
+
+13
+00:00:24,891 --> 00:00:26,571
+PART.1: O sea, trabajas aquí también en
+la universidad.
+
+14
+00:00:26,251 --> 00:00:29,891
+PART.2: Sí, bueno, así como trabajar,
+trabajar, no, ¿eh?
+
+15
+00:00:31,251 --> 00:00:32,731
+PART.2: Por lo que me pagan.
+
+16
+00:00:33,651 --> 00:00:36,291
+PART.1: Estás aquí,
+tienes que venir todos los días.
+
+17
+00:00:34,931 --> 00:00:37,851
+PART.2: Sí. Todos los días estoy aquí, al
+lado de él.
+
+18
+00:00:39,571 --> 00:00:40,971
+PART.1: Y nada, también te ha liado, ¿no?
+
+19
+00:00:41,051 --> 00:00:42,051
+PART.2: Sí, sí.
+
+20
+00:00:42,291 --> 00:00:50,491
+PART.1: Bueno, es que al final, para
+estas cosas, siempre es verdad que
+tienes que ir convenciendo gente:
+Venga, porfa...
+
+21
+00:00:50,891 --> 00:00:53,211
+PART.2: ¿Y a ti también te paga para
+estar aquí?
+
+22
+00:00:53,291 --> 00:00:53,971
+PART.1: No.
+
+23
+00:00:54,651 --> 00:00:59,731
+PART.1: No. Yo he venido porque me gusta
+y lo veo útil también.
+
+24
+00:00:59,811 --> 00:01:04,611
+PART.1: Al final es como, a ver, si yo
+hiciese algo así también me gustaría
+que la gente participase, ¿no?
+
+25
+00:01:04,691 --> 00:01:05,691
+PART.2: Sí, sí.
+
+26
+00:01:08,931 --> 00:01:10,051
+PART.2: Bueno, sí.
+
+27
+00:01:10,731 --> 00:01:11,771
+PART.1: ¿Y tú ya has hecho...?
+
+28
+00:01:12,331 --> 00:01:13,531
+PART.2: Este es el tercero.
+
+29
+00:01:13,611 --> 00:01:15,291
+PART.2: Solo me falta uno y ya...
+
+30
+00:01:15,691 --> 00:01:17,331
+PART.2: Ya me va a dejar de molestar.
+
+31
+00:01:17,411 --> 00:01:18,691
+PART.1: O sea, ¿son cuatro veces?
+
+32
+00:01:18,771 --> 00:01:19,531
+PART.2: Sí.
+
+33
+00:01:19,611 --> 00:01:20,171
+PART.1: Ostras.
+
+34
+00:01:20,251 --> 00:01:21,291
+PART.2: ¿Este es el segundo?
+
+35
+00:01:21,371 --> 00:01:22,331
+PART.1: No, yo la primera.
+
+36
+00:01:22,411 --> 00:01:23,131
+PART.2: Ah.
+
+37
+00:01:24,291 --> 00:01:27,571
+PART.2: Espero que te guste y que este
+hombre me deje en paz.
+
+38
+00:01:24,931 --> 00:01:25,891
+PART.1: Así este hombre...
+
+39
+00:01:27,931 --> 00:01:29,611
+PART.1: Bueno, yo me lo he pasado bien
+con los Lego.
+
+40
+00:01:31,891 --> 00:01:35,011
+PART.2: Me lo paso mejor con el juego de
+adivinar el animal.
+
+41
+00:01:35,291 --> 00:01:36,411
+PART.1: Ese se me da muy mal.
+
+42
+00:01:37,491 --> 00:01:38,491
+PART.2: Bueno.
+
+43
+00:01:37,971 --> 00:01:38,771
+PART.1: En general.
+
+44
+00:01:38,971 --> 00:01:41,651
+PART.2: O sea, yo siempre he perdido en
+ese juego, pero uno se lo pasa bien.
+
+45
+00:01:42,171 --> 00:01:45,651
+PART.2: Más creativo, te vas
+perfeccionando en las preguntas...
+
+46
+00:01:44,651 --> 00:01:46,291
+PART.1: Sí. Tienes que pensar un poco
+también.
+
+47
+00:01:47,491 --> 00:01:48,691
+PART.1: ¿Y tú de dónde vienes?
+
+48
+00:01:48,771 --> 00:01:49,411
+PART.2: De México.
+
+49
+00:01:49,491 --> 00:01:50,371
+PART.1: De México.
+
+50
+00:01:50,811 --> 00:01:52,571
+PART.1: Pero ¿hace ya tiempo que estás
+aquí?
+
+51
+00:01:52,651 --> 00:01:54,491
+PART.2: Pues, este será mi cuarto año.
+
+52
+00:01:54,571 --> 00:01:55,691
+PART.1: Bueno, ya hace tiempo.
+
+53
+00:01:56,131 --> 00:01:57,931
+PART.2: Sí, sí, pero no hablo así como...
+
+54
+00:01:58,651 --> 00:01:59,891
+PART.1: Bueno, es que el catalán...
+
+55
+00:02:01,931 --> 00:02:04,731
+PART.1: Bueno, yo soy de Valencia,
+soy de aquí cerquita.
+
+56
+00:02:04,811 --> 00:02:06,331
+PART.2: Entonces, también hablas...
+
+57
+00:02:06,611 --> 00:02:07,371
+PART.1: Sí.
+
+58
+00:02:07,451 --> 00:02:13,411
+PART.1: A ver, sí que es verdad que hay
+algunas palabras, algunas cosas, que
+nos chocan un poco, pero sí.
+
+59
+00:02:14,251 --> 00:02:15,731
+PART.2: ¿A ellos o a ustedes?
+
+60
+00:02:16,451 --> 00:02:17,331
+PART.1: Las dos.
+
+61
+00:02:17,411 --> 00:02:21,491
+PART.1: Bueno, es que los valencianos
+hablamos como el catalán, pero muy
+mal hablado.
+
+62
+00:02:22,131 --> 00:02:24,091
+PART.1: Lo mezclamos con castellano...
+
+63
+00:02:24,451 --> 00:02:25,691
+PART.2: Pero normal, ¿eh?
+
+64
+00:02:26,251 --> 00:02:27,691
+PART.2: O sea, es parte de la geografía.
+
+65
+00:02:27,771 --> 00:02:28,611
+PART.1: Sí, sí.
+
+66
+00:02:30,411 --> 00:02:34,691
+PART.2: Sí, sí, un valenciano me comentó:
+"No, es que a ellos les molesta
+cuando empezamos...".
+
+67
+00:02:35,291 --> 00:02:37,131
+PART.1: Ah, bueno, yo creo que no.
+
+68
+00:02:37,211 --> 00:02:38,971
+PART.1: Realmente con la gente que he
+hablado así...
+
+69
+00:02:39,051 --> 00:02:47,371
+PART.1: Como, por ejemplo, el club este,
+el Real Español, ese que es
+"esportiu", pues "portiu" o algo así
+y decí "Eso no existe, tío, esa
+palabra no existe".
+
+70
+00:02:48,171 --> 00:02:49,571
+PART.2: O algo así, no sé.
+
+71
+00:02:49,891 --> 00:02:50,811
+PART.1: ""Esportiu".
+
+72
+00:02:51,211 --> 00:02:51,891
+PART.2: Sí, ese.
+
+73
+00:02:51,651 --> 00:02:53,651
+PART.1: ¿En catalán cómo es? ¿Cómo sería?
+
+74
+00:02:56,571 --> 00:02:59,131
+PART.2: No sé. Tienen otra palabra para
+deportivo.
+
+75
+00:02:59,211 --> 00:03:01,731
+PART.2: Ah, no, "deportiu" y "esportiu".
+
+76
+00:03:00,571 --> 00:03:01,251
+PART.1: Ah, claro.
+
+77
+00:03:01,931 --> 00:03:04,291
+PART.1: "Deportiu" decimos en valenciano,
+es verdad.
+
+78
+00:03:04,371 --> 00:03:12,371
+PART.1: Pero "deporte", o sea, "deport"
+es como una mezcla que coges la
+palabra en castellano y la pasas a
+valenciano, pero no es así.
+
+79
+00:03:11,891 --> 00:03:15,331
+PART.2: Ya, pero es así como un drama,
+así como, tío, pero lo estás
+entendiendo, ¿no?
+
+80
+00:03:15,531 --> 00:03:16,811
+PART.1: Ya. Eso sí, eso sí.
+
+81
+00:03:17,331 --> 00:03:18,611
+PART.2: O sea, da lo mismo que
+"esportiu".
+
+82
+00:03:18,931 --> 00:03:22,171
+PART.1: ¿Y has escuchado a gente de
+Mallorca y así?
+
+83
+00:03:23,251 --> 00:03:24,091
+PART.2: No.
+
+84
+00:03:24,171 --> 00:03:30,131
+PART.1: Es que los mallorquines si que...
+Bueno, también es catalán, pero un
+catalán que no se entiende.
+
+85
+00:03:30,211 --> 00:03:33,611
+PART.2: Bueno, no sé si son mallorquines
+o menorquines, para mí es lo mismo.
+
+86
+00:03:34,051 --> 00:03:35,251
+PART.1: Sí, bueno, están al lado.
+
+87
+00:03:35,931 --> 00:03:37,011
+PART.2: Pero...
+
+88
+00:03:38,091 --> 00:03:42,171
+PART.2: No sé, hacen un drama por
+una situación geográfica muy, muy
+pequeña.
+
+89
+00:03:42,251 --> 00:03:43,811
+PART.1: Ya. Sí, sí.
+
+90
+00:03:44,451 --> 00:03:45,891
+PART.2: No es de continental.
+
+91
+00:03:46,771 --> 00:03:49,291
+PART.2: No están ni en Islas Canarias.
+
+92
+00:03:49,851 --> 00:03:50,891
+PART.1: Si están aquí al lado.
+
+93
+00:03:51,491 --> 00:03:53,691
+PART.2: Puedo entender que le digan al
+"bus", "guagua".
+
+94
+00:03:53,971 --> 00:03:55,091
+PART.2: "Guagua", ¿por qué?
+
+95
+00:03:54,731 --> 00:03:55,531
+PART.1: ¿"Guagua"?
+
+96
+00:03:55,811 --> 00:03:56,691
+PART.1: ¿Al "bus"?
+
+97
+00:03:56,771 --> 00:03:57,171
+PART.2: Sí.
+
+98
+00:03:57,251 --> 00:03:57,851
+PART.1: ¿Eso quién?
+
+99
+00:03:57,931 --> 00:03:59,451
+PART.2: Los canarios.
+
+100
+00:03:59,531 --> 00:04:00,531
+PART.1: ¿Los canarios?
+
+101
+00:04:00,611 --> 00:04:01,411
+PART.2: Dicen "guagua".
+
+102
+00:04:02,251 --> 00:04:03,851
+PART.1: Pues la primera vez que lo
+escucho, eh.
+
+103
+00:04:03,931 --> 00:04:05,131
+PART.2: Sí, sí, sí.
+
+104
+00:04:04,771 --> 00:04:06,291
+PART.1: "Guagua", qué raro.
+
+105
+00:04:05,651 --> 00:04:06,491
+PART.2: "Guagua".
+
+106
+00:04:08,731 --> 00:04:10,411
+PART.2: Sí es superraro, ¿no?
+
+107
+00:04:10,491 --> 00:04:12,331
+PART.2: No tiene ningún sentido,
+bueno, no sé.
+
+108
+00:04:13,451 --> 00:04:14,851
+PART.1: Bueno, los canarios también...
+
+109
+00:04:15,691 --> 00:04:16,931
+PART.1: Digo, ya están lejos, ya...
+
+110
+00:04:17,011 --> 00:04:19,251
+PART.2: De hecho, hablan como los
+cubanos, los canarios.
+
+111
+00:04:19,331 --> 00:04:20,291
+PART.1: Sí, sí, sí.
+
+112
+00:04:20,731 --> 00:04:21,531
+PART.2: Es increíble.
+
+113
+00:04:29,011 --> 00:04:30,331
+PART.2: ¿Y por qué vienes hoy jueves?
+
+114
+00:04:31,211 --> 00:04:32,011
+PART.1: Pues porque...
+
+115
+00:04:31,811 --> 00:04:33,251
+PART.2: ¿Tuviste la mañana libre?
+
+116
+00:04:34,011 --> 00:04:42,331
+PART.1: Justo empiezo a trabajar el lunes
+que viene y, nada, esta semana la
+tenía libre y digo, pues ya que
+puedo ir aprovecho.
+
+117
+00:04:39,651 --> 00:04:40,491
+PART.2: Ah, bueno.
+
+118
+00:04:42,451 --> 00:04:47,171
+PART.1: Porque si no, me tocaba venir el
+sábado y un sábado... como que da un
+poco más de pereza
+
+119
+00:04:48,131 --> 00:04:49,371
+PART.2: Sí, sí, sí.
+
+120
+00:04:50,571 --> 00:04:53,731
+PART.2: Javi viene los sábados de nueve a
+nueve, o sea, increíble, no sé.
+
+121
+00:04:54,171 --> 00:04:55,651
+PART.1: Sí, está aquí todo el día.
+
+122
+00:04:55,731 --> 00:04:58,731
+PART.2: Yo no sé cómo hay gente que viene
+el sábado a las ocho a hacer esto.
+
+123
+00:04:59,371 --> 00:05:00,211
+PART.1: Ya.
+
+124
+00:05:01,491 --> 00:05:05,771
+PART.1: Bueno, yo ahora cuando empiece a
+trabajar, mi horario es de
+diez a ocho.
+
+125
+00:05:07,291 --> 00:05:08,771
+PART.1: O sea, ya es todo el día ahí...
+
+126
+00:05:09,131 --> 00:05:10,051
+PART.1: Pero bueno.
+
+127
+00:05:10,131 --> 00:05:11,931
+PART.2: ¿Y también eres del mismo pueblo
+que Javi?
+
+128
+00:05:12,411 --> 00:05:15,251
+PART.1: No, yo soy de un pueblecillo que
+se llama Algemesí.
+
+129
+00:05:16,811 --> 00:05:18,531
+PART.1: Está por ahí perdido.
+
+130
+00:05:19,851 --> 00:05:22,771
+PART.2: Pueblo, pueblo, más bien es
+suburbio de Valencia, yo digo.
+
+131
+00:05:23,051 --> 00:05:24,531
+PART.1: Sí, yo creo que sí.
+

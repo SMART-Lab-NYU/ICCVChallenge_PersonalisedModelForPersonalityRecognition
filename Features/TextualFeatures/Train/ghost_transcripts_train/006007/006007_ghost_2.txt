@@ -1,0 +1,115 @@
+54
+00:02:00,082 --> 00:02:00,242
+PART.2: Yes, you are right
+so you win.
+
+55
+00:02:00,242 --> 00:02:02,242
+PART.1: But there's no blue,
+yes, there is.
+
+56
+00:02:02,242 --> 00:02:04,242
+PART.1: Ok, I am right, I am right.
+
+57
+00:02:04,842 --> 00:02:05,962
+PART.2: Is it your turn?
+
+58
+00:02:05,962 --> 00:02:07,962
+PART.1: No, I think it's your turn.
+
+59
+00:02:14,562 --> 00:02:16,362
+PART.1: Ok, take it, take it.
+
+60
+00:02:16,642 --> 00:02:18,762
+PART.1: Yes, I think
+that is the right answer.
+
+61
+00:02:19,242 --> 00:02:20,762
+PART.2: There is the grey and the mouse.
+
+62
+00:02:20,962 --> 00:02:24,242
+PART.1: Yes, yes,
+because there is no blue in this
+and there is no book in this.
+
+63
+00:02:25,242 --> 00:02:26,242
+PART.1: Last one...
+
+64
+00:02:31,362 --> 00:02:32,362
+PART.1: Yes, you are right.
+
+65
+00:02:32,842 --> 00:02:33,842
+PART.2: Right?
+
+66
+00:02:34,042 --> 00:02:35,842
+PART.2: There is no white
+and there is no ghost.
+
+67
+00:02:36,642 --> 00:02:37,842
+PART.1: I think you won.
+
+68
+00:02:38,842 --> 00:02:40,042
+PART.1: Yes, you won
+because I have four and you five.
+
+69
+00:02:40,042 --> 00:02:40,402
+PART.2: One, two, three...
+
+70
+00:02:40,482 --> 00:02:41,242
+PART.1: Yes, you won
+because I have four and you five.
+
+71
+00:02:41,242 --> 00:02:41,842
+PART.2: One, two, three...
+
+72
+00:02:41,842 --> 00:02:43,762
+PART.1: Six? What?
+How many do you have?
+
+73
+00:02:44,562 --> 00:02:47,962
+PART.1: Are you sure
+some of those
+are not from the training session?
+
+74
+00:02:48,762 --> 00:02:50,162
+PART.1: How do you have seven?
+
+75
+00:02:50,162 --> 00:02:52,162
+PART.2: I think I've got the most
+of the blue books.
+
+76
+00:02:52,362 --> 00:02:54,562
+PART.1: I think you've got
+all the blue books.
+
+77
+00:02:54,842 --> 00:02:57,042
+PART.2: Yes, the three blue books
+were for free.
+
+78
+00:02:57,362 --> 00:03:00,642
+PART.1: Yes, I think you just won
+for the blue books.
+

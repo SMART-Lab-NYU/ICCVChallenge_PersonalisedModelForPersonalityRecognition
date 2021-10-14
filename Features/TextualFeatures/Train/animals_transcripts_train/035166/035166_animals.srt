@@ -1,0 +1,765 @@
+﻿1
+00:00:00,481 --> 00:00:02,801
+PART.2: ¿Hacemos como diez seguidas y diez
+seguidas?
+
+2
+00:00:02,801 --> 00:00:03,841
+PART.1: Sí, es mejor.
+
+3
+00:00:03,841 --> 00:00:04,961
+PART.2: Así me acuerdo de las
+otras.
+
+4
+00:00:04,961 --> 00:00:06,601
+PART.1: Sí, yo también prefiero
+eso.
+
+5
+00:00:06,601 --> 00:00:07,601
+PART.1: Más fácil.
+
+6
+00:00:07,601 --> 00:00:08,721
+PART.1: ¿Empiezo yo?
+
+7
+00:00:08,721 --> 00:00:09,601
+PART.2: Vale.
+
+8
+00:00:09,601 --> 00:00:11,161
+PART.1: Bueno. Eh...
+
+9
+00:00:13,921 --> 00:00:16,721
+PART.1: ¿Soy un animal terrestre?
+
+10
+00:00:18,641 --> 00:00:19,521
+PART.2: No.
+
+11
+00:00:19,521 --> 00:00:20,481
+PART.1: No.
+
+12
+00:00:20,481 --> 00:00:21,801
+PART.1: Eh...
+
+13
+00:00:22,601 --> 00:00:23,881
+PART.2: A ver, espera, por
+terrestre...
+
+14
+00:00:23,881 --> 00:00:24,601
+PART.2: Es que, claro...
+
+15
+00:00:24,601 --> 00:00:26,361
+PART.1: Que vive en la tierra.
+
+16
+00:00:26,961 --> 00:00:27,921
+PART.2: Sí.
+
+17
+00:00:27,921 --> 00:00:30,681
+PART.2: Pero... ¡Buah! Sí, sí, vives en la
+tierra, sí.
+
+18
+00:00:30,681 --> 00:00:32,321
+PART.1: Sí. Eh...
+
+19
+00:00:36,081 --> 00:00:37,321
+PART.1: Vale, terrestre...
+
+20
+00:00:38,041 --> 00:00:39,121
+PART.1: Eh...
+
+21
+00:00:39,121 --> 00:00:40,321
+PART.1: ¿Tengo cuatro patas?
+
+22
+00:00:40,321 --> 00:00:40,841
+PART.2: No.
+
+23
+00:00:40,841 --> 00:00:41,761
+PART.1: No.
+
+24
+00:00:41,761 --> 00:00:42,441
+PART.1: ¿Tengo alas?
+
+25
+00:00:42,441 --> 00:00:43,241
+PART.2: Sí.
+
+26
+00:00:43,241 --> 00:00:44,321
+PART.1: Vale, sí.
+
+27
+00:00:57,681 --> 00:01:01,081
+PART.1: ¿Soy un ave de presa, de rapiña?
+
+28
+00:01:01,081 --> 00:01:02,401
+PART.1: ¿Cazo otros animales?
+
+29
+00:01:02,401 --> 00:01:03,481
+PART.2: Sí, sí.
+
+30
+00:01:03,481 --> 00:01:05,241
+PART.1: Vale. Eh...
+
+31
+00:01:21,601 --> 00:01:23,201
+PART.1: Ah, siempre me quedo...
+
+32
+00:01:23,761 --> 00:01:25,521
+PART.1: Me congelo cuando tengo que
+preguntar cosas así.
+
+33
+00:01:36,201 --> 00:01:38,041
+PART.1: ¿Cazo de noche?
+
+34
+00:01:38,041 --> 00:01:39,041
+PART.2: Sí.
+
+35
+00:01:39,041 --> 00:01:40,161
+PART.1: Ah...
+
+36
+00:01:40,161 --> 00:01:41,441
+PART.1: Eh...
+
+37
+00:01:51,401 --> 00:01:53,281
+PART.1: ¿Puedo girar mi cabeza mucho?
+
+38
+00:01:54,041 --> 00:01:54,881
+PART.2: Sí.
+
+39
+00:01:54,881 --> 00:01:56,681
+PART.1: Vale. ¿Soy un búho?
+
+40
+00:01:57,921 --> 00:01:58,641
+PART.1: ¿Sí?
+
+41
+00:01:58,641 --> 00:01:59,721
+PART.2: Sí, eres un búho.
+
+42
+00:01:59,721 --> 00:02:00,721
+PART.1: Vale.
+
+43
+00:02:01,201 --> 00:02:02,081
+PART.2: Vale. ¡Uf!
+
+44
+00:02:03,681 --> 00:02:05,241
+PART.2: Pero es solo de animales, ¿no?
+
+45
+00:02:05,241 --> 00:02:06,481
+PART.2: No puede ser otra cosa que no sea
+un animal.
+
+46
+00:02:06,481 --> 00:02:07,081
+PART.1: No, animales.
+
+47
+00:02:07,081 --> 00:02:07,641
+PART.2: Vale.
+
+48
+00:02:07,641 --> 00:02:08,561
+PART.1: Solo animales. Vale.
+
+49
+00:02:08,561 --> 00:02:10,441
+PART.2: Eh... ¿Soy mamífero?
+
+50
+00:02:10,961 --> 00:02:11,801
+PART.1: Sí.
+
+51
+00:02:12,681 --> 00:02:14,081
+PART.2: ¿Tengo pelo?
+
+52
+00:02:14,721 --> 00:02:15,561
+PART.1: Sí.
+
+53
+00:02:16,401 --> 00:02:18,121
+PART.2: ¿Vivo en manada?
+
+54
+00:02:18,121 --> 00:02:19,201
+PART.1: Sí.
+
+55
+00:02:24,321 --> 00:02:27,321
+PART.2: ¿Soy omnívoro?
+
+56
+00:02:28,361 --> 00:02:29,201
+PART.1: No.
+
+57
+00:02:32,041 --> 00:02:33,481
+PART.2: Llevo... ¿Cuántas llevo?
+
+58
+00:02:33,481 --> 00:02:34,241
+PART.1: Cuatro.
+
+59
+00:02:34,241 --> 00:02:36,241
+PART.2: Vale. Eh...
+
+60
+00:02:40,441 --> 00:02:43,001
+PART.2: ¿Me puedes encontrar en una granja?
+
+61
+00:02:43,001 --> 00:02:43,881
+PART.1: No.
+
+62
+00:02:45,681 --> 00:02:46,841
+PART.2: Joder, ¿no?
+
+63
+00:02:46,841 --> 00:02:47,841
+PART.2: ¿Y soy omnívoro?
+
+64
+00:02:47,841 --> 00:02:49,561
+PART.1: No, no eres omnívoro.
+
+65
+00:02:49,561 --> 00:02:51,121
+PART.2: Ah, no, es verdad. No,
+no, no.
+
+66
+00:02:52,321 --> 00:02:55,121
+PART.1: No eres omnívora y no
+vives en una granja.
+
+67
+00:02:58,681 --> 00:03:00,361
+PART.2: Uh... ¿En serio?
+
+68
+00:03:05,521 --> 00:03:07,121
+PART.2: ¿Soy un felino?
+
+69
+00:03:07,121 --> 00:03:07,881
+PART.1: No.
+
+70
+00:03:10,441 --> 00:03:12,961
+PART.2: Va, pues me está
+costando mucho.
+
+71
+00:03:15,921 --> 00:03:20,481
+PART.2: A ver, tengo pelo, no estoy en una
+granja, no soy omnívoro...
+
+72
+00:03:21,281 --> 00:03:23,361
+PART.2: Es que esa pregunta la he hecho muy
+mal.
+
+73
+00:03:23,361 --> 00:03:27,641
+PART.2: Tenía que haber preguntado si solo
+como hierba.
+
+74
+00:03:27,641 --> 00:03:30,401
+PART.2: No me la contestes, porque no
+quiero hacer esa pregunta.
+
+75
+00:03:30,401 --> 00:03:31,481
+PART.2: Eh...
+
+76
+00:03:32,041 --> 00:03:34,121
+PART.1: Si quieres, puedes
+cambiar esa pregunta por la...
+
+77
+00:03:34,761 --> 00:03:36,561
+PART.2: ¿Sí? ¿La puedo cambiar?
+Vale.
+
+78
+00:03:36,561 --> 00:03:37,361
+PART.1: Sí, cámbiala.
+
+79
+00:03:37,361 --> 00:03:38,601
+PART.2: ¿Entonces como hierba?
+
+80
+00:03:38,601 --> 00:03:39,521
+PART.1: No.
+
+81
+00:03:39,521 --> 00:03:42,561
+PART.2: Entonces solo como...
+Vale, solo como carne, ya está.
+
+82
+00:03:42,561 --> 00:03:44,721
+PART.2: Vale. ¿Vivo en la selva?
+
+83
+00:03:44,721 --> 00:03:45,601
+PART.1: No.
+
+84
+00:03:46,281 --> 00:03:48,161
+PART.2: ¡Joder! ¿Y...?
+
+85
+00:03:49,761 --> 00:03:56,321
+PART.2: Carnívoro, pelo, carne, no granja,
+mamífero.
+
+86
+00:04:00,001 --> 00:04:01,641
+PART.1: Que vive en manadas.
+
+87
+00:04:01,641 --> 00:04:03,201
+PART.2: Que vive en manadas.
+
+88
+00:04:06,281 --> 00:04:07,321
+PART.2: ¿Con pelo?
+
+89
+00:04:08,681 --> 00:04:10,121
+PART.2: Y come carne.
+
+90
+00:04:10,601 --> 00:04:11,881
+PART.1: Y no es un felino.
+
+91
+00:04:13,841 --> 00:04:14,961
+PART.2: ¿Soy un lobo?
+
+92
+00:04:15,681 --> 00:04:16,481
+PART.1: No.
+
+93
+00:04:16,481 --> 00:04:16,681
+PART.2: ¿No?
+
+94
+00:04:16,681 --> 00:04:17,561
+PART.1: No.
+
+95
+00:04:19,161 --> 00:04:20,161
+PART.2: ¡Ay!
+
+96
+00:04:23,201 --> 00:04:24,921
+PART.2: Me está costando tanto...
+
+97
+00:04:25,361 --> 00:04:26,281
+PART.2: ¿Cuántas...?
+
+98
+00:04:26,281 --> 00:04:27,121
+PART.1: Es difícil.
+
+99
+00:04:27,121 --> 00:04:27,921
+PART.2: ¿Cuántas llevo?
+
+100
+00:04:27,921 --> 00:04:29,281
+PART.1: Admito que es difícil.
+Llevas ocho.
+
+101
+00:04:29,881 --> 00:04:30,921
+PART.2: Vale.
+
+102
+00:04:32,281 --> 00:04:33,801
+PART.2: ¿Voy en cuatro patas?
+
+103
+00:04:37,841 --> 00:04:38,961
+PART.2: Venga, no me jodas.
+
+104
+00:04:38,961 --> 00:04:42,961
+PART.2: O sea, así que voy en una, a la
+pata coja ya directamente, porque
+es que...
+
+105
+00:04:42,961 --> 00:04:44,121
+PART.1: Es que...
+
+106
+00:04:44,841 --> 00:04:45,961
+PART.1: ¿Patas?
+
+107
+00:04:49,761 --> 00:04:51,601
+PART.2: ¿Que no tengo patas o
+qué?
+
+108
+00:04:51,601 --> 00:04:53,481
+PART.1: No, no tienes patas.
+
+109
+00:04:57,881 --> 00:04:59,441
+PART.2: ¿Cómo que no tengo
+patas?
+
+110
+00:04:59,441 --> 00:05:01,121
+PART.2: O sea, ¿soy un mamífero sin patas?
+
+111
+00:05:02,041 --> 00:05:04,401
+PART.2: Mamífero sin patas que come
+carne...
+
+112
+00:05:05,161 --> 00:05:06,281
+PART.2: O sea, soy un...
+
+113
+00:05:06,281 --> 00:05:08,481
+PART.2: Doy asco directamente.
+
+114
+00:05:09,081 --> 00:05:10,641
+PART.1: No, son adorables.
+
+115
+00:05:10,641 --> 00:05:11,721
+PART.2: ¿Son adorables?
+
+116
+00:05:13,241 --> 00:05:16,441
+PART.2: Mamífero, sin patas, que come
+carne, en manada...
+
+117
+00:05:16,921 --> 00:05:17,921
+PART.2: ¿Qué más he dicho?
+
+118
+00:05:18,481 --> 00:05:19,441
+PART.1: Que...
+
+119
+00:05:20,041 --> 00:05:20,881
+PART.1: Que tiene pelaje...
+
+120
+00:05:20,881 --> 00:05:22,081
+PART.2: Que tiene pelo.
+
+121
+00:05:22,081 --> 00:05:23,761
+PART.1: Que tiene pelo, que...
+
+122
+00:05:24,321 --> 00:05:25,601
+PART.2: Son adorables.
+
+123
+00:05:25,601 --> 00:05:26,801
+PART.2: Voy a ir ya por ahí...
+
+124
+00:05:26,801 --> 00:05:27,641
+PART.1: Sí.
+
+125
+00:05:28,921 --> 00:05:30,361
+PART.2: ¿Cuántas llevo?
+
+126
+00:05:30,361 --> 00:05:31,321
+PART.1: Nueve.
+
+127
+00:05:31,321 --> 00:05:33,281
+PART.2: Yo voy a hacer doce,
+¿vale?
+
+128
+00:05:33,281 --> 00:05:34,241
+PART.2: ¿Por qué no?
+
+129
+00:05:34,241 --> 00:05:34,921
+PART.1: Bueno...
+
+130
+00:05:34,921 --> 00:05:36,001
+PART.2: No, no lo voy a
+adivinar.
+
+131
+00:05:36,001 --> 00:05:37,041
+PART.2: Eh...
+
+132
+00:05:38,281 --> 00:05:41,761
+PART.1: Y no viven en la granja
+ni en la selva...
+
+133
+00:05:42,481 --> 00:05:44,481
+PART.2: O sea, tiene que estar
+en el campo...
+
+134
+00:05:51,601 --> 00:05:52,761
+PART.2: ¿En el...?
+
+135
+00:05:53,241 --> 00:05:54,281
+PART.2: ¿No están en el campo?
+
+136
+00:05:54,281 --> 00:05:55,081
+PART.2: Vale.
+
+137
+00:05:57,961 --> 00:06:01,201
+PART.2: Vale, o sea, si no está en el
+campo, tiene que estar en el
+bosque.
+
+138
+00:06:02,561 --> 00:06:03,241
+PART.2: ¿No?
+
+139
+00:06:03,241 --> 00:06:04,601
+PART.2: ¡Joder! Es que...
+
+140
+00:06:05,121 --> 00:06:05,961
+PART.2: No puede ser.
+
+141
+00:06:05,961 --> 00:06:08,761
+PART.1: Te estás perdiendo una
+parte muy grande del mundo.
+
+142
+00:06:08,761 --> 00:06:09,881
+PART.2: ¿En el agua?
+
+143
+00:06:10,401 --> 00:06:12,361
+PART.2: Mamífero en el agua con pelo.
+
+144
+00:06:12,361 --> 00:06:13,081
+PART.1: Sí.
+
+145
+00:06:13,081 --> 00:06:14,561
+PART.2: ¿Un ornitorrinco?
+
+146
+00:06:15,281 --> 00:06:16,201
+PART.1: No.
+
+147
+00:06:16,201 --> 00:06:17,841
+PART.2: ¿No? Esos no comen
+carne.
+
+148
+00:06:18,841 --> 00:06:20,201
+PART.2: Soy una foca.
+
+149
+00:06:20,201 --> 00:06:21,321
+PART.1: Sí.
+
+150
+00:06:21,921 --> 00:06:22,721
+PART.2: ¡Qué hijo de puta!
+
+151
+00:06:22,721 --> 00:06:25,361
+PART.2: Javi, ¿me ha puesto foca por...?
+
+152
+00:06:25,361 --> 00:06:26,561
+PART.1: Justo esa pregunta.
+
+153
+00:06:26,561 --> 00:06:28,201
+PART.2: Javi, ¿me has llamado
+gorda?
+
+154
+00:06:29,041 --> 00:06:30,601
+PART.2: Va, era muy difícil, ¿eh?
+
+155
+00:06:30,601 --> 00:06:32,921
+PART.2: Y yo pensando: "¡Qué asco da este
+animal!".
+
+156
+00:06:32,921 --> 00:06:34,481
+PART.1: Es que es verdad.
+
+157
+00:06:34,481 --> 00:06:37,521
+PART.1: Es difícil porque uno no piensa en
+un mamífero acuático.
+
+158
+00:06:37,521 --> 00:06:38,441
+PART.2: Ya, ya, ya.
+
+159
+00:06:38,441 --> 00:06:39,161
+PART.1: Enseguida.
+
+160
+00:06:40,521 --> 00:06:42,761
+PART.1: Por eso, cuando me preguntaste por
+las patas, fue como...
+
+161
+00:06:42,761 --> 00:06:43,841
+PART.2: Ya, ya, ya.
+
+162
+00:06:43,841 --> 00:06:44,761
+PART.1: "No son patas, son
+aletas".
+
+163
+00:06:44,761 --> 00:06:45,681
+PART.2: Sí, sí, sí.
+
+164
+00:06:45,681 --> 00:06:46,601
+PART.1: Pero lo más parecido.
+
+165
+00:06:47,321 --> 00:06:49,801
+PART.2: Además, es como que
+también tienen como cara de perro
+un poco.
+
+166
+00:06:49,801 --> 00:06:50,761
+PART.1: Sí.
+
+167
+00:06:50,761 --> 00:06:53,321
+PART.2: En fin, movidas con los
+animales.
+
+168
+00:06:59,001 --> 00:07:02,041
+PART.1: ¿Y cuáles son tus planes
+a futuro aquí en Barcelona?
+
+169
+00:07:02,041 --> 00:07:03,241
+PART.2: Pues bueno...
+
+170
+00:07:03,801 --> 00:07:07,321
+PART.2: Tampoco sé si me quiero quedar
+mucho tiempo, pero...
+
+171
+00:07:07,321 --> 00:07:14,121
+PART.2: O sea, mis planes son como trabajar
+de lo mío, que es como dirección de
+arte, diseño...
+
+172
+00:07:14,721 --> 00:07:16,441
+PART.2: O sea, mi ideal sería ser...
+
+173
+00:07:16,441 --> 00:07:17,521
+PART.2: Trabajar de...
+
+174
+00:07:17,521 --> 00:07:20,521
+PART.2: Vivir de mi producción artística
+o...
+
+175
+00:07:20,521 --> 00:07:22,641
+PART.2: Pero bueno, eso no va a pasar,
+porque...
+
+176
+00:07:23,081 --> 00:07:25,841
+PART.1: ¿Es muy difícil aquí sin
+contactos o qué?
+
+177
+00:07:26,321 --> 00:07:30,001
+PART.2: Sí, bueno, o tampoco
+tengo como algo para sustentarme.
+
+178
+00:07:30,001 --> 00:07:31,201
+PART.1: Ah, claro.
+
+179
+00:07:31,681 --> 00:07:32,481
+PART.2: Digamos.
+

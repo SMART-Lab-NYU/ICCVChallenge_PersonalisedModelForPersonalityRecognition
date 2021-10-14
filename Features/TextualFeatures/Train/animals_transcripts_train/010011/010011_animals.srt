@@ -1,0 +1,940 @@
+1
+00:00:01,259 --> 00:00:02,259
+SUPERVISOR: Pásalo bien.
+
+2
+00:00:01,419 --> 00:00:02,819
+PART.1: Ah, empiezo. OK.
+
+3
+00:00:05,419 --> 00:00:06,179
+PART.1: ¿Soy mamífero?
+
+4
+00:00:09,819 --> 00:00:10,739
+PART.2: Creo que sí.
+
+5
+00:00:10,779 --> 00:00:12,259
+PART.1: No me jodas, ya empezamos
+mal.
+
+6
+00:00:12,299 --> 00:00:13,339
+PART.2: Creo que sí, sí.
+
+7
+00:00:13,379 --> 00:00:14,139
+PART.1: ¿Sí?
+
+8
+00:00:14,779 --> 00:00:21,299
+PART.1: Vale. Espérate, quítate
+las gafas porque el reflejo me va a hacer
+codiciosa.
+
+9
+00:00:23,979 --> 00:00:25,299
+PART.2: ¿Tengo pelo? En plan...
+
+10
+00:00:26,379 --> 00:00:27,459
+PART.2: Pelo, no pluma. Pelo.
+
+11
+00:00:27,859 --> 00:00:28,259
+PART.1: No.
+
+12
+00:00:28,659 --> 00:00:29,059
+PART.2: No.
+
+13
+00:00:29,099 --> 00:00:29,619
+PART.1: No.
+
+14
+00:00:36,299 --> 00:00:37,819
+PART.1: ¿Soy de la familia de los
+toros?
+
+15
+00:00:38,019 --> 00:00:38,619
+PART.2: No.
+
+16
+00:00:41,539 --> 00:00:42,059
+PART.1: Llevo dos, ¿eh?
+
+17
+00:00:42,099 --> 00:00:42,899
+PART.2: ¿Soy mamífero?
+
+18
+00:00:42,979 --> 00:00:43,459
+PART.1: No.
+
+19
+00:00:47,299 --> 00:00:48,339
+PART.1: ¿De los felinos?
+
+20
+00:00:49,419 --> 00:00:49,939
+PART.2: No.
+
+21
+00:00:56,939 --> 00:00:57,619
+PART.2: ¿Puedo volar?
+
+22
+00:00:58,059 --> 00:00:58,619
+PART.1: Sí.
+
+23
+00:01:01,859 --> 00:01:02,779
+PART.1: ¿Soy terrestre?
+
+24
+00:01:03,139 --> 00:01:03,779
+PART.2: Sí.
+
+25
+00:01:09,579 --> 00:01:11,019
+PART.2: ¿Tengo alas muy grandes?
+
+26
+00:01:11,179 --> 00:01:11,579
+PART.1: No.
+
+27
+00:01:14,219 --> 00:01:15,219
+PART.1: ¿Soy doméstico?
+
+28
+00:01:15,499 --> 00:01:15,979
+PART.2: No.
+
+29
+00:01:17,179 --> 00:01:17,859
+PART.2: ¿Y yo?
+
+30
+00:01:18,579 --> 00:01:19,059
+PART.1: No.
+
+31
+00:01:21,459 --> 00:01:22,059
+PART.1: A ver...
+
+32
+00:01:24,059 --> 00:01:25,059
+PART.1: No sabe, no contesta.
+
+33
+00:01:26,259 --> 00:01:28,179
+PART.2: Joder, chica. Vale.
+
+34
+00:01:38,939 --> 00:01:41,659
+PART.1: ¿Vivo en el Sáhara...?
+Bueno, ¿en la sabana africana?
+
+35
+00:01:41,699 --> 00:01:43,219
+PART.2: Para nada. No.
+
+36
+00:01:49,019 --> 00:01:50,179
+PART.2: La sabana africana...
+
+37
+00:01:50,299 --> 00:01:51,699
+PART.1: Iba a decir el Sáhara.
+
+38
+00:01:55,779 --> 00:01:59,659
+PART.2: O sea, soy un pájaro no
+doméstico.
+
+39
+00:02:00,179 --> 00:02:01,179
+PART.1: No, no te he dicho...
+
+40
+00:02:00,699 --> 00:02:02,859
+PART.2: No, no doméstico no,
+con las alas pequeñas.
+
+41
+00:02:05,419 --> 00:02:06,859
+PART.2: No sabe, no contesta.
+
+42
+00:02:09,019 --> 00:02:09,699
+PART.2: ¿Soy un loro?
+
+43
+00:02:09,979 --> 00:02:10,539
+PART.1: No.
+
+44
+00:02:12,379 --> 00:02:13,899
+PART.1: Tío, un loro es doméstico.
+
+45
+00:02:13,939 --> 00:02:14,659
+PART.2: O no.
+
+46
+00:02:15,619 --> 00:02:17,219
+PART.1: Bueno, o no, vale, pero...
+
+47
+00:02:18,699 --> 00:02:19,179
+PART.1: Bueno.
+
+48
+00:02:24,179 --> 00:02:25,179
+PART.1: ¿Soy herbívoro?
+
+49
+00:02:30,259 --> 00:02:30,819
+PART.2: No.
+
+50
+00:02:31,619 --> 00:02:34,139
+PART.1: ¿Estás seguro de que no al
+100 %?
+
+51
+00:02:34,179 --> 00:02:35,179
+PART.2: ¿Qué era herbívoro?
+
+52
+00:02:35,619 --> 00:02:36,979
+PART.1: Es el que come plantas.
+
+53
+00:02:40,459 --> 00:02:41,059
+PART.2: No.
+
+54
+00:02:41,539 --> 00:02:42,779
+PART.1: No necesariamente.
+
+55
+00:02:43,179 --> 00:02:44,659
+PART.2: No sabe, no contesta.
+
+56
+00:02:44,699 --> 00:02:46,219
+PART.1: Joder, vale.
+
+57
+00:02:49,219 --> 00:02:50,259
+PART.2: ¿Soy un depredador?
+
+58
+00:02:51,499 --> 00:02:53,179
+PART.2: En plan, ¿cazo para comer?
+
+59
+00:02:57,859 --> 00:02:58,899
+PART.1: Es que no sé lo que comen.
+
+60
+00:03:04,899 --> 00:03:07,739
+PART.1: A ver, todos los animales
+cazan para comer, ¿si no qué hacen?
+
+61
+00:03:08,339 --> 00:03:11,419
+PART.2: Chica, los pájaros pueden
+comer frutos.
+
+62
+00:03:11,659 --> 00:03:12,539
+PART.1: Cazan los frutos.
+
+63
+00:03:15,299 --> 00:03:15,979
+PART.1: No, no.
+
+64
+00:03:20,379 --> 00:03:21,699
+PART.1: A ver, yo supongo que
+cazará.
+
+65
+00:03:23,099 --> 00:03:26,699
+PART.1: Yo creo que caza,
+pero no es que viva de cazar.
+
+66
+00:03:28,819 --> 00:03:29,579
+PART.2: Vale.
+
+67
+00:03:31,459 --> 00:03:32,219
+PART.1: A ver.
+
+68
+00:03:33,139 --> 00:03:35,219
+PART.1: No soy herbívoro.
+No, no sabe, no contesta.
+
+69
+00:03:49,659 --> 00:03:50,939
+PART.1: No sé qué más preguntar.
+
+70
+00:03:52,899 --> 00:03:53,899
+PART.1: ¿Resido en Asia?
+
+71
+00:03:58,739 --> 00:03:59,619
+PART.2: Yo creo que no.
+
+72
+00:04:00,539 --> 00:04:02,259
+PART.2: No. No sabe, no contesta.
+
+73
+00:04:02,619 --> 00:04:04,579
+PART.1: Vete a la mierda. Vale.
+
+74
+00:04:15,779 --> 00:04:17,059
+PART.2: ¿Soy un pájaro pequeñito?
+
+75
+00:04:18,019 --> 00:04:19,019
+PART.2: Bueno, pequeño.
+
+76
+00:04:20,259 --> 00:04:22,019
+PART.1: O sea, si toda tu especie
+es pequeña.
+
+77
+00:04:22,979 --> 00:04:23,619
+PART.2: Sí.
+
+78
+00:04:23,659 --> 00:04:24,139
+PART.1: No.
+
+79
+00:04:58,819 --> 00:05:00,019
+PART.1: Espérate, ¿eh? Espérate.
+
+80
+00:05:00,939 --> 00:05:01,859
+PART.2: No, no. Tranqui.
+
+81
+00:05:05,619 --> 00:05:06,619
+PART.1: Me he olvidado de todo.
+
+82
+00:05:12,459 --> 00:05:16,899
+PART.1: ¿Soy un animal pequeño?
+
+83
+00:05:17,539 --> 00:05:18,099
+PART.2: Sí.
+
+84
+00:05:18,539 --> 00:05:19,379
+PART.1: Pequeño.
+
+85
+00:05:27,819 --> 00:05:28,659
+PART.2: ¿Soy un “falcon”?
+
+86
+00:05:29,699 --> 00:05:30,299
+PART.1: No.
+
+87
+00:05:35,539 --> 00:05:36,699
+PART.2: Venga, dos preguntas.
+
+88
+00:05:46,339 --> 00:05:47,499
+PART.1: A ver, pequeño...
+
+89
+00:05:50,379 --> 00:05:53,059
+PART.1: Terrestre... ¿Tengo
+caparazón?
+
+90
+00:05:55,579 --> 00:05:56,339
+PART.2: Ah, no.
+
+91
+00:05:56,459 --> 00:05:57,059
+PART.1: No.
+
+92
+00:06:04,619 --> 00:06:07,499
+PART.2: Es que con lo de especie
+me has reventado la cabeza.
+
+93
+00:06:07,579 --> 00:06:10,219
+PART.1: ¿El qué? ¿Lo de si toda tu
+especie es pequeña?
+
+94
+00:06:10,459 --> 00:06:15,499
+PART.2: ¿Es que has pensado en
+especie en pájaro, tía? Es que no... No es mi
+pregunta, ¿eh?
+
+95
+00:06:23,219 --> 00:06:27,299
+PART.2: ¿Se me puede encontrar
+en Cataluña?
+
+96
+00:06:29,139 --> 00:06:31,819
+PART.1: ¿Y yo qué puta idea voy a
+tener?
+
+97
+00:06:32,979 --> 00:06:35,619
+PART.1: ¿En Cataluña?
+¿Si se te puede encontrar?
+
+98
+00:06:36,499 --> 00:06:39,699
+PART.1: A ver, yo creo que sí.
+En algún sitio debes de estar.
+
+99
+00:06:43,979 --> 00:06:46,059
+PART.1: Pero no eres de Cataluña.
+
+100
+00:06:46,499 --> 00:06:50,059
+PART.1: O sea, no te encuentras
+como las... No te encuentras en la calle.
+
+101
+00:06:51,659 --> 00:06:52,379
+PART.1: Aquí.
+
+102
+00:06:52,699 --> 00:06:56,619
+PART.2: No, en la calle no, claro.
+En Barcelona supongo que no. No soy
+una paloma.
+
+103
+00:07:00,139 --> 00:07:02,219
+PART.1: Ay, no tengo ni idea
+de lo que soy.
+
+104
+00:07:04,619 --> 00:07:10,659
+PART.1: A ver, soy pequeño,
+mamífero, no sabes si soy herbívoro, no vivo en
+Asia ni en la sabana africana...
+
+105
+00:07:15,499 --> 00:07:17,179
+PART.1: No tengo caparazón.
+
+106
+00:07:22,939 --> 00:07:25,899
+PART.1: Si soy pequeño, tengo
+bebés. Soy pequeño y tengo bebés.
+
+107
+00:07:26,779 --> 00:07:27,739
+PART.1: Soy mamífero.
+
+108
+00:07:27,779 --> 00:07:28,779
+PART.2: Ya me lo has preguntado.
+
+109
+00:07:28,819 --> 00:07:29,379
+PART.1: Ya, ya.
+
+110
+00:07:32,219 --> 00:07:33,539
+PART.1: No soy doméstico.
+
+111
+00:07:35,179 --> 00:07:36,539
+PART.1: Me has engañado, ¿no?
+
+112
+00:07:37,859 --> 00:07:40,179
+PART.2: Bueno, sigue, sigue,
+luego resolvemos la duda.
+
+113
+00:07:41,099 --> 00:07:42,419
+PART.2: No te voy a decir nada
+ahora.
+
+114
+00:07:43,979 --> 00:07:45,339
+PART.1: Que quizás sí que vive en
+Asia.
+
+115
+00:07:45,379 --> 00:07:45,939
+PART.2: No.
+
+116
+00:07:46,739 --> 00:07:48,179
+PART.1: Quizás sí que sea
+doméstico.
+
+117
+00:07:52,059 --> 00:07:52,979
+PART.1: ¿Soy un hurón?
+
+118
+00:07:55,179 --> 00:07:55,659
+PART.2: No.
+
+119
+00:07:55,779 --> 00:07:57,619
+PART.1: ¿No? Ah, “fuck”.
+
+120
+00:07:59,699 --> 00:08:00,779
+PART.2: Hay una pregunta extra,
+¿eh?
+
+121
+00:08:00,859 --> 00:08:01,659
+PART.1: Ya, ya, ya.
+
+122
+00:08:02,859 --> 00:08:03,859
+PART.1: Puta mierda de juego.
+
+123
+00:08:09,259 --> 00:08:09,939
+PART.2: ¿Soy un búho?
+
+124
+00:08:09,979 --> 00:08:11,939
+PART.1: No. No, no.
+
+125
+00:08:13,779 --> 00:08:15,579
+PART.1: Vale, la extra. A ver.
+
+126
+00:08:17,659 --> 00:08:20,699
+PART.1: Pero es que tengo que
+decir un animal o tengo que decir un animal.
+
+127
+00:08:21,259 --> 00:08:22,059
+PART.2: Adivina.
+
+128
+00:08:33,059 --> 00:08:34,059
+PART.1: Me has mentido, ¿no?
+
+129
+00:08:34,339 --> 00:08:34,859
+PART.2: Que no.
+
+130
+00:08:35,299 --> 00:08:36,139
+PART.1: Me has mentido.
+
+131
+00:08:41,099 --> 00:08:42,099
+PART.1: ¿Soy un koala?
+
+132
+00:08:43,379 --> 00:08:44,019
+PART.2: No.
+
+133
+00:08:44,059 --> 00:08:45,219
+PART.1: ¿O una cobaya?
+
+134
+00:08:46,019 --> 00:08:46,579
+PART.2: No.
+
+135
+00:08:50,939 --> 00:08:52,379
+PART.2: Yo soy...
+
+136
+00:08:53,459 --> 00:08:54,619
+PART.2: Ay, que no sé.
+
+137
+00:08:55,459 --> 00:08:58,259
+PART.1: A ver, puedes preguntarme
+algo y luego vas pensando qué eres.
+
+138
+00:08:58,299 --> 00:08:59,819
+PART.2: Que me queda una pregunta,
+chica.
+
+139
+00:08:59,859 --> 00:09:08,819
+PART.1: Ya, pero puedes
+preguntarme algo, te respondo y entonces ya descubre
+quién eres y ya sabrás más que yo.
+
+140
+00:09:12,539 --> 00:09:13,619
+PART.2: ¿Soy...?
+
+141
+00:09:14,259 --> 00:09:15,539
+PART.1: Una taza, no.
+
+142
+00:09:26,859 --> 00:09:27,579
+PART.2: Yo qué sé.
+
+143
+00:09:29,299 --> 00:09:32,379
+PART.1: Espérate, conectemos
+mentes. Yo te lo estoy diciendo.
+
+144
+00:09:36,619 --> 00:09:37,819
+PART.1: ¿No? ¿No se te viene nada?
+
+145
+00:09:38,299 --> 00:09:39,299
+PART.2: ¿Una gaviota?
+
+146
+00:09:39,419 --> 00:09:40,419
+PART.1: No.
+
+147
+00:09:41,779 --> 00:09:43,059
+PART.2: Me ha venido gaviota solo.
+
+148
+00:09:43,099 --> 00:09:43,779
+PART.1: Pues no.
+
+149
+00:09:43,939 --> 00:09:44,739
+PART.2: Pues ya está.
+
+150
+00:09:44,779 --> 00:09:45,499
+PART.1: Pues nada.
+
+151
+00:09:46,579 --> 00:09:47,179
+PART.1: A ver.
+
+152
+00:09:49,899 --> 00:09:51,099
+PART.2: Pero desátalo, tía.
+
+153
+00:09:51,219 --> 00:09:53,979
+PART.1: Joder. ¿Has visto ya qué
+eres? No, todavía no.
+
+154
+00:09:53,979 --> 00:09:54,499
+PART.2: No.
+
+155
+00:09:56,459 --> 00:09:57,899
+PART.1: ¡Tan! ¿Qué?
+
+156
+00:09:57,939 --> 00:10:00,019
+PART.2: ¡Un cuervo! Hala.
+
+157
+00:10:00,059 --> 00:10:01,899
+PART.1: Pero soy un poco
+doméstico.
+
+158
+00:10:01,939 --> 00:10:03,459
+PART.2: No eres doméstico.
+
+159
+00:10:03,979 --> 00:10:05,539
+PART.1: Hay gente que me tiene en
+su casa.
+
+160
+00:10:05,579 --> 00:10:09,099
+PART.2: Gente que está mal,
+porque no se puede tener esto de
+doméstico, pobrecitos.
+
+161
+00:10:10,219 --> 00:10:11,499
+PART.1: Pau quiere tener uno.
+
+162
+00:10:11,539 --> 00:10:13,099
+PART.2: Bueno, pues gente que está
+mal.
+
+163
+00:10:13,179 --> 00:10:14,539
+PART.1: ¿Se llama así en inglés?
+¿“Hedgehog”?
+
+164
+00:10:14,539 --> 00:10:15,219
+PART.2: “Hedgehog”.
+
+165
+00:10:15,499 --> 00:10:16,499
+PART.1: Joder, tío.
+
+166
+00:10:17,139 --> 00:10:20,059
+PART.1: ¿Y por qué nos ha pedido
+que nos quitáramos esto tan...?
+
+167
+00:10:20,099 --> 00:10:21,979
+PART.2: Para que no nos tapara la
+cara, supongo.
+
+168
+00:10:22,619 --> 00:10:23,299
+PART.1: Pero...
+
+169
+00:10:24,299 --> 00:10:27,979
+PART.1: ¿Y qué hacemos? ¿Le
+llamamos o nos estará escuchando? ¡Hemos
+acabado!
+
+170
+00:10:28,739 --> 00:10:29,659
+PART.2: Lo tienes ahí.
+
+171
+00:10:29,819 --> 00:10:30,219
+PART.1: ¿Eh?
+
+172
+00:10:30,259 --> 00:10:31,179
+PART.2: El micrófono lo tienes
+ahí.
+
+173
+00:10:31,219 --> 00:10:32,419
+PART.1: Esto también está
+grabando, ¿eh?
+
+174
+00:10:33,579 --> 00:10:34,339
+PART.2: ¿Es un micro?
+
+175
+00:10:34,699 --> 00:10:37,259
+PART.1: Yo creo que sí.
+Es como en plan altavoz.
+
+176
+00:10:37,299 --> 00:10:38,899
+PART.2: No te acerques mucho,
+que se va a acoplar.
+
+177
+00:10:39,499 --> 00:10:41,459
+PART.1: ¿El qué? ¿Las voces?
+
+178
+00:10:43,339 --> 00:10:44,099
+PART.1: Pues nada.
+
+179
+00:10:46,019 --> 00:10:47,339
+PART.2: ¿Sabes que me voy a
+Inglaterra? Me voy a Birmingham en agosto.
+
+180
+00:10:47,339 --> 00:10:48,859
+PART.1: No me jodas.
+
+181
+00:10:50,459 --> 00:10:52,019
+PART.1: Pero ¿a vivir? No.
+
+182
+00:10:52,179 --> 00:10:54,499
+PART.2: No, a vivir no.
+Voy solo de visita.
+
+183
+00:10:54,939 --> 00:10:55,499
+PART.1: Ah, vale.
+
+184
+00:10:55,539 --> 00:10:56,539
+PART.2: A vivir a lo mejor luego.
+
+185
+00:10:57,139 --> 00:10:59,459
+PART.1: ¿Qué dices? ¿Qué dices?
+
+186
+00:10:59,499 --> 00:11:00,499
+PART.2: Es que me he rayado, tía.
+
+187
+00:11:00,179 --> 00:11:04,779
+PART.1: Tomás, pero ¿por qué me
+dices esto aquí delante de nueve cámaras?
+
+188
+00:11:04,779 --> 00:11:07,539
+PART.2: Es que ha sido... Yo de
+momento voy a ver a mi familia.
+
+189
+00:11:08,219 --> 00:11:09,899
+PART.2: Me voy a ver a mi familia.
+
+190
+00:11:11,059 --> 00:11:13,939
+PART.1: A tu madre, a tu hermana,
+a tus abuelos... Toda tu familia.
+
+191
+00:11:14,739 --> 00:11:20,219
+PART.2: Sí. Para celebrar mi
+cumple, mi graduación, para conocer al novio
+de mi hermana...
+
+192
+00:11:20,259 --> 00:11:22,939
+PART.1: ¿Tu hermana tenía novio?
+¿No es el de hace...?
+
+193
+00:11:22,979 --> 00:11:24,819
+PART.2: No, no es Paddy. Es Nate.
+
+194
+00:11:24,859 --> 00:11:28,499
+PART.1: ¿Se llamaba Paddy? ¿Por
+qué tienen nombres tan chungos en Inglaterra?
+
+195
+00:11:28,539 --> 00:11:29,259
+PART.2: Es de Patrick.
+
+196
+00:11:30,019 --> 00:11:31,619
+PART.1: ¿Paddy es de Patrick? ¿Y
+Nate?
+
+197
+00:11:32,579 --> 00:11:33,179
+PART.1: De Nate.
+
+198
+00:11:33,219 --> 00:11:34,979
+PART.2: De Nathan o Nate de
+Nathaniel.
+
+199
+00:11:34,979 --> 00:11:36,659
+PART.1: De Nathan. OK.
+
+200
+00:11:36,939 --> 00:11:37,659
+PART.2: Nathaniel.
+
+201
+00:11:38,539 --> 00:11:40,819
+PART.2: No lo sé, a lo mejor es de
+Nate, porque creo que es de Nate.
+
+202
+00:11:41,979 --> 00:11:43,979
+PART.1: Joder. ¿Y hace cuánto que
+están?
+
+203
+00:11:45,939 --> 00:11:46,739
+PART.2: Pues no sé.
+
+204
+00:11:47,859 --> 00:11:49,979
+PART.1: Me ha hecho gracia que
+dijeras para celebrar...
+
+205
+00:11:50,459 --> 00:11:52,179
+PART.1: Bueno, para conocer a su
+novio. Vale.
+
+206
+00:11:53,139 --> 00:11:56,019
+PART.2: Se fue a vivir a China.
+Estuvo viviendo en China...
+
+207
+00:11:56,059 --> 00:11:56,979
+PART.1: ¿Tu hermana?
+
+208
+00:11:57,019 --> 00:11:57,539
+PART.2: No.
+
+209
+00:11:57,859 --> 00:11:58,499
+PART.1: “Neitan”.
+
+210
+00:11:58,699 --> 00:12:00,019
+PART.2: Nate. “Neitan”.
+
+211
+00:12:00,219 --> 00:12:00,979
+PART.1: “Neitan”.
+
+212
+00:12:01,979 --> 00:12:05,379
+PART.2: Y estuvo viviendo en
+China... Creo que ha estado dos meses o tres.
+
+213
+00:12:05,739 --> 00:12:10,779
+PART.1: Pero ¿y por qué? O sea,
+¿así esporádicamente se fue a vivir a
+China o para trabajar, estudiar...?
+
+214
+00:12:10,819 --> 00:12:12,019
+PART.2: Para trabajar en la uni.
+
+215
+00:12:12,059 --> 00:12:12,939
+PART.1: Ah, vale.
+
+216
+00:12:13,459 --> 00:12:15,019
+PART.2: Y mi hermana lo fue a
+visitar.
+

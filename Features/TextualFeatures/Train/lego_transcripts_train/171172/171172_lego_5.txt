@@ -1,0 +1,74 @@
+117
+00:05:00,317 --> 00:05:01,677
+PART.1: Solo queda naranja.
+
+118
+00:05:03,277 --> 00:05:04,317
+PART.1: ¿Naranja o rojo?
+
+119
+00:05:05,917 --> 00:05:06,917
+PART.2: Rojo, ¿no?
+
+120
+00:05:08,557 --> 00:05:09,397
+PART.2: Toma.
+
+121
+00:05:14,997 --> 00:05:16,317
+PART.2: Aquí da vueltas, ¿has visto que
+fina?
+
+122
+00:05:17,837 --> 00:05:20,237
+PART.1: Bueno, pues si no puede ser,
+habrá que ponerlo de otro color.
+
+123
+00:05:18,637 --> 00:05:19,677
+PART.2: Rojo aquí, ¿no?
+
+124
+00:05:20,037 --> 00:05:20,677
+PART.1: Ah, sí.
+
+125
+00:05:21,717 --> 00:05:23,117
+PART.2: ¿Así de grande? ¿De cuatro?
+
+126
+00:05:23,197 --> 00:05:24,237
+PART.2: No. Eso es muy grande.
+
+127
+00:05:25,157 --> 00:05:26,037
+PART.1: Sí, de ocho.
+
+128
+00:05:27,677 --> 00:05:28,957
+PART.2: No... Ah, sí, de ocho.
+
+129
+00:05:30,757 --> 00:05:35,317
+PART.1: Y... dos laterales así.
+
+130
+00:05:39,117 --> 00:05:39,797
+PART.2: Okey.
+
+131
+00:05:47,877 --> 00:05:49,117
+PART.1: Una cortita.
+
+132
+00:05:49,717 --> 00:05:52,117
+PART.1: Va en la parte roja, hacia fuera.
+
+133
+00:05:54,437 --> 00:05:55,437
+PART.2: Ya lo rompiste.
+
+134
+00:05:56,997 --> 00:05:58,517
+PART.2: Y un puente.
+

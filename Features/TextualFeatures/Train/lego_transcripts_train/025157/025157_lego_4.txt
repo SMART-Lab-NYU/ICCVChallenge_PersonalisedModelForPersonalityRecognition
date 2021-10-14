@@ -1,0 +1,147 @@
+118
+00:04:01,613 --> 00:04:02,733
+PART.1: Está este.
+
+119
+00:04:05,213 --> 00:04:06,253
+PART.1: Este no es.
+
+120
+00:04:06,853 --> 00:04:07,973
+PART.1: Están estos.
+
+121
+00:04:08,493 --> 00:04:10,173
+PART.2: Sigue. Y después está...
+
+122
+00:04:10,253 --> 00:04:11,213
+PART.1: No. Llega hasta...
+
+123
+00:04:11,293 --> 00:04:12,573
+PART.2: Ah, no. Mira, sigue.
+
+124
+00:04:12,933 --> 00:04:14,573
+PART.1: Bueno, pero ve buscando este.
+
+125
+00:04:15,293 --> 00:04:17,053
+PART.1: Busca la flor en...
+
+126
+00:04:17,133 --> 00:04:18,733
+PART.2: El verde este.
+
+127
+00:04:18,813 --> 00:04:19,933
+PART.1: Este que está aquí.
+
+128
+00:04:20,213 --> 00:04:21,653
+PART.1: Mira, este creo que es este.
+
+129
+00:04:22,493 --> 00:04:24,973
+PART.1: El verde no es. ¿Es verde ese?
+
+130
+00:04:25,053 --> 00:04:26,173
+PART.2: Y una flor encima. Sí.
+
+131
+00:04:26,773 --> 00:04:27,973
+PART.2: Y una flor encima.
+
+132
+00:04:28,173 --> 00:04:30,093
+PART.1: Busca la flor chiquitica y ve
+armándosela.
+
+133
+00:04:31,533 --> 00:04:32,773
+PART.1: ¿Dónde está la florecita?
+
+134
+00:04:33,333 --> 00:04:34,573
+PART.2: Es una chiquitica.
+
+135
+00:04:34,933 --> 00:04:36,333
+PART.1: Es esta.
+
+136
+00:04:38,413 --> 00:04:39,453
+PART.2: Allí es de este color.
+
+137
+00:04:39,533 --> 00:04:40,413
+PART.1: Mírala, mírala.
+
+138
+00:04:40,493 --> 00:04:41,333
+PART.2: A ver si hay un...
+
+139
+00:04:41,413 --> 00:04:42,413
+PART.1: Mírala.
+
+140
+00:04:42,493 --> 00:04:43,093
+PART.2: No hay un morado.
+
+141
+00:04:43,173 --> 00:04:44,093
+PART.1: No. Es ese color, eh.
+
+142
+00:04:44,453 --> 00:04:45,213
+PART.2: No.
+
+143
+00:04:45,533 --> 00:04:46,133
+PART.1: Claro.
+
+144
+00:04:46,213 --> 00:04:47,333
+PART.2: Es un rosadito, cielo.
+
+145
+00:04:47,413 --> 00:04:48,373
+PART.1: No hay rojo, es morado.
+
+146
+00:04:48,453 --> 00:04:49,813
+PART.2: No, mi vida, es el rosado.
+
+147
+00:04:50,413 --> 00:04:52,093
+PART.2: Le podemos poner este, pero no
+es.
+
+148
+00:04:52,173 --> 00:04:52,773
+PART.1: Rosado.
+
+149
+00:04:52,853 --> 00:04:54,733
+PART.2: Sí, rosado, pero no hay.
+
+150
+00:04:54,813 --> 00:04:55,693
+PART.1: No hay ninguna flor rosada.
+
+151
+00:04:55,973 --> 00:04:57,253
+PART.1: Mira, hay un verde.
+
+152
+00:04:57,573 --> 00:04:58,333
+PART.2: Sí, no hay rosa.
+
+153
+00:04:58,413 --> 00:05:00,653
+PART.1: De estos, te falta el que va
+aquí.
+

@@ -1,0 +1,808 @@
+1
+00:00:00,028 --> 00:00:01,388
+PART.1: ¿Empiezas tú? ¿Empiezo
+yo?
+
+2
+00:00:01,628 --> 00:00:02,428
+PART.2: Como quieras.
+
+3
+00:00:02,668 --> 00:00:03,348
+PART.1: Empieza tú.
+
+4
+00:00:03,428 --> 00:00:04,548
+PART.2: A ver, pregunto.
+
+5
+00:00:05,868 --> 00:00:07,508
+PART.2: ¿Es un mamífero?
+
+6
+00:00:08,348 --> 00:00:08,828
+PART.1: Sí.
+
+7
+00:00:09,148 --> 00:00:09,588
+PART.2: Ok.
+
+8
+00:00:10,068 --> 00:00:11,628
+PART.1: Y yo, ¿es un animal
+marino?
+
+9
+00:00:13,908 --> 00:00:17,148
+PART.2: Eh, o sea, sí, es de
+agua.
+
+10
+00:00:17,228 --> 00:00:17,508
+PART.1: Es del agua.
+
+11
+00:00:17,588 --> 00:00:18,068
+PART.2: Sí.
+
+12
+00:00:21,108 --> 00:00:21,988
+PART.2: Yo pregunto.
+
+13
+00:00:30,228 --> 00:00:33,068
+PART.2: ¿Es un animal salvaje?
+
+14
+00:00:33,468 --> 00:00:34,108
+PART.1: Sí.
+
+15
+00:00:36,628 --> 00:00:37,628
+PART.1: ¿Es un depredador?
+
+16
+00:00:38,748 --> 00:00:39,508
+PART.2: Sí.
+
+17
+00:00:46,588 --> 00:00:49,028
+PART.2: Igual, ¿es un depredador?
+
+18
+00:00:51,908 --> 00:00:53,668
+PART.1: No lo consideraría
+depredador, la verdad.
+
+19
+00:00:53,748 --> 00:00:54,108
+PART.2: No.
+
+20
+00:00:54,348 --> 00:00:55,428
+PART.2: No es un depredador.
+
+21
+00:00:56,108 --> 00:00:59,188
+PART.1: Es más activo que la
+hierva, pero no.
+
+22
+00:00:59,268 --> 00:01:00,588
+PART.1: No se carga a todo
+el mundo.
+
+23
+00:01:02,308 --> 00:01:02,868
+PART.2: Ok.
+
+24
+00:01:03,188 --> 00:01:04,068
+PART.1: Entonces.
+
+25
+00:01:05,228 --> 00:01:06,788
+PART.1: Es un animal marino, depredador.
+
+26
+00:01:09,988 --> 00:01:13,828
+PART.1: ¿Es un animal del
+Ártico o de la Antártida?
+
+27
+00:01:13,908 --> 00:01:14,348
+PART.1: Un sitio así.
+
+28
+00:01:14,428 --> 00:01:14,868
+PART.2: No.
+
+29
+00:01:15,788 --> 00:01:16,348
+PART.1: Vale.
+
+30
+00:01:16,628 --> 00:01:21,468
+PART.2: El mío, ¿vive en la
+jungla?
+
+31
+00:01:23,148 --> 00:01:23,708
+PART.1: No.
+
+32
+00:01:23,908 --> 00:01:24,388
+PART.2: No.
+
+33
+00:01:30,228 --> 00:01:34,948
+PART.1: ¿La carne de este animal
+es valorada muy positivamente en
+algún mercado?
+
+34
+00:01:35,028 --> 00:01:36,428
+PART.1: Por ejemplo, aleta de
+tiburón o cosas así.
+
+35
+00:01:37,228 --> 00:01:41,228
+PART.2: Eh, solo carne, hablas
+solo de carne.
+
+36
+00:01:41,428 --> 00:01:42,828
+PART.1: Cualquier cosa de ese
+animal.
+
+37
+00:01:43,028 --> 00:01:44,668
+PART.2: Bueno, sí, sí es
+valorado.
+
+38
+00:01:45,988 --> 00:01:46,628
+PART.1: Vale.
+
+39
+00:01:49,508 --> 00:01:52,428
+PART.2: Eh, a ver, no es un
+depredador, no
+vive en la jungla.
+
+40
+00:01:53,908 --> 00:01:55,468
+PART.2: ¿Es más pequeño que un perro?
+
+41
+00:01:56,068 --> 00:01:56,668
+PART.1: No.
+
+42
+00:01:56,908 --> 00:01:57,388
+PART.2: No.
+
+43
+00:01:57,468 --> 00:01:58,428
+PART.2: Es más grande que un
+perro.
+
+44
+00:01:58,508 --> 00:01:59,588
+PART.1: Entonces...
+
+45
+00:02:08,068 --> 00:02:10,148
+PART.1: Tengo un cortocircuito en la
+cabeza.
+
+46
+00:02:14,908 --> 00:02:17,748
+PART.1: ¿El nombre de ese animal empieza
+por una vocal?
+
+47
+00:02:18,908 --> 00:02:19,508
+PART.2: No.
+
+48
+00:02:20,828 --> 00:02:21,388
+PART.1: Vale.
+
+49
+00:02:22,748 --> 00:02:24,468
+PART.2: El mío, a ver.
+
+50
+00:02:27,948 --> 00:02:29,108
+PART.2: ¿Es un...?
+
+51
+00:02:31,268 --> 00:02:32,548
+PART.2: No vive en la jungla.
+
+52
+00:02:33,228 --> 00:02:33,788
+PART.2: Puf.
+
+53
+00:02:41,428 --> 00:02:44,228
+PART.2: ¿Es más grande que un
+caballo?
+
+54
+00:02:47,788 --> 00:02:50,548
+PART.1: Sería de similar tamaño
+un caballo.
+
+55
+00:02:50,628 --> 00:02:52,988
+PART.2: Un caballo, y no es un
+depredador.
+
+56
+00:02:53,068 --> 00:02:54,668
+PART.1: Entonces, el mío es...
+
+57
+00:03:11,348 --> 00:03:12,988
+PART.1: ¿Es más grande que un
+tiburón?
+
+58
+00:03:16,068 --> 00:03:16,868
+PART.2: Mmm...
+
+59
+00:03:19,428 --> 00:03:20,988
+PART.2: Creo que llegan a ser similares.
+
+60
+00:03:22,108 --> 00:03:22,548
+PART.1: Vale.
+
+61
+00:03:22,628 --> 00:03:23,548
+PART.2: Depende del tiburón.
+
+62
+00:03:23,748 --> 00:03:24,548
+PART.1: Vale, vale.
+
+63
+00:03:26,508 --> 00:03:27,748
+PART.1: Tampoco sé cómo es un tiburón.
+
+64
+00:03:28,748 --> 00:03:30,428
+PART.2: Acá no lo he visto en
+persona.
+
+65
+00:03:30,828 --> 00:03:33,628
+PART.1: Como yo, da igual,
+es una pregunta.
+
+66
+00:03:34,108 --> 00:03:35,668
+PART.1: Eh, vale.
+
+67
+00:03:36,268 --> 00:03:37,188
+PART.2: A ver, y yo.
+
+68
+00:03:40,468 --> 00:03:41,628
+PART.2: ¿Está en extinción?
+
+69
+00:03:42,268 --> 00:03:42,908
+PART.1: No.
+
+70
+00:03:42,988 --> 00:03:43,468
+PART.2: No.
+
+71
+00:03:43,788 --> 00:03:44,588
+PART.1: Que yo sepa.
+
+72
+00:03:45,228 --> 00:03:45,828
+PART.1: Entonces...
+
+73
+00:03:45,908 --> 00:03:48,108
+PART.2: Pues preferiría, así es
+más fácil adivinarlo.
+
+74
+00:03:49,308 --> 00:03:50,868
+PART.1: El búho Australiano...
+
+75
+00:03:52,628 --> 00:03:53,548
+PART.1: Entonces...
+
+76
+00:04:04,748 --> 00:04:07,348
+PART.1: Como no tengo ni idea de
+los animales extintos, ni idea.
+
+77
+00:04:09,108 --> 00:04:10,028
+PART.1: Eh...
+
+78
+00:04:18,868 --> 00:04:22,588
+PART.1: Tampoco tengo un
+conocimiento muy basto del mundo
+marino, podríamos decir que es...
+
+79
+00:04:22,668 --> 00:04:24,468
+PART.2: Bueno es que es del agua.
+
+80
+00:04:24,548 --> 00:04:25,068
+PART.1: Sí.
+
+81
+00:04:25,868 --> 00:04:26,508
+PART.2: Mira que...
+
+82
+00:04:26,628 --> 00:04:27,628
+PART.2: ¿Es un anfibio?
+
+83
+00:04:28,388 --> 00:04:29,148
+PART.2: No.
+
+84
+00:04:31,028 --> 00:04:32,388
+PART.1: ¿Cómo que es del agua
+entonces?
+
+85
+00:04:35,428 --> 00:04:36,508
+PART.2: Vive en el agua.
+
+86
+00:04:38,348 --> 00:04:39,348
+PART.2: A ver, yo.
+
+87
+00:04:39,548 --> 00:04:40,508
+PART.2: Mamífero...
+
+88
+00:04:41,628 --> 00:04:42,388
+PART.2: ¿Es...?
+
+89
+00:04:47,028 --> 00:04:48,708
+PART.2: Voy a arriesgar,
+¿Es un rinoceronte?
+
+90
+00:04:49,308 --> 00:04:49,828
+PART.1: No.
+
+91
+00:04:50,348 --> 00:04:52,428
+PART.2: El rinoceronte creo que
+es más grande que un caballo, la
+verdad.
+
+92
+00:04:52,508 --> 00:04:53,268
+PART.1: Sí, es así.
+
+93
+00:04:53,108 --> 00:04:53,548
+PART.2: Sí.
+
+94
+00:04:54,948 --> 00:04:55,468
+PART.2: Bueno.
+
+95
+00:04:55,748 --> 00:04:57,508
+PART.1: Eh, entonces.
+
+96
+00:05:02,588 --> 00:05:04,268
+PART.1: ¿Es un animal de las
+profundidades marinas?
+
+97
+00:05:05,028 --> 00:05:05,628
+PART.2: No.
+
+98
+00:05:07,868 --> 00:05:08,788
+PART.1: Por la superficie.
+
+99
+00:05:09,508 --> 00:05:10,068
+PART.2: Sí.
+
+100
+00:05:11,468 --> 00:05:12,188
+PART.1: Vale.
+
+101
+00:05:14,028 --> 00:05:15,628
+PART.2: Ay, no sé, creo que
+estamos bien.
+
+102
+00:05:15,748 --> 00:05:17,108
+PART.1: En la séptima creo que
+estamos.
+
+103
+00:05:17,188 --> 00:05:17,668
+PART.2: ¿Sí?
+
+104
+00:05:17,748 --> 00:05:18,268
+PART.2: Ya.
+
+105
+00:05:20,228 --> 00:05:23,188
+PART.2: Eh, a ver, un caballo...
+
+106
+00:05:26,148 --> 00:05:27,148
+PART.2: ¿Corre muy rápido?
+
+107
+00:05:29,548 --> 00:05:30,148
+PART.1: No.
+
+108
+00:05:30,428 --> 00:05:30,948
+PART.2: No.
+
+109
+00:05:40,588 --> 00:05:42,628
+PART.1: Era un depredador,
+que vive en el mar.
+
+110
+00:05:43,548 --> 00:05:44,468
+PART.2: Que vive en el agua.
+
+111
+00:05:44,548 --> 00:05:45,348
+PART.1: En el agua.
+
+112
+00:05:45,788 --> 00:05:46,348
+PART.1: Ojo.
+
+113
+00:05:51,228 --> 00:05:53,348
+PART.1: Estoy pensando en
+animales peligrosos.
+
+114
+00:06:05,508 --> 00:06:07,388
+PART.1: ¿Es un animal que cabría
+en una casa?
+
+115
+00:06:08,148 --> 00:06:09,428
+PART.2: ¿Cabría en una casa?
+
+116
+00:06:09,508 --> 00:06:14,628
+PART.1: Por ejemplo, yo tengo un
+tigre de mascota, un ejemplo.
+
+117
+00:06:14,708 --> 00:06:15,908
+PART.2: No, no, no.
+
+118
+00:06:15,988 --> 00:06:16,628
+PART.2: Este no.
+
+119
+00:06:16,708 --> 00:06:17,188
+PART.1: Vale.
+
+120
+00:06:17,508 --> 00:06:18,668
+PART.1: O sea en una pecera no estaría.
+
+121
+00:06:18,748 --> 00:06:19,348
+PART.2: No.
+
+122
+00:06:20,388 --> 00:06:21,708
+PART.2: Difícilmente.
+
+123
+00:06:21,788 --> 00:06:23,068
+PART.1: La ballena azul.
+
+124
+00:06:25,108 --> 00:06:26,388
+PART.2: Eh, a ver yo.
+
+125
+00:06:29,308 --> 00:06:31,588
+PART.2: ¿Es un animal que trepa árboles?
+
+126
+00:06:33,188 --> 00:06:33,828
+PART.1: No.
+
+127
+00:06:33,988 --> 00:06:34,508
+PART.2: ¿No?
+
+128
+00:06:35,468 --> 00:06:36,428
+PART.2: No tengo ni idea.
+
+129
+00:06:37,548 --> 00:06:38,388
+PART.2: Me faltan dos.
+
+130
+00:06:56,228 --> 00:06:57,148
+PART.1: ¿Es una ballena?
+
+131
+00:06:57,908 --> 00:06:58,508
+PART.2: No.
+
+132
+00:06:59,908 --> 00:07:01,428
+PART.2: La ballena no es depredadora.
+
+133
+00:07:02,228 --> 00:07:03,588
+PART.1: Sí, pero se come un
+montón de cosas.
+
+134
+00:07:03,668 --> 00:07:04,308
+PART.2: Plancton.
+
+135
+00:07:05,068 --> 00:07:05,628
+PART.1: Vale.
+
+136
+00:07:06,748 --> 00:07:08,468
+PART.2: Bueno, plancton, algas.
+
+137
+00:07:08,548 --> 00:07:11,108
+PART.1: Sí, un poco el depredador
+de las algas.
+
+138
+00:07:12,908 --> 00:07:14,508
+PART.2: Eh, bueno, yo...
+
+139
+00:07:22,708 --> 00:07:26,588
+PART.2: Ay, bueno, voy a lanzar animales
+porque no voy a ir más rápido.
+
+140
+00:07:30,148 --> 00:07:31,268
+PART.2: ¿Un hipopótamo?
+
+141
+00:07:43,428 --> 00:07:44,228
+PART.1: ¿Tiburón?
+
+142
+00:07:44,868 --> 00:07:45,388
+PART.2: No.
+
+143
+00:07:46,188 --> 00:07:47,588
+PART.1: Ya se me han gastado las
+diez preguntas.
+
+144
+00:07:48,108 --> 00:07:52,588
+PART.2: Yo, a ver, esta es la
+extra que teníamos.
+
+145
+00:07:51,948 --> 00:07:52,348
+PART.1: Sí.
+
+146
+00:07:52,908 --> 00:07:54,628
+PART.2: Ya, voy a lanzar otro
+animal.
+
+147
+00:07:56,988 --> 00:07:57,548
+PART.2: A ver.
+
+148
+00:07:58,428 --> 00:08:09,508
+PART.2: Animal salvaje, que no es
+depredador, del tamaño de un
+caballo, que no vive en la jungla,
+vive en la pradera, supongo.
+
+149
+00:08:13,748 --> 00:08:14,668
+PART.2: ¿Es un búfalo?
+
+150
+00:08:15,348 --> 00:08:15,868
+PART.1: No.
+
+151
+00:08:15,788 --> 00:08:16,148
+PART.2: No.
+
+152
+00:08:17,188 --> 00:08:19,108
+PART.1: Soltaré un animal
+aleatorio yo.
+
+153
+00:08:34,468 --> 00:08:35,468
+PART.1: ¿El león marino?
+
+154
+00:08:36,388 --> 00:08:36,868
+PART.2: No.
+
+155
+00:08:38,828 --> 00:08:40,548
+PART.2: Bueno, ya nos podemos quitar.
+
+156
+00:08:41,588 --> 00:08:42,708
+PART.1: Cha cha chan chan.
+
+157
+00:08:43,468 --> 00:08:46,108
+PART.1: Hostia, es verdad, no
+había dicho yo este.
+
+158
+00:08:43,628 --> 00:08:44,508
+PART.2: ¡Un canguro!
+
+159
+00:08:46,828 --> 00:08:48,148
+PART.2: Sí, te lo olvidaste.
+
+160
+00:08:50,508 --> 00:08:51,028
+PART.1: Hala.
+
+161
+00:08:51,108 --> 00:08:52,308
+PART.2: Sí es un depredador.
+
+162
+00:08:52,868 --> 00:08:54,308
+PART.1: Se traga todo lo que se
+encuentre, este.
+
+163
+00:08:55,548 --> 00:08:57,388
+PART.2: Un canguro, nunca se me
+ocurrió.
+
+164
+00:08:56,868 --> 00:08:59,148
+PART.1: Este es el típico que no te
+gustaría encontrarte en la acera de
+enfrente.
+
+165
+00:08:59,428 --> 00:09:00,108
+PART.2: Exacto.
+
+166
+00:09:00,388 --> 00:09:03,268
+PART.2: Es el chico malo del mundo
+animal.
+
+167
+00:09:04,428 --> 00:09:07,828
+PART.1: Dicen que el cocodrilo
+tiene similitudes con los antiguos
+dinosaurios.
+
+168
+00:09:08,308 --> 00:09:10,308
+PART.2: Sí, es el que menos ha
+evolucionado.
+
+169
+00:09:11,228 --> 00:09:14,708
+PART.2: Es un cazador tan perfecto
+que no necesita evolucionar.
+
+170
+00:09:15,508 --> 00:09:18,188
+PART.2: Solo se espera ahí a que llegue
+un animalito.
+
+171
+00:09:18,788 --> 00:09:21,788
+PART.1: Se pone a reírse, ji ji
+ji ji.
+
+172
+00:09:23,268 --> 00:09:24,548
+PART.2: No, da terror.
+
+173
+00:09:26,588 --> 00:09:30,468
+PART.1: Yo he dicho que no corrí
+porque hasta donde yo sé.
+
+174
+00:09:31,468 --> 00:09:34,508
+PART.2: Salta muy rápido, pero,
+claro, salta, es que no corre.
+
+175
+00:09:34,268 --> 00:09:35,308
+PART.1: Muy alto y muy largo.
+
+176
+00:09:36,588 --> 00:09:37,428
+PART.2: Un canguro.
+
+177
+00:09:38,028 --> 00:09:38,828
+PART.2: Son bonitos.
+
+178
+00:09:39,588 --> 00:09:45,028
+PART.1: Me recuerda, el hijo
+pequeño, cuando te pones una
+sudadera que tiene los bolsillos
+aquí, que te puedes meter un
+bocadillo o lo que sea.
+
+179
+00:09:45,108 --> 00:09:46,348
+PART.2: Cierto, están así.
+
+180
+00:09:46,828 --> 00:09:47,828
+PART.2: se los ve así.
+
+181
+00:09:47,908 --> 00:09:49,188
+PART.1: Es un solete, en verdad.
+
+182
+00:09:50,788 --> 00:09:54,068
+PART.1: Me recuerda a una vez que en
+internet vi un canguro que era un
+boxeador.
+
+183
+00:09:54,908 --> 00:09:58,188
+PART.2: Ah, es que si te ataca un
+canguro te noquea.
+
+184
+00:09:58,268 --> 00:09:59,348
+PART.1: Golpea mucho y muy
+fuerte.
+

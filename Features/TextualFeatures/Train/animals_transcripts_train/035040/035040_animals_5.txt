@@ -1,0 +1,42 @@
+134
+00:05:01,768 --> 00:05:04,368
+PART.2: Animal de la sabana, no tiene
+cuernos...
+
+135
+00:05:10,368 --> 00:05:11,408
+PART.1: Estás muy cerca, ¿eh?
+
+136
+00:05:11,488 --> 00:05:12,688
+PART.1: Realmente...
+
+137
+00:05:14,888 --> 00:05:17,528
+PART.2: Es que estoy intentando recordar
+los animales de la sabana.
+
+138
+00:05:33,568 --> 00:05:34,648
+PART.2: ¿Tengo orejas grandes?
+
+139
+00:05:36,448 --> 00:05:37,888
+PART.1: No especialmente.
+
+140
+00:05:38,528 --> 00:05:39,048
+PART.1: No.
+
+141
+00:05:51,168 --> 00:05:52,128
+PART.1: Nada, tranquilo.
+
+142
+00:05:57,008 --> 00:05:57,608
+PART.2: Sí.
+
+143
+00:05:59,248 --> 00:06:00,048
+PART.2: "Mau".
+

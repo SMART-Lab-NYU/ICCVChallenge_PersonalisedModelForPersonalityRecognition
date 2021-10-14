@@ -1,0 +1,45 @@
+72
+00:03:00,260 --> 00:03:01,620
+PART.1: Si fallas se la lleva el otro.
+
+73
+00:03:01,700 --> 00:03:02,660
+PART.2: Claro, sí.
+
+74
+00:03:02,740 --> 00:03:03,780
+PART.1: Vale, vale.
+
+75
+00:03:03,860 --> 00:03:05,100
+PART.2: Una, dos, tres.
+
+76
+00:03:10,420 --> 00:03:11,020
+PART.2: Tu turno.
+
+77
+00:03:11,100 --> 00:03:13,100
+PART.1: Una, dos... tres.
+
+78
+00:03:15,180 --> 00:03:18,140
+PART.1: Ah, es verdad.
+Ya estaba con la otra mentalmente.
+
+79
+00:03:18,620 --> 00:03:19,500
+PART.1: Te toca a ti.
+
+80
+00:03:19,580 --> 00:03:21,380
+PART.2: Una, dos, tres.
+
+81
+00:03:25,020 --> 00:03:27,420
+PART.1: ¿Por qué siempre son rojas las que salen?
+
+82
+00:03:27,500 --> 00:03:29,660
+PART.2: Es que... Está bastante...
+

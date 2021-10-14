@@ -1,0 +1,63 @@
+87
+00:06:00,113 --> 00:06:01,073
+PART.1: Ya lo hemos hecho.
+
+88
+00:06:01,153 --> 00:06:03,273
+PART.2: Sí, sí. Espera un momento...
+
+89
+00:06:05,953 --> 00:06:08,153
+PART.2: Mira, qué bien. Lo logramos.
+
+90
+00:06:08,233 --> 00:06:09,913
+PART.1: Pues sí. Ya está.
+
+91
+00:06:10,233 --> 00:06:12,713
+PART.2: Fue mucho más sencillo de lo que
+parecía, ¿no?
+
+92
+00:06:13,273 --> 00:06:14,873
+PART.1: Ahora le vamos a hacer un puente.
+
+93
+00:06:15,393 --> 00:06:16,793
+PART.2: Vale.
+
+94
+00:06:23,233 --> 00:06:25,353
+PART.1: Este puente es muy pequeño. No
+sirve.
+
+95
+00:06:27,153 --> 00:06:28,513
+PART.2: Uno más grande.
+
+96
+00:06:36,393 --> 00:06:38,193
+PART.1: No es el mismo color, pero bueno.
+
+97
+00:06:42,073 --> 00:06:43,393
+PART.2: Muy sencillo.
+
+98
+00:06:49,593 --> 00:06:51,073
+PART.1: ¿No hay más de cuatro?
+
+99
+00:06:52,233 --> 00:06:53,313
+PART.1: Aquí hay uno.
+
+100
+00:06:54,593 --> 00:06:57,833
+PART.1: Es un puente multicolor. Es donde
+se esconden los vagabundos.
+
+101
+00:06:58,593 --> 00:06:59,593
+PART.2: Ya.
+

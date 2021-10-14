@@ -1,0 +1,48 @@
+89
+00:04:01,579 --> 00:04:02,899
+PART.2: A ver qué animales dices, buah.
+
+90
+00:04:03,099 --> 00:04:05,659
+PART.1: Claro, hay tantos.
+
+91
+00:04:05,859 --> 00:04:09,139
+PART.2: Muchísimos, puede ser uno raro que ni sé qué existe.
+
+92
+00:04:07,942 --> 00:04:08,502
+PART.1: ¡Exacto!
+
+93
+00:04:09,979 --> 00:04:16,659
+PART.1: Yo en un momento pensé que era un ornitorrinco, pero te pregunté si me gustaba el agua.
+
+94
+00:04:16,859 --> 00:04:19,019
+PART.2: Ostras, esto habría sido complicado.
+
+95
+00:04:19,219 --> 00:04:20,539
+PART.1: Sí.
+
+96
+00:04:35,803 --> 00:04:36,763
+PART.1: Bueno.
+
+97
+00:04:36,659 --> 00:04:38,979
+PART.2: ¿Forma parte del experimento ahora?
+
+98
+00:04:37,303 --> 00:04:38,143
+PART.1: Podemos jugar a otro.
+
+99
+00:04:39,179 --> 00:04:41,419
+PART.1: Sí, seguramente.
+
+100
+00:04:42,139 --> 00:04:43,992
+PART.2: ¿Qué es lo que hacemos cuando se acaba?
+

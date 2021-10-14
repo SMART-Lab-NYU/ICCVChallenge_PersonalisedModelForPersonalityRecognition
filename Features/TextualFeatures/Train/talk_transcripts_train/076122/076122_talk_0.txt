@@ -1,0 +1,143 @@
+1
+00:00:01,341 --> 00:00:02,141
+PART.2: Hola, ¿qué tal?
+
+2
+00:00:02,141 --> 00:00:04,701
+PART.1: Buenas, me llamo Adrián,
+eso supongo que lo sabes ya.
+
+3
+00:00:04,701 --> 00:00:05,781
+PART.1: No sé.
+
+4
+00:00:05,781 --> 00:00:07,021
+PART.2: Bueno,
+yo no lo había escuchado.
+
+5
+00:00:07,021 --> 00:00:07,541
+PART.1: ¿No?
+
+6
+00:00:07,541 --> 00:00:08,021
+PART.2: Adrián.
+
+7
+00:00:08,021 --> 00:00:08,821
+PART.1: Bueno, pues ahora lo sabes.
+
+8
+00:00:08,821 --> 00:00:09,861
+PART.1: ¿Y cómo te llamas tú?
+
+9
+00:00:09,861 --> 00:00:10,581
+PART.2: Sergio.
+
+10
+00:00:10,581 --> 00:00:11,421
+PART.1: Sergio.
+
+11
+00:00:11,941 --> 00:00:12,501
+PART.1: Vale.
+
+12
+00:00:12,501 --> 00:00:14,501
+PART.2: Y has dicho que estudias
+psicología.
+
+13
+00:00:14,501 --> 00:00:17,941
+PART.2: Lo que pasa que, bueno,
+en principio había cosas que a lo
+mejor no hacía falta que dijéramos.
+
+14
+00:00:17,941 --> 00:00:21,381
+PART.2: Pero bueno, los estudios no
+creo que tenga ya importancia.
+
+15
+00:00:21,381 --> 00:00:23,861
+PART.2: Por tema
+de la confidencialidad y todo eso.
+
+16
+00:00:23,861 --> 00:00:24,861
+PART.1: Ah, bueno.
+
+17
+00:00:24,861 --> 00:00:27,701
+PART.2: Y el tema de análisis
+de la personalidad, ¿te interesa o no?
+
+18
+00:00:27,701 --> 00:00:29,221
+PART.1: Sí, la verdad es que sí.
+
+19
+00:00:29,221 --> 00:00:31,101
+PART.1: Es dentro de los campos
+de la psicología lo que...
+
+20
+00:00:31,541 --> 00:00:33,301
+PART.1: O sea, a ver, ahora estoy
+en primer año, tampoco...
+
+21
+00:00:33,301 --> 00:00:33,941
+PART.2: Vale, vale.
+
+22
+00:00:33,941 --> 00:00:36,861
+PART.1: Si estuviera en tercero, te digo:
+"Vale, tengo muy claro por dónde quiero tirar".
+
+23
+00:00:37,741 --> 00:00:40,501
+PART.1: Pero la verdad que es
+un campo que me interesa, está bien.
+
+24
+00:00:40,981 --> 00:00:44,541
+PART.2: Nosotros colaboramos
+con psicólogos en este experimento también.
+
+25
+00:00:44,901 --> 00:00:48,221
+PART.2: Los psicólogos de la UE
+son los que han hecho esos cuestionarios
+que rellenas tú.
+
+26
+00:00:48,221 --> 00:00:49,101
+PART.1: Lo he pensado.
+
+27
+00:00:49,101 --> 00:00:52,901
+PART.1: Digo: "Detrás de esto,
+seguro que hay alguien de mi facu por ahí".
+
+28
+00:00:52,901 --> 00:00:53,781
+PART.2: Sí, sí.
+
+29
+00:00:53,781 --> 00:00:55,741
+PART.2: Los psicólogos
+de la UE lo están...
+
+30
+00:00:55,741 --> 00:00:57,821
+PART.2: Bueno, lo han hecho
+y luego analizarán los datos.
+
+31
+00:00:57,821 --> 00:01:01,581
+PART.2: Nosotros tenemos la parte
+de visión y de audio y luego ellos...
+

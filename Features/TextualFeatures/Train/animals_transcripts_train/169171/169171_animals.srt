@@ -1,0 +1,953 @@
+﻿1
+00:00:00,755 --> 00:00:04,035
+PART.2: Yo lo he hecho de dos maneras.
+
+2
+00:00:04,115 --> 00:00:04,595
+PART.1: ¿Cómo?
+
+3
+00:00:04,675 --> 00:00:10,915
+PART.2: Una que uno preguntaba todo, las
+diez preguntas.
+
+4
+00:00:08,435 --> 00:00:10,275
+PART.1: Rodo, las diez preguntas.
+
+5
+00:00:11,115 --> 00:00:14,075
+PART.2: Y luego, antes con un chico lo
+hemos hecho, hacíamos una cada uno.
+
+6
+00:00:14,155 --> 00:00:15,075
+PART.1: Ah, ok.
+
+7
+00:00:15,155 --> 00:00:17,275
+PART.2: Nos lo íbamos contando.
+
+8
+00:00:17,355 --> 00:00:18,395
+PART.2: ¿Cómo quieres hacerlo?
+
+9
+00:00:18,475 --> 00:00:20,795
+PART.1: Pero no lo pillé.
+
+10
+00:00:20,875 --> 00:00:23,035
+PART.1: En la onceava pregunta, es el
+animal.
+
+11
+00:00:23,115 --> 00:00:24,315
+PART.2: Es en la que tienes que decir el
+animal.
+
+12
+00:00:24,395 --> 00:00:25,635
+PART.2: Bueno, si la sabes antes.
+
+13
+00:00:25,715 --> 00:00:27,275
+PART.1: Si la sabes antes, vale, ok.
+
+14
+00:00:26,635 --> 00:00:27,275
+PART.2: Sí.
+
+15
+00:00:28,235 --> 00:00:29,395
+PART.2: ¿Cómo quieres hacerlo?
+
+16
+00:00:29,475 --> 00:00:32,475
+PART.2: ¿Quieres hacer todas las preguntas
+tú y luego las hago todas yo?
+
+17
+00:00:33,195 --> 00:00:34,235
+PART.1: Vale, sí, sí.
+
+18
+00:00:34,315 --> 00:00:37,395
+PART.2: Vale, así te acuerdas de la
+información.
+
+19
+00:00:36,155 --> 00:00:37,395
+PART.1: Sí, lo tengo fresquito.
+
+20
+00:00:37,475 --> 00:00:39,075
+PART.2: Sí, va, pues empieza, va.
+
+21
+00:00:39,155 --> 00:00:40,995
+PART.2: Yo te las cuento, si quieres.
+
+22
+00:00:41,075 --> 00:00:43,835
+PART.1: A ver, ¿vuela?
+
+23
+00:00:43,915 --> 00:00:45,035
+PART.2: No.
+
+24
+00:00:47,315 --> 00:00:47,995
+PART.1: Bueno.
+
+25
+00:00:48,075 --> 00:00:51,195
+PART.2: Pero también es más fácil que no
+vuele, eh.
+
+26
+00:00:51,275 --> 00:00:58,395
+PART.2: Antes me ha tocado a mí uno que
+tenía plumas y yo estaba como,
+bueno, a ver...
+
+27
+00:00:55,355 --> 00:00:58,955
+PART.1: Ah, plumas, pero no vuela.
+
+28
+00:00:59,035 --> 00:01:01,635
+PART.2: No volaba, no, pero.
+
+29
+00:01:01,715 --> 00:01:02,715
+PART.1: Este no vuela.
+
+30
+00:01:02,795 --> 00:01:03,435
+PART.2: No.
+
+31
+00:01:05,995 --> 00:01:07,275
+PART.1: ¿Es?
+
+32
+00:01:07,355 --> 00:01:09,715
+PART.1: Ah, tiene que ser preguntas de sí
+o no.
+
+33
+00:01:10,155 --> 00:01:11,635
+PART.1: Pues, ¿vive en el mar?
+
+34
+00:01:11,715 --> 00:01:12,435
+PART.2: No.
+
+35
+00:01:12,515 --> 00:01:13,235
+PART.1: Ok.
+
+36
+00:01:16,315 --> 00:01:18,195
+PART.1: ¿Va en cuatro patas?
+
+37
+00:01:18,275 --> 00:01:18,715
+PART.2: Sí.
+
+38
+00:01:19,115 --> 00:01:20,795
+PART.1: Ok, va en cuatro patas.
+
+39
+00:01:22,475 --> 00:01:23,475
+PART.1: ¿Es...
+
+40
+00:01:27,315 --> 00:01:28,035
+PART.1: ...carnívoro?
+
+41
+00:01:29,515 --> 00:01:31,155
+PART.2: Yo diría que no.
+
+42
+00:01:32,195 --> 00:01:33,955
+PART.1: Cuatro patas, carnívoro, no.
+
+43
+00:01:33,315 --> 00:01:34,155
+PART.2: No.
+
+44
+00:01:34,235 --> 00:01:35,035
+PART.2: Vale.
+
+45
+00:01:35,115 --> 00:01:36,995
+PART.1: Cuatro patas, no es carnívoro,
+
+46
+00:01:40,595 --> 00:01:42,315
+PART.1: ¿Es grande, grande?
+
+47
+00:01:45,355 --> 00:01:47,355
+PART.2: No, no es de los animales más
+grandes.
+
+48
+00:01:47,435 --> 00:01:48,835
+PART.1: Ok.
+
+49
+00:01:50,475 --> 00:01:51,875
+PART.1: ¿Tiene colmillos?
+
+50
+00:01:51,955 --> 00:01:53,115
+PART.2: No.
+
+51
+00:01:57,955 --> 00:01:58,955
+PART.1: ¿Cuernos?
+
+52
+00:01:59,035 --> 00:02:00,075
+PART.2: Tampoco.
+
+53
+00:02:01,875 --> 00:02:02,955
+PART.1: Me quedan cuatro.
+
+54
+00:02:06,635 --> 00:02:09,595
+PART.1: No tiene colmillos, no tiene
+cuernos, no es de los más grandes.
+
+55
+00:02:15,635 --> 00:02:16,915
+PART.1: Va en cuatro patas.
+
+56
+00:02:23,875 --> 00:02:24,875
+PART.1: Ay.
+
+57
+00:02:24,955 --> 00:02:26,195
+PART.1: ¿Qué más puedo preguntar?
+
+58
+00:02:26,275 --> 00:02:27,315
+PART.1: Espera, me he bloqueado.
+
+59
+00:02:27,395 --> 00:02:28,915
+PART.2: Sí, no pasa nada.
+
+60
+00:02:29,595 --> 00:02:31,955
+PART.2: Antes también me pasó con el pavo
+real.
+
+61
+00:02:32,035 --> 00:02:34,115
+PART.2: Ya no sabía qué preguntar.
+
+62
+00:02:34,595 --> 00:02:39,195
+PART.2: Yo: "¿Es doméstico?", y él:
+"Bueno, a veces".
+
+63
+00:02:38,315 --> 00:02:39,315
+PART.1: Depende.
+
+64
+00:02:39,395 --> 00:02:41,435
+PART.2: "A veces yo lo he visto".
+
+65
+00:02:41,195 --> 00:02:43,075
+PART.1: Depende del loco que lo quiera
+llevar a su casa.
+
+66
+00:02:43,155 --> 00:02:43,955
+PART.2: Exacto.
+
+67
+00:02:44,035 --> 00:02:46,915
+PART.2: Digo: "Vale, pues a ver".
+
+68
+00:02:46,995 --> 00:02:49,275
+PART.1: A ver, si este no es de los más
+grandes.
+
+69
+00:02:49,355 --> 00:02:50,355
+PART.2: No.
+
+70
+00:02:50,435 --> 00:02:52,195
+PART.1: Y no come, a ver.
+
+71
+00:02:52,275 --> 00:02:54,795
+PART.1: Es que se me vienen todos los que
+no son.
+
+72
+00:02:55,995 --> 00:03:00,715
+PART.1: ¿Sabes? Los que tienen cuernos,
+los que son carnívoros, colmillos.
+
+73
+00:02:58,515 --> 00:02:59,355
+PART.1: Ya, ya, ya.
+
+74
+00:03:01,355 --> 00:03:02,595
+PART.1: Eh...
+
+75
+00:03:12,275 --> 00:03:14,995
+PART.1: El hipopótamo tiene cuernitos,
+¿no? Sí.
+
+76
+00:03:15,995 --> 00:03:17,035
+PART.2: ¿El hipopótamo tiene cuernitos?
+
+77
+00:03:17,115 --> 00:03:18,275
+PART.1: Tiene cuernitos, sí.
+
+78
+00:03:18,355 --> 00:03:19,635
+PART.1: Unos chiquititos.
+
+79
+00:03:18,955 --> 00:03:21,555
+PART.2: No, el hipopótamo tiene dos
+orejitas.
+
+80
+00:03:21,635 --> 00:03:22,275
+PART.1: ¿Las orejitas?
+
+81
+00:03:22,355 --> 00:03:23,915
+PART.1: ¿Y no tiene dos huesitos así?
+
+82
+00:03:24,115 --> 00:03:25,075
+PART.2: Ay, creo que no.
+
+83
+00:03:25,155 --> 00:03:29,075
+PART.1: ¿Y qué me habías dicho? Que no era
+de agua, ¿no?
+
+84
+00:03:29,155 --> 00:03:29,755
+PART.1: No.
+
+85
+00:03:30,475 --> 00:03:31,915
+PART.1: ¿Es un hipopótamo?
+
+86
+00:03:32,715 --> 00:03:35,915
+PART.2: No, no, no, no,
+no es un hipopótamo.
+
+87
+00:03:35,475 --> 00:03:36,475
+PART.1: Me quedan tres.
+
+88
+00:03:36,555 --> 00:03:37,555
+PART.2: No, no, no.
+
+89
+00:03:37,635 --> 00:03:38,635
+PART.1: A ver.
+
+90
+00:03:39,275 --> 00:03:41,755
+PART.1: Eh, porque no es de los más
+grandes.
+
+91
+00:03:48,395 --> 00:03:49,915
+PART.1: Estoy pensando en el "Rey León".
+
+92
+00:03:49,995 --> 00:03:51,475
+PART.2: Ya, a ver qué animales hay.
+
+93
+00:03:51,555 --> 00:03:52,475
+PART.1: Sí.
+
+94
+00:03:52,555 --> 00:03:54,435
+PART.2: Piensa en tipo así Disney.
+
+95
+00:03:54,515 --> 00:03:54,955
+PART.1: Sí, ya, ya.
+
+96
+00:03:55,035 --> 00:03:56,795
+PART.2: Los animales ahí.
+
+97
+00:03:56,875 --> 00:03:58,275
+PART.1: Ya, pero por eso te he preguntado
+lo de los colmillos.
+
+98
+00:03:57,635 --> 00:03:59,675
+PART.2: Creo que en "El rey león" no sale.
+
+99
+00:03:59,755 --> 00:04:01,155
+PART.1: No sale, ¿no?
+
+100
+00:04:00,795 --> 00:04:03,355
+PART.2: No, no sale este animal en "El rey
+león", creo.
+
+101
+00:04:03,435 --> 00:04:04,395
+PART.2: No.
+
+102
+00:04:04,795 --> 00:04:06,355
+PART.1: Y que no come carne.
+
+103
+00:04:06,435 --> 00:04:09,115
+PART.2: Es que creo que no come carne este
+animal, eh.
+
+104
+00:04:09,195 --> 00:04:12,635
+PART.2: Yo apostaría bastante a que no
+come carne.
+
+105
+00:04:14,075 --> 00:04:15,075
+PART.2: No.
+
+106
+00:04:15,755 --> 00:04:20,355
+PART.2: Al menos, si come carne, debe ser,
+no es el...
+
+107
+00:04:20,435 --> 00:04:21,355
+PART.1: No es un cazador.
+
+108
+00:04:21,435 --> 00:04:23,235
+PART.2: No, yo creo que no.
+
+109
+00:04:23,315 --> 00:04:24,315
+PART.1: Ya.PERSONA A:
+
+110
+00:04:24,395 --> 00:04:28,635
+PART.1: Entonces, me has pillado, otra
+pregunta, a ver.
+
+111
+00:04:29,635 --> 00:04:31,035
+PART.1: ¿Tiene pelo?
+
+112
+00:04:31,115 --> 00:04:32,035
+PART.1: Sí.
+
+113
+00:04:32,115 --> 00:04:33,195
+PART.1: Tiene pelos.
+
+114
+00:04:33,675 --> 00:04:35,195
+PART.1: Me he quedado igual.
+
+115
+00:04:35,435 --> 00:04:37,195
+PART.1: Eh, a ver.
+
+116
+00:04:39,035 --> 00:04:40,675
+PART.1: ¿Qué come?
+
+117
+00:04:40,755 --> 00:04:43,115
+PART.1: Tiene pelo.
+
+118
+00:04:43,195 --> 00:04:45,115
+PART.1: Ah, ¿un oso panda?
+
+119
+00:04:45,755 --> 00:04:49,475
+PART.2: No, no.
+
+120
+00:04:49,555 --> 00:04:56,595
+PART.2: Es, es que claro, no sé si lo
+puedo comparar el oso panda con este
+animal, pero tiene algo que se parece.
+
+121
+00:04:56,675 --> 00:04:57,875
+PART.1: Tiene algo que se parece.
+
+122
+00:04:57,955 --> 00:05:01,195
+PART.1: Claro, porque pelo, oso panda,
+ya, a mí me pasó con el anterior.
+
+123
+00:05:01,275 --> 00:05:06,475
+PART.2: O sea, son muy diferentes, pero
+tienen una cosa en común.
+
+124
+00:05:10,075 --> 00:05:11,195
+PART.2: Solamente una.
+
+125
+00:05:11,275 --> 00:05:12,475
+PART.1: Solamente una.
+
+126
+00:05:12,555 --> 00:05:14,595
+PART.2: Está diferente distribuida,
+está...
+
+127
+00:05:14,675 --> 00:05:15,675
+PART.1: Está diferentemente distribuida.
+
+128
+00:05:15,755 --> 00:05:16,915
+PART.2: Sí, pero.
+
+129
+00:05:16,995 --> 00:05:18,075
+PART.1: La cabeza en otro lugar...
+
+130
+00:05:18,155 --> 00:05:20,475
+PART.2: No, no, no, por eso.
+
+131
+00:05:20,555 --> 00:05:24,835
+PART.2: Hay una cosa distintiva en ellos,
+que lo tienen igual.
+
+132
+00:05:24,915 --> 00:05:26,035
+PART.1: Que lo tienen igual.
+
+133
+00:05:26,115 --> 00:05:28,835
+PART.2: Diferente distribuido en el
+cuerpo, pero...
+
+134
+00:05:29,555 --> 00:05:30,715
+PART.1: Los colores.
+
+135
+00:05:32,075 --> 00:05:33,755
+PART.1: Una cebra.
+
+136
+00:05:33,835 --> 00:05:34,715
+PART.2: "Molt bé".
+
+137
+00:05:35,555 --> 00:05:37,675
+PART.1: Oh, me has ayudado.
+
+138
+00:05:37,755 --> 00:05:38,755
+PART.2: Sí.
+
+139
+00:05:38,835 --> 00:05:40,875
+PART.2: Te veía un poco perdida.
+
+140
+00:05:40,955 --> 00:05:42,515
+PART.1: Sí, sí, perdidísima.
+
+141
+00:05:41,315 --> 00:05:43,435
+PART.2: Es que no sé si la cebra es
+omnívora.
+
+142
+00:05:43,515 --> 00:05:44,955
+PART.1: Yo creo que sí, ¿verdad?
+
+143
+00:05:45,035 --> 00:05:48,635
+PART.2: Es que por eso luego te he dicho:
+"Es que quizás sí que coma un poco
+de carne", pero yo tenía...
+
+144
+00:05:48,715 --> 00:05:50,275
+PART.1: Familia del...
+
+145
+00:05:50,355 --> 00:05:52,755
+PART.2: No sabía si era 100 %.
+
+146
+00:05:52,835 --> 00:05:54,315
+PART.1: ...de los caballos, pero claro.
+
+147
+00:05:53,715 --> 00:05:55,955
+PART.2: No sabía si era 100 % carnívora.
+
+148
+00:05:56,035 --> 00:05:57,035
+PART.1: Sí, es verdad.
+
+149
+00:05:57,115 --> 00:05:58,675
+PART.2: Luego no sé su dieta.
+
+150
+00:05:58,755 --> 00:05:59,795
+PART.1: También lo dudé.
+
+151
+00:05:59,875 --> 00:06:01,395
+PART.2: Por eso no te sabía decir.
+
+152
+00:06:01,475 --> 00:06:03,315
+PART.1: Ostras, pero ha sido clave lo que
+me has dicho.
+
+153
+00:06:03,395 --> 00:06:06,675
+PART.2: He pensado, a ver si...
+
+154
+00:06:07,515 --> 00:06:11,755
+PART.2: Cuando has dicho un oso panda, he
+dicho: "No, pero...".
+
+155
+00:06:11,835 --> 00:06:12,835
+PART.1: Ya, ya, pero.
+
+156
+00:06:12,915 --> 00:06:18,595
+PART.1: Yo pensando un oso polar, un oso
+panda, un oso normal.
+
+157
+00:06:18,675 --> 00:06:21,915
+PART.1: Yo: no, estos comen carne, estos
+son muy grandes...
+
+158
+00:06:21,995 --> 00:06:22,995
+PART.2: Los colores.
+
+159
+00:06:23,075 --> 00:06:24,675
+PART.2: Cuando lo has dicho, he dicho,
+ahora.
+
+160
+00:06:24,755 --> 00:06:25,395
+PART.1: Ya, ya.
+
+161
+00:06:25,475 --> 00:06:26,395
+PART.2: Ya lo tiene.
+
+162
+00:06:26,475 --> 00:06:28,195
+PART.1: Va, a ver, el mío.
+
+163
+00:06:29,435 --> 00:06:31,195
+PART.2: A ver.
+
+164
+00:06:32,755 --> 00:06:34,155
+PART.2: ¿Es un animal acuático?
+
+165
+00:06:34,235 --> 00:06:34,995
+PART.1: No.
+
+166
+00:06:38,475 --> 00:06:39,475
+PART.2: ¿Vuela?
+
+167
+00:06:39,555 --> 00:06:40,555
+PART.1: No.
+
+168
+00:06:40,635 --> 00:06:41,635
+PART.2: Vale.
+
+169
+00:06:44,955 --> 00:06:46,955
+PART.2: ¿Tiene dibujos en su piel?
+
+170
+00:06:47,035 --> 00:06:50,235
+PART.2: Así como rayas, cuadraditos, bueno
+así como...
+
+171
+00:06:50,315 --> 00:06:50,875
+PART.1: Sí.
+
+172
+00:06:50,955 --> 00:06:51,475
+PART.2: ¿Sí?
+
+173
+00:06:51,555 --> 00:06:52,555
+PART.2: Vale.
+
+174
+00:06:55,195 --> 00:06:56,195
+PART.2: ¿Tiene pelo?
+
+175
+00:06:56,795 --> 00:06:57,995
+PART.1: Tiene pelo.
+
+176
+00:07:02,155 --> 00:07:04,515
+PART.2: ¿Es herbívoro?
+
+177
+00:07:03,515 --> 00:07:04,515
+PART.2: No.
+
+178
+00:07:05,155 --> 00:07:06,275
+PART.2: No es herbívoro.
+
+179
+00:07:07,835 --> 00:07:08,835
+PART.2: Vale.
+
+180
+00:07:10,275 --> 00:07:11,275
+PART.2: Es carnívoro.
+
+181
+00:07:14,915 --> 00:07:15,915
+PART.2: Vale.
+
+182
+00:07:19,635 --> 00:07:20,875
+PART.2: ¿Los dibujitos son rayas?
+
+183
+00:07:20,955 --> 00:07:22,515
+PART.1: Sí.
+
+184
+00:07:23,155 --> 00:07:24,435
+PART.2: ¿Soy tigre?
+
+185
+00:07:24,515 --> 00:07:25,675
+PART.1: Ya está.
+
+186
+00:07:25,755 --> 00:07:27,075
+PART.2: ¡Bien!
+
+187
+00:07:27,155 --> 00:07:28,155
+PART.1: ¡Bien!
+
+188
+00:07:29,555 --> 00:07:30,675
+PART.1: Ay, qué guay.
+
+189
+00:07:31,195 --> 00:07:32,195
+PART.2: Ah, sí.
+
+190
+00:07:32,275 --> 00:07:33,675
+PART.2: Ostras, me costó, eh.
+
+191
+00:07:33,755 --> 00:07:38,915
+PART.2: Sí, es que cuando me has dicho
+también el tamaño pensaba, es que
+claro, tampoco es...
+
+192
+00:07:38,995 --> 00:07:41,955
+PART.1: Nunca pensé en el caballo tampoco,
+¿sabes?
+
+193
+00:07:42,035 --> 00:07:53,035
+PART.2: Sí, yo cuando estabas hablando,
+preguntando por el tamaño, pensaba,
+bueno, a ver si pregunta algún
+similar.
+
+194
+00:07:49,155 --> 00:07:50,115
+PART.1: Qué curioso.
+
+195
+00:07:53,195 --> 00:07:53,795
+PART.1: Sí.
+
+196
+00:07:53,875 --> 00:07:55,915
+PART.2: Porque si dices, por ejemplo,
+caballo, yo te hubiera dicho,
+similar.
+
+197
+00:07:55,995 --> 00:07:58,195
+PART.2: Si hubiera dicho esto ya...
+
+198
+00:07:58,275 --> 00:08:00,835
+PART.1: Ya está, lo adivinas, sí.
+
+199
+00:08:00,915 --> 00:08:01,915
+PART.2: Sí, sí.
+
+200
+00:08:01,995 --> 00:08:07,355
+PART.2: Es complicado, depende de las
+preguntas, a mí antes me pasaba con
+el pavo real.
+
+201
+00:08:08,395 --> 00:08:11,835
+PART.2: Que con las preguntas estaba como,
+se me habían perdido.
+
+202
+00:08:11,915 --> 00:08:18,715
+PART.1: O cuando son varias especies,
+porque a mí me había tocado una
+gaviota,
+pero yo dije pelícano.
+
+203
+00:08:20,595 --> 00:08:24,915
+PART.1: Así que bueno, yo creo que sí, que
+lo has adivinado,
+pero, al final, no.
+
+204
+00:08:24,995 --> 00:08:28,075
+PART.2: Ya, no,
+pero porque es de la misma familia.
+
+205
+00:08:28,155 --> 00:08:32,195
+PART.1: Comen lo mismo,
+cazan igual...
+
+206
+00:08:29,595 --> 00:08:31,275
+PART.2: Sí.
+
+207
+00:08:31,875 --> 00:08:33,995
+PART.2: Sí, pero bueno.
+
+208
+00:08:34,075 --> 00:08:35,195
+PART.1: Como el pavo real
+
+209
+00:08:35,275 --> 00:08:37,115
+PART.2: Estos son más fáciles.
+
+210
+00:08:37,195 --> 00:08:38,435
+PART.1: Sí, sí, sí.
+
+211
+00:08:38,515 --> 00:08:41,555
+PART.1: Qué curioso, nunca pensé en...
+
+212
+00:08:42,155 --> 00:08:46,435
+PART.2: No, mira que pensé en canguros,
+pero son dos patas.
+
+213
+00:08:46,515 --> 00:08:49,075
+PART.1: Luego pensé en jirafa, por eso te
+pregunté: "¿Es grande, grande?".
+
+214
+00:08:49,155 --> 00:08:53,275
+PART.1: Porque era herbívoro
+y nunca pensé en los caballos.
+
+215
+00:08:51,355 --> 00:08:56,675
+PART.2: Ya, es que tenía que haber dicho
+que era omnívoro desde el principio.
+
+216
+00:08:56,755 --> 00:08:58,235
+PART.2: Pero es que, claro, no lo sabía.
+
+217
+00:08:58,315 --> 00:08:59,795
+PART.1: Claro, pero yo tenía la pista.
+
+218
+00:08:59,875 --> 00:09:00,835
+PART.2: Sí.
+
+219
+00:09:00,915 --> 00:09:05,835
+PART.1: Si no era carnívoro, nunca pensé
+ni en vacas, también podía decir una
+vaca.
+
+220
+00:09:05,915 --> 00:09:07,915
+PART.1: No me pasó por la mente.
+
+221
+00:09:07,995 --> 00:09:09,115
+PART.2: Sí, sí, sí.
+

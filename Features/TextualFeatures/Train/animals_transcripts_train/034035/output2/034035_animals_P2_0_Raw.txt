@@ -1,0 +1,10 @@
+Eh... ¿Soy un mamífero? 
+¿Soy un ave? 
+Soy un reptil. 
+Soy un animal acuático. 
+¿Soy grande? 
+No. 
+Pero no soy mamífero. 
+Vale. Tampoco soy un ave. 
+No soy nada de animales. 
+Ah... ¿Me comen? 

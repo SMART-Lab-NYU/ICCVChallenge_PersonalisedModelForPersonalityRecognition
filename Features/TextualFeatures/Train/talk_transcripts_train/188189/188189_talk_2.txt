@@ -1,0 +1,24 @@
+18
+00:02:00,191 --> 00:02:15,369
+PART.2: ¡Claro! No sabes nada, no es que sepas la previsión, no sabes nada porque me refiero, tú haces tu oferta de... en este caso, somos un restaurante y tenemos un tipo de oferta, pero el target que te va a venir en fiestas de Gracia, no es el target que va a mi restaurante.
+
+19
+00:02:16,607 --> 00:02:18,782
+PART.1: ¡Mmmm, vale! ¿Qué target tienes en tu restaurante?
+
+20
+00:02:18,817 --> 00:02:38,809
+PART.2: Vale, mi restaurante es de, en este caso, el precio por comensal es de 25/30€, 20/30€ vale, obviamente si te pides lo más caro, te vas a ir a 35 pero bueno, o sea normalmente es 20 o 30€, entonces, el target de fiestas de Gracia que va es a cerveza de euro y medio, emborracharme, y salir de fiesta.
+
+21
+00:02:39,127 --> 00:02:44,616
+PART.2: Y bueno, es otro tipo de target, este target pues no se va a ir a un restaurante a dejarse 30€
+
+22
+00:02:44,651 --> 00:02:47,367
+PART.1: Pero todo se llena al final, no...
+
+23
+00:02:47,422 --> 00:03:08,958
+PART.2: Claro, pero entonces, entonces aquí estuvimos validando de qué hacer si cambiamos nuestra oferta, si adaptábamos nuestra oferta fiestas de Gracia, entonces pues bueno, al final hemos decidido que haremos nuestra oferta, únicamente ampliaremos franjas horarias, y bueno, y entonces pues bueno, preparándolo todo, preparando los contratos que van, pues claro, vamos a tener que contratar personas extras
+

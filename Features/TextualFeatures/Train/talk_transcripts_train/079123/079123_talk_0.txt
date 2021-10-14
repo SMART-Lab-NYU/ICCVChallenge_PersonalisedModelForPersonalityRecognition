@@ -1,0 +1,92 @@
+1
+00:00:00,836 --> 00:00:01,836
+PART.1: Molt bé.
+
+2
+00:00:00,836 --> 00:00:02,836
+PART.2: Bé, em dic Dani.
+
+3
+00:00:02,836 --> 00:00:03,836
+PART.1: I jo Albert.
+
+4
+00:00:03,836 --> 00:00:05,836
+PART.2: Emm...
+
+5
+00:00:05,836 --> 00:00:07,836
+PART.2: És la primera vegada que vens aquí?
+
+6
+00:00:07,836 --> 00:00:10,836
+PART.1: Sí; de fet, la primera vegada que vinc a la Uni aquesta.
+
+7
+00:00:10,836 --> 00:00:12,836
+PART.1: No havia entrat mai aquí.
+
+8
+00:00:12,836 --> 00:00:13,836
+PART.1: És molt guai.
+
+9
+00:00:13,836 --> 00:00:16,836
+PART.1: Té tot el pati aquest de fora, està tot...
+
+10
+00:00:16,836 --> 00:00:17,836
+PART.2: Doncs jo porto aquí...
+
+11
+00:00:17,836 --> 00:00:18,836
+PART.2: Quant porto?
+
+12
+00:00:18,836 --> 00:00:19,836
+PART.2: Tretze anys.
+
+13
+00:00:19,836 --> 00:00:22,836
+PART.1: Tretze anys aquí, en la Uni aquesta?
+
+14
+00:00:22,836 --> 00:00:23,836
+PART.2: Sí, més o menys.
+
+15
+00:00:23,836 --> 00:00:27,836
+PART.2: Perquè estic fent doctorat, i... entre aquesta universitat i la UOC...
+
+16
+00:00:27,836 --> 00:00:28,836
+PART.1: Hmm.
+
+17
+00:00:28,836 --> 00:00:36,836
+PART.2: I bueno, he estudiat aquí, màster i tot i bueno, una mica... això és una segona casa.
+
+18
+00:00:35,836 --> 00:00:37,836
+PART.1: Ja, clar.
+
+19
+00:00:37,836 --> 00:00:45,836
+PART.2: Però si et dones una volta, si passeges una mica per l'altre edifici...
+
+20
+00:00:44,836 --> 00:00:45,836
+PART.1: Hmm.
+
+21
+00:00:46,836 --> 00:00:51,836
+PART.2: És a dir, són dos edificis, i hi ha un com una mena de túnel que connecta, no?
+
+22
+00:00:51,836 --> 00:00:59,836
+PART.2: Pujant les escales hi ha una sala, una aula magna es diu, on es fan les xerrades i tot...
+
+23
+00:00:59,836 --> 00:01:00,836
+PART.2: És una passada.
+

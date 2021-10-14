@@ -1,0 +1,839 @@
+1
+00:00:00,000 --> 00:00:00,431
+PART.1: ¿Tú o yo?
+
+2
+00:00:00,871 --> 00:00:01,511
+PART.2: Como quieras.
+
+3
+00:00:01,991 --> 00:00:02,911
+PART.2: Pues yo mismo.
+
+4
+00:00:04,031 --> 00:00:05,111
+PART.2: ¿Es un animal terrestre?
+
+5
+00:00:05,911 --> 00:00:06,431
+PART.1: Sí.
+
+6
+00:00:07,351 --> 00:00:08,351
+PART.1: ¿Tiene cuatro patas?
+
+7
+00:00:09,671 --> 00:00:10,191
+PART.2: Sí.
+
+8
+00:00:10,391 --> 00:00:10,711
+PART.1: Bien.
+
+9
+00:00:13,391 --> 00:00:14,311
+PART.2: ¿Es carnívoro?
+
+10
+00:00:14,391 --> 00:00:14,871
+PART.1: Sí.
+
+11
+00:00:14,951 --> 00:00:15,751
+PART.2: Vale.
+
+12
+00:00:19,191 --> 00:00:20,831
+PART.1: Es terrestre obviamente porque
+tiene cuatro patas.
+
+13
+00:00:22,231 --> 00:00:23,271
+PART.1: ¿Tiene colmillos?
+
+14
+00:00:25,311 --> 00:00:26,071
+PART.2: Diría que no.
+
+15
+00:00:26,591 --> 00:00:27,591
+PART.1: Dirías que no.
+
+16
+00:00:28,151 --> 00:00:29,551
+PART.2: No, no creo que tenga.
+
+17
+00:00:30,111 --> 00:00:30,791
+PART.2: Ahora dudo.
+
+18
+00:00:30,871 --> 00:00:31,431
+PART.1: Vale.
+
+19
+00:00:35,471 --> 00:00:38,711
+PART.2: ¿Es más grande que un perro?
+
+20
+00:00:40,071 --> 00:00:42,631
+PART.1: Que un perro mediano sí.
+
+21
+00:00:41,791 --> 00:00:42,991
+PART.2: ¿Un labrador?
+
+22
+00:00:43,071 --> 00:00:43,471
+PART.1: Sí, sí.
+
+23
+00:00:44,311 --> 00:00:44,751
+PART.1: Vale.
+
+24
+00:00:47,231 --> 00:00:50,311
+PART.1: ¿Tiene mucho pelo?
+
+25
+00:00:51,311 --> 00:00:51,871
+PART.2: Sí.
+
+26
+00:00:52,511 --> 00:00:52,991
+PART.1: Vale.
+
+27
+00:00:58,311 --> 00:01:02,671
+PART.2: Hemos dicho que es carnívoro,
+terrestre y más grande que un perro.
+
+28
+00:01:04,311 --> 00:01:07,871
+PART.2: ¿Tiene... bigotes?
+
+29
+00:01:08,551 --> 00:01:09,071
+PART.1: Sí.
+
+30
+00:01:09,431 --> 00:01:09,911
+PART.2: Vale.
+
+31
+00:01:12,911 --> 00:01:13,951
+PART.1: ¿Vive en la selva?
+
+32
+00:01:14,511 --> 00:01:14,991
+PART.2: No.
+
+33
+00:01:15,351 --> 00:01:16,271
+PART.1: No vive en la selva.
+
+34
+00:01:17,111 --> 00:01:17,951
+PART.2: Diría que no, vamos.
+
+35
+00:01:18,391 --> 00:01:18,991
+PART.2: No, no, no.
+
+36
+00:01:20,471 --> 00:01:21,271
+PART.2: ¿Tiene melena?
+
+37
+00:01:21,591 --> 00:01:21,951
+PART.1: No.
+
+38
+00:01:22,311 --> 00:01:22,871
+PART.2: Vale.
+
+39
+00:01:24,551 --> 00:01:25,431
+PART.1: ¿Es herbívoro?
+
+40
+00:01:25,991 --> 00:01:26,471
+PART.2: Sí.
+
+41
+00:01:26,551 --> 00:01:27,231
+PART.1: Vale.
+
+42
+00:01:29,351 --> 00:01:30,431
+PART.2: ¿Es de colores vivos?
+
+43
+00:01:32,751 --> 00:01:33,551
+PART.1: No.
+
+44
+00:01:33,631 --> 00:01:34,351
+PART.1: Vivos, no.
+
+45
+00:01:36,031 --> 00:01:37,871
+PART.2: Vale, igual he desperdiciado una
+pregunta.
+
+46
+00:01:37,951 --> 00:01:38,791
+PART.1: Claro, es que...
+
+47
+00:01:39,031 --> 00:01:40,191
+PART.1: Vivos no, pero...
+
+48
+00:01:41,031 --> 00:01:41,911
+PART.1: A ver el mío.
+
+49
+00:01:44,111 --> 00:01:45,591
+PART.1: ¿Es monocromático?
+
+50
+00:01:46,951 --> 00:01:47,511
+PART.2: Sí, sí.
+
+51
+00:01:47,831 --> 00:01:48,791
+PART.2: Se puede decir que sí.
+
+52
+00:01:52,191 --> 00:01:53,711
+PART.1: ¿Llevo seis o cinco?
+
+53
+00:01:53,471 --> 00:01:54,511
+PART.2: Llevamos las mismas, sí.
+
+54
+00:02:03,911 --> 00:02:04,631
+PART.2: Es carnívoro.
+
+55
+00:02:05,271 --> 00:02:08,071
+PART.2: Es que tengo una idea y no sé qué
+preguntar para...
+
+56
+00:02:09,151 --> 00:02:10,071
+PART.2: ¿Es felino?
+
+57
+00:02:10,151 --> 00:02:10,671
+PART.1: Sí.
+
+58
+00:02:10,951 --> 00:02:11,591
+PART.2: Vale.
+
+59
+00:02:12,071 --> 00:02:13,231
+PART.1: Yo te iba a preguntar algo
+parecido.
+
+60
+00:02:14,191 --> 00:02:15,871
+PART.1: No tiene colmillos.
+
+61
+00:02:19,351 --> 00:02:21,511
+PART.1: ¿Es de la familia de los caninos?
+
+62
+00:02:21,591 --> 00:02:23,351
+PART.1: No, no. Nada.
+
+63
+00:02:23,431 --> 00:02:24,471
+PART.1: No tiene colmillos.
+
+64
+00:02:25,951 --> 00:02:26,671
+PART.2: Y es herbívoro.
+
+65
+00:02:26,751 --> 00:02:27,511
+PART.1: Y es herbívoro.
+
+66
+00:02:30,671 --> 00:02:31,631
+PART.1: ¿De las vacas?
+
+67
+00:02:31,711 --> 00:02:32,951
+PART.1: ¿Cómo se llama la familia de las
+vacas?
+
+68
+00:02:33,351 --> 00:02:34,111
+PART.1: ¿Es tipo vaca?
+
+69
+00:02:34,191 --> 00:02:34,951
+PART.1: ¿Rumiante?
+
+70
+00:02:35,031 --> 00:02:35,431
+PART.2: No.
+
+71
+00:02:37,911 --> 00:02:38,911
+PART.2: No, sería bobino.
+
+72
+00:02:38,991 --> 00:02:39,431
+PART.1: Bobino.
+
+73
+00:02:39,511 --> 00:02:40,551
+PART.1: Bueno, sí, el concepto.
+
+74
+00:02:42,911 --> 00:02:43,671
+PART.2: Creo que me la voy a jugar.
+
+75
+00:02:43,751 --> 00:02:44,431
+PART.2: ¿Es un tigre?
+
+76
+00:02:44,511 --> 00:02:44,991
+PART.1: No.
+
+77
+00:02:46,311 --> 00:02:47,871
+PART.2: ¿Eso es que he perdido o no
+sabemos qué pasa?
+
+78
+00:02:47,471 --> 00:02:48,031
+PART.1: No lo sé.
+
+79
+00:02:48,111 --> 00:02:49,191
+PART.1: Igual tienes más intentos.
+
+80
+00:02:48,831 --> 00:02:50,271
+PART.2: Bueno, he gastado una pregunta en
+esto.
+
+81
+00:02:49,991 --> 00:02:50,471
+PART.1: Sí.
+
+82
+00:02:51,751 --> 00:02:52,631
+PART.1: ¿Qué te puedo preguntar?
+
+83
+00:02:54,551 --> 00:02:55,671
+PART.1: ¿Vive en grupos?
+
+84
+00:02:58,951 --> 00:02:59,791
+PART.2: Pues no lo sé.
+
+85
+00:03:00,511 --> 00:03:01,751
+PART.1: Buah, qué coño será.
+
+86
+00:03:01,831 --> 00:03:02,831
+PART.2: Podría ser, ¿eh?
+
+87
+00:03:03,351 --> 00:03:04,311
+PART.2: Seguramente sí.
+
+88
+00:03:05,071 --> 00:03:08,191
+PART.2: Igual no en grupos grandes, pero
+yo creo que en grupos sí.
+
+89
+00:03:09,071 --> 00:03:09,631
+PART.2: Vale.
+
+90
+00:03:11,751 --> 00:03:13,071
+PART.1: No tengo ni idea, chaval.
+
+91
+00:03:16,671 --> 00:03:17,751
+PART.2: Claro, si es fe...
+
+92
+00:03:18,191 --> 00:03:22,831
+PART.2: Es felino, carnívoro, no es un
+tigre y no tiene melena.
+
+93
+00:03:27,671 --> 00:03:28,551
+PART.2: ¿Es una pantera?
+
+94
+00:03:29,351 --> 00:03:30,031
+PART.1: No.
+
+95
+00:03:30,631 --> 00:03:31,111
+PART.1: No.
+
+96
+00:03:32,031 --> 00:03:34,111
+PART.2: Tengo que aprovechar bien mi
+siguiente pregunta.
+
+97
+00:03:34,751 --> 00:03:35,951
+PART.1: Yo no sé ni qué preguntar.
+
+98
+00:03:43,991 --> 00:03:45,511
+PART.1: Es diurno obviamente, ¿no?
+
+99
+00:03:46,551 --> 00:03:47,551
+PART.2: Diría que sí.
+
+100
+00:03:48,351 --> 00:03:48,911
+PART.2: Sí.
+
+101
+00:03:49,071 --> 00:03:50,071
+PART.1: Hostia puta.
+
+102
+00:03:49,551 --> 00:03:50,391
+PART.2: Sí, sí, sí.
+
+103
+00:03:51,591 --> 00:03:52,591
+PART.2: Vale, pues...
+
+104
+00:03:57,231 --> 00:03:58,391
+PART.2: Me queda una pregunta.
+
+105
+00:04:06,551 --> 00:04:07,951
+PART.2: Hemos dicho que era más grande
+que un perro.
+
+106
+00:04:09,111 --> 00:04:10,311
+PART.2: Felino, carnívoro.
+
+107
+00:04:13,471 --> 00:04:14,351
+PART.2: Y no tiene melena.
+
+108
+00:04:16,791 --> 00:04:18,391
+PART.2: No es un tigre ni una pantera.
+
+109
+00:04:20,711 --> 00:04:21,951
+PART.2: ¿Es el animal más rápido del
+mundo?
+
+110
+00:04:24,191 --> 00:04:25,831
+PART.2: Bueno, el felino más rápido del
+mundo.
+
+111
+00:04:26,631 --> 00:04:27,431
+PART.1: Creo que sí.
+
+112
+00:04:27,511 --> 00:04:28,471
+PART.1: Sí. Creo que sí.
+
+113
+00:04:29,271 --> 00:04:29,671
+PART.2: Vale.
+
+114
+00:04:30,231 --> 00:04:32,471
+PART.1: Digo creo porque no sé si es uno
+o el otro.
+
+115
+00:04:32,711 --> 00:04:34,271
+PART.2: Es que justo estoy dudando entre
+dos.
+
+116
+00:04:35,591 --> 00:04:36,671
+PART.1: Pues yo diría que sí.
+
+117
+00:04:36,751 --> 00:04:37,631
+PART.2: O sea, el nombre lo sabes.
+
+118
+00:04:38,391 --> 00:04:40,431
+PART.2: Vale, te falta la última
+pregunta.
+
+119
+00:04:41,031 --> 00:04:42,431
+PART.1: Es que no sé cuál hacer.
+
+120
+00:04:47,431 --> 00:04:49,271
+PART.1: Es que estoy tan perdido y tengo
+tantas.
+
+121
+00:04:49,351 --> 00:04:50,151
+PART.2: Me has jodido, ¿eh?
+
+122
+00:04:50,231 --> 00:04:53,471
+PART.2: O sea, el animal lo conoces
+seguro, pero no sé qué pregunta
+haría yo para sacarlo.
+
+123
+00:04:57,871 --> 00:04:58,991
+PART.1: ¿Vive en bosques?
+
+124
+00:04:59,671 --> 00:05:00,831
+PART.2: Sí. Diría que sí.
+
+125
+00:05:01,631 --> 00:05:02,951
+PART.1: Es que tengo una idea, pero no lo
+sé.
+
+126
+00:05:03,911 --> 00:05:05,631
+PART.2: Vale, voy a decir el leopardo.
+
+127
+00:05:05,711 --> 00:05:06,311
+PART.1: Sí.
+
+128
+00:05:06,391 --> 00:05:07,071
+PART.1: El leopardo.
+
+129
+00:05:08,311 --> 00:05:09,031
+PART.2: Faltas tú.
+
+130
+00:05:09,111 --> 00:05:10,071
+PART.1: Es que no sé.
+
+131
+00:05:10,151 --> 00:05:12,791
+PART.1: Ya no me quedan preguntas, tengo
+que hacer adivinanza.
+
+132
+00:05:12,911 --> 00:05:14,271
+PART.2: Está dudando con el guepardo.
+
+133
+00:05:16,231 --> 00:05:17,671
+PART.1: A ver, déjame recapacitar.
+
+134
+00:05:18,551 --> 00:05:21,671
+PART.2: Es herbívoro, no tiene colmillos,
+aunque eso viene a ser lo mismo.
+
+135
+00:05:21,751 --> 00:05:23,271
+PART.1: Puede vivir en grupos.
+
+136
+00:05:24,991 --> 00:05:28,111
+PART.2: Claro, esa pregunta igual vale
+menos porque no te la he podido
+responder bien.
+
+137
+00:05:28,191 --> 00:05:28,711
+PART.1: Ya.
+
+138
+00:05:28,791 --> 00:05:31,391
+PART.2: Yo creo que solitarios no son.
+
+139
+00:05:31,471 --> 00:05:35,111
+PART.2: Igual tampoco viven en grupos muy
+grandes, pero me parece que sí.
+
+140
+00:05:35,591 --> 00:05:37,751
+PART.2: O sea, yo he visto más de uno
+junto a otros.
+
+141
+00:05:38,151 --> 00:05:39,231
+PART.1: Y vive en bosques has dicho.
+
+142
+00:05:39,951 --> 00:05:41,391
+PART.1: Y no en selva.
+
+143
+00:05:40,711 --> 00:05:42,631
+PART.2: Estoy seguro de que en bosques
+pueden vivir, en selva, no.
+
+144
+00:05:44,431 --> 00:05:45,391
+PART.1: A saber, chaval.
+
+145
+00:05:47,431 --> 00:05:49,991
+PART.1: Te diría un oso, pero no tiene
+colmillos, ¿sabes?
+
+146
+00:05:50,511 --> 00:05:51,511
+PART.1: Y es omnívoro.
+
+147
+00:05:54,431 --> 00:05:55,711
+PART.1: Uf, a saber.
+
+148
+00:05:57,031 --> 00:05:58,671
+PART.1: Jabalí tampoco porque también
+tiene colmillos.
+
+149
+00:06:00,911 --> 00:06:02,391
+PART.1: He dicho muy mal las preguntas,
+tío.
+
+150
+00:06:03,031 --> 00:06:04,231
+PART.1: Me falta mucha información.
+
+151
+00:06:04,871 --> 00:06:07,871
+PART.2: Claro, con relación al tamaño
+hubieras comentado o el hábitat.
+
+152
+00:06:07,951 --> 00:06:09,591
+PART.2: Bueno, el hábitat me has
+preguntado.
+
+153
+00:06:09,111 --> 00:06:10,711
+PART.1: Te he hecho dos preguntas de
+hábitat, ¿sabes?
+
+154
+00:06:11,951 --> 00:06:14,591
+PART.2: Y lo de si tiene colmillos y
+herbívoro, yo creo que es lo mismo.
+
+155
+00:06:15,431 --> 00:06:16,071
+PART.1: Exacto.
+
+156
+00:06:17,751 --> 00:06:18,351
+PART.1: A saber.
+
+157
+00:06:19,711 --> 00:06:21,071
+PART.2: ¿Dices una al azar y...?
+
+158
+00:06:21,151 --> 00:06:22,111
+PART.1: No te puedo decir.
+
+159
+00:06:22,191 --> 00:06:23,111
+PART.1: Te voy a decir...
+
+160
+00:06:29,191 --> 00:06:30,551
+PART.1: Un ciervo, tío, yo qué sé.
+
+161
+00:06:30,631 --> 00:06:31,231
+PART.2: No.
+
+162
+00:06:31,311 --> 00:06:31,951
+PART.2: Un koala.
+
+163
+00:06:32,031 --> 00:06:32,631
+PART.1: ¿Un koala?
+
+164
+00:06:32,711 --> 00:06:34,271
+PART.1: ¿Cómo coño adivino un koala, tío?
+
+165
+00:06:34,351 --> 00:06:36,111
+PART.2: En verdad no sé si viven en
+grupo.
+
+166
+00:06:36,191 --> 00:06:36,831
+PART.2: Yo creo que sí.
+
+167
+00:06:37,551 --> 00:06:38,351
+PART.1: No lo sé.
+
+168
+00:06:37,911 --> 00:06:39,591
+PART.2: Como en familias, al menos, sí.
+
+169
+00:06:39,351 --> 00:06:40,871
+PART.1: Cuando tienen hijos, sí durante
+un tiempo.
+
+170
+00:06:40,951 --> 00:06:41,871
+PART.1: Pero luego a saber.
+
+171
+00:06:42,671 --> 00:06:43,351
+PART.1: Un koala, tío.
+
+172
+00:06:43,431 --> 00:06:44,431
+PART.2: Tampoco lo hubieras...
+
+173
+00:06:44,511 --> 00:06:46,791
+PART.2: Si te digo que es solitario, te
+hubieras quedado igual.
+
+174
+00:06:47,911 --> 00:06:50,631
+PART.2: Aquí igual el tamaño o por el
+pelo...
+
+175
+00:06:51,791 --> 00:06:53,231
+PART.1: Te llego a preguntar: "¿Tiene
+garras?".
+
+176
+00:06:53,311 --> 00:06:55,871
+PART.1: Me habrías dicho: "Sí" y ya está,
+a tomar por culo, ¿sabes?
+
+177
+00:06:55,951 --> 00:06:57,551
+PART.2: No, yo creo que no, ¿no?
+
+178
+00:06:57,231 --> 00:06:59,151
+PART.1: Sí, sí. Tiene unas garras que
+flipas.
+
+179
+00:06:59,951 --> 00:07:01,271
+PART.2: ¿No se consideraría mano?
+
+180
+00:07:01,871 --> 00:07:02,631
+PART.1: No, pero...
+
+181
+00:07:03,111 --> 00:07:06,471
+PART.1: Tiene táctil, pero luego tiene
+garras para sujetarse a los árboles.
+
+182
+00:07:06,551 --> 00:07:07,431
+PART.1: Supertochas, ¿sabes?
+
+183
+00:07:07,911 --> 00:07:09,671
+PART.1: En plan de que te coge y te
+revienta.
+
+184
+00:07:09,751 --> 00:07:13,591
+PART.2: O sea, si yo tampoco sé todo del
+animal, no puedo...
+
+185
+00:07:12,791 --> 00:07:13,351
+PART.1: Ya, ya.
+
+186
+00:07:14,111 --> 00:07:15,511
+PART.2: Este era más sencillo.
+
+187
+00:07:19,071 --> 00:07:22,191
+PART.1: Veía que te ibas acercando y yo
+ni puta idea de lo que tenía.
+
+188
+00:07:25,391 --> 00:07:26,271
+PART.2: Sí. Era complicado.
+
+189
+00:07:26,351 --> 00:07:28,111
+PART.2: Si nos hubiera dado más cartas...
+
+190
+00:07:30,631 --> 00:07:31,911
+PART.1: Hombre, ¿no puedes pillar?
+
+191
+00:07:33,911 --> 00:07:35,031
+PART.1: Hace falta un timbre.
+
+192
+00:07:35,111 --> 00:07:35,551
+PART.2: Sí.
+
+193
+00:07:35,631 --> 00:07:36,271
+PART.1: Para que entre.
+
+194
+00:07:37,191 --> 00:07:38,071
+PART.1: Igual este es el timbre.
+
+195
+00:07:39,911 --> 00:07:40,471
+PART.2: "Hello".
+
+196
+00:07:42,231 --> 00:07:42,791
+PART.1: Dice...
+
+197
+00:07:42,871 --> 00:07:43,951
+PART.2: Falta un esto y ya está.
+
+198
+00:07:44,351 --> 00:07:45,951
+PART.1: Dice: "Déjalo aquí y así ya
+sabemos".
+

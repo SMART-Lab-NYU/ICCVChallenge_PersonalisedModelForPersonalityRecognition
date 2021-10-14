@@ -1,0 +1,85 @@
+1
+00:00:00,000 --> 00:00:00,496
+SUPERVISOR: Por turnos les vais dando la
+vuelta...
+
+2
+00:00:00,576 --> 00:00:02,496
+PART.2: Si ella es rápida,
+me va a ganar siempre.
+
+3
+00:00:02,576 --> 00:00:05,936
+SUPERVISOR: Se queda con la carta, y el que
+tenga más cartas, al final, gana.
+
+4
+00:00:07,096 --> 00:00:09,096
+PART.2: Bueno, empieza tú.
+
+5
+00:00:09,176 --> 00:00:10,696
+PART.1: Vale, empiezo yo.
+
+6
+00:00:17,416 --> 00:00:18,856
+PART.1: Es la rata, ¿no?
+
+7
+00:00:19,696 --> 00:00:20,776
+PART.2: Sí. Rojo...
+
+8
+00:00:21,856 --> 00:00:23,056
+PART.2: Rojo, azul...
+
+9
+00:00:23,136 --> 00:00:24,576
+PART.1: Ni azul ni botella ni fantasma
+ni rojo.
+
+10
+00:00:25,136 --> 00:00:26,016
+PART.1: Rata.
+
+11
+00:00:30,096 --> 00:00:30,816
+PART.2: Ah, sí.
+
+12
+00:00:31,656 --> 00:00:33,176
+PART.2: Sí. Yo no soy rápida.
+
+13
+00:00:34,096 --> 00:00:35,696
+PART.1: Ahora me toca a mí.
+
+14
+00:00:38,376 --> 00:00:39,376
+PART.2: Pues...
+
+15
+00:00:39,896 --> 00:00:40,456
+PART.1: Sí.
+
+16
+00:00:41,656 --> 00:00:42,576
+PART.1: Fantasma.
+
+17
+00:00:45,696 --> 00:00:46,696
+PART.1: Te toca.
+
+18
+00:00:51,936 --> 00:00:52,576
+PART.2: Sí.
+
+19
+00:00:52,656 --> 00:00:54,656
+PART.1: No, no. Libro.
+
+20
+00:00:55,856 --> 00:00:58,096
+PART.2: Ah, claro.
+Porque es el único que está.
+

@@ -1,0 +1,53 @@
+81
+00:06:05,268 --> 00:06:07,548
+PART.1: ¿Es un animal que cabría en una
+casa?
+
+82
+00:06:07,628 --> 00:06:09,468
+PART.2: ¿Cabría en una casa?
+
+83
+00:06:09,548 --> 00:06:14,468
+PART.1: Por ejemplo, yo tengo un tigre de
+mascota, un ejemplo.
+
+84
+00:06:14,548 --> 00:06:16,508
+PART.2: No, no, no. Este no.
+
+85
+00:06:16,588 --> 00:06:18,548
+PART.1: Vale. O sea en una pecera no
+estaría.
+
+86
+00:06:18,628 --> 00:06:21,868
+PART.2: No. Difícilmente.
+
+87
+00:06:21,948 --> 00:06:22,988
+PART.1: La ballena azul.
+
+88
+00:06:24,748 --> 00:06:31,668
+PART.2: Eh, a ver yo.
+¿Es un animal que trepa árboles?
+
+89
+00:06:33,068 --> 00:06:34,068
+PART.1: No.
+
+90
+00:06:34,148 --> 00:06:38,628
+PART.2: ¿No? No tengo ni idea.
+Me faltan dos.
+
+91
+00:06:56,108 --> 00:06:57,268
+PART.1: ¿Es una ballena?
+
+92
+00:06:57,348 --> 00:07:01,668
+PART.2: No. La ballena no es depredadora.
+

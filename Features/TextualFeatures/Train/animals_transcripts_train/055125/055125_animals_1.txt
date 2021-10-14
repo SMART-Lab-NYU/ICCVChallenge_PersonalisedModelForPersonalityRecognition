@@ -1,0 +1,64 @@
+26
+00:01:04,819 --> 00:01:06,019
+PART.1: I gran.
+
+27
+00:01:06,099 --> 00:01:09,379
+PART.2: …i "gran". Val, me'n queden cinc més.
+
+28
+00:01:10,779 --> 00:01:12,699
+PART.2: Bé, sé que és un ocell. A veure…
+
+29
+00:01:12,779 --> 00:01:15,619
+PART.1: Hi haurà una pregunta que serà clau.
+
+30
+00:01:15,699 --> 00:01:18,299
+PART.2: Ja, però aquí m'estàs ajudant i…
+
+31
+00:01:18,379 --> 00:01:20,539
+PART.1: Ah… Però no he dit quina!
+
+32
+00:01:20,619 --> 00:01:22,139
+PART.2: Ja, és veritat.
+
+33
+00:01:27,819 --> 00:01:28,459
+PART.2: És exòtic?
+
+34
+00:01:28,539 --> 00:01:30,259
+PART.1: Hòstia, no. No.
+
+35
+00:01:30,339 --> 00:01:32,379
+PART.2: A Catalunya n'hi ha?
+
+36
+00:01:32,459 --> 00:01:33,339
+PART.1: Sí.
+
+37
+00:01:33,419 --> 00:01:35,619
+PART.2: Així són dos. Set. Val.
+
+38
+00:01:40,859 --> 00:01:41,819
+PART.2: És un ocell de mar?
+
+39
+00:01:41,899 --> 00:01:42,579
+PART.1: No.
+
+40
+00:01:47,499 --> 00:01:50,099
+PART.2: A Catalunya n'hi ha. No és una àguila.
+
+41
+00:01:53,499 --> 00:01:55,099
+PART.2: I has dit que podia ser gran, no?
+

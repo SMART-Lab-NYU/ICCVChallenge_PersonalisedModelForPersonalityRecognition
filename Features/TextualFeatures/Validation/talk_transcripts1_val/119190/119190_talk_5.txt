@@ -1,0 +1,26 @@
+133
+00:05:03,904 --> 00:05:07,424
+PART.1: Pero en Madrid ves colas
+kilom�tricas en la calle.
+
+134
+00:05:07,504 --> 00:05:08,104
+PART.2: Qu� lindo eso.
+
+135
+00:05:08,184 --> 00:05:09,024
+PART.1: S�, es muy guay.
+
+136
+00:05:09,104 --> 00:05:09,624
+PART.2: Qu� lindo eso.
+
+137
+00:05:09,704 --> 00:05:11,184
+PART.2: Mira, mi madre...
+
+138
+00:05:11,264 --> 00:05:15,584
+PART.2: Vinieron mi t�a de Argentina con
+un nene, con sus sobrinos y...
+

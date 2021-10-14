@@ -1,0 +1,40 @@
+115
+00:05:00,337 --> 00:05:01,840
+PART.2: Ai, hem de publicar les truites.
+
+116
+00:05:02,480 --> 00:05:03,256
+PART.1: Ja ho vas fer, no?
+
+117
+00:05:03,439 --> 00:05:04,704
+PART.2: No, perquè era de nit.
+
+118
+00:05:05,408 --> 00:05:07,056
+PART.2: Ho hem de fer ara, que així la gent ho veu, no?
+
+119
+00:05:07,424 --> 00:05:08,847
+PART.1: A vale, però com que els vas etiquetar...
+
+120
+00:05:09,008 --> 00:05:10,639
+PART.2: No els vaig etiquetar, vaig posar la localització.
+
+121
+00:05:11,559 --> 00:05:12,823
+PART.1: Ah, vale.
+
+122
+00:05:13,775 --> 00:05:14,344
+PART.1: Doncs sí, posa-ho.
+
+123
+00:05:14,519 --> 00:05:15,329
+PART.2: Ho hem de publicar.
+
+124
+00:05:17,136 --> 00:05:17,625
+PART.2: Doncs això.
+

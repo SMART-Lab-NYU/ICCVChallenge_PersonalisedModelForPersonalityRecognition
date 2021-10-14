@@ -1,0 +1,63 @@
+25
+00:02:02,439 --> 00:02:07,279
+PART.1: Vale. Un, dos, tres, cuatro. Y
+luego dos.
+
+26
+00:02:08,079 --> 00:02:11,439
+PART.2: Si son todos iguales, pues serán
+seis con el blanco.
+
+27
+00:02:11,519 --> 00:02:13,759
+PART.1: Y el blanco está aquí.
+
+28
+00:02:14,439 --> 00:02:15,559
+PART.2: Y la punta...
+
+29
+00:02:15,639 --> 00:02:19,879
+PART.1: La punta sí es más difícil de
+encontrar. ¿Será esta? No.
+
+30
+00:02:21,679 --> 00:02:23,039
+PART.2: Parece algo cónico.
+
+31
+00:02:23,759 --> 00:02:24,719
+PART.1: Aquí está.
+
+32
+00:02:28,839 --> 00:02:35,839
+PART.2: Y... esto rojito. Círculo rojito.
+
+33
+00:02:36,279 --> 00:02:37,399
+PART.1: Este.
+
+34
+00:02:37,479 --> 00:02:38,479
+PART.2: Genial
+
+35
+00:02:40,399 --> 00:02:44,399
+PART.2: Y ahora... esta de aquí.
+
+36
+00:02:51,999 --> 00:02:53,119
+PART.1: Aquella.
+
+37
+00:02:54,319 --> 00:02:55,239
+SUPERVISOR: Y ya está, ¿no?
+
+38
+00:02:55,319 --> 00:02:57,399
+PART.1: Y ya está. Ya está.
+
+39
+00:02:57,479 --> 00:02:58,799
+PART.2: Qué maravilla.
+

@@ -1,0 +1,60 @@
+36
+00:02:06,656 --> 00:02:10,776
+PART.1: Me has dicho que no es depredador
+y... ¿Cuál es la última que te he
+preguntado?
+
+37
+00:02:10,856 --> 00:02:11,776
+PART.2: No, esta.
+
+38
+00:02:11,856 --> 00:02:13,136
+PART.1: La del depredador, vale.
+
+39
+00:02:13,696 --> 00:02:15,896
+PART.1: No, lo de doméstico, y me has
+dicho que no.
+
+40
+00:02:14,976 --> 00:02:15,936
+PART.2: Ah, es verdad, perdona.
+
+41
+00:02:19,216 --> 00:02:22,656
+PART.1: Vale. No es doméstico, pelo,
+mamífero...
+
+42
+00:02:24,456 --> 00:02:25,456
+PART.1: ¿Es...?
+
+43
+00:02:31,256 --> 00:02:32,296
+PART.1: Vale, entonces...
+
+44
+00:02:36,376 --> 00:02:37,096
+PART.1: Joder.
+
+45
+00:02:38,336 --> 00:02:39,016
+PART.1: No sé, no sé.
+
+46
+00:02:39,096 --> 00:02:41,296
+PART.1: Vale, ¿es, es pequeño?
+
+47
+00:02:42,896 --> 00:02:43,656
+PART.2: No.
+
+48
+00:02:47,176 --> 00:02:48,336
+PART.2: ¿Cuántas preguntas llevamos?
+
+49
+00:02:48,416 --> 00:02:50,216
+PART.1: Yo llevo cinco, así que la...
+

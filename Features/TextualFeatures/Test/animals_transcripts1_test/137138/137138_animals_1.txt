@@ -1,0 +1,58 @@
+27
+00:01:03,711 --> 00:01:04,951
+PART.1: ¿Vive en el bosque?
+
+28
+00:01:11,191 --> 00:01:13,031
+PART.2: Me has pillado, muy fuerte.
+
+29
+00:01:13,111 --> 00:01:14,111
+PART.2: Eh...
+
+30
+00:01:14,751 --> 00:01:15,951
+PART.1: Si no cambio de pregunta, eh.
+
+31
+00:01:16,031 --> 00:01:17,791
+PART.2: Cambia,cambia, cambia.
+
+32
+00:01:24,991 --> 00:01:28,431
+PART.1: ¿Es más grande o más pequeño que
+un perro?
+
+33
+00:01:29,031 --> 00:01:30,431
+PART.2: Es de sí o no.
+
+34
+00:01:32,591 --> 00:01:33,711
+PART.1: Vale, ¿es más grande que un perro?
+
+35
+00:01:33,791 --> 00:01:34,551
+PART.2: No.
+
+36
+00:01:34,631 --> 00:01:35,271
+PART.1: No.
+
+37
+00:01:35,351 --> 00:01:36,871
+PART.1: O sea, es más pequeño.
+
+38
+00:01:49,191 --> 00:01:50,311
+PART.1: Ni puñetera idea.
+
+39
+00:01:53,831 --> 00:01:56,111
+PART.2: Ahora después te explico.
+
+40
+00:01:56,951 --> 00:01:58,671
+PART.2: Es muy irónico lo que acaba de
+pasar.
+

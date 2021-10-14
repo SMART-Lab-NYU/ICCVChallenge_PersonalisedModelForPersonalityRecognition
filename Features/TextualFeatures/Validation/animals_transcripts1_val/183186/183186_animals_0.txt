@@ -1,0 +1,121 @@
+﻿1
+00:00:00,000 --> 00:00:00,025
+SUPERVISOR: Y, cuando acabéis,
+os lo quitáis de la cabeza.
+
+2
+00:00:00,105 --> 00:00:01,705
+PART.1: Es que tú lo tienes
+relativamente fácil.
+
+3
+00:00:01,785 --> 00:00:03,465
+PART.2: Bueno. ¿Sí?
+
+4
+00:00:03,545 --> 00:00:05,065
+PART.1: Sí. Dale.
+
+5
+00:00:05,145 --> 00:00:06,745
+PART.2: Lo hacemos turnándonos.
+
+6
+00:00:06,825 --> 00:00:08,065
+PART.1: Son diez preguntas.
+
+7
+00:00:08,145 --> 00:00:10,065
+PART.2: Sí, bueno, sí.
+No tiene nada que ver, ¿no?
+
+8
+00:00:10,145 --> 00:00:11,025
+PART.1: Sí, sí, sí.
+
+9
+00:00:11,105 --> 00:00:12,225
+PART.2: Vale, empieza.
+Pregúntame.
+
+10
+00:00:12,305 --> 00:00:14,105
+PART.1: Empiezo yo.
+¿Soy un mamífero?
+
+11
+00:00:14,185 --> 00:00:15,185
+PART.2: Sí.
+
+12
+00:00:15,265 --> 00:00:16,505
+PART.1: Increíble.
+
+13
+00:00:16,585 --> 00:00:18,225
+PART.2: ¿Soy un mamífero?
+
+14
+00:00:18,305 --> 00:00:20,305
+PART.1: Pues... No.
+
+15
+00:00:21,385 --> 00:00:23,065
+PART.2: "Te lo has pensado".
+Bueno...
+
+16
+00:00:23,145 --> 00:00:24,825
+PART.1: Es que no eres
+un mamífero. No lo eres.
+
+17
+00:00:25,345 --> 00:00:26,345
+PART.2: Dime.
+
+18
+00:00:26,425 --> 00:00:27,545
+PART.1: Pero hay que pensar
+un poco.
+
+19
+00:00:27,625 --> 00:00:28,625
+PART.2: Dale.
+
+20
+00:00:29,345 --> 00:00:33,705
+PART.1: Yo... soy un mamífero...
+Sí, entonces... voy a preguntar ahora...
+
+21
+00:00:33,785 --> 00:00:36,025
+PART.1: si... Eh...
+
+22
+00:00:37,625 --> 00:00:38,985
+PART.1: ¿Tengo cuatro patas?
+
+23
+00:00:42,465 --> 00:00:44,745
+PART.2: Eh... Sí.
+
+24
+00:00:44,825 --> 00:00:47,025
+PART.1: Cuatro pies.
+Camino con cuatro patas...
+
+25
+00:00:47,105 --> 00:00:49,745
+PART.2: ¿Si caminas?
+¿Cómo camina? Con cuatro, sí.
+
+26
+00:00:49,825 --> 00:00:53,145
+PART.1: O sea, o tengo cuatro
+patas o no tengo cuatro patas.
+
+27
+00:00:55,705 --> 00:00:58,705
+PART.2: No, no son patas.
+Bueno, estoy hablando mucho.
+

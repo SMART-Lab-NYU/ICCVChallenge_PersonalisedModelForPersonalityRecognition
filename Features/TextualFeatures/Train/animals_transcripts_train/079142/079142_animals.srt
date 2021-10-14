@@ -1,0 +1,632 @@
+﻿1
+00:00:01,302 --> 00:00:03,062
+PART.2: Esperamos
+a que cierre la puerta.
+
+2
+00:00:06,622 --> 00:00:08,022
+PART.2: Vale, ¿quién empieza?
+
+3
+00:00:08,102 --> 00:00:08,662
+PART.1: Empiezo yo.
+
+4
+00:00:08,742 --> 00:00:09,142
+PART.2: Vale.
+
+5
+00:00:09,742 --> 00:00:11,622
+PART.2: ¿Hacemos diez
+preguntas cada uno, o...?
+
+6
+00:00:11,702 --> 00:00:12,902
+PART.1: No, vamos...
+
+7
+00:00:13,382 --> 00:00:13,942
+PART.2: ¿Uno a uno?
+
+8
+00:00:14,022 --> 00:00:14,222
+PART.1: Sí.
+
+9
+00:00:14,302 --> 00:00:14,542
+PART.2: Vale.
+
+10
+00:00:15,382 --> 00:00:17,302
+PART.1: Eh...¿Es mamífero?
+
+11
+00:00:17,782 --> 00:00:18,782
+PART.2: No.
+
+12
+00:00:21,662 --> 00:00:22,662
+PART.2: ¿Soy mamífero?
+
+13
+00:00:22,982 --> 00:00:23,982
+PART.1: Sí.
+
+14
+00:00:24,062 --> 00:00:25,222
+PART.2: Esto va a ser...
+
+15
+00:00:25,302 --> 00:00:27,982
+PART.2: Te voy a copiar las...
+las preguntas.
+
+16
+00:00:28,062 --> 00:00:29,622
+PART.1: Eh... ¿Soy un ave?
+
+17
+00:00:29,702 --> 00:00:30,702
+PART.2: Sí.
+
+18
+00:00:32,382 --> 00:00:34,382
+PART.2: Te puedo preguntar
+lo mismo, pero...
+
+19
+00:00:34,742 --> 00:00:37,862
+PART.2: Eh... ¿Vivo en el agua?
+
+20
+00:00:38,062 --> 00:00:39,062
+PART.1: No.
+
+21
+00:00:39,142 --> 00:00:40,142
+PART.2: Vale.
+
+22
+00:00:40,222 --> 00:00:42,702
+PART.1: Eh... ¿Soy carnívoro?
+
+23
+00:00:44,902 --> 00:00:45,902
+PART.2: Yo creo que no.
+
+24
+00:00:47,102 --> 00:00:48,462
+PART.2: Creo que no.
+
+25
+00:00:49,702 --> 00:00:51,662
+PART.2: Vamos, dudo mucho
+que pueda ser carnívoro.
+
+26
+00:00:51,742 --> 00:00:52,462
+PART.1: "Ok".
+
+27
+00:00:53,542 --> 00:00:56,702
+PART.2: Vale, soy mamífero,
+no vivo en el mar, entonces...
+
+28
+00:00:56,782 --> 00:00:58,262
+PART.2: Eh...
+
+29
+00:00:59,582 --> 00:01:02,262
+PART.2: ¿Soy mamífero? No, esto
+ya te lo he preguntado. ¡Dios!
+
+30
+00:01:02,342 --> 00:01:05,382
+PART.2: Soy mamífero,
+no vivo en el mar,
+¿vivo en el bosque?
+
+31
+00:01:08,262 --> 00:01:09,262
+PART.1: No.
+
+32
+00:01:09,982 --> 00:01:10,982
+PART.2: Vale.
+
+33
+00:01:14,902 --> 00:01:17,982
+PART.1: Eh...
+Sí, sí que vives.
+
+34
+00:01:18,062 --> 00:01:19,782
+PART.2: Vivo en el bosque.
+
+35
+00:01:18,582 --> 00:01:22,022
+PART.1: Sí, voy a ponerlo que sí.
+Sí que vive. Sí.
+
+36
+00:01:20,582 --> 00:01:22,022
+PART.2: Vale, vale, vale,
+vivo en el bosque.
+
+37
+00:01:22,742 --> 00:01:23,942
+PART.1: Eh...
+
+38
+00:01:24,542 --> 00:01:25,702
+PART.1: Eh...
+
+39
+00:01:26,102 --> 00:01:27,382
+PART.1: ¿Soy de un color?
+
+40
+00:01:28,462 --> 00:01:29,422
+PART.1: ¿Monocolor?
+
+41
+00:01:29,502 --> 00:01:30,102
+PART.2: No.
+
+42
+00:01:30,182 --> 00:01:30,702
+PART.1: ¿En general?
+
+43
+00:01:30,782 --> 00:01:31,102
+PART.2: No.
+
+44
+00:01:31,182 --> 00:01:31,542
+PART.1: "Ok".
+
+45
+00:01:32,582 --> 00:01:34,582
+PART.2: Eh...
+
+46
+00:01:35,142 --> 00:01:36,062
+PART.2: ¿Puedo volar?
+
+47
+00:01:36,142 --> 00:01:37,142
+PART.1: No.
+
+48
+00:01:37,462 --> 00:01:38,462
+PART.2: No.
+
+49
+00:01:39,542 --> 00:01:41,022
+PART.1: ¿Me alimento de gusanos?
+
+50
+00:01:41,102 --> 00:01:42,222
+PART.1: ¿O insectos?
+
+51
+00:01:42,302 --> 00:01:44,942
+PART.1: Insectos o animales
+pequeñitos.
+
+52
+00:01:45,022 --> 00:01:46,422
+PART.2: Podría ser.
+
+53
+00:01:47,262 --> 00:01:49,302
+PART.2: No estoy segura,
+pero podría ser, porqué no.
+
+54
+00:01:51,062 --> 00:01:52,302
+PART.2: Eh...
+
+55
+00:01:56,102 --> 00:01:57,182
+PART.2: ¿Soy grande?
+
+56
+00:01:58,422 --> 00:01:59,542
+PART.1: No.
+
+57
+00:01:59,622 --> 00:02:00,622
+PART.2: No, vale.
+
+58
+00:02:02,742 --> 00:02:04,022
+PART.1: Eh...
+
+59
+00:02:06,902 --> 00:02:07,982
+PART.1: ¿Soy peligroso?
+
+60
+00:02:11,622 --> 00:02:12,742
+PART.2: Depende, pero no.
+
+61
+00:02:14,582 --> 00:02:18,702
+PART.2: O sea, puedo pensar
+situaciones en las que, quizá, puede
+ser un poco peligroso,
+
+62
+00:02:18,782 --> 00:02:20,542
+PART.2: pero no, no, no, no, no.
+De normal no.
+
+63
+00:02:21,902 --> 00:02:24,622
+PART.2: Eh.. Me has
+dicho que soy pequeño.
+
+64
+00:02:24,942 --> 00:02:25,422
+PART.2: No.
+
+65
+00:02:25,502 --> 00:02:27,462
+PART.1: No eres...
+No eres grande.
+
+66
+00:02:27,542 --> 00:02:29,542
+PART.1: Que no soy grande,
+perdón. Vale.
+
+67
+00:02:32,622 --> 00:02:34,582
+PART.2: Eh... ¿Tengo manchas?
+
+68
+00:02:38,822 --> 00:02:39,822
+PART.1: Sí.
+
+69
+00:02:41,822 --> 00:02:42,822
+PART.2: Vale.
+
+70
+00:02:45,102 --> 00:02:46,062
+PART.1: Eh...
+
+71
+00:02:46,702 --> 00:02:49,502
+PART.1: ¿Tengo pico largo?
+
+72
+00:02:52,262 --> 00:02:53,862
+PART.1: No tienes pico largo.
+
+73
+00:02:54,102 --> 00:02:55,222
+PART.2: Vale.
+
+74
+00:02:56,542 --> 00:02:57,782
+PART.1: No tienes pico largo.
+
+75
+00:02:59,062 --> 00:03:00,062
+PART.1: Vale.
+
+76
+00:03:00,582 --> 00:03:01,862
+PART.1: Eh...
+
+77
+00:03:02,222 --> 00:03:04,062
+PART.1: ¿Me has dicho
+que tengo manchas?
+
+78
+00:03:04,142 --> 00:03:04,822
+PART.1: Sí.
+
+79
+00:03:04,902 --> 00:03:06,302
+PART.2: Sí, tengo manchas.
+
+80
+00:03:06,382 --> 00:03:08,342
+PART.2: Soy mediano,
+o sea, no soy grande.
+
+81
+00:03:08,662 --> 00:03:10,462
+PART.2: Pero claro,
+grande referente a qué.
+
+82
+00:03:11,502 --> 00:03:12,982
+PART.2: Eh...
+
+83
+00:03:17,502 --> 00:03:18,942
+PART.2: Soy mamífero...
+
+84
+00:03:22,982 --> 00:03:24,102
+PART.2: ¿Soy carnívoro?
+
+85
+00:03:24,462 --> 00:03:25,542
+PART.1: Sí.
+
+86
+00:03:27,142 --> 00:03:28,142
+PART.2: Vale.
+
+87
+00:03:29,982 --> 00:03:31,182
+PART.1: Eh...
+
+88
+00:03:31,982 --> 00:03:35,222
+PART.1: ¿Se puede...?
+¿Me pueden ver por Europa?
+
+89
+00:03:36,262 --> 00:03:37,222
+PART.2: Sí.
+
+90
+00:03:38,102 --> 00:03:40,222
+PART.2: Sí.
+Yo diría que sí.
+
+91
+00:03:41,022 --> 00:03:44,382
+PART.2: Eh... Te voy
+a preguntar si soy un guepardo
+
+92
+00:03:45,382 --> 00:03:46,422
+PART.1: ¿Guepardo?
+
+93
+00:03:47,302 --> 00:03:49,462
+PART.2: Leo... ¿Leopardo?
+¿Guepardo?
+
+94
+00:03:49,542 --> 00:03:51,022
+PART.2: ¿Es lo mismo?
+
+95
+00:03:51,662 --> 00:03:52,742
+PART.1: No lo sé.
+
+96
+00:03:55,382 --> 00:03:56,062
+PART.2: O sea...
+
+97
+00:03:57,622 --> 00:04:00,422
+PART.2: Leopardo... Es un
+guepardo, ¿no? ¿Se dice así?
+
+98
+00:04:01,222 --> 00:04:02,582
+PART.1: Eres un leopardo.
+
+99
+00:04:02,662 --> 00:04:03,132
+PART.2: Es un leopardo.
+
+100
+00:04:03,232 --> 00:04:03,702
+PART.1: Sí.
+
+101
+00:04:04,062 --> 00:04:05,542
+PART.2: ¿No hay uno
+que es guepardo?
+
+102
+00:04:05,622 --> 00:04:06,622
+PART.1: Sí.
+
+103
+00:04:06,702 --> 00:04:07,502
+PART.2: Pero ¿no es lo mismo?
+
+104
+00:04:07,582 --> 00:04:08,302
+PART.1: No lo sé.
+
+105
+00:04:09,982 --> 00:04:13,422
+PART.2: Vale. Sí, estaba pensando
+en esto. Estaba pensando en esto.
+
+106
+00:04:14,182 --> 00:04:15,262
+PART.2: Luego lo miro.
+
+107
+00:04:15,342 --> 00:04:20,222
+PART.2: Creo que te quedan dos
+o una y podrías decir quién es.
+
+108
+00:04:20,302 --> 00:04:21,462
+PART.1: Eh...
+
+109
+00:04:21,982 --> 00:04:23,222
+PART.1: ¿Soy pequeño?
+
+110
+00:04:23,302 --> 00:04:24,302
+PART.2: Sí.
+
+111
+00:04:25,702 --> 00:04:27,022
+PART.1: ¿Soy un... ?
+
+112
+00:04:29,862 --> 00:04:31,742
+PART.1: Ay, no me sale en inglés.
+
+113
+00:04:31,822 --> 00:04:32,822
+PART.1: "Pigeon".
+
+114
+00:04:34,022 --> 00:04:35,502
+PART.2: No, no eres un "pigeon".
+
+115
+00:04:36,822 --> 00:04:37,822
+PART.2: ¡Ay!
+
+116
+00:04:39,662 --> 00:04:42,302
+PART.1: ¡Hostia! Este es el que
+antes estaba en... Antes...
+
+117
+00:04:42,382 --> 00:04:43,702
+PART.1: Estaba
+preguntando por este.
+
+118
+00:04:43,942 --> 00:04:44,422
+PART.2: ¿Ah, sí?
+
+119
+00:04:44,502 --> 00:04:46,142
+PART.1: Sí, porque he dicho:
+"¿Soy nocturno?".
+
+120
+00:04:46,702 --> 00:04:47,862
+PART.2: ¿A quién?
+
+121
+00:04:47,342 --> 00:04:48,382
+PART.1: A Marc.
+
+122
+00:04:49,382 --> 00:04:50,822
+PART.2: Claro, este...
+
+123
+00:04:50,902 --> 00:04:52,502
+PART.1: ¡Ah, hostia, puta!
+
+124
+00:04:53,062 --> 00:04:55,582
+PART.2: ¿Leopardo? ¿Guepardo?
+
+125
+00:04:56,422 --> 00:04:57,462
+PART.2: Pues...
+
+126
+00:04:57,542 --> 00:05:00,582
+PART.1: ¿Puede ser
+de un color solamente el guepardo?
+
+127
+00:05:01,342 --> 00:05:02,702
+PART.1: A lo mejor guepardo...
+
+128
+00:05:03,542 --> 00:05:05,182
+PART.1: Guepardo...
+
+129
+00:05:05,382 --> 00:05:07,662
+PART.1: "Leopard..."
+"Lleopard" en catalán?
+
+130
+00:05:09,462 --> 00:05:11,182
+PART.2: No sé por qué tengo
+la mente en el leopardo.
+
+131
+00:05:11,502 --> 00:05:13,142
+PART.1: Guepardo
+me suena a mí también.
+
+132
+00:05:13,222 --> 00:05:14,222
+PART.2: ¿Sí?
+
+133
+00:05:14,302 --> 00:05:15,822
+PART.2: ¡Dios, qué mal!
+
+134
+00:05:19,182 --> 00:05:21,982
+PART.2: Lo voy a
+buscar, lo voy a buscar porque no...
+porque no...
+
+135
+00:05:22,062 --> 00:05:22,702
+PART.2: Ahora no lo sé.
+
+136
+00:05:22,782 --> 00:05:24,062
+PART.1: Maestro, ya estamos.
+
+137
+00:05:26,782 --> 00:05:27,942
+PART.2: Pregunta.
+
+138
+00:05:30,262 --> 00:05:31,462
+PART.2: ¿Cómo van
+las pulsaciones?
+
+139
+00:05:31,542 --> 00:05:32,542
+PART.1: 60.
+
+140
+00:05:33,022 --> 00:05:34,022
+PART.2: 92.
+
+141
+00:05:34,582 --> 00:05:35,742
+PART.1: Esto
+yo creo que va raro.
+
+142
+00:05:37,742 --> 00:05:39,022
+PART.2: No, en principio,
+funciona bien.
+
+143
+00:05:39,102 --> 00:05:41,542
+PART.2: Antes con ese, o sea...
+Yo me he sentado ahí, con ese
+
+144
+00:05:41,622 --> 00:05:44,742
+PART.2: y no sé qué... qué me
+ponía porque no lo he mirado.
+
+145
+00:05:49,342 --> 00:05:51,902
+PART.1: ¿Y eso luego te van
+por internet los datos, o...?
+
+146
+00:05:52,822 --> 00:05:57,102
+PART.2: Sí, pero como son
+anónimos, puede ir por Internet
+perfectamente
+

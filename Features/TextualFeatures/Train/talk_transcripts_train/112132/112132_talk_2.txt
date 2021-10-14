@@ -1,0 +1,104 @@
+43
+00:02:00,543 --> 00:02:01,186
+PART.2: Series.
+
+44
+00:02:01,210 --> 00:02:02,904
+PART.1: ¿Qué películas? ¿De qué?
+
+45
+00:02:02,343 --> 00:02:07,023
+PART.2: ¿Qué películas? Ah, de todo tipo, las veo todas.
+
+46
+00:02:07,223 --> 00:02:08,497
+PART.2: No tengo ningún género.
+
+47
+00:02:08,521 --> 00:02:10,223
+PART.1: Ningún género.
+
+48
+00:02:10,247 --> 00:02:11,949
+PART.2: Ningún género.
+
+49
+00:02:10,423 --> 00:02:12,903
+PART.2: Sé que hay cosas que no me gustan.
+
+50
+00:02:13,103 --> 00:02:14,651
+PART.2: Pero en cuanto a qué me gusta, qué no me gusta.
+
+51
+00:02:14,675 --> 00:02:16,223
+PART.1: ¿Qué no te gusta entonces?
+
+52
+00:02:16,423 --> 00:02:20,743
+PART.2: Pues películas más macabras, más de terror.
+
+53
+00:02:18,784 --> 00:02:20,624
+PART.1: Ah, de terror, sí. sí
+
+54
+00:02:20,943 --> 00:02:21,943
+PART.2: Eso sí que no.
+
+55
+00:02:22,143 --> 00:02:24,303
+PART.2: No le veo la gracia viendo esa película.
+
+56
+00:02:24,503 --> 00:02:25,497
+PART.1: Claro.
+
+57
+00:02:25,521 --> 00:02:27,463
+PART.2: Que no me siento bien.
+
+58
+00:02:27,463 --> 00:02:27,663
+PART.1: ¿Te pone tenso?
+
+59
+00:02:27,663 --> 00:02:28,663
+PART.2: Sí, sí, sí.
+
+60
+00:02:28,863 --> 00:02:32,943
+PART.2: Quiero ver una película y no sé, pasarlo un rato sí.
+
+61
+00:02:31,344 --> 00:02:33,864
+PART.1: Sí, no la disfrutas, claro
+
+62
+00:02:33,143 --> 00:02:34,503
+PART.2: O disfrutar o pasar el rato.
+
+63
+00:02:34,703 --> 00:02:36,703
+PART.1: Claro, tal cual, sí, sí.
+
+64
+00:02:36,903 --> 00:02:47,543
+PART.1: Bueno, a ver, las pelis de terror sí me gustan, pero porque creo que me gusta ponerme tensa a veces y tener miedo y eso, pero no sé si las prefiero.
+
+65
+00:02:47,743 --> 00:02:49,543
+PART.1: Prefiero otras pelis.
+
+66
+00:02:51,023 --> 00:02:52,863
+PART.2: ¿Y algún hobby más?
+
+67
+00:02:53,223 --> 00:02:58,543
+PART.1: Sí, bueno, lo que es relacionado al arte me interesa casi todo.
+
+68
+00:02:59,103 --> 00:03:01,383
+PART.1: Tocar la guitarra, cantar.
+

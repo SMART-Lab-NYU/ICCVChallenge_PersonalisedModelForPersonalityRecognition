@@ -1,0 +1,115 @@
+1
+00:00:05,459 --> 00:00:06,899
+PART.2: No sé. ¿Cómo te llamas?
+
+2
+00:00:06,979 --> 00:00:07,859
+PART.1: Carla.
+
+3
+00:00:07,939 --> 00:00:09,139
+PART.2: Yo me llamo Jenny.
+
+4
+00:00:10,179 --> 00:00:11,219
+PART.1: ¿De dónde eres?
+
+5
+00:00:11,299 --> 00:00:12,339
+PART.2: De Venezuela.
+
+6
+00:00:12,859 --> 00:00:13,659
+PART.2: ¿Tú eres de aquí?
+
+7
+00:00:13,739 --> 00:00:14,739
+PART.1: Sí.
+
+8
+00:00:15,019 --> 00:00:16,499
+PART.2: ¿Y estudias en la universidad?
+
+9
+00:00:16,579 --> 00:00:18,059
+PART.1: Sí. En esta universidad.
+
+10
+00:00:18,179 --> 00:00:20,059
+PART.2: Y qué estás estudiando,
+¿matemáticas?
+
+11
+00:00:20,139 --> 00:00:22,019
+PART.1: Sí. Ingeniería Informática.
+
+12
+00:00:22,819 --> 00:00:24,099
+PART.2: Me encanta.
+
+13
+00:00:24,459 --> 00:00:27,699
+PART.2: Yo soy profesora de matemáticas y
+de física.
+
+14
+00:00:27,779 --> 00:00:28,379
+PART.1: Ah, ¿sí?
+
+15
+00:00:28,459 --> 00:00:28,739
+PART.2: Sí.
+
+16
+00:00:28,819 --> 00:00:29,659
+PART.1: ¿Dónde?
+
+17
+00:00:29,739 --> 00:00:31,059
+PART.2: Allá en Venezuela.
+
+18
+00:00:31,139 --> 00:00:35,459
+PART.2: Cuando estaba
+en Venezuela, estaba jubilada ya.
+
+19
+00:00:37,179 --> 00:00:39,419
+PART.1: ¿Y de qué asignaturas?
+
+20
+00:00:40,219 --> 00:00:42,219
+PART.2: Pues matemáticas y física.
+
+21
+00:00:43,819 --> 00:00:45,859
+PART.2: Así, solamente.
+
+22
+00:00:46,139 --> 00:00:47,179
+PART.1: Ah, vale.
+
+23
+00:00:48,739 --> 00:00:52,019
+PART.2: ¿Y por qué estás en este...
+en este...?
+
+24
+00:00:52,299 --> 00:00:53,419
+PART.1: ¿En esta universidad?
+
+25
+00:00:53,499 --> 00:00:56,259
+PART.2: No. En esta prueba.
+
+26
+00:00:57,259 --> 00:00:58,739
+PART.1: ¿En el experimento?
+
+27
+00:00:58,819 --> 00:01:11,619
+PART.1: Ah, porque me hablaron
+del experimento por si podía
+participar, he participado y ahora
+he vuelto a participar.
+

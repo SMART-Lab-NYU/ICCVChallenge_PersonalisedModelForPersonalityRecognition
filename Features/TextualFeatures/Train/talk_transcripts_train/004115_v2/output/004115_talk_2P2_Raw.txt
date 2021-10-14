@@ -1,0 +1,12 @@
+Estoy definiendo un grafo funcional de la red basado en lacorrelación prácticamente.
+Estoy pasando muchos ejemplos. 
+Se activa la red, ¿no? 
+Y cada uno me está definiendo un grafo sobre esto,con la métrica esta, la corrección.
+Y después estoy definiendo los espacios topológicos y estoycalculando las persistencias de lascavidades.
+Sí. 
+Lo interesante de esto, acabo de volver de Estados Unidos de unaconferencia del CVPR, no sé si loconoces, de edición.
+Y lo que encontramos es bastante interesante.
+Definiendo los espacios métricos y topológicos.
+Y contando las cavidades y no sé qué...
+Entrenando la red de dos formas. 
+Una forma normal está aprendiendo y la otra forma que me estoypermutando las etiquetas.

@@ -1,0 +1,59 @@
+﻿1
+00:00:00,000 --> 00:00:02,356
+PART.2: Vale. ¿Hacemos piedra, papel o
+tijera?
+
+2
+00:00:03,996 --> 00:00:05,156
+PART.1: No. Yo empiezo.
+
+3
+00:00:05,436 --> 00:00:06,196
+PART.2: ¿Segura?
+
+4
+00:00:06,276 --> 00:00:06,916
+PART.1: Sí.
+
+5
+00:00:08,996 --> 00:00:10,556
+PART.1: Si es a la vez, ¿no?
+
+6
+00:00:10,636 --> 00:00:12,356
+PART.2: Sí, pero, bueno, empieza tú.
+
+7
+00:00:18,596 --> 00:00:20,796
+PART.2: Vale, tuya. Sí, es tuya.
+
+8
+00:00:20,996 --> 00:00:22,756
+PART.1: Ah, vale, pero lo vuelvo a dejar,
+¿no?
+
+9
+00:00:24,796 --> 00:00:26,236
+PART.2: Vale, vamos a ver...
+
+10
+00:00:31,476 --> 00:00:32,636
+PART.2: El fantasma.
+
+11
+00:00:32,716 --> 00:00:33,716
+PART.1: Fallé.
+
+12
+00:00:34,196 --> 00:00:37,636
+PART.2: No pasa nada. Es un juego, no te
+preocupes.
+
+13
+00:00:40,196 --> 00:00:41,316
+PART.2: Te toca a ti.
+
+14
+00:00:47,076 --> 00:00:50,516
+PART.2: Muy bien. Te la quedas tú.
+

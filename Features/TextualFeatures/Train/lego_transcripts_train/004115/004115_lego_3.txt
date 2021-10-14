@@ -1,0 +1,54 @@
+34
+00:03:04,680 --> 00:03:08,160
+PART.2: ¿Dónde está? ¿Es este?
+
+35
+00:03:08,240 --> 00:03:10,560
+PART.1: Sí. A ver cómo saco esto.
+
+36
+00:03:13,200 --> 00:03:20,720
+PART.2: Lo que me interesa mucho... No.
+Este son de 12. Es la parte de...
+
+37
+00:03:20,800 --> 00:03:22,000
+PART.1: ¿Tú puedes sacar esto?
+
+38
+00:03:22,080 --> 00:03:29,800
+PART.2: De eficiencia... A ver. No tengo
+muchas uñas, pero creo que sí. Y
+además de esto, lo que...
+
+39
+00:03:29,880 --> 00:03:39,560
+PART.1: Es en lo que más se está
+trabajando hoy en día. Hay varias
+ramas que trabajan en homología
+persistente y una es la
+computación. Realmente poder
+hacerlo...
+
+40
+00:03:40,320 --> 00:03:50,960
+PART.1: O sea, porque ahora con el sistema
+tú tienes muchas CPU y puedes
+hacerlo todo muy rápido, pero ahora
+no te sirve de mucho tener 50 000
+CPU...
+
+41
+00:03:51,040 --> 00:03:57,640
+PART.2: ¿Hay implementaciones en GPU?
+¿Calcular en GPU? Es que lo tengo
+paralizado en CPU, pero en GPU no.
+
+42
+00:03:57,720 --> 00:04:08,520
+PART.1: Hace una semana o dos, recibí un
+mensaje de alguien que, en algún
+paquete, había metido la
+implementación de homología
+persistente.
+

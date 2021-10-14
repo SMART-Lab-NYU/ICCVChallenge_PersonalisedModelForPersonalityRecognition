@@ -1,0 +1,392 @@
+﻿1
+00:00:00,000 --> 00:00:00,936
+PART.2: Vinga, adeu.
+
+2
+00:00:00,021 --> 00:00:01,288
+SUPERVISOR: Que Dios reparta suerte.
+
+3
+00:00:02,352 --> 00:00:05,157
+PART.1: Ja està repartit, si tu has jugat quatre vegades...
+
+4
+00:00:05,259 --> 00:00:08,596
+PART.1: Em portes dos d’avantatge. Tres d’avantatge.
+
+5
+00:00:05,317 --> 00:00:08,196
+PART.2: Però jo estic empanat o algo, jo...
+
+6
+00:00:08,716 --> 00:00:10,317
+PART.2: Vols girar tu, o en girem una cadascú, de cartes?
+
+7
+00:00:10,367 --> 00:00:12,493
+PART.1: Abans nosaltres hem fet una cadascú, com vulguis.
+
+8
+00:00:12,529 --> 00:00:13,636
+PART.2: Doncs qui comença, tu o jo?
+
+9
+00:00:13,756 --> 00:00:14,837
+PART.1: Jo?
+
+10
+00:00:14,860 --> 00:00:15,908
+PART.2: Sí.
+
+11
+00:00:17,281 --> 00:00:18,660
+PART.2: Qué rápido, ¿no?
+
+12
+00:00:18,695 --> 00:00:21,402
+PART.1: Clar, libro. És del mateix color, no?
+
+13
+00:00:21,421 --> 00:00:22,512
+PART.2: Sí, sí.
+
+14
+00:00:23,887 --> 00:00:24,997
+PART.1: El tens més a la vora!!
+
+15
+00:00:25,212 --> 00:00:26,571
+PART.2: Bueno, però tu el llibre també.
+
+16
+00:00:26,781 --> 00:00:28,132
+PART.1: Clar, per això.
+
+17
+00:00:28,285 --> 00:00:30,037
+PART.1: És saber jugar. Això també és un factor.
+
+18
+00:00:33,077 --> 00:00:34,171
+PART.2: Molt bé.
+
+19
+00:00:40,739 --> 00:00:41,815
+PART.2: Sí.
+
+20
+00:00:41,849 --> 00:00:42,911
+PART.1: Va, va!! Al mig.
+
+21
+00:00:42,784 --> 00:00:44,428
+PART.2: No, agafa-ho tu, el tenies tu!
+
+22
+00:00:44,428 --> 00:00:45,924
+PART.1: Sí, però tu també haguessis arribat.
+
+23
+00:00:44,983 --> 00:00:48,279
+PART.2: No, no, jo no hi anava, jo movia el braç.
+
+24
+00:00:48,308 --> 00:00:49,777
+PART.1: Sí? Vale, va.
+
+25
+00:00:50,716 --> 00:00:52,156
+PART.2: Te toca a tu, no?
+
+26
+00:00:52,235 --> 00:00:53,775
+PART.1: No ho sé, m'he perdut.
+
+27
+00:00:56,521 --> 00:00:57,587
+PART.1: Ah, sí, sí, sí.
+
+28
+00:01:01,188 --> 00:01:02,276
+PART.2: Eh!!
+
+29
+00:01:02,288 --> 00:01:03,381
+PART.1: Barregem?
+
+30
+00:01:03,384 --> 00:01:04,384
+PART.2: Sí.
+
+31
+00:01:05,024 --> 00:01:08,229
+PART.1: Es que no sabia que em sortirien dues... va, anem, va.
+
+32
+00:01:12,080 --> 00:01:13,836
+PART.2: Sí. El llibre no el tinc, no el tinc mai clar.
+
+33
+00:01:13,864 --> 00:01:15,024
+PART.1: Doncs jo és el que...
+
+34
+00:01:14,184 --> 00:01:16,040
+PART.2: El llibre i la butaca.
+
+35
+00:01:16,064 --> 00:01:17,084
+PART.1: Jo és el que sempre agafaria.
+
+36
+00:01:17,113 --> 00:01:19,788
+PART.2: Els llibres i les butaques les tinc malament, eh?
+
+37
+00:01:20,596 --> 00:01:22,996
+PART.1: Sí. Doncs no, mira, molt bé les butaques.
+
+38
+00:01:23,073 --> 00:01:24,104
+PART.2: No, però...
+
+39
+00:01:26,781 --> 00:01:27,799
+PART.1: Eeh... ratolí.
+
+40
+00:01:27,184 --> 00:01:28,184
+PART.2: Sí.
+
+41
+00:01:32,949 --> 00:01:34,024
+PART.1: Sí.
+
+42
+00:01:34,886 --> 00:01:37,524
+PART.2: Es com si quan... quan giro això estés més preparat.
+
+43
+00:01:39,087 --> 00:01:40,756
+PART.2: No ho sé... Va, gira-la tu.
+
+44
+00:01:44,576 --> 00:01:45,604
+PART.2: Lento!
+
+45
+00:01:47,580 --> 00:01:50,610
+PART.1: És... un moment, un moment, que les estic tirant tots cap aquí, quan els moc.
+
+46
+00:01:49,184 --> 00:01:50,184
+PART.2: No, no.
+
+47
+00:01:51,711 --> 00:01:53,653
+PART.1: Quan els torno a deixar tots a lloc.
+
+48
+00:01:56,635 --> 00:01:58,516
+PART.1: L'ampolla, no... no em queda l'ampolla.
+
+49
+00:01:58,544 --> 00:02:00,264
+PART.2: Veus, com hi ha associacions estranyes?
+
+50
+00:02:00,065 --> 00:02:02,291
+PART.1: Sí, hi han elements que...
+
+51
+00:02:06,133 --> 00:02:07,300
+PART.1: Ho tenia jo més lluny.
+
+52
+00:02:09,087 --> 00:02:10,153
+PART.1: Ratolí.
+
+53
+00:02:10,084 --> 00:02:11,253
+PART.2: Molt bé.
+
+54
+00:02:12,045 --> 00:02:13,080
+PART.2: M'has guanyat per una, crec.
+
+55
+00:02:12,984 --> 00:02:14,463
+PART.1: Una, dos, tres, quatre, cinc, sis, set.
+
+56
+00:02:14,477 --> 00:02:15,488
+PART.1: Set.
+
+57
+00:02:15,171 --> 00:02:16,216
+PART.2: Sis.
+
+58
+00:02:16,717 --> 00:02:18,076
+PART.1: Ah...
+
+59
+00:02:18,177 --> 00:02:19,177
+PART.1: No!
+
+60
+00:02:22,849 --> 00:02:24,069
+PART.1: En vols fer una altra?
+
+61
+00:02:24,132 --> 00:02:25,137
+PART.2: No.
+
+62
+00:02:25,961 --> 00:02:27,045
+PART.1: Vale.
+
+63
+00:02:28,248 --> 00:02:29,660
+PART.2: Javi...
+
+64
+00:02:29,805 --> 00:02:30,917
+PART.1: Doncs, va.
+
+65
+00:02:31,139 --> 00:02:32,412
+PART.1: Deixem que vingui.
+
+66
+00:02:33,832 --> 00:02:34,856
+PART.1: Finito.
+
+67
+00:02:34,917 --> 00:02:36,011
+PART.1: De Córdoba.
+
+68
+00:02:39,396 --> 00:02:41,392
+PART.1: Si que estàs moreno, eh? Del cap.
+
+69
+00:02:41,076 --> 00:02:42,184
+PART.2: Sí?
+
+70
+00:02:42,559 --> 00:02:43,587
+PART.1: Moreno del cap.
+
+71
+00:02:43,056 --> 00:02:44,672
+PART.2: És que me he anat ara...
+
+72
+00:02:46,965 --> 00:02:48,161
+PART.2: Síiii!!
+
+73
+00:02:48,232 --> 00:02:50,116
+PART.2: ...un poco de coloret morenet?
+
+74
+00:02:50,425 --> 00:02:51,512
+PART.1: No, es que...
+
+75
+00:02:51,932 --> 00:02:52,960
+PART.2: Groc.
+
+76
+00:02:52,184 --> 00:02:55,884
+PART.1: No, a tu et passa com el del Buenafuente...
+
+77
+00:02:54,773 --> 00:02:55,884
+PART.2: ...el groc?
+
+78
+00:02:56,791 --> 00:02:59,107
+PART.2: El... com es diu, com es diu?
+
+79
+00:03:00,275 --> 00:03:02,412
+PART.1: Quan s'acaba l'estiu, no?, diu que...
+
+80
+00:03:01,735 --> 00:03:02,981
+PART.2: Sí, tengo la piel...
+
+81
+00:03:04,101 --> 00:03:08,165
+PART.2: Té un nom... "curtida", "camel"... no sé què diu.
+
+82
+00:03:08,332 --> 00:03:10,148
+PART.1: Sí, diu alguna cosa.
+
+83
+00:03:10,372 --> 00:03:15,907
+PART.1: Sobretot això, quan es va descolorint a l'hivern, diu: “jo continuo sent morè, però és un color que...”.
+
+84
+00:03:15,960 --> 00:03:17,089
+PART.2: No, però jo em torno blanc...
+
+85
+00:03:17,116 --> 00:03:18,192
+PART.1: Tirant a groc.
+
+86
+00:03:17,252 --> 00:03:18,459
+PART.2: ...però un blanc groc, sí.
+
+87
+00:03:18,588 --> 00:03:19,668
+PART.1: Sí.
+
+88
+00:03:18,597 --> 00:03:19,597
+PART.2: Això és groc.
+
+89
+00:03:19,597 --> 00:03:20,597
+PART.1: Sí.
+
+90
+00:03:20,597 --> 00:03:23,925
+PART.1: PERSONA  B: Al costat del teu... tu ets rosseta.
+
+91
+00:03:23,928 --> 00:03:25,556
+PART.1: Jo em faig rosseta com un porquet.
+
+92
+00:03:25,565 --> 00:03:27,517
+PART.2: Què passa? Que sembla que estigui malalt, no?
+
+93
+00:03:28,838 --> 00:03:30,621
+PART.1: Però això a mi em passa amb les mans.
+
+94
+00:03:30,640 --> 00:03:33,076
+PART.1: Veus les mans, jo no les tinc rossetes, en canvi tu sí.
+
+95
+00:03:33,370 --> 00:03:34,883
+PART.1: Jo les tinc tirant a grogues.
+
+96
+00:03:35,085 --> 00:03:38,760
+PART.1: És del fred, jo crec, perquè tinc fred... em destemplo ràpid.
+
+97
+00:03:38,817 --> 00:03:39,840
+PART.2: Hmm.
+
+98
+00:03:41,888 --> 00:03:42,924
+PART.1: Ja està.
+

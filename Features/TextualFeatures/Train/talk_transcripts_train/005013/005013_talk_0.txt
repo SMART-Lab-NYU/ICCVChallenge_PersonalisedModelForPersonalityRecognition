@@ -1,0 +1,77 @@
+1
+00:00:02,551 --> 00:00:04,071
+PART.1: Vale. Muy bien.
+
+2
+00:00:04,231 --> 00:00:06,071
+PART.2: ¿Cómo te llamas?
+
+3
+00:00:07,311 --> 00:00:09,271
+PART.1: Eso es un dato personal.
+
+4
+00:00:09,351 --> 00:00:11,071
+PART.2: Bueno, entonces no te...
+
+5
+00:00:11,151 --> 00:00:13,151
+PART.1: Me llamo "cinco".
+
+6
+00:00:13,231 --> 00:00:14,751
+PART.2: Ya. Yo me llamo "trece".
+
+7
+00:00:15,031 --> 00:00:16,431
+PART.1: Encantada "trece".
+
+8
+00:00:16,631 --> 00:00:21,191
+PART.2: Sí. Encantado. ¿Y qué haces?
+¿Estudias?
+
+9
+00:00:21,751 --> 00:00:25,591
+PART.1: No. Estoy trabajando. ¿Tú estás
+Estudiando?
+
+10
+00:00:25,751 --> 00:00:32,751
+PART.2: Estoy haciendo el doctorado de
+Historia de la Ciencia. Estoy
+trabajando el tema de la
+intratabilidad computacional.
+
+11
+00:00:33,911 --> 00:00:35,671
+PART.1: Eso, a mí, me suena muy
+complicado.
+
+12
+00:00:36,551 --> 00:00:39,911
+PART.2: Es complicado incluso para quien
+está haciendo el doctorado, así que
+no te preocupes.
+
+13
+00:00:39,991 --> 00:00:43,551
+PART.1: ¿Cómo lo explicarías para una
+persona que no entiende nada de eso?
+
+14
+00:00:43,631 --> 00:00:49,271
+PART.2: A ver, en resumidas cuentas,
+porque es algo un poco filosófico,
+pero yo lo tomo desde un punto de
+vista más histórico.
+
+15
+00:00:49,351 --> 00:01:04,351
+PART.2: Es como las personas encuentran
+solución a un problema, dada la
+posibilidad de soluciones que tiene
+ese problema, o sea, por ejemplo: en
+ese reloj, ¿cómo puedo cambiarle la
+hora?
+

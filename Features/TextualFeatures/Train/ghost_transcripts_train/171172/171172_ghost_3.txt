@@ -1,0 +1,85 @@
+63
+00:03:00,604 --> 00:03:01,524
+PART.1: Estamos empatadas.
+
+64
+00:03:01,604 --> 00:03:02,284
+PART.2: ¿Sí?
+
+65
+00:03:02,364 --> 00:03:03,244
+PART.1: No. Me ganaste.
+
+66
+00:03:03,324 --> 00:03:05,564
+PART.2: Uno, dos, tres, cuatro, cinco,
+seis, siete.
+
+67
+00:03:05,644 --> 00:03:06,484
+PART.1: Seis.
+
+68
+00:03:08,604 --> 00:03:09,524
+PART.2: Fantasma.
+
+69
+00:03:10,484 --> 00:03:12,804
+PART.2: Correcto, correcto, correcto,
+correcto, botella...
+
+70
+00:03:13,884 --> 00:03:17,524
+PART.2: Mira, solo pillé dos de...
+
+71
+00:03:19,644 --> 00:03:21,084
+PART.2: Yo pillé cuatro diferentes.
+
+72
+00:03:21,604 --> 00:03:23,084
+PART.1: Así hay que pensar rápido.
+
+73
+00:03:23,724 --> 00:03:26,764
+PART.2: Sí, pero ¿tú cuántos pillaste de
+esto? ¿De correctos?
+
+74
+00:03:27,124 --> 00:03:34,284
+PART.2: Uno, dos, tres... Tres.
+
+75
+00:03:38,604 --> 00:03:40,084
+PART.1: Estos son los que se pillan más
+rápido.
+
+76
+00:03:40,924 --> 00:03:42,924
+PART.2: Pero a mí me cuesta más.
+
+77
+00:03:42,404 --> 00:03:44,084
+PART.1: Porque a la vista...
+
+78
+00:03:44,684 --> 00:03:45,844
+PART.2: Pero yo solo tengo dos.
+
+79
+00:03:48,524 --> 00:03:49,084
+PART.1: Dos, ¿qué?
+
+80
+00:03:49,164 --> 00:03:52,484
+PART.2: Dos de que... Dos que son
+correctos.
+
+81
+00:03:54,084 --> 00:03:55,284
+PART.2: Yo nada más tengo dos.
+
+82
+00:03:57,444 --> 00:03:58,884
+PART.2: Y tú tienes uno, dos...
+

@@ -1,0 +1,758 @@
+1
+00:00:01,341 --> 00:00:02,141
+PART.2: Hola, ¿qué tal?
+
+2
+00:00:02,141 --> 00:00:04,701
+PART.1: Buenas, me llamo Adrián,
+eso supongo que lo sabes ya.
+
+3
+00:00:04,701 --> 00:00:05,781
+PART.1: No sé.
+
+4
+00:00:05,781 --> 00:00:07,021
+PART.2: Bueno,
+yo no lo había escuchado.
+
+5
+00:00:07,021 --> 00:00:07,541
+PART.1: ¿No?
+
+6
+00:00:07,541 --> 00:00:08,021
+PART.2: Adrián.
+
+7
+00:00:08,021 --> 00:00:08,821
+PART.1: Bueno, pues ahora lo sabes.
+
+8
+00:00:08,821 --> 00:00:09,861
+PART.1: ¿Y cómo te llamas tú?
+
+9
+00:00:09,861 --> 00:00:10,581
+PART.2: Sergio.
+
+10
+00:00:10,581 --> 00:00:11,421
+PART.1: Sergio.
+
+11
+00:00:11,941 --> 00:00:12,501
+PART.1: Vale.
+
+12
+00:00:12,501 --> 00:00:14,501
+PART.2: Y has dicho que estudias
+psicología.
+
+13
+00:00:14,501 --> 00:00:17,941
+PART.2: Lo que pasa que, bueno,
+en principio había cosas que a lo
+mejor no hacía falta que dijéramos.
+
+14
+00:00:17,941 --> 00:00:21,381
+PART.2: Pero bueno, los estudios no
+creo que tenga ya importancia.
+
+15
+00:00:21,381 --> 00:00:23,861
+PART.2: Por tema
+de la confidencialidad y todo eso.
+
+16
+00:00:23,861 --> 00:00:24,861
+PART.1: Ah, bueno.
+
+17
+00:00:24,861 --> 00:00:27,701
+PART.2: Y el tema de análisis
+de la personalidad, ¿te interesa o no?
+
+18
+00:00:27,701 --> 00:00:29,221
+PART.1: Sí, la verdad es que sí.
+
+19
+00:00:29,221 --> 00:00:31,101
+PART.1: Es dentro de los campos
+de la psicología lo que...
+
+20
+00:00:31,541 --> 00:00:33,301
+PART.1: O sea, a ver, ahora estoy
+en primer año, tampoco...
+
+21
+00:00:33,301 --> 00:00:33,941
+PART.2: Vale, vale.
+
+22
+00:00:33,941 --> 00:00:36,861
+PART.1: Si estuviera en tercero, te digo:
+"Vale, tengo muy claro por dónde quiero tirar".
+
+23
+00:00:37,741 --> 00:00:40,501
+PART.1: Pero la verdad que es
+un campo que me interesa, está bien.
+
+24
+00:00:40,981 --> 00:00:44,541
+PART.2: Nosotros colaboramos
+con psicólogos en este experimento también.
+
+25
+00:00:44,901 --> 00:00:48,221
+PART.2: Los psicólogos de la UE
+son los que han hecho esos cuestionarios
+que rellenas tú.
+
+26
+00:00:48,221 --> 00:00:49,101
+PART.1: Lo he pensado.
+
+27
+00:00:49,101 --> 00:00:52,901
+PART.1: Digo: "Detrás de esto,
+seguro que hay alguien de mi facu por ahí".
+
+28
+00:00:52,901 --> 00:00:53,781
+PART.2: Sí, sí.
+
+29
+00:00:53,781 --> 00:00:55,741
+PART.2: Los psicólogos
+de la UE lo están...
+
+30
+00:00:55,741 --> 00:00:57,821
+PART.2: Bueno, lo han hecho
+y luego analizarán los datos.
+
+31
+00:00:57,821 --> 00:01:01,581
+PART.2: Nosotros tenemos la parte
+de visión y de audio y luego ellos...
+
+32
+00:01:01,581 --> 00:01:04,021
+PART.1: Supongo que esto es
+departamento de estadística y detrás...
+
+33
+00:01:04,021 --> 00:01:05,941
+PART.1: Bueno, no sé concretamente
+quién, pero...
+
+34
+00:01:05,941 --> 00:01:11,381
+PART.2: No, bueno, de estadística
+no, porque nosotros somos informáticos
+y matemáticos y hacemos un poco todo.
+
+35
+00:01:11,381 --> 00:01:12,221
+PART.1: Vale, entonces...
+
+36
+00:01:12,221 --> 00:01:14,141
+PART.2: Pero, bueno,
+ellos también hacen análisis estadístico.
+
+37
+00:01:14,141 --> 00:01:15,741
+PART.2: Casi todos los datos,
+pero también lo hacen.
+
+38
+00:01:16,181 --> 00:01:17,021
+PART.2: Lo hacen.
+
+39
+00:01:17,981 --> 00:01:19,061
+PART.2: Eh...
+
+40
+00:01:19,381 --> 00:01:23,821
+PART.2: O sea, que tú vienes aquí
+porque tu novia conoce a Alexa,
+que es la que...
+
+41
+00:01:23,821 --> 00:01:24,461
+PART.1: Sí.
+
+42
+00:01:24,461 --> 00:01:25,221
+PART.2: Te insistió.
+
+43
+00:01:25,221 --> 00:01:26,101
+PART.1: Exacto.
+
+44
+00:01:26,101 --> 00:01:26,381
+PART.2: Vale.
+
+45
+00:01:26,381 --> 00:01:28,301
+PART.1: Es que Alexa no sé tampoco
+muy bien quién es.
+
+46
+00:01:28,301 --> 00:01:30,381
+PART.1: O sea, sé que la conoce,
+pero hasta ahí, ya está.
+
+47
+00:01:30,381 --> 00:01:35,341
+PART.2: Alexa se juntó al grupo
+hace poco y está contratada
+por un proyecto europeo con nosotros.
+
+48
+00:01:36,021 --> 00:01:38,181
+PART.2: Y ahora se supone
+que empezará el doctorado también.
+
+49
+00:01:38,741 --> 00:01:39,181
+PART.1: Vale.
+
+50
+00:01:39,181 --> 00:01:40,981
+PART.2: Y está colaborando aquí
+y estaba...
+
+51
+00:01:40,981 --> 00:01:41,661
+PART.1: Ah, vale, vale.
+
+52
+00:01:41,661 --> 00:01:43,661
+PART.2: Consiguiendo gente
+para las funciones y tal.
+
+53
+00:01:43,661 --> 00:01:45,421
+PART.1: Pues ni idea, no lo sabía.
+
+54
+00:01:46,061 --> 00:01:48,701
+PART.2: Si conoces más gente
+que se quiera apuntar y tal, pues...
+
+55
+00:01:48,701 --> 00:01:49,781
+PART.1: Sí, les diré, les diré.
+
+56
+00:01:49,781 --> 00:01:52,301
+PART.1: O sea, de momento no...
+
+57
+00:01:52,301 --> 00:01:57,301
+PART.2: Lo que más hace falta ahora
+creo que son gente, igualmente,
+gente hasta 19 y a partir de treinta y algo.
+
+58
+00:01:57,301 --> 00:02:02,341
+PART.2: Porque entre 20, treinta y poco,
+es la mayoría de la gente que está.
+
+59
+00:02:02,781 --> 00:02:04,421
+PART.2: SEÑÑOR A: Bueno, está bien,
+también hay cachés...
+
+60
+00:02:04,421 --> 00:02:06,461
+PART.1: No sé, un caché interesante.
+
+61
+00:02:06,901 --> 00:02:10,701
+PART.2: Sí, lo que pasa es
+que queremos hacer mucha combinación
+y que no sea tan desbalanceado.
+
+62
+00:02:11,941 --> 00:02:12,461
+PART.1: Vale.
+
+63
+00:02:12,461 --> 00:02:13,141
+PART.2: Sí.
+
+64
+00:02:13,621 --> 00:02:15,741
+PART.1: Podría preguntarle
+a mis padres, a ver si quieren venir.
+
+65
+00:02:16,221 --> 00:02:17,341
+PART.2: Hombre,
+eso estaría muy bien.
+
+66
+00:02:17,341 --> 00:02:19,861
+PART.2: Algunos traen
+a los abuelos, traen algunos abuelos.
+
+67
+00:02:19,861 --> 00:02:21,341
+PART.2: No vienen muchos, pero...
+
+68
+00:02:21,901 --> 00:02:23,741
+PART.2: Sí, la semana que viene,
+viene alguno de...
+
+69
+00:02:23,741 --> 00:02:25,261
+PART.2: Una de ochenta y largos.
+
+70
+00:02:25,741 --> 00:02:26,141
+PART.1: ¡Joer!
+
+71
+00:02:26,141 --> 00:02:27,301
+PART.2: Sí, sí, sí.
+
+72
+00:02:27,301 --> 00:02:30,181
+PART.2: Que la pondremos
+con mi hijo para ver...
+
+73
+00:02:30,621 --> 00:02:31,541
+PART.2: Para ver qué pasa ahí.
+
+74
+00:02:31,541 --> 00:02:32,461
+PART.1: puede ser divertido eso.
+
+75
+00:02:32,461 --> 00:02:33,701
+PART.2: Sí, puede ser divertido.
+
+76
+00:02:34,861 --> 00:02:35,501
+PART.2: Muy bien.
+
+77
+00:02:35,501 --> 00:02:36,301
+PART.2: ¿Hobbies?
+
+78
+00:02:37,061 --> 00:02:38,061
+PART.1: Ah...
+
+79
+00:02:38,461 --> 00:02:42,581
+PART.1: Bueno, antes no
+lo he dicho hablando con tu hijo,
+pero tocar la guitarra es una de las cosas...
+
+80
+00:02:42,581 --> 00:02:45,021
+PART.1: Bueno, tocar la guitarra,
+componer, cantar.
+
+81
+00:02:45,021 --> 00:02:46,421
+PART.1: Todo lo que sea música,
+me encanta.
+
+82
+00:02:46,421 --> 00:02:47,221
+PART.2: Qué guay.
+
+83
+00:02:47,421 --> 00:02:51,821
+PART.1: Y antiguamente skate,
+pero el skate lo tengo muy abandonado.
+
+84
+00:02:51,821 --> 00:02:56,341
+PART.1: Por temas de lesiones
+y tal, dije "prou", y gimnasio.
+
+85
+00:02:57,021 --> 00:02:58,861
+PART.1: Entrenar con pesas
+y ya está.
+
+86
+00:02:58,861 --> 00:02:59,581
+PART.2: Muy bien.
+
+87
+00:02:59,581 --> 00:03:03,541
+PART.1: Dentro de unos años,
+si se pudiera, competir en alguna cosa
+de powerlifting, pero...
+
+88
+00:03:03,941 --> 00:03:04,701
+PART.2: ¿De qué, de qué?
+
+89
+00:03:04,701 --> 00:03:05,821
+PART.1: De powerlifting.
+
+90
+00:03:05,821 --> 00:03:06,461
+PART.2: No sé lo que es.
+
+91
+00:03:06,701 --> 00:03:08,981
+PART.1: Es una modalidad
+en que levantas...
+
+92
+00:03:08,981 --> 00:03:11,981
+PART.1: Bueno, haces los ejercicios
+básicos con el máximo de peso que puedas.
+
+93
+00:03:11,981 --> 00:03:17,701
+PART.1: Que es en plan sentadilla,
+peso muerto, press banca y dominada,
+con la cantidad máxima de peso
+que puedas hacer.
+
+94
+00:03:17,701 --> 00:03:18,381
+PART.2: ¡Ostia!
+
+95
+00:03:18,381 --> 00:03:18,941
+PART.1: Sí.
+
+96
+00:03:19,741 --> 00:03:21,061
+PART.1: Y vamos progresando
+en ello, pero...
+
+97
+00:03:21,061 --> 00:03:22,501
+PART.2: Suena duro eso.
+
+98
+00:03:22,501 --> 00:03:24,621
+PART.1: Es jodido, pero bueno.
+
+99
+00:03:24,621 --> 00:03:29,661
+PART.1: Ahora además con exámenes
+y tal, he estado una semana
+que no he podido entrenar y estoy...
+
+100
+00:03:29,661 --> 00:03:31,821
+PART.1: Cuando vuelva la semana
+que viene voy a estar muerto.
+
+101
+00:03:31,821 --> 00:03:32,861
+PART.2: Te va a costar.
+
+102
+00:03:32,861 --> 00:03:33,501
+PART.1: Pero bueno.
+
+103
+00:03:33,821 --> 00:03:35,341
+PART.2: ¿Estás en la UE
+haciendo Psicología?
+
+104
+00:03:35,341 --> 00:03:36,901
+PART.1: Sí, sí, sí.
+
+105
+00:03:36,901 --> 00:03:38,021
+PART.2: Pues muy bien, muy bien.
+
+106
+00:03:38,501 --> 00:03:39,461
+PART.1: ¿Tú cuántos años tienes?
+
+107
+00:03:39,461 --> 00:03:40,421
+PART.2: 38.
+
+108
+00:03:41,261 --> 00:03:42,101
+PART.2: 38.
+
+109
+00:03:42,101 --> 00:03:43,741
+PART.1: Igual no se puede
+preguntar o no está bien.
+
+110
+00:03:43,741 --> 00:03:44,821
+PART.2: Sí, sí.
+
+111
+00:03:44,821 --> 00:03:46,301
+PART.2: Si da igual,
+si sale en los cuestionarios.
+
+112
+00:03:46,301 --> 00:03:46,941
+PART.1: Ya, por eso.
+
+113
+00:03:46,941 --> 00:03:47,981
+PART.2: Todo será público, o sea,
+que...
+
+114
+00:03:47,981 --> 00:03:48,621
+PART.1: Vale, vale.
+
+115
+00:03:49,061 --> 00:03:50,621
+PART.2: Tú tendrás algo menos
+de 38, ¿no?
+
+116
+00:03:50,621 --> 00:03:51,301
+PART.1: Sí.
+
+117
+00:03:51,301 --> 00:03:52,741
+PART.1: Ahora es cuando:
+"No, en realidad tengo 43".
+
+118
+00:03:54,021 --> 00:03:55,421
+PART.1: No, no, tengo 20.
+
+119
+00:03:55,421 --> 00:03:56,061
+PART.2: Muy bien.
+
+120
+00:03:57,781 --> 00:04:00,941
+PART.1: Y tendría que estar en segundo
+de carrera, pero bueno, sigo en primero.
+
+121
+00:04:01,381 --> 00:04:01,901
+PART.2: Bueno.
+
+122
+00:04:01,901 --> 00:04:02,661
+PART.1: ¿Qué vamos a hacer?
+
+123
+00:04:02,661 --> 00:04:03,861
+PART.2: ¿Conoces...?
+
+124
+00:04:03,861 --> 00:04:05,901
+PART.2: Bueno, da igual,
+no decimos nombres.
+
+125
+00:04:06,301 --> 00:04:07,461
+PART.2: Ya te los diré luego.
+
+126
+00:04:07,461 --> 00:04:07,901
+PART.1: No...
+
+127
+00:04:07,901 --> 00:04:10,341
+PART.2: Profesores de psicología
+conocemos unos cuantos,
+seguramente alguno te suena.
+
+128
+00:04:10,341 --> 00:04:11,221
+PART.1: Ah, pues sí, alguno.
+
+129
+00:04:11,661 --> 00:04:15,741
+PART.1: Lo que pasa es que yo voy
+de tardes, entonces, igual, si son
+de mañana...
+
+130
+00:04:15,741 --> 00:04:16,461
+PART.2: No lo sé.
+
+131
+00:04:16,461 --> 00:04:17,301
+PART.1: Eso ya no lo sé.
+
+132
+00:04:17,301 --> 00:04:18,421
+PART.2: No lo sé.
+
+133
+00:04:19,181 --> 00:04:19,901
+PART.1: En fin.
+
+134
+00:04:19,901 --> 00:04:20,861
+PART.2: Muy bien.
+
+135
+00:04:20,861 --> 00:04:22,261
+PART.2: ¿Y donde te ves
+después de la carrera?
+
+136
+00:04:23,861 --> 00:04:25,781
+PART.1: Buah, no tengo ni idea.
+
+137
+00:04:25,781 --> 00:04:26,541
+PART.2: No te lo has planteado,
+¿no?
+
+138
+00:04:26,541 --> 00:04:27,821
+PART.1: Todavía no me lo he planteado.
+
+139
+00:04:27,821 --> 00:04:30,581
+PART.1: Me he planteado acabarla
+de momento y luego ya veremos.
+
+140
+00:04:30,581 --> 00:04:31,941
+PART.2: Suele pasar, suele pasar.
+
+141
+00:04:31,941 --> 00:04:37,141
+PART.1: Pero no sé,
+algo de psicología criminal o...
+
+142
+00:04:37,901 --> 00:04:39,541
+PART.1: Incluso psicología clínica.
+
+143
+00:04:39,901 --> 00:04:42,061
+PART.1: No sé, son dos vertientes
+que las veo posible.
+
+144
+00:04:43,781 --> 00:04:45,101
+PART.1: Y psicología
+de la personalidad...
+
+145
+00:04:45,101 --> 00:04:46,181
+PART.2: ¿La clínica cuál es?
+
+146
+00:04:46,181 --> 00:04:49,741
+PART.2: Psicología clínica,
+¿qué es exactamente?
+
+147
+00:04:49,741 --> 00:04:50,501
+PART.1: Psicología...
+
+148
+00:04:50,501 --> 00:04:51,741
+PART.2: Ah, vale,
+la de toda la vida, ¿no?
+
+149
+00:04:51,741 --> 00:04:52,541
+PART.1: La de toda la vida.
+
+150
+00:04:52,541 --> 00:04:53,701
+PART.2: La de toda la vida, vale.
+
+151
+00:04:53,701 --> 00:04:59,181
+PART.1: Rollo vas al médico
+y le dices: "Mira, levo unos meses
+muy mal y creo que necesito ayuda".
+
+152
+00:04:59,181 --> 00:05:03,101
+PART.1: Tal y como está hecho
+el cuestionario hoy en día, es:
+"No te has intentado matar tres veces, ¿no?"
+
+153
+00:05:03,101 --> 00:05:04,901
+PART.1: Pues pastillitas
+y para casa.
+
+154
+00:05:04,901 --> 00:05:05,301
+PART.2: Ya.
+
+155
+00:05:05,621 --> 00:05:10,701
+PART.1: Pero si pides un psicólogo,
+el que te asignan es el psicólogo clínico.
+
+156
+00:05:11,021 --> 00:05:11,781
+PART.2: Vale, vale.
+
+157
+00:05:11,781 --> 00:05:13,341
+PART.1: Pues esa es la idea.
+
+158
+00:05:13,341 --> 00:05:14,061
+PART.2: Vale.
+
+159
+00:05:14,061 --> 00:05:16,501
+PART.2: Y en temas forense,
+¿también hay o ese es criminal?
+
+160
+00:05:16,501 --> 00:05:18,181
+PART.2: La psicología criminal,
+la que está en...
+
+161
+00:05:18,541 --> 00:05:21,621
+PART.1: La cosa es que creo
+que hay un máster, no lo tengo muy claro.
+
+162
+00:05:22,941 --> 00:05:24,341
+PART.1: Lo tendría que buscar.
+
+163
+00:05:25,301 --> 00:05:31,541
+PART.1: Pero hay como una formación
+que puedes hacer después, que es
+como psiquiatría, y a partir de ahí,
+puedes meterte en psiquiatría forense.
+
+164
+00:05:31,861 --> 00:05:37,381
+PART.1: Como hacer algo más,
+pero eso ya es un camino mucho
+más largo y no sé, lo veo más complicado.
+
+165
+00:05:38,981 --> 00:05:39,941
+PART.2: Qué interesante.
+

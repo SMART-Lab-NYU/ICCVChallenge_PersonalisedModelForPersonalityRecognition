@@ -1,0 +1,87 @@
+55
+00:03:00,640 --> 00:03:01,640
+PART.2: Pues qué chulo.
+
+56
+00:03:01,920 --> 00:03:03,840
+PART.2: Me has dicho que eres matemático, ¿no?
+
+57
+00:03:03,920 --> 00:03:10,080
+PART.2: Entonces, me
+podrías contar más de lo que...
+Porque no soy matemático.
+
+58
+00:03:10,200 --> 00:03:14,320
+PART.2: Nosotros usamos las herramientas
+estas un poco así, ¿no?
+
+59
+00:03:14,440 --> 00:03:15,400
+PART.1: Como "Black Box".
+
+60
+00:03:15,880 --> 00:03:16,840
+PART.2: Un poco "Black Box".
+
+61
+00:03:17,320 --> 00:03:22,560
+PART.2: Y me costó bastante leer
+todo esto de la algebra
+topológica...
+
+62
+00:03:22,640 --> 00:03:24,240
+PART.1: Eso es en lo que soy experto.
+
+63
+00:03:24,320 --> 00:03:25,720
+PART.1: Es en lo que más he trabajado.
+
+64
+00:03:28,400 --> 00:03:36,840
+PART.2: Porque lo que nos impide más,
+diría yo, son las partes
+computacionales del asunto.
+
+65
+00:03:37,400 --> 00:03:38,800
+PART.1: ¿Qué usáis para calcular...?
+
+66
+00:03:39,240 --> 00:03:40,600
+PART.2: Uso... ¿DIFA?
+
+67
+00:03:43,440 --> 00:03:45,960
+PART.1: ¿Y esa está en qué lenguaje?
+
+68
+00:03:46,360 --> 00:03:47,680
+PART.2: Creo que es C++.
+
+69
+00:03:48,920 --> 00:03:49,520
+PART.1: ¿DIFA?
+
+70
+00:03:49,600 --> 00:03:50,760
+PART.1: Pues es de las pocas que
+no he usado.
+
+71
+00:03:50,840 --> 00:03:52,800
+PART.1: He utilizado como 12
+paquetes distintos.
+
+72
+00:03:52,880 --> 00:03:59,400
+PART.2: Intenté alguna otra cosa, pero
+creo que esta es una de las más
+conocidas.
+
+73
+00:03:59,480 --> 00:04:00,760
+PART.2: ¿Qué usas tú?
+

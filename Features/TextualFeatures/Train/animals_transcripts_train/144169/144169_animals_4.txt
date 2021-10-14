@@ -1,0 +1,60 @@
+83
+00:04:01,881 --> 00:04:03,401
+PART.1: ¿El mío tiene orejas pequeñas?
+
+84
+00:04:03,481 --> 00:04:04,121
+PART.2: Sí.
+
+85
+00:04:08,201 --> 00:04:09,041
+PART.2: A ver.
+
+86
+00:04:09,401 --> 00:04:11,801
+PART.2: Llevo seis me parece, ¿no?
+
+87
+00:04:11,881 --> 00:04:12,961
+PART.2: ¿Llevamos seis o siete?
+
+88
+00:04:12,561 --> 00:04:13,561
+PART.1: Sí, seis.
+
+89
+00:04:13,041 --> 00:04:15,201
+PART.2: Esta es la siete.
+
+90
+00:04:14,161 --> 00:04:16,241
+PART.1: Es la siete, sí.
+
+91
+00:04:20,161 --> 00:04:20,881
+PART.2: A ver.
+
+92
+00:04:21,601 --> 00:04:22,601
+PART.2: Un animal...
+
+93
+00:04:25,361 --> 00:04:27,601
+PART.2: Tú lo has visto domesticado.
+
+94
+00:04:35,881 --> 00:04:37,641
+PART.2: Es que no sé nada de aves, ¿eh?
+
+95
+00:04:44,041 --> 00:04:46,521
+PART.2: Es que domesticado no, no...
+
+96
+00:04:47,561 --> 00:04:49,281
+PART.2: Ah, pero has dicho que no vuela.
+
+97
+00:04:50,001 --> 00:04:51,601
+PART.1: Sí. Que yo sepa, no vuela.
+

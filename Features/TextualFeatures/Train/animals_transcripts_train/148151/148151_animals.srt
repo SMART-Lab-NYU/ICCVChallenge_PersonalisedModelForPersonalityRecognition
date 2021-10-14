@@ -1,0 +1,706 @@
+﻿1
+00:00:04,044 --> 00:00:06,644
+PART.1: Estamos haciéndolo en castellano
+porque yo me he lanzado, ¿eh?
+
+2
+00:00:07,084 --> 00:00:08,284
+PART.2: Ah, sí, pero bien.
+
+3
+00:00:09,524 --> 00:00:12,124
+PART.1: Pero lo podemos hacer en catalán
+o en inglés si quieres.
+
+4
+00:00:14,524 --> 00:00:15,644
+PART.1: Vale, podemos hacerlo...
+
+5
+00:00:16,604 --> 00:00:23,604
+PART.1: Yo creo que es más entretenido si
+lo hacemos intercalado porque así
+los dos vamos jugando, pero es más
+fácil que se nos olviden las
+preguntas que hemos ido haciendo
+cada uno.
+
+6
+00:00:24,404 --> 00:00:27,484
+PART.2: Bueno, no creo. Son diez
+preguntas.
+
+7
+00:00:26,364 --> 00:00:27,044
+PART.1: ¿Lo intercalamos?
+
+8
+00:00:27,684 --> 00:00:28,604
+PART.1: Vale, vale, vale.
+
+9
+00:00:30,764 --> 00:00:32,044
+PART.1: Vale, ¿empiezas tú?
+
+10
+00:00:32,644 --> 00:00:33,404
+PART.2: Vale.
+
+11
+00:00:35,124 --> 00:00:36,524
+PART.2: ¿Soy un mamífero?
+
+12
+00:00:36,604 --> 00:00:37,404
+PART.1: No.
+
+13
+00:00:38,684 --> 00:00:41,404
+PART.1: ¿Yo te cuento las tuyas o tú te
+cuentas las tuyas y yo las mías?
+
+14
+00:00:41,484 --> 00:00:43,604
+PART.1: Yo voy a poner las manos así para
+que no se me olvide.
+
+15
+00:00:42,924 --> 00:00:45,284
+PART.2: ¿Cómo? Yo me cuento las mías.
+
+16
+00:00:45,364 --> 00:00:45,924
+PART.1: Sí.
+
+17
+00:00:45,764 --> 00:00:46,484
+PART.2: Vale, una.
+
+18
+00:00:49,324 --> 00:00:52,524
+PART.1: ¿Soy de tierra?
+
+19
+00:00:53,644 --> 00:00:54,364
+PART.2: Sí.
+
+20
+00:00:54,444 --> 00:00:55,084
+PART.1: Vale, vale.
+
+21
+00:00:58,124 --> 00:00:59,324
+PART.2: ¿Soy un pájaro?
+
+22
+00:00:59,404 --> 00:01:00,044
+PART.1: Sí.
+
+23
+00:01:02,804 --> 00:01:04,004
+PART.1: ¿Soy mamífero?
+
+24
+00:01:04,404 --> 00:01:05,124
+PART.2: Sí.
+
+25
+00:01:06,604 --> 00:01:08,924
+PART.2: ¿Soy un pájaro grande?
+
+26
+00:01:09,404 --> 00:01:10,124
+PART.1: Sí.
+
+27
+00:01:14,964 --> 00:01:17,524
+PART.1: ¿Tengo pelo por todo el cuerpo?
+
+28
+00:01:17,604 --> 00:01:18,404
+PART.2: Sí.
+
+29
+00:01:18,484 --> 00:01:19,044
+PART.1: Vale.
+
+30
+00:01:24,684 --> 00:01:26,884
+PART.2: ¿Soy depredador?
+
+31
+00:01:32,924 --> 00:01:37,124
+PART.1: Yo diría que sí, pero no estoy
+seguro.
+
+32
+00:01:37,204 --> 00:01:37,724
+PART.2: Vale.
+
+33
+00:01:37,804 --> 00:01:42,044
+PART.1: O sea... Sí.
+
+34
+00:01:42,324 --> 00:01:42,844
+PART.2: Vale.
+
+35
+00:01:45,924 --> 00:01:46,924
+PART.1: ¿Soy grande?
+
+36
+00:01:47,484 --> 00:01:48,204
+PART.2: Sí.
+
+37
+00:01:48,284 --> 00:01:49,004
+PART.1: Vale.
+
+38
+00:01:53,524 --> 00:01:54,604
+PART.2: No sé qué preguntar.
+
+39
+00:02:03,924 --> 00:02:05,764
+PART.2: ¿Soy grande a nivel avestruz?
+
+40
+00:02:06,364 --> 00:02:07,084
+PART.1: Sí.
+
+41
+00:02:07,684 --> 00:02:08,404
+PART.2: Vale.
+
+42
+00:02:11,604 --> 00:02:14,764
+PART.1: Es que tengo un problema y es que
+he visto todas las cartas muchas
+veces.
+
+43
+00:02:15,324 --> 00:02:17,084
+PART.1: No sé cuál es, pero...
+
+44
+00:02:17,844 --> 00:02:19,244
+PART.1: Pero tengo muchas pistas.
+
+45
+00:02:24,244 --> 00:02:25,604
+PART.1: ¿Soy herbívoro?
+
+46
+00:02:29,444 --> 00:02:31,084
+PART.2: Sí, supongo que sí.
+
+47
+00:02:31,564 --> 00:02:32,444
+PART.1: Supongo.
+
+48
+00:02:32,524 --> 00:02:33,124
+PART.1: Vale.
+
+49
+00:02:33,204 --> 00:02:37,084
+PART.2: Sí. No lo veo comiendo... Cazando
+ahí.
+
+50
+00:02:35,844 --> 00:02:36,404
+PART.1: Vale.
+
+51
+00:02:41,804 --> 00:02:45,164
+PART.2: Es que si soy grande, tipo
+avestruz, solo se me ocurre el
+avestruz.
+
+52
+00:02:47,644 --> 00:02:48,404
+PART.2: Vale.
+
+53
+00:02:48,964 --> 00:02:51,084
+PART.1: Igual eres un poco más pequeño
+que un avestruz.
+
+54
+00:02:52,604 --> 00:02:56,044
+PART.1: Pero sí... Tipo avestruz, sí que
+eres grande.
+
+55
+00:02:56,124 --> 00:02:56,804
+PART.2: Vale.
+
+56
+00:03:03,164 --> 00:03:05,084
+PART.2: ¿Soy de color marrón?
+
+57
+00:03:06,484 --> 00:03:07,244
+PART.1: No.
+
+58
+00:03:07,324 --> 00:03:08,124
+PART.2: Vale.
+
+59
+00:03:13,324 --> 00:03:14,444
+PART.1: Vale, eh...
+
+60
+00:03:16,004 --> 00:03:18,524
+PART.1: ¿Habito en el continente
+africano?
+
+61
+00:03:21,804 --> 00:03:22,484
+PART.2: Supongo.
+
+62
+00:03:22,564 --> 00:03:23,324
+PART.1: Vale.
+
+63
+00:03:23,404 --> 00:03:24,604
+PART.2: ¿Y si no lo sé?
+
+64
+00:03:24,684 --> 00:03:26,524
+PART.1: Vale, pues entonces dime que no
+lo sabes.
+
+65
+00:03:26,604 --> 00:03:27,164
+PART.2: Vale.
+
+66
+00:03:27,444 --> 00:03:29,724
+PART.1: Pero el "supongo" me sirve.
+
+67
+00:03:29,804 --> 00:03:30,644
+PART.2: Pero supongo.
+
+68
+00:03:30,724 --> 00:03:33,324
+PART.1: Si tiene pinta de, ya confío en
+eso.
+
+69
+00:03:33,404 --> 00:03:34,684
+PART.2: Sí, tiene pinta de.
+
+70
+00:03:34,764 --> 00:03:35,524
+PART.1: Vale, vale.
+
+71
+00:03:39,324 --> 00:03:44,964
+PART.2: A ver, soy un pájaro grande, tipo
+avestruz, que no es un avestruz, no
+es marrón...
+
+72
+00:03:48,124 --> 00:03:49,604
+PART.2: No sé qué más preguntar.
+
+73
+00:03:58,324 --> 00:04:01,524
+PART.2: Voy a preguntar lo mismo. ¿Vivo
+en el continente africano?
+
+74
+00:04:02,844 --> 00:04:03,964
+PART.2: Ni idea, ¿no?
+
+75
+00:04:04,044 --> 00:04:05,084
+PART.1: Creo que sí.
+
+76
+00:04:05,444 --> 00:04:08,604
+PART.1: Estoy visualizando documentales y
+así...
+
+77
+00:04:08,884 --> 00:04:12,044
+PART.2: Bueno, aún así, creo que no me
+arregla mucho.
+
+78
+00:04:12,124 --> 00:04:12,604
+PART.1: Sí.
+
+79
+00:04:13,684 --> 00:04:14,364
+PART.2: Vale.
+
+80
+00:04:19,244 --> 00:04:20,324
+PART.1: Hemos dicho que soy...
+
+81
+00:04:21,804 --> 00:04:23,484
+PART.1: Soy grande lo he preguntado ya.
+
+82
+00:04:25,324 --> 00:04:27,924
+PART.1: Vale, a ver, ¿tengo cuernos?
+
+83
+00:04:28,404 --> 00:04:29,204
+PART.2: Sí.
+
+84
+00:04:29,684 --> 00:04:30,644
+PART.1: Vale, creo que ya sé cuál es.
+
+85
+00:04:32,284 --> 00:04:33,924
+PART.2: Vale, se me ha ocurrido una
+buena.
+
+86
+00:04:34,004 --> 00:04:34,844
+PART.2: ¿Vuelo?
+
+87
+00:04:35,244 --> 00:04:36,244
+PART.1: Yo creo que sí.
+
+88
+00:04:36,604 --> 00:04:37,404
+PART.1: Sí, sí.
+
+89
+00:04:37,764 --> 00:04:38,604
+PART.2: Pues ya ni idea.
+
+90
+00:04:39,124 --> 00:04:42,004
+PART.1: Pero, pero... Es que esa es la
+pista.
+
+91
+00:04:42,564 --> 00:04:43,404
+PART.1: No. Nada.
+
+92
+00:04:45,124 --> 00:04:47,004
+PART.1: Vuelas. Yo creo que la capacidad
+la tienes.
+
+93
+00:04:47,484 --> 00:04:49,324
+PART.2: Pero poco me imagino.
+
+94
+00:04:49,644 --> 00:04:50,684
+PART.1: Yo diría que poco, sí.
+
+95
+00:04:50,924 --> 00:04:52,764
+PART.1: No me lo imagino, por ejemplo,
+migrando.
+
+96
+00:04:53,924 --> 00:04:54,684
+PART.2: Vale.
+
+97
+00:04:57,524 --> 00:04:58,484
+PART.1: ¿Soy un visón?
+
+98
+00:04:58,764 --> 00:04:59,364
+PART.2: Sí.
+
+99
+00:05:00,764 --> 00:05:01,564
+PART.2: Qué rapidez.
+
+100
+00:05:01,644 --> 00:05:04,524
+PART.1: No, pero ya te digo, sí que las
+conozco.
+
+101
+00:05:05,324 --> 00:05:06,844
+PART.2: Vale, me faltan dos a mí.
+
+102
+00:05:06,964 --> 00:05:10,804
+PART.1: Bueno, no lo ha dicho, son las
+dos y un onceavo que es como un
+último intento.
+
+103
+00:05:10,884 --> 00:05:11,524
+PART.2: Vale.
+
+104
+00:05:18,604 --> 00:05:20,364
+PART.2: Es que creo que no sé tanto de
+pájaros.
+
+105
+00:05:21,364 --> 00:05:24,044
+PART.1: Este yo creo que lo conoces
+porque es un pájaro característico.
+
+106
+00:05:28,444 --> 00:05:29,724
+PART.2: Vuela, pero no mucho.
+
+107
+00:05:30,124 --> 00:05:30,604
+PART.1: Sí.
+
+108
+00:05:30,684 --> 00:05:32,004
+PART.2: Es grande.
+
+109
+00:05:38,684 --> 00:05:39,964
+PART.2: No sé qué más preguntar.
+
+110
+00:05:40,044 --> 00:05:41,044
+PART.2: ¿Es de color blanco?
+
+111
+00:05:41,124 --> 00:05:41,924
+PART.1: No.
+
+112
+00:05:43,884 --> 00:05:46,044
+PART.2: Vale, pues voy a decir uno, ¿no?
+
+113
+00:05:46,124 --> 00:05:46,604
+PART.1: Venga.
+
+114
+00:05:46,684 --> 00:05:47,524
+PART.2: En la diez, digo uno.
+
+115
+00:05:47,724 --> 00:05:48,964
+PART.1: A la 11 en principio.
+
+116
+00:05:48,684 --> 00:05:49,244
+PART.2: Ah, vale.
+
+117
+00:05:49,324 --> 00:05:51,684
+PART.1: Pero si quieres probar a la diez
+decir uno y a la once otro...
+
+118
+00:05:52,204 --> 00:05:53,724
+PART.2: No, no. Hago otra pregunta.
+
+119
+00:05:53,804 --> 00:05:54,524
+PART.2: ¿Es negro?
+
+120
+00:05:54,604 --> 00:05:55,364
+PART.1: Tampoco.
+
+121
+00:05:55,524 --> 00:05:56,364
+PART.2: ¿Qué color es?
+
+122
+00:06:01,204 --> 00:06:02,084
+PART.2: Vale.
+
+123
+00:06:03,804 --> 00:06:08,004
+PART.2: ¿Puede ser un loro o cosas
+así...?
+
+124
+00:06:08,084 --> 00:06:08,924
+PART.1: No.
+
+125
+00:06:09,004 --> 00:06:09,564
+PART.2: No.
+
+126
+00:06:13,164 --> 00:06:15,284
+PART.1: Te has quedado sin preguntas.
+
+127
+00:06:13,964 --> 00:06:15,404
+PART.2: Soy malísima en esto, ¿eh?
+
+128
+00:06:15,484 --> 00:06:16,044
+PART.2: Ya.
+
+129
+00:06:17,324 --> 00:06:18,404
+PART.2: Soy malísima.
+
+130
+00:06:19,044 --> 00:06:21,564
+PART.2: Pues si no soy un loro, digo
+un...
+
+131
+00:06:21,644 --> 00:06:23,444
+PART.1: Nos las han puesto difíciles,
+¿eh?
+
+132
+00:06:27,324 --> 00:06:29,204
+PART.2: Digo un... No sé qué decir.
+
+133
+00:06:34,004 --> 00:06:34,844
+PART.2: Un emú.
+
+134
+00:06:35,764 --> 00:06:36,364
+PART.1: No.
+
+135
+00:06:36,684 --> 00:06:38,644
+PART.1: No sé muy bien lo que es un emú,
+pero no.
+
+136
+00:06:39,604 --> 00:06:40,644
+PART.2: Es tipo avestruz.
+
+137
+00:06:41,404 --> 00:06:41,924
+PART.1: Vale.
+
+138
+00:06:41,684 --> 00:06:42,564
+PART.2: Pero más pequeño.
+
+139
+00:06:42,644 --> 00:06:44,684
+PART.1: No. Es un... Quítatelo.
+
+140
+00:06:47,204 --> 00:06:48,084
+PART.2: Hostias.
+
+141
+00:06:48,684 --> 00:06:50,724
+PART.2: Vale, si no era tan difícil.
+
+142
+00:06:51,644 --> 00:06:54,324
+PART.2: Pero... Pero claro.
+
+143
+00:06:55,684 --> 00:06:56,604
+PART.2: Color rosa.
+
+144
+00:06:56,964 --> 00:06:58,164
+PART.1: Color rosa, claro.
+
+145
+00:06:58,244 --> 00:06:59,964
+PART.1: No era blanco, no era negro,
+no era marrón.
+
+146
+00:07:00,244 --> 00:07:00,884
+PART.2: Claro.
+
+147
+00:07:01,004 --> 00:07:02,204
+PART.2: ¿Y qué come esto?
+
+148
+00:07:02,524 --> 00:07:03,444
+PART.1: Yo diría que peces.
+
+149
+00:07:03,524 --> 00:07:10,044
+PART.1: En mi mente me lo imagino en
+estos lagos, ahí plantados, así
+como cazando o agarrando el animal.
+
+150
+00:07:08,524 --> 00:07:09,044
+PART.2: Sí.
+
+151
+00:07:10,204 --> 00:07:10,724
+PART.1: El pez.
+
+152
+00:07:11,164 --> 00:07:13,204
+PART.1: Con ese pico tiene pintad de ser
+un pico de...
+
+153
+00:07:13,604 --> 00:07:14,604
+PART.2: Sí, de...
+
+154
+00:07:16,124 --> 00:07:17,004
+PART.1: De matar.
+
+155
+00:07:17,204 --> 00:07:19,884
+PART.1: ¿Dónde dirías que está la...?
+¿Dónde se abre?
+
+156
+00:07:20,284 --> 00:07:24,524
+PART.1: ¿Por la línea negra? ¿O la línea
+negra es todo arriba y la parte de
+abajo es solo una parte fina por
+aquí?
+
+157
+00:07:25,284 --> 00:07:25,964
+PART.2: ¿A ver?
+
+158
+00:07:30,044 --> 00:07:31,924
+PART.2: Pues no lo sé, es que tiene como
+aquí...
+
+159
+00:07:32,004 --> 00:07:32,844
+PART.1: Sí, ¿no?
+
+160
+00:07:32,924 --> 00:07:34,884
+PART.1: Pero no sé si es solo color o es
+porque se abre por ahí.
+
+161
+00:07:35,844 --> 00:07:36,884
+PART.2: Pues no. Ni idea.
+
+162
+00:07:37,884 --> 00:07:39,604
+PART.2: ¿Y esto dónde vive?
+
+163
+00:07:40,684 --> 00:07:41,844
+PART.2: ¿En África?
+
+164
+00:07:42,444 --> 00:07:43,724
+PART.1: Yo creo que sí, en África.
+

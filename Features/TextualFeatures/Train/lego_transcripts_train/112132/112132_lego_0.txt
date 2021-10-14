@@ -1,0 +1,110 @@
+﻿1
+00:00:05,821 --> 00:00:07,141
+PART.2: Vale.
+
+2
+00:00:08,381 --> 00:00:09,749
+PART.1: Ok.
+
+3
+00:00:09,773 --> 00:00:11,141
+PART.2: A ver
+
+4
+00:00:11,341 --> 00:00:13,438
+PART.1: Vamos separando.
+
+5
+00:00:13,462 --> 00:00:16,341
+PART.2: Una de dos por ocho rojas.
+
+6
+00:00:16,365 --> 00:00:17,237
+PART.1: Esta.
+
+7
+00:00:17,261 --> 00:00:19,043
+PART.2: Ésta también.
+
+8
+00:00:19,067 --> 00:00:20,101
+PART.1: Sí.
+
+9
+00:00:20,301 --> 00:00:21,541
+PART.2: Una de dos por uno, roja.
+
+10
+00:00:21,741 --> 00:00:24,021
+PART.1: Esta, ¿no?
+
+11
+00:00:24,045 --> 00:00:24,197
+PART.2: Sí.
+
+12
+00:00:24,221 --> 00:00:26,592
+PART.2: Y una
+de cuatro por dos, rojas.
+
+13
+00:00:26,616 --> 00:00:28,581
+PART.2: está
+no es roja, pero.
+
+14
+00:00:28,605 --> 00:00:28,757
+PART.1: Esta.
+
+15
+00:00:28,781 --> 00:00:31,181
+PART.2: Pero no tiene que ser flat.
+
+16
+00:00:31,381 --> 00:00:35,941
+PART.2: Ah, igual que esta, esta tampoco es es flat.
+
+17
+00:00:36,661 --> 00:00:38,557
+PART.1: Ah, claro.
+
+18
+00:00:38,581 --> 00:00:42,021
+PART.2: Tiene que ser de estas más.
+
+19
+00:00:42,541 --> 00:00:44,661
+PART.2: Ah, no está, está el mismo color.
+
+20
+00:00:44,861 --> 00:00:46,461
+PART.1: Pues no, pero es igual, mira,
+
+21
+00:00:46,661 --> 00:00:49,259
+PART.1: En realidad, es más oscura.
+
+22
+00:00:48,445 --> 00:00:48,885
+PART.2: Ah, claro.
+
+23
+00:00:48,909 --> 00:00:50,317
+PART.2: Es más oscura, es esta.
+
+24
+00:00:50,341 --> 00:00:52,324
+PART.1: Bueno, ¿la montamos?
+
+25
+00:00:52,348 --> 00:00:54,781
+PART.2: Sí, al de dos va en una punta.
+
+26
+00:00:54,981 --> 00:00:57,141
+PART.2: Pues al cuadrado.
+
+27
+00:00:57,821 --> 00:01:01,061
+PART.2: Espera, está a contrarreloj.
+

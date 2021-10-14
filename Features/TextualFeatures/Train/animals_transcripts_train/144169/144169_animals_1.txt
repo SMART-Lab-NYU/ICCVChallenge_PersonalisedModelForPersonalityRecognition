@@ -1,0 +1,85 @@
+20
+00:01:01,801 --> 00:01:02,441
+PART.2: Te toca.
+
+21
+00:01:04,881 --> 00:01:06,161
+PART.1: No vuela.
+
+22
+00:01:08,641 --> 00:01:09,721
+PART.1: Quizá en otro ámbito.
+
+23
+00:01:10,801 --> 00:01:12,681
+PART.1: ¿Mi animal está en el agua?
+
+24
+00:01:12,761 --> 00:01:13,321
+PART.2: Sí.
+
+25
+00:01:14,761 --> 00:01:16,001
+PART.2: Es terrestre y acuático.
+
+26
+00:01:16,081 --> 00:01:16,761
+PART.1: Okey.
+
+27
+00:01:18,201 --> 00:01:19,881
+PART.2: ¿Mi animal...?
+
+28
+00:01:20,081 --> 00:01:21,801
+PART.2: Tiene plumas... A ver...
+
+29
+00:01:27,321 --> 00:01:30,321
+PART.2: Pero claro, esta yo no sé si te
+la puedo decir.
+
+30
+00:01:30,401 --> 00:01:38,121
+PART.2: Porque, por ejemplo,
+¿vive en la selva o lo puedo
+encontrar aquí en nuestro
+territorio?
+
+31
+00:01:38,201 --> 00:01:39,401
+PART.1: Doméstico o...
+
+32
+00:01:39,481 --> 00:01:40,481
+PART.2: O salvaje.
+
+33
+00:01:40,561 --> 00:01:42,001
+PART.1: ¿Referente a doméstico o salvaje?
+
+34
+00:01:42,081 --> 00:01:42,601
+PART.2: Sí.
+
+35
+00:01:49,041 --> 00:01:50,681
+PART.1: Sé muy poco de ese animal.
+
+36
+00:01:52,001 --> 00:01:53,841
+PART.2: Pues voy a perder.
+
+37
+00:01:52,481 --> 00:01:56,041
+PART.1: Bueno, yo lo he visto domesticado
+algunas veces.
+
+38
+00:01:56,801 --> 00:01:59,561
+PART.1: Pero la mayoría esta en...
+
+39
+00:01:59,641 --> 00:02:00,441
+PART.2: Salvaje.
+

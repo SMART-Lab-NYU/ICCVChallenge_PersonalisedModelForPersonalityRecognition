@@ -1,0 +1,71 @@
+25
+00:01:01,939 --> 00:01:03,099
+PART.1: Una au, és una au?
+
+26
+00:01:03,179 --> 00:01:04,939
+PART.2: Podríem dir… Sí.
+
+27
+00:01:05,019 --> 00:01:05,979
+PART.1: Val.
+
+28
+00:01:06,059 --> 00:01:09,779
+PART.2: És clar…Pot ser un ocell, però també és una au.
+
+29
+00:01:09,859 --> 00:01:13,139
+PART.1: Una au, val. OK, vas tu. En portem tres.
+
+30
+00:01:13,219 --> 00:01:14,139
+PART.2: Val.
+
+31
+00:01:16,539 --> 00:01:18,459
+PART.2: He dit… Havia dit si era mam…
+
+32
+00:01:18,539 --> 00:01:24,379
+PART.1: Sí, m'has preguntat si és mamífer
+i sí, t'he dit que sí, que no viu a l'aigua…
+
+33
+00:01:24,459 --> 00:01:26,299
+PART.2: I que no és gran.
+
+34
+00:01:26,379 --> 00:01:27,539
+PART.1: Exacte.
+
+35
+00:01:27,619 --> 00:01:30,619
+PART.2: I que no és gran.
+I que no és gran.
+
+36
+00:01:30,699 --> 00:01:31,739
+PART.2: I que no és gran.
+
+37
+00:01:31,819 --> 00:01:32,939
+PART.2: Mamífer. Mamífer.
+
+38
+00:01:37,379 --> 00:01:38,779
+PART.2: Mamífer.
+
+39
+00:01:46,939 --> 00:01:54,899
+PART.2: És sociable? És un animal sociable
+com podria ser un gos, un gat o un lleó o una pantera?
+
+40
+00:01:54,979 --> 00:01:56,019
+PART.2: O què sé jo!
+
+41
+00:01:56,099 --> 00:01:58,299
+PART.1: Bona pregunta.
+

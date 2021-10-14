@@ -1,0 +1,708 @@
+﻿1
+00:00:00,315 --> 00:00:02,395
+PART.1: Bueno, pues no sé,
+has hecho una ya dices.
+
+2
+00:00:02,395 --> 00:00:04,195
+PART.2: Sí, justo acabo de hacer una.
+
+3
+00:00:04,195 --> 00:00:07,795
+PART.1: Vale, y no sé, tú.
+
+4
+00:00:07,995 --> 00:00:11,515
+PART.1: Dime, ¿de dónde te sacaron?
+
+5
+00:00:10,475 --> 00:00:14,595
+PART.2: Soy de Venezuela,
+originalmente soy de Venezuela
+y me vine aquí a hacer el máster.
+
+6
+00:00:14,635 --> 00:00:15,955
+PART.2: Hice el máster
+de Inteligencia Artificial.
+
+7
+00:00:15,955 --> 00:00:17,155
+PART.1: Ah, vale, sí.
+
+8
+00:00:17,155 --> 00:00:20,395
+PART.1: Yo lo hice también,
+el de la UPC.
+
+9
+00:00:20,395 --> 00:00:22,475
+PART.2: Sí, el que es conjunto
+UPC-V.
+
+10
+00:00:22,475 --> 00:00:24,875
+PART.1: ¿En Tarragona
+o ya no está en Tarragona?
+
+11
+00:00:24,875 --> 00:00:25,355
+PART.2: Sí.
+
+12
+00:00:25,355 --> 00:00:26,195
+PART.1: Vale.
+
+13
+00:00:26,195 --> 00:00:27,955
+PART.2: Bueno, yo lo hice en el 2014.
+
+14
+00:00:29,315 --> 00:00:30,075
+PART.1: ¡Ah!
+
+15
+00:00:30,835 --> 00:00:32,955
+PART.1: Al año después que yo, creo.
+
+16
+00:00:32,955 --> 00:00:34,915
+PART.1: No, sí, al año después que yo
+creo.
+
+17
+00:00:34,915 --> 00:00:41,635
+PART.1: Porque yo fui del primer año,
+yo hice 2013-2014 creo,
+y tú harías 2014-2015.
+
+18
+00:00:41,635 --> 00:00:42,515
+PART.2: Exacto.
+
+19
+00:00:42,515 --> 00:00:45,235
+PART.1: ¿Y te acuerdas de las clases
+de Antonio Moreno en Tarragona?
+
+20
+00:00:45,235 --> 00:00:46,475
+PART.2: Sí, fabulosas, sí.
+
+21
+00:00:47,195 --> 00:00:51,035
+PART.1: En "Systems", te ponía
+el Power Point y se ponía...
+
+22
+00:00:51,035 --> 00:00:58,635
+PART.1: No sé cómo hacíamos eso,
+a nosotros nos ponía el Power Point
+y se iba detrás de la clase e iba hablando así,
+después de comer.
+
+23
+00:00:58,635 --> 00:01:02,275
+PART.1: Creo que las daba después
+de comer, a las 3 o las 4 o así,
+se ponía detrás.
+
+24
+00:01:02,275 --> 00:01:03,275
+PART.2: En monótono.
+
+25
+00:01:03,275 --> 00:01:06,755
+PART.1: A pasar las diapositivas
+con esa voz monótona y...
+
+26
+00:01:07,555 --> 00:01:09,475
+PART.1: Y todos en clase así.
+
+27
+00:01:09,475 --> 00:01:11,075
+PART.2: Sí, sí, totalmente.
+
+28
+00:01:12,035 --> 00:01:13,475
+PART.1: Bueno, y te has quedado aquí.
+
+29
+00:01:13,475 --> 00:01:14,235
+PART.1: O sea, tú viniste...
+
+30
+00:01:14,235 --> 00:01:14,475
+PART.2: Sí.
+
+31
+00:01:14,475 --> 00:01:15,635
+PART.1: Viniste para hacer el máster.
+
+32
+00:01:15,635 --> 00:01:18,955
+PART.2: Vine para hacer el máster, hice
+el máster y luego me quedé haciendo
+el doctorado.
+
+33
+00:01:18,955 --> 00:01:20,755
+PART.2: Estoy haciendo el doctorado
+en UPC.
+
+34
+00:01:21,435 --> 00:01:22,155
+PART.1: ¿En la UPC, con?
+
+35
+00:01:22,155 --> 00:01:24,155
+PART.2: El guiri, con...
+
+36
+00:01:24,675 --> 00:01:25,395
+PART.1: A ver si lo conozco.
+
+37
+00:01:25,395 --> 00:01:27,675
+PART.2: Con Francés Moreno, sí.
+
+38
+00:01:28,915 --> 00:01:31,035
+PART.1: Es que de nombres
+voy muy mal.
+
+39
+00:01:31,395 --> 00:01:31,675
+PART.2: Ya.
+
+40
+00:01:31,675 --> 00:01:33,555
+PART.1: Yo conocía a Cecilio Angulo.
+
+41
+00:01:34,115 --> 00:01:34,555
+PART.1: ¿Sí?
+
+42
+00:01:34,555 --> 00:01:39,035
+PART.1: Que fue el codirector de uno
+de los estudiantes de Sergio Escalera.
+
+43
+00:01:39,035 --> 00:01:43,955
+PART.1: Y luego conozco,
+que a lo mejor ya ha acabado, a Gerard,
+Gerard Canado.
+
+44
+00:01:43,955 --> 00:01:45,035
+PART.2: Claro, acaba de acabar,
+
+45
+00:01:45,035 --> 00:01:45,715
+PART.1: Acaba de acabar.
+
+46
+00:01:45,715 --> 00:01:46,595
+PART.2: Acaba de acabar y...
+
+47
+00:01:46,595 --> 00:01:47,275
+PART.1: ¿Dónde se ha ido?
+
+48
+00:01:47,275 --> 00:01:47,955
+PART.1: ¿Se ha ido?
+
+49
+00:01:47,955 --> 00:01:49,635
+PART.2: Sí, se fue a Londres.
+
+50
+00:01:49,675 --> 00:01:50,035
+PART.1: ¡Ah!
+
+51
+00:01:50,035 --> 00:01:52,635
+PART.2: ¿A hacer un postdoc
+o a trabajar?
+
+52
+00:01:53,115 --> 00:01:53,915
+PART.2: ¿Te suena, sabes?
+
+53
+00:01:53,915 --> 00:01:58,635
+PART.2: Me... me parece que a...
+O sea, me parece a trabajar de post.
+
+54
+00:01:58,635 --> 00:01:59,475
+PART.2: O sea, a hacer postdoc.
+
+55
+00:01:59,475 --> 00:02:01,475
+PART.1: Ya, bueno, yo a eso no lo llamo
+trabajar, lo llamo postdoc.
+
+56
+00:02:01,475 --> 00:02:02,715
+PART.2: Eso no entra.
+
+57
+00:02:02,715 --> 00:02:03,995
+PART.1: Eso es explotación.
+
+58
+00:02:03,995 --> 00:02:04,835
+PART.1: Bueno, ya veremos.
+
+59
+00:02:04,835 --> 00:02:06,075
+PART.1: ¿En qué año estás
+de doctorado?
+
+60
+00:02:06,395 --> 00:02:07,595
+PART.2: Estoy terminando también.
+
+61
+00:02:07,595 --> 00:02:08,155
+PART.1: Ah, vale.
+
+62
+00:02:08,155 --> 00:02:08,755
+PART.2: Sí, ya...
+
+63
+00:02:08,755 --> 00:02:10,475
+PART.1: Así no te explico nada
+nuevo, digamos.
+
+64
+00:02:10,475 --> 00:02:16,915
+PART.1: Los doctorandos,
+no sé para las universidades,
+pero para mí es explotación.
+
+65
+00:02:17,475 --> 00:02:18,435
+PART.1: Te pagan...
+
+66
+00:02:18,435 --> 00:02:22,555
+PART.1: Bueno, a ver, no sé,
+si consigues financiación privada
+a lo mejor, ¿no?
+
+67
+00:02:22,555 --> 00:02:26,555
+PART.1: O te contratan con un contrato,
+pero las becas públicas son una explotación.
+
+68
+00:02:26,555 --> 00:02:29,675
+PART.2: Sí, la beca realmente
+no te hace ser rico.
+
+69
+00:02:29,675 --> 00:02:30,315
+PART.1: No.
+
+70
+00:02:30,835 --> 00:02:33,075
+PART.2: La beca,
+justito para vivir.
+
+71
+00:02:33,075 --> 00:02:35,595
+PART.1: Aquí sí, a lo mejor
+en Venezuela...
+
+72
+00:02:35,595 --> 00:02:37,875
+PART.1: Si te vas con el sueldo
+este a Venezuela, a lo mejor sí.
+
+73
+00:02:37,875 --> 00:02:40,195
+PART.2: no, a lo mejor en el sur
+también, ¿no?
+
+74
+00:02:40,195 --> 00:02:42,515
+PART.2: Es que también aquí,
+con las rentas en Barcelona...
+
+75
+00:02:42,515 --> 00:02:45,355
+PART.1: Está muy... está muy
+descompensado y no sé por qué no le...
+
+76
+00:02:45,715 --> 00:02:48,915
+PART.1: Y no le ponen solución y
+yo no sé si no se la ponen porque no...
+
+77
+00:02:49,475 --> 00:02:58,675
+PART.1: Creo que la excusa, desde
+el Gobierno español o de estos territorios,
+es que si se hiciera, se empezaría...
+
+78
+00:02:58,675 --> 00:03:01,355
+PART.1: Se crearía desigualdad, pero...
+
+79
+00:03:01,355 --> 00:03:12,355
+PART.1: Hombre, claro, pero si
+en Granada una habitación,
+un piso compartido te cuesta 200 euros
+y aquí te cuesta 400 o 500,
+te pagan lo mismo, hombre, muy justo no es.
+
+80
+00:03:12,355 --> 00:03:13,315
+PART.2: Efectivamente.
+
+81
+00:03:13,635 --> 00:03:17,035
+PART.1: El libre mercado, no sé
+qué, pero claro, tú tienes una beca pública.
+
+82
+00:03:17,035 --> 00:03:17,595
+PART.2: Sí.
+
+83
+00:03:17,595 --> 00:03:19,635
+PART.1: Entonces es un poco,
+yo considero un poco una estafa.
+
+84
+00:03:19,635 --> 00:03:20,355
+PART.1: Pero ¿el doctorado bien?
+
+85
+00:03:20,355 --> 00:03:23,555
+PART.1: ¿Has acabado bien,
+con alegría, o como todos?
+
+86
+00:03:23,555 --> 00:03:23,875
+PART.2: Bueno.
+
+87
+00:03:23,875 --> 00:03:24,355
+PART.1: Casi todos.
+
+88
+00:03:24,355 --> 00:03:26,155
+PART.2: Con la misma alegría que
+todos.
+
+89
+00:03:26,155 --> 00:03:26,795
+PART.1: Vale.
+
+90
+00:03:26,795 --> 00:03:30,315
+PART.1: No, es que hay alguno
+que se saca el doctorado y muy contento y...
+
+91
+00:03:30,315 --> 00:03:35,315
+PART.1: Y es un éxito y tal, pero
+como experiencia no suele ser el caso.
+
+92
+00:03:35,315 --> 00:03:41,355
+PART.2: No, o sea, a ver, a mí me gustó
+el doctorado y he aprendido mucho,
+pero también he pasado...
+
+93
+00:03:41,355 --> 00:03:42,995
+PART.2: He sufrido un poquito también.
+
+94
+00:03:42,995 --> 00:03:45,595
+PART.1: Ya, ya, experimentos
+que no salen, ¿no?
+
+95
+00:03:45,595 --> 00:03:50,515
+PART.2: Sí, no, sobre todo,
+en realidad aprendes mil maneras
+de cómo no hacer las cosas.
+
+96
+00:03:50,515 --> 00:03:51,115
+PART.1: Ya.
+
+97
+00:03:51,115 --> 00:03:56,555
+PART.2: Yo ahora estoy en una fase
+de mil maneras de cómo no hacer
+una arquitectura.
+
+98
+00:03:56,555 --> 00:03:58,715
+PART.1: Escribe un libro,
+escribe un libro.
+
+99
+00:03:59,515 --> 00:04:00,555
+PART.1: Escribe un libro.
+
+100
+00:04:00,555 --> 00:04:03,955
+PART.1: Es bastante
+descorazonador a veces lo de...
+
+101
+00:04:03,955 --> 00:04:06,555
+PART.1: Es bastante
+descorazonador.
+
+102
+00:04:06,555 --> 00:04:07,235
+PART.2: Es que es eso.
+
+103
+00:04:07,235 --> 00:04:12,195
+PART.1: Tú pones unos datos ahí,
+piensas, "esto va a prender" y no prende.
+
+104
+00:04:12,195 --> 00:04:20,115
+PART.1: O lo que suele pasar es
+que la "loss" de "training"
+va bajando, la "loss" de "validation"
+no baja y estás perdido.
+
+105
+00:04:20,115 --> 00:04:22,955
+PART.1: El "accuracy" no sube en
+"validation" tampoco y no sabes qué pasa.
+
+106
+00:04:22,955 --> 00:04:24,155
+PART.1: Es un poco así.
+
+107
+00:04:24,155 --> 00:04:29,435
+PART.1: De hecho, no sé si lo has
+notado, que hablando de "learning", en la...
+
+108
+00:04:29,995 --> 00:04:36,155
+PART.1: Porque en el año
+que empezaste tú, ¿tú has notado todo
+este creciente de gente cada vez más
+trabajando en el campo?
+
+109
+00:04:36,155 --> 00:04:36,555
+PART.2: Sí.
+
+110
+00:04:36,555 --> 00:04:37,395
+PART.1: ¿Más y más gente?
+
+111
+00:04:37,395 --> 00:04:44,115
+PART.2: Claro, de hecho, en el año
+que fui yo, estaba solamente "CAI" y...
+
+112
+00:04:44,475 --> 00:04:46,795
+PART.2: Y luego la continuación
+de "CAI", no recuerdo cómo se llama.
+
+113
+00:04:46,795 --> 00:04:48,675
+PART.2: Habían dos asignaturas
+nada más que se hablaba de...
+
+114
+00:04:48,675 --> 00:04:49,115
+PART.1: Sí.
+
+115
+00:04:49,115 --> 00:04:52,875
+PART.2: De "deep learning"
+y no era el centro, era como, bueno,
+una de las cosas.
+
+116
+00:04:52,875 --> 00:04:53,395
+PART.1: Sí.
+
+117
+00:04:53,395 --> 00:04:56,115
+PART.2: Entonces bueno, se cubría
+algoritmos genético y alguna otra cosa.
+
+118
+00:04:55,275 --> 00:04:56,435
+PART.1: Sí, sí.
+
+119
+00:04:56,755 --> 00:04:58,915
+PART.2: Ahora hay una asignatura
+de "deep learning".
+
+120
+00:04:59,355 --> 00:05:04,435
+PART.1: Y una que es de
+"deep learning" y el resto que también
+deben hacer algo de "deep learning",
+¿no?, imagino.
+
+121
+00:05:04,435 --> 00:05:05,355
+PART.2: Me imagino, sí.
+
+122
+00:05:05,355 --> 00:05:05,915
+PART.1: Bueno, menos...
+
+123
+00:05:05,915 --> 00:05:10,795
+PART.1: A ver, es que todo va
+girado hacia "deep learning" y es
+una de...
+
+124
+00:05:10,795 --> 00:05:11,555
+PART.1: Lo que pasa es que...
+
+125
+00:05:11,555 --> 00:05:12,875
+PART.2: Es poderoso el "deep
+learning".
+
+126
+00:05:12,875 --> 00:05:13,835
+PART.2: Yo soy...
+
+127
+00:05:13,835 --> 00:05:18,595
+PART.2: Hago que el "deep learning"
+a mí me gusta mucho y estoy haciendo
+el máster porque me gusta el "deep learning".
+
+128
+00:05:18,595 --> 00:05:21,195
+PART.2: De hecho, yo había hecho
+el curso de "Hinton" antes de hacer
+el máster.
+
+129
+00:05:21,635 --> 00:05:23,715
+PART.2: El curso este de "Hinton"
+en redes integrales.
+
+130
+00:05:24,675 --> 00:05:37,835
+PART.2: Y a mí me mola el "deep
+learning", pero también es cierto que hay una
+sobreexplotación del "Deep learning"
+que lo usan a mansalva contra cualquier cosa
+que se atraviese y...
+
+131
+00:05:38,555 --> 00:05:39,755
+PART.1: Y además esto ha hecho...
+
+132
+00:05:39,755 --> 00:05:41,235
+PART.1: Te lo comentaba por eso.
+
+133
+00:05:41,235 --> 00:05:41,835
+PART.2: Ya.
+
+134
+00:05:41,835 --> 00:05:47,115
+PART.1: Por eso te preguntaba si
+notaba que había habido un creciente
+de gente y te lo comento especialmente,
+precisamente por esto.
+
+135
+00:05:47,115 --> 00:05:54,275
+PART.1: Porque a mí me ha dado
+la sensación que, desde la aparición
+del "deep learning", le es más fácil
+a cualquiera, tenga formación o no,
+meterse en el campo.
+
+136
+00:05:54,955 --> 00:06:07,475
+PART.1: Un chico chino de Shenzhen
+puede coger y decir: "Cojo una red",
+si tiene una GPU, claro, pero "cojo una red,
+la entreno y saco un resultado y lo publico
+en "ARCA" si quiero o lo..."
+
+137
+00:06:07,955 --> 00:06:10,075
+PART.1: Quiero decir, antes,
+cuando yo empecé el doctorado...
+
+138
+00:06:10,635 --> 00:06:18,635
+PART.1: Bueno, antes de empezar
+el doctorado, yo estaba ya haciendo cosas
+y tal, pero el "chief" que tenía estudiantes
+y cada uno tenía su campo de "expertise"
+dentro de la misma visión por computador.
+
+139
+00:06:18,635 --> 00:06:33,395
+PART.1: Un tío hacía "objects",
+"objectation", otro hacía "human" y cada
+uno tenía su set de técnicas y necesitabas
+uno o dos años de leer, un año a lo mejor
+de leer literatura sobre eso para formarte
+y para poder tú empezar a hacer cosas.
+
+140
+00:06:33,395 --> 00:06:37,915
+PART.1: Ahora en cualquier
+momento puedes saltar de un campo a
+otro sin importar...
+
+141
+00:06:37,915 --> 00:06:44,835
+PART.1: No necesitas más
+que el conocimiento del "deep learning",
+lo cual es un poco positivo y el punto
+negativo que te comento de que cualquiera.
+
+142
+00:06:45,595 --> 00:06:52,155
+PART.2: Pero yo creo que es fácil
+obtener resultados, no buenos, pero
+algún resultado.
+
+143
+00:06:52,155 --> 00:06:52,715
+PART.1: Sí.
+
+144
+00:06:52,715 --> 00:07:02,475
+PART.2: Ahora, lo difícil del
+"deep learning", creo yo, es que siempre
+es difícil analizar por qué esos resultados,
+mejorar los resultados, eh...
+
+145
+00:07:02,475 --> 00:07:06,635
+PART.1: Bueno, más datos y más
+GPU's, lo vas a mejorar seguro.
+

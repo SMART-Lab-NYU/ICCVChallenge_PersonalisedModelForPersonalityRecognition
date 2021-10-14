@@ -1,0 +1,137 @@
+﻿1
+00:00:00,472 --> 00:00:01,552
+PART.1: Bueno, ¿qué? Cuéntame.
+
+2
+00:00:01,192 --> 00:00:02,272
+PART.2: ¿Qué tal? Tenemos que hablar.
+
+3
+00:00:02,352 --> 00:00:03,632
+PART.1: ¿Qué haces aquí en Barcelona?
+
+4
+00:00:03,712 --> 00:00:06,792
+PART.2: Desde octubre empecé a estudiar
+un máster...
+
+5
+00:00:06,872 --> 00:00:07,632
+PART.1: ¿De?
+
+6
+00:00:07,912 --> 00:00:10,512
+PART.2: De producción cultural y
+comunicación.
+
+7
+00:00:11,072 --> 00:00:14,512
+PART.2: Y, nada, ahora estoy currando,
+pero ya he terminado el máster que
+ya era hora de que acabara el
+máster.
+
+8
+00:00:14,672 --> 00:00:16,192
+PART.1: Pero ¿estás currando de lo tuyo?
+
+9
+00:00:16,272 --> 00:00:17,272
+PART.2: Sí. Por suerte, sí.
+
+10
+00:00:17,352 --> 00:00:18,192
+PART.1: Joder, qué guapo.
+
+11
+00:00:18,272 --> 00:00:19,072
+PART.1: ¿Y dónde?
+
+12
+00:00:19,152 --> 00:00:20,192
+PART.2: Yo soy de Madrid.
+
+13
+00:00:20,272 --> 00:00:20,832
+PART.1: De Madrid.
+
+14
+00:00:20,912 --> 00:00:21,512
+PART.2: ¿Y tú de dónde eres?
+
+15
+00:00:21,592 --> 00:00:22,672
+PART.1: De Castellón.
+
+16
+00:00:22,952 --> 00:00:26,032
+PART.1: De aquí al lado, pero estaba
+hasta los huevos ya.
+
+17
+00:00:26,912 --> 00:00:28,352
+PART.2: Dijiste: Castellón no más.
+
+18
+00:00:28,432 --> 00:00:31,792
+PART.1: Sí. Aquello es una puta burbuja,
+tío.
+
+19
+00:00:32,912 --> 00:00:34,592
+PART.1: Y nada, aquí estoy...
+
+20
+00:00:33,952 --> 00:00:35,232
+PART.2: ¿Y qué haces aquí tú entonces?
+
+21
+00:00:35,392 --> 00:00:37,672
+PART.1: Yo me he venido un poco para
+escapar de allí.
+
+22
+00:00:38,232 --> 00:00:38,912
+PART.2: Y ya.
+
+23
+00:00:39,432 --> 00:00:41,232
+PART.2: O sea, ha sido huir totalmente,
+¿no?
+
+24
+00:00:39,912 --> 00:00:40,432
+PART.1: Sí.
+
+25
+00:00:41,072 --> 00:00:43,432
+PART.1: Sí, porque allí tenía la vida más
+o menos solucionada.
+
+26
+00:00:43,512 --> 00:00:46,192
+PART.1: Tenía un buen curro, tenía mi
+piso, tenía todo, pero...
+
+27
+00:00:46,272 --> 00:00:48,712
+PART.2: Ya, pero a veces
+no es lo que te...
+
+28
+00:00:47,752 --> 00:00:49,672
+PART.1: No. No compensa, no compensa.
+
+29
+00:00:50,432 --> 00:00:52,192
+PART.1: Al final, cuando no tienes...
+
+30
+00:00:52,952 --> 00:01:06,432
+PART.1: Cuándo ves que quieres avanzar y
+el sitio donde estás no te lo
+permite, bien sea por bloqueos que
+tienes tú, bien sea por bloqueos que
+te ponen los demás, por bloqueos
+mismos que tiene la ciudad porque es pequeña y
+

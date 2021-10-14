@@ -1,0 +1,244 @@
+﻿1
+00:00:00,000 --> 00:00:02,368
+PART.2: Bueno, yo me llamo Pau, encantado
+
+2
+00:00:02,403 --> 00:00:02,885
+PART.1: Aberto.
+
+3
+00:00:02,986 --> 00:00:03,986
+PART.2: ¡Aberto!
+
+4
+00:00:04,187 --> 00:00:22,113
+PART.2: Eh, bueno. Yo en este caso, estoy aquí, bueno, por Javi, que es el compañero de piso y bueno, hace 2 semanas me mudé al piso con, bueno, ellos son dos 2 y yo me mudé allí y bueno, la verdad es que super bien, o sea que...
+
+5
+00:00:22,592 --> 00:00:28,289
+PART.1: Que empiezas ahora algún curso o es porque te pilla más cerca de la.
+
+6
+00:00:26,599 --> 00:00:42,614
+PART.2: No, bueno no, me coge más cerca el trabajo, o sea yo soy autónomo y bueno, monté un restaurante en el barrio de Gracia y bueno pues eh, llevo ya, llevamos como unos 6 meses y claro eh, vivía en casa mis padres.
+
+7
+00:00:43,222 --> 00:00:59,190
+PART.2: O sea, obviamente si montas algo eh, tuve que volver a casa de mis padres, que haya arrancado todo y bueno, mis padres viven lejos, viven a las afueras y claro cada día tenía que volver en Busnit, era como una hora de transporte y bueno me empezó a quemar.
+
+8
+00:00:58,425 --> 00:00:59,491
+PART.1: Ya...
+
+9
+00:00:59,692 --> 00:01:13,099
+PART.2: Me empezó a quemar, a quemar, a quemar, hasta que llegó un punto que ya me... o sea, puedes estar trabajando pues, 15 horas al día y luego 1 hora de transporte para volver a casa, que al día siguiente otra hora de transporte para ir, y otra para volver.
+
+10
+00:01:14,172 --> 00:01:16,420
+PART.2: Y bueno, me empezó a quemar mucho y...
+
+11
+00:01:17,012 --> 00:01:20,406
+PART.1: A mí esto es lo que más me cansa, el tema del transporte, sí.
+
+12
+00:01:20,540 --> 00:01:25,390
+PART.2: Entonces pues bueno, ahora estoy como a 7 minutos caminando de mi trabajo
+
+13
+00:01:25,515 --> 00:01:25,833
+PART.1: ¡Genial!
+
+14
+00:01:26,168 --> 00:01:49,191
+PART.2: Y "bueno", o sea llevo dos semanas que estoy como una nube, y bueno, pues la verdad que, pues bueno, a nivel de trabajo ahora me estoy preparando para lo que me viene, que bueno, en unas 2 o 3 semanas son fiestas de Gracia, y bueno, el volumen de trabajo, pues, se ve incrementado exponencialmente.
+
+15
+00:01:49,339 --> 00:01:57,648
+PART.2: Entonces, pues claro, eh... como no hemos tenido nunca un primer año, eh… pues aquí está...
+
+16
+00:01:57,683 --> 00:02:00,020
+PART.1: ¡Ah! No sabéis el tema de que previsión vais a tener
+
+17
+00:01:59,400 --> 00:01:59,510
+PART.2: ¡Claro!
+
+18
+00:02:00,191 --> 00:02:15,369
+PART.2: ¡Claro! No sabes nada, no es que sepas la previsión, no sabes nada porque me refiero, tú haces tu oferta de... en este caso, somos un restaurante y tenemos un tipo de oferta, pero el target que te va a venir en fiestas de Gracia, no es el target que va a mi restaurante.
+
+19
+00:02:16,607 --> 00:02:18,782
+PART.1: ¡Mmmm, vale! ¿Qué target tienes en tu restaurante?
+
+20
+00:02:18,817 --> 00:02:38,809
+PART.2: Vale, mi restaurante es de, en este caso, el precio por comensal es de 25/30€, 20/30€ vale, obviamente si te pides lo más caro, te vas a ir a 35 pero bueno, o sea normalmente es 20 o 30€, entonces, el target de fiestas de Gracia que va es a cerveza de euro y medio, emborracharme, y salir de fiesta.
+
+21
+00:02:39,127 --> 00:02:44,616
+PART.2: Y bueno, es otro tipo de target, este target pues no se va a ir a un restaurante a dejarse 30€
+
+22
+00:02:44,651 --> 00:02:47,367
+PART.1: Pero todo se llena al final, no...
+
+23
+00:02:47,422 --> 00:03:08,958
+PART.2: Claro, pero entonces, entonces aquí estuvimos validando de qué hacer si cambiamos nuestra oferta, si adaptábamos nuestra oferta fiestas de Gracia, entonces pues bueno, al final hemos decidido que haremos nuestra oferta, únicamente ampliaremos franjas horarias, y bueno, y entonces pues bueno, preparándolo todo, preparando los contratos que van, pues claro, vamos a tener que contratar personas extras
+
+24
+00:03:09,902 --> 00:03:16,095
+PART.1: Oye, pues luego si cuando acabemos me dices donde es y... y quien sabe, a lo mejor me paso un día.
+
+25
+00:03:14,396 --> 00:03:15,396
+PART.2: Ah, sí sí.
+
+26
+00:03:16,195 --> 00:03:17,367
+PART.2: Ah, no no. ¡Genial!
+
+27
+00:03:17,468 --> 00:03:19,168
+PART.2: Y bueno, entonces, ¡eh!
+
+28
+00:03:18,969 --> 00:03:34,798
+PART.2: Pues ahora tengo, pues eso, ¡hoy es un día de fiesta el lunes es el día que tenemos fiesta, y bueno eh!, Javi en este caso pues me comentó: Oye Pau, y no sé qué, y yo perfecto, y dije... puedo los lunes, y bueno, y aquí estoy. Entonces, pues bueno...
+
+29
+00:03:34,878 --> 00:03:42,029
+PART.2: ¿Es la segunda vez que grabas, o es la primera? Porque me dijeron que intentaban grabar con una persona con la que ya te conocieses. y con una con la que no te conocieses.
+
+30
+00:03:42,116 --> 00:03:58,811
+PART.2: No, yo es la primera vez que vengo, o sea yo, o sea no tengo tiempo, o sea es la primera vez que vengo y bueno en este caso pues eso, habrá a nivel interno estamos como preparando esa, las fiestas y tenemos como mucho trabajo, porque claro...
+
+31
+00:03:59,003 --> 00:04:03,020
+PART.1: Claro, sí. Yo, es casualidad, pero también estoy montando mi primera empresa con 3 amigos
+
+32
+00:04:03,212 --> 00:04:03,981
+PART.2: Pues eso, vale
+
+33
+00:04:05,050 --> 00:04:07,857
+PART.2: Pues eso vale, pues mira, nosotros somos 2 socios, osea yo y 2 socios más, somos 3 en total.
+
+34
+00:04:09,265 --> 00:04:25,905
+PART.2: Y al principio sí que es verdad que puedes avanzar mucho, pero una vez la has montado, luego es trabajo, trabajo, trabajo y claro cuando, cuando tienes mucho trabajo dices, vale bien, pero vale... somos humanos.
+
+35
+00:04:26,269 --> 00:04:26,741
+PART.1: ¡Ya!
+
+36
+00:04:27,009 --> 00:04:38,736
+PART.2: Vale, entonces, cuando lleves, yo cuat... no, 8 semanas haciendo 80 horas a la semana, el cuerpo te empieza a dar señales de que tienes un límite.
+
+37
+00:04:41,073 --> 00:05:03,817
+PART.2: Entonces, pues bueno, eh... esta semana pasada creo que ha sido la semana que más, yo creo que he llegado a las 90 horas, o sea..., he acabado destruido, pero destruido y bueno, a ver estoy contento, sinceramente, estoy en una etapa de mi vida que me está encantando, sinceramente, eh, pero bueno, implica mucho trabajo.
+
+38
+00:05:04,221 --> 00:05:20,071
+PART.1: Bueno, pero probablemente, al menos así lo planteamos nosotros, es cuando pases esta fase inicial, te podrás dedicar más a lo que nosotros llamamos el bisnes, que es tomar las decisiones estratégicas y tal que no al levantar el negocio, como nos ocurre a nosotros ahora, también.
+
+39
+00:05:14,572 --> 00:05:15,572
+PART.2: Claro.
+
+40
+00:05:18,906 --> 00:05:19,631
+PART.2: Claro.
+
+41
+00:05:19,632 --> 00:05:35,985
+PART.2: Claro, o sea obviamente, yo me apunté para la gestión a nivel, o sea gestión de hostelería, vale, no para estar limpiando baños, obviamente, a ver, y... bueno, que obviamente si hay que hacerlo, se hace, y... cada día lo estamos haciendo. Pero...
+
+42
+00:05:36,210 --> 00:05:50,789
+PART.1: De hecho, lo que hace nuestra empresa, es que pone neveras con comida saludable, hecha por, es una de las ramas de la empresa, de... con comidas saludables hechas por restaurantes y quien sabe si, bueno, que casualidades de la vida que nos hemos conocido aquí, pero...
+
+43
+00:05:46,824 --> 00:05:47,708
+PART.2: Vale
+
+44
+00:05:50,742 --> 00:05:52,034
+PART.2: Está claro
+
+45
+00:05:52,135 --> 00:05:55,362
+PART.1: ¿Te gustaría en un futuro, ser proveedor de comidas de nuestras neveras?
+
+46
+00:05:55,601 --> 00:05:57,376
+PART.2: Yo, no tengo ningún tipo de problema.
+
+47
+00:05:58,490 --> 00:06:17,650
+PART.2: No tengo ningún tipo de problema. "En alto" es hablarlo. Y bueno la verdad es que estamos contentos, sinceramente la progresión, o sea mis socios están más contentos que yo, yo en este caso soy un poco más reacio, porque creo que el verano influye mucho, o sea...
+
+48
+00:06:17,841 --> 00:06:19,261
+PART.1: Vale, ¿habéis empezado ahora y...?
+
+49
+00:06:19,237 --> 00:06:19,777
+PART.2: No
+
+50
+00:06:19,837 --> 00:06:20,445
+PART.1: ¿A no?
+
+51
+00:06:20,458 --> 00:06:22,008
+PART.2: Empezamos en febrero.
+
+52
+00:06:21,421 --> 00:06:27,029
+PART.2: Entonces en febrero era como el mes más malo de la hostelería
+
+53
+00:06:28,064 --> 00:06:29,542
+PART.1: Si, ¿no? Porque después de Navidad...
+
+54
+00:06:29,991 --> 00:06:31,899
+PART.2: Febrero y marzo son los 3 meses...
+
+55
+00:06:30,068 --> 00:06:33,226
+PART.1: Si, son como... tiene
+
+56
+00:06:33,548 --> 00:06:42,061
+PART.2: Entonces eh, pues obviamente fue flojo, eh... y bueno, a partir de ahí, empezamos a, tuvimos un crecimiento, vale, eh...
+
+57
+00:06:42,222 --> 00:06:54,862
+PART.2: Ese crecimiento con cada mes se ha ido incrementando y bueno, y a dos días de cierre de julio estamos muy bien, sinceramente, sabes o sea...
+
+58
+00:06:55,037 --> 00:07:19,590
+PART.2: Estamos muy contentos, o sea ayer hicimos un análisis, cada semana hacemos un análisis de eh, nos juntamos los 3 socios, y en plan, bueno, ¿que hemos hecho mal esta semana? ¿que hemos hecho bien? eh, ¿cómo vamos a solucionar los problemas que hemos tenido?, un pequeño, si, feedback, eh. luego pues bueno, tema de números...
+
+59
+00:07:19,848 --> 00:07:32,408
+PART.2: Y bueno, pues eh... ayer, pues bueno, o sea fue positivo, ah, entonces estoy relajado, sabes, estoy cansado pero bueno, o sea, estoy contento.
+
+60
+00:07:33,328 --> 00:07:36,828
+PART.1: Positivo.
+
+61
+00:07:33,729 --> 00:07:36,429
+PART.2: Sí sí, exacto, positivo.
+

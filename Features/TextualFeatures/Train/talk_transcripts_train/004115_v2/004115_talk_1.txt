@@ -1,0 +1,77 @@
+31
+00:01:00,631 --> 00:01:02,591
+PART.2: ¿Y qué estás investigando?
+
+32
+00:01:02,871 --> 00:01:08,231
+PART.1: Este último año estaba en el
+instituto de robótica de la UPC, o
+sea, que hacía cosas parecidas a lo
+que hacéis vosotros.
+
+33
+00:01:10,671 --> 00:01:16,391
+PART.1: Pero antes yo lo que hacía era
+más de topología algebraica, que es
+una especie de geometría y tal, que
+aquí hace mucha gente.
+
+34
+00:01:15,271 --> 00:01:15,911
+PART.2: ¿En serio?
+
+35
+00:01:17,071 --> 00:01:21,111
+PART.1: Me metí un poco a mezclar
+topología algebraica con análisis de
+datos y...
+
+36
+00:01:21,591 --> 00:01:26,111
+PART.2: ¿Sabes que acabo de publicar
+exactamente sobre esto?
+
+37
+00:01:26,191 --> 00:01:26,631
+PART.1: ¿Ah, sí?
+
+38
+00:01:27,671 --> 00:01:28,671
+PART.1: ¿Sobre qué?
+
+39
+00:01:29,151 --> 00:01:33,551
+PART.2: Sobre... bueno, usamos
+"Persistent homology", ¿no?
+
+40
+00:01:34,471 --> 00:01:43,111
+PART.2: Para calcular los "Betti numbers"
+en unas redes que se están
+entrenando.
+
+41
+00:01:43,791 --> 00:01:52,991
+PART.2: Y lo estamos comparando con lo
+que está pasando con las cavidades
+en las redes que están aprendiendo
+versus las redes que están
+memorizando.
+
+42
+00:01:53,871 --> 00:01:55,711
+PART.1: Pero ¿el cálculo de qué es?
+
+43
+00:01:55,791 --> 00:01:58,551
+PART.1: Del grafo que sale...
+
+44
+00:01:57,511 --> 00:01:58,351
+PART.2: De un grafo...
+
+45
+00:01:59,711 --> 00:02:01,351
+PART.2: Un grafo funcional
+de la red.
+

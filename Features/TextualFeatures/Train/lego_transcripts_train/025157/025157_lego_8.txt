@@ -1,0 +1,106 @@
+236
+00:08:01,453 --> 00:08:02,333
+PART.1: ¿Ese es uno?
+
+237
+00:08:02,413 --> 00:08:03,693
+PART.2: Tiene que ser amarillo.
+
+238
+00:08:03,773 --> 00:08:04,773
+PART.1: Búscalo ahí.
+
+239
+00:08:06,373 --> 00:08:07,293
+PART.2: No hay.
+
+240
+00:08:09,533 --> 00:08:12,973
+PART.1: Hay en negro, ¿no hay amarillo?
+
+241
+00:08:13,053 --> 00:08:13,773
+PART.2: No.
+
+242
+00:08:13,853 --> 00:08:16,773
+PART.1: Hay naranja, mostaza...
+
+243
+00:08:20,573 --> 00:08:22,133
+PART.1: ¿No me digas que ya está?
+
+244
+00:08:22,973 --> 00:08:24,693
+PART.2: Vamos más para atrás. Aquí.
+
+245
+00:08:24,773 --> 00:08:27,253
+PART.1: Ah, seis, siete, ocho. Arriba.
+
+246
+00:08:27,333 --> 00:08:28,333
+PART.2: Esto.
+
+247
+00:08:29,813 --> 00:08:30,973
+PART.1: Vi uno...
+
+248
+00:08:31,853 --> 00:08:35,133
+PART.1: El que vi fue
+este transparente.
+
+249
+00:08:35,213 --> 00:08:37,453
+PART.1: Transparente que
+es igual a este.
+
+250
+00:08:38,093 --> 00:08:38,973
+PART.2: Aquí está.
+
+251
+00:08:42,493 --> 00:08:43,373
+PART.2: ¿Y después?
+
+252
+00:08:44,093 --> 00:08:46,293
+PART.2: Dos de estos y dos de estos.
+
+253
+00:08:46,373 --> 00:08:47,693
+PART.1: Dos de estos... ¿Y las rueditas?
+
+254
+00:08:47,773 --> 00:08:49,253
+PART.2: Espera que no veo.
+
+255
+00:08:49,453 --> 00:08:50,173
+PART.1: Toma.
+
+256
+00:08:50,253 --> 00:08:51,333
+PART.2: ¿Cómo es esto?
+
+257
+00:08:51,413 --> 00:08:52,413
+PART.1: Este.
+
+258
+00:08:53,213 --> 00:08:54,493
+PART.1: Búscate otro de este.
+
+259
+00:08:54,573 --> 00:08:55,373
+PART.2: Y otro más. Aquí está.
+
+260
+00:08:55,453 --> 00:08:56,773
+PART.2: ¿Y dónde están las rueditas?
+
+261
+00:08:57,733 --> 00:08:58,973
+PART.1: Móntalo ahí abajo.
+

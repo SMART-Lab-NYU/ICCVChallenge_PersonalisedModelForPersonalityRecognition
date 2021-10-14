@@ -1,0 +1,121 @@
+35
+00:01:00,526 --> 00:01:01,166
+PART.2: ¿Este?
+
+36
+00:01:01,446 --> 00:01:02,846
+PART.1: Correcto, sí, sí, eso es.
+
+37
+00:01:03,166 --> 00:01:04,206
+PART.1: Vale, epa.
+
+38
+00:01:06,606 --> 00:01:08,646
+PART.1: Y las dos claritas que acabas de encontrar...
+
+39
+00:01:09,286 --> 00:01:10,086
+PART.1: Vale, perfecto...
+
+40
+00:01:12,966 --> 00:01:15,046
+PART.1: Uy, vaya, qué despistado que estoy.
+
+41
+00:01:15,286 --> 00:01:18,566
+PART.1: Vale, ahora, una de las blancas de nuevo...
+esta de aquí.
+
+42
+00:01:20,646 --> 00:01:21,126
+PART.1: A ver...
+
+43
+00:01:20,806 --> 00:01:22,406
+PART.2: Un cuadradito rojo...
+
+44
+00:01:22,966 --> 00:01:24,446
+PART.1: Un cuadradito rojo doble...
+
+45
+00:01:25,006 --> 00:01:25,846
+PART.1: Esto no es...
+
+46
+00:01:25,926 --> 00:01:26,806
+PART.2: Esto tampoco.
+
+47
+00:01:28,766 --> 00:01:29,766
+PART.1: Es este de aquí.
+
+48
+00:01:30,686 --> 00:01:31,966
+PART.2: Y ese...
+
+49
+00:01:31,646 --> 00:01:32,646
+PART.1: Y los tejados.
+
+50
+00:01:33,766 --> 00:01:35,766
+PART.1: Que los tejados tienen que estar...
+
+51
+00:01:35,846 --> 00:01:36,886
+PART.1: Uno es este de aquí...
+
+52
+00:01:41,286 --> 00:01:42,326
+PART.1: Y el otro...
+
+53
+00:01:44,166 --> 00:01:45,046
+PART.2: Aquí está.
+
+54
+00:01:45,126 --> 00:01:45,686
+PART.1: Perfecto.
+
+55
+00:01:48,286 --> 00:01:48,966
+PART.1: Y ya está.
+
+56
+00:01:49,246 --> 00:01:50,046
+PART.2: ¿Ya?
+
+57
+00:01:50,566 --> 00:01:51,366
+PART.1: Pues sencillo.
+
+58
+00:01:51,606 --> 00:01:52,886
+PART.2: ¿Y no tiene nada arriba?
+
+59
+00:01:52,966 --> 00:01:53,806
+PART.2: No, está perfecto.
+
+60
+00:01:53,286 --> 00:01:53,646
+PART.1: Sí.
+
+61
+00:01:54,606 --> 00:01:54,966
+PART.2: Listo.
+
+62
+00:01:54,766 --> 00:01:55,606
+PART.1: Bueno, por fin.
+
+63
+00:01:56,686 --> 00:01:58,806
+PART.2: Como dice mi hijo: somos unos pro.
+
+64
+00:01:59,166 --> 00:02:01,766
+PART.1: Sí, sí, desde luego, ¿eh?, o sea...
+

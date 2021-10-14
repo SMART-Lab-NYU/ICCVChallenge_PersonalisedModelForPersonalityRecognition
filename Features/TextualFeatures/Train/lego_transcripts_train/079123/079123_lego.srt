@@ -1,0 +1,344 @@
+﻿1
+00:00:03,107 --> 00:00:05,107
+PART.1: Però hi ha normes aquí, hi han instruccions o...?
+
+2
+00:00:05,207 --> 00:00:06,107
+PART.2: Sí.
+
+3
+00:00:06,107 --> 00:00:07,107
+PART.1: Vale.
+
+4
+00:00:08,307 --> 00:00:09,107
+PART.2: El cotxe?
+
+5
+00:00:09,807 --> 00:00:11,107
+PART.1: I hem de seguir els passos.
+
+6
+00:00:11,107 --> 00:00:12,107
+PART.1: Aquests, suposo.
+
+7
+00:00:12,107 --> 00:00:13,107
+PART.2: Vale.
+
+8
+00:00:15,107 --> 00:00:16,107
+PART.1: Venga.
+
+9
+00:00:18,107 --> 00:00:19,107
+PART.1: Estes són aquestes?
+
+10
+00:00:19,907 --> 00:00:20,107
+PART.1: Sí, no?
+
+11
+00:00:21,007 --> 00:00:22,107
+PART.2: Sí. Una...
+
+12
+00:00:22,007 --> 00:00:23,107
+PART.1: Aquí una i aquí...
+
+13
+00:00:23,207 --> 00:00:24,107
+PART.2: En falta una altra.
+
+14
+00:00:24,007 --> 00:00:25,107
+PART.1: Aquí.
+
+15
+00:00:27,107 --> 00:00:29,107
+PART.2: Una rosa...
+
+16
+00:00:33,107 --> 00:00:34,107
+PART.1: No sé si està tapant el micro o què.
+
+17
+00:00:36,107 --> 00:00:37,107
+PART.2: Ho veus?
+
+18
+00:00:37,607 --> 00:00:38,107
+PART.1: Sí.
+
+19
+00:00:38,107 --> 00:00:39,107
+PART.2: Vale.
+
+20
+00:00:39,507 --> 00:00:41,107
+PART.1: Vale.
+
+21
+00:00:40,507 --> 00:00:42,107
+PART.2: Vale, aquest és aquest...
+
+22
+00:00:47,107 --> 00:00:49,107
+PART.1: La peça de vidre, això...
+
+23
+00:00:49,107 --> 00:00:51,107
+PART.1: I això, no?
+
+24
+00:00:50,207 --> 00:00:52,107
+PART.2: Hmm.
+
+25
+00:00:53,607 --> 00:00:54,607
+PART.2: I un d'aquests.
+
+26
+00:00:54,607 --> 00:00:55,607
+PART.1: Això.
+
+27
+00:00:57,607 --> 00:00:59,607
+PART.1: Vale, i ara hi ha el taponet aquest...
+
+28
+00:01:01,607 --> 00:01:02,607
+PART.1: Són aquestes coses?
+
+29
+00:01:01,607 --> 00:01:02,607
+PART.2: Hmm.
+
+30
+00:01:09,607 --> 00:01:10,607
+PART.1: I... rodes.
+
+31
+00:01:09,607 --> 00:01:10,607
+PART.2: Les rodes.
+
+32
+00:01:11,607 --> 00:01:12,607
+PART.1: Però no tenen...
+
+33
+00:01:14,607 --> 00:01:15,607
+PART.1: Eh?
+
+34
+00:01:16,407 --> 00:01:17,407
+PART.2: Sí, aquí.
+
+35
+00:01:18,407 --> 00:01:20,407
+PART.1: Però han de tenir algo a dintre perquè hi càpiga.
+
+36
+00:01:20,407 --> 00:01:21,407
+PART.1: Cap bé?
+
+37
+00:01:21,407 --> 00:01:22,407
+PART.1: No, no.
+
+38
+00:01:26,407 --> 00:01:27,407
+PART.2: Això.
+
+39
+00:01:29,407 --> 00:01:31,407
+PART.1: Ah, vale, ja ho...
+
+40
+00:01:33,407 --> 00:01:34,407
+PART.1: Ok.
+
+41
+00:01:51,407 --> 00:01:52,407
+PART.1: Un altre...
+
+42
+00:01:55,407 --> 00:01:57,407
+PART.1: Ens falta una peça que és d'aquelles.
+
+43
+00:02:02,407 --> 00:02:03,407
+PART.1: Aquí.
+
+44
+00:02:06,407 --> 00:02:07,407
+PART.1: Venga.
+
+45
+00:02:07,407 --> 00:02:08,407
+PART.2: Molt bé.
+
+46
+00:02:10,407 --> 00:02:11,407
+PART.1: Ja està?
+
+47
+00:02:11,407 --> 00:02:12,407
+PART.2: Ja està!
+
+48
+00:02:15,407 --> 00:02:16,407
+PART.2: Ja està.
+
+49
+00:02:16,407 --> 00:02:17,407
+PART.1: Molt bé, roda?
+
+50
+00:02:17,407 --> 00:02:18,407
+PART.1: Molt bé, roda i tot.
+
+51
+00:02:19,407 --> 00:02:23,407
+PART.1: La gent que fa els Legos, els grans, és enginyeria allò, eh?
+
+52
+00:02:24,407 --> 00:02:26,407
+PART.2: Sí, hi ha un museu, no sé si a Dinamarca, del Lego.
+
+53
+00:02:26,407 --> 00:02:27,407
+PART.1: Sí?
+
+54
+00:02:28,407 --> 00:02:35,407
+PART.1: A mi la gent que dissenya els trossos aquells grossos... joder, s'ho curren molt.
+
+55
+00:02:40,407 --> 00:02:42,407
+PART.1: Ens estan deixant a propòsit?
+
+56
+00:02:42,407 --> 00:02:43,407
+PART.2: No, sempre deixen marge...
+
+57
+00:02:45,407 --> 00:02:47,407
+PART.1: Molt bé.
+
+58
+00:02:51,407 --> 00:02:53,407
+PART.2: No, no...
+
+59
+00:03:16,407 --> 00:03:18,407
+PART.1: Hay un tren.
+
+60
+00:03:28,407 --> 00:03:29,407
+PART.1: Bueno.
+
+61
+00:04:12,407 --> 00:04:14,407
+PART.2: Més o menys que fas a...?
+
+62
+00:04:14,407 --> 00:04:15,407
+PART.2: Dius de piano?
+
+63
+00:04:15,407 --> 00:04:16,407
+PART.2: Què fas?
+
+64
+00:04:17,407 --> 00:04:18,407
+PART.1: Jo faig...
+
+65
+00:04:18,407 --> 00:04:19,407
+PART.2: Obres musicals?
+
+66
+00:04:19,407 --> 00:04:22,407
+PART.1: Sí, exacte, és per teatre musical.
+
+67
+00:04:22,407 --> 00:04:29,407
+PART.1: A veure, piano és apart, eh?, però el que jo he estudiat a Memory és teatre musical.
+
+68
+00:04:29,407 --> 00:04:33,407
+PART.1: O sigui, saber cantar, ballar i actuar, com actor...
+
+69
+00:04:34,407 --> 00:04:39,407
+PART.1: O sigui, tant cantar com ballar dintre de la interpretació.
+
+70
+00:04:39,407 --> 00:04:43,407
+PART.1: I a partir d'aquí tota la resta.
+
+71
+00:04:43,407 --> 00:04:47,407
+PART.1: Òbviament has de saber cantar i ballar, però tot des de la interpretació.
+
+72
+00:04:47,407 --> 00:04:49,407
+PART.2: I quin tipus de ball t'ensenyen?
+
+73
+00:04:49,407 --> 00:04:55,407
+PART.1: Ensenyen, que jo més he fet: claqué, però perquè m'agrada molt i l'he donat moltes hores.
+
+74
+00:04:56,407 --> 00:05:01,407
+PART.1: Però ensenyen claqué, jazz, contemporani i clàssic.
+
+75
+00:05:01,407 --> 00:05:07,407
+PART.2: Coneixes a un tal, un professor de claqué d'aquí de Barcelona, que és bastant bo i es diu Iván Bouchain?
+
+76
+00:05:07,407 --> 00:05:08,407
+PART.1: Sí, Iván Bouchain!
+
+77
+00:05:08,407 --> 00:05:09,407
+PART.1: I tant!
+
+78
+00:05:08,407 --> 00:05:11,407
+PART.2: És el meu profe de claqué.
+
+79
+00:05:12,407 --> 00:05:13,407
+PART.1: Tu fas claqué?
+
+80
+00:05:13,407 --> 00:05:14,407
+PART.2: Sí.
+
+81
+00:05:14,407 --> 00:05:15,407
+PART.1: ¡No jodas!
+
+82
+00:05:14,407 --> 00:05:16,407
+PART.2: A Swing Maniacs.
+
+83
+00:05:16,407 --> 00:05:17,407
+PART.2: A Swing Maniacs?
+
+84
+00:05:16,407 --> 00:05:17,407
+PART.2: Sí.
+
+85
+00:05:17,407 --> 00:05:18,407
+PART.1: Clar, clar.
+
+86
+00:05:18,407 --> 00:05:21,407
+PART.1: I tant, he anat un munt de cops a Swing Maniacs.
+

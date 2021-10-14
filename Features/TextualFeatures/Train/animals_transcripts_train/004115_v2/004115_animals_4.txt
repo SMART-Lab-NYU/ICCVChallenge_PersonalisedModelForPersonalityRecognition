@@ -1,0 +1,53 @@
+74
+00:04:01,360 --> 00:04:04,400
+PART.1: Depende del tipo de cálculo que
+quiera hacer.
+
+75
+00:04:05,640 --> 00:04:11,640
+PART.1: ¿Vosotros lo que
+calculáis es la analogía usando una
+filtración particular que vosotros
+definís?
+
+76
+00:04:11,720 --> 00:04:13,160
+PART.2: ¿"Vector Ribs"?
+
+77
+00:04:15,520 --> 00:04:19,080
+PART.1: Pues el "Ribs" es de los que
+mejor va.
+
+78
+00:04:19,160 --> 00:04:20,840
+PART.1: Que está en C o C++.
+
+79
+00:04:25,000 --> 00:04:39,120
+PART.1: Pero si lo que estáis calculando
+que algo que geométricamente tiene
+sentido en 3D o 2D y no tiene
+sentido más allá, quizá hacer "alfa
+complex" tiene más sentido.
+
+80
+00:04:39,480 --> 00:04:44,480
+PART.1: Porque todo se reduce y el
+cálculo es más rápido y todo te lo
+hace en medio segundo.
+
+81
+00:04:45,800 --> 00:04:51,440
+PART.1: INCOMPRENSIBLE.
+
+82
+00:04:55,160 --> 00:04:55,720
+PART.2: Claro.
+
+83
+00:04:55,800 --> 00:05:07,040
+PART.2: En las redes estas la
+topología que se realiza con una
+red, es una topología supercompleja.
+

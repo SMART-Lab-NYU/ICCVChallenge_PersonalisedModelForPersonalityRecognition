@@ -1,0 +1,12 @@
+81
+00:04:21,421 --> 00:04:25,261
+PART.2: A ver cuánto se piensa ahora que vamos a tardar.
+
+82
+00:04:26,301 --> 00:04:28,581
+PART.1: Sí, podríamos haber traído el café y el té.
+
+83
+00:04:28,781 --> 00:04:30,381
+PART.2: Sí, sí.
+

@@ -1,0 +1,87 @@
+49
+00:02:00,817 --> 00:02:01,777
+PART.2: ¿Qué?
+
+50
+00:02:01,857 --> 00:02:03,217
+PART.1: Vamos a estar dos horas por aquí.
+
+51
+00:02:03,577 --> 00:02:06,017
+PART.2: Ah, bueno, nos vamos a otro lado.
+
+52
+00:02:06,177 --> 00:02:07,417
+PART.1: ¿Tienes tiques?
+
+53
+00:02:07,617 --> 00:02:08,617
+PART.2: Sí.
+
+54
+00:02:08,697 --> 00:02:09,577
+PART.1: ¿Cuántos?
+
+55
+00:02:09,657 --> 00:02:10,657
+PART.2: Cuatro.
+
+56
+00:02:10,737 --> 00:02:11,897
+PART.1: ¡Cuatro!
+
+57
+00:02:14,417 --> 00:02:15,897
+PART.1: Tengo que ir al Splau.
+
+58
+00:02:16,977 --> 00:02:18,097
+PART.2: ¿Al Splau?
+
+59
+00:02:18,497 --> 00:02:20,617
+PART.1: Tengo que ir a buscar lo que te
+dije.
+
+60
+00:02:20,697 --> 00:02:25,697
+PART.2: Bueno, vamos ahorita al Splau y
+volvemos a las cuatro.
+
+61
+00:02:28,417 --> 00:02:30,377
+PART.2: De aquí hay como media hora.
+
+62
+00:02:31,297 --> 00:02:39,417
+PART.1: Nos vamos a Plaza España en bus
+y, después del bus, tomamos el
+ferrocarril hasta el Splau.
+
+63
+00:02:41,497 --> 00:02:43,017
+PART.2: Al Splau...
+
+64
+00:02:43,097 --> 00:02:45,057
+PART.1: Dejaste el teléfono abajo.
+
+65
+00:02:45,137 --> 00:02:47,257
+PART.1: Yo estaba agarrado
+al teléfono...
+
+66
+00:02:47,337 --> 00:02:48,337
+PART.2: No vale.
+
+67
+00:02:55,817 --> 00:02:57,497
+PART.1: Y estas grabaciones, ¿para quién
+es?
+
+68
+00:02:58,657 --> 00:03:03,217
+PART.2: Para la investigación que están
+haciendo.
+

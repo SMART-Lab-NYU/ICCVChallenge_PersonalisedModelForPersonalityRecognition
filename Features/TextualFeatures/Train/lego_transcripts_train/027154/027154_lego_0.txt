@@ -1,0 +1,85 @@
+1
+00:00:00,000 --> 00:00:00,384
+SUPERVISOR: Estará el último.
+
+2
+00:00:00,464 --> 00:00:01,464
+PART.2: Este. ¿Así?
+
+3
+00:00:01,544 --> 00:00:04,304
+PART.1: Dice que las instrucciones están
+en el último.
+
+4
+00:00:07,984 --> 00:00:09,184
+PART.2: ¿Es como una cocina?
+
+5
+00:00:10,224 --> 00:00:12,384
+PART.1: ¿Dónde están las instrucciones?
+No las veo.
+
+6
+00:00:31,384 --> 00:00:32,304
+PART.1: Aquí, ¿no?
+
+7
+00:00:32,384 --> 00:00:33,264
+PART.1: ¿Es esto?
+
+8
+00:00:33,344 --> 00:00:34,504
+PART.1: Sí, ¿no? Esta.
+
+9
+00:00:34,584 --> 00:00:35,304
+PART.2: Pues...
+
+10
+00:00:35,384 --> 00:00:36,104
+PART.1: Parece, ¿no?
+
+11
+00:00:36,184 --> 00:00:36,664
+PART.1: El seis.
+
+12
+00:00:36,744 --> 00:00:37,984
+PART.1: Hemos de completar la
+construcción.
+
+13
+00:00:38,064 --> 00:00:40,304
+PART.2: Ah, él dice que el seis.
+Yo vi que decía...
+
+14
+00:00:40,424 --> 00:00:41,904
+PART.1: Ah, vale. Este.
+
+15
+00:00:43,144 --> 00:00:44,384
+PART.2: Bueno, no sé.
+
+16
+00:00:44,864 --> 00:00:46,224
+PART.2: Como que sí es ese.
+
+17
+00:00:47,904 --> 00:00:50,184
+PART.1: Sí, ¿no? O este de aquí detrás.
+
+18
+00:00:50,944 --> 00:00:51,904
+PART.1: ¿Este?
+
+19
+00:00:53,544 --> 00:00:54,864
+PART.2: No me lo parece.
+
+20
+00:00:57,224 --> 00:01:01,024
+PART.2: Tiene como un... Tiene como un
+hombrecito.
+

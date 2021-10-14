@@ -1,0 +1,143 @@
+1
+00:00:01,584 --> 00:00:03,876
+PART.1: Bueno, soy Nico,
+como ya te...
+
+2
+00:00:03,959 --> 00:00:04,876
+PART.2: ��igo, �no?
+
+3
+00:00:04,959 --> 00:00:05,792
+PART.1: Nico.
+
+4
+00:00:05,876 --> 00:00:07,501
+PART.2: Nico. Ostras. Vale.
+
+5
+00:00:07,584 --> 00:00:08,584
+PART.1: V�ctor, �no? Has dicho.
+
+6
+00:00:08,667 --> 00:00:09,417
+PART.2: S�, yo V�ctor.
+
+7
+00:00:11,479 --> 00:00:12,459
+PART.2: [MASKED] soy
+estudiante de aqu�.
+
+8
+00:00:12,542 --> 00:00:14,584
+PART.2: Estoy estudiando, ahora
+mismo, ingenier�a inform�tica.
+
+9
+00:00:14,626 --> 00:00:15,792
+PART.1: �En qu� curso est�s?
+
+10
+00:00:15,876 --> 00:00:17,834
+PART.2: Eh... Bueno, este a�o
+he hecho tercero.
+
+11
+00:00:18,042 --> 00:00:19,584
+PART.2: Y el a�o que viene
+voy a hacer cuarto.
+
+12
+00:00:19,626 --> 00:00:21,626
+PART.1: No, yo tambi�n hice
+ingenier�a inform�tica aqu�.
+
+13
+00:00:21,709 --> 00:00:21,720
+PART.2: �Ah! [MASKED]
+
+14
+00:00:23,719 --> 00:00:24,126
+PART.2: Ah.
+
+15
+00:00:24,209 --> 00:00:25,876
+PART.1: Con matem�ticas.
+
+16
+00:00:26,167 --> 00:00:28,917
+PART.1: Al final, el tercer a�o
+dej� las matem�ticas, pero...
+
+17
+00:00:29,001 --> 00:00:30,251
+PART.1: Y continu� aqu�.
+
+18
+00:00:30,334 --> 00:00:32,667
+PART.2: Ah, te... te...
+O sea, te cambiaste, �no? De...
+
+19
+00:00:32,751 --> 00:00:33,040
+PART.1: Bueno, [MASKED]
+
+20
+00:00:35,039 --> 00:00:35,584
+PART.1: [MASKED] e
+inform�tica.
+
+21
+00:00:35,626 --> 00:00:36,001
+PART.2: S�.
+
+22
+00:00:36,084 --> 00:00:39,667
+PART.1: Pues dej� solo
+las matem�ticas y acab� gradu�ndome
+de inform�tica.
+
+23
+00:00:39,751 --> 00:00:41,876
+PART.2: Ah, pues eso.
+O sea, te cambiaste de...
+
+24
+00:00:41,959 --> 00:00:45,080
+PART.2: O sea, dejaste las
+matem�ticas, �no? y te pasaste a inge [MASKED]
+
+25
+00:00:47,079 --> 00:00:47,417
+PART.2: S�, o sea...
+
+26
+00:00:47,501 --> 00:00:49,667
+PART.1: No me cambi�,
+dej� una, �sabes?
+
+27
+00:00:49,751 --> 00:00:52,209
+PART.2: S�.
+Ah, bueno... Efectivamente.
+
+28
+00:00:53,126 --> 00:00:54,876
+PART.2: No, yo que... A
+ver, yo... yo...
+
+29
+00:00:54,959 --> 00:00:56,584
+PART.2: Yo, en verdad, quer�a
+hacer el doble grado.
+
+30
+00:00:56,792 --> 00:00:58,626
+PART.2: Lo que pasa es que,
+no s� por qu�
+
+31
+00:00:59,376 --> 00:01:02,334
+PART.2: eh... Aunque me llegaba
+la nota, ve�a que, en plan...
+

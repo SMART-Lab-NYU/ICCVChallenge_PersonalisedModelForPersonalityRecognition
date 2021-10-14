@@ -1,0 +1,91 @@
+45
+00:02:08,060 --> 00:02:08,860
+PART.2: Sí.
+
+46
+00:02:09,860 --> 00:02:12,060
+PART.2: ¿Mi animal está en la selva?
+
+47
+00:02:12,620 --> 00:02:13,500
+PART.1: No.
+
+48
+00:02:14,340 --> 00:02:15,900
+PART.1: ¿Mi animal está en el campo?
+
+49
+00:02:16,140 --> 00:02:16,900
+PART.2: Sí.
+
+50
+00:02:17,220 --> 00:02:18,300
+PART.2: ¿El mío también?
+
+51
+00:02:18,500 --> 00:02:19,180
+PART.1: No.
+
+52
+00:02:19,260 --> 00:02:20,660
+PART.2: ¿El mío no está en el campo?
+
+53
+00:02:20,740 --> 00:02:21,380
+PART.1: No.
+
+54
+00:02:25,420 --> 00:02:26,420
+PART.1: "Okey".
+
+55
+00:02:28,380 --> 00:02:29,740
+PART.1: ¿Es mi animal una vaca?
+
+56
+00:02:29,820 --> 00:02:30,620
+PART.2: No.
+
+57
+00:02:36,100 --> 00:02:42,740
+PART.2: A ver, mi animal podría ser
+veloz, tiene cuatro patas, no ladra,
+tampoco maúlla, no está en el campo.
+
+58
+00:02:44,580 --> 00:02:46,540
+PART.2: ¿Qué animal tiene cuatro patas,
+no maúlla...?
+
+59
+00:02:46,620 --> 00:02:47,580
+PART.2: ¿Está en la ciudad?
+
+60
+00:02:48,180 --> 00:02:49,860
+PART.2: ¿Es un animal de ciudad?
+¿De casa?
+
+61
+00:02:49,940 --> 00:02:50,660
+PART.1: No.
+
+62
+00:02:50,780 --> 00:02:51,420
+PART.2: No.
+
+63
+00:02:52,220 --> 00:02:53,100
+PART.1: ¿Mi animal...?
+
+64
+00:02:53,180 --> 00:02:54,940
+PART.2: ¿Y dónde está, entonces,
+si no está en el campo?
+
+65
+00:02:57,940 --> 00:03:01,300
+PART.1: Bueno, te tengo que responder
+solo sí o no. Entonces no te puedo
+decir.
+

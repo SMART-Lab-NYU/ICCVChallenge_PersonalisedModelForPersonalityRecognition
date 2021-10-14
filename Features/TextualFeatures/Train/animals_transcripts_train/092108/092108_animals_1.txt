@@ -1,0 +1,82 @@
+22
+00:01:00,599 --> 00:01:01,239
+PART.2: Comparado.
+
+23
+00:01:01,439 --> 00:01:02,079
+PART.1: OK...
+
+24
+00:01:02,839 --> 00:01:07,759
+PART.2: Eh... ¿tiene el hocico largo?
+
+25
+00:01:10,799 --> 00:01:16,559
+PART.1: No, lo tiene largo, pero no es una
+característica que lo diferencie...
+
+26
+00:01:16,639 --> 00:01:16,999
+PART.2: Ya.
+
+27
+00:01:17,079 --> 00:01:18,159
+PART.1: Lo tiene largo, pero...
+
+28
+00:01:19,519 --> 00:01:20,639
+PART.1: Eh, ¿es mamífero?
+
+29
+00:01:20,919 --> 00:01:21,519
+PART.2: Sí.
+
+30
+00:01:23,119 --> 00:01:23,439
+PART.1: OK.
+
+31
+00:01:24,479 --> 00:01:25,999
+PART.2: ¿Puede ser un animal de compañía?
+
+32
+00:01:30,119 --> 00:01:33,679
+PART.1: Eh... sí, es domesticable.
+
+33
+00:01:35,439 --> 00:01:44,159
+PART.1: No, no... como cien por ciento, pero... sí,
+no es completamente salvaje.
+
+34
+00:01:36,919 --> 00:01:37,519
+PART.2: OK, sí.
+
+35
+00:01:45,679 --> 00:01:46,639
+PART.1: Eh... delfín.
+
+36
+00:01:47,039 --> 00:01:47,479
+PART.2: Sí.
+
+37
+00:01:49,199 --> 00:01:50,119
+PART.2: Eh...
+
+38
+00:01:53,719 --> 00:01:54,479
+PART.2: ¿Qué iba a decir?
+
+39
+00:01:56,239 --> 00:01:57,199
+PART.2: Eh...
+
+40
+00:01:57,279 --> 00:01:58,839
+PART.1: Domesticable, pero...
+
+41
+00:01:58,919 --> 00:02:00,599
+PART.2: Sí es domesticable... ¿es típico de África?
+

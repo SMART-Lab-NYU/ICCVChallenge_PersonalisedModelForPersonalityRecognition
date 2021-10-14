@@ -1,0 +1,5 @@
+Lleva la cuenta de las preguntas. 
+¿Soy un mamífero? 
+No. 
+¿Soy un mamífero terrestre? 
+A veces sí, a veces no. 

@@ -1,0 +1,110 @@
+20
+00:01:00,605 --> 00:01:01,645
+PART.1: La botella, ¿no?
+
+21
+00:01:02,805 --> 00:01:03,685
+PART.1: Ah, no, no.
+
+22
+00:01:04,565 --> 00:01:05,525
+PART.2: Claro.
+
+23
+00:01:05,525 --> 00:01:06,245
+PART.1: Es el libro.
+
+24
+00:01:06,605 --> 00:01:08,605
+PART.2: Ah, claro, el libro
+porque hay una correcta.
+
+25
+00:01:08,605 --> 00:01:09,485
+PART.2: El libro.
+
+26
+00:01:11,325 --> 00:01:12,445
+PART.2: Es lo que hay.
+
+27
+00:01:14,325 --> 00:01:15,005
+PART.1: La botella.
+
+28
+00:01:15,485 --> 00:01:15,965
+PART.2: Sí.
+
+29
+00:01:16,245 --> 00:01:19,205
+PART.1: Yo he jugado más veces
+que...
+
+30
+00:01:19,565 --> 00:01:21,885
+PART.1: Para este juego es
+importante el...
+
+31
+00:01:22,725 --> 00:01:26,765
+PART.1: Cuando tienes en caché
+el color de cada objeto, es mucho más fácil.
+
+32
+00:01:26,765 --> 00:01:30,445
+PART.1: Porque yo al principio,
+con estos dos por ejemplo, los giraba.
+
+33
+00:01:30,965 --> 00:01:32,205
+PART.2: Ya, ya.
+
+34
+00:01:33,485 --> 00:01:35,805
+PART.1: No he querido ser
+agresivo, pero...
+
+35
+00:01:36,245 --> 00:01:37,565
+PART.1: No, para ti, para ti.
+
+36
+00:01:37,565 --> 00:01:38,645
+PART.1: Empatados.
+
+37
+00:01:38,645 --> 00:01:39,445
+PART.1: Bueno, como quieras.
+
+38
+00:01:40,245 --> 00:01:41,405
+PART.1: Es que el otro día...
+
+39
+00:01:41,405 --> 00:01:42,205
+PART.1: Ahora te explico.
+
+40
+00:01:44,565 --> 00:01:45,405
+PART.2: El libro.
+
+41
+00:01:45,765 --> 00:01:46,685
+PART.1: El ratón.
+
+42
+00:01:47,205 --> 00:01:48,165
+PART.2: También.
+
+43
+00:01:51,245 --> 00:01:52,205
+PART.1: La butaca.
+
+44
+00:01:56,605 --> 00:01:57,565
+PART.2: Y...
+
+45
+00:01:58,485 --> 00:01:59,285
+PART.1: La silla.
+

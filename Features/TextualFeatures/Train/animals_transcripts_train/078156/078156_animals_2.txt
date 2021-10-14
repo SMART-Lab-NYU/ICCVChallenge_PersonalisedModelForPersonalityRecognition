@@ -1,0 +1,99 @@
+55
+00:02:05,516 --> 00:02:07,596
+PART.1: A ver, ¿el mío es mamífero?
+
+56
+00:02:08,116 --> 00:02:09,076
+PART.2: Eh...
+
+57
+00:02:10,596 --> 00:02:11,276
+PART.1: Joder.
+
+58
+00:02:11,276 --> 00:02:12,956
+PART.1: Bueno, a ver, vale.
+
+59
+00:02:15,396 --> 00:02:18,476
+PART.1: Es... por tanto es ovíparo.
+
+60
+00:02:20,996 --> 00:02:21,836
+PART.2: Sí.
+
+61
+00:02:22,636 --> 00:02:23,276
+PART.1: Vale.
+
+62
+00:02:23,276 --> 00:02:25,116
+PART.1: ¿Tiene...?
+
+63
+00:02:27,796 --> 00:02:29,236
+PART.1: ¿Tiene cuatro patas?
+
+64
+00:02:29,636 --> 00:02:30,196
+PART.2: Sí.
+
+65
+00:02:31,876 --> 00:02:32,316
+PART.1: Joder.
+
+66
+00:02:32,716 --> 00:02:33,436
+PART.1: ¿Tiene alas?
+
+67
+00:02:33,436 --> 00:02:35,196
+PART.1: No, claro, descarta esta.
+
+68
+00:02:35,196 --> 00:02:37,396
+PART.1: No, porque si tiene
+patas, no tiene alas.
+
+69
+00:02:37,396 --> 00:02:39,876
+PART.1: Bueno, podría tener dos
+patas y tener alas.
+
+70
+00:02:39,876 --> 00:02:43,916
+PART.1: Bueno, de hecho, sí,
+es pregunta, claro, porque podría tener
+dos patas y...
+
+71
+00:02:44,356 --> 00:02:45,116
+PART.1: No tiene alas, ¿eh?
+
+72
+00:02:45,996 --> 00:02:47,916
+PART.1: No, vale, tiene...
+
+73
+00:02:48,996 --> 00:02:49,556
+PART.2: No.
+
+74
+00:02:49,556 --> 00:02:54,036
+PART.2: Pero me parece
+que te liaste con la última pregunta
+porque primero preguntaste si tenía cuatro.
+
+75
+00:02:55,476 --> 00:02:58,076
+PART.1: Ah, claro, no he preguntado
+si tenía patas, sino si tenía cuatro.
+
+76
+00:02:58,076 --> 00:02:58,796
+PART.1: Bueno, da igual.
+
+77
+00:02:59,196 --> 00:03:00,156
+PART.2: Sí, sí.
+

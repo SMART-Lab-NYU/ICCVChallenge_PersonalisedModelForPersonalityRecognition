@@ -1,0 +1,107 @@
+47
+00:02:01,861 --> 00:02:03,141
+PART.1: ¿Vive en manadas o...?
+
+48
+00:02:03,221 --> 00:02:03,741
+PART.2: Sí.
+
+49
+00:02:03,981 --> 00:02:04,381
+PART.1: ¿Sí?
+
+50
+00:02:05,221 --> 00:02:05,661
+PART.1: Vale.
+
+51
+00:02:10,941 --> 00:02:11,821
+PART.2: ¿Es nocturno?
+
+52
+00:02:13,181 --> 00:02:13,781
+PART.1: No.
+
+53
+00:02:14,141 --> 00:02:15,141
+PART.1: No es nocturno.
+
+54
+00:02:15,621 --> 00:02:16,261
+PART.2: A saber.
+
+55
+00:02:16,341 --> 00:02:17,101
+PART.1: ¿Cuántas vamos ya?
+
+56
+00:02:17,301 --> 00:02:18,421
+PART.2: Yo cinco, creo que cinco.
+
+57
+00:02:18,501 --> 00:02:19,581
+PART.1: Bueno, vamos una cada...
+
+58
+00:02:19,661 --> 00:02:22,021
+PART.2: Sí. Empezaste tú, o sea, que
+ahora...
+
+59
+00:02:23,021 --> 00:02:23,901
+PART.1: Ahora seis.
+
+60
+00:02:27,421 --> 00:02:29,621
+PART.1: ¿No te puedo decir preguntas
+directas de tipo "es esto"?
+
+61
+00:02:30,021 --> 00:02:33,101
+PART.2: Hombre, te la puedes jugar, pero
+no sé si tienes más intentos.
+
+62
+00:02:33,701 --> 00:02:34,341
+PART.1: Vale.
+
+63
+00:02:40,261 --> 00:02:41,421
+PART.1: Es que no sé qué más preguntarte.
+
+64
+00:02:42,021 --> 00:02:42,741
+PART.2: Yo estoy igual.
+
+65
+00:02:45,021 --> 00:02:49,381
+PART.1: ¿Es de zonas tropicales o...?
+
+66
+00:02:49,861 --> 00:02:50,701
+PART.1: Es que no puedo.
+
+67
+00:02:50,381 --> 00:02:51,141
+PART.2: Solo puedo decir sí o no.
+
+68
+00:02:50,981 --> 00:02:51,941
+PART.1: ¿Es de zonas tropicales?
+
+69
+00:02:52,501 --> 00:02:53,021
+PART.2: No.
+
+70
+00:02:53,501 --> 00:02:53,901
+PART.1: ¿No?
+
+71
+00:02:53,981 --> 00:02:54,421
+PART.2: No.
+
+72
+00:02:54,501 --> 00:02:55,141
+PART.1: Joder, ahora sí.
+

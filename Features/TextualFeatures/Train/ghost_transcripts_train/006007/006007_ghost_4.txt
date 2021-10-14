@@ -1,0 +1,8 @@
+97
+00:04:04,962 --> 00:04:06,962
+PART.2: It would be more fast.
+
+98
+00:04:07,242 --> 00:04:08,242
+SUPERVISOR: How was it?
+

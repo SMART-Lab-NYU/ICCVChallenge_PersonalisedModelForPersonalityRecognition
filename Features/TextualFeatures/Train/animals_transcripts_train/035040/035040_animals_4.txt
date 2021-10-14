@@ -1,0 +1,74 @@
+117
+00:04:04,208 --> 00:04:05,128
+PART.2: ¿Vive en el agua?
+
+118
+00:04:05,208 --> 00:04:05,768
+PART.1: No.
+
+119
+00:04:16,208 --> 00:04:17,408
+PART.2: ¿Tengo...?
+
+120
+00:04:25,088 --> 00:04:26,128
+PART.2: ¿Tengo pelo?
+
+121
+00:04:26,328 --> 00:04:27,128
+PART.2: ¿Pelaje?
+
+122
+00:04:31,088 --> 00:04:42,128
+PART.1: Claro, es que es difícil porque
+yo creo que sí tienes pelaje, pero
+no sabría decirte...
+
+123
+00:04:33,448 --> 00:04:36,768
+PART.2: Es difícil porque no estás seguro
+si tienen o no.
+
+124
+00:04:42,848 --> 00:04:43,768
+PART.1: Es complicado.
+
+125
+00:04:43,848 --> 00:04:46,888
+PART.1: Te diría que sí, pero luego
+debatimos si es un sí o un no.
+
+126
+00:04:46,968 --> 00:04:47,848
+PART.1: Yo creo que sí.
+
+127
+00:04:48,768 --> 00:04:50,008
+PART.1: Sí, sí, tienes pelaje.
+
+128
+00:04:50,088 --> 00:04:50,488
+PART.2: ¿Sí?
+
+129
+00:04:50,568 --> 00:04:52,128
+PART.1: Sí, creo que es un animal con
+pelaje.
+
+130
+00:04:52,208 --> 00:04:52,648
+PART.2: Vale.
+
+131
+00:04:52,728 --> 00:04:54,008
+PART.1: Si lo piensas bien, sí.
+
+132
+00:04:55,848 --> 00:04:57,728
+PART.2: Te pregunté si tenía cuernos y me
+dijiste que no.
+
+133
+00:04:57,888 --> 00:04:58,648
+PART.1: Te dije que no.
+

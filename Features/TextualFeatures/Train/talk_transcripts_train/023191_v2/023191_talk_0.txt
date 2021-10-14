@@ -1,0 +1,110 @@
+﻿1
+00:00:00,000 --> 00:00:01,450
+PART.1: Buenas, ¿tú eres?
+
+2
+00:00:00,890 --> 00:00:01,650
+PART.2: Hola, ¿qué tal?
+
+3
+00:00:01,730 --> 00:00:02,370
+PART.2: Elvira.
+
+4
+00:00:02,530 --> 00:00:03,530
+PART.1: Carlos, encantado.
+
+5
+00:00:03,610 --> 00:00:04,130
+PART.2: Un gusto.
+
+6
+00:00:04,690 --> 00:00:05,610
+PART.1: ¿Qué te cuentas, Elvira?
+
+7
+00:00:06,490 --> 00:00:08,490
+PART.2: Nada, bueno, aquí.
+
+8
+00:00:09,050 --> 00:00:10,210
+PART.2: Yo soy de Ecuador.
+
+9
+00:00:11,530 --> 00:00:20,890
+PART.2: Vine hace un año y medio a hacer
+un máster, acá, en Barcelona y,
+bueno, estoy haciendo unas prácticas
+y bueno, trabajando.
+
+10
+00:00:20,970 --> 00:00:22,250
+PART.1: ¿Cómo has llegado al
+experimento este?
+
+11
+00:00:23,130 --> 00:00:24,810
+PART.2: Por Facebook, la verdad.
+
+12
+00:00:25,130 --> 00:00:26,690
+PART.1: A mí me lo han dicho por
+un grupo
+de Whatsapp.
+
+13
+00:00:27,330 --> 00:00:30,890
+PART.1: Uno ha dicho:
+"Necesitamos voluntarios para un
+experimento que...".
+
+14
+00:00:31,490 --> 00:00:33,810
+PART.1: Y yo: "Apúntame, no tengo nada
+mejor que hacer".
+
+15
+00:00:34,890 --> 00:00:41,050
+PART.2: Sí, yo lo vi en Facebook
+porque estaba inscrita en estas
+cosas así, cuestionarios y cosas
+así.
+
+16
+00:00:41,130 --> 00:00:42,970
+PART.2: Me pareció interesante y...
+
+17
+00:00:44,050 --> 00:00:51,530
+PART.2: Pero, o sea, hace mucho tiempo,
+ya me volvieron a decir y no sabía
+ni de qué se trataba, pero al final
+yo vine.
+
+18
+00:00:50,530 --> 00:00:52,970
+PART.1: Yo también me apunto a un
+bombardeo.
+
+19
+00:00:53,170 --> 00:00:54,170
+PART.2: Ahí está y no más.
+
+20
+00:00:54,330 --> 00:00:55,690
+PART.2: Pero bueno, no sé.
+
+21
+00:00:55,890 --> 00:00:56,890
+PART.2: Está interesante.
+
+22
+00:00:56,970 --> 00:00:58,930
+PART.1: Lo más agradable es no hacer
+nada.
+
+23
+00:00:59,130 --> 00:01:02,410
+PART.1: Me levanto tarde y me voy a
+encadenar autobuses.
+

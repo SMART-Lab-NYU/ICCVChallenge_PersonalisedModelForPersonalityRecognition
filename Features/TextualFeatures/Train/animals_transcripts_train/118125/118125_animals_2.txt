@@ -1,0 +1,68 @@
+35
+00:02:00,386 --> 00:02:01,826
+PART.2: Vale
+
+36
+00:02:05,234 --> 00:02:08,162
+PART.1: Els humans el fèiem molt servir per alguna cosa?
+
+37
+00:02:10,185 --> 00:02:15,754
+PART.2: Però... ai no puc dir, només es sí o no
+
+38
+00:02:15,818 --> 00:02:16,306
+PART.1: Es si o no
+
+39
+00:02:19,354 --> 00:02:20,851
+PART.2: Sí
+
+40
+00:02:20,914 --> 00:02:22,522
+PART.1: Vale
+
+41
+00:02:25,354 --> 00:02:26,065
+PART.2: Em toca a mi
+
+42
+00:02:26,130 --> 00:02:27,081
+PART.1: Sí.
+
+43
+00:02:27,320 --> 00:02:36,960
+PART.2: Emm...viu al bosc? Canvio de pregunta?
+
+44
+00:02:37,578 --> 00:02:41,833
+PART.1: No, quin bosc? En plan, la selva? No ho sé
+
+45
+00:02:41,905 --> 00:02:43,682
+PART.2: Hi ha una selva o un bosc
+
+46
+00:02:43,721 --> 00:02:48,464
+PART.1: No no no, no viu al bosc...anem per la 4?
+
+47
+00:02:50,097 --> 00:02:51,129
+PART.1: PERRSONA B: Sí
+
+48
+00:02:51,505 --> 00:02:53,618
+PART.1: Vale... mm, potser un animal de companyia?
+
+49
+00:02:54,752 --> 00:02:55,208
+PART.2: No
+
+50
+00:02:55,672 --> 00:02:56,512
+PART.1: Vale
+
+51
+00:02:57,748 --> 00:03:00,996
+PART.2: Emm.. té 4 potes?
+

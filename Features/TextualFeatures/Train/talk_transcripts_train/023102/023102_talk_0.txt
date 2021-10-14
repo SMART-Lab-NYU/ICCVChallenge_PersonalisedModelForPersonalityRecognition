@@ -1,0 +1,57 @@
+1
+00:00:00,291 --> 00:00:01,291
+PART.1: Vale.
+
+2
+00:00:02,331 --> 00:00:03,611
+PART.2: ¿Quieres empezar o empiezo yo?
+
+3
+00:00:03,691 --> 00:00:06,891
+PART.1: Tú, creo que estás más
+familiarizada.
+
+4
+00:00:06,971 --> 00:00:14,931
+PART.2: Sí. Pues yo soy Raquel, tengo 26
+años y soy investigadora en el BSC,
+en el Barcelona Supercomputing
+Center.
+
+5
+00:00:15,011 --> 00:00:16,011
+PART.1: Ok.
+
+6
+00:00:16,091 --> 00:00:23,051
+PART.2: Y llegué aquí por un profesor del
+máster que nos sugirió muy fuerte
+que nos apuntáramos.
+
+7
+00:00:25,811 --> 00:00:50,131
+PART.1: Bueno, yo soy Elvira. Estoy...
+Bueno, llegué aquí, la verdad, lo vi
+en internet. O sea, me inscribí a
+una cosa donde te envían este tipo
+de cosas y me llegó y me pareció muy
+interesante. Lo había enviado hace
+mucho tiempo y, al final, recién
+respondieron y bueno, dije voy a
+participar, me parece algo
+interesante.
+
+8
+00:00:50,211 --> 00:00:51,771
+PART.2: Es divertido.
+
+9
+00:00:51,851 --> 00:01:11,011
+PART.1: Algo que nunca he hecho, entonces
+me pareció interesante. Y bueno, yo
+soy de Ecuador. Estoy haciendo un
+máster aquí, en Barcelona, y me
+quedé haciendo unas prácticas y
+bueno, ahí vamos viendo qué sale.
+Todavía no hay nada seguro.
+

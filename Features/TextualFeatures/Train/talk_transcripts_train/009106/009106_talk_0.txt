@@ -1,0 +1,140 @@
+1
+00:00:00,387 --> 00:00:00,947
+PART.2: Hola.
+
+2
+00:00:00,947 --> 00:00:02,147
+PART.1: Buenas.
+
+3
+00:00:02,147 --> 00:00:04,067
+PART.2: ¿Entonces cómo te
+llamas?
+
+4
+00:00:04,067 --> 00:00:04,987
+PART.1: Eva.
+
+5
+00:00:04,987 --> 00:00:05,707
+PART.2: Eva.
+
+6
+00:00:05,707 --> 00:00:06,547
+PART.1: Sí. Tú Alejandro.
+
+7
+00:00:06,547 --> 00:00:07,427
+PART.2: Sí.
+
+8
+00:00:08,067 --> 00:00:11,587
+PART.1: Pues nada, yo es la
+primera vez que participo así en un
+experimento.
+
+9
+00:00:11,587 --> 00:00:12,827
+PART.2: Yo también.
+
+10
+00:00:13,467 --> 00:00:19,907
+PART.1: Pero trabajo en el
+centro de visión por computador,
+que también colabora en este
+proyecto, y dije: "Va, vamos a...".
+
+11
+00:00:19,907 --> 00:00:20,947
+PART.2: ¿Vives en Tarrasa?
+
+12
+00:00:20,947 --> 00:00:22,267
+PART.1: No, Sabadell.
+
+13
+00:00:22,267 --> 00:00:23,147
+PART.2: Ah.
+
+14
+00:00:23,147 --> 00:00:24,227
+PART.1: Sí, sí.
+
+15
+00:00:24,227 --> 00:00:25,107
+PART.2: Sí.
+
+16
+00:00:25,107 --> 00:00:29,987
+PART.1: Como pedían a peques
+también, digo: "Pues voy a venir
+con el mío". Hagamos algo por la
+ciencia.
+
+17
+00:00:30,667 --> 00:00:33,027
+PART.1: Sí, hemos entrado antes
+con él, sí.
+
+18
+00:00:33,027 --> 00:00:37,667
+PART.1: Ahora vendrá él solo también con
+otro chico me ha dicho.
+
+19
+00:00:37,667 --> 00:00:38,867
+PART.1: Que no se conocen.
+
+20
+00:00:38,867 --> 00:00:39,787
+PART.2: Ya.
+
+21
+00:00:41,547 --> 00:00:43,587
+PART.2: ¿Y cuándo vino?
+
+22
+00:00:43,587 --> 00:00:44,587
+PART.2: ¿Hace rato?
+
+23
+00:00:44,587 --> 00:00:47,827
+PART.1: Sí, sí, hoy mismo creo
+que lo vamos a hacer las sesiones.
+
+24
+00:00:47,827 --> 00:00:49,347
+PART.1: ¿Tú ya has venido otra vez?
+
+25
+00:00:49,347 --> 00:00:51,227
+PART.2: No, es que aquí hago el
+doctorado.
+
+26
+00:00:51,227 --> 00:00:51,587
+PART.1: Ah...
+
+27
+00:00:51,587 --> 00:00:52,427
+PART.2: Sí.
+
+28
+00:00:52,427 --> 00:00:55,027
+PART.1: ¿En el Departamento de
+Informática?
+
+29
+00:00:55,027 --> 00:00:55,987
+PART.1: Muy bien.
+
+30
+00:00:55,987 --> 00:00:57,747
+PART.2: Estoy con Petio.
+Supongo que la conoces.
+
+31
+00:00:57,747 --> 00:00:59,987
+PART.1: Sí, sí, y tanto. De hace
+muchos años.
+

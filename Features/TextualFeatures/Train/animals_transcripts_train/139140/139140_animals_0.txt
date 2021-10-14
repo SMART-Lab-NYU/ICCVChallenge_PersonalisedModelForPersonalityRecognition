@@ -1,0 +1,113 @@
+1
+00:00:00,000 --> 00:00:01,103
+PART.2: Bueno. Pregunta-animal.
+
+2
+00:00:01,183 --> 00:00:02,503
+PART.1: ¿Quién empieza?
+
+3
+00:00:02,583 --> 00:00:03,743
+PART.2: Tú si quieres.
+
+4
+00:00:03,823 --> 00:00:05,143
+PART.1: Vale, empiezo yo.
+
+5
+00:00:05,983 --> 00:00:08,103
+PART.2: Pues tienes que preguntarme.
+
+6
+00:00:09,023 --> 00:00:11,263
+PART.1: Pero este animal es muy difícil.
+
+7
+00:00:11,343 --> 00:00:13,983
+PART.2: Tienes
+que preguntarme sobre tu animal.
+
+8
+00:00:14,063 --> 00:00:17,143
+PART.1: ¿Tengo que adivinar
+el animal que tienes en la cabeza?
+
+9
+00:00:18,183 --> 00:00:19,343
+PART.2: Venga, va.
+
+10
+00:00:19,423 --> 00:00:20,383
+PART.1: A ver.
+
+11
+00:00:22,943 --> 00:00:23,903
+PART.1: ¿Vivo en el agua?
+
+12
+00:00:23,983 --> 00:00:24,783
+PART.2: No.
+
+13
+00:00:25,663 --> 00:00:27,463
+PART.1: ¿Soy un animal de compañía?
+
+14
+00:00:27,543 --> 00:00:29,543
+PART.2: Calma.
+Pregunta y pregunta, ¿no?
+
+15
+00:00:29,623 --> 00:00:31,303
+PART.2: Ah, diez. Vale. No.
+
+16
+00:00:34,223 --> 00:00:36,023
+PART.1: ¿La gente se alimenta de mí?
+
+17
+00:00:36,103 --> 00:00:36,743
+PART.2: No.
+
+18
+00:00:40,623 --> 00:00:42,943
+PART.1: ¿Tengo alguna relación con los humanos?
+
+19
+00:00:43,023 --> 00:00:46,263
+PART.1: De una cabra, por ejemplo,
+los humanos sacan su lana.
+
+20
+00:00:46,343 --> 00:00:49,343
+PART.1: ¿Es un animal que está
+cerca del ser humano o es salvaje?
+
+21
+00:00:49,423 --> 00:00:51,503
+PART.2: Salvaje. No hay relación.
+
+22
+00:00:52,743 --> 00:00:53,623
+PART.1: León.
+
+23
+00:00:53,703 --> 00:00:54,503
+PART.2: No.
+
+24
+00:00:55,023 --> 00:00:57,263
+PART.2: Lo sé, lo sé, no te quito.
+
+25
+00:00:57,343 --> 00:00:58,743
+PART.1: Llevo cuatro, ¿no?
+
+26
+00:00:58,823 --> 00:00:59,503
+PART.2: Sí.
+
+27
+00:00:59,583 --> 00:01:01,303
+PART.1: Eh...
+

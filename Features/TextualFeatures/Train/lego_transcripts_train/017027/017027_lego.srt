@@ -1,0 +1,553 @@
+1
+00:00:04,266 --> 00:00:05,186
+SUPERVISOR: Esperad un segundo.
+
+2
+00:00:12,706 --> 00:00:14,106
+PART.1: Esta, no, esta.
+
+3
+00:00:17,586 --> 00:00:18,546
+PART.1: ¿En qué cuadros?
+
+4
+00:00:20,106 --> 00:00:21,786
+PART.2: Esa... esa... sí,
+justo.
+
+5
+00:00:21,866 --> 00:00:22,906
+PART.2: Y una blanca...
+
+6
+00:00:22,986 --> 00:00:24,346
+PART.1: Y una blanca planita.
+
+7
+00:00:24,946 --> 00:00:26,106
+PART.2: ¿Lo voy montando yo
+o...?
+
+8
+00:00:26,186 --> 00:00:26,986
+PART.1: Claro.
+
+9
+00:00:34,626 --> 00:00:36,386
+PART.1: Es una piecita rosa.
+
+10
+00:00:37,226 --> 00:00:38,906
+PART.2: Es... una de estas.
+
+11
+00:00:40,026 --> 00:00:40,626
+PART.2: Los lados.
+
+12
+00:00:40,706 --> 00:00:41,666
+PART.1: Una ventanita.
+
+13
+00:00:43,186 --> 00:00:44,066
+PART.1: ¿Ya lo habéis hecho?
+
+14
+00:00:46,706 --> 00:00:47,666
+PART.1: Quiere ventaja.
+
+15
+00:00:48,346 --> 00:00:49,666
+PART.2: Me tocó con la niña.
+
+16
+00:00:49,986 --> 00:00:52,306
+PART.2: Y se puso a hacer
+todas las figuras que había.
+
+17
+00:00:52,826 --> 00:00:54,346
+PART.2: Me tocó hacerlas con
+ella.
+
+18
+00:00:55,706 --> 00:00:57,586
+PART.2: A lo mejor he puesto
+las más...
+
+19
+00:00:58,626 --> 00:01:00,906
+PART.2: A lo mejor son estas,
+que son más oscuras.
+
+20
+00:01:01,346 --> 00:01:02,546
+PART.2: Y luego las claritas.
+
+21
+00:01:03,706 --> 00:01:04,706
+PART.1: Sí, sí.
+
+22
+00:01:07,106 --> 00:01:08,306
+PART.2: Me falta una.
+
+23
+00:01:08,386 --> 00:01:08,946
+PART.2: Esta.
+
+24
+00:01:09,186 --> 00:01:09,666
+PART.2: Vale.
+
+25
+00:01:11,546 --> 00:01:12,626
+PART.2: Y aquí...
+
+26
+00:01:15,266 --> 00:01:16,506
+PART.1: La nuestra cocinita.
+
+27
+00:01:16,866 --> 00:01:17,466
+PART.2: Sí.
+
+28
+00:01:18,146 --> 00:01:19,306
+PART.2: Queremos un horno, ¿no?
+
+29
+00:01:20,146 --> 00:01:20,906
+PART.2: Está claro.
+
+30
+00:01:20,466 --> 00:01:20,826
+PART.1: Sí.
+
+31
+00:01:21,306 --> 00:01:23,106
+PART.1: ¿Llevan unas cositas
+negras ahí?
+
+32
+00:01:24,226 --> 00:01:27,306
+PART.2: No, yo creo que es
+como la pintan para que se
+diferencie.
+
+33
+00:01:27,586 --> 00:01:29,626
+PART.2: Como tiene agujeritos, a
+lo mejor pintan así.
+
+34
+00:01:30,106 --> 00:01:32,106
+PART.1: Pues otra piecita
+de esas blancas.
+
+35
+00:01:32,186 --> 00:01:32,666
+PART.2: Esta.
+
+36
+00:01:32,746 --> 00:01:33,346
+PART.2: Ahí.
+
+37
+00:01:35,106 --> 00:01:37,106
+PART.1: Y... la roja.
+
+38
+00:01:37,266 --> 00:01:39,666
+PART.2: Rojo, que es esta, en
+el medio.
+
+39
+00:01:40,186 --> 00:01:41,226
+PART.1: Inclinada.
+
+40
+00:01:41,866 --> 00:01:42,866
+PART.2: Eso o esto.
+
+41
+00:01:43,546 --> 00:01:44,586
+PART.2: Como esta pieza.
+
+42
+00:01:47,666 --> 00:01:48,466
+PART.2: Pero a ver.
+
+43
+00:01:54,426 --> 00:01:55,026
+PART.1: ¿Este?
+
+44
+00:01:55,266 --> 00:01:56,146
+PART.2: Sí, justo.
+
+45
+00:02:01,306 --> 00:02:02,666
+PART.2: Pues ahora
+hay que hacer la rosa esta.
+
+46
+00:02:06,026 --> 00:02:07,866
+PART.1: Uy, esta cosita.
+
+47
+00:02:09,306 --> 00:02:10,346
+PART.2: Eso abajo, vale.
+
+48
+00:02:10,986 --> 00:02:11,586
+PART.2: Luego...
+
+49
+00:02:12,226 --> 00:02:13,786
+PART.2: Uno de estos encima.
+
+50
+00:02:18,946 --> 00:02:19,826
+PART.2: Y luego...
+
+51
+00:02:22,146 --> 00:02:23,306
+PART.2: Es esto, ¿no?
+
+52
+00:02:23,386 --> 00:02:24,386
+PART.2: ¿O es más oscuro?
+
+53
+00:02:24,466 --> 00:02:25,666
+PART.1: Es más oscuro.
+
+54
+00:02:26,786 --> 00:02:27,986
+PART.2: No hay más oscuros.
+
+55
+00:02:28,666 --> 00:02:29,466
+PART.2: No parece.
+
+56
+00:02:29,906 --> 00:02:31,626
+PART.2: Ponemos
+estas yo creo y ya.
+
+57
+00:02:33,986 --> 00:02:36,186
+PART.1: Ah, pero vamos
+a buscar las instrucciones.
+
+58
+00:02:37,066 --> 00:02:38,146
+PART.2: Lo estamos
+haciendo de vista.
+
+59
+00:02:38,746 --> 00:02:39,346
+PART.1: Sí.
+
+60
+00:02:39,786 --> 00:02:41,106
+PART.2: Vale sí, esto ya está.
+
+61
+00:02:42,666 --> 00:02:47,226
+PART.2: Ahora aquí falta
+otro tubito de estos.
+
+62
+00:02:49,346 --> 00:02:51,226
+PART.1: Esta pieza, ¿venía
+sola?
+
+63
+00:02:51,306 --> 00:02:52,626
+PART.1: El... lazo aquí.
+
+64
+00:02:51,546 --> 00:02:52,106
+PART.2: Sí.
+
+65
+00:02:55,306 --> 00:02:56,626
+PART.1: Otro tubito de esos.
+
+66
+00:02:58,746 --> 00:02:59,546
+PART.2: Que vaya as...
+
+67
+00:02:59,786 --> 00:03:00,586
+PART.1: Y otra...
+
+68
+00:03:02,866 --> 00:03:03,986
+PART.1: Y otra piecita de esas.
+
+69
+00:03:08,786 --> 00:03:10,466
+PART.1: Y después,
+unos cuadraditos rojos.
+
+70
+00:03:10,866 --> 00:03:11,706
+PART.2: Rojo cuadrado.
+
+71
+00:03:11,786 --> 00:03:12,226
+PART.1: Y cuatro.
+
+72
+00:03:12,306 --> 00:03:13,866
+PART.2: Es el que estábamos
+usando ahí antes.
+
+73
+00:03:14,306 --> 00:03:14,786
+PART.2: Este.
+
+74
+00:03:15,426 --> 00:03:16,546
+PART.2: Pues lo quitamos de
+aquí.
+
+75
+00:03:19,346 --> 00:03:21,386
+PART.1: Hombre tanto
+como una flor no parece, ¿verdad?
+
+76
+00:03:21,866 --> 00:03:22,786
+PART.2: Ya, es poco...
+
+77
+00:03:22,866 --> 00:03:23,906
+PART.1: Podemos imaginarlo.
+
+78
+00:03:24,706 --> 00:03:26,106
+PART.2: Una flor cuadrada.
+
+79
+00:03:27,466 --> 00:03:28,626
+PART.1: Ah, pero es que...
+
+80
+00:03:29,546 --> 00:03:30,426
+PART.1: Después se...
+
+81
+00:03:30,706 --> 00:03:31,306
+PART.2: Claro.
+
+82
+00:03:31,386 --> 00:03:32,706
+PART.1: lleva estas piecitas.
+
+83
+00:03:33,226 --> 00:03:35,706
+PART.2: Hay que poner esta,
+creo, aquí.
+
+84
+00:03:36,146 --> 00:03:36,706
+PART.2: ¿No?
+
+85
+00:03:36,786 --> 00:03:37,986
+PART.2: La plana esta grande.
+
+86
+00:03:40,546 --> 00:03:42,066
+PART.2: Joe, qué difícil montar
+esto.
+
+87
+00:03:42,226 --> 00:03:43,146
+PART.1: A ver si...
+
+88
+00:03:43,866 --> 00:03:45,426
+PART.2: Cuatro de estas
+necesitamos, vale.
+
+89
+00:03:45,586 --> 00:03:46,506
+PART.2: Y de otra...
+
+90
+00:03:47,026 --> 00:03:47,986
+PART.1: Y aquí hay otra.
+
+91
+00:03:49,706 --> 00:03:50,906
+PART.1: Y aquí hay otra.
+
+92
+00:03:51,506 --> 00:03:55,146
+PART.1: Bueno,
+ya se le ha ido poniendo más flor.
+
+93
+00:03:56,026 --> 00:03:57,186
+PART.2: Una rosa, al parecer.
+
+94
+00:03:59,146 --> 00:04:00,226
+PART.1: Ya, ya está.
+
+95
+00:04:02,226 --> 00:04:02,946
+PART.1: Pues ya.
+
+96
+00:04:06,106 --> 00:04:07,066
+PART.2: Se mantiene en pie.
+
+97
+00:04:08,386 --> 00:04:09,066
+PART.2: Sí.
+
+98
+00:04:11,346 --> 00:04:13,346
+PART.2: Pues nada,
+como cuando éramos pequeños.
+
+99
+00:04:13,666 --> 00:04:14,586
+PART.2: Con Legos.
+
+100
+00:04:16,226 --> 00:04:17,346
+PART.2: Yo jugaba mucho a eso.
+
+101
+00:04:17,746 --> 00:04:18,786
+PART.1: A mí me encanta.
+
+102
+00:04:20,186 --> 00:04:24,946
+PART.2: Hay gente que tiene
+unas piezas súper... hace unas cosas
+supergrandes.
+
+103
+00:04:23,026 --> 00:04:23,826
+PART.1: ¿Verdad?
+
+104
+00:04:25,826 --> 00:04:29,066
+PART.1: Me frustra no tener
+nada que ponerle ahí arriba.
+
+105
+00:04:29,146 --> 00:04:30,546
+PART.1: No se le puede poner esto,
+pero...
+
+106
+00:04:31,386 --> 00:04:33,066
+PART.1: Pero para no tenerlo
+vacío...
+
+107
+00:04:35,746 --> 00:04:36,946
+PART.2: Parece una cocina.
+
+108
+00:04:37,026 --> 00:04:39,066
+PART.2: Me recuerda como a la puerta del
+horno aquí abajo.
+
+109
+00:04:39,146 --> 00:04:39,706
+PART.1: Ah, ¿sí?
+
+110
+00:04:39,786 --> 00:04:40,746
+PART.1: Parece un imposible.
+
+111
+00:04:40,226 --> 00:04:41,866
+PART.2: Y aquí la vitrocerámica
+encima.
+
+112
+00:04:42,146 --> 00:04:42,826
+PART.1: Ah, ¿sí?
+
+113
+00:04:45,146 --> 00:04:46,586
+PART.1: Sí, porque no hay más,
+¿verdad?
+
+114
+00:04:47,666 --> 00:04:49,906
+PART.2: Si quieres hacer algo
+inventado.
+
+115
+00:04:51,226 --> 00:04:52,346
+PART.2: Inventarte algo.
+
+116
+00:04:55,106 --> 00:04:58,026
+PART.2: Yo me acuerdo que
+hacía... me inventaba... muchas
+cosas de pequeño.
+
+117
+00:04:58,106 --> 00:04:59,786
+PART.2: Tenía un cubo como ese,
+pero más grande.
+
+118
+00:04:59,866 --> 00:05:00,426
+PART.1: Ajá.
+
+119
+00:05:00,506 --> 00:05:01,026
+PART.2: Ponía...
+
+120
+00:05:01,106 --> 00:05:02,946
+PART.1: Es muy divertido,
+¿verdad?
+
+121
+00:05:03,026 --> 00:05:03,746
+PART.1: Muy agradable.
+
+122
+00:05:04,426 --> 00:05:05,746
+PART.1: Lo pasábamos genial.
+
+123
+00:05:07,746 --> 00:05:08,746
+PART.1: Haciendo cositas.
+
+124
+00:05:09,786 --> 00:05:11,786
+PART.1: Cuando yo era pequeña,
+no existía eso.
+
+125
+00:05:11,986 --> 00:05:13,506
+PART.1: Cuando mi hija
+estaba pequeña, sí.
+
+126
+00:05:14,026 --> 00:05:15,506
+PART.1: Y yo jugaba más que
+ella.
+
+127
+00:05:20,066 --> 00:05:22,266
+SUPERVISOR: Siempre,
+siempre sorprende ver esa flor tan
+adulta.
+

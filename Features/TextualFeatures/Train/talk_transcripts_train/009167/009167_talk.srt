@@ -1,0 +1,396 @@
+1
+00:00:01,032 --> 00:00:02,152
+PART.2: ¿Cuál es tu nombre?
+
+2
+00:00:02,232 --> 00:00:03,032
+PART.1: Eva.
+
+3
+00:00:03,112 --> 00:00:12,072
+PART.2: Eva. Rosa. Bueno, llegué por una
+amiga que hizo esto, pero ella hizo
+un master en nivel de educación,
+¿puede ser?
+
+4
+00:00:12,152 --> 00:00:12,672
+PART.1: Sí.
+
+5
+00:00:12,752 --> 00:00:23,672
+PART.2: Eh... Seguramente por ahí
+encontró de... Y ella lo hizo con su
+pareja y me dijo: "Rosa, a lo mejor
+te puedes ganar 20 euros".
+
+6
+00:00:23,752 --> 00:00:24,672
+PART.1: Sí.
+
+7
+00:00:24,752 --> 00:00:41,912
+PART.2: Y le dije: "Allá vamos". Así
+que... Yo a Natalia la conocí en un
+curso de catalán, somos las dos
+chilenas, pero no nos conocíamos y
+empecé a hacer el curso y ella
+empezó a hacer el mismo curso y nos conocimos.
+
+8
+00:00:41,992 --> 00:00:53,032
+PART.2: Vivimos un tiempo juntos, después
+ellos se cambiaron a otro piso... Y
+al final quedamos con la amistad. Y
+ahora ellos se van, el 15 o el 16,
+vuelven a Chile.
+
+9
+00:00:53,112 --> 00:00:53,552
+PART.1: Vale.
+
+10
+00:00:53,632 --> 00:01:00,352
+PART.2: porque terminó su master y tiene
+que ir a devolver la beca. Y yo
+estoy estudiando un doctorado.
+Entonces a mí me queda un año y
+medio más o menos.
+
+11
+00:01:00,512 --> 00:01:01,992
+PART.1: Muy bien. ¿Aquí en la
+UAB?
+
+12
+00:01:02,352 --> 00:01:03,712
+PART.2: No. En la UPC.
+
+13
+00:01:03,792 --> 00:01:04,472
+PART.1: Ah.
+
+14
+00:01:04,552 --> 00:01:10,112
+PART.2: En la UPC. Ingeniería Industrial.
+Y... Y queda, queda bastante.
+
+15
+00:01:10,192 --> 00:01:11,192
+PART.1: Sí.
+
+16
+00:01:11,312 --> 00:01:12,312
+PART.2: ¿Y tú?
+
+17
+00:01:12,392 --> 00:01:18,032
+PART.1: Yo trabajo en el Centro de Visión
+por Computador, que es
+la otra parte del grupo.
+
+18
+00:01:18,112 --> 00:01:19,112
+PART.2: Ah, sí, sí.
+
+19
+00:01:19,912 --> 00:01:29,632
+PART.1: Y los conozco a ellos. Conozco a
+Sergio, que es el jefe de grupo, y
+nos pidieron sobre todo a las
+compañeras de allí que tenemos
+niños, porque necesitaban niños...
+
+20
+00:01:29,712 --> 00:01:30,592
+PART.2: Ah, ya.
+
+21
+00:01:30,672 --> 00:01:42,472
+PART.1: Y nos apuntamos básicamente por
+eso, para traer a los niños. Y hice
+una primera sesión y dijeron: "Por
+favor, necesitamos más interacciones
+con niños". Venga va. Pues vamos.
+Todo sea por la ciencia.
+
+22
+00:01:42,552 --> 00:01:52,032
+PART.1: Ya que llevo nueve años trabajando
+rodeada de científicos e
+investigadores, haremos algo por
+ellos.
+
+23
+00:01:56,032 --> 00:01:58,912
+PART.1: Y nada. Pero yo vivo en Sabadell
+y tengo que venir...
+
+24
+00:01:58,992 --> 00:02:09,192
+PART.2: Ya. Yo no sé cuándo vuelvo. Justo
+hablamos ayer y me dice: "Justo
+mañana tengo, confírmame y ya vemos
+más adelante cuando coordinamos la
+próxima vez".
+
+25
+00:02:09,272 --> 00:02:11,232
+PART.1: Claro. Ahora ya con el verano...
+
+26
+00:02:11,472 --> 00:02:24,952
+PART.2: Claro. Está el verano encima, sí.
+Bueno, lo que yo hago es simulación
+en computadores y he pensado un
+símil, porque vino un profesor y me
+dijo: "Mira prueba con todas estas
+comunidades".
+
+27
+00:02:25,032 --> 00:02:35,592
+PART.2: Porque lo que yo hago es la parte
+de modelamiento matemático de
+comunidades legisladas que les
+colocan energía con paneles
+fotovoltaicos y eólica.
+
+28
+00:02:35,672 --> 00:02:44,072
+PART.2: Esa es la
+parte del terreno que ven ellos,
+pero yo hago la parte matemáticas,
+entonces me dijo: "Aquí tienes ocho
+comunidades más de Ecuador y ocho
+comunidades más de Perú, hazlas".
+
+29
+00:02:44,152 --> 00:02:54,272
+PART.2: Y bueno, la universidad cierra en
+agosto, entonces hoy sigo ahí
+apurada tratando de avanzar lo mayor
+posible porque tenía que hacer una
+base, después de la base hacer las
+modificaciones y después ver los resultados.
+
+30
+00:02:54,672 --> 00:03:02,832
+PART.2: Pasa que los computadores de la
+universidad son más poderosos,
+tienen memoria, y los puedo hacer
+solamente en la universidad.
+
+31
+00:03:02,912 --> 00:03:03,592
+PART.1: Claro.
+
+32
+00:03:03,672 --> 00:03:15,792
+PART.2: En casa el computador que tengo
+no da, entonces por eso estoy
+apurándome y hago resultados,
+resultados y ya. Por último, en
+agosto analizo los datos, pero tengo
+que ocupar el computador.
+
+33
+00:03:15,872 --> 00:03:17,432
+PART.1: Ganarás algunos días de
+vacaciones por eso, ¿no?
+
+34
+00:03:17,512 --> 00:03:18,712
+PART.2: Si, voy a ganar.
+
+35
+00:03:18,792 --> 00:03:22,712
+PART.1: Si te dejan. Yo creo que sí.
+Algunos días podrás descansar.
+
+36
+00:03:22,792 --> 00:03:34,432
+PART.2: Creo que sí. Pero cuando me dijo:
+"Ahí tienes un montón de comunidades
+más que hay que analizar". Yo estaba
+tan tranquila y dije: "Bueno, espero
+agosto, vacaciones...". No, no, no.
+
+37
+00:03:35,192 --> 00:03:38,832
+PART.1: Ya, ya, ya. Conozco un montón de
+doctorandos...
+
+38
+00:03:38,912 --> 00:03:53,392
+PART.2: Uno está a la disposición de
+ellos. Porque cuando ellos no tienen
+tiempo, estás así como los
+pajaritos, pero cuando ellos tienen
+tiempo de atenderte, es cuando te
+aprietan ahí hasta que salgan los resultados.
+
+39
+00:03:53,472 --> 00:04:01,032
+PART.1: Nosotros también cerramos. El
+centro cierra en agosto tres
+semanas. Lo que pasa que, como
+comentabas, hay gente que tiene que
+ir trabajar allí.
+
+40
+00:04:01,192 --> 00:04:02,552
+PART.2: ¿El centro es de visión...?
+
+41
+00:04:02,632 --> 00:04:04,192
+PART.1: Centro de Visión por Computador.
+
+42
+00:04:04,272 --> 00:04:05,032
+PART.2: Por computador.
+
+43
+00:04:05,112 --> 00:04:06,112
+PART.1: Sí, sí. Hacen...
+
+44
+00:04:06,192 --> 00:04:07,312
+PART.2: Explícame un poquito.
+
+45
+00:04:08,152 --> 00:04:19,912
+PART.1: Es difícil, ¿eh? Hacen
+proyectos de reconocimiento de
+imágenes, ¿vale? Hay muchas ramas.
+Está la rama...
+
+46
+00:04:19,992 --> 00:04:24,072
+PART.2: Sí, que cuando me dices visión,
+no sé si está en el sentido de
+óptica...
+
+47
+00:04:24,152 --> 00:04:24,872
+PART.1: No, es informática.
+
+48
+00:04:24,952 --> 00:04:25,752
+PART.2: O en el sentido de... Ya, ya, ya.
+Ah, bien.
+
+49
+00:04:25,832 --> 00:04:27,032
+PART.1: Ingeniería informática
+especializada en...
+
+50
+00:04:27,112 --> 00:04:28,152
+PART.2: Por eso te pregunté.
+
+51
+00:04:28,232 --> 00:04:32,672
+PART.1: Sí, sí, sí. Es verdad, porque es
+el nombre que se le puso en su
+momento y hoy en día da un poco
+de...
+
+52
+00:04:32,752 --> 00:04:34,832
+PART.2: Entonces dije, antes de
+equivocarme, voy a preguntar bien.
+
+53
+00:04:34,912 --> 00:04:37,112
+PART.1: Sí, sí. No, estamos más o
+menos...
+
+54
+00:04:37,192 --> 00:04:38,472
+PART.2: Ya. ¿Es como un análisis de
+imágenes?
+
+55
+00:04:38,552 --> 00:04:51,392
+PART.1: Sí, sí, exacto. Sería análisis de
+imagen, reconocimiento de imágenes
+de diferentes... como este que están
+haciendo, ¿no? Facial... Hay la rama
+médica, la rama de coche autónomo de
+conducción autónoma...
+
+56
+00:04:51,472 --> 00:04:52,392
+PART.2: Ya, sí.
+
+57
+00:04:52,472 --> 00:05:01,272
+PART.1: Ramas muy interesantes. Hay unos
+proyectos muy interesantes. De
+arte ahora también se ha abierto...
+De analizar obras de arte. Está muy
+bien.
+
+58
+00:05:01,352 --> 00:05:18,272
+PART.2: Sí. Me parece interesante porque
+lo que yo estoy haciendo en el
+doctorado no es igual, pero de
+alguna forma yo estoy aplicando un
+método que se llama fuzzy que es
+tratar de llevar lo matemático a lo incierto, a lo difuso.
+
+59
+00:05:18,352 --> 00:05:27,752
+PART.2: Entonces se supone que el análisis,
+que yo estoy tratando, es de llevar
+de lo matemático a lo que en
+realidad la gente necesita de
+energía y de potencia en estas
+casas.
+
+60
+00:05:27,832 --> 00:05:37,672
+PART.2: Entonces, cuánto más o menos le
+puedo dar para no darle un máximo y
+no darle un mínimo. Porque el máximo
+me sale a mucho coste y con el
+mínimo no cumplo, por ejemplo, con
+los estándares que ellos quieren.
+
+61
+00:05:37,752 --> 00:05:45,592
+PART.2: Entonces, entre el rango de cero y
+uno, en el que cero no es nada y uno
+es todo, yo estoy evaluando
+matemáticamente eso.
+
+62
+00:05:46,952 --> 00:05:53,152
+PART.2: Claro, es el comportamiento un
+poquito de la persona que cuesta, de
+repente, asociarlo a los números.
+
+63
+00:05:53,792 --> 00:06:01,032
+PART.2: Por eso me dije cuando estaba
+escuchando la descripción del vídeo:
+Ah... A ver si saco alguna idea.
+
+64
+00:06:01,112 --> 00:06:02,112
+PART.1: A ver qué puedo sacar de ahí,
+¿no?
+
+65
+00:06:02,192 --> 00:06:03,512
+PART.2: Alguna idea de eso.
+
+66
+00:06:03,592 --> 00:06:04,512
+PART.1: Siempre estás alerta.
+
+67
+00:06:04,592 --> 00:06:05,432
+PART.2: Sí.
+

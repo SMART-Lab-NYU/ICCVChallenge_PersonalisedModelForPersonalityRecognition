@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:00,842
+SUPERVISOR: So, yeah? You ready?
+
+2
+00:00:00,000 --> 00:00:01,806
+PART.2: Yeah, yeah.
+
+3
+00:00:02,006 --> 00:00:04,306
+PART.1: Who is going to
+start first?
+
+4
+00:00:04,506 --> 00:00:06,806
+PART.2: You can start.
+
+5
+00:00:07,006 --> 00:00:13,504
+PART.1: Ok...So, the first
+question.Is this animal a mammal?
+
+6
+00:00:13,114 --> 00:00:15,342
+PART.2: No.
+
+7
+00:00:14,391 --> 00:00:16,737
+PART.1: Not a mammal.
+
+8
+00:00:15,570 --> 00:00:17,872
+PART.2: It's not a mammal, no.
+
+9
+00:00:18,251 --> 00:00:20,552
+PART.2: My question.
+
+10
+00:00:20,751 --> 00:00:23,052
+PART.2: We have to keep a track of
+questions.
+
+11
+00:00:23,251 --> 00:00:28,158
+PART.1: Maybe it's better we
+finish, I finishthen you start
+
+12
+00:00:28,357 --> 00:00:30,658
+PART.1: Cos maybe we lose the track
+of the questions...
+
+13
+00:00:29,957 --> 00:00:32,256
+PART.1: I don't know
+
+14
+00:00:31,207 --> 00:00:33,506
+PART.2: It's a suggestion.
+Yes. Of course.
+
+15
+00:00:33,423 --> 00:00:36,395
+PART.1: In the previous one...
+it was better
+
+16
+00:00:36,596 --> 00:00:38,895
+PART.2: Perfect.
+
+17
+00:00:39,093 --> 00:00:41,395
+PART.1: So. It's not a mammal.
+
+18
+00:00:40,934 --> 00:00:42,124
+PART.1: Is it a bird?
+
+19
+00:00:42,323 --> 00:00:43,351
+PART.2: No.
+
+20
+00:00:43,452 --> 00:00:45,751
+PART.1: Not a bird.
+
+21
+00:00:46,809 --> 00:00:50,693
+PART.1: Is it a kind of fish?
+
+22
+00:00:51,166 --> 00:00:53,895
+PART.2: Uh huh. No.
+
+23
+00:00:55,434 --> 00:01:04,077
+PART.1: So. Is it a kind of
+animals who can live both in water
+

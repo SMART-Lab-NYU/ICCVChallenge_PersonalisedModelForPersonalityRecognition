@@ -1,0 +1,440 @@
+1
+00:00:00,000 --> 00:00:01,232
+PART.2:  Vale. ¿Empiezas tú?
+
+2
+00:00:01,312 --> 00:00:01,912
+PART.1: Vale.
+
+3
+00:00:03,352 --> 00:00:05,472
+PART.1: El rojo...
+
+4
+00:00:09,992 --> 00:00:11,152
+PART.2:  ¡Eh!
+
+5
+00:00:12,912 --> 00:00:14,912
+PART.1: Ay, tenías que sacarlo tú ahora.
+
+6
+00:00:14,992 --> 00:00:17,072
+PART.2:  Bueno, está bien, ¿saco yo dos
+ahora?
+
+7
+00:00:17,152 --> 00:00:17,872
+PART.1: Sí.
+
+8
+00:00:17,952 --> 00:00:18,552
+PART.2:  Venga.
+
+9
+00:00:21,792 --> 00:00:23,672
+PART.2:  Este no es, este.
+
+10
+00:00:23,752 --> 00:00:24,552
+PART.1: Sí.
+
+11
+00:00:25,512 --> 00:00:27,072
+PART.1: Soy pésima.
+
+12
+00:00:27,152 --> 00:00:30,192
+PART.2:  Yo he jugado más veces, por eso, a
+lo mejor.
+
+13
+00:00:30,272 --> 00:00:31,072
+PART.1: Ah, ya.
+
+14
+00:00:31,152 --> 00:00:37,552
+PART.2:  No es que se me dé mejor o peor,
+sino que tengo fijado qué hay que
+hacer, ¿sabes?
+
+15
+00:00:37,632 --> 00:00:38,272
+PART.1: Ya.
+
+16
+00:00:40,392 --> 00:00:41,352
+PART.1: No, porque ya...
+
+17
+00:00:41,432 --> 00:00:42,832
+PART.1: Ay, sí, está la botella.
+
+18
+00:00:46,792 --> 00:00:48,672
+PART.1: Sillón rojo, libro.
+
+19
+00:00:48,752 --> 00:00:49,832
+PART.2:  Ah.
+
+20
+00:00:49,912 --> 00:00:51,112
+PART.2:  Muy bien.
+
+21
+00:00:54,032 --> 00:00:55,072
+PART.2:  Dale.
+
+22
+00:01:00,192 --> 00:01:01,192
+PART.2:  Sí, muy bien.
+
+23
+00:01:03,952 --> 00:01:05,712
+PART.2:  Ay, ¿tú?
+
+24
+00:01:06,192 --> 00:01:07,832
+PART.2:  Ti ti ti ti tití.
+
+25
+00:01:07,912 --> 00:01:09,032
+PART.1: Sí.
+
+26
+00:01:11,632 --> 00:01:13,272
+PART.2:  Ti titi titití.
+
+27
+00:01:14,192 --> 00:01:15,192
+PART.2:  Uy.
+
+28
+00:01:17,872 --> 00:01:20,992
+PART.2:  Eh, todo el rato te salen los
+mismos colores, ¿no?
+
+29
+00:01:21,072 --> 00:01:21,512
+PART.2:  ¿A ver?
+
+30
+00:01:21,592 --> 00:01:21,792
+PART.1: Sí.
+
+31
+00:01:21,872 --> 00:01:22,472
+PART.2:  Uy.
+
+32
+00:01:22,552 --> 00:01:23,552
+PART.2:  A ver.
+
+33
+00:01:23,632 --> 00:01:25,992
+PART.2:  Esto también es como interesante,
+¿ves?
+
+34
+00:01:26,072 --> 00:01:26,792
+PART.1: Sí.
+
+35
+00:01:26,872 --> 00:01:28,952
+PART.2:  Para mí es el fantasma el que
+no...
+
+36
+00:01:29,032 --> 00:01:32,192
+PART.1: Seré muy perezosa que me gusta
+leer.
+
+37
+00:01:32,272 --> 00:01:34,632
+PART.1: Esta mal porque mira.
+
+38
+00:01:35,712 --> 00:01:38,432
+PART.2:  Libros, borrachos y sofá.
+
+39
+00:01:37,592 --> 00:01:38,832
+PART.1: La cagó.
+
+40
+00:01:38,912 --> 00:01:40,992
+PART.1: Esto ha sido mi panorama los
+últimos días.
+
+41
+00:01:41,552 --> 00:01:43,512
+PART.1: Leer, estar echada y tomar.
+
+42
+00:01:43,592 --> 00:01:46,312
+PART.2:  Y estoy psicótica, tía, con todos
+los fantasmas todo el rato, ¿sabes?
+
+43
+00:01:46,392 --> 00:01:47,872
+PART.1: ¿Tienes algo que te persigue?
+
+44
+00:01:49,672 --> 00:01:50,792
+PART.1: Ya la lié.
+
+45
+00:01:52,712 --> 00:01:53,672
+PART.2:  Ti ti tí.
+
+46
+00:01:54,112 --> 00:01:55,072
+PART.1: No.
+
+47
+00:01:55,152 --> 00:01:55,872
+PART.2:  Es el mío.
+
+48
+00:01:55,952 --> 00:01:56,752
+PART.1: Hay, tienes razón.
+
+49
+00:01:56,832 --> 00:01:57,392
+PART.2:  Este.
+
+50
+00:01:57,672 --> 00:01:58,672
+PART.1: Ya lo superé.
+
+51
+00:01:59,712 --> 00:02:01,792
+PART.2:  eso te iba a decir, porque este te
+tocaba a ti.
+
+52
+00:02:01,872 --> 00:02:02,872
+PART.2:  ¿Te toca a ti?
+
+53
+00:02:02,952 --> 00:02:03,872
+PART.1: No, yo saqué recién.
+
+54
+00:02:04,952 --> 00:02:07,472
+PART.2:  Cha cha cha cha chán chan chan.
+
+55
+00:02:07,552 --> 00:02:08,552
+PART.2:  Ah, muy bien.
+
+56
+00:02:09,272 --> 00:02:10,712
+PART.2:  Sí, turno tuyo.
+
+57
+00:02:11,712 --> 00:02:15,552
+PART.2:  Chan chan chan chan, chan chan
+chan chan, chan.
+
+58
+00:02:15,632 --> 00:02:16,472
+PART.1: Sí.
+
+59
+00:02:18,992 --> 00:02:21,152
+PART.2:  Chan chan chan chan chan.
+
+60
+00:02:21,232 --> 00:02:23,032
+PART.1: Ay, no, porque está la silla.
+
+61
+00:02:24,592 --> 00:02:25,912
+PART.2:  Uy va.
+
+62
+00:02:25,992 --> 00:02:27,152
+PART.2:  Se me cae al suelo.
+
+63
+00:02:29,312 --> 00:02:30,112
+PART.2:  Vale.
+
+64
+00:02:30,472 --> 00:02:31,952
+PART.1: Te toca a ti el último.
+
+65
+00:02:32,032 --> 00:02:33,752
+PART.2:  Chan, trrrrr.
+
+66
+00:02:33,832 --> 00:02:35,552
+PART.2:  ¿Sofá o fantasma?
+
+67
+00:02:36,232 --> 00:02:37,392
+PART.1: Seguro.
+
+68
+00:02:37,472 --> 00:02:38,432
+PART.2:  ¡Ah!
+
+69
+00:02:37,592 --> 00:02:38,352
+PART.1: ¡Ah!
+
+70
+00:02:40,632 --> 00:02:41,592
+PART.2:  Ya.
+
+71
+00:02:41,672 --> 00:02:42,392
+PART.2:  Ya está.
+
+72
+00:02:43,232 --> 00:02:44,472
+PART.2:  Ay.
+
+73
+00:02:45,032 --> 00:02:47,312
+PART.2:  ¿Sabes qué pasa?
+
+74
+00:02:47,392 --> 00:02:53,752
+PART.2: Que de hecho,
+aquí hay una tendencia importante.
+
+75
+00:02:53,832 --> 00:03:05,192
+PART.2:  Cuando Javi me contó, bueno, nunca
+me contó de qué iba el experimento
+este, pero sí me decía como cosas
+sueltas de: "Hay pruebas, vamos a
+hacer juegos, tengo que buscar unos
+juegos que miran ciertas cosas.
+
+76
+00:03:05,272 --> 00:03:08,592
+PART.2:  Y como que salió este juego, ¿no?
+
+77
+00:03:08,672 --> 00:03:14,432
+PART.2:  Y yo cuando trabajaba de psicóloga
+y trabajaba con niños,
+justo teníamos este juego.
+
+78
+00:03:14,512 --> 00:03:15,272
+PART.1: Ah.
+
+79
+00:03:15,352 --> 00:03:21,152
+PART.2:  Porque este juego, para los niños
+que tienen TDH,
+que son superimpulsivos, es la
+leche.
+
+80
+00:03:21,232 --> 00:03:23,272
+PART.2:  Porque todo el rato tienes que
+estar controlándote.
+
+81
+00:03:23,352 --> 00:03:27,752
+PART.2:  De fijarte, parar y decidir.
+
+82
+00:03:27,832 --> 00:03:30,432
+PART.2:  Entonces, claro, mi una experta.
+
+83
+00:03:30,512 --> 00:03:33,352
+PART.1: Este juego es la primera vez que
+lo juego yo.
+
+84
+00:03:33,432 --> 00:03:38,112
+PART.2:  Hace dos años que no juego,
+pero acabo de jugar ahora con...
+
+85
+00:03:38,192 --> 00:03:39,912
+PART.1: Oye, sí, muy monocromática.
+
+86
+00:03:39,992 --> 00:03:40,712
+PART.1: Sí.
+
+87
+00:03:40,792 --> 00:03:43,312
+PART.2:  Sí, sí que es verdad, aquí hay más
+variedad.
+
+88
+00:03:46,272 --> 00:03:50,192
+PART.1: Yo no salgo de estos tres colores:
+azul, blanco y gris.
+
+89
+00:03:54,952 --> 00:03:55,992
+PART.2:  Así que te...
+
+90
+00:03:56,072 --> 00:03:57,872
+PART.2:  ¿Pero qué conoces al
+chico de antes?
+
+91
+00:03:57,952 --> 00:03:58,752
+PART.1: No.
+
+92
+00:03:58,832 --> 00:03:59,392
+PART.2:  ¿A nadie?
+
+93
+00:03:59,432 --> 00:04:00,632
+PART.1: Lo he conocido recién.
+
+94
+00:03:59,472 --> 00:04:00,752
+PART.2:  ¿Pero cómo te has enterado de
+esto?
+
+95
+00:04:01,552 --> 00:04:04,232
+PART.2:  ¿Te has enterado porque lo has
+visto por internet?
+
+96
+00:04:04,312 --> 00:04:05,512
+PART.1: Porque me llegó un correo.
+
+97
+00:04:05,592 --> 00:04:06,992
+PART.2:  Ah claro, de la UVEM.
+
+98
+00:04:07,072 --> 00:04:08,392
+PART.1: Sí, me llegó un correo.
+
+99
+00:04:08,472 --> 00:04:10,512
+PART.1: para participar de esto, y dije:
+"Allá voy".
+
+100
+00:04:10,592 --> 00:04:11,592
+PART.2:  Pues venga.
+
+101
+00:04:11,672 --> 00:04:11,952
+PART.1: Sí.
+
+102
+00:04:12,032 --> 00:04:13,112
+PART.2:  Pues maravilloso.
+

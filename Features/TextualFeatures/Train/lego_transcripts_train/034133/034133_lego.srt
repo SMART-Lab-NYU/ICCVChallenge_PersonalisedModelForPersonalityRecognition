@@ -1,0 +1,511 @@
+﻿1
+00:00:00,000 --> 00:00:00,846
+PART.1: Ah, viene con instrucciones.
+
+2
+00:00:01,246 --> 00:00:02,566
+PART.2: Es este, no.
+
+3
+00:00:02,646 --> 00:00:04,406
+PART.2: Este. Vale, este.
+
+4
+00:00:05,846 --> 00:00:07,966
+PART.2: Pero no entiendo qué es.
+
+5
+00:00:08,726 --> 00:00:09,366
+PART.1: Yo tampoco.
+
+6
+00:00:09,446 --> 00:00:10,286
+PART.2: ¿Tú ves lo que es?
+
+7
+00:00:14,246 --> 00:00:15,886
+PART.2: Bueno, lo haremos.
+
+8
+00:00:17,206 --> 00:00:20,086
+PART.2: Vale, hay que buscar la pieza
+marrón esta.
+
+9
+00:00:20,646 --> 00:00:21,086
+PART.1: ¿Esta?
+
+10
+00:00:21,326 --> 00:00:22,206
+PART.2: Esta sí, ¿no?
+
+11
+00:00:22,286 --> 00:00:23,006
+PART.2: ¿De cuánto es?
+
+12
+00:00:23,086 --> 00:00:23,766
+PART.2: De ocho, ¿no?
+
+13
+00:00:24,046 --> 00:00:24,486
+PART.1: Sí.
+
+14
+00:00:24,566 --> 00:00:25,326
+PART.2: Sí, vale.
+
+15
+00:00:25,406 --> 00:00:28,446
+PART.2: Y la verde de cuatro que es esta.
+
+16
+00:00:29,166 --> 00:00:30,126
+PART.1: Que se pone en el centro.
+
+17
+00:00:30,966 --> 00:00:31,366
+PART.2: Sí.
+
+18
+00:00:32,286 --> 00:00:35,166
+PART.2: Y ahora... esto que es como una
+florecilla.
+
+19
+00:00:35,646 --> 00:00:36,526
+PART.2: ¿Es esto?
+
+20
+00:00:38,406 --> 00:00:41,046
+PART.1: Pero el color es diferente, ¿no?
+
+21
+00:00:46,686 --> 00:00:47,246
+PART.2: No sé.
+
+22
+00:00:56,326 --> 00:00:57,886
+PART.2: No sé, igual sí que es esa, ¿no?
+
+23
+00:00:57,966 --> 00:00:58,686
+PART.1: Sí, tiene que ser esta, sí.
+
+24
+00:00:58,966 --> 00:00:59,406
+PART.1: Y va...
+
+25
+00:00:59,486 --> 00:01:00,446
+PART.2: Si hay otra ahí igual, ¿no?
+
+26
+00:01:00,526 --> 00:01:01,766
+PART.2: También de ese color, vale.
+
+27
+00:01:02,646 --> 00:01:04,326
+PART.1: Luego te lo paso para que lo
+hagas tú.
+
+28
+00:01:06,646 --> 00:01:07,406
+PART.2: Vale.
+
+29
+00:01:08,966 --> 00:01:11,926
+PART.2: Ahora seguimos para bingo con el
+arco este.
+
+30
+00:01:12,086 --> 00:01:13,126
+PART.2: Esta aquí.
+
+31
+00:01:13,206 --> 00:01:13,846
+PART.1: Ya, ¿no?
+
+32
+00:01:14,166 --> 00:01:15,606
+PART.2: Ah, dos. Hay que buscar dos.
+
+33
+00:01:17,166 --> 00:01:18,446
+PART.2: Dos, dos, dos.
+
+34
+00:01:23,326 --> 00:01:24,286
+PART.2: Ahí, vale.
+
+35
+00:01:25,406 --> 00:01:26,886
+PART.2: Ahora se ponen ahí encima, ¿no?
+
+36
+00:01:34,366 --> 00:01:35,086
+PART.2: Vale.
+
+37
+00:01:36,046 --> 00:01:38,126
+PART.2: Y ahora hay que buscar dos de
+estos negritos.
+
+38
+00:01:38,486 --> 00:01:39,206
+PART.2: Uno aquí...
+
+39
+00:01:41,406 --> 00:01:41,886
+PART.1: ¿Así?
+
+40
+00:01:42,966 --> 00:01:43,486
+PART.2: Sí, ¿no?
+
+41
+00:01:43,566 --> 00:01:43,966
+PART.2: Sí.
+
+42
+00:01:44,846 --> 00:01:45,806
+PART.2: Y se ponen así.
+
+43
+00:01:51,366 --> 00:01:52,886
+PART.2: ¡Uh! Se complica la trama.
+
+44
+00:01:53,846 --> 00:01:54,766
+PART.1: Nos engañaron.
+
+45
+00:01:55,326 --> 00:01:55,926
+PART.2: Sí, sí.
+
+46
+00:01:57,806 --> 00:02:01,686
+PART.2: A ver, hay que buscar uno que sea
+como la falca esta...
+
+47
+00:02:10,686 --> 00:02:11,406
+PART.2: Este de aquí, ¿no?
+
+48
+00:02:11,926 --> 00:02:12,526
+PART.1: Sí, ese.
+
+49
+00:02:12,206 --> 00:02:13,126
+PART.2: Sí, vale.
+
+50
+00:02:14,006 --> 00:02:17,646
+PART.2: Y ahora dos de estos marrones,
+pero de una sola hilera.
+
+51
+00:02:17,726 --> 00:02:18,526
+PART.2: Ahí están.
+
+52
+00:02:18,606 --> 00:02:20,286
+PART.2: Uno y el otro.
+
+53
+00:02:21,326 --> 00:02:22,366
+PART.2: ¿Esta es igual de color?
+
+54
+00:02:22,446 --> 00:02:22,886
+PART.2: Sí.
+
+55
+00:02:24,566 --> 00:02:26,126
+PART.2: Vale, y qué más.
+
+56
+00:02:26,766 --> 00:02:27,726
+PART.2: Separados.
+
+57
+00:02:28,006 --> 00:02:29,606
+PART.1: Verdes, así.
+
+58
+00:02:31,606 --> 00:02:32,206
+PART.2: Sí, ¿no?
+
+59
+00:02:32,286 --> 00:02:33,766
+PART.2: De esos, uno, que ya está.
+
+60
+00:02:33,846 --> 00:02:34,406
+PART.1: Y uno oscuro.
+
+61
+00:02:35,286 --> 00:02:36,526
+PART.2: Uno así con forma de...
+
+62
+00:02:38,566 --> 00:02:39,446
+PART.2: Sí. Es ese, ¿no?
+
+63
+00:02:40,326 --> 00:02:40,926
+PART.1: ¿Sí?
+
+64
+00:02:41,286 --> 00:02:42,126
+PART.1: Son diferentes, ¿verdad?
+
+65
+00:02:42,406 --> 00:02:42,926
+PART.2: Sí.
+
+66
+00:02:43,766 --> 00:02:46,086
+PART.2: Y esta florecilla que teníamos
+por aquí de antes.
+
+67
+00:02:48,766 --> 00:02:49,846
+PART.2: Vale, lo tenemos todo.
+
+68
+00:02:49,926 --> 00:02:50,886
+PART.1: ¿Y la rosadita?
+
+69
+00:02:51,526 --> 00:02:52,046
+PART.1: Esta.
+
+70
+00:02:52,166 --> 00:02:53,686
+PART.2: No. Esa creo que no, ¿no?
+
+71
+00:02:53,766 --> 00:02:54,806
+PART.2: Es como la de antes, ¿no?
+
+72
+00:02:55,166 --> 00:02:56,486
+PART.1: Y una verde y una...
+
+73
+00:02:55,406 --> 00:02:56,046
+PART.2: Con la flor.
+
+74
+00:02:56,726 --> 00:02:57,606
+PART.1: Ahí está, mira.
+
+75
+00:02:58,246 --> 00:02:58,886
+PART.2: Ah, vale.
+
+76
+00:02:59,326 --> 00:02:59,766
+PART.2: Sí.
+
+77
+00:03:00,486 --> 00:03:02,726
+PART.2: Vale, entonces ahora tenemos que
+juntar esto.
+
+78
+00:03:04,966 --> 00:03:06,486
+PART.2: Ponemos esto así.
+
+79
+00:03:10,046 --> 00:03:10,966
+PART.1: Ahí hay uno.
+
+80
+00:03:12,206 --> 00:03:12,966
+PART.2: Vale.
+
+81
+00:03:13,726 --> 00:03:15,406
+PART.2: Uy, no. Algo no he hecho bien.
+
+82
+00:03:15,486 --> 00:03:16,926
+PART.2: Vale, así.
+
+83
+00:03:19,846 --> 00:03:21,046
+PART.2: Y este que va aquí.
+
+84
+00:03:22,446 --> 00:03:23,046
+PART.2: Toma.
+
+85
+00:03:26,526 --> 00:03:27,166
+PART.2: Vale.
+
+86
+00:03:27,726 --> 00:03:29,726
+PART.2: Y ahora se pone eso encima
+y ya está.
+
+87
+00:03:31,606 --> 00:03:33,326
+PART.2: Y seguimos sin saber lo que es,
+¿no?
+
+88
+00:03:37,566 --> 00:03:38,326
+PART.1: ¿Una cocina?
+
+89
+00:03:38,046 --> 00:03:38,886
+PART.2: Bueno.
+
+90
+00:03:40,206 --> 00:03:41,766
+PART.1: Una plancha muy, muy rara.
+
+91
+00:03:42,366 --> 00:03:43,046
+PART.2: No sé.
+
+92
+00:03:45,406 --> 00:03:46,926
+PART.1: Está al revés, creo.
+
+93
+00:03:47,726 --> 00:03:49,206
+PART.2: Ah, ¿sí?
+
+94
+00:03:49,286 --> 00:03:51,246
+PART.1: Claro, para que sea exactamente
+la figura...
+
+95
+00:03:51,726 --> 00:03:53,406
+PART.2: Ah, el de abajo está mal, ¿no?
+
+96
+00:03:53,486 --> 00:03:54,206
+PART.1: Es el de abajo.
+
+97
+00:03:54,286 --> 00:03:55,206
+PART.2: El de abajo, vale.
+
+98
+00:03:58,926 --> 00:04:00,126
+PART.2: Sí, tiene que estar aquí, ¿no?
+
+99
+00:04:02,406 --> 00:04:03,246
+PART.2: Bueno, ya está.
+
+100
+00:04:04,246 --> 00:04:04,726
+PART.2: Vale.
+
+101
+00:04:05,406 --> 00:04:06,326
+PART.2: Pues no sé, ¿eh?
+
+102
+00:04:06,646 --> 00:04:12,086
+PART.2: Parece un puesto de "frankfurt",
+si esto fuera mostaza y... No sé, no
+sé.
+
+103
+00:04:08,566 --> 00:04:09,206
+PART.1: Ah, sí.
+
+104
+00:04:12,926 --> 00:04:13,766
+PART.2: Por decir algo, ¿eh?
+
+105
+00:04:13,846 --> 00:04:15,726
+PART.2: Pero no tiene sentido porque...
+
+106
+00:04:14,886 --> 00:04:16,086
+PART.1: Puesto de "frankfurt".
+
+107
+00:04:18,686 --> 00:04:20,606
+PART.1: Tiene muy arriba los condimentos.
+
+108
+00:04:21,046 --> 00:04:21,686
+PART.2: Sí, sí.
+
+109
+00:04:23,166 --> 00:04:24,566
+PART.1: A lo mejor lo de los frascos.
+
+110
+00:04:24,886 --> 00:04:25,846
+PART.2: Sí, de aquí de los...
+
+111
+00:04:25,926 --> 00:04:26,966
+PART.1: Tiene extractor, ¿no?
+
+112
+00:04:27,486 --> 00:04:28,526
+PART.1: Sí tiene sentido.
+
+113
+00:04:28,606 --> 00:04:30,206
+PART.2: Bueno, no sé si mucho, pero
+bueno.
+
+114
+00:04:30,526 --> 00:04:31,886
+PART.1: Una cosita de "Barbies".
+
+115
+00:04:32,886 --> 00:04:34,966
+PART.2: Sí, sí. Aquí no pone nada de qué
+es.
+
+116
+00:04:35,566 --> 00:04:36,086
+PART.2: ¿A ver?
+
+117
+00:04:41,726 --> 00:04:44,086
+PART.1: A lo mejor con los otros lados
+tiene sentido, pero no.
+
+118
+00:04:45,286 --> 00:04:46,806
+PART.2: No, tampoco tiene mucho esto,
+¿no?
+
+119
+00:04:46,886 --> 00:04:47,806
+PART.1: ¿Es como un molino?
+
+120
+00:04:50,126 --> 00:04:51,166
+PART.2: Bueno, lo que sea.
+
+121
+00:04:52,606 --> 00:04:55,086
+PART.2: Es un puesto de "frankfurt"
+vegetariano y ya está.
+
+122
+00:04:55,526 --> 00:04:56,086
+PART.1: Sí.
+
+123
+00:04:56,806 --> 00:04:59,926
+PART.2: De tofu y esos son aguacate y...
+

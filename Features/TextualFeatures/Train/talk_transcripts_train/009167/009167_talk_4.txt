@@ -1,0 +1,94 @@
+40
+00:04:01,192 --> 00:04:02,552
+PART.2: ¿El centro es de visión...?
+
+41
+00:04:02,632 --> 00:04:04,192
+PART.1: Centro de Visión por Computador.
+
+42
+00:04:04,272 --> 00:04:05,032
+PART.2: Por computador.
+
+43
+00:04:05,112 --> 00:04:06,112
+PART.1: Sí, sí. Hacen...
+
+44
+00:04:06,192 --> 00:04:07,312
+PART.2: Explícame un poquito.
+
+45
+00:04:08,152 --> 00:04:19,912
+PART.1: Es difícil, ¿eh? Hacen
+proyectos de reconocimiento de
+imágenes, ¿vale? Hay muchas ramas.
+Está la rama...
+
+46
+00:04:19,992 --> 00:04:24,072
+PART.2: Sí, que cuando me dices visión,
+no sé si está en el sentido de
+óptica...
+
+47
+00:04:24,152 --> 00:04:24,872
+PART.1: No, es informática.
+
+48
+00:04:24,952 --> 00:04:25,752
+PART.2: O en el sentido de... Ya, ya, ya.
+Ah, bien.
+
+49
+00:04:25,832 --> 00:04:27,032
+PART.1: Ingeniería informática
+especializada en...
+
+50
+00:04:27,112 --> 00:04:28,152
+PART.2: Por eso te pregunté.
+
+51
+00:04:28,232 --> 00:04:32,672
+PART.1: Sí, sí, sí. Es verdad, porque es
+el nombre que se le puso en su
+momento y hoy en día da un poco
+de...
+
+52
+00:04:32,752 --> 00:04:34,832
+PART.2: Entonces dije, antes de
+equivocarme, voy a preguntar bien.
+
+53
+00:04:34,912 --> 00:04:37,112
+PART.1: Sí, sí. No, estamos más o
+menos...
+
+54
+00:04:37,192 --> 00:04:38,472
+PART.2: Ya. ¿Es como un análisis de
+imágenes?
+
+55
+00:04:38,552 --> 00:04:51,392
+PART.1: Sí, sí, exacto. Sería análisis de
+imagen, reconocimiento de imágenes
+de diferentes... como este que están
+haciendo, ¿no? Facial... Hay la rama
+médica, la rama de coche autónomo de
+conducción autónoma...
+
+56
+00:04:51,472 --> 00:04:52,392
+PART.2: Ya, sí.
+
+57
+00:04:52,472 --> 00:05:01,272
+PART.1: Ramas muy interesantes. Hay unos
+proyectos muy interesantes. De
+arte ahora también se ha abierto...
+De analizar obras de arte. Está muy
+bien.
+

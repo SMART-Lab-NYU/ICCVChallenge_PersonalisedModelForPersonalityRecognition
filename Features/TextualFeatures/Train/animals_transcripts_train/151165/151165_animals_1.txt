@@ -1,0 +1,98 @@
+25
+00:01:00,020 --> 00:01:01,020
+PART.2: Sí.
+
+26
+00:01:02,900 --> 00:01:04,060
+PART.2: En algunas selvas.
+
+27
+00:01:05,860 --> 00:01:06,860
+PART.1: ¿Es peligroso?
+
+28
+00:01:08,740 --> 00:01:10,860
+PART.2: Puede llegar a serlo,
+pero en principio no.
+
+29
+00:01:13,420 --> 00:01:14,580
+PART.1: Totalmente perdida.
+
+30
+00:01:17,420 --> 00:01:20,140
+PART.2: Tiene capacidades físicas
+como para hacerte mucho caño.
+
+31
+00:01:20,860 --> 00:01:22,980
+PART.2: Pero... Pero no es peligroso.
+
+32
+00:01:23,620 --> 00:01:24,500
+PART.1: ¿Un canguro?
+
+33
+00:01:24,580 --> 00:01:25,500
+PART.2: No.
+
+34
+00:01:26,460 --> 00:01:27,780
+PART.1: No lo voy a adivinar.
+
+35
+00:01:28,740 --> 00:01:30,300
+PART.1: A ver, piensa preguntas.
+
+36
+00:01:31,780 --> 00:01:33,100
+PART.1: No sé si te lo he preguntado ya.
+
+37
+00:01:34,500 --> 00:01:35,700
+PART.1: Si era mamífero, no me acuerdo.
+
+38
+00:01:35,780 --> 00:01:36,500
+PART.2: Sí.
+
+39
+00:01:36,580 --> 00:01:37,340
+PART.1: ¿Te lo he preguntado?
+
+40
+00:01:37,420 --> 00:01:38,500
+PART.2: Me lo has preguntado.
+
+41
+00:01:44,380 --> 00:01:45,380
+PART.1: ¿Es muy grande?
+
+42
+00:01:45,460 --> 00:01:46,460
+PART.2: Sí.
+
+43
+00:01:48,420 --> 00:01:49,820
+PART.2: Esa es la pregunta.
+
+44
+00:01:50,220 --> 00:01:50,820
+PART.1: ¿Elefante?
+
+45
+00:01:50,900 --> 00:01:51,620
+PART.2: Sí.
+
+46
+00:01:53,460 --> 00:01:54,380
+PART.2: Vale.
+
+47
+00:01:54,700 --> 00:01:55,900
+PART.1: Entonces me lo quito ya.
+
+48
+00:01:56,180 --> 00:01:57,260
+PART.2: Sí, si quieres, sí.
+

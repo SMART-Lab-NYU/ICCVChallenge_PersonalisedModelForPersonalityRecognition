@@ -1,0 +1,36 @@
+49
+00:04:01,360 --> 00:04:11,640
+PART.1: Depende del tipo de cálculo que
+quiera hacer. ¿Vosotros lo que
+calculáis es la analogía usando una
+filtración particular que vosotros
+definís?
+
+50
+00:04:11,720 --> 00:04:13,160
+PART.2: ¿"Vector Ribs"?
+
+51
+00:04:15,040 --> 00:04:39,120
+PART.1: Pues es de los que
+mejor va. Que está en C o C++. Pero
+si lo que estáis calculando que algo
+que geométricamente tiene sentido en
+3D o 2D y no tiene sentido más allá,
+quizá hacer "alfa-complexes" tiene más sentido.
+
+52
+00:04:39,200 --> 00:04:44,520
+PART.1: Porque todo se reduce y el cálculo
+es más rápido y todo te lo hace en
+medio segundo.
+
+53
+00:04:55,160 --> 00:05:16,360
+PART.2: Claro. En las redes estas la
+topología que se realiza con una
+red, es una topología supercompleja.
+No tiene ningún sentido de objeto
+geométrico. Es una cosa
+supercomplicada.
+

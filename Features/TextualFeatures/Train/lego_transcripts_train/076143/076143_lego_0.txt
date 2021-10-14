@@ -1,0 +1,38 @@
+﻿1
+00:00:04,004 --> 00:00:05,004
+PART.1: Like a...
+
+2
+00:00:06,604 --> 00:00:07,704
+PART.2: It's a shoe?
+
+3
+00:00:07,704 --> 00:00:10,404
+PART.1: A shoe, I think so.
+
+4
+00:00:10,704 --> 00:00:13,704
+PART.1: Here we should have instructions.
+
+5
+00:00:15,104 --> 00:00:16,104
+PART.1: Yes.
+
+6
+00:00:17,504 --> 00:00:20,004
+PART.1: So, we have
+to follow the instructions.
+
+7
+00:00:25,404 --> 00:00:30,004
+PART.1: Yes, these are the instructions,
+so we have to start collecting.
+
+8
+00:00:30,104 --> 00:00:32,004
+PART.1: This is one, no?
+
+9
+00:00:41,004 --> 00:00:42,204
+PART.1: This is the other.
+

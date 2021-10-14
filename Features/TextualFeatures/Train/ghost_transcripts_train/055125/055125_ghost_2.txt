@@ -1,0 +1,14 @@
+47
+00:02:04,578 --> 00:02:07,538
+PART.1: "Bueno", tu has guanyat el joc d'abans
+i ara t'havia de guanyar jo.
+
+48
+00:02:07,618 --> 00:02:10,938
+PART.2: Ja, però al joc d'abans podíem guanyar els dos
+i aquí només podia guanyar un.
+
+49
+00:02:11,018 --> 00:02:11,538
+PART.1: Ja.
+

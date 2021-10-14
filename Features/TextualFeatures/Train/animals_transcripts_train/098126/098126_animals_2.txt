@@ -1,0 +1,73 @@
+42
+00:02:00,459 --> 00:02:01,059
+PART.1: Diria que no.
+
+43
+00:02:01,139 --> 00:02:03,099
+PART.2: Diries que no, normalment, no.
+
+44
+00:02:03,179 --> 00:02:04,499
+PART.1: No, diria que no.
+
+45
+00:02:04,579 --> 00:02:06,059
+PART.2: Normalment, no, val.
+
+46
+00:02:06,139 --> 00:02:08,699
+PART.1: No és agressiu, però no és tipus gat o gos.
+
+47
+00:02:08,779 --> 00:02:12,379
+PART.2: O sigui, no és un animal de companyia,
+per dir-ho d'alguna manera.
+
+48
+00:02:12,459 --> 00:02:13,259
+PART.1: Exacte.
+
+49
+00:02:14,179 --> 00:02:20,299
+PART.1: Val. Jo. És un animal que pot estar a la granja?
+
+50
+00:02:20,379 --> 00:02:25,739
+PART.2: Normalment, no. Normalment, no.
+
+51
+00:02:25,819 --> 00:02:29,219
+PART.1: OK. Val. Vas tu.
+
+52
+00:02:31,859 --> 00:02:33,739
+PART.2: L'última cosa que he dit…
+
+53
+00:02:33,819 --> 00:02:35,419
+PART.1: Que si era sociable…
+
+54
+00:02:35,499 --> 00:02:36,539
+PART.2: Sociable.
+
+55
+00:02:45,899 --> 00:02:48,659
+PART.2: Viu en boscos? A la muntanya?
+
+56
+00:02:48,739 --> 00:02:53,899
+PART.1: Sí, sí. Val. El meu és gran per ser una au?
+
+57
+00:02:53,979 --> 00:02:55,459
+PART.1: És de les grans?
+
+58
+00:02:55,539 --> 00:02:58,739
+PART.2: Sí, per ser una au, sí.
+
+59
+00:02:58,819 --> 00:03:00,179
+PART.1: Val.
+

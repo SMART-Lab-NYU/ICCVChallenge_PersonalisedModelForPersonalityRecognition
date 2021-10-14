@@ -1,0 +1,726 @@
+1
+00:00:00,000 --> 00:00:01,992
+PART.2: ¿Nos hacemos pasar
+por desconocidos?
+
+2
+00:00:03,272 --> 00:00:04,392
+PART.1: Sí, ¿no?
+
+3
+00:00:05,232 --> 00:00:06,232
+PART.1: ¿Empezamos?
+
+4
+00:00:06,312 --> 00:00:07,832
+PART.2: ¿Qué te cuentas, Richard?
+
+5
+00:00:07,912 --> 00:00:09,392
+PART.1: Yo te iba a decir una cosa.
+
+6
+00:00:09,472 --> 00:00:10,472
+PART.1: Hace dos días...
+
+7
+00:00:11,472 --> 00:00:12,872
+PART.1: Estaba yo
+un poco aburrido.
+
+8
+00:00:12,952 --> 00:00:15,232
+PART.1: Me pongo a buscar
+por Reddit una mierda...
+
+9
+00:00:14,712 --> 00:00:15,712
+PART.2: ¿Sí?
+
+10
+00:00:15,792 --> 00:00:17,672
+PART.1: Y encuentro el sub Reddit
+de Barcelona.
+
+11
+00:00:17,752 --> 00:00:21,392
+PART.1: Y lo mejor de todo es que
+encontré que había un pavo, un guiri,
+
+12
+00:00:21,472 --> 00:00:26,312
+PART.1: que se había hecho el
+mapa este del TMB, de todas las paradas de metro y tal
+
+13
+00:00:26,392 --> 00:00:28,432
+PART.1: y las había traducido
+literalmente en inglés.
+
+14
+00:00:28,512 --> 00:00:30,592
+PART.2: Hostia, eso lo he visto.
+Sí, sí.
+
+15
+00:00:30,672 --> 00:00:32,352
+PART.1: Y hay uno
+que me hizo mucha gracia.
+
+16
+00:00:32,432 --> 00:00:33,872
+PART.1: Es el de Entença.
+
+17
+00:00:33,952 --> 00:00:36,152
+PART.1: Que lo tradujo
+como "Do you 'undertença'?".
+
+18
+00:00:36,232 --> 00:00:37,232
+PART.1: Es buenísimo.
+
+19
+00:00:37,312 --> 00:00:39,752
+PART.1: Y no se me ocurrió
+pasártelo, tío.
+
+20
+00:00:39,832 --> 00:00:41,232
+PART.1: Se me ha ocurrido ahora.
+
+21
+00:00:41,312 --> 00:00:42,472
+PART.2: Hostia...
+
+22
+00:00:42,552 --> 00:00:44,432
+PART.1: Pero fue una risa cuando lo vi.
+
+23
+00:00:44,512 --> 00:00:46,192
+PART.2: Sí, sí.
+Traducido literalmente.
+
+24
+00:00:46,272 --> 00:00:48,832
+PART.2: Y Rocafort, "strong...".
+Piedra no sé qué.
+
+25
+00:00:48,152 --> 00:00:49,192
+PART.1: Sí, sí.
+
+26
+00:00:49,272 --> 00:00:50,472
+PART.1: "Strong rock", o algo
+así.
+
+27
+00:00:50,552 --> 00:00:51,592
+PART.2: Hostia.
+
+28
+00:00:51,672 --> 00:00:54,632
+PART.2: Que no tiene nada que
+ver, pero muy majestuoso eso verlo.
+
+29
+00:00:55,472 --> 00:00:56,472
+PART.2: Otra cosa que vi.
+
+30
+00:00:56,552 --> 00:01:00,312
+PART.2: Ahora estoy haciendo un
+txt de estos de la línea de autobús de Barcelona.
+
+31
+00:01:00,552 --> 00:01:01,552
+PART.1: ¿Un txt?
+
+32
+00:01:01,632 --> 00:01:02,632
+PART.2: Sí.
+
+33
+00:01:02,152 --> 00:01:03,152
+PART.1: ¿Por?
+
+34
+00:01:03,232 --> 00:01:05,072
+PART.2: Para hacer una aplicación
+que te encadene autobuses.
+
+35
+00:01:06,072 --> 00:01:07,472
+PART.1: Pero ¿un txt?
+
+36
+00:01:07,552 --> 00:01:08,552
+PART.2: Sí.
+
+37
+00:01:08,632 --> 00:01:09,632
+PART.1: ¿Cómo haces la aplicación?
+
+38
+00:01:09,712 --> 00:01:11,312
+PART.1: ¿No te iría mejor
+un "json"?
+
+39
+00:01:11,392 --> 00:01:12,392
+PART.1: ¿O un xml?
+
+40
+00:01:12,992 --> 00:01:14,032
+PART.1: Para leerlo mejor.
+
+41
+00:01:14,112 --> 00:01:15,552
+PART.1: En verdad, daría bastante
+igual.
+
+42
+00:01:14,952 --> 00:01:15,992
+PART.2: Es posible que sí.
+
+43
+00:01:16,072 --> 00:01:18,352
+PART.1: No sé, es que el txt
+es demasiado primitivo.
+
+44
+00:01:18,432 --> 00:01:19,832
+PART.1: Y a lo mejor no te deja
+"seguir" cosas.
+
+45
+00:01:19,912 --> 00:01:21,232
+PART.2: No, si solo es leerlo,
+nada más.
+
+46
+00:01:21,312 --> 00:01:23,112
+PART.1: Pero solo las líneas de...
+
+47
+00:01:23,192 --> 00:01:24,272
+PART.1: Son solo los nombres
+de...
+
+48
+00:01:24,352 --> 00:01:26,192
+PART.2: No, por ejemplo,
+la línea esta.
+
+49
+00:01:26,272 --> 00:01:28,912
+PART.2: Por ejemplo, 104
+dirección...
+
+50
+00:01:28,992 --> 00:01:31,232
+PART.2: 104, barra baja, cc, oo.
+
+51
+00:01:31,872 --> 00:01:34,192
+PART.2: Y un igual y es una lista
+con números.
+
+52
+00:01:36,272 --> 00:01:38,152
+PART.1: Quizá un "json"...
+
+53
+00:01:38,232 --> 00:01:39,832
+PART.1: ¿Sabes lo que es el
+"json"?
+
+54
+00:01:39,032 --> 00:01:40,152
+PART.2: No, pero ahora sí.
+
+55
+00:01:40,232 --> 00:01:41,912
+PART.1: Es un buen momento
+para que te lo explique.
+
+56
+00:01:41,992 --> 00:01:42,992
+PART.1: Es como...
+
+57
+00:01:43,072 --> 00:01:44,352
+PART.1: Es el...
+
+58
+00:01:44,432 --> 00:01:50,592
+PART.1: Es un formato estándar
+de javascript que, simplemente, te
+codifica texto como si fuera un
+objeto.
+
+59
+00:01:50,672 --> 00:01:53,352
+PART.1: Entonces, tú puedes tener
+un objeto...
+
+60
+00:01:52,392 --> 00:01:53,392
+PART.2: Sí.
+
+61
+00:01:53,472 --> 00:01:57,952
+PART.1: ...puesto en texto,
+con variables en plan: título y el
+texto.
+
+62
+00:01:58,432 --> 00:02:01,152
+PART.1: Cantidades y números y
+tal. Y todo eso.
+
+63
+00:02:01,232 --> 00:02:04,712
+PART.1: Eso, claro, lo puedes
+tener y es un fichero de texto plano.
+
+64
+00:02:04,792 --> 00:02:07,432
+PART.1: Entonces, lo puedes tener
+como en físico
+
+65
+00:02:07,512 --> 00:02:10,752
+PART.1: y luego tú, en tu
+aplicación, lo puedes recoger
+
+66
+00:02:10,832 --> 00:02:12,352
+PART.1: y hacerlo un...
+
+67
+00:02:12,432 --> 00:02:14,272
+PART.1: Entonces, todo eso
+ya es manipulable.
+
+68
+00:02:14,352 --> 00:02:15,552
+PART.2: Está mamadísimo eso.
+
+69
+00:02:14,952 --> 00:02:16,352
+PART.1: Está bastante guay.
+
+70
+00:02:16,432 --> 00:02:17,472
+PART.2: Lo miraré.
+
+71
+00:02:17,552 --> 00:02:20,272
+PART.1: Si tienes que utilizar
+javascript o cosas de web,
+
+72
+00:02:20,352 --> 00:02:21,832
+PART.1: es lo que más se utiliza.
+
+73
+00:02:21,192 --> 00:02:22,312
+PART.2: Ah, pues mira.
+
+74
+00:02:22,392 --> 00:02:23,632
+PART.2: Ya tengo qué hacer.
+¿Ves qué bien?
+
+75
+00:02:23,032 --> 00:02:24,512
+PART.1: Mira, ¿ves? Ahí. Ya está.
+
+76
+00:02:24,592 --> 00:02:27,912
+PART.2: Ahora, entre esto
+y que estoy haciendo un juego de rol
+
+77
+00:02:27,992 --> 00:02:31,152
+PART.2: estilo Cards Against
+Humanity de los personajes del "parchiste"...
+
+78
+00:02:31,872 --> 00:02:33,752
+PART.1: Encontré la web de...
+
+79
+00:02:32,752 --> 00:02:34,112
+PART.2: Dios nos pille...
+
+80
+00:02:34,192 --> 00:02:36,432
+PART.2: Eso mola un huevazo.
+Yo jugué una online...
+
+81
+00:02:36,512 --> 00:02:40,072
+PART.2: Y lo primero que salió
+fue "penis breath", aliento de pene.
+
+82
+00:02:40,152 --> 00:02:41,472
+PART.1: ¿Eso qué?
+¿En el "parchiste"?
+
+83
+00:02:41,552 --> 00:02:43,832
+PART.2: No, en el...
+Cards Humanity
+
+84
+00:02:43,912 --> 00:02:45,432
+PART.1: ¿Te pasé el link o no?
+
+85
+00:02:44,792 --> 00:02:45,792
+PART.2: Sí.
+
+86
+00:02:45,872 --> 00:02:47,032
+PART.1: Ah, vale.
+
+87
+00:02:46,392 --> 00:02:48,792
+PART.2: Lo tengo en físico
+también, que se lo compré a un amigo mío.
+
+88
+00:02:48,872 --> 00:02:53,072
+PART.1: Ah, tío, fue a mi casa
+y no pillé el Cards Against Humanity
+ese que te dije.
+
+89
+00:02:53,152 --> 00:02:54,272
+PART.2: "No pasa nada. ¿Servidores?"
+
+90
+00:02:54,352 --> 00:02:56,752
+PART.1: Pero el que está basado
+en sistemas.
+
+91
+00:02:56,832 --> 00:02:57,832
+PART.1: O sea, en...
+
+92
+00:02:57,912 --> 00:02:58,872
+PART.2: Hay más días,
+no pasa nada.
+
+93
+00:02:58,952 --> 00:03:00,032
+PART.1: No, no, ya, ya.
+
+94
+00:03:00,112 --> 00:03:01,232
+PART.1: Buah, un día sí que
+podíamos jugar.
+
+95
+00:03:01,312 --> 00:03:02,832
+PART.1: En vez de un... y tal...
+
+96
+00:03:03,632 --> 00:03:04,792
+PART.1: Ya te lo comenté, tío.
+
+97
+00:03:05,512 --> 00:03:08,312
+PART.1: ¿Qué es lo más triste
+que has visto en tu vida? O algo así.
+
+98
+00:03:08,392 --> 00:03:09,872
+PART.1: Y salía a Papá Noel...
+
+99
+00:03:10,312 --> 00:03:13,072
+PART.1: sentado en el baño,
+comiendo espaguetis mientras lloraba.
+
+100
+00:03:13,872 --> 00:03:15,952
+PART.1: Lo más triste, tío,
+lo más triste.
+
+101
+00:03:16,032 --> 00:03:20,112
+PART.2: Yo voy a hacer: meterle
+un linterna por el culo de Daniel Radcliffe.
+
+102
+00:03:20,192 --> 00:03:21,352
+PART.1: ¿A quién?
+
+103
+00:03:21,432 --> 00:03:23,352
+PART.2: El Daniel Radcliffe.
+El de Harry Potter.
+
+104
+00:03:23,432 --> 00:03:24,472
+PART.1: Hostia.
+
+105
+00:03:24,032 --> 00:03:26,232
+PART.2: Haré una pregunta
+de ¿Esto qué harías en...
+
+106
+00:03:26,712 --> 00:03:30,312
+PART.2: Esto "turned into...
+
+107
+00:03:30,392 --> 00:03:32,672
+PART.2: Daniel Radcliffe anus".
+
+108
+00:03:34,392 --> 00:03:35,312
+PART.1: Maravilloso.
+
+109
+00:03:35,392 --> 00:03:37,792
+PART.2: Es que me encantan
+las cartas en las que son más de una.
+
+110
+00:03:37,872 --> 00:03:39,312
+PART.2: porque haces magia
+con esas.
+
+111
+00:03:39,392 --> 00:03:40,992
+PART.1: O esa o la de...
+
+112
+00:03:41,072 --> 00:03:43,912
+PART.1: La que haces...
+La que te escribes tú mismo.
+
+113
+00:03:43,992 --> 00:03:44,992
+PART.2: Oh.
+
+114
+00:03:45,072 --> 00:03:47,152
+PART.1: Esa...
+Esa es la carta mágica.
+
+115
+00:03:47,232 --> 00:03:49,312
+PART.1: Porque, simplemente,
+es poner Hitler y ya está.
+
+116
+00:03:49,392 --> 00:03:51,592
+PART.2: "Sí, o nazis o Stalin,
+la que tú quieras".
+
+117
+00:03:54,352 --> 00:03:56,872
+PART.2: Yo he jugado una versión
+de Cards Against Humanity
+
+118
+00:03:56,952 --> 00:03:58,072
+PART.2: en la que tú dices
+todos...
+
+119
+00:03:58,152 --> 00:04:00,112
+PART.2: Básicamente...
+Por ejemplo, dice:
+
+120
+00:04:00,192 --> 00:04:02,472
+PART.2: ¿Cómo irías a un funeral?
+
+121
+00:04:03,232 --> 00:04:07,032
+PART.2: Y tú, en vez de tener una
+carta, le mandas por WhatsApp a alguien la respuesta
+
+122
+00:04:07,112 --> 00:04:10,232
+PART.2: en plan: Iría con unas
+cadenas y una camiseta de los Lakers
+
+123
+00:04:10,312 --> 00:04:12,672
+PART.2: porque "he de ir de
+negro". Cosas así.
+
+124
+00:04:11,632 --> 00:04:12,872
+PART.1: Está bien.
+
+125
+00:04:14,232 --> 00:04:16,472
+PART.1: Ahora que hablas de
+funeral, tío, me he acordado...
+
+126
+00:04:17,912 --> 00:04:19,272
+PART.1: Justo, ¿eh? De funeral.
+
+127
+00:04:19,352 --> 00:04:20,472
+PART.2: Joder...
+
+128
+00:04:20,552 --> 00:04:23,552
+PART.1: Me he acordado de un meme
+de un pavo de Twitter que dice:
+
+129
+00:04:23,632 --> 00:04:25,872
+PART.1: Hostia, habíamos quedado
+para ir de luto.
+
+130
+00:04:25,952 --> 00:04:27,912
+PART.1: Y dice: ¿De luto?
+¿No era de Pluto?
+
+131
+00:04:27,992 --> 00:04:31,592
+PART.1: Y se le ve a él
+en el funeral vestido de Pluto.
+
+132
+00:04:31,672 --> 00:04:32,712
+PART.1: Tío, es buenísimo.
+
+133
+00:04:32,792 --> 00:04:34,312
+PART.2: Yo quiero que en mi funeral
+
+134
+00:04:34,392 --> 00:04:35,752
+PART.2: la mitad de gente
+vaya vestida de Pluto
+
+135
+00:04:35,832 --> 00:04:38,792
+PART.2: y la mitad de gente vaya
+con cadenas y camiseta de los Lakers
+
+136
+00:04:38,872 --> 00:04:40,072
+PART.2: porque han de ir de
+negro.
+
+137
+00:04:40,152 --> 00:04:41,152
+PART.2: Eso...
+
+138
+00:04:42,872 --> 00:04:44,392
+PART.2: Cada uno con una
+temática.
+
+139
+00:04:44,992 --> 00:04:46,432
+PART.1: Hostia... Lo veo.
+
+140
+00:04:46,512 --> 00:04:49,912
+PART.1: Me estaba rallando y
+digo: ¿Por qué cadenas y camiseta de basket?
+
+141
+00:04:49,992 --> 00:04:50,992
+PART.1: No sabía por qué.
+
+142
+00:04:51,072 --> 00:04:52,312
+PART.1: Digo: Coño, de negro.
+
+143
+00:04:52,392 --> 00:04:54,032
+PART.1: Hostia...
+
+144
+00:04:54,872 --> 00:04:58,512
+PART.2: Mi funeral me lo imagino
+como algo totalmente irracional
+
+145
+00:04:58,592 --> 00:05:00,592
+PART.2: Donde se parezca cero
+a los demás funerales.
+
+146
+00:05:00,952 --> 00:05:02,552
+PART.2: Todo el mundo de risas.
+
+147
+00:05:03,752 --> 00:05:05,552
+PART.1: Todo el mundo riéndose.
+Buah...
+
+148
+00:05:06,032 --> 00:05:10,192
+PART.1: ¿Sabes lo típico que se
+pone la foto de la persona y tal?
+
+149
+00:05:09,552 --> 00:05:10,552
+PART.2: Sí.
+
+150
+00:05:10,632 --> 00:05:13,392
+PART.1: Ponemos la foto
+de las líneas de buses actual.
+
+151
+00:05:13,472 --> 00:05:14,592
+PART.2: Yo, así.
+
+152
+00:05:15,592 --> 00:05:17,152
+PART.1: Eso sería una revelación.
+
+153
+00:05:17,232 --> 00:05:18,472
+PART.2: Es verdad.
+
+154
+00:05:18,552 --> 00:05:19,712
+PART.1: Eso sería una revelación.
+
+155
+00:05:19,792 --> 00:05:21,232
+PART.2: Me estoy imaginando
+mi funeral.
+
+156
+00:05:21,312 --> 00:05:23,552
+PART.2: Que me pongan en plan el
+féretro sin cristal ni nada
+
+157
+00:05:23,632 --> 00:05:25,392
+PART.2: y que la gente me dibuje
+pollas en la cara.
+
+158
+00:05:26,432 --> 00:05:27,832
+PART.1: ¿Te imaginas?
+
+159
+00:05:29,152 --> 00:05:32,192
+PART.1: Que sea lo primero. Toma,
+dibuja una polla a Carlos. Tal cual.
+

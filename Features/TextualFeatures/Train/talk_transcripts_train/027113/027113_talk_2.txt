@@ -1,0 +1,68 @@
+42
+00:02:04,939 --> 00:02:07,499
+PART.1: ¿Qué te gusta hacer en tu tiempo
+libre?
+
+43
+00:02:09,379 --> 00:02:11,219
+PART.2: Me gusta hacer muchas cosas.
+
+44
+00:02:11,299 --> 00:02:13,459
+PART.2: Me gusta cantar boleros.
+
+45
+00:02:17,499 --> 00:02:19,579
+PART.2: Me gusta cocinar.
+
+46
+00:02:21,259 --> 00:02:23,179
+PART.1: A mí me gusta mucho la
+gastronomía.
+
+47
+00:02:23,259 --> 00:02:24,259
+PART.2: ¿Sí?
+
+48
+00:02:24,779 --> 00:02:34,059
+PART.2: Soy vegetariana y me gusta estar
+creando platos nuevos, nuevas formas
+de comer.
+
+49
+00:02:34,139 --> 00:02:40,899
+PART.2: Porque la gente cuando uno les
+dice que es vegetariano, piensan que
+uno come solamente...
+
+50
+00:02:41,459 --> 00:02:47,019
+PART.1: No. Se está poniendo muy de moda,
+o sea, hay muchos restaurantes ya.
+
+51
+00:02:47,099 --> 00:02:48,979
+PART.2: y veganos también.
+
+52
+00:02:49,299 --> 00:02:52,019
+PART.1: ¿El Flax & Kale lo conoces?
+
+53
+00:02:52,099 --> 00:02:53,179
+PART.2: Ah, sí.
+
+54
+00:02:53,499 --> 00:02:55,059
+PART.1: Hay bastantes.
+
+55
+00:02:56,099 --> 00:02:58,699
+PART.1: Aquí delante hay uno que se llama
+Veggie Garden.
+
+56
+00:02:59,139 --> 00:03:00,739
+PART.2: ¿Sí? Qué nombre tan bonito.
+

@@ -1,0 +1,624 @@
+﻿1
+00:00:03,522 --> 00:00:04,009
+PART.2: A veure.
+
+2
+00:00:06,362 --> 00:00:07,004
+PART.2: És un mamífer?
+
+3
+00:00:07,402 --> 00:00:07,866
+PART.1: Sí.
+
+4
+00:00:08,697 --> 00:00:09,114
+PART.2: Vale.
+
+5
+00:00:10,299 --> 00:00:11,106
+PART.2: Camina a quatre potes?
+
+6
+00:00:11,386 --> 00:00:11,825
+PART.1: Sí.
+
+7
+00:00:15,521 --> 00:00:15,923
+PART.2: Mmm.
+
+8
+00:00:19,414 --> 00:00:21,909
+PART.2: El podria veure per aquí Catalunya?
+
+9
+00:00:22,896 --> 00:00:24,150
+PART.2: O és més aviat tropical, o...
+
+10
+00:00:25,031 --> 00:00:26,557
+PART.1: Només al zoo el podries veure.
+
+11
+00:00:29,534 --> 00:00:30,174
+PART.2: És un felí?
+
+12
+00:00:30,758 --> 00:00:31,279
+PART.1: No.
+
+13
+00:00:35,949 --> 00:00:36,533
+PART.2: Viu a l'aigua?
+
+14
+00:00:36,942 --> 00:00:37,373
+PART.1: No.
+
+15
+00:00:38,166 --> 00:00:38,927
+PART.1: Quantes en portes, sis?
+
+16
+00:00:39,077 --> 00:00:39,606
+PART.2: Sis.
+
+17
+00:00:40,415 --> 00:00:41,142
+PART.2: Ostres, no en tinc ni idea.
+
+18
+00:00:42,287 --> 00:00:43,816
+PART.2: A veure, al zoo el podria veure.
+
+19
+00:00:45,574 --> 00:00:46,447
+PART.2: És de mida gran o...
+
+20
+00:00:46,870 --> 00:00:47,678
+PART.1: És gran.
+
+21
+00:00:48,079 --> 00:00:48,832
+PART.2: És de mida gran?
+
+22
+00:00:48,661 --> 00:00:49,596
+PART.1:  Molt gran, sí.
+
+23
+00:00:50,180 --> 00:00:50,709
+PART.1: Vale, molt gran.
+
+24
+00:01:02,091 --> 00:01:02,683
+PART.1: Ahm...
+
+25
+00:01:07,828 --> 00:01:08,357
+PART.1: És...
+
+26
+00:01:13,291 --> 00:01:14,717
+PART.1: És un antecessor nostre?
+
+27
+00:01:15,517 --> 00:01:16,100
+PART.1: No.
+
+28
+00:01:19,334 --> 00:01:25,278
+PART.2: Em, té una banya?
+
+29
+00:01:26,100 --> 00:01:26,789
+PART.2: Un cuerno?
+
+30
+00:01:28,004 --> 00:01:28,796
+PART.1: Dugues.
+
+31
+00:01:29,172 --> 00:01:29,708
+PART.2: Dues?
+
+32
+00:01:30,092 --> 00:01:31,061
+PART.1: Però petitones.
+
+33
+00:01:32,348 --> 00:01:33,028
+PART.2: És un rinoceront?
+
+34
+00:01:34,372 --> 00:01:43,396
+PART.1: Però no són banyes, són... bueno sí que són banyes, però no són banyes com te penses tu de marfil.
+
+35
+00:01:43,988 --> 00:01:45,172
+PART.2: Exacte, no són de marfil.
+
+36
+00:01:45,717 --> 00:01:47,573
+PART.1: Però té dos bonys al cap.
+
+37
+00:01:48,492 --> 00:01:49,396
+PART.2: Té dos bonys al cap?
+
+38
+00:01:49,971 --> 00:01:50,557
+PART.1: Sí.
+
+39
+00:01:52,165 --> 00:01:52,844
+PART.2: Bonys.
+
+40
+00:01:53,389 --> 00:01:55,132
+PART.1: Bonys, sí, com unes banyetes.
+
+41
+00:01:55,836 --> 00:01:58,308
+PART.1: Perquè m'ho has preguntat tu, sinó no t'ho hagués dit això.
+
+42
+00:01:57,992 --> 00:01:58,087
+PART.2: Sí, sí.
+
+43
+00:01:59,764 --> 00:02:02,325
+PART.1: Però no és lo més característic.
+
+44
+00:02:03,181 --> 00:02:04,045
+PART.2: Però és gran, no?
+
+45
+00:02:03,875 --> 00:02:04,291
+PART.1: Eh?
+
+46
+00:02:04,698 --> 00:02:05,107
+PART.2:  És gran.
+
+47
+00:02:05,412 --> 00:02:05,763
+PART.1: Sí.
+
+48
+00:02:09,450 --> 00:02:10,084
+PART.1: Ocho...
+
+49
+00:02:10,939 --> 00:02:11,273
+PART.2: Ahm.
+
+50
+00:02:12,691 --> 00:02:18,619
+PART.2: Mmm, no ho sé.
+
+51
+00:02:20,979 --> 00:02:21,419
+PART.2: Té cua?
+
+52
+00:02:22,173 --> 00:02:22,666
+PART.1: Sí.
+
+53
+00:02:23,372 --> 00:02:25,466
+PART.1: Bueno, però petita, me sembla, aquí no se li veu.
+
+54
+00:02:26,028 --> 00:02:28,388
+PART.1: Jo crec, bueno, sí que té cua.
+
+55
+00:02:29,283 --> 00:02:32,675
+PART.1: No facis cas si és cua o és cua gran o petita.
+
+56
+00:02:33,875 --> 00:02:34,900
+PART.2: No en tinc ni idea, eh.
+
+57
+00:02:34,726 --> 00:02:35,335
+PART.2: Em porto nou...
+
+58
+00:02:36,670 --> 00:02:38,607
+PART.2: Mmm, camina a quatre potes.
+
+59
+00:02:39,015 --> 00:02:39,582
+PART.2: És gran.
+
+60
+00:02:41,055 --> 00:02:41,591
+PART.2: És...
+
+61
+00:02:45,751 --> 00:02:49,559
+PART.2: És... és que és gran, és lo que em sorprèn més, vull dir.
+
+62
+00:02:51,846 --> 00:02:52,959
+PART.2: No, un cavall no pot ser.
+
+63
+00:02:55,630 --> 00:02:57,911
+PART.2: Ahm, perquè no el veuria al zoo només.
+
+64
+00:03:00,182 --> 00:03:00,822
+PART.2: Pues no ho sé.
+
+65
+00:03:02,111 --> 00:03:02,871
+PART.2: Mmm.
+
+66
+00:03:03,159 --> 00:03:04,119
+PART.1: Però, què et vols rendir?
+
+67
+00:03:04,415 --> 00:03:05,383
+PART.2: No, no, no, encara no.
+
+68
+00:03:06,414 --> 00:03:07,959
+PART.2: A veure, és...
+
+69
+00:03:09,279 --> 00:03:14,039
+PART.2: És, és, és... té pel, és a dir, o és com...?
+
+70
+00:03:14,495 --> 00:03:15,039
+PART.1: Sí.
+
+71
+00:03:16,023 --> 00:03:16,774
+PART.1: Té pel, sí.
+
+72
+00:03:17,102 --> 00:03:17,934
+PART.2: Té pel, no?
+
+73
+00:03:18,246 --> 00:03:19,046
+PART.2: Estarà cobert de pel.
+
+74
+00:03:19,319 --> 00:03:20,183
+PART.1: Sí.
+
+75
+00:03:20,478 --> 00:03:21,376
+PART.1: Pel curt, però, eh?
+
+76
+00:03:22,184 --> 00:03:23,007
+PART.1: No un pel llarg.
+
+77
+00:03:23,591 --> 00:03:24,103
+PART.2: Vale.
+
+78
+00:03:25,447 --> 00:03:26,207
+PART.2: Bueno, és un goril·la?
+
+79
+00:03:26,719 --> 00:03:27,471
+PART.1: No.
+
+80
+00:03:28,425 --> 00:03:28,962
+PART.2: Què era?
+
+81
+00:03:29,386 --> 00:03:30,081
+PART.2: Ja he arribat, eh?
+
+82
+00:03:29,885 --> 00:03:30,350
+PART.1: Nou.
+
+83
+00:03:30,767 --> 00:03:31,141
+PART.2: Nou?
+
+84
+00:03:32,293 --> 00:03:35,109
+PART.1: Sí, o deu, però ens ha dit que teníem una onze.
+
+85
+00:03:35,467 --> 00:03:36,081
+PART.2: Ah, vale.
+
+86
+00:03:35,851 --> 00:03:36,331
+PART.1: Una onzena.
+
+87
+00:03:37,029 --> 00:03:38,069
+PART.2: Vale, vale, doncs a veure l'altre.
+
+88
+00:03:38,357 --> 00:03:39,342
+PART.2: És que no se m'ha acudit, se m'ha acudit.
+
+89
+00:03:38,953 --> 00:03:40,314
+PART.2: És un rinoceront?
+
+90
+00:03:41,122 --> 00:03:42,921
+PART.1: No, perquè no té una banya.
+
+91
+00:03:43,521 --> 00:03:43,969
+PART.2: Ja.
+
+92
+00:03:45,937 --> 00:03:46,680
+PART.2: Aaah, dos banyes.
+
+93
+00:03:47,410 --> 00:03:48,560
+PART.1: Dos banyetes, dos...
+
+94
+00:03:48,328 --> 00:03:49,133
+PART.2: Banyetes.
+
+95
+00:03:49,626 --> 00:03:54,626
+PART.1: Dos banyetes, però no és lo més característic d'aquest animal, lo més característic d'aquest animal...
+
+96
+00:03:54,986 --> 00:03:55,664
+PART.2: Té un coll molt alt, molt gran?
+
+97
+00:03:56,386 --> 00:03:57,010
+PART.1: Sííi.
+
+98
+00:03:56,676 --> 00:03:57,356
+PART.2: És la girafa?
+
+99
+00:03:57,723 --> 00:03:58,163
+PART.1: Sí.
+
+100
+00:03:59,116 --> 00:03:59,507
+PART.2: Aaah.
+
+101
+00:04:00,372 --> 00:04:02,203
+PART.2: Ostres, clar és veritat té dos banyetes.
+
+102
+00:04:03,788 --> 00:04:09,708
+PART.1: A veure, és marí, és un animal marí o és un animal terrestre?
+
+103
+00:04:10,380 --> 00:04:10,884
+PART.2: Terrestre.
+
+104
+00:04:11,236 --> 00:04:11,915
+PART.1: És un mamífer?
+
+105
+00:04:12,147 --> 00:04:12,652
+PART.2: Sí.
+
+106
+00:04:12,941 --> 00:04:18,252
+PART.1: Aah, viu al continent africà?
+
+107
+00:04:20,820 --> 00:04:22,340
+PART.2: Podria, però no només allí.
+
+108
+00:04:22,868 --> 00:04:23,588
+PART.1: No només allí.
+
+109
+00:04:24,645 --> 00:04:25,372
+PART.1: És gran o és petit?
+
+110
+00:04:26,132 --> 00:04:26,708
+PART.2: És grandet.
+
+111
+00:04:27,717 --> 00:04:28,428
+PART.1: És grandet.
+
+112
+00:04:31,452 --> 00:04:32,565
+PART.1: T'he preguntat no, si era mamífer?
+
+113
+00:04:32,956 --> 00:04:33,364
+PART.2: Sí.
+
+114
+00:04:33,476 --> 00:04:33,835
+PART.2: Que sí.
+
+115
+00:04:33,612 --> 00:04:34,214
+PART.1: M'has dit que sí.
+
+116
+00:04:36,555 --> 00:04:39,364
+PART.1: És grandet, és un mamífer i no és només de l'Àfrica.
+
+117
+00:04:43,435 --> 00:04:44,013
+PART.1: Té cua?
+
+118
+00:04:44,507 --> 00:04:45,044
+PART.2: Sí.
+
+119
+00:04:47,133 --> 00:04:51,379
+PART.1: Puff, això no m'agrada, aquest no m'agrada gens.
+
+120
+00:04:52,717 --> 00:04:53,724
+PART.1: No m'agrada gens aquest...
+
+121
+00:04:54,299 --> 00:04:56,653
+PART.2: Quan... a la novena et donaré una pista i ho sabràs.
+
+122
+00:04:56,989 --> 00:04:57,436
+PART.1: Vale.
+
+123
+00:04:59,917 --> 00:05:01,397
+PART.2: Però no et preocupis que ho endevinaràs.
+
+124
+00:05:07,853 --> 00:05:08,531
+PART.1: Té hàbit nocturn?
+
+125
+00:05:09,148 --> 00:05:09,533
+PART.2: No.
+
+126
+00:05:18,259 --> 00:05:20,076
+PART.1: M'has dit que és més ben gran, no?
+
+127
+00:05:20,388 --> 00:05:20,852
+PART.2: Sí.
+
+128
+00:05:21,125 --> 00:05:21,796
+PART.1: Mitjà gran o gran?
+
+129
+00:05:23,348 --> 00:05:24,260
+PART.2: Què entens per mitjà gran?
+
+130
+00:05:24,940 --> 00:05:26,316
+PART.1: Mitja, doncs mira un gos.
+
+131
+00:05:27,043 --> 00:05:27,635
+PART.2: Ah no, gran.
+
+132
+00:05:27,318 --> 00:05:27,702
+PART.1: O un zorro.
+
+133
+00:05:28,788 --> 00:05:29,523
+PART.2: Gran, gran, gran.
+
+134
+00:05:30,084 --> 00:05:32,669
+PART.1: Ah, n'hi ha de polars i n'hi ha de marrons?
+
+135
+00:05:32,347 --> 00:05:33,527
+PART.2: No, no.
+
+136
+00:05:40,819 --> 00:05:42,484
+PART.1: Un mamífer gran: a Yeti.
+
+137
+00:05:50,919 --> 00:05:53,039
+PART.1: Un mamífer gran, que té banyes?
+
+138
+00:05:53,423 --> 00:05:54,175
+PART.2: No.
+
+139
+00:05:55,728 --> 00:05:56,655
+PART.1: Estem en a la vuit.
+
+140
+00:05:57,425 --> 00:05:57,960
+PART.2: La vuit.
+
+141
+00:06:06,392 --> 00:06:12,024
+PART.1: Un mamífer gran, sinó és un oso, un goril·la no pot ser...
+
+142
+00:06:18,120 --> 00:06:22,960
+PART.1: Ni idea, no té banyes, i ja no sé què més dir.
+
+143
+00:06:25,871 --> 00:06:26,360
+PART.2: Pregunta alguna...
+
+144
+00:06:26,599 --> 00:06:27,616
+PART.1: Viu a llocs molt freds?
+
+145
+00:06:28,232 --> 00:06:28,881
+PART.2: No.
+
+146
+00:06:29,623 --> 00:06:30,903
+PART.1: Ja està, és que era per arribar al nou.
+
+147
+00:06:31,593 --> 00:06:32,088
+PART.2: Vale.
+
+148
+00:06:33,199 --> 00:06:35,519
+PART.2: És un emblema català.
+
+149
+00:06:36,367 --> 00:06:37,535
+PART.1: És un emblema català.
+
+150
+00:06:38,533 --> 00:06:41,086
+PART.1: Ah, el ruc, el ase.
+
+151
+00:06:41,033 --> 00:06:41,718
+PART.2: Molt bé, és un burro.
+
+152
+00:06:46,906 --> 00:06:47,451
+PART.1: Un donkey.
+
+153
+00:06:48,453 --> 00:06:52,527
+PART.2: Quan et anava a dir, en plan de, és un animal molt català, però he pensat que m'anaves a dir la rata, saps.
+
+154
+00:06:53,294 --> 00:06:54,926
+PART.2: Perquè els catalans són "molt rates"
+
+155
+00:06:55,934 --> 00:06:57,038
+PART.1: No home, el burro català.
+
+156
+00:06:57,318 --> 00:06:58,192
+PART.2: El burro català, sí, sí.
+

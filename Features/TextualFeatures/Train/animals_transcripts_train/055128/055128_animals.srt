@@ -1,0 +1,456 @@
+﻿1
+00:00:00,000 --> 00:00:00,969
+PART.1: Va, comença.
+
+2
+00:00:00,969 --> 00:00:02,969
+PART.2: No, comença tu, vale? És que he començat jo abans..
+
+3
+00:00:03,969 --> 00:00:04,969
+PART.1: És marítim o es terrestre?
+
+4
+00:00:05,969 --> 00:00:07,969
+PART.2: Només puc respondre un sí o un no.
+
+5
+00:00:09,434 --> 00:00:10,434
+PART.1: És marítim?
+
+6
+00:00:10,434 --> 00:00:11,435
+PART.2: No.
+
+7
+00:00:11,469 --> 00:00:12,869
+PART.1: És mamífer?
+
+8
+00:00:12,969 --> 00:00:13,969
+PART.2: Sí.
+
+9
+00:00:15,969 --> 00:00:17,969
+PART.1: És del continent africà?
+
+10
+00:00:19,969 --> 00:00:20,969
+PART.1: O bàsicament del continent africà?
+
+11
+00:00:20,969 --> 00:00:21,969
+PART.2: No.
+
+12
+00:00:26,095 --> 00:00:26,895
+PART.1: És gran?
+
+13
+00:00:27,969 --> 00:00:28,969
+PART.2:  No.
+
+14
+00:00:28,969 --> 00:00:30,969
+PART.2: Bueno, no sé, què vol dir gran?
+
+15
+00:00:31,969 --> 00:00:35,969
+PART.1: Gran, un Ós, una girafa, un elefant...
+
+16
+00:00:35,225 --> 00:00:35,324
+PART.2: No.
+
+17
+00:00:36,969 --> 00:00:37,969
+PART.1: No.
+
+18
+00:00:38,969 --> 00:00:39,969
+PART.2: Quantes portes?
+
+19
+00:00:39,969 --> 00:00:40,969
+PART.2: Quatre.
+
+20
+00:00:40,971 --> 00:00:41,971
+PART.1: Quatre.
+
+21
+00:00:46,970 --> 00:00:47,970
+PART.1: Té banyes?
+
+22
+00:00:47,969 --> 00:00:48,970
+PART.2: Sí.
+
+23
+00:00:56,969 --> 00:00:58,969
+PART.1:  I no és Àfrica.
+
+24
+00:00:58,969 --> 00:01:00,969
+PART.1: Un alce?
+
+25
+00:01:01,969 --> 00:01:02,969
+PART.2: No.
+
+26
+00:01:02,969 --> 00:01:03,969
+PART.2: No.
+
+27
+00:01:03,970 --> 00:01:05,969
+PART.1: És un alce, o ... no sé... un...
+
+28
+00:01:05,970 --> 00:01:06,969
+PART.2: No, no és un alce.
+
+29
+00:01:07,969 --> 00:01:08,969
+PART.2: Un alce no és un?
+
+30
+00:01:09,969 --> 00:01:10,969
+PART.1: Sí, un...
+
+31
+00:01:10,969 --> 00:01:11,969
+PART.2: No, però no és això.
+
+32
+00:01:11,970 --> 00:01:12,970
+PART.1: D'aquest tipus, volia dir, eh?
+
+33
+00:01:12,969 --> 00:01:13,969
+PART.2: Què vol dir d'aquest tipus?
+
+34
+00:01:14,969 --> 00:01:17,969
+PART.1: És que jo de noms d'animals en sé poquets.
+
+35
+00:01:20,969 --> 00:01:23,969
+PART.1: Viu a... viu en zones de molt fred, molt fred?
+
+36
+00:01:23,969 --> 00:01:24,969
+PART.2: No.
+
+37
+00:01:40,815 --> 00:01:41,869
+PART.1: Té banyes? Sí.
+
+38
+00:01:44,196 --> 00:01:45,793
+PART.1: Són grans aquestes banyes?
+
+39
+00:01:45,969 --> 00:01:46,969
+PART.2: Sí.
+
+40
+00:01:52,969 --> 00:01:53,969
+PART.2: Set, no?
+
+41
+00:01:54,969 --> 00:01:55,969
+PART.1: Vuit.
+
+42
+00:01:55,969 --> 00:01:56,970
+PART.2: Vuit.
+
+43
+00:02:07,969 --> 00:02:09,969
+PART.1: Menja herba? Clar, sí.
+
+44
+00:02:09,969 --> 00:02:10,969
+PART.2: Sí.
+
+45
+00:02:10,969 --> 00:02:11,969
+PART.1: Clar.
+
+46
+00:02:14,969 --> 00:02:18,969
+PART.1: És que, no sé, a part d'un alce, no sé què més dir, d'aquests...
+
+47
+00:02:19,969 --> 00:02:21,969
+PART.1: Que té banyes, que fan la brama.
+
+48
+00:02:23,969 --> 00:02:25,969
+PART.1: És un animal que brama?
+
+49
+00:02:26,969 --> 00:02:27,969
+PART.2: Què vol dir que brama?
+
+50
+00:02:27,969 --> 00:02:31,969
+PART.1: És allò que fan per aparearse, a la tardor, aquells sorolls.
+
+51
+00:02:31,969 --> 00:02:33,969
+PART.2: No ho sé, no en tinc ni idea.
+
+52
+00:02:33,539 --> 00:02:34,289
+PART.1: Això ja no ho saps.
+
+53
+00:02:35,969 --> 00:02:37,969
+PART.1: Aaah, menja herba, clar.
+
+54
+00:02:38,969 --> 00:02:39,969
+PART.1: No és gran, m'has dit?
+
+55
+00:02:39,969 --> 00:02:40,969
+PART.1: Això és raro.
+
+56
+00:02:41,969 --> 00:02:42,969
+PART.1: Un bambi.
+
+57
+00:02:43,969 --> 00:02:45,969
+PART.1: Però els bambis no porten banyes.
+
+58
+00:02:44,665 --> 00:02:46,969
+PART.2: No és un cérvol.
+
+59
+00:02:46,969 --> 00:02:47,969
+PART.1: Això, un cérvol.
+
+60
+00:02:47,969 --> 00:02:48,969
+PART.2: No és un cérvol.
+
+61
+00:02:48,969 --> 00:02:49,969
+PART.1: Deu.
+
+62
+00:02:49,969 --> 00:02:51,969
+PART.2: Deu, ara has de dir un animal.
+
+63
+00:03:01,226 --> 00:03:02,666
+PART.1: Ni idea
+
+64
+00:03:02,701 --> 00:03:03,444
+PART.2: Digues un animal.
+
+65
+00:03:03,146 --> 00:03:07,036
+PART.1: Ai! Què porti banyes?
+
+66
+00:03:07,037 --> 00:03:12,057
+PART.1: Si no és un cérvol i no és un reno, però m'has dit que no vivia a llocs freds
+
+67
+00:03:12,975 --> 00:03:14,715
+PART.2: Vinga, que no podem estar tot el dia.
+
+68
+00:03:14,489 --> 00:03:15,656
+PART.1: Vinga ja està, no, no ho sé.
+
+69
+00:03:15,354 --> 00:03:16,898
+PART.2: Digues un animal que tingui banyes.
+
+70
+00:03:16,457 --> 00:03:17,027
+PART.1: Un alce.
+
+71
+00:03:17,672 --> 00:03:20,688
+PART.2: Ja ho havies dit, t'he dit que no, no ho era.
+
+72
+00:03:20,817 --> 00:03:21,736
+PART.1: Doncs, ja està.
+
+73
+00:03:21,712 --> 00:03:22,439
+PART.2:  No ho era.
+
+74
+00:03:22,778 --> 00:03:23,658
+PART.2: Vale, ara em toca a mi.
+
+75
+00:03:23,659 --> 00:03:24,659
+PART.1: I no puc deixar-la?
+
+76
+00:03:25,124 --> 00:03:26,637
+PART.2: Crec que al final, no?
+
+77
+00:03:26,921 --> 00:03:28,095
+PART.2: Bueno, si vols sí, deixa'l.
+
+78
+00:03:28,376 --> 00:03:29,330
+PART.2: Era una cabra.
+
+79
+00:03:29,696 --> 00:03:30,680
+PART.1: Ah, una cabra.
+
+80
+00:03:30,966 --> 00:03:32,166
+PART.1: Hòstia, una cabra.
+
+81
+00:03:32,365 --> 00:03:33,278
+PART.2: Mira que era fàcil.
+
+82
+00:03:33,043 --> 00:03:35,004
+PART.1: Mira que estat a punt de dir si es menjava.
+
+83
+00:03:36,015 --> 00:03:37,281
+PART.2: Vale, ara jo.
+
+84
+00:03:37,869 --> 00:03:38,997
+PART.2: És un mamífer?
+
+85
+00:03:38,164 --> 00:03:39,733
+PART.1: Sí.
+
+86
+00:03:41,233 --> 00:03:41,952
+PART.2: Sí?
+
+87
+00:03:42,214 --> 00:03:43,016
+PART.1: Sí.
+
+88
+00:03:45,730 --> 00:03:46,533
+PART.2: Viu al mar?
+
+89
+00:03:46,378 --> 00:03:47,547
+PART.1: No.
+
+90
+00:03:49,364 --> 00:03:50,164
+PART.2: Viu a l'Àfrica?
+
+91
+00:03:51,104 --> 00:03:51,696
+PART.1: No.
+
+92
+00:03:54,317 --> 00:03:55,476
+PART.2: Porto tres.
+
+93
+00:03:59,276 --> 00:04:00,036
+PART.2: És herbívor?
+
+94
+00:04:01,772 --> 00:04:02,444
+PART.1: Sí.
+
+95
+00:04:03,477 --> 00:04:05,165
+PART.1: Sí, però amb matisos.
+
+96
+00:04:05,640 --> 00:04:06,232
+PART.2: Què vol dir amb matisos?
+
+97
+00:04:07,149 --> 00:04:13,150
+PART.1: Que menja un tipu d’herba, un tipu de vegetal concret.
+
+98
+00:04:13,482 --> 00:04:15,410
+PART.2: Vale, però és herbívor.
+
+99
+00:04:15,284 --> 00:04:17,500
+PART.1: És herbívor, sí, suposo que es pot dir així.
+
+100
+00:04:20,176 --> 00:04:21,241
+PART.2: És gran o petit?
+
+101
+00:04:21,671 --> 00:04:22,407
+PART.2: És gran?
+
+102
+00:04:22,547 --> 00:04:23,066
+PART.1: Sí.
+
+103
+00:04:23,324 --> 00:04:24,052
+PART.2: Sí.
+
+104
+00:04:27,797 --> 00:04:28,413
+PART.2: N'hi ha a Europa?
+
+105
+00:04:31,085 --> 00:04:32,740
+PART.1: No és d'Europa, aquest tipus.
+
+106
+00:04:33,789 --> 00:04:34,189
+PART.2: Vale.
+
+107
+00:04:35,052 --> 00:04:35,381
+PART.2: És de Xina?
+
+108
+00:04:36,158 --> 00:04:36,517
+PART.1: Sí.
+
+109
+00:04:36,594 --> 00:04:37,658
+PART.1: És un Ós panda?
+
+110
+00:04:37,693 --> 00:04:37,778
+PART.1: Sí.
+
+111
+00:04:39,860 --> 00:04:41,323
+PART.1: Com ho has sapigut?
+
+112
+00:04:41,824 --> 00:04:45,576
+PART.2: Perquè, quan has dit lo del vegetal concret, això no hauries d'haver dit.
+
+113
+00:04:45,904 --> 00:04:46,480
+PART.1: Ah.
+
+114
+00:04:46,995 --> 00:04:48,060
+PART.2: Però aleshores... no sé
+

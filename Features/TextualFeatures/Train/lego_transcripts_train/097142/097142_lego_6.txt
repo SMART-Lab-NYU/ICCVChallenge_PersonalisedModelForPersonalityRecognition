@@ -1,0 +1,9 @@
+155
+00:06:00,176 --> 00:06:02,496
+PART.2: Sí, ara no, ara estan bastant cars.
+
+156
+00:06:02,576 --> 00:06:06,216
+SUPERVISOR: Val. Espera. Aneu fent això
+i jo vaig desfent aquest.
+

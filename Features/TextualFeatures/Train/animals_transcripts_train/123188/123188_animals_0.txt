@@ -1,0 +1,87 @@
+﻿1
+00:00:05,275 --> 00:00:07,035
+PART.1: Es divertido el tuyo.
+
+2
+00:00:07,115 --> 00:00:07,995
+PART.1: Vale.
+
+3
+00:00:09,115 --> 00:00:10,075
+PART.1: ¿Empiezas tú o empiezo yo?
+
+4
+00:00:10,155 --> 00:00:12,115
+PART.2: Empieza tú que te veo con ganas.
+
+5
+00:00:12,195 --> 00:00:13,795
+PART.2: Te ha gustado el animal que me ha
+tocado, por lo visto.
+
+6
+00:00:15,275 --> 00:00:17,675
+PART.2: ¿Solo son aves en este juego o
+qué?
+
+7
+00:00:21,435 --> 00:00:24,235
+PART.1: Vale. ¿Soy aéreo?
+
+8
+00:00:26,075 --> 00:00:26,835
+PART.2: Sí.
+
+9
+00:00:31,115 --> 00:00:33,595
+PART.2: Una reflexión, ¿aéreo?
+
+10
+00:00:34,475 --> 00:00:37,035
+PART.1: Aéreo... que vuela.
+
+11
+00:00:38,435 --> 00:00:39,435
+PART.1: ¿Vuela?
+
+12
+00:00:40,595 --> 00:00:41,555
+PART.1: ¿En general vuela?
+
+13
+00:00:41,995 --> 00:00:42,515
+PART.2: Yo creo que no.
+
+14
+00:00:42,595 --> 00:00:43,235
+PART.1: No.
+
+15
+00:00:43,315 --> 00:00:44,235
+PART.1: No vuela.
+
+16
+00:00:45,555 --> 00:00:46,315
+PART.1: No vuela.
+
+17
+00:00:47,915 --> 00:00:49,515
+PART.1: Es... Vale, no vuela.
+
+18
+00:00:51,075 --> 00:00:51,715
+PART.1: Tú.
+
+19
+00:00:53,235 --> 00:00:54,195
+PART.2: Vale, es todo de...
+
+20
+00:00:54,555 --> 00:00:56,755
+PART.2: Es curioso porque con el chico de
+ayer estuvimos...
+
+21
+00:00:56,835 --> 00:00:57,755
+PART.2: Pero vale, sí.
+

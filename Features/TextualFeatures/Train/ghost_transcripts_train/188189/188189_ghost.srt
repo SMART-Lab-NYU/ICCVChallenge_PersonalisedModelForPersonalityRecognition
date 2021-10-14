@@ -1,0 +1,304 @@
+﻿1
+00:00:00,467 --> 00:00:01,675
+PART.1: O sea, bueno...
+
+2
+00:00:01,927 --> 00:00:02,230
+PART.2: Empieza, empieza.
+
+3
+00:00:03,559 --> 00:00:05,001
+PART.1: Pero, sacamos una carta... entonces...
+
+4
+00:00:05,197 --> 00:00:06,799
+PART.2: Sacas, o sea, uno cada...
+
+5
+00:00:06,989 --> 00:00:07,908
+PART.2: Nos vamos turnando las cartas.
+
+6
+00:00:08,086 --> 00:00:08,445
+PART.1: Ah, vale.
+
+7
+00:00:08,654 --> 00:00:09,582
+PART.2: Se saca una carta, vale.
+
+8
+00:00:09,839 --> 00:00:11,273
+PART.2: El que la adivine, se queda la carta.
+
+9
+00:00:12,454 --> 00:00:14,297
+PART.1: Ya sé, sí... es como...
+
+10
+00:00:13,119 --> 00:00:13,572
+PART.2: Y luego el otro.
+
+11
+00:00:14,972 --> 00:00:15,913
+PART.1: ...y eso son los... Ok.
+
+12
+00:00:19,890 --> 00:00:20,029
+PART.1: Sí.
+
+13
+00:00:20,791 --> 00:00:21,020
+PART.2: ¡Buah...!
+
+14
+00:00:28,681 --> 00:00:29,453
+PART.1: Ah, vale claro, sí.
+
+15
+00:00:39,270 --> 00:00:39,546
+PART.1: Vale...
+
+16
+00:00:44,882 --> 00:00:45,268
+PART.2: ¡Ay, no! ¡Mierda!
+
+17
+00:00:47,132 --> 00:00:47,837
+PART.2: Correcto, correcto, claro.
+
+18
+00:00:50,369 --> 00:00:50,985
+PART.1: Ehhh, ets tu.
+
+19
+00:00:50,398 --> 00:00:50,634
+PART.2: Em toca.
+
+20
+00:00:57,547 --> 00:00:58,410
+PART.1: Ah, sí porque es ratón...
+
+21
+00:01:08,466 --> 00:01:09,634
+PART.1: Sí, exacto.
+
+22
+00:01:19,489 --> 00:01:21,269
+PART.1: No sé porque me esperaba a que lo cogieras.
+
+23
+00:01:26,171 --> 00:01:27,403
+PART.2: Pa ti, pa ti, pa ti.
+
+24
+00:01:35,890 --> 00:01:36,664
+PART.1: Vale, sí.
+
+25
+00:01:40,024 --> 00:01:40,655
+PART.1: Bueno, me tocaba a mí.
+
+26
+00:01:40,777 --> 00:01:41,321
+PART.2: Ay, perdón.
+
+27
+00:01:41,390 --> 00:01:41,832
+PART.1: Es igual.
+
+28
+00:01:43,113 --> 00:01:44,228
+PART.2: Pa ti.
+
+29
+00:01:51,373 --> 00:01:51,531
+PART.1: ¡Uo!
+
+30
+00:02:00,136 --> 00:02:00,615
+PART.1: vale.
+
+31
+00:02:01,897 --> 00:02:02,360
+PART.2: La botella.
+
+32
+00:02:03,608 --> 00:02:04,736
+PART.1: Sí, porque el ratón es blanco...
+
+33
+00:02:11,705 --> 00:02:12,351
+PART.2: Fantasma.
+
+34
+00:02:13,192 --> 00:02:13,625
+PART.1: Sí.
+
+35
+00:02:15,696 --> 00:02:18,985
+PART.2: Joer, tío, no me ha molao este juego.
+
+36
+00:02:19,521 --> 00:02:20,135
+PART.1: Bueno...
+
+37
+00:02:21,663 --> 00:02:23,496
+PART.2: Es como estás como... o sea...
+
+38
+00:02:24,528 --> 00:02:26,544
+PART.2: O sea, no te da para disfrutar este juego.
+
+39
+00:02:27,728 --> 00:02:29,720
+PART.2: Hay juegos, porque tengo muchos juegos de mesa de este estilo...
+
+40
+00:02:30,472 --> 00:02:34,905
+PART.1: Ya, esto me recuerda mucho a otros a los que he jugado previamente.
+
+41
+00:02:35,887 --> 00:02:40,392
+PART.2: Y no, y normalmente con estos juegos siempre pues, disfrutas, te ríes, ja ja ja ja, y aquí en plan...
+
+42
+00:02:40,866 --> 00:02:41,844
+PART.1: No, no aquí estás concentrao.
+
+43
+00:02:42,273 --> 00:02:43,456
+PART.2: Te tienes que concentrar demasiado.
+
+44
+00:02:44,032 --> 00:02:44,920
+PART.2: Bueno, al menos en mi caso.
+
+45
+00:02:45,823 --> 00:02:46,704
+PART.1: Sí, sí, sí, yo también.
+
+46
+00:02:50,024 --> 00:02:51,823
+PART.2: Parapapara...
+
+47
+00:02:57,400 --> 00:03:05,071
+PART.2: Y la empresa, o sea, eh, o sea, la tenéis constituida, o sea, tenéis un local o algo, o un despacho y...
+
+48
+00:03:05,230 --> 00:03:07,062
+PART.1: Estamos en el "Emprende" de la Universidad, de la UPC.
+
+49
+00:03:07,248 --> 00:03:08,736
+PART.2: Vale, vale, vale, vale, vale.
+
+50
+00:03:10,041 --> 00:03:14,801
+PART.1: O sea, es como una, supongo que es una especie de incubadora, como a la americana, pero...
+
+51
+00:03:15,378 --> 00:03:15,969
+PART.2: Vale, pues...
+
+52
+00:03:17,208 --> 00:03:20,376
+PART.1: Como de momento no necesitamos sitio físico para..., así que...
+
+53
+00:03:21,993 --> 00:03:23,255
+PART.2: Genial.
+
+54
+00:03:23,760 --> 00:03:24,584
+PART.2: ¿Cuánto lleváis?
+
+55
+00:03:25,624 --> 00:03:31,216
+PART.1: Pues... es lo que te decía, siete meses, pero... dos desde que cambiamos...
+
+56
+00:03:31,920 --> 00:03:39,784
+PART.2: Vale, pero, o sea, vuestra... o sea, ¿le dedicas toda la jornada a la empresa o tú tienes un trabajo y dedicas algo de tu tiempo?
+
+57
+00:03:36,335 --> 00:03:37,288
+PART.1: No.
+
+58
+00:03:40,648 --> 00:03:41,833
+PART.1: Ahora mismo estoy haciendo el máster.
+
+59
+00:03:42,113 --> 00:03:42,751
+PART.2: Vale.
+
+60
+00:03:42,517 --> 00:03:44,159
+PART.1: Y lo único que hago extra es la empresa.
+
+61
+00:03:45,295 --> 00:03:45,661
+PART.2: Vale.
+
+62
+00:03:46,054 --> 00:03:47,061
+PART.1: Que me quita mucho tiempo, eh, o sea...
+
+63
+00:03:47,726 --> 00:03:51,015
+PART.2: Vale, vale, ¿y tus socios también o tus socios están trabajando...
+
+64
+00:03:51,462 --> 00:03:54,631
+PART.1: Mis socios, uno trabaja y los otros dos...
+
+65
+00:03:55,055 --> 00:03:55,502
+PART.2: Sí...
+
+66
+00:03:55,909 --> 00:03:57,207
+PART.1: ...están Full time también con la empresa.
+
+67
+00:03:58,239 --> 00:03:58,735
+PART.2: Vale, vale.
+
+68
+00:03:59,455 --> 00:04:00,494
+PART.2: O sea, sois cuatro en total.
+
+69
+00:04:00,846 --> 00:04:01,791
+PART.1: Somos cuatro en total.
+
+70
+00:04:02,326 --> 00:04:03,119
+PART.2: Vale, vale, vale.
+
+71
+00:04:04,278 --> 00:04:06,014
+PART.2: Bueno, pues... jolín.
+
+72
+00:04:07,494 --> 00:04:10,030
+PART.2: O sea, diseñáis neveras...
+
+73
+00:04:11,807 --> 00:04:13,086
+PART.1: Sí, piénsalo así, sí, sí
+
+74
+00:04:13,551 --> 00:04:17,990
+PART.2: Vale, ¿o cierto tipo de neveras para comida en concreto?
+
+75
+00:04:18,470 --> 00:04:35,566
+PART.1: Sí, esencialmente lo que hacemos es convertirlas en inteligentes para que sepas lo que hay dentro de la nevera, entonces, la idea es que un usuario cualquiera va con su tarjetita o con su móvil, o con su tarjeta de crédito incluso...
+
+76
+00:04:35,786 --> 00:04:36,732
+PART.2: Vale.
+

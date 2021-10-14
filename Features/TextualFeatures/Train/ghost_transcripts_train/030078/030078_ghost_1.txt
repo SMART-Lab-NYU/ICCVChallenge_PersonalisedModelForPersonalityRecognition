@@ -1,0 +1,62 @@
+16
+00:01:02,568 --> 00:01:03,448
+PART.2: Sí.
+
+17
+00:01:08,968 --> 00:01:09,808
+PART.2: No. Está mal.
+
+18
+00:01:09,888 --> 00:01:11,088
+PART.2: Ah, sí, sí. Está bien.
+
+19
+00:01:12,568 --> 00:01:14,368
+PART.2: Dale.
+Te tienes que quedar con la carta.
+
+20
+00:01:21,808 --> 00:01:22,888
+PART.2: ¿Me toca a mí o a ti?
+
+21
+00:01:22,968 --> 00:01:23,888
+PART.1: A ti, a ti.
+
+22
+00:01:26,688 --> 00:01:27,408
+PART.2: No.
+
+23
+00:01:27,768 --> 00:01:28,968
+PART.1: Ah, sí. Blanco.
+
+24
+00:01:29,328 --> 00:01:30,168
+PART.1: Correcto.
+
+25
+00:01:39,848 --> 00:01:40,608
+PART.1: Ganaste.
+
+26
+00:01:40,688 --> 00:01:47,408
+PART.2: Es curioso porque yo antes saqué
+máximo tres colores, la primera vez
+que jugué.
+
+27
+00:01:47,488 --> 00:01:51,088
+PART.2: Y tú también sacaste blanco,
+verde y gris.
+
+28
+00:01:51,168 --> 00:01:54,168
+PART.2: Bueno, como los más básicos.
+
+29
+00:01:54,488 --> 00:01:58,848
+PART.2: Y cuando juegas otra vez, puedes
+ver como más colores, como
+distinguir más rápido.
+

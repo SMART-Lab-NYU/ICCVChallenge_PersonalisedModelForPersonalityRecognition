@@ -1,0 +1,61 @@
+81
+00:04:02,005 --> 00:04:06,765
+PART.1: Ai, Deu meu. Que no sigui perillós...
+
+82
+00:04:10,725 --> 00:04:12,805
+PART.1: És clar, només pots dir "sí" o "no", no?
+
+83
+00:04:12,885 --> 00:04:13,885
+PART.2: Correcte.
+
+84
+00:04:13,965 --> 00:04:14,925
+PART.1: Ah, val.
+
+85
+00:04:15,005 --> 00:04:16,765
+PART.2: "Quin és el meu animal?".
+
+86
+00:04:16,845 --> 00:04:17,885
+PART.1: "On viu?".
+
+87
+00:04:22,885 --> 00:04:24,325
+PART.1: Sí...
+
+88
+00:04:27,845 --> 00:04:30,805
+PART.1: És que, a veure, no sé què més preguntar.
+
+89
+00:04:35,205 --> 00:04:38,165
+PART.1: Soc molt exòtic? O la gent em pot veure…
+
+90
+00:04:38,245 --> 00:04:43,005
+PART.2: No, gens exòtic. No… T'estic donant molta informació.
+
+91
+00:04:43,085 --> 00:04:48,245
+PART.1: Gens exòtic i no puc estar a la ciutat? I no soc domèstic?
+
+92
+00:04:50,245 --> 00:04:51,405
+PART.1: Les rates també són…!
+
+93
+00:04:51,485 --> 00:04:55,805
+PART.2: Sí, jo anava per aquí, però ara ja m'ho has dit
+i no deu ser el meu.
+
+94
+00:04:55,885 --> 00:04:58,805
+PART.1: Les rates… Bé, sí que són domèstiques, no?
+
+95
+00:04:58,885 --> 00:05:01,125
+PART.2: "Bueno", no sé què hauria dit.
+

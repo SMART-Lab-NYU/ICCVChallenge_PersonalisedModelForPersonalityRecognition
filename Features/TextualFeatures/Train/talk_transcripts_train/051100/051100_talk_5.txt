@@ -1,0 +1,48 @@
+77
+00:05:03,989 --> 00:05:06,576
+PART.1: Pues, mira, han tret una merda...
+
+78
+00:05:06,577 --> 00:05:08,677
+PART.1: Ja ve en Javi a interrompre’ns.
+
+79
+00:05:09,320 --> 00:05:10,649
+PART.1: Mira, has vist acò?
+
+80
+00:05:10,745 --> 00:05:11,836
+PART.2:  Què és?
+
+81
+00:05:11,899 --> 00:05:18,549
+PART.1: Al costat del buscador de Google, pues és detecció i previsió, i és superinteressant perquè...
+
+82
+00:05:18,550 --> 00:05:20,650
+PART.1: Anem a probar esta merda, no?
+
+83
+00:05:20,650 --> 00:05:21,750
+PART.2: Ah, que detecta quin...?
+
+84
+00:05:24,551 --> 00:05:26,051
+PART.1: A veure si m'ho agafa.
+
+85
+00:05:26,077 --> 00:05:31,763
+PART.1: Va detectant objectes i detecta com models de coses, a lo millor justament estos altaveus no els pilla.
+
+86
+00:05:31,876 --> 00:05:32,917
+PART.2: Ah, això no ho troba.
+
+87
+00:05:32,998 --> 00:05:36,136
+PART.1: Però les taules i les coses, jo que sé vas provant coses.
+
+88
+00:05:36,412 --> 00:05:37,993
+PART.1: Mira, què ha trobat: una cadira?
+

@@ -1,0 +1,93 @@
+58
+00:03:00,387 --> 00:03:01,987
+PART.2: És una rinoceront?
+
+59
+00:03:02,067 --> 00:03:03,587
+PART.1: És un rinoceront.
+
+60
+00:03:03,667 --> 00:03:04,427
+PART.2: Val.
+
+61
+00:03:04,507 --> 00:03:05,267
+PART.1: Val.
+
+62
+00:03:05,347 --> 00:03:06,147
+PART.2: Això.
+
+63
+00:03:06,227 --> 00:03:08,747
+PART.1: Ara vinc jo.
+
+64
+00:03:08,827 --> 00:03:12,467
+PART.2: Plomes, pèl o escates?
+
+65
+00:03:15,747 --> 00:03:18,587
+PART.2: Una de les tres, sí. Una de les tres.
+
+66
+00:03:18,667 --> 00:03:20,347
+PART.1: Home, això no val!
+
+67
+00:03:20,427 --> 00:03:25,027
+PART.2: No, perquè o sigui, a les preguntes
+t'haig de respondre "sí" o "no".
+
+68
+00:03:25,107 --> 00:03:27,107
+PART.1: "Bueno", viu a la terra?
+
+69
+00:03:27,187 --> 00:03:27,947
+PART.2: Sí.
+
+70
+00:03:28,027 --> 00:03:29,307
+PART.1: Viu a terra.
+
+71
+00:03:29,387 --> 00:03:30,147
+PART.2: Sí.
+
+72
+00:03:32,427 --> 00:03:34,827
+PART.1: És mamífer?
+
+73
+00:03:34,907 --> 00:03:36,427
+PART.2: Sí.
+
+74
+00:03:36,507 --> 00:03:39,867
+PART.1: És mamífer. És gros?
+
+75
+00:03:39,947 --> 00:03:43,067
+PART.2: No. No gros, gros.
+
+76
+00:03:45,227 --> 00:03:48,467
+PART.1: No és gaire gros. Té taques a la pell?
+
+77
+00:03:53,827 --> 00:03:54,547
+PART.2: No.
+
+78
+00:03:54,627 --> 00:03:55,987
+PART.1: No té taques a…
+
+79
+00:03:56,067 --> 00:03:59,307
+PART.2: No, taques no, pot tenir parts de diferents colors.
+
+80
+00:03:59,387 --> 00:04:00,867
+PART.1: Pot tenir ratlles.
+

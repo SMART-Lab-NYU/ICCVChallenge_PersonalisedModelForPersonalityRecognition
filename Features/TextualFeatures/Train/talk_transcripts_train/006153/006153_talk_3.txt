@@ -1,0 +1,69 @@
+82
+00:03:03,192 --> 00:03:07,792
+PART.1: and maybe you have some advice
+to give me on what to do next
+
+83
+00:03:07,872 --> 00:03:14,152
+PART.1: because I was considering
+if should I go for the PhD
+but I am not so sure about it.
+
+84
+00:03:15,952 --> 00:03:18,552
+PART.2: So you did in distributed systems?
+
+85
+00:03:18,672 --> 00:03:19,672
+PART.1: Yes.
+
+86
+00:03:19,672 --> 00:03:21,672
+PART.2: Is it more about networking?
+
+87
+00:03:21,672 --> 00:03:26,192
+PART.1: It is, but I am not
+into networking, I mean,
+
+88
+00:03:26,272 --> 00:03:30,952
+PART.1: my thesis was in program analysis
+using machine learning.
+
+89
+00:03:35,272 --> 00:03:36,272
+PART.2: Ok.
+
+90
+00:03:36,272 --> 00:03:38,272
+PART.1: Yes, I know a little
+about machine learning.
+
+91
+00:03:39,272 --> 00:03:44,952
+PART.2: I would say
+I would try to go for industry
+at least a couple of years
+of experience in industry,
+
+92
+00:03:45,032 --> 00:03:48,152
+PART.2: specially in Germany,
+I think there's a lot of work there.
+
+93
+00:03:48,952 --> 00:03:50,512
+PART.1: What kind of...?
+
+94
+00:03:50,592 --> 00:03:53,752
+PART.1: There's a lot of positions,
+I think there's a lot of...
+
+95
+00:03:55,152 --> 00:04:00,832
+PART.2: Or you can go
+even to some places
+that are like researchers
+

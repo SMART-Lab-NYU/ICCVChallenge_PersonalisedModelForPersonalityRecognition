@@ -1,0 +1,112 @@
+59
+00:02:00,456 --> 00:02:01,536
+PART.2: Val.
+
+60
+00:02:01,616 --> 00:02:03,456
+PART.2: Cinc. Aquest… Aquest!
+
+61
+00:02:03,536 --> 00:02:07,016
+PART.2: Aquest, molt bé. Són dos? Sí.
+
+62
+00:02:07,096 --> 00:02:08,296
+PART.1: Sí.
+
+63
+00:02:08,376 --> 00:02:10,096
+PART.2: Són aquí.
+
+64
+00:02:10,176 --> 00:02:13,256
+PART.1: Val i on el fiquem? Aquí.
+
+65
+00:02:13,336 --> 00:02:15,456
+PART.2: Aquí. Aquí un…
+
+66
+00:02:15,536 --> 00:02:17,296
+PART.1: I l'altre…
+
+67
+00:02:17,376 --> 00:02:18,536
+PART.2: Ui.
+
+68
+00:02:19,536 --> 00:02:20,496
+PART.1: Molt bé.
+
+69
+00:02:20,576 --> 00:02:22,616
+PART.2: Ara ja va semblant un cotxe.
+
+70
+00:02:22,696 --> 00:02:25,776
+PART.1: I ara què més tenim? Un de quatre petitet marró.
+
+71
+00:02:25,856 --> 00:02:26,936
+PART.2: Aquest. Sí.
+
+72
+00:02:27,016 --> 00:02:28,896
+PART.1: I un de vermell quadradet.
+
+73
+00:02:29,456 --> 00:02:31,296
+PART.2: Té com… O sigui, és com…
+
+74
+00:02:31,376 --> 00:02:33,336
+PART.1: Sí, que és com una pujada.
+
+75
+00:02:33,416 --> 00:02:36,696
+PART.2: …triangular. És aquest. Sí. Un d'aquests i… aquest.
+
+76
+00:02:36,776 --> 00:02:38,776
+PART.1: D'aquest, en necessitem dos.
+
+77
+00:02:38,856 --> 00:02:39,616
+PART.2: Dos.
+
+78
+00:02:39,696 --> 00:02:40,416
+PART.1: Val.
+
+79
+00:02:41,576 --> 00:02:44,616
+PART.1: Llavors, el marró el fiquem aquí al darrera, no?
+
+80
+00:02:44,696 --> 00:02:47,136
+PART.2: Sí. Aquests són els alerons.
+
+81
+00:02:47,216 --> 00:02:49,296
+PART.1: I aquests són els dos…
+
+82
+00:02:49,376 --> 00:02:52,816
+PART.2: Uh! Perdó. Que me'l carrego! El posaré així.
+
+83
+00:02:52,896 --> 00:02:55,456
+PART.2: Dona'm, que el poso primer, perquè si no…
+
+84
+00:02:55,536 --> 00:02:56,616
+PART.1: Sí, sí.
+
+85
+00:02:56,696 --> 00:02:57,576
+PART.2: Ara.
+
+86
+00:02:59,456 --> 00:03:02,456
+PART.1: "Bueno" i això… Espera't.
+

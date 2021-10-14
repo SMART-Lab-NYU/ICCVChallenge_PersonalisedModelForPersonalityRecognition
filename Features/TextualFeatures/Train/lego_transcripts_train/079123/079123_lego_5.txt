@@ -1,0 +1,48 @@
+75
+00:05:01,407 --> 00:05:07,407
+PART.2: Coneixes a un tal, un professor de claqué d'aquí de Barcelona, que és bastant bo i es diu Iván Bouchain?
+
+76
+00:05:07,407 --> 00:05:08,407
+PART.1: Sí, Iván Bouchain!
+
+77
+00:05:08,407 --> 00:05:09,407
+PART.1: I tant!
+
+78
+00:05:08,407 --> 00:05:11,407
+PART.2: És el meu profe de claqué.
+
+79
+00:05:12,407 --> 00:05:13,407
+PART.1: Tu fas claqué?
+
+80
+00:05:13,407 --> 00:05:14,407
+PART.2: Sí.
+
+81
+00:05:14,407 --> 00:05:15,407
+PART.1: ¡No jodas!
+
+82
+00:05:14,407 --> 00:05:16,407
+PART.2: A Swing Maniacs.
+
+83
+00:05:16,407 --> 00:05:17,407
+PART.2: A Swing Maniacs?
+
+84
+00:05:16,407 --> 00:05:17,407
+PART.2: Sí.
+
+85
+00:05:17,407 --> 00:05:18,407
+PART.1: Clar, clar.
+
+86
+00:05:18,407 --> 00:05:21,407
+PART.1: I tant, he anat un munt de cops a Swing Maniacs.
+

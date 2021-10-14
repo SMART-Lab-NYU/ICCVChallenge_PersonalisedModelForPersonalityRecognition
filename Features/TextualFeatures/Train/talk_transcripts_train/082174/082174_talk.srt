@@ -1,0 +1,732 @@
+1
+00:00:00,274 --> 00:00:02,154
+PART.1: Muy bien.
+
+2
+00:00:03,154 --> 00:00:04,234
+PART.1: ¿De qué quieres hablar?
+
+3
+00:00:04,234 --> 00:00:05,474
+PART.2: No sé, uh...
+
+4
+00:00:05,474 --> 00:00:06,394
+PART.1: ¿Qué tal?
+
+5
+00:00:06,394 --> 00:00:08,674
+PART.2: De la lista de Tinder,
+¿qué ha pasado?
+
+6
+00:00:09,074 --> 00:00:09,994
+PART.1: ¿Qué?
+
+7
+00:00:09,994 --> 00:00:11,354
+PART.2: De la lista que ha dicho
+Javi.
+
+8
+00:00:12,794 --> 00:00:13,434
+PART.2: No sé.
+
+9
+00:00:13,434 --> 00:00:14,994
+PART.2: ¿Tú vas a viajar este
+verano o no?
+
+10
+00:00:15,474 --> 00:00:16,194
+PART.1: No.
+
+11
+00:00:16,794 --> 00:00:19,034
+PART.2: Yo también, cuando ha
+dicho lo de...
+
+12
+00:00:21,034 --> 00:00:22,234
+PART.1: ¡Ay!
+
+13
+00:00:22,674 --> 00:00:25,674
+PART.1: Yo quería preguntarte,
+¿qué tal ayer con tu colega?
+
+14
+00:00:26,114 --> 00:00:26,794
+PART.2: Muy bien.
+
+15
+00:00:26,794 --> 00:00:28,554
+PART.2: Espera, ¿cuál de todos?
+
+16
+00:00:29,034 --> 00:00:30,314
+PART.2: ¿Con el que vino a
+dormir?
+
+17
+00:00:31,154 --> 00:00:33,354
+PART.1: Con el colega
+que quedaste ayer.
+
+18
+00:00:34,234 --> 00:00:35,554
+PART.1: Ayer por la noche
+quedaste.
+
+19
+00:00:35,554 --> 00:00:37,914
+PART.2: Ah, no, es que ese era
+alemán.
+
+20
+00:00:37,914 --> 00:00:39,514
+PART.1: ¿Este es el alemán?
+
+21
+00:00:39,514 --> 00:00:40,554
+PART.2: ¿Te he hablado del
+alemán?
+
+22
+00:00:40,554 --> 00:00:40,874
+PART.1: No.
+
+23
+00:00:40,874 --> 00:00:41,634
+PART.2: No te he hablado del
+alemán.
+
+24
+00:00:41,634 --> 00:00:42,914
+PART.2: ¿De mis compis de piso
+te he hablado?
+
+25
+00:00:43,354 --> 00:00:44,594
+PART.1: Sí.
+
+26
+00:00:44,874 --> 00:00:45,994
+PART.1: Sólo tienes uno ahora,
+¿no?
+
+27
+00:00:45,994 --> 00:00:47,394
+PART.2: Claro, peor ¿te he
+hablado de los anteriores?
+
+28
+00:00:47,394 --> 00:00:49,074
+PART.1: Sí, que había un rubio.
+
+29
+00:00:49,074 --> 00:00:50,234
+PART.2: Vale, está Lucas.
+
+30
+00:00:50,234 --> 00:00:51,034
+PART.1: Ah, el rubio.
+
+31
+00:00:51,034 --> 00:00:54,434
+PART.2: No, Lucas no es el rubio,
+Lucas es el bajito este.
+
+32
+00:00:54,954 --> 00:00:56,874
+PART.2: Da igual, uno de mis
+mejores amigos, sí.
+
+33
+00:00:57,234 --> 00:01:01,234
+PART.2: Luego está Toby, que es
+el alto rubio, que es de Austria, y
+luego está el alemán.
+
+34
+00:01:01,234 --> 00:01:03,074
+PART.1: Toby, ¿y el primero
+cómo?
+
+35
+00:01:03,074 --> 00:01:03,994
+PART.2: Lucas, Toby.
+
+36
+00:01:03,994 --> 00:01:05,154
+PART.1: Parecen nombres de
+perros.
+
+37
+00:01:05,154 --> 00:01:05,914
+PART.2: ¿Por qué?
+
+38
+00:01:05,914 --> 00:01:07,234
+PART.2: ¿"Lucas" es nombre de
+perro?
+
+39
+00:01:07,234 --> 00:01:08,394
+PART.1: Podría ser perfectamente.
+
+40
+00:01:08,394 --> 00:01:10,634
+PART.1: Al lado de "Toby",
+cualquier cosa.
+
+41
+00:01:11,234 --> 00:01:12,354
+PART.2: Toby y Lucas.
+
+42
+00:01:12,354 --> 00:01:13,354
+PART.1: ¿Se llama Toby?
+
+43
+00:01:13,354 --> 00:01:13,954
+PART.2: Tobías.
+
+44
+00:01:14,394 --> 00:01:17,194
+PART.2: Sí, "Tobias", es muy así.
+
+45
+00:01:17,554 --> 00:01:18,554
+PART.2: Y luego está el alemán.
+
+46
+00:01:18,554 --> 00:01:24,394
+PART.2: Entonces, todos se han
+ido a sus países, pero el alemán
+está como viajando entre Francia y
+Croacia y entonces me ha dicho que
+venía un par de días.
+
+47
+00:01:25,794 --> 00:01:28,354
+PART.2: Y yo: "Vale, me había
+olvidado".
+
+48
+00:01:28,354 --> 00:01:31,354
+PART.2: Por eso te dije:
+"¿Quedamos esta noche, tal, no sé
+qué?"
+
+49
+00:01:31,354 --> 00:01:35,274
+PART.2: Y de repente, justo a la
+par, me manda él un mensaje en plan:
+"Tú, que estoy en tu puerta".
+
+50
+00:01:35,274 --> 00:01:36,314
+PART.2: Y yo: "¿Qué?"
+
+51
+00:01:36,674 --> 00:01:37,554
+PART.1: ¡Joder!
+
+52
+00:01:38,674 --> 00:01:44,794
+PART.2: Y nada, se ha quedado, y
+nos hemos fumado unos porros y bebí
+unas cervezas y me quedé noquedado
+en el sofá.
+
+53
+00:01:46,874 --> 00:01:47,794
+PART.1: Muy bien.
+
+54
+00:01:48,114 --> 00:01:52,594
+PART.2: Y luego el rodaje fue
+bien, fue un coñazo.
+
+55
+00:01:53,714 --> 00:01:55,234
+PART.2: Los putos rusos, tío,
+estaban hablando en...
+
+56
+00:01:55,234 --> 00:01:59,594
+PART.1: Ah, vaya, que ayer tenías
+el rodaje ese, el de publicidad.
+
+57
+00:01:59,874 --> 00:02:04,434
+PART.2: Tres entrevistas, más yo
+sé qué, unos planos así de historias
+con las sonrisas.
+
+58
+00:02:04,914 --> 00:02:10,434
+PART.2: Un ruso hablando inglés,
+en plan todo serio, en plan: "And
+this is..."
+
+59
+00:02:10,434 --> 00:02:13,154
+PART.2: Pero no se movía, es que
+daba mucha pena, tío.
+
+60
+00:02:13,754 --> 00:02:14,794
+PART.1: Bueno, es ruso.
+
+61
+00:02:14,794 --> 00:02:15,274
+PART.2: ¿Eh?
+
+62
+00:02:15,274 --> 00:02:16,714
+PART.1: Los rusos son...
+
+63
+00:02:16,794 --> 00:02:17,514
+PART.2: Bueno, sí.
+
+64
+00:02:17,914 --> 00:02:20,594
+PART.2: Y luego ya cuando
+soltaron al "Bellotes", se vino.
+
+65
+00:02:20,914 --> 00:02:23,474
+PART.2: Él, "¿cuánto te debo?",
+y yo "800, págame todo".
+
+66
+00:02:24,034 --> 00:02:24,714
+PART.2: No.
+
+67
+00:02:25,114 --> 00:02:26,474
+PART.1: ¿Te pagaron?
+
+68
+00:02:26,474 --> 00:02:27,274
+PART.1: 200 pavos.
+
+69
+00:02:28,394 --> 00:02:29,794
+PART.1: ¿Y cuántos te quedan de
+hacer?
+
+70
+00:02:29,794 --> 00:02:30,434
+PART.2: Uno, hoy.
+
+71
+00:02:30,794 --> 00:02:31,794
+PART.1: ¿Uno hoy y ya está?
+
+72
+00:02:31,794 --> 00:02:33,354
+PART.2: Y otros 200 pavos.
+
+73
+00:02:34,474 --> 00:02:36,114
+PART.1: Y simplemente tenías
+que grabar.
+
+74
+00:02:37,034 --> 00:02:38,154
+PART.1: ¿Como un oso panda?
+
+75
+00:02:38,154 --> 00:02:39,234
+PART.2: Grabar a...
+
+76
+00:02:39,634 --> 00:02:41,074
+PART.2: Estuvimos cinco horas o
+por ahí.
+
+77
+00:02:41,594 --> 00:02:42,834
+PART.1: Pero ¿grabando?
+
+78
+00:02:43,474 --> 00:02:44,274
+PART.1: ¿Qué tenías que hacer?
+
+79
+00:02:44,274 --> 00:02:50,554
+PART.2: O sea, vale, entramos y
+grabamos primero a un CEO en una
+habitación, otro en otro y luego
+otro en otra.
+
+80
+00:02:50,554 --> 00:02:56,434
+PART.2: Y luego vino un extra que
+yo llamé, hicimos un poco la
+historia de grabar un poco el
+edificio desde fuera, hacer que el
+chaval entraba.
+
+81
+00:02:56,434 --> 00:02:57,714
+PART.2: Entonces hacer como
+una...
+
+82
+00:02:57,714 --> 00:02:58,674
+PART.1: ¿Y qué era?
+
+83
+00:02:58,674 --> 00:03:04,554
+PART.2: Es un spot de
+empresarios, es una competición de
+vídeos entre cuatro empresas que
+cumplen cinco años.
+
+84
+00:03:04,554 --> 00:03:05,194
+PART.1: ¡Ah!
+
+85
+00:03:05,194 --> 00:03:07,594
+PART.2: Entonces, el mejor vídeo
+que quede, gana no sé qué.
+
+86
+00:03:07,874 --> 00:03:09,234
+PART.2: Pero lo que pasa es que
+no lo edito yo.
+
+87
+00:03:10,914 --> 00:03:11,754
+PART.1: ¿Quién lo edita?
+
+88
+00:03:11,754 --> 00:03:15,634
+PART.2: El que lo edita es un
+ruso que no sabe editar y no sabe
+español, entonces...
+
+89
+00:03:15,634 --> 00:03:16,914
+PART.1: Entonces lo tenéis
+complicado.
+
+90
+00:03:16,914 --> 00:03:17,954
+PART.2: Entonces...
+
+91
+00:03:17,954 --> 00:03:19,234
+PART.1: ¿Cuál ha sido?
+
+92
+00:03:19,234 --> 00:03:20,434
+PART.2: Grabar y entregar los
+clips.
+
+93
+00:03:21,074 --> 00:03:21,834
+PART.1: ¿Ya está?
+
+94
+00:03:21,834 --> 00:03:22,434
+PART.2: Ya está.
+
+95
+00:03:22,434 --> 00:03:23,794
+PART.1: Y con 300 euros puedes
+grabar.
+
+96
+00:03:23,794 --> 00:03:25,074
+PART.1: Pero si eso lo hago yo,
+tío.
+
+97
+00:03:25,074 --> 00:03:26,514
+PART.2: Por eso, ya se sabe mi
+vida.
+
+98
+00:03:26,514 --> 00:03:27,834
+PART.1: Mira, ya...
+
+99
+00:03:27,954 --> 00:03:29,194
+PART.2: Javi, no te voy a pagar
+nada.
+
+100
+00:03:31,354 --> 00:03:32,794
+PART.1: Qué fuerte.
+
+101
+00:03:32,794 --> 00:03:38,434
+PART.2: Entonces ya le he dicho
+al pavo: "Oye, que yo te voy a
+cobrar más, pero prefiero editarlo
+yo".
+
+102
+00:03:38,514 --> 00:03:39,794
+PART.1: Para que quede bien.
+
+103
+00:03:39,794 --> 00:03:42,474
+PART.2: Es que el pavo este no va
+a entender una puta mierda, va a ser
+un...
+
+104
+00:03:42,474 --> 00:03:44,234
+PART.1: Claro, y porque tú has
+hecho eso.
+
+105
+00:03:44,234 --> 00:03:46,114
+PART.1: Claro, es que si no hay
+tracción entre...
+
+106
+00:03:46,514 --> 00:03:47,914
+PART.2: dirección y montaje.
+
+107
+00:03:47,914 --> 00:03:49,194
+PART.2: Bueno, en fin, que...
+
+108
+00:03:49,194 --> 00:03:49,754
+PART.1: Ya, ya.
+
+109
+00:03:49,754 --> 00:03:52,034
+PART.2: Me han pagado y...
+
+110
+00:03:52,154 --> 00:03:53,954
+PART.1: Pues qué bien que te
+hayan pagado.
+
+111
+00:03:54,394 --> 00:03:56,194
+PART.2: ¿Tú qué tal la cosa
+de cócteles esta?
+
+112
+00:03:56,194 --> 00:04:05,914
+PART.1: Pues fue una cosa un poco
+rara porque me supo muy mal porque
+ya quedamos Javi y yo de que
+estaríamos los dos en casa, que
+teníamos cosas que hacer.
+
+113
+00:04:05,914 --> 00:04:08,234
+PART.1: Una faena, estoy con las
+pecas, me están saliendo.
+
+114
+00:04:08,754 --> 00:04:21,274
+PART.1: Pues habíamos dicho que
+estaríamos los dos en casa todo el
+día para hacer entrevistas y por la
+mañana en plan rollo a las 11:30, me
+habla mi encargado y me dice: "Están
+haciendo un curso de coctelería en
+el bar tal".
+
+115
+00:04:21,274 --> 00:04:21,874
+PART.2: Ajá.
+
+116
+00:04:21,874 --> 00:04:24,234
+PART.1: "Es gratuito, ves".
+
+117
+00:04:24,234 --> 00:04:27,714
+PART.1: No, me dijo: "Sería
+deseable que fueras", o algo así.
+
+118
+00:04:27,714 --> 00:04:28,394
+PART.2: Deseable.
+
+119
+00:04:28,394 --> 00:04:31,034
+PART.1: O algo así, "conveniente"
+o no sé.
+
+120
+00:04:31,034 --> 00:04:31,874
+PART.2: "Te convendría ir".
+
+121
+00:04:31,874 --> 00:04:34,274
+PART.1: Y yo le digo: "Hola,
+tal".
+
+122
+00:04:34,274 --> 00:04:41,434
+PART.1: Y le digo: "Es que hoy
+tengo el día visitas de mi nuevo
+compañero de piso", y no me
+contestó.
+
+123
+00:04:41,794 --> 00:04:46,154
+PART.1: Y le dije: "¿Cuánto
+tiempo dura el curso de coctelería?"
+
+124
+00:04:46,154 --> 00:04:47,354
+PART.1: Y me dice: "Una hora".
+
+125
+00:04:47,354 --> 00:04:50,514
+PART.1: Y yo: "Ostia, una hora,
+así me..."
+
+126
+00:04:51,154 --> 00:04:51,754
+PART.2: Sí.
+
+127
+00:04:51,754 --> 00:04:55,194
+PART.1: Me disocio un poco de
+todo el tema este, que me está
+capturando demasiado.
+
+128
+00:04:56,474 --> 00:05:06,954
+PART.1: Y fui y eso, éramos como,
+pues yo qué sé, todo el equipo de
+camareros de entre los tres bares,
+igual somos unos 30, y estábamos
+seis, siete.
+
+129
+00:05:06,954 --> 00:05:15,634
+PART.1: Y una chica nos hizo como
+la presentación rápida de todos los
+cócteles típicos, más nuevas
+incorporaciones de cócteles.
+
+130
+00:05:16,354 --> 00:05:20,594
+PART.1: Persona a: Y los estuvo preparando,
+debatiendo el tema cantidades, para
+establecer como un estándar entre
+todos.
+
+131
+00:05:21,074 --> 00:05:24,954
+PART.1: Que no en un bar pongas 6
+centilitros y en otro pongas 4.
+
+132
+00:05:24,954 --> 00:05:27,594
+PART.1: Es decir, que haya como
+una regulación, que...
+
+133
+00:05:27,954 --> 00:05:30,274
+PART.1: No sé, por eso, por
+reglar un poco.
+
+134
+00:05:30,274 --> 00:05:36,794
+PART.1: Hablamos de los nuevos
+cócteles y luego cada uno de
+nosotros, tú le decías: "Tú vas a
+preparar este, tú, tal".
+
+135
+00:05:36,794 --> 00:05:41,274
+PART.1: Luego los preparamos, nos
+lo bebimos, volví a casa medio
+borracha y...
+
+136
+00:05:43,274 --> 00:05:43,834
+PART.1: Y eso.
+
+137
+00:05:43,834 --> 00:05:45,954
+PART.1: Y la verdad que bastante
+guay, me lo pasé superbién.
+
+138
+00:05:45,954 --> 00:05:46,514
+PART.1: Preparamos...
+
+139
+00:05:46,514 --> 00:05:46,994
+PART.2: Qué guay.
+
+140
+00:05:46,994 --> 00:05:47,794
+PART.1: Preparamos...
+
+141
+00:05:47,794 --> 00:05:50,354
+PART.2: Claro, es que yo te hablé
+y de repente me respondido Javi y yo:
+"Hola, Javi".
+
+142
+00:05:50,834 --> 00:05:51,314
+PART.1: Sí.
+
+143
+00:05:51,314 --> 00:05:52,954
+PART.2: "Minerva se ha dejado el
+móvil", me dice.
+
+144
+00:05:52,954 --> 00:05:53,514
+PART.2: Y yo: "Qué raro".
+
+145
+00:05:53,514 --> 00:05:55,314
+PART.1: Sí, me lo dejé para que
+pudiera estar en contacto con la
+gente.
+
+146
+00:05:55,314 --> 00:05:57,074
+PART.2: ¿Y qué tal la gente
+que ha ido a visitar el piso?
+
+147
+00:05:57,474 --> 00:06:02,034
+PART.1: Pues la verdad es que
+tenían que venir como 15 o 16
+personas y vinieron súper poquitas.
+
+148
+00:06:02,034 --> 00:06:02,634
+PART.2: ¿Sí?
+
+149
+00:06:02,634 --> 00:06:06,354
+PART.1: Y Javi había aplazado
+muchas visitas para hoy.
+
+150
+00:06:06,354 --> 00:06:09,274
+PART.1: Ostia, me estoy tocando
+la espalda porque me han salido un
+montón de granitos.
+
+151
+00:06:11,154 --> 00:06:12,074
+PART.1: Pues...
+

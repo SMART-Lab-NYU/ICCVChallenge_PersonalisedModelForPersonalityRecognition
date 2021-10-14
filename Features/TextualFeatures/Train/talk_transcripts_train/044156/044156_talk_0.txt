@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:01,529
+PART.1: ¿Cinco minutos?
+Es para saber...
+
+2
+00:00:01,609 --> 00:00:04,009
+PART.2: Con vino o algo, mejor.
+
+3
+00:00:04,089 --> 00:00:06,369
+PART.1: Para romper el hielo.
+
+4
+00:00:06,449 --> 00:00:08,489
+PART.2: Empezamos por el nombre.
+
+5
+00:00:08,569 --> 00:00:09,809
+PART.1: Sí. Albert.
+
+6
+00:00:09,889 --> 00:00:11,529
+PART.2: Vale. Marina.
+
+7
+00:00:11,609 --> 00:00:13,849
+PART.1: Vale. ¿De dónde eres?
+
+8
+00:00:13,929 --> 00:00:15,249
+PART.2: De Brasil.
+
+9
+00:00:15,329 --> 00:00:17,449
+PART.1: Es que noté un acento.
+
+10
+00:00:17,529 --> 00:00:20,209
+PART.2: Esta tía
+que habla tan raro...
+
+11
+00:00:20,289 --> 00:00:24,769
+PART.1: No, he notado un acento,
+pero podría ser porque hay veces
+
+12
+00:00:24,849 --> 00:00:28,569
+PART.1: que gente de Europa del Este
+tiene un acento y no sé
+
+13
+00:00:28,649 --> 00:00:31,329
+PART.1: si son de Rumanía...
+No hubiera dicho Brasil,
+
+14
+00:00:31,409 --> 00:00:33,449
+PART.1: hubiera dicho Bulgaria o así.
+
+15
+00:00:33,529 --> 00:00:35,329
+PART.2: Viví en Bosnia.
+
+16
+00:00:35,409 --> 00:00:37,769
+PART.1: Por eso. ¿Mucho tiempo?
+
+17
+00:00:37,849 --> 00:00:39,369
+PART.2: Hace mucho.
+
+18
+00:00:39,449 --> 00:00:42,329
+PART.1: ¿El español
+no lo aprendiste en Bosnia?
+
+19
+00:00:42,409 --> 00:00:43,769
+PART.2: No, aquí.
+
+20
+00:00:43,849 --> 00:00:45,889
+PART.1: ¿Llevas mucho aquí?
+
+21
+00:00:45,969 --> 00:00:49,729
+PART.2: Casi tres años.
+En septiembre u octubre
+
+22
+00:00:49,809 --> 00:00:52,369
+PART.2: van a hacer tres años.
+
+23
+00:00:52,449 --> 00:00:55,889
+PART.2: Pero tres años
+que creo que estoy más tiempo
+
+24
+00:00:55,969 --> 00:00:57,929
+PART.2: e Brasil o viajando que aquí.
+
+25
+00:00:58,009 --> 00:00:59,329
+PART.1: Ah, vale.
+
+26
+00:00:59,409 --> 00:01:01,449
+PART.1: ¿Viniste a trabajar o a vivir?
+

@@ -1,0 +1,296 @@
+﻿1
+00:00:00,000 --> 00:00:00,372
+PART.2: Vale
+
+2
+00:00:03,587 --> 00:00:05,105
+PART.2: Va, comença tu.
+
+3
+00:00:05,265 --> 00:00:05,826
+PART.1: Vale
+
+4
+00:00:10,689 --> 00:00:11,874
+PART.2: Nooo.
+
+5
+00:00:14,818 --> 00:00:15,649
+PART.2: Aquest si!
+
+6
+00:00:19,202 --> 00:00:19,793
+PART.2: Vale
+
+7
+00:00:19,937 --> 00:00:20,449
+PART.1: Vale
+
+8
+00:00:24,034 --> 00:00:27,250
+PART.2: Nooo. No si val!
+
+9
+00:00:27,426 --> 00:00:29,521
+PART.1: Si, si se val.
+
+10
+00:00:27,620 --> 00:00:28,901
+PART.2: L'anava a agafar.
+
+11
+00:00:29,093 --> 00:00:30,214
+PART.1: Però se t'ha relliscat
+
+12
+00:00:30,390 --> 00:00:32,726
+PART.2: Bueno va, queda. Però l'anava a agafar jo.
+
+13
+00:00:33,940 --> 00:00:34,774
+PART.2: Va, em toca a mi.
+
+14
+00:00:34,876 --> 00:00:35,596
+PART.1: Vale, perdó.
+
+15
+00:00:38,684 --> 00:00:39,596
+PART.1: No sé jugar.
+
+16
+00:00:39,724 --> 00:00:41,116
+PART.2: Merda! Sí sí, es aquest.
+
+17
+00:00:41,260 --> 00:00:42,235
+PART.1: Sí sí, està bé, està bé.
+
+18
+00:00:42,380 --> 00:00:43,502
+PART.2: Ostia, es què lia molt
+
+19
+00:00:43,675 --> 00:00:46,411
+PART.1: Ja ja, puta vida, vull dir, puta no.
+
+20
+00:00:50,140 --> 00:00:54,875
+PART.1: No se jugar. Quins nervis. Perdó et tocava a tu.
+
+21
+00:01:00,970 --> 00:01:02,028
+PART.2: Diosss quina tensió
+
+22
+00:01:03,117 --> 00:01:05,211
+PART.1: Però perquè... tot el rato?
+
+23
+00:01:05,371 --> 00:01:06,523
+PART.2: I ens quedem les dos amb...
+
+24
+00:01:06,652 --> 00:01:10,380
+PART.2: Jo ho faig malament, l’única que tinc es perquè m'he las dit tu, i l’anaves a agafar tu... saps?
+
+25
+00:01:10,524 --> 00:01:12,092
+PART.2: Vinga va, treu, treu carta.
+
+26
+00:01:13,180 --> 00:01:18,122
+PART.1: No, espera, fes-ho bé. Soc estupida, joder! No, si què et toca a tu, a més.
+
+27
+00:01:19,292 --> 00:01:20,892
+PART.1: Què asco!
+
+28
+00:01:21,099 --> 00:01:22,268
+PART.2: Perquè està el fantasma blanc.
+
+29
+00:01:25,115 --> 00:01:25,867
+PART.1: ...Vale. va.
+
+30
+00:01:28,796 --> 00:01:29,884
+PART.2: Has estat ràpida!
+
+31
+00:01:30,044 --> 00:01:30,956
+PART.1: Ràpida!
+
+32
+00:01:35,949 --> 00:01:37,437
+PART.2: Vigila què és un micro això. Crec?
+
+33
+00:01:38,027 --> 00:01:38,699
+PART.1: Perdó, perdó.
+
+34
+00:01:39,228 --> 00:01:40,685
+PART.1: Veus, que ho fas super bé.
+
+35
+00:01:40,892 --> 00:01:45,325
+PART.2: Què no he jugat mai. He jugat el primer amb la Xenia, bueno... la noia aquesta.
+
+36
+00:01:45,452 --> 00:01:48,780
+PART.1: Bueno però també has guanyat. Vull canviar de joc. No m'agrada.
+
+37
+00:01:54,492 --> 00:01:59,645
+PART.2: Vale. I així és com están els sensors dels micros que portem. Saps? Vinga va.
+
+38
+00:01:59,819 --> 00:02:01,085
+PART.1: Vale.
+
+39
+00:02:00,294 --> 00:02:00,965
+PART.2: Fot-li, fot-li
+
+40
+00:02:01,220 --> 00:02:01,957
+PART.1: Li foto!
+
+41
+00:02:04,821 --> 00:02:06,277
+PART.2: Vas començant a guanyar, eh! Amiga.
+
+42
+00:02:06,548 --> 00:02:08,357
+PART.1: Jopé. És que clar, quina merda.
+
+43
+00:02:08,612 --> 00:02:09,444
+PART.2: Em toca a mi.
+
+44
+00:02:08,885 --> 00:02:11,199
+PART.1: Ai! perdó. Ai! Estic tot...
+
+45
+00:02:14,223 --> 00:02:15,151
+PART.2: Ja estem
+
+46
+00:02:16,080 --> 00:02:16,911
+PART.1: Jo tinc 4
+
+47
+00:02:17,054 --> 00:02:18,288
+PART.2: tres, quatre, cinc, sis, set.
+
+48
+00:02:18,432 --> 00:02:19,295
+PART.1: Dona'm alguna?
+
+49
+00:02:19,423 --> 00:02:20,256
+PART.2: Nooo!
+
+50
+00:02:20,399 --> 00:02:21,055
+PART.1: Dona'm una?
+
+51
+00:02:21,200 --> 00:02:21,471
+PART.2: Nain
+
+52
+00:02:22,145 --> 00:02:22,480
+PART.1: Dues?
+
+53
+00:02:23,297 --> 00:02:23,823
+PART.2: "Everywuar!"
+
+54
+00:02:24,063 --> 00:02:24,864
+PART.1: "Everywuar!"?
+
+55
+00:02:26,209 --> 00:02:27,952
+PART.2: Diosss, És què es passa molta tensió, eh!
+
+56
+00:02:28,242 --> 00:02:29,887
+PART.1: Què horrible, no m'ha agrada, he perdut.
+
+57
+00:02:31,104 --> 00:02:31,872
+PART.2: I es pels nenes petits
+
+58
+00:02:33,885 --> 00:02:37,884
+PART.1: Ja! No! Però soc super empanada. No ho... saps?
+
+59
+00:02:39,039 --> 00:02:49,324
+PART.2: Costa saber ben bé, saber cap on van no? que has de triar? 
+¿Dios mío, quina hora es? per cert. Què jo he quedat amb la Marina. 
+Per fer, repassar cançó.
+
+60
+00:02:49,611 --> 00:02:54,971
+PART.1: Suerte! És tard, eh! Vull dir què.. les vuit, i era les set.
+
+61
+00:02:55,132 --> 00:02:56,348
+PART.2: Això es l'hora o és el teu pols?
+
+62
+00:02:56,476 --> 00:02:57,534
+PART.1: No ho se.
+
+63
+00:02:58,381 --> 00:02:59,084
+PART.2: Vuit i vint-i-nou.
+
+64
+00:02:59,948 --> 00:03:00,508
+PART.1: Veus?
+
+65
+00:03:00,780 --> 00:03:01,708
+PART.2: Vuit i vint-i-nou, ja?
+
+66
+00:03:01,868 --> 00:03:03,611
+PART.1: És que ja t'he dit què es tard.
+
+67
+00:03:03,787 --> 00:03:05,149
+PART.2: Merda!
+
+68
+00:03:05,292 --> 00:03:10,414
+PART.1: Jo he d'anar abans... Abans de les deu he d'estar a Memory, 
+què tinc tota la roba allà del festival. 
+Com em tanqui el Memory, què faig?
+
+69
+00:03:10,571 --> 00:03:12,909
+PART.2: Clar, i tu? Bueno, jo ja puc marxar, però tu et quedes amb ella.
+
+70
+00:03:13,052 --> 00:03:15,884
+PART.1: Tia, fa un any ara mateix, què tenia el preu ja...
+
+71
+00:03:18,540 --> 00:03:18,878
+PART.2: Què fort!
+
+72
+00:03:19,213 --> 00:03:19,774
+PART.1: Què fort!
+
+73
+00:03:19,773 --> 00:03:27,323
+SUPERVISOR: Madre mía! Es la segunda vez de gente que se ha emocionado en este juego.
+

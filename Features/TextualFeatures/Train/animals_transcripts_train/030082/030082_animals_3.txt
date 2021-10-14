@@ -1,0 +1,82 @@
+70
+00:03:00,297 --> 00:03:02,017
+PART.2:  Bueno, te dije no lo sé.
+
+71
+00:03:02,097 --> 00:03:06,217
+PART.2: Te dije no lo sé porque no...
+
+72
+00:03:06,297 --> 00:03:07,577
+PART.2:  No es una gallina.
+
+73
+00:03:08,017 --> 00:03:08,817
+PART.1: Vale.
+
+74
+00:03:10,137 --> 00:03:10,937
+PART.2:  Vale.
+
+75
+00:03:15,257 --> 00:03:16,257
+PART.2:  A ver.
+
+76
+00:03:16,817 --> 00:03:19,137
+PART.2:  Eh, ¿soy colorido?
+
+77
+00:03:23,657 --> 00:03:27,137
+PART.1: Mmm... ¿colorido, muchos colores?
+
+78
+00:03:27,217 --> 00:03:27,617
+PART.2:  Sí.
+
+79
+00:03:27,697 --> 00:03:28,257
+PART.2:  No.
+
+80
+00:03:30,537 --> 00:03:31,497
+PART.2:  Vale.
+
+81
+00:03:33,577 --> 00:03:35,417
+PART.1: ¿Mi animal es veloz?
+
+82
+00:03:36,137 --> 00:03:37,257
+PART.2:  Súper.
+
+83
+00:03:41,937 --> 00:03:43,337
+PART.1: ¿Y no tiene plumas?
+
+84
+00:03:44,217 --> 00:03:47,017
+PART.1: Es que no me acuerdo de cuáles son
+las preguntas que te dije antes,
+tendría que tener un papel.
+
+85
+00:03:47,097 --> 00:03:48,697
+PART.2:  No, no tienes plumas.
+
+86
+00:03:49,297 --> 00:03:50,737
+PART.2:  No tienes plumas.
+
+87
+00:03:51,697 --> 00:03:52,697
+PART.2:  No.
+
+88
+00:03:53,737 --> 00:03:54,897
+PART.1: ¿Un pollito?
+
+89
+00:03:56,497 --> 00:03:58,177
+PART.2:  Un pollito superveloz.
+

@@ -1,0 +1,544 @@
+1
+00:00:00,374 --> 00:00:01,534
+PART.2: ¿Quién eres?
+
+2
+00:00:01,734 --> 00:00:03,374
+PART.1: ¿Quién soy? Germán.
+
+3
+00:00:03,454 --> 00:00:04,414
+PART.1: Soy Germán.
+
+4
+00:00:04,494 --> 00:00:08,014
+PART.1: No soy de aquí. Soy de Madrid.
+
+5
+00:00:08,534 --> 00:00:09,334
+PART.1: Y...
+
+6
+00:00:10,214 --> 00:00:12,054
+PART.2: No eres de aquí, así en plan...
+
+7
+00:00:12,134 --> 00:00:13,654
+PART.1: Claro, no soy de aquí.
+
+8
+00:00:14,214 --> 00:00:16,494
+PART.1: Es importante para saber...
+
+9
+00:00:14,574 --> 00:00:15,654
+PART.2: Entre comillas.
+
+10
+00:00:18,294 --> 00:00:19,574
+PART.2: Ya, Ya. Sí, sí.
+
+11
+00:00:19,774 --> 00:00:20,854
+PART.2: ¿Qué te trae a Barcelona?
+
+12
+00:00:20,934 --> 00:00:22,094
+PART.1: Pues estudiar un máster.
+
+13
+00:00:22,174 --> 00:00:23,094
+PART.2: ¿De qué?
+
+14
+00:00:23,174 --> 00:00:24,454
+PART.1: De Producción Cultural.
+
+15
+00:00:24,534 --> 00:00:26,254
+PART.2: Ah, ¿qué has estudiado tú?
+
+16
+00:00:26,694 --> 00:00:28,374
+PART.1: Periodismo y Comunicación
+Audiovisual.
+
+17
+00:00:28,454 --> 00:00:29,774
+PART.2: Vale, vale.
+
+18
+00:00:31,134 --> 00:00:35,094
+PART.2: ¿Y por qué viniste hasta aquí
+para este máster? ¿No había en
+Madrid?
+
+19
+00:00:35,174 --> 00:00:36,494
+PART.1: Sí que había, lo que pasa es...
+
+20
+00:00:36,574 --> 00:00:37,294
+PART.2: Querías irte.
+
+21
+00:00:37,214 --> 00:00:39,014
+PART.1: Sí. Me apetecía cambiar de aires.
+
+22
+00:00:38,774 --> 00:00:40,574
+PART.2: Bien dicho, bien dicho. Sí, sí.
+
+23
+00:00:40,734 --> 00:00:46,374
+PART.1: Mi hermana también vive
+aquí desde hace muchos años y no sé,
+como que me apetecía...
+
+24
+00:00:47,494 --> 00:00:48,814
+PART.2: Un cambio de aires, ¿no?
+
+25
+00:00:49,734 --> 00:00:53,054
+PART.1: No. Más que cambio de aires, es
+que yo siempre he querido venir a
+Barcelona.
+
+26
+00:00:53,134 --> 00:00:53,934
+PART.2: Ah.
+
+27
+00:00:55,174 --> 00:00:56,014
+PART.2: ¿Te mola?
+
+28
+00:00:56,094 --> 00:00:56,254
+PART.1: Sí.
+
+29
+00:00:56,334 --> 00:00:56,774
+PART.2: ¿Sí?
+
+30
+00:00:56,854 --> 00:00:59,654
+PART.2: Te ha satisfecho en lo que
+esperabas, ¿sí?
+
+31
+00:00:59,414 --> 00:01:00,014
+PART.1: Sí.
+
+32
+00:01:00,334 --> 00:01:02,694
+PART.2: ¿Algo de Barcelona que no dé
+Madrid?
+
+33
+00:01:03,134 --> 00:01:04,014
+PART.2: Por decir algo.
+
+34
+00:01:04,094 --> 00:01:08,294
+PART.1: Es el ambiente. Es como muy
+abstracto de explicar exactamente.
+
+35
+00:01:08,374 --> 00:01:09,934
+PART.1: Entonces es como... no sé.
+
+36
+00:01:10,294 --> 00:01:12,534
+PART.2: El rollo de la gente, como
+está...
+
+37
+00:01:12,614 --> 00:01:16,414
+PART.1: Sí, es el rollo de la cuidad,
+todo más comunitario, todo más...
+
+38
+00:01:16,494 --> 00:01:18,774
+PART.2: Más "chillk", más suave.
+Sí, vale, ya veo.
+
+39
+00:01:19,694 --> 00:01:20,654
+PART.1: Mucho más que Madrid.
+
+40
+00:01:20,734 --> 00:01:22,494
+PART.1: Madrid es como más de...
+
+41
+00:01:25,654 --> 00:01:29,654
+PART.1: Como perros ahí por la calle,
+todo terrible, mucha masificación.
+
+42
+00:01:29,734 --> 00:01:31,374
+PART.1: No sé, no me termina de...
+
+43
+00:01:31,454 --> 00:01:33,454
+PART.2: Sí, mira, Barcelona es súper...
+
+44
+00:01:33,534 --> 00:01:39,814
+PART.2: Igualmente sigue siendo pesada en
+cantidad, pero es muy suave en
+general, o sea, es muy agradable
+como ciudad, ¿eh?
+
+45
+00:01:39,894 --> 00:01:40,894
+PART.2: Pero bueno.
+
+46
+00:01:41,574 --> 00:01:45,974
+PART.2: Yo he venido aquí porque donde
+estaba no había lo que yo quería
+estudiar.
+
+47
+00:01:46,054 --> 00:01:47,254
+PART.1: ¿De dónde eres?
+
+48
+00:01:47,334 --> 00:01:48,174
+PART.2: ¿Te suena Salou?
+
+49
+00:01:48,254 --> 00:01:48,774
+PART.1: Sí, claro.
+
+50
+00:01:48,854 --> 00:01:50,134
+PART.2: Claro, el PortAventura...
+
+51
+00:01:50,214 --> 00:01:57,454
+PART.1: No. La primera vez que fui a
+Salou fue para hacer turismo normal,
+bueno, fuimos una tarde.
+
+52
+00:01:57,534 --> 00:02:05,894
+PART.1: Estuve, de hecho, en la casa de
+este abogado que es una supermansión
+derruida que está...
+
+53
+00:02:06,334 --> 00:02:07,534
+PART.2: ¿Dónde está eso?
+
+54
+00:02:07,614 --> 00:02:08,294
+PART.1: Salou.
+
+55
+00:02:08,374 --> 00:02:11,534
+PART.2: Ya, sí, pero ¿te suena qué hay
+alrededor?
+
+56
+00:02:11,814 --> 00:02:19,974
+PART.1: Pues alrededor hay pisos y como
+una supermansión, no sé, es una
+mansión derruida totalmente.
+
+57
+00:02:20,054 --> 00:02:24,334
+PART.1: La donaron y la querían convertir
+en una especie de residencia...
+
+58
+00:02:24,414 --> 00:02:27,814
+PART.2: La mansión de... un abogado...
+
+59
+00:02:27,894 --> 00:02:29,094
+PART.2: Esto me lo tengo que mirar, ¿eh?
+
+60
+00:02:29,174 --> 00:02:30,774
+PART.2: Mira que soy de ahí
+y no tengo ni puta idea.
+
+61
+00:02:30,854 --> 00:02:33,334
+PART.1: A lo mejor me estoy equivocando.
+Sí, es Salou.
+
+62
+00:02:33,534 --> 00:02:34,974
+PART.1: Definitivamente es Salou.
+
+63
+00:02:35,054 --> 00:02:37,254
+PART.2: ¿El nombre del esto te suena?
+En plan...
+
+64
+00:02:37,334 --> 00:02:38,294
+PART.1: No, sé que es...
+
+65
+00:02:38,374 --> 00:02:39,814
+PART.2: Calle, el nombre del abogado.
+
+66
+00:02:38,934 --> 00:02:40,254
+PART.1: Tiene algo que ver con Madrid.
+
+67
+00:02:40,974 --> 00:02:42,974
+PART.2: Bueno, ya lo miraré porque me
+sorprende.
+
+68
+00:02:43,054 --> 00:02:44,414
+PART.2: Es que yo...
+
+69
+00:02:43,494 --> 00:02:45,294
+PART.1: Sí, sí. Hay unas vistas desde
+ahí.
+
+70
+00:02:45,374 --> 00:02:45,854
+PART.2: ¿Sí?
+
+71
+00:02:45,934 --> 00:02:49,174
+PART.1: Bueno, ahora a lo mejor ya
+está..., pero está muy, muy guay.
+
+72
+00:02:49,254 --> 00:02:51,254
+PART.2: Claro, es que yo soy de ahí desde
+que nací.
+
+73
+00:02:51,334 --> 00:02:56,934
+PART.2: Yo nací en Tarragona, que es la
+ciudad de al lado, y toda mi vida he
+estado en Salou hasta los 18.
+
+74
+00:02:57,014 --> 00:02:58,894
+PART.2: O sea, sí, sí.
+
+75
+00:02:58,974 --> 00:03:03,014
+PART.2: Yo, claro, la universidad que
+tenía más cercana era la de
+Tarragona, ¿vale?
+
+76
+00:03:03,574 --> 00:03:08,974
+PART.2: Que era la URV. Donde hacían
+Informática, las Ingenierías
+Electrónicas, Industriales.
+
+77
+00:03:09,054 --> 00:03:14,854
+PART.2: Sobre todo Química, porque allí el
+industrial está lleno de Química,
+llenísimo el plan.
+
+78
+00:03:15,414 --> 00:03:18,574
+PART.2: Pero yo quería hacer Matemáticas
+y eso no había aquí.
+
+79
+00:03:18,654 --> 00:03:21,174
+PART.2: Así que me vine aquí a hacer
+Matemáticas e Informática.
+
+80
+00:03:21,254 --> 00:03:24,374
+PART.2: Y piso de alquiler con unos
+compañeros y aquí estoy.
+
+81
+00:03:24,454 --> 00:03:25,734
+PART.2: Cuatro años llevo.
+
+82
+00:03:25,134 --> 00:03:26,294
+PART.1: Sí, en Madrid lo mismo.
+
+83
+00:03:27,014 --> 00:03:37,334
+PART.1: No tenía cerca nada y, antes que
+pegarme la panzada de dos horas
+en transporte público, dije pues me
+voy a compartir, tal...
+
+84
+00:03:37,414 --> 00:03:43,414
+PART.2: Saber lo que es vivir, en plan,
+tú con otra gente, verte a tu
+rollo... Sí, sí, sí.
+
+85
+00:03:43,974 --> 00:03:44,894
+PART.2: Pero bueno.
+
+86
+00:03:45,214 --> 00:03:48,254
+PART.1: He escuchado antes que estabas
+dando clases y eso.
+
+87
+00:03:48,534 --> 00:03:49,974
+PART.2: Sí. Aquí no, ¡eh!
+
+88
+00:03:50,054 --> 00:03:55,574
+PART.2: Como profe particular, me busco
+alumnos por ahí de segundo de
+Bachillerato y voy a sus casas y
+tal, ¿eh?
+
+89
+00:03:56,534 --> 00:03:58,494
+PART.2: Seguramente lo que haré el
+próximo año es...
+
+90
+00:03:58,574 --> 00:04:02,734
+PART.2: Hay unas becas de profe auxiliar,
+no de... ¿Cómo se dice?
+
+91
+00:04:02,814 --> 00:04:05,294
+PART.2: No de adjunto, sino auxiliar.
+
+92
+00:04:05,374 --> 00:04:16,814
+PART.2: Que el catedrático da las clases
+de teoría, el adjunto ayuda y da las
+de laboratorio y el auxiliar da
+clases optativas extras para la
+gente que quiere un repaso extra y
+tal, ¿vale?
+
+93
+00:04:16,894 --> 00:04:18,094
+PART.2: Y no pagan mal.
+
+94
+00:04:18,414 --> 00:04:24,574
+PART.2: Seguramente haga esto y daré
+clases de primero o de segundo
+porque me mola, me mola enseñar,
+está chulo.
+
+95
+00:04:25,454 --> 00:04:28,334
+PART.1: Pues a oposiciones para ser
+profesor.
+
+96
+00:04:28,414 --> 00:04:30,214
+PART.2: No, no. Paso de ser profe de uni.
+
+97
+00:04:30,654 --> 00:04:32,494
+PART.1: No, hombre, puedes ser de
+instituto.
+
+98
+00:04:32,814 --> 00:04:35,774
+PART.2: Sí, pero no quiero ser eso ahora.
+
+99
+00:04:35,854 --> 00:04:37,534
+PART.2: Me gustaría en el futuro.
+
+100
+00:04:37,614 --> 00:04:38,774
+PART.1: ¿Y qué quieres hacer?
+
+101
+00:04:38,854 --> 00:04:42,374
+PART.1: Bueno, aparte de tener tu sueldo
+y eso, ¿qué te gustaría hacer ahora?
+
+102
+00:04:42,454 --> 00:04:48,214
+PART.2: A ver, ahora, probar lo que hay
+de oportunidades laborales de lo
+mío.
+
+103
+00:04:48,374 --> 00:04:53,414
+PART.2: Quiero probar un poco, por eso
+estoy haciendo prácticas ahora  y el
+próximo año haré unas segundas
+prácticas.
+
+104
+00:04:53,654 --> 00:04:58,134
+PART.2: Quiero intentar meterme en muchos
+ambientes distintos para saber qué
+rama me mola.
+
+105
+00:04:58,214 --> 00:05:01,894
+PART.2: Porque tú puedes estudiar algo
+aquí, pero hasta que no lo pruebas
+laboralmente no sabes lo que es.
+
+106
+00:05:01,974 --> 00:05:03,214
+PART.2: Pues quiero probar esto.
+
+107
+00:05:03,294 --> 00:05:06,974
+PART.2: Estoy ahora de "data scientists",
+que es mierda de datos...
+
+108
+00:05:07,414 --> 00:05:16,014
+PART.2: Pero después quiero ser
+desarrollador de programas para
+arquitecturas encastradas, como
+microchips y mierdas así.
+
+109
+00:05:16,094 --> 00:05:17,374
+PART.2: Quiero probar, quiero probar.
+
+110
+00:05:17,454 --> 00:05:20,334
+PART.2: Escoger algo que me guste,
+especializarme, ir "p'alante".
+
+111
+00:05:20,414 --> 00:05:30,294
+PART.2: Ya cuando tenga 50 años, que
+quiera ya calmarme, tiraré de los
+enchufes que tengo, de mi antiguo
+instituto, e intentaré colarme de
+profe de Mates en primero y segundo
+de Bachillerato.
+
+112
+00:05:29,614 --> 00:05:33,534
+PART.1: Bueno, un objetivo a largo plazo,
+con 50 años, está bien.
+
+113
+00:05:33,614 --> 00:05:39,374
+PART.2: Sí, cuando sea mayor me doy un
+tiempo hasta que llegue el día.
+
+114
+00:05:39,494 --> 00:05:40,454
+PART.2: Ya veremos.
+

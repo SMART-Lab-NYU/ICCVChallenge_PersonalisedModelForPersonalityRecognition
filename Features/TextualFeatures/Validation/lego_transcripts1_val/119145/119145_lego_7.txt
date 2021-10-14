@@ -1,0 +1,104 @@
+183
+00:07:02,745 --> 00:07:05,745
+PART.1: Y las cositas, ¿estas dos?
+
+184
+00:07:07,465 --> 00:07:08,265
+PART.2: Esta, ¿no?
+
+185
+00:07:08,345 --> 00:07:08,825
+PART.1: Sí.
+
+186
+00:07:09,065 --> 00:07:10,465
+PART.2: Pero falta una, ¿no?
+
+187
+00:07:11,585 --> 00:07:14,385
+PART.1: Esta va... aquí en la cola.
+
+188
+00:07:14,625 --> 00:07:15,625
+PART.2: Ah, no, que solo hay una.
+
+189
+00:07:15,705 --> 00:07:16,385
+PART.2: Vale, vale.
+
+190
+00:07:16,465 --> 00:07:17,665
+PART.2: Buscaba dos yo.
+
+191
+00:07:18,025 --> 00:07:19,305
+PART.1: Y las hélices las...
+
+192
+00:07:19,385 --> 00:07:21,465
+PART.1: Ah, vale. Ya está puesta la cosa
+esta.
+
+193
+00:07:22,465 --> 00:07:24,025
+PART.1: No sé si va así o al revés.
+
+194
+00:07:25,905 --> 00:07:26,985
+PART.2: El que entre.
+
+195
+00:07:29,385 --> 00:07:30,905
+PART.2: Ahora es cuando se desmonta todo.
+
+196
+00:07:31,385 --> 00:07:32,585
+PART.1: No, por favor.
+
+197
+00:07:32,665 --> 00:07:33,225
+PART.2: ¿Y ya está?
+
+198
+00:07:33,665 --> 00:07:34,425
+PART.2: Sí, ya está.
+
+199
+00:07:34,505 --> 00:07:35,305
+PART.1: ¿Ya está?
+
+200
+00:07:35,385 --> 00:07:35,745
+PART.2: Sí.
+
+201
+00:07:43,465 --> 00:07:48,545
+PART.1: Si ahora que hemos acabado entran
+por la puerta, significa que nos
+están viendo por otro lugar.
+
+202
+00:07:46,985 --> 00:07:47,985
+PART.2: Pues ya está, ¿no?
+
+203
+00:07:50,905 --> 00:07:51,625
+PART.1: Muy bien.
+
+204
+00:07:51,465 --> 00:07:52,265
+PART.2: Está al revés.
+
+205
+00:07:52,785 --> 00:07:53,665
+PART.1: ¿Cómo que está al revés?
+
+206
+00:07:53,745 --> 00:07:56,385
+PART.2: Mira, tiene que ir una rueda
+delante y dos detrás.
+
+207
+00:07:57,505 --> 00:07:59,465
+PART.1: Este avión es defectuoso.
+

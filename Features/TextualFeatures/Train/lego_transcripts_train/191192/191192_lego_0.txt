@@ -1,0 +1,181 @@
+﻿1
+00:00:00,399 --> 00:00:01,639
+PART.1: Ah, que es una flor.
+
+2
+00:00:01,719 --> 00:00:02,719
+PART.2: Sí.
+
+3
+00:00:02,799 --> 00:00:04,399
+PART.2: Solo si te hace muchísima
+ilusión.
+
+4
+00:00:05,279 --> 00:00:06,759
+PART.1: ¿Están las instrucciones?
+
+5
+00:00:06,839 --> 00:00:07,839
+PART.1: Sí que están.
+
+6
+00:00:07,919 --> 00:00:09,799
+PART.1: ¿Miramos las
+instrucciones? O...
+
+7
+00:00:08,679 --> 00:00:09,679
+PART.2: Venga.
+
+8
+00:00:09,759 --> 00:00:10,759
+PART.2: Así, a lo burro.
+
+9
+00:00:10,839 --> 00:00:11,919
+PART.1: A lo loco. A lo loco.
+
+10
+00:00:11,999 --> 00:00:13,199
+PART.2: Este lo monté yo ayer.
+
+11
+00:00:13,279 --> 00:00:14,279
+PART.1: Ah.
+
+12
+00:00:13,839 --> 00:00:14,919
+PART.2: No, pero esto digo.
+
+13
+00:00:14,999 --> 00:00:16,159
+PART.1: Ah, vale.
+
+14
+00:00:16,239 --> 00:00:17,879
+PART.2: El arbusto con un ojo.
+
+15
+00:00:17,959 --> 00:00:19,479
+PART.1: Estoy buscando
+la parte de abajo. Es esta.
+
+16
+00:00:19,559 --> 00:00:20,719
+PART.2: Esa, esa.
+
+17
+00:00:20,799 --> 00:00:21,759
+PART.1: Es esta, ya está.
+
+18
+00:00:21,839 --> 00:00:22,959
+PART.1: Mira, una parte hecha.
+
+19
+00:00:23,039 --> 00:00:24,039
+PART.1: Ahora lo tuyo.
+
+20
+00:00:23,599 --> 00:00:24,479
+PART.2: El coso este.
+
+21
+00:00:24,559 --> 00:00:25,559
+PART.1: Negro.
+
+22
+00:00:25,639 --> 00:00:27,559
+PART.1: Esto... Ah, vale,
+o sea, necesitamos...
+
+23
+00:00:27,639 --> 00:00:29,759
+PART.1: Ah, vale, vale.
+Busca otro de estos.
+
+24
+00:00:31,359 --> 00:00:32,759
+PART.1: No, pero busca otro de
+estos.
+
+25
+00:00:32,839 --> 00:00:33,639
+PART.1: Necesitamos otro.
+
+26
+00:00:33,799 --> 00:00:35,279
+PART.1: Es uno de los...
+
+27
+00:00:35,359 --> 00:00:36,399
+PART.2: Si no, me lo invento.
+
+28
+00:00:36,479 --> 00:00:37,759
+PART.1: Aquí. Este.
+
+29
+00:00:37,079 --> 00:00:37,959
+PART.2: Este, este.
+
+30
+00:00:39,559 --> 00:00:40,999
+PART.1: Crep que es
+la primera vez que hago un Lego.
+
+31
+00:00:41,759 --> 00:00:42,839
+PART.1: Soy más de Playmobil,
+tío.
+
+32
+00:00:44,039 --> 00:00:45,519
+PART.1: Vale, y ahora me falta...
+
+33
+00:00:45,599 --> 00:00:46,959
+PART.2: Yo era más
+de...
+
+34
+00:00:47,039 --> 00:00:48,239
+PART.1: ...un cosito.
+
+35
+00:00:48,319 --> 00:00:50,359
+PART.1: O sea, un corderito.
+Rojo.
+
+36
+00:00:50,879 --> 00:00:51,919
+PART.2: Ese es.
+
+37
+00:00:51,999 --> 00:00:53,239
+PART.1: ¿Este? Perfecto.
+
+38
+00:00:53,319 --> 00:00:55,479
+PART.2: Ahora nos montamos
+la estructura de arriba.
+
+39
+00:00:55,559 --> 00:00:56,559
+PART.2: Tiene...
+
+40
+00:00:56,079 --> 00:00:57,599
+PART.1: "Esto, que es un tap.
+Tapflor".
+
+41
+00:00:57,679 --> 00:00:58,679
+PART.2: Sí.
+
+42
+00:00:58,759 --> 00:01:01,359
+PART.2: Y tiene el método
+"en queue, de queue..."
+

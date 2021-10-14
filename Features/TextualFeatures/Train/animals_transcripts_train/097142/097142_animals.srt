@@ -1,0 +1,723 @@
+﻿1
+00:00:00,000 --> 00:00:00,507
+PART.1: Pregunta.
+
+2
+00:00:00,587 --> 00:00:02,307
+PART.2: Fem 10 jo i 10 tu?
+
+3
+00:00:02,387 --> 00:00:04,867
+PART.1: Sí, no? A veure si l'endevinem.
+
+4
+00:00:04,947 --> 00:00:07,147
+PART.2: Val, doncs començo jo, va.
+
+5
+00:00:08,507 --> 00:00:10,787
+PART.2: Soc un mamífer?
+
+6
+00:00:10,867 --> 00:00:12,067
+PART.1: Sí.
+
+7
+00:00:12,147 --> 00:00:13,307
+PART.2: Sí.
+
+8
+00:00:13,387 --> 00:00:15,627
+PART.2: Visc a l'aigua?
+
+9
+00:00:19,747 --> 00:00:21,827
+PART.1: Pots estar a l'aigua.
+
+10
+00:00:21,907 --> 00:00:24,627
+PART.2: Puc estar a l'aigua,
+però… Val.
+
+11
+00:00:24,707 --> 00:00:27,707
+PART.2: Un mamífer, puc estar a l'aigua…
+Soc carnívor?
+
+12
+00:00:28,867 --> 00:00:30,267
+PART.1: No. És vegetarià.
+
+13
+00:00:30,347 --> 00:00:31,067
+PART.2: Val.
+
+14
+00:00:31,147 --> 00:00:33,747
+PART.1: Ja t'he donat una pista, no pot ser això.
+
+15
+00:00:35,827 --> 00:00:39,907
+PART.2: Val, soc vegetarià. Soc gran?
+
+16
+00:00:39,987 --> 00:00:41,387
+PART.1: Sí.
+
+17
+00:00:43,187 --> 00:00:49,667
+PART.2: És clar, aquesta pregunta de "soc gran"
+és molt relativa perquè gran respecte a què.
+
+18
+00:00:49,747 --> 00:00:50,947
+PART.1: Exacte.
+
+19
+00:00:51,027 --> 00:00:54,307
+PART.2: "Bueno", soc gran, relativament gran.
+
+20
+00:00:54,387 --> 00:00:55,307
+PART.1: Sí.
+
+21
+00:00:55,387 --> 00:00:57,627
+PART.2: Val. Soc de color gris?
+
+22
+00:00:57,707 --> 00:00:59,227
+PART.1: "Bueno", sí.
+
+23
+00:01:03,667 --> 00:01:05,707
+PART.2: Més o menys, no?
+
+24
+00:01:05,787 --> 00:01:07,507
+PART.1: Més o menys.
+
+25
+00:01:07,587 --> 00:01:11,507
+PART.2: I és clar, si estic a l'aigua i tot això…
+
+26
+00:01:11,587 --> 00:01:14,507
+PART.2: Puc estar a l'aigua o no… Visc al bosc?
+
+27
+00:01:14,587 --> 00:01:15,587
+PART.1: Sí.
+
+28
+00:01:20,307 --> 00:01:23,187
+PART.1: Si entens per "bosc", "selva", no.
+
+29
+00:01:23,267 --> 00:01:27,747
+PART.2: O sigui, no a la serva, però sí a un bosc.
+
+30
+00:01:30,587 --> 00:01:32,147
+PART.2: Això ja és una altra pregunta.
+
+31
+00:01:32,227 --> 00:01:33,667
+PART.2: No sé si n'he fet sis o set.
+
+32
+00:01:33,747 --> 00:01:35,507
+PART.1: És igual, no t'amoïnis.
+
+33
+00:01:35,587 --> 00:01:36,867
+PART.2: És igual, set.
+
+34
+00:01:36,947 --> 00:01:39,667
+PART.1: Home, si et dono la pista, serà més fàcil.
+
+35
+00:01:39,747 --> 00:01:42,707
+PART.2: No, no, no. No em donis pistes,
+ja ho intentaré.
+
+36
+00:01:42,787 --> 00:01:44,787
+PART.2: I si no, doncs fallaré estrepitosament.
+
+37
+00:01:44,867 --> 00:01:50,427
+PART.1: Si t'he dit que menges herba,
+és herbívor, el bosc…
+
+38
+00:01:50,507 --> 00:01:51,867
+PART.1: Depèn del bosc.
+
+39
+00:01:51,947 --> 00:01:58,027
+PART.2: Sí, al bosc hi puc viure bé si soc vegetarià. Herbívor.
+
+40
+00:02:04,067 --> 00:02:06,667
+PART.2: Què més et puc preguntar?
+
+41
+00:02:06,747 --> 00:02:11,427
+PART.2: M'has dit que soc gris més o menys.
+Tinc taques?
+
+42
+00:02:11,507 --> 00:02:12,907
+PART.1: No.
+
+43
+00:02:12,987 --> 00:02:14,387
+PART.2: No.
+
+44
+00:02:17,107 --> 00:02:21,907
+PART.2: No tinc taques. Ho intentaré. Soc un hipopòtam?
+
+45
+00:02:21,987 --> 00:02:23,387
+PART.1: No.
+
+46
+00:02:27,987 --> 00:02:30,107
+PART.2: Oh. Ara no sé…
+
+47
+00:02:30,187 --> 00:02:32,627
+PART.1: T'he descol·locat.
+
+48
+00:02:32,707 --> 00:02:33,867
+PART.2: Sí.
+
+49
+00:02:37,507 --> 00:02:41,507
+PART.2: No soc un hipopòtam. Tinc banyes o…? Com es diu això?
+
+50
+00:02:41,587 --> 00:02:42,907
+PART.1: Trompa.
+
+51
+00:02:42,987 --> 00:02:46,387
+PART.2: No. Les banyes, però que són així.
+
+52
+00:02:46,467 --> 00:02:48,227
+PART.1: Banyes. Així.
+
+53
+00:02:48,307 --> 00:02:50,507
+PART.2: Sí, una banya així.
+
+54
+00:02:50,587 --> 00:02:51,587
+PART.1: Sí.
+
+55
+00:02:51,667 --> 00:02:52,667
+PART.2: Sí.
+
+56
+00:02:53,267 --> 00:02:56,067
+PART.2: Ah, com es diu aquest animal? Ah, no me'n recordo!
+
+57
+00:02:56,147 --> 00:03:00,307
+PART.1: Al meu marit li ha passat igual!
+"Bueno", com que sé que ho saps…
+
+58
+00:03:00,387 --> 00:03:01,987
+PART.2: És una rinoceront?
+
+59
+00:03:02,067 --> 00:03:03,587
+PART.1: És un rinoceront.
+
+60
+00:03:03,667 --> 00:03:04,427
+PART.2: Val.
+
+61
+00:03:04,507 --> 00:03:05,267
+PART.1: Val.
+
+62
+00:03:05,347 --> 00:03:06,147
+PART.2: Això.
+
+63
+00:03:06,227 --> 00:03:08,747
+PART.1: Ara vinc jo.
+
+64
+00:03:08,827 --> 00:03:12,467
+PART.2: Plomes, pèl o escates?
+
+65
+00:03:15,747 --> 00:03:18,587
+PART.2: Una de les tres, sí. Una de les tres.
+
+66
+00:03:18,667 --> 00:03:20,347
+PART.1: Home, això no val!
+
+67
+00:03:20,427 --> 00:03:25,027
+PART.2: No, perquè o sigui, a les preguntes
+t'haig de respondre "sí" o "no".
+
+68
+00:03:25,107 --> 00:03:27,107
+PART.1: "Bueno", viu a la terra?
+
+69
+00:03:27,187 --> 00:03:27,947
+PART.2: Sí.
+
+70
+00:03:28,027 --> 00:03:29,307
+PART.1: Viu a terra.
+
+71
+00:03:29,387 --> 00:03:30,147
+PART.2: Sí.
+
+72
+00:03:32,427 --> 00:03:34,827
+PART.1: És mamífer?
+
+73
+00:03:34,907 --> 00:03:36,427
+PART.2: Sí.
+
+74
+00:03:36,507 --> 00:03:39,867
+PART.1: És mamífer. És gros?
+
+75
+00:03:39,947 --> 00:03:43,067
+PART.2: No. No gros, gros.
+
+76
+00:03:45,227 --> 00:03:48,467
+PART.1: No és gaire gros. Té taques a la pell?
+
+77
+00:03:53,827 --> 00:03:54,547
+PART.2: No.
+
+78
+00:03:54,627 --> 00:03:55,987
+PART.1: No té taques a…
+
+79
+00:03:56,067 --> 00:03:59,307
+PART.2: No, taques no, pot tenir parts de diferents colors.
+
+80
+00:03:59,387 --> 00:04:00,867
+PART.1: Pot tenir ratlles.
+
+81
+00:04:00,947 --> 00:04:02,867
+PART.2: Això és una altra
+pregunta.
+
+82
+00:04:02,947 --> 00:04:03,907
+PART.2: No, no té ratlles.
+
+83
+00:04:05,787 --> 00:04:09,667
+PART.1: O sigui, no té taques tampoc.
+
+84
+00:04:09,747 --> 00:04:12,827
+PART.2: Ni taques ni ratlles.
+
+85
+00:04:12,907 --> 00:04:16,787
+PART.1: No l'encertaré, no! Té banyes?
+
+86
+00:04:16,867 --> 00:04:18,187
+PART.2: No.
+
+87
+00:04:19,307 --> 00:04:20,507
+PART.1: Té trompa?
+
+88
+00:04:20,587 --> 00:04:21,387
+PART.2: No.
+
+89
+00:04:21,467 --> 00:04:24,227
+PART.1: Veus com no l'encertaré? És mamífer.
+
+90
+00:04:24,307 --> 00:04:25,547
+PART.2: Sí, sí, sí.
+
+91
+00:04:25,627 --> 00:04:27,347
+PART.1: Ja t'ho he dit, no?
+
+92
+00:04:27,427 --> 00:04:31,307
+PART.2: Sí, sí. Aquesta ja me l'havies fet,
+llavors no la compto.
+
+93
+00:04:31,387 --> 00:04:32,507
+PART.1: És igual.
+
+94
+00:04:33,467 --> 00:04:35,147
+PART.1: No en tinc ni punyetera idea.
+
+95
+00:04:35,227 --> 00:04:37,827
+PART.2: "Bueno", te'n queden tres encara.
+
+96
+00:04:37,907 --> 00:04:40,467
+PART.1: No, no, és que ni punyetera idea!
+
+97
+00:04:40,547 --> 00:04:43,227
+PART.2: Aviam, si és mamífer i viu a terra…
+
+98
+00:04:43,307 --> 00:04:45,307
+PART.1: Menja carn? És carnívor?
+
+99
+00:04:45,387 --> 00:04:46,947
+PART.2: Jo diria que sí.
+
+100
+00:04:50,307 --> 00:04:51,507
+PART.2: Sí. Sí, sí, sí.
+
+101
+00:04:51,587 --> 00:04:53,427
+PART.1: És carnívor.
+
+102
+00:04:53,507 --> 00:04:55,227
+PART.2: Sí, sí, sí.
+
+103
+00:04:55,307 --> 00:04:57,107
+PART.1: Viu al bosc?
+
+104
+00:04:59,907 --> 00:05:01,867
+PART.2: Pot viure al bosc.
+
+105
+00:05:01,947 --> 00:05:03,907
+PART.1: Pot viure al bosc.
+
+106
+00:05:03,987 --> 00:05:05,707
+PART.2: Te'n queda una.
+
+107
+00:05:05,787 --> 00:05:06,907
+PART.1: Plego.
+
+108
+00:05:06,987 --> 00:05:08,427
+PART.2: No, no, si…
+
+109
+00:05:08,507 --> 00:05:11,147
+PART.1: No en tinc ni punyetera idea!
+
+110
+00:05:11,227 --> 00:05:16,107
+PART.2: És bastant comú. Et dono una pista:
+és bastant comú… a Espanya?
+
+111
+00:05:17,107 --> 00:05:20,467
+PART.2: A Espanya, en algunes zones d'Espanya, sí.
+
+112
+00:05:20,547 --> 00:05:24,987
+PART.2: A Catalunya no n'he vist cap, però potser sí, no ho sé.
+
+113
+00:05:27,867 --> 00:05:30,507
+PART.1: M'has dit que no tenia banyes.
+
+114
+00:05:30,587 --> 00:05:31,987
+PART.2: No, no, no.
+
+115
+00:05:32,067 --> 00:05:33,907
+PART.1: I que viu al bosc.
+
+116
+00:05:33,987 --> 00:05:35,827
+PART.2: Pot viure al bosc.
+
+117
+00:05:35,907 --> 00:05:37,787
+PART.1: I menja carn, dius.
+
+118
+00:05:37,867 --> 00:05:39,507
+PART.2: Jo diria que sí.
+
+119
+00:05:39,587 --> 00:05:40,427
+PART.1: Sí?
+
+120
+00:05:40,507 --> 00:05:41,307
+PART.2: Sí.
+
+121
+00:05:42,107 --> 00:05:43,587
+PART.2: O estic molt equivocada, però diria que sí.
+
+122
+00:05:43,667 --> 00:05:45,867
+PART.1: I té molts cadells, pareix molts cadells o un de sol?
+
+123
+00:05:45,947 --> 00:05:47,427
+PART.2: Pot tenir molts cadells jo crec.
+
+124
+00:05:47,507 --> 00:05:48,627
+PART.1: Pot tenir molts cadells.
+
+125
+00:05:48,707 --> 00:05:49,547
+PART.2: Jo crec que sí.
+
+126
+00:05:50,107 --> 00:05:55,707
+PART.1: I els cadells, quan són petits, tenen ratlles
+i després canvien la pell?
+
+127
+00:05:55,787 --> 00:05:57,987
+PART.2: Ostres, no ho sé això.
+
+128
+00:05:58,067 --> 00:05:59,827
+PART.2: No n'he vist cap de petit.
+
+129
+00:06:00,867 --> 00:06:05,427
+PART.1: D'aquests que pensava
+sí que n'hi ha, aquí a Catalunya.
+
+130
+00:06:05,507 --> 00:06:12,347
+PART.2: "Bueno", potser sí, però no n'he vist cap aquí,
+però potser sí. Pots dir el que penses.
+
+131
+00:06:12,427 --> 00:06:17,387
+PART.1: Viu al bosc i viu al no sé què
+i com no sigui un "lince"…
+
+132
+00:06:17,467 --> 00:06:20,107
+PART.2: Ah… No, no és un "lince".
+
+133
+00:06:20,187 --> 00:06:21,387
+PART.1: Doncs…
+
+134
+00:06:21,467 --> 00:06:24,787
+PART.2: És semblant, però no és un "lince".
+
+135
+00:06:28,827 --> 00:06:31,627
+PART.2: Semblant, entre cometes, però és molt semblant.
+
+136
+00:06:31,707 --> 00:06:35,627
+PART.1: A veure, semblant al "lince" hi ha el "gato montés"...
+
+137
+00:06:38,827 --> 00:06:42,507
+PART.1: I que visqui al bosc o a… No, al bosc no, més aviat…
+
+138
+00:06:42,587 --> 00:06:47,947
+PART.2: Te'l pots trobar al bosc,
+però no sé si és el seu hàbitat natural.
+
+139
+00:06:48,027 --> 00:06:50,827
+PART.1: No és el seu hàbitat natural.
+
+140
+00:06:52,107 --> 00:06:53,227
+PART.2: No ho sé.
+
+141
+00:06:53,307 --> 00:06:55,867
+PART.1: Perquè aquí, als boscos no hi ha…
+
+142
+00:06:55,947 --> 00:06:58,587
+PART.1: Viu a Andalusia, més aviat? Al Coto de Doñana?
+
+143
+00:07:01,307 --> 00:07:09,147
+PART.2: Sé que n'hi ha per la zona
+de Castella i Lleó perquè els meus pares són d'allà i n'hi ha.
+
+144
+00:07:09,227 --> 00:07:10,827
+PART.1: I n'hi ha?
+
+145
+00:07:10,907 --> 00:07:12,507
+PART.2: I n'hi ha.
+
+146
+00:07:14,827 --> 00:07:18,067
+PART.1: "Cabras montesas" no, perquè tenen banyes.
+
+147
+00:07:18,147 --> 00:07:18,947
+PART.2: Va.
+
+148
+00:07:19,027 --> 00:07:21,187
+PART.1: Doncs no ho sé, no ho sé.
+
+149
+00:07:21,267 --> 00:07:22,067
+PART.2: No?
+
+150
+00:07:22,147 --> 00:07:22,947
+PART.1: No.
+
+151
+00:07:23,027 --> 00:07:25,307
+PART.2: Val, doncs, si vols mirar...
+
+152
+00:07:26,427 --> 00:07:30,667
+PART.1: Ah, una guineu. Aquí sí que n'hi ha, de guineus!
+
+153
+00:07:30,747 --> 00:07:37,947
+PART.2: Aquí sí? Sí, sí, et dic que n'hi poden haver,
+però jo no n'he vist, o sigui, personalment…
+
+154
+00:07:38,027 --> 00:07:40,427
+PART.1: És clar, jo pensava: "A veure…".
+
+155
+00:07:40,507 --> 00:07:43,147
+PART.1: És petita, no és gran la guineu, és com un gos.
+
+156
+00:07:43,227 --> 00:07:45,067
+PART.2: Exacte, és com un gos.
+
+157
+00:07:45,147 --> 00:07:53,107
+PART.2: O sigui, poden haver-hi animals més petits
+com els cucs i aquestes coses, que són superpetits,
+però això no és gran, però tampoc és petit petit.
+
+158
+00:07:53,187 --> 00:07:55,627
+PART.1: Però tampoc és petit. No, saps?
+
+159
+00:07:55,707 --> 00:07:59,787
+PART.1: Havia pensat, no ho sé, més aviat algun tipus de cabra
+o una cosa així.
+
+160
+00:07:59,867 --> 00:08:03,427
+PART.1: Quan m'has dit que no tenia banyes,
+he pensat més en els gats.
+
+161
+00:08:03,507 --> 00:08:04,107
+PART.1: Una guineu.
+
+162
+00:08:04,187 --> 00:08:04,947
+PART.2: Sí.
+
+163
+00:08:05,027 --> 00:08:06,627
+PART.1: Molt bé, doncs...
+
+164
+00:08:06,707 --> 00:08:08,747
+PART.1: Ho sento molt, noia, no t'he reconegut.
+
+165
+00:08:08,827 --> 00:08:10,507
+PART.2: No, no, no passa res!
+
+166
+00:08:10,587 --> 00:08:13,107
+PART.1: Ah, no, em costa molt, a vegades, de…
+
+167
+00:08:13,187 --> 00:08:13,867
+PART.2: Sí?
+
+168
+00:08:13,947 --> 00:08:14,627
+PART.1: Sí.
+
+169
+00:08:14,707 --> 00:08:17,747
+PART.2: Això és un joc, o sigui, és per fer alguna cosa.
+
+170
+00:08:17,827 --> 00:08:20,547
+PART.2: Ara la posem aquí… Aviam? No ho sé, és igual.
+
+171
+00:08:20,627 --> 00:08:28,747
+PART.1: Amb el meu marit, estàvem fent les preguntes
+i que si té això, té allò i allò altre i tot això… Sí. I què li he dit que era?
+
+172
+00:08:30,027 --> 00:08:34,467
+PART.1: Una iguana. Diu: "Sí". Em trec el casco i posa: "Camaleó".
+
+173
+00:08:34,547 --> 00:08:37,347
+PART.1: Dic: "Val, 'tio', tu faràs carrera!".
+
+174
+00:08:37,427 --> 00:08:42,227
+PART.2: "Bueno", és semblant, té una forma semblant… Sí, sí.
+
+175
+00:08:42,307 --> 00:08:43,667
+PART.1: Ostres!
+

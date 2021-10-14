@@ -1,0 +1,67 @@
+1
+00:00:00,000 --> 00:00:02,915
+PART.1: Fica així, si no ens liarem. Fem què...?
+
+2
+00:00:03,859 --> 00:00:04,753
+PART.2: Ah! no, jo ho faig així...
+
+3
+00:00:04,913 --> 00:00:11,587
+PART.1: Vale. Fem què cada cop què...? en plan si jo pregunto i es què si, 
+continuo preguntant jo, i si es què no...
+
+4
+00:00:11,809 --> 00:00:13,156
+PART.2: No, no. Ho fem cada una, una.
+
+5
+00:00:13,298 --> 00:00:14,034
+PART.1: Vaaale.
+
+6
+00:00:14,195 --> 00:00:15,283
+PART.2: Vale, va comença tu.
+
+7
+00:00:15,378 --> 00:00:20,593
+PART.1: Vale. És un mamífer?
+
+8
+00:00:21,793 --> 00:00:22,259
+PART.2: Ahh!
+
+9
+00:00:23,922 --> 00:00:26,675
+PART.1: Per favor!, Canvio la pregunta?
+
+10
+00:00:26,995 --> 00:00:27,874
+PART.2: Si, canvia-la.
+
+11
+00:00:30,610 --> 00:00:31,761
+PART.1: Té quatre potes?
+
+12
+00:00:31,922 --> 00:00:41,731
+PART.2: No. Vale. És terrestre? Bueno, terrestre.
+
+13
+00:00:44,849 --> 00:00:48,210
+PART.1: Potser terrestre, de l'aigua i ja està?
+
+14
+00:00:49,634 --> 00:00:54,162
+PART.2: Potser terrestre, aeri o...
+
+15
+00:00:54,290 --> 00:00:59,362
+PART.1: Però entens que els aeris també... 
+Vull dir que potser aeri i d'aigua a la vegada, 
+potser aeri i terrestre a la vegada, saps?
+
+16
+00:00:59,522 --> 00:01:03,363
+PART.2: Ja! Bueno, canvio de pregunta.
+

@@ -1,0 +1,75 @@
+37
+00:02:02,240 --> 00:02:03,200
+PART.1: ¿Soy un delfín?
+
+38
+00:02:03,360 --> 00:02:03,840
+PART.2: Sí.
+
+39
+00:02:06,120 --> 00:02:09,120
+PART.2: Lo logramos bastante rápido.
+
+40
+00:02:08,720 --> 00:02:09,800
+PART.1: Nos han sobrado, ¿eh?
+
+41
+00:02:10,800 --> 00:02:13,120
+PART.2: Me imagino que quiere que se vean
+en las cámaras, ¿no?
+
+42
+00:02:14,320 --> 00:02:15,320
+PART.2: Así, ¿no?
+
+43
+00:02:22,040 --> 00:02:24,720
+PART.1: No sé si ahora vendrá...
+
+44
+00:02:24,800 --> 00:02:26,840
+PART.2: ¿Volverá o lo llamamos?
+
+45
+00:02:27,000 --> 00:02:28,080
+PART.1: ¡Javi!
+
+46
+00:02:30,720 --> 00:02:32,640
+PART.1: ¿Y en qué año estás de tu
+doctorado?
+
+47
+00:02:32,720 --> 00:02:34,200
+PART.2: Estoy acabando.
+
+48
+00:02:34,840 --> 00:02:37,240
+PART.2: Voy a depositar
+la tesis en septiembre.
+
+49
+00:02:38,160 --> 00:02:41,080
+PART.2: Estoy en el cuarto, quinto...
+
+50
+00:02:41,400 --> 00:02:42,200
+PART.2: No sé.
+
+51
+00:02:43,880 --> 00:02:44,920
+PART.2: Quinto.
+
+52
+00:02:46,080 --> 00:02:47,240
+PART.1: ¿Tienes beca todavía?
+
+53
+00:02:47,320 --> 00:02:48,960
+PART.2: No, no, no.
+
+54
+00:02:56,880 --> 00:02:58,960
+PART.2: Quiero acabar y...
+

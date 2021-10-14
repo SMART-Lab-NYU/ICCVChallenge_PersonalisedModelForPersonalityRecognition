@@ -1,0 +1,293 @@
+﻿1
+00:00:02,952 --> 00:00:03,432
+PART.1: Dale tú.
+
+2
+00:00:03,712 --> 00:00:04,072
+PART.2: Vale.
+
+3
+00:00:07,152 --> 00:00:07,432
+PART.1: No.
+
+4
+00:00:13,032 --> 00:00:13,312
+PART.2: Vas tú.
+
+5
+00:00:14,912 --> 00:00:15,352
+PART.1: Voy yo.
+
+6
+00:00:21,112 --> 00:00:21,472
+PART.1: Sí.
+
+7
+00:00:23,552 --> 00:00:23,792
+PART.1: Sí.
+
+8
+00:00:24,432 --> 00:00:24,792
+PART.1: Tuya.
+
+9
+00:00:42,952 --> 00:00:45,312
+PART.2: ¿No? Porque no hay nada gris
+y no está el ratón.
+
+10
+00:00:43,312 --> 00:00:45,392
+PART.1: Sí, sí, porque...
+
+11
+00:00:46,272 --> 00:00:46,632
+PART.1: Tuya.
+
+12
+00:00:48,472 --> 00:00:48,712
+PART.1: Vamos.
+
+13
+00:00:48,952 --> 00:00:49,312
+PART.2: "Vamos".
+
+14
+00:00:49,992 --> 00:00:50,472
+PART.1: Tú parece.
+
+15
+00:00:50,872 --> 00:00:51,472
+PART.2: Voy yo, sí.
+
+16
+00:00:50,912 --> 00:00:51,312
+PART.1: Sí, sí.
+
+17
+00:00:52,072 --> 00:00:53,512
+PART.2: "Tenemos la misma cantidad
+de cartas".
+
+18
+00:00:54,992 --> 00:00:55,312
+PART.2: Muy bien.
+
+19
+00:00:56,352 --> 00:00:56,912
+PART.2: Rápido.
+
+20
+00:00:58,752 --> 00:00:59,072
+PART.2: Vas tú.
+
+21
+00:01:02,072 --> 00:01:02,352
+PART.2: Ostras.
+
+22
+00:01:03,312 --> 00:01:03,992
+PART.2: Ya me vas ganando.
+
+23
+00:01:08,232 --> 00:01:08,512
+PART.2: No.
+
+24
+00:01:08,712 --> 00:01:10,152
+PART.2: Ah, sí, estaba bien.
+
+25
+00:01:12,672 --> 00:01:13,032
+PART.2: Vas tú.
+
+26
+00:01:19,192 --> 00:01:19,752
+PART.1: Sí, sí.
+
+27
+00:01:19,792 --> 00:01:20,272
+PART.2: Sí, ¿no?
+
+28
+00:01:20,312 --> 00:01:20,712
+PART.1: Sí.
+
+29
+00:01:24,152 --> 00:01:24,512
+PART.1: Tú.
+
+30
+00:01:31,392 --> 00:01:37,192
+PART.1: Sí, sí, no está el gris, no está...
+
+31
+00:01:33,072 --> 00:01:37,392
+PART.2: El fantasma está, el libro está,
+el rojo está, el verde está, el único que no
+está es el ratón.
+
+32
+00:01:38,832 --> 00:01:39,392
+PART.1: ¿Y tuya?
+
+33
+00:01:39,632 --> 00:01:40,112
+PART.2: Tuya.
+
+34
+00:01:41,792 --> 00:01:42,272
+PART.1: Ah, faltan dos.
+
+35
+00:01:45,712 --> 00:01:46,192
+PART.1: Perfecto, sí.
+
+36
+00:01:49,032 --> 00:01:49,512
+PART.2: Competencia.
+
+37
+00:01:49,672 --> 00:01:50,152
+PART.2: Hostias.
+
+38
+00:01:54,472 --> 00:01:55,512
+PART.2: ¿Cuántas tienes? Una más,
+¿no?
+
+39
+00:01:56,312 --> 00:01:56,872
+PART.2: Yo tengo cinco.
+
+40
+00:01:56,592 --> 00:01:57,032
+PART.1: Creo que sí.
+
+41
+00:01:57,672 --> 00:01:58,432
+PART.2: ¿Seis o siete?
+
+42
+00:01:58,752 --> 00:01:59,112
+PART.1: Seis.
+
+43
+00:01:59,312 --> 00:01:59,552
+PART.2: Seis.
+
+44
+00:02:00,832 --> 00:02:01,352
+PART.2: Ahora la última.
+
+45
+00:02:01,712 --> 00:02:04,512
+PART.1: Una vez vez nos... nos...
+
+46
+00:02:04,592 --> 00:02:06,472
+PART.2: Bueno, ayer jugamos en lo de
+Diego al Tótem.
+
+47
+00:02:06,712 --> 00:02:07,072
+PART.1: ¿Sí?
+
+48
+00:02:07,352 --> 00:02:07,712
+PART.2: Sí.
+
+49
+00:02:08,512 --> 00:02:20,592
+PART.1: Eh... Nos sacamos la...
+Tomamos el ratón al mismo tiempo y el resto
+fue empate, así que fue la única vez que
+ha habido empate acá.
+
+50
+00:02:20,032 --> 00:02:20,352
+PART.2: Claro.
+
+51
+00:02:21,192 --> 00:02:25,832
+PART.1: Y las cartas están impares,
+entonces fue empate "y ya" mitad y mitad.
+
+52
+00:02:27,912 --> 00:02:31,032
+PART.2: Pero es también porque
+estamos en la idea de los objetos y
+los colores.
+
+53
+00:02:31,472 --> 00:02:31,872
+PART.1: Sí.
+
+54
+00:02:32,912 --> 00:02:36,952
+PART.1: Había una señora que hacía
+trampa y hacía así.
+
+55
+00:02:38,872 --> 00:02:39,672
+PART.1: Hacía así, mira.
+
+56
+00:02:44,672 --> 00:02:48,312
+PART.2: Supongo que tendrían gente
+muy variada en los experimentos.
+
+57
+00:02:47,312 --> 00:02:47,672
+PART.1: Sí.
+
+58
+00:02:48,472 --> 00:02:50,992
+PART.1: Claro, ella tenía como 56 o algo
+así.
+
+59
+00:02:50,832 --> 00:02:51,032
+PART.2: Claro.
+
+60
+00:02:52,152 --> 00:02:52,832
+PART.1: Hacía así.
+
+61
+00:02:58,712 --> 00:03:05,272
+PART.1: Pero sí, este lo tuve que hacer
+un día dos veces y no me acordaba de las
+reglas tampoco.
+
+62
+00:03:07,312 --> 00:03:08,592
+PART.2: "Estos son de madera,
+además".
+
+63
+00:03:08,992 --> 00:03:09,912
+PART.1: ¿A qué jugaron ayer?
+
+64
+00:03:10,592 --> 00:03:11,112
+PART.2: Al Tótem.
+
+65
+00:03:11,232 --> 00:03:11,672
+PART.1: ¿Cuál es?
+
+66
+00:03:11,752 --> 00:03:21,872
+PART.2: Es la misma idea, solo que hay
+un tótem de madera en medio de la mesa y
+cada jugador da la vuelta a una carta, la carta
+tiene una figura y un color.
+
+67
+00:03:23,032 --> 00:03:31,312
+PART.2: Y después tú le das la vuelta a
+una carta y si tiene la misma figura,
+independientemente del color, los dos
+tenemos que ir a por el tótem y el que lo coge
+primero le da sus cartas al otro.
+

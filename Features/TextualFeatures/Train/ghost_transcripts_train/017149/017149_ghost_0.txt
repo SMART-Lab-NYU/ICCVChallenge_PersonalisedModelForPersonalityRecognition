@@ -1,0 +1,134 @@
+1
+00:00:00,008 --> 00:00:00,928
+PART.1: Va, empieza.
+
+2
+00:00:01,768 --> 00:00:02,768
+PART.1: Uy, espera, espera.
+
+3
+00:00:02,848 --> 00:00:03,888
+PART.1: Lo tengo que pensar.
+Vale.
+
+4
+00:00:06,728 --> 00:00:07,808
+PART.1: No.
+
+5
+00:00:08,088 --> 00:00:10,128
+PART.2: No. A ver, espera. Esta.
+
+6
+00:00:10,488 --> 00:00:11,088
+PART.1: Vale.
+
+7
+00:00:11,168 --> 00:00:11,888
+PART.2: Sí.
+
+8
+00:00:11,968 --> 00:00:13,568
+PART.1: Una pregunta, que no sé
+cómo juegas tú.
+
+9
+00:00:15,088 --> 00:00:18,048
+PART.1: Si cojo una y fallo,
+¿puedo dejarla y coger otra?
+
+10
+00:00:18,368 --> 00:00:19,488
+PART.1: Porque antes...
+
+11
+00:00:19,928 --> 00:00:22,928
+PART.1: Antes hemos jugado que
+podía dejarla, aunque no lo he
+aprovechado.
+
+12
+00:00:20,168 --> 00:00:21,328
+PART.2: No tengo ni idea.
+
+13
+00:00:23,288 --> 00:00:24,368
+PART.2: Sí, vale, si quieres
+la dejamos y...
+
+14
+00:00:24,448 --> 00:00:25,048
+PART.1: No lo sé, ¿eh?
+
+15
+00:00:25,128 --> 00:00:27,688
+PART.1: Si no, puede ser que yo
+lo coja, pierda y ya está, a la
+mierda.
+
+16
+00:00:30,608 --> 00:00:31,368
+PART.2: Si quieres...
+
+17
+00:00:31,448 --> 00:00:32,928
+PART.1: En plan, si te equivocas,
+la dejas y coges otra.
+
+18
+00:00:33,248 --> 00:00:35,368
+PART.2: Venga, lo hacemos así,
+a ver si...
+
+19
+00:00:33,608 --> 00:00:34,328
+PART.1: Vale.
+
+20
+00:00:35,968 --> 00:00:37,368
+PART.2: Que a lo mejor
+me equivoco yo, ¿sabes?
+
+21
+00:00:38,608 --> 00:00:39,928
+PART.2: Que yo antes me he
+equivocado en muchas.
+
+22
+00:00:40,008 --> 00:00:41,848
+PART.1: Vale, va, sí,
+si está clarísimo.
+
+23
+00:00:42,488 --> 00:00:43,888
+PART.1: No. Joder.
+
+24
+00:00:49,328 --> 00:00:50,488
+PART.1: Qué asco de juego.
+
+25
+00:00:50,688 --> 00:00:51,728
+PART.1: Ah, hostia.
+
+26
+00:00:52,288 --> 00:00:53,488
+PART.1: ¿Eso era el ratón?
+
+27
+00:00:54,888 --> 00:00:55,928
+PART.2: No estás, ¿eh?
+
+28
+00:00:56,008 --> 00:00:57,128
+PART.1: No estoy, no estoy.
+
+29
+00:00:57,368 --> 00:00:58,688
+PART.1: Creía antes que lo había
+pillado.
+
+30
+00:00:59,008 --> 00:01:00,328
+PART.2: Va, saca. Te toca.
+

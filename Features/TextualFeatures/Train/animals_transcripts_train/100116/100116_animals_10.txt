@@ -1,0 +1,110 @@
+221
+00:10:00,000 --> 00:10:00,440
+PART.1: ¿Y cómo se llama?
+
+222
+00:10:00,520 --> 00:10:01,200
+PART.2: ¿Negro y blanco?
+
+223
+00:10:01,280 --> 00:10:03,320
+PART.1: O sea, amarillo con
+manchas negras.
+
+224
+00:10:03,400 --> 00:10:04,400
+PART.2: No.
+
+225
+00:10:04,480 --> 00:10:05,600
+PART.2: No es el jaguar.
+
+226
+00:10:06,720 --> 00:10:07,920
+PART.1: ¿Cómo que no?
+Sí que es el jaguar.
+
+227
+00:10:08,000 --> 00:10:10,320
+PART.2: Que no, recuerda bien
+cómo es un jaguar.
+
+228
+00:10:10,400 --> 00:10:11,680
+PART.1: Voy a "googlear" jaguar.
+
+229
+00:10:14,080 --> 00:10:17,680
+PART.1: Para mí la pantera era el que era
+liso y el jaguar es el que era manchado.
+
+230
+00:10:17,760 --> 00:10:19,720
+PART.2: No. El jaguar tiene
+rayas.
+
+231
+00:10:20,560 --> 00:10:22,080
+PART.1: ¡El jaguar tiene rayas!
+
+232
+00:10:23,840 --> 00:10:24,920
+PART.1: Qué fuerte.
+
+233
+00:10:27,160 --> 00:10:28,240
+PART.1: No sé cómo se llama.
+
+234
+00:10:28,320 --> 00:10:29,720
+PART.1: No, mira, tiene puntitos.
+
+235
+00:10:31,840 --> 00:10:33,000
+PART.2: Vale, pues no es ese.
+
+236
+00:10:34,000 --> 00:10:34,920
+PART.1: No es este.
+
+237
+00:10:35,000 --> 00:10:35,960
+PART.2: No.
+
+238
+00:10:36,640 --> 00:10:38,520
+PART.1: Putos... felinos.
+
+239
+00:10:38,720 --> 00:10:39,600
+PART.2: Primo hermano.
+
+240
+00:10:39,680 --> 00:10:40,760
+PART.1: Felinos cazadores.
+
+241
+00:10:41,520 --> 00:10:42,720
+PART.2: Es primo hermano.
+
+242
+00:10:47,720 --> 00:10:49,600
+PART.1: ¡Ah! Qué subnormal.
+
+243
+00:10:50,000 --> 00:10:51,160
+PART.1: Qué subnormal.
+
+244
+00:10:51,240 --> 00:10:54,240
+PART.1: No me he acordado todo el tiempo,
+todo este tiempo.
+
+245
+00:10:54,320 --> 00:10:55,440
+PART.2: ¿Cuál es?
+
+246
+00:10:55,520 --> 00:10:56,960
+PART.1: Soy un león-pardo.
+

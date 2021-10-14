@@ -1,0 +1,60 @@
+96
+00:05:02,294 --> 00:05:03,214
+PART.2: Y es herbívoro.
+
+97
+00:05:05,774 --> 00:05:06,734
+PART.2: Ah...
+
+98
+00:05:08,454 --> 00:05:10,214
+PART.2: ¿Es de clima frío o cálido?
+
+99
+00:05:12,054 --> 00:05:13,414
+PART.2: Porque pueden haber bosque cálidos.
+
+100
+00:05:14,254 --> 00:05:15,414
+PART.1: Hostia, pero...
+
+101
+00:05:17,374 --> 00:05:18,454
+PART.1: Te diría que ambos.
+
+102
+00:05:21,374 --> 00:05:23,774
+PART.2: Bueno, eso cuenta como no sé y tengo otra,
+una.
+
+103
+00:05:24,414 --> 00:05:25,574
+PART.2: De ambos, bueno, vale.
+
+104
+00:05:30,894 --> 00:05:33,774
+PART.2: ¿Es más de bosque montañoso o bosque
+llano?
+
+105
+00:05:39,614 --> 00:05:40,974
+PART.2: ¿En plan, pradera o montaña?
+
+106
+00:05:48,334 --> 00:05:50,654
+PART.1: No lo sé, es que no lo sé, no lo sé, no lo
+sé.
+
+107
+00:05:52,174 --> 00:05:53,334
+PART.1: PERSONA A: ver...
+
+108
+00:05:58,014 --> 00:05:59,174
+PART.2: Es herbívoro y es de bosque...
+
+109
+00:05:59,614 --> 00:06:01,774
+PART.2: Es que anda que no hay pocos
+animales herbívoros y de bosque.
+

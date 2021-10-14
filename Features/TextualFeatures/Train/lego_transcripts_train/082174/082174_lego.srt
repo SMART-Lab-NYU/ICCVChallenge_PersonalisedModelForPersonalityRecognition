@@ -1,0 +1,883 @@
+1
+00:00:00,000 --> 00:00:00,536
+PART.1: Esta es la abejita.
+
+2
+00:00:00,536 --> 00:00:02,216
+PART.2: La flor.
+
+3
+00:00:02,536 --> 00:00:03,496
+PART.1: Vale, pues empezamos.
+
+4
+00:00:03,496 --> 00:00:04,136
+PART.2: ¿Estás lista?
+
+5
+00:00:04,496 --> 00:00:05,416
+PART.2: Es muy fácil.
+
+6
+00:00:05,416 --> 00:00:06,216
+PART.1: Hay que empezar así.
+
+7
+00:00:06,216 --> 00:00:08,256
+PART.2: Vale, aquí tienes uno.
+
+8
+00:00:08,256 --> 00:00:09,576
+PART.1: Esta es la base.
+
+9
+00:00:10,496 --> 00:00:11,816
+PART.1: ¿La quieres de algún
+color en concreto?
+
+10
+00:00:11,816 --> 00:00:12,576
+PART.1: Del mismo color, ¿no?
+
+11
+00:00:12,576 --> 00:00:13,576
+PART.1: ¿Tiene que ser el mismo
+color?
+
+12
+00:00:13,576 --> 00:00:14,896
+PART.2: No sé.
+
+13
+00:00:14,896 --> 00:00:16,536
+PART.1: Ah, sí, muy bien, tienes
+toda la razón del mundo.
+
+14
+00:00:17,016 --> 00:00:17,816
+PART.1: Vale, este.
+
+15
+00:00:17,816 --> 00:00:18,256
+PART.2: Toma.
+
+16
+00:00:18,616 --> 00:00:19,256
+PART.1: Venga.
+
+17
+00:00:19,256 --> 00:00:19,936
+PART.2: Este va a aquí.
+
+18
+00:00:21,496 --> 00:00:23,096
+PART.2: ¿Dónde está la piececita?
+
+19
+00:00:24,056 --> 00:00:25,976
+PART.2: Que me las conozco de
+memoria.
+
+20
+00:00:25,976 --> 00:00:26,576
+PART.1: ¿Sí?
+
+21
+00:00:27,896 --> 00:00:29,736
+PART.1: ¿Así que de pequeño te
+gustaba estas mierdas?
+
+22
+00:00:29,736 --> 00:00:30,136
+PART.2: Sí.
+
+23
+00:00:30,456 --> 00:00:33,776
+PART.2: Pero unas fricadas, en
+plan...
+
+24
+00:00:35,096 --> 00:00:38,776
+PART.2: Claro, yo cogía las
+instrucciones y me armaba mierdas.
+
+25
+00:00:38,776 --> 00:00:40,416
+PART.1: Es bastante interesante.
+
+26
+00:00:40,416 --> 00:00:41,176
+PART.2: Toma.
+
+27
+00:00:41,176 --> 00:00:42,176
+PART.1: Esto también me lo podía
+regalar.
+
+28
+00:00:42,176 --> 00:00:47,416
+PART.2: Y me armaba en plan un
+coche que se transformaba en un
+robot o en plan...
+
+29
+00:00:47,416 --> 00:00:47,776
+PART.1: ¡Guau!
+
+30
+00:00:47,776 --> 00:00:50,256
+PART.2: Como no tenía pasta para
+comprar otros juguetes, pues...
+
+31
+00:00:50,256 --> 00:00:51,336
+PART.1: Le falta las patas.
+
+32
+00:00:51,696 --> 00:00:52,976
+PART.2: Las patotas.
+
+33
+00:00:53,376 --> 00:00:55,096
+PART.2: No, porque se ponen
+después.
+
+34
+00:00:56,496 --> 00:00:56,896
+PART.1: ¿Sí?
+
+35
+00:00:56,896 --> 00:00:58,736
+PART.2: N, son las altas, mira,
+son estas.
+
+36
+00:00:58,736 --> 00:00:59,576
+PART.1: Son las altas.
+
+37
+00:01:02,936 --> 00:01:04,696
+PART.2: Qué gracioso.
+
+38
+00:01:06,416 --> 00:01:09,776
+PART.2: Eh... Y me faltan las
+"cuqui nice", que no son estos.
+
+39
+00:01:09,776 --> 00:01:10,976
+PART.2: Estos son los de
+despierto.
+
+40
+00:01:12,136 --> 00:01:14,056
+PART.2: Y no sé si una de cada
+de...
+
+41
+00:01:14,416 --> 00:01:14,816
+PART.1: Ahí.
+
+42
+00:01:14,816 --> 00:01:16,256
+PART.2: Ahí, esas pestañacas.
+
+43
+00:01:16,576 --> 00:01:18,256
+PART.2: Ay, chica, pero tenemos
+que armar dos.
+
+44
+00:01:18,936 --> 00:01:19,856
+PART.2: Tengo una.
+
+45
+00:01:20,936 --> 00:01:22,496
+PART.2: Bueno, me pongo el...
+
+46
+00:01:22,736 --> 00:01:23,896
+PART.2: Si no hay piezas aquí.
+
+47
+00:01:24,416 --> 00:01:24,896
+PART.1: Ahí.
+
+48
+00:01:25,256 --> 00:01:26,216
+PART.2: Javi maldito.
+
+49
+00:01:27,336 --> 00:01:28,336
+PART.2: No, pero...
+
+50
+00:01:28,336 --> 00:01:29,856
+PART.1: ¡Ay, qué mona!
+
+51
+00:01:29,856 --> 00:01:31,016
+PART.2: Le he arrancado la
+cabeza.
+
+52
+00:01:31,376 --> 00:01:32,776
+PART.1: ¡Mira!
+
+53
+00:01:32,776 --> 00:01:34,056
+PART.1: Uy, que está un poco
+borracha.
+
+54
+00:01:34,536 --> 00:01:35,656
+PART.2: ¿Eso qué ha sido, la
+hamaca?
+
+55
+00:01:36,296 --> 00:01:37,416
+PART.2: Eh...
+
+56
+00:01:38,176 --> 00:01:38,856
+PART.2: Vale.
+
+57
+00:01:38,856 --> 00:01:40,336
+PART.2: Ahí va este.
+
+58
+00:01:40,336 --> 00:01:41,976
+PART.2: Este.
+
+59
+00:01:43,576 --> 00:01:44,696
+PART.2: ¿Dónde están las
+"flowers"?
+
+60
+00:01:45,216 --> 00:01:46,576
+PART.2: Las "flowers, bitch".
+
+61
+00:01:47,016 --> 00:01:47,936
+PART.2: Aquí.
+
+62
+00:01:48,456 --> 00:01:49,536
+PART.2: "Flowers".
+
+63
+00:01:49,536 --> 00:01:50,536
+PART.1: Espera, ¿es esa?
+
+64
+00:01:50,536 --> 00:01:51,096
+PART.1: No, es esa.
+
+65
+00:01:51,096 --> 00:01:51,816
+PART.2: Sí, es esa.
+
+66
+00:01:52,296 --> 00:01:53,456
+PART.1: Ah, son iguales, vale.
+
+67
+00:01:53,456 --> 00:01:54,416
+PART.2: Toma, ponle tú las
+flores.
+
+68
+00:01:58,456 --> 00:02:00,376
+PART.2: Vale, y ahora hay que
+armar otra.
+
+69
+00:02:00,376 --> 00:02:01,696
+PART.2: ¿La podemos hacer de otro
+color?
+
+70
+00:02:02,136 --> 00:02:02,696
+PART.1: No.
+
+71
+00:02:03,016 --> 00:02:04,416
+PART.1: No te saltes las reglas.
+
+72
+00:02:04,416 --> 00:02:05,016
+PART.2: Que no hay piezas.
+
+73
+00:02:05,456 --> 00:02:07,496
+PART.1: Claro que hay, no te
+pongas nervioso.
+
+74
+00:02:07,576 --> 00:02:09,656
+PART.2: Ya he registrado, lo
+siento.
+
+75
+00:02:09,976 --> 00:02:10,856
+PART.1: Mira.
+
+76
+00:02:11,296 --> 00:02:11,976
+PART.2: ¿Qué?
+
+77
+00:02:12,496 --> 00:02:13,616
+PART.2: Si te la he dejado ahí.
+
+78
+00:02:14,176 --> 00:02:14,936
+PART.2: ¿Qué me estás contando?
+
+79
+00:02:14,936 --> 00:02:15,816
+PART.1: Pues ya está.
+
+80
+00:02:16,256 --> 00:02:17,176
+PART.2: Pero hay que hacer dos.
+
+81
+00:02:17,176 --> 00:02:19,336
+PART.1: ¡Ah!
+
+82
+00:02:19,336 --> 00:02:20,136
+PART.2: Hay que hacer dos.
+
+83
+00:02:20,136 --> 00:02:21,216
+PART.1: No hay que hacer dos.
+
+84
+00:02:21,216 --> 00:02:22,696
+PART.2: Ha dicho Javi: "Uno cada
+uno".
+
+85
+00:02:22,696 --> 00:02:24,616
+PART.1: Que no, uno entre los
+dos.
+
+86
+00:02:27,376 --> 00:02:29,016
+PART.2: Javi, por favor, ven a
+resolver esto.
+
+87
+00:02:31,176 --> 00:02:31,896
+PART.1: ¿O sí?
+
+88
+00:02:32,256 --> 00:02:33,616
+PART.2: Claro, si tengo razón.
+
+89
+00:02:33,616 --> 00:02:35,496
+PART.1: Bueno, vamos haciendo
+otro, hasta que venga él.
+
+90
+00:02:36,776 --> 00:02:38,216
+PART.1: Así vamos haciendo otro.
+
+91
+00:02:38,216 --> 00:02:39,656
+PART.2: ¡Tan, tan, tan, tan!
+
+92
+00:02:39,976 --> 00:02:41,496
+PART.2: Pero ¿podemos armar otra
+cosa?
+
+93
+00:02:41,496 --> 00:02:43,496
+PART.1: Pero yo quiero
+llevármelo.
+
+94
+00:02:47,656 --> 00:02:49,816
+PART.1: Venga, va, ¿estás
+haciendo esa abeja?
+
+95
+00:02:49,816 --> 00:02:50,856
+PART.2: Esa la terminé.
+
+96
+00:02:50,856 --> 00:02:53,816
+PART.2: PERDONA B: Bueno, terminé la
+plantita, me falta...
+
+97
+00:02:53,816 --> 00:02:58,376
+PART.1: Ah, pues no tenemos el
+"eskeleton" de la abeja, ¿no?
+
+98
+00:02:58,816 --> 00:02:59,496
+PART.1: Este...
+
+99
+00:02:59,496 --> 00:03:00,576
+PART.2: Claro, por eso te digo.
+
+100
+00:03:00,576 --> 00:03:02,016
+PART.1: Pues la hacemos de esta
+forma.
+
+101
+00:03:02,016 --> 00:03:03,816
+PART.2: Vale, me falta...
+
+102
+00:03:04,296 --> 00:03:06,056
+PART.2: Tía, me falta una base.
+
+103
+00:03:06,136 --> 00:03:08,216
+PART.2: ¿Pues sabes qué?, la
+tierra es marrón.
+
+104
+00:03:08,416 --> 00:03:10,496
+PART.1: A ver, claro, yo
+tampoco...
+
+105
+00:03:10,496 --> 00:03:11,776
+PART.1: Podemos hacer otras
+cosas.
+
+106
+00:03:12,216 --> 00:03:13,136
+PART.2: ¿Sí?
+
+107
+00:03:13,136 --> 00:03:13,856
+PART.1: Nos lo inventamos.
+
+108
+00:03:13,856 --> 00:03:14,616
+PART.1: Este de aquí.
+
+109
+00:03:14,616 --> 00:03:16,096
+PART.2: No, esa es la casa de
+Barbie, esa no.
+
+110
+00:03:18,536 --> 00:03:19,296
+PART.2: La más fácil.
+
+111
+00:03:19,296 --> 00:03:20,816
+PART.2: El perro, el caballo
+este.
+
+112
+00:03:21,176 --> 00:03:22,256
+PART.1: ¡Ah!
+
+113
+00:03:27,616 --> 00:03:28,496
+PART.1: Mira qué guapo.
+
+114
+00:03:28,496 --> 00:03:29,936
+PART.1: Es para hacértelo más
+días.
+
+115
+00:03:29,936 --> 00:03:30,696
+PART.2: No, no.
+
+116
+00:03:30,696 --> 00:03:31,936
+PART.1: Ay, ¿me puede tocar el
+perro?
+
+117
+00:03:32,416 --> 00:03:33,616
+PART.2: El avión.
+
+118
+00:03:34,496 --> 00:03:35,296
+PART.1: Qué puta mierda.
+
+119
+00:03:37,096 --> 00:03:38,176
+PART.1: Bueno...
+
+120
+00:03:38,176 --> 00:03:39,496
+PART.2: ¿Eso qué es, un misil?
+
+121
+00:03:39,496 --> 00:03:40,576
+PART.2: No, es un lápiz.
+
+122
+00:03:42,656 --> 00:03:43,336
+PART.2: Ya está, ¿no?
+
+123
+00:03:43,336 --> 00:03:43,896
+PART.1: ¡Ay!
+
+124
+00:03:43,896 --> 00:03:44,896
+PART.2: No, hay más, hay más.
+
+125
+00:03:46,816 --> 00:03:49,976
+PART.1: Tío, ¿dónde está la
+versión de la abeja?
+
+126
+00:03:50,016 --> 00:03:51,336
+PART.1: ¿Hay que hacerlo por
+Internet?
+
+127
+00:03:51,816 --> 00:03:52,336
+PART.2: Sí.
+
+128
+00:03:52,856 --> 00:03:54,336
+PART.1: nos lo podemos imaginar.
+
+129
+00:03:54,336 --> 00:03:55,216
+PART.2: ¿Nos imaginamos?
+
+130
+00:03:55,216 --> 00:03:55,896
+PART.2: Ya está.
+
+131
+00:03:56,376 --> 00:03:57,736
+PART.1: Venga, el marroncito.
+
+132
+00:04:03,256 --> 00:04:05,416
+PART.2: Toma, y aquí están las
+bases.
+
+133
+00:04:06,016 --> 00:04:06,816
+PART.2: Así.
+
+134
+00:04:07,216 --> 00:04:08,336
+PART.2: Es negro, ¿no?
+
+135
+00:04:08,336 --> 00:04:09,376
+PART.2: Toma, uno negro.
+
+136
+00:04:09,376 --> 00:04:10,256
+PART.1: Aquí la base.
+
+137
+00:04:10,256 --> 00:04:11,216
+PART.1: Ah, la base es esta.
+
+138
+00:04:11,216 --> 00:04:11,776
+PART.2: Esto es lo de abajo.
+
+139
+00:04:11,776 --> 00:04:13,056
+PART.1: La base es esta, ¿no?
+
+140
+00:04:13,576 --> 00:04:15,536
+PART.1: el esqueleto este es muy
+largo.
+
+141
+00:04:15,536 --> 00:04:16,376
+PART.2: Sí, sí.
+
+142
+00:04:16,376 --> 00:04:18,296
+PART.1: no, este es más corto,
+debe ser este.
+
+143
+00:04:19,816 --> 00:04:20,616
+PART.1: Este es la base.
+
+144
+00:04:20,616 --> 00:04:22,376
+PART.2: Vale, pero escúchame.
+
+145
+00:04:22,816 --> 00:04:24,176
+PART.2: Vale, y esto va aquí.
+
+146
+00:04:24,176 --> 00:04:25,976
+PART.1: Mira, uno, dos.
+
+147
+00:04:25,976 --> 00:04:26,896
+PART.2: Necesitas otro de esos.
+
+148
+00:04:26,896 --> 00:04:28,336
+PART.1: Son de cuatro, mira.
+
+149
+00:04:28,336 --> 00:04:30,096
+PART.1: Ah, no, es la grande, la
+grande.
+
+150
+00:04:30,096 --> 00:04:31,376
+PART.2: No, pero tienes razón,
+mira, esto.
+
+151
+00:04:31,376 --> 00:04:32,336
+PART.1: Mira.
+
+152
+00:04:32,776 --> 00:04:35,176
+PART.1: Uno y dos, y aquí va otro
+igual así.
+
+153
+00:04:35,176 --> 00:04:37,256
+PART.2: Ah, tú estás armando lo
+de arriba, vale.
+
+154
+00:04:37,256 --> 00:04:40,336
+PART.2: Yo estoy armando lo de
+abajo, por eso no nos estamos
+entendiendo.
+
+155
+00:04:40,336 --> 00:04:42,136
+PART.2: Digo: "¿Qué está pasando
+aquí con la mierda esta?"
+
+156
+00:04:43,096 --> 00:04:45,016
+PART.2: Yo le voy a hacer las
+tetas.
+
+157
+00:04:45,016 --> 00:04:45,656
+PART.1: Venga.
+
+158
+00:04:45,736 --> 00:04:47,016
+PART.2: A ver, las tetitas.
+
+159
+00:04:47,376 --> 00:04:47,896
+PART.2: Vale.
+
+160
+00:04:48,696 --> 00:04:50,296
+PART.1: La base esta chunga.
+
+161
+00:04:50,296 --> 00:04:51,616
+PART.1: ¿Dónde está la base
+chunga?
+
+162
+00:04:55,096 --> 00:04:56,096
+PART.1: Pero nos falta una...
+
+163
+00:04:56,096 --> 00:04:57,856
+PART.1: Ah, esto ya está.
+
+164
+00:04:57,856 --> 00:04:59,296
+PART.2: ¡Tan, tan, tan, tan!
+
+165
+00:05:00,336 --> 00:05:02,456
+PART.2: ¡Tan, tan, tan!
+
+166
+00:05:02,936 --> 00:05:05,376
+PART.2: ¡Tan, tan, tan!
+
+167
+00:05:07,856 --> 00:05:09,496
+PART.2: ¡Uh, uh!
+
+168
+00:05:10,376 --> 00:05:11,696
+PART.1: ¿Qué haces, tonto?
+
+169
+00:05:11,696 --> 00:05:15,776
+PART.2: Ruidos de caballito,
+muriéndose.
+
+170
+00:05:16,496 --> 00:05:18,176
+PART.2: Vale, ya te he ganado.
+
+171
+00:05:18,176 --> 00:05:20,296
+PART.1: Calla, mira.
+
+172
+00:05:20,696 --> 00:05:21,536
+PART.2: ¿Ya estás?
+
+173
+00:05:21,536 --> 00:05:22,616
+PART.1: Y ahora me falta...
+
+174
+00:05:23,056 --> 00:05:25,016
+PART.2: Esta, esta, esta, esta.
+
+175
+00:05:25,456 --> 00:05:26,656
+PART.1: No, es que aquí...
+
+176
+00:05:26,656 --> 00:05:28,336
+PART.2: Vale, pero pon esta ahí
+abajo.
+
+177
+00:05:28,336 --> 00:05:29,336
+PART.1: ¡Qué gracia!
+
+178
+00:05:29,336 --> 00:05:30,656
+PART.1: Me encanta todo esto.
+
+179
+00:05:30,656 --> 00:05:31,736
+PART.1: ¿Y ahora qué nos falta?
+
+180
+00:05:31,736 --> 00:05:33,696
+PART.2: No, pero te falta...
+
+181
+00:05:34,376 --> 00:05:35,816
+PART.1: He hecho este.
+
+182
+00:05:36,296 --> 00:05:37,736
+PART.2: Claro, ya sé lo que te
+falta.
+
+183
+00:05:37,976 --> 00:05:38,536
+PART.1: La cabeza.
+
+184
+00:05:38,536 --> 00:05:39,176
+PART.2: Ya está.
+
+185
+00:05:39,176 --> 00:05:39,896
+PART.1: Estos son los ojos.
+
+186
+00:05:39,896 --> 00:05:40,456
+PART.2: Ya lo tienes hecho.
+
+187
+00:05:41,856 --> 00:05:43,136
+PART.1: ¡Oh, qué chulo!
+
+188
+00:05:43,136 --> 00:05:44,496
+PART.2: ¡Caballo, a tu caballo!
+
+189
+00:05:44,496 --> 00:05:46,976
+PART.2: Y son estos, mira, tienes
+que ponerlo así de lado.
+
+190
+00:05:47,856 --> 00:05:49,056
+PART.2: Uh...
+
+191
+00:05:49,056 --> 00:05:49,536
+PART.1: ¿Y el pelo?
+
+192
+00:05:49,536 --> 00:05:50,616
+PART.1: Le falta el pelo.
+
+193
+00:05:50,616 --> 00:05:53,456
+PART.2: No, falta... falta esto
+primero, así.
+
+194
+00:05:54,296 --> 00:05:56,256
+PART.2: ¡Tucu, tucu, tucu, tucu!
+
+195
+00:05:56,256 --> 00:05:57,656
+PART.2: Y me falta otro ojo de
+estos.
+
+196
+00:05:57,656 --> 00:05:58,856
+PART.1: Aquí tiene los dos ojos.
+
+197
+00:05:58,856 --> 00:06:00,136
+PART.2: Son los ojitos.
+
+198
+00:06:00,136 --> 00:06:01,096
+PART.2: Ah, ya lo he encontrado.
+
+199
+00:06:01,936 --> 00:06:03,136
+PART.2: Ahora, pon los ojitos.
+
+200
+00:06:04,376 --> 00:06:06,216
+PART.2: Y arriba va el
+"pelusquen".
+
+201
+00:06:06,216 --> 00:06:07,416
+PART.2: A ver cómo va
+"pelusquen".
+
+202
+00:06:08,736 --> 00:06:10,176
+PART.2: Qué "fucking movie", ¿no?
+
+203
+00:06:10,256 --> 00:06:12,136
+PART.2: Ya está lo rompo todo,
+así.
+
+204
+00:06:12,136 --> 00:06:13,616
+PART.2: "Me llamo Minerva y lo
+rompo todo".
+

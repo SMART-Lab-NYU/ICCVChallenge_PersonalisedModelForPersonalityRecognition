@@ -1,0 +1,100 @@
+60
+00:02:01,952 --> 00:02:03,072
+PART.1: Yes, it's nice.
+
+61
+00:02:03,552 --> 00:02:06,752
+PART.2: I think it is much colder
+over there the weather.
+
+62
+00:02:07,672 --> 00:02:09,752
+PART.2: It is much cold
+the weather over there.
+
+63
+00:02:11,072 --> 00:02:14,352
+PART.1: Not really, that city
+is pretty hot in the summer.
+
+64
+00:02:14,952 --> 00:02:20,672
+PART.1: Now I think it is still colder
+than here but I think
+it is going to get also hotter.
+
+65
+00:02:20,672 --> 00:02:22,072
+PART.2: Yes, it will be much hotter.
+
+66
+00:02:22,072 --> 00:02:24,072
+PART.1: It's getting hotter everywhere.
+
+67
+00:02:24,472 --> 00:02:27,152
+PART.1: So, do you go to Pakistan?
+
+68
+00:02:27,552 --> 00:02:31,272
+PART.2: Yes, every year
+I go once at least.
+
+69
+00:02:31,472 --> 00:02:33,952
+PART.1: Nice, do you have family here?
+
+70
+00:02:33,952 --> 00:02:38,672
+PART.2: No, I have
+my parents in Pakistan
+so go there to visit them.
+
+71
+00:02:38,672 --> 00:02:40,672
+PART.1: Yes, it is really nice.
+
+72
+00:02:41,552 --> 00:02:43,952
+PART.1: I also have
+my parents in Syria still.
+
+73
+00:02:44,072 --> 00:02:45,952
+PART.2: Ok, where?
+
+74
+00:02:45,952 --> 00:02:46,672
+PART.1: In Damascus.
+
+75
+00:02:46,672 --> 00:02:46,792
+PART.2: In Damascus, ok.
+
+76
+00:02:46,872 --> 00:02:46,952
+PART.1: In Damascus.
+
+77
+00:02:46,952 --> 00:02:47,752
+PART.2: In Damascus, ok.
+
+78
+00:02:47,752 --> 00:02:49,752
+PART.1: In the capital.
+
+79
+00:02:50,552 --> 00:02:53,352
+PART.1: Yes, I am going to see them
+also this summer I am going there.
+
+80
+00:02:55,152 --> 00:02:57,352
+PART.1: Yes, to see how it goes.
+
+81
+00:02:57,952 --> 00:03:03,112
+PART.1: So, did you...?
+Because now I've just
+finished my masters
+

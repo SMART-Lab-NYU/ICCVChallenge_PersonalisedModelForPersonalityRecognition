@@ -1,0 +1,803 @@
+﻿1
+00:00:02,241 --> 00:00:04,081
+PART.2: Vale, "com has guanyat",
+comienza tú, ¿no?
+
+2
+00:00:04,921 --> 00:00:06,881
+PART.2: Como has ganado, pues empiezas
+tú.
+
+3
+00:00:06,961 --> 00:00:07,681
+PART.1: Sí, okey.
+
+4
+00:00:09,441 --> 00:00:11,001
+PART.1: ¿Mi animal es terrestre?
+
+5
+00:00:11,801 --> 00:00:15,041
+PART.2: Ah... Parte.
+
+6
+00:00:16,201 --> 00:00:23,681
+PART.2: Tiene parte terrestre, pero
+también está en otro... ámbito.
+
+7
+00:00:23,761 --> 00:00:25,161
+PART.1: Okey, okey.
+
+8
+00:00:28,761 --> 00:00:31,401
+PART.2: ¿Mi animal vuela?
+
+9
+00:00:34,961 --> 00:00:36,441
+PART.1: No. Que yo sepa, no.
+
+10
+00:00:37,041 --> 00:00:37,601
+PART.2: Vale.
+
+11
+00:00:37,681 --> 00:00:39,601
+PART.1: Que yo sepa, no vuela.
+
+12
+00:00:40,401 --> 00:00:41,121
+PART.2: Vale.
+
+13
+00:00:44,161 --> 00:00:45,321
+PART.1: ¿Mi animal tiene plumas?
+
+14
+00:00:46,001 --> 00:00:47,361
+PART.2: No.
+
+15
+00:00:49,001 --> 00:00:49,641
+PART.2: No, no.
+
+16
+00:00:52,841 --> 00:00:53,681
+PART.2: No vuela.
+
+17
+00:00:54,561 --> 00:00:56,401
+PART.2: Mi animal sí que tiene plumas.
+
+18
+00:00:56,641 --> 00:00:57,161
+PART.1: Sí.
+
+19
+00:00:57,241 --> 00:00:57,881
+PART.2: Vale.
+
+20
+00:01:01,801 --> 00:01:02,441
+PART.2: Te toca.
+
+21
+00:01:04,881 --> 00:01:06,161
+PART.1: No vuela.
+
+22
+00:01:08,641 --> 00:01:09,721
+PART.1: Quizá en otro ámbito.
+
+23
+00:01:10,801 --> 00:01:12,681
+PART.1: ¿Mi animal está en el agua?
+
+24
+00:01:12,761 --> 00:01:13,321
+PART.2: Sí.
+
+25
+00:01:14,761 --> 00:01:16,001
+PART.2: Es terrestre y acuático.
+
+26
+00:01:16,081 --> 00:01:16,761
+PART.1: Okey.
+
+27
+00:01:18,201 --> 00:01:19,881
+PART.2: ¿Mi animal...?
+
+28
+00:01:20,081 --> 00:01:21,801
+PART.2: Tiene plumas... A ver...
+
+29
+00:01:27,321 --> 00:01:30,321
+PART.2: Pero claro, esta yo no sé si te
+la puedo decir.
+
+30
+00:01:30,401 --> 00:01:38,121
+PART.2: Porque, por ejemplo,
+¿vive en la selva o lo puedo
+encontrar aquí en nuestro
+territorio?
+
+31
+00:01:38,201 --> 00:01:39,401
+PART.1: Doméstico o...
+
+32
+00:01:39,481 --> 00:01:40,481
+PART.2: O salvaje.
+
+33
+00:01:40,561 --> 00:01:42,001
+PART.1: ¿Referente a doméstico o salvaje?
+
+34
+00:01:42,081 --> 00:01:42,601
+PART.2: Sí.
+
+35
+00:01:49,041 --> 00:01:50,681
+PART.1: Sé muy poco de ese animal.
+
+36
+00:01:52,001 --> 00:01:53,841
+PART.2: Pues voy a perder.
+
+37
+00:01:52,481 --> 00:01:56,041
+PART.1: Bueno, yo lo he visto domesticado
+algunas veces.
+
+38
+00:01:56,801 --> 00:01:59,561
+PART.1: Pero la mayoría esta en...
+
+39
+00:01:59,641 --> 00:02:00,441
+PART.2: Salvaje.
+
+40
+00:02:00,241 --> 00:02:01,001
+PART.1: Sí, sí.
+
+41
+00:02:01,241 --> 00:02:06,921
+PART.1: Pero si hay lugares en los que se
+domestica.
+
+42
+00:02:07,001 --> 00:02:07,681
+PART.2: Vale.
+
+43
+00:02:08,441 --> 00:02:09,601
+PART.1: ¿El mío tiene escamas?
+
+44
+00:02:11,961 --> 00:02:13,641
+PART.2: No. No tiene escamas.
+
+45
+00:02:13,281 --> 00:02:14,201
+PART.1: No tiene escamas.
+
+46
+00:02:14,281 --> 00:02:15,081
+PART.2: No, no, no.
+
+47
+00:02:15,401 --> 00:02:16,081
+PART.2: No.
+
+48
+00:02:17,161 --> 00:02:17,881
+PART.2: Vale.
+
+49
+00:02:18,681 --> 00:02:21,361
+PART.2: ¿El mío tiene plumas de muchos
+colores?
+
+50
+00:02:21,961 --> 00:02:22,641
+PART.1: Sí.
+
+51
+00:02:23,961 --> 00:02:24,721
+PART.2: Vale.
+
+52
+00:02:25,241 --> 00:02:26,881
+PART.2: Me parece que ya sé cuál es.
+
+53
+00:02:26,961 --> 00:02:27,841
+PART.1: Sí, sí.
+
+54
+00:02:28,041 --> 00:02:28,721
+PART.2: Vale.
+
+55
+00:02:29,521 --> 00:02:30,761
+PART.1: Yo estoy perdido.
+
+56
+00:02:34,441 --> 00:02:36,961
+PART.1: Es acuático y es terrestre, no
+tiene escamas.
+
+57
+00:02:37,041 --> 00:02:37,561
+PART.2: Sí.
+
+58
+00:02:38,721 --> 00:02:41,401
+PART.1: ¿Es grande en comparación con el
+humano?
+
+59
+00:02:40,081 --> 00:02:40,521
+PART.2: Sí.
+
+60
+00:02:41,921 --> 00:02:43,921
+PART.2: Es grande en comparación al
+humano.
+
+61
+00:02:44,001 --> 00:02:44,561
+PART.2: Sí.
+
+62
+00:02:47,681 --> 00:02:48,361
+PART.1: Okey.
+
+63
+00:02:49,001 --> 00:02:49,681
+PART.2: Sí.
+
+64
+00:02:53,081 --> 00:02:56,441
+PART.2: ¿A veces hablan?
+
+65
+00:02:58,001 --> 00:03:00,001
+PART.2: Bueno, que repiten las cosas.
+
+66
+00:03:01,441 --> 00:03:02,361
+PART.1: No.
+
+67
+00:03:02,681 --> 00:03:03,361
+PART.2: ¿No?
+
+68
+00:03:03,441 --> 00:03:04,361
+PART.1: No, no, no.
+
+69
+00:03:06,081 --> 00:03:06,601
+PART.2: No.
+
+70
+00:03:06,681 --> 00:03:07,241
+PART.1: No.
+
+71
+00:03:08,321 --> 00:03:10,481
+PART.2: Pues ya me has dejado...
+
+72
+00:03:14,201 --> 00:03:15,641
+PART.1: ¿Mi animal tiene cola?
+
+73
+00:03:17,761 --> 00:03:20,201
+PART.2: Si la tiene, la tiene muy
+cortita, muy cortita.
+
+74
+00:03:21,441 --> 00:03:24,521
+PART.2: Desde aquí ni la veo, pero yo
+creo que si la tiene, la tiene muy
+cortita.
+
+75
+00:03:24,601 --> 00:03:26,281
+PART.1: Ah... Okey.
+
+76
+00:03:27,761 --> 00:03:29,881
+PART.2: Ahora a mi me has hecho perder.
+
+77
+00:03:30,521 --> 00:03:32,761
+PART.2: A ver qué más te pregunto.
+
+78
+00:03:46,641 --> 00:03:50,201
+PART.2: ¿Sus... plumas predominante es el
+rojo?
+
+79
+00:03:51,241 --> 00:03:52,161
+PART.1: No.
+
+80
+00:03:52,721 --> 00:03:53,401
+PART.2: No.
+
+81
+00:03:54,961 --> 00:03:56,681
+PART.2: Pues así, a ver. Vale.
+
+82
+00:03:57,281 --> 00:03:58,721
+PART.2: A ver...
+
+83
+00:04:01,881 --> 00:04:03,401
+PART.1: ¿El mío tiene orejas pequeñas?
+
+84
+00:04:03,481 --> 00:04:04,121
+PART.2: Sí.
+
+85
+00:04:08,201 --> 00:04:09,041
+PART.2: A ver.
+
+86
+00:04:09,401 --> 00:04:11,801
+PART.2: Llevo seis me parece, ¿no?
+
+87
+00:04:11,881 --> 00:04:12,961
+PART.2: ¿Llevamos seis o siete?
+
+88
+00:04:12,561 --> 00:04:13,561
+PART.1: Sí, seis.
+
+89
+00:04:13,041 --> 00:04:15,201
+PART.2: Esta es la siete.
+
+90
+00:04:14,161 --> 00:04:16,241
+PART.1: Es la siete, sí.
+
+91
+00:04:20,161 --> 00:04:20,881
+PART.2: A ver.
+
+92
+00:04:21,601 --> 00:04:22,601
+PART.2: Un animal...
+
+93
+00:04:25,361 --> 00:04:27,601
+PART.2: Tú lo has visto domesticado.
+
+94
+00:04:35,881 --> 00:04:37,641
+PART.2: Es que no sé nada de aves, ¿eh?
+
+95
+00:04:44,041 --> 00:04:46,521
+PART.2: Es que domesticado no, no...
+
+96
+00:04:47,561 --> 00:04:49,281
+PART.2: Ah, pero has dicho que no vuela.
+
+97
+00:04:50,001 --> 00:04:51,601
+PART.1: Sí. Que yo sepa, no vuela.
+
+98
+00:05:04,321 --> 00:05:08,121
+PART.2: Es que claro, si te tengo que
+decir el nombre de un animal, ahora
+estoy un poco perdida, ¿eh?
+
+99
+00:05:09,281 --> 00:05:10,121
+PART.2: A ver...
+
+100
+00:05:13,241 --> 00:05:15,401
+PART.2: Ahora me vienen unos cuantos,
+pero son de granja.
+
+101
+00:05:15,481 --> 00:05:19,641
+PART.2: Y de granja no, porque has dicho
+que si son domesticados...
+
+102
+00:05:19,881 --> 00:05:22,041
+PART.2: ¿Consideras de granja a los
+domesticados?
+
+103
+00:05:22,121 --> 00:05:22,641
+PART.2: No.
+
+104
+00:05:24,321 --> 00:05:25,321
+PART.1: Sí, sí.
+
+105
+00:05:25,521 --> 00:05:26,001
+PART.2: ¿Sí?
+
+106
+00:05:26,081 --> 00:05:28,321
+PART.1: Sí. Pueden ser, sí.
+
+107
+00:05:28,961 --> 00:05:32,441
+PART.2: ¿Puede ser de granja? ¿Lo podemos
+encontrar en una granja?
+
+108
+00:05:35,161 --> 00:05:37,601
+PART.1: No, no creo que lo podamos
+encontrar...
+
+109
+00:05:36,481 --> 00:05:37,081
+PART.2: No.
+
+110
+00:05:37,441 --> 00:05:38,001
+PART.1: No, no.
+
+111
+00:05:38,081 --> 00:05:38,561
+PART.2: Vale.
+
+112
+00:05:39,241 --> 00:05:40,321
+PART.1: Estoy seguro que no.
+
+113
+00:05:40,401 --> 00:05:41,121
+PART.2: Vale.
+
+114
+00:05:41,921 --> 00:05:44,841
+PART.2: Pero quieres decir que cuando le
+has visto domesticado es porque está
+dentro de...
+
+115
+00:05:44,921 --> 00:05:46,641
+PART.1: Algunas personas lo tienen...
+
+116
+00:05:46,721 --> 00:05:47,321
+PART.2: Vale, lo tienen.
+
+117
+00:05:48,281 --> 00:05:49,401
+PART.1: Pero es muy, muy raro.
+
+118
+00:05:50,001 --> 00:05:50,521
+PART.2: Vale.
+
+119
+00:05:50,601 --> 00:05:51,641
+PART.1: Muy, muy raro.
+
+120
+00:05:51,721 --> 00:05:52,241
+PART.2: Te toca.
+
+121
+00:05:52,321 --> 00:05:53,481
+PART.2: Pero tú ya lo sabes.
+
+122
+00:05:53,561 --> 00:05:56,001
+PART.1: Sí, sí, bueno, ¿es un hipopótamo?
+
+123
+00:05:56,081 --> 00:05:57,481
+PART.2: Sí, sí, sí.
+
+124
+00:05:59,201 --> 00:06:00,361
+PART.2: Ay, a ver el mío.
+
+125
+00:06:00,441 --> 00:06:03,561
+PART.1: Pero falta hasta que se te agoten
+las...
+
+126
+00:06:01,041 --> 00:06:02,121
+PART.2: Ah, ¿tenemos que terminar?
+
+127
+00:06:03,601 --> 00:06:05,601
+PART.2: Vale, pues tengo siete, ¿no?
+¿O no?
+
+128
+00:06:05,681 --> 00:06:06,081
+PART.2: Sí.
+
+129
+00:06:06,161 --> 00:06:07,361
+PART.1: Sí. Es la ocho.
+
+130
+00:06:06,601 --> 00:06:07,521
+PART.2: Ahora voy por la ocho.
+
+131
+00:06:08,081 --> 00:06:09,001
+PART.2: A ver...
+
+132
+00:06:14,161 --> 00:06:19,601
+PART.2: Es que si me pongo a preguntarte
+de qué color tiene la piel, no voy a
+sacar mucho.
+
+133
+00:06:26,761 --> 00:06:34,121
+PART.2: ¿Lo venden en una tienda de
+mascotas, por ejemplo? ¿Por qué has
+dicho que es raro?
+
+134
+00:06:36,201 --> 00:06:38,401
+PART.2: ¿Lo pueden vender
+en una tienda de mascotas?
+
+135
+00:06:39,841 --> 00:06:46,561
+PART.1: En México está prohibido, no sé
+si aquí los puedes conseguir en una
+tienda de mascotas.
+
+136
+00:06:46,641 --> 00:06:49,001
+PART.2: ¿En México está prohibido este
+animal?
+
+137
+00:06:49,081 --> 00:06:54,321
+PART.1: Es venderlo. No se puede vender
+así como si fuera un perrito o un
+gato.
+
+138
+00:06:55,521 --> 00:06:56,401
+PART.2: Vale.
+
+139
+00:06:59,321 --> 00:06:59,881
+PART.2: Vale.
+
+140
+00:07:01,081 --> 00:07:02,121
+PART.2: Estoy muy perdida.
+
+141
+00:07:04,001 --> 00:07:05,881
+PART.2: No puede volar...
+
+142
+00:07:12,321 --> 00:07:16,241
+PART.2: ¿Expande sus plumas?
+
+143
+00:07:16,321 --> 00:07:17,321
+PART.1: Sí, sí.
+
+144
+00:07:17,401 --> 00:07:18,121
+PART.2: Vale.
+
+145
+00:07:18,201 --> 00:07:19,281
+PART.2: Pues ya lo sé ahora.
+
+146
+00:07:19,601 --> 00:07:22,881
+PART.2: Un pavo real, ¿no?
+
+147
+00:07:22,001 --> 00:07:22,561
+PART.1: Ajá.
+
+148
+00:07:23,001 --> 00:07:23,401
+PART.1: Sí.
+
+149
+00:07:23,481 --> 00:07:24,281
+PART.1: Exactamente.
+
+150
+00:07:24,521 --> 00:07:26,201
+PART.2: ¡Bien!
+
+151
+00:07:26,281 --> 00:07:27,721
+PART.2: Me ha costado, ¿eh?
+
+152
+00:07:28,441 --> 00:07:31,281
+PART.2: Porque primero, no sé por qué,
+pensaba: "Es un loro".
+
+153
+00:07:31,361 --> 00:07:32,521
+PART.2: Pero claro, luego cuando...
+
+154
+00:07:32,601 --> 00:07:33,841
+PART.1: Vi que pensaste que era un loro.
+
+155
+00:07:34,241 --> 00:07:37,801
+PART.2: Luego dije: "No. Un loro no puede
+ser, si te ha dicho que no puede
+volar".
+
+156
+00:07:38,841 --> 00:07:40,281
+PART.2: No. Yo creo que no pueden volar.
+
+157
+00:07:40,361 --> 00:07:41,801
+PART.1: Según yo no pueden volar.
+
+158
+00:07:41,881 --> 00:07:46,601
+PART.1: También he visto que algunas
+personas los tienen, pero no creo
+que sea...
+
+159
+00:07:46,681 --> 00:07:50,921
+PART.2: Sí, sí. En granjas también hay,
+pero lo tienen como para hacer
+bonito.
+
+160
+00:07:51,001 --> 00:07:52,481
+PART.2: Porque no sé que le sacan...
+
+161
+00:07:53,001 --> 00:07:53,881
+PART.1: Sí, de exhibición.
+
+162
+00:07:53,961 --> 00:07:58,161
+PART.1: No creo que se pueda obtener algo
+de...
+
+163
+00:07:58,681 --> 00:08:00,601
+PART.2: No sé, no sé si se comen sus
+huevos.
+
+164
+00:08:00,681 --> 00:08:01,401
+PART.1: Sus huevos.
+
+165
+00:08:01,481 --> 00:08:02,561
+PART.2: No sé si son...
+
+166
+00:08:02,641 --> 00:08:04,161
+PART.1: Sé muy poco sobre eso.
+
+167
+00:08:04,241 --> 00:08:07,361
+PART.1: Solo sé que es muy bonito y allá
+en México hay bastantes.
+
+168
+00:08:07,441 --> 00:08:07,921
+PART.2: ¿Sí?
+
+169
+00:08:08,321 --> 00:08:15,161
+PART.2: Aquí yo solamente he visto cuando
+vas a... Alguna vez que hemos
+visitado el zoo.
+
+170
+00:08:15,641 --> 00:08:17,401
+PART.2: Allí hay alguno, pero...
+
+171
+00:08:17,481 --> 00:08:21,641
+PART.2: Y los tienen en libertad, no
+están dentro de ningún sitio, van
+corriendo por ahí.
+
+172
+00:08:21,721 --> 00:08:22,761
+PART.1: Ah, okey.
+
+173
+00:08:22,841 --> 00:08:24,001
+PART.2: Pero no...
+
+174
+00:08:26,921 --> 00:08:36,041
+PART.2: Sí que me suena haberlos visto en
+algún restaurante de por ahí, donde
+vivo, en la Garrotxa.
+
+175
+00:08:36,801 --> 00:08:46,041
+PART.2: Allí hay algunos restaurantes que
+son como una masía, que tienen
+conejos, gallinas y así, y alguno de
+estos sitios tienen pavo real.
+
+176
+00:08:46,121 --> 00:08:48,281
+PART.1: Sí. Son muy exóticos,
+se ven muy bonitos.
+
+177
+00:08:48,361 --> 00:08:53,321
+PART.2: Sí, pero los tienen, supongo, por
+ahí de... No sé, para hacer bonito.
+
+178
+00:08:53,401 --> 00:08:54,881
+PART.2: Es que no sé para que...
+
+179
+00:08:53,601 --> 00:08:54,201
+PART.1: Sí, sí.
+
+180
+00:08:55,041 --> 00:08:56,721
+PART.1: Exhibición pura, no sé.
+
+181
+00:08:58,681 --> 00:09:03,161
+PART.2: Te he dicho terrestre y acuático
+porque, claro, está mucho tiempo en
+el agua.
+
+182
+00:09:02,561 --> 00:09:04,041
+PART.1: Sí, está en el agua, sí.
+
+183
+00:09:05,561 --> 00:09:07,321
+PART.1: Pensaba que era el cocodrilo al
+principio.
+
+184
+00:09:07,401 --> 00:09:09,001
+PART.2: Cuando me has dicho: "¿Tiene
+escamas?".
+
+185
+00:09:09,081 --> 00:09:10,281
+PART.2: Yo... No.
+

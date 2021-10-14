@@ -1,0 +1,73 @@
+78
+00:03:02,423 --> 00:03:03,383
+PART.1: Seis, ¿no?
+
+79
+00:03:03,463 --> 00:03:04,383
+PART.2: Sí, seis.
+
+80
+00:03:04,463 --> 00:03:05,863
+PART.2: Aunque lo llevo bastante mal.
+
+81
+00:03:05,943 --> 00:03:07,063
+PART.1: No pasa nada.
+
+82
+00:03:07,783 --> 00:03:09,703
+PART.2: Vamos a ver, vamos a ver...
+
+83
+00:03:10,983 --> 00:03:13,063
+PART.2: No sabana, mamífero.
+
+84
+00:03:13,143 --> 00:03:14,903
+PART.2: No felino.
+
+85
+00:03:14,983 --> 00:03:16,703
+PART.2: No compañía. Grande.
+
+86
+00:03:23,583 --> 00:03:25,063
+PART.2: ¿Soy carnívoro?
+
+87
+00:03:25,143 --> 00:03:26,543
+PART.1: No.
+
+88
+00:03:28,943 --> 00:03:30,703
+PART.2: Vale.
+
+89
+00:03:34,943 --> 00:03:38,263
+PART.2: Soy grande, no soy carnívoro,
+no vivo en la sabana...
+
+90
+00:03:43,503 --> 00:03:45,463
+PART.2: RESOPLA Hostia.
+
+91
+00:03:49,303 --> 00:03:51,823
+PART.2: Y no soy felino. Estoy flipando.
+
+92
+00:03:52,623 --> 00:03:54,583
+PART.2: No me digas nada... Llevo siete, ¿no?
+
+93
+00:03:54,663 --> 00:03:55,383
+PART.1: Sí.
+
+94
+00:03:55,743 --> 00:03:58,183
+PART.2: Qué más, qué más te puedo preguntar...
+
+95
+00:03:58,263 --> 00:03:59,903
+PART.2: Mmmm...
+

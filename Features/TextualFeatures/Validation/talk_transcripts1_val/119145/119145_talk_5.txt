@@ -1,0 +1,23 @@
+117
+00:05:04,639 --> 00:05:06,518
+PART.2: [MASKED] uno de los jefes de la
+empresa.
+
+118
+00:05:06,918 --> 00:05:08,278
+PART.2: Por ah� llegu� yo.
+
+119
+00:05:10,639 --> 00:05:13,078
+PART.1: [MASKED] que estudiaste
+c�mo se llama?
+
+120
+00:05:13,438 --> 00:05:14,640
+PART.2: Bueno, yo estudi�
+Teleco [MASKED]
+
+121
+00:05:16,639 --> 00:05:17,958
+PART.2: [MASKED] �ster de Visi�n por Computador.
+

@@ -1,0 +1,136 @@
+﻿1
+00:00:00,000 --> 00:00:04,431
+PART.2: Doncs res, parlem d'això.
+
+2
+00:00:05,383 --> 00:00:05,694
+PART.1: Parlem d'això.
+
+3
+00:00:06,631 --> 00:00:07,298
+PART.2: Com et dius?
+
+4
+00:00:07,513 --> 00:00:07,850
+PART.1: Núria. I tu?
+
+5
+00:00:08,146 --> 00:00:08,642
+PART.2: Jo, Laia.
+
+6
+00:00:09,138 --> 00:00:10,147
+PART.1: Molt bé. Molt de gust, Laia.
+
+7
+00:00:10,571 --> 00:00:10,858
+PART.2: Igualment.
+
+8
+00:00:12,145 --> 00:00:12,681
+PART.2: I què fas?
+
+9
+00:00:14,145 --> 00:00:15,595
+PART.1: Jo soc infermera i dietista.
+
+10
+00:00:16,347 --> 00:00:17,466
+PART.2: Ahhh! Que bé, que guai!
+
+11
+00:00:18,024 --> 00:00:18,290
+PART.1: I tu?
+
+12
+00:00:18,683 --> 00:00:20,234
+PART.2: Jo estic estudiant educació primària.
+
+13
+00:00:20,659 --> 00:00:21,017
+PART.1: Molt bé.
+
+14
+00:00:21,322 --> 00:00:21,786
+PART.2: Sí, en anglès.
+
+15
+00:00:22,426 --> 00:00:22,642
+PART.1: Molt bé.
+
+16
+00:00:22,724 --> 00:00:23,084
+PART.2: Sí, sí, sí.
+
+17
+00:00:23,740 --> 00:00:23,973
+PART.2: I aquí a Barcelona?
+
+18
+00:00:25,387 --> 00:00:26,316
+PART.1: No, jo soc de Manresa.
+
+19
+00:00:26,980 --> 00:00:28,555
+PART.2: Ah, vale! És que t'he notat un accent.
+
+20
+00:00:29,084 --> 00:00:30,540
+PART.1: No, però l'accent no és de Manresa.
+
+21
+00:00:30,811 --> 00:00:33,347
+PART.2: No, és que ho he notat perquè em semblava de València, o del delta de l'Ebre
+
+22
+00:00:33,073 --> 00:00:33,433
+PART.2: De les terres de l'Ebre.
+
+23
+00:00:33,500 --> 00:00:34,882
+PART.1: No, perquè és de les terres de l'Ebre
+
+24
+00:00:36,224 --> 00:00:38,840
+PART.2: El meu novio és valencià i parleu bastant similar
+
+25
+00:00:39,738 --> 00:00:44,729
+PART.1: Soc de les terres de l'Ebre, però visco a Manresa fa ja... vint-i-vuit anys.
+
+26
+00:00:45,033 --> 00:00:45,737
+PART.2: I com et vas mudar?
+
+27
+00:00:45,945 --> 00:00:50,162
+PART.1: Ah!... Bueno, el meu marit va anar a treballar a Manresa
+
+28
+00:00:50,388 --> 00:00:50,755
+PART.2: Ahh...
+
+29
+00:00:51,315 --> 00:00:53,275
+PART.1: I vam anar cap allà...
+
+30
+00:00:53,037 --> 00:00:54,981
+PART.1: Jo vaig estar-hi uns anys a Tarragona, encara
+
+31
+00:00:56,024 --> 00:00:56,664
+PART.1: Vivia a Tarragona.
+
+32
+00:00:57,128 --> 00:00:57,385
+PART.2: Ja
+
+33
+00:00:57,632 --> 00:01:00,265
+PART.1: I després vaig anar cap allà, als dos anys.
+
+34
+00:00:59,437 --> 00:01:02,039
+PART.2: No, sí, clar.  Sí, sí. És el que passa amb la feina.
+

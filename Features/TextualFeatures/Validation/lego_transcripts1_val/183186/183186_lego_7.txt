@@ -1,0 +1,75 @@
+189
+00:07:01,161 --> 00:07:03,561
+PART.2: Entre esas dos, cogería... avanzadas.
+
+190
+00:07:03,641 --> 00:07:04,641
+PART.1: ¿Sí?
+
+191
+00:07:04,721 --> 00:07:05,721
+PART.2: Sí.
+
+192
+00:07:06,001 --> 00:07:07,881
+PART.2: A ver, las dos
+están fáciles, ¿eh?
+
+193
+00:07:07,961 --> 00:07:09,961
+PART.2: Las optativas
+no se las curran mucho, que digamos.
+
+194
+00:07:11,081 --> 00:07:13,881
+PART.1: No, pero como tú
+has hecho las dos... Por eso te preguntaba.
+
+195
+00:07:13,961 --> 00:07:15,881
+PART.2: Yo cogería
+Bases de Datos Avanzado.
+
+196
+00:07:15,961 --> 00:07:18,121
+PART.2: Porque... no...
+
+197
+00:07:18,881 --> 00:07:19,881
+PART.2: No sé.
+
+198
+00:07:19,521 --> 00:07:20,681
+PART.1: Pero ¿qué hiciste?
+
+199
+00:07:20,761 --> 00:07:22,161
+PART.2: ...he aprendido en mi casa, ¿sabes?
+
+200
+00:07:22,761 --> 00:07:24,401
+PART.1: Ya, ya,
+pero ¿qué hicisteis?
+
+201
+00:07:24,481 --> 00:07:28,921
+PART.2: Eh... Es "multiagente"
+más como la evolución de la otra.
+
+202
+00:07:29,001 --> 00:07:30,601
+PART.2: Programación
+multiagente...
+
+203
+00:07:30,681 --> 00:07:31,641
+PART.1: ¿Y en qué...?
+
+204
+00:07:31,721 --> 00:07:33,081
+PART.2: En NetLogo. Un...
+
+205
+00:07:32,681 --> 00:07:33,681
+PART.1: ¿Qué?
+

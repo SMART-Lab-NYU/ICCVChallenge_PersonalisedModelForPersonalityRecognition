@@ -1,0 +1,93 @@
+60
+00:03:03,600 --> 00:03:06,240
+PART.1: Había muy pocos psicólogos, en
+realidad, la mayoría eran
+lingüistas.
+
+61
+00:03:06,320 --> 00:03:07,000
+PART.2:  Vale.
+
+62
+00:03:07,080 --> 00:03:08,440
+PART.1: Muy interesante.
+
+63
+00:03:08,520 --> 00:03:09,280
+PART.2:  Interesante, sí.
+
+64
+00:03:09,360 --> 00:03:19,960
+PART.1: Yo estuve haciendo esto, cómo
+apretemos patrones de estímulo a
+partir de, tanto visuales como
+auditivos.
+
+65
+00:03:20,040 --> 00:03:24,200
+PART.1: Las maneras de aprender el
+lenguaje y no sé.
+
+66
+00:03:24,280 --> 00:03:25,640
+PART.1: ¿Y eso se...?
+
+67
+00:03:25,200 --> 00:03:27,720
+PART.1: Hay mucha, ¿para qué se puede
+aplicar, no?
+
+68
+00:03:27,800 --> 00:03:28,640
+PART.2:  Claro.
+
+69
+00:03:28,720 --> 00:03:29,920
+PART.1: ¿Cuál es la aplicación directa?
+
+70
+00:03:30,000 --> 00:03:31,680
+PART.1: No sé, eso es difícil.
+
+71
+00:03:31,440 --> 00:03:35,760
+PART.2:  ¿Se puede sistematizar así como
+para convertirlo en un programa el
+aprendizaje?
+
+72
+00:03:34,920 --> 00:03:36,240
+PART.1: Eh, claro.
+
+73
+00:03:36,320 --> 00:03:37,360
+PART.1: ¿Un programa informático?
+
+74
+00:03:37,440 --> 00:03:44,240
+PART.2:  Los profesores pensaréis
+directamente eso, para mí la
+aplicación, eh, sé que hay otros
+estudios que sí que se aplican más
+directamente y tal.
+
+75
+00:03:44,320 --> 00:03:58,120
+PART.1: El mío era muy abstracto,
+en el sentido de que eran también
+sonidos e imágenes abstractos, sin
+sentido, pero que buscábamos más ver
+a un nivel como mucho más bajo
+o mecanístico cómo funciona el
+cerebro, ¿no?
+
+76
+00:03:58,200 --> 00:03:58,680
+PART.2:  Vale.
+
+77
+00:03:58,760 --> 00:04:05,120
+PART.1: Hasta qué punto están unidas la
+parte de procesamiento visual y la
+parte de procesamiento auditivo.
+

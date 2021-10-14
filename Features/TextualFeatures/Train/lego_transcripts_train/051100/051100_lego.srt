@@ -1,0 +1,368 @@
+﻿1
+00:00:00,000 --> 00:00:00,836
+PART.2: Vale, vale, ja está bé!
+
+2
+00:00:00,723 --> 00:00:04,372
+PART.1: Vale, va, Javi, pues una florecilla.
+
+3
+00:00:04,373 --> 00:00:06,073
+PART.1: En serio, en serio?
+
+4
+00:00:06,084 --> 00:00:07,376
+PART.2: Bueno, sí, no?
+
+5
+00:00:07,455 --> 00:00:09,687
+PART.2: Vale, som-hi, jo tinc aquest, un...
+
+6
+00:00:12,608 --> 00:00:15,522
+PART.2: Aquí tens el verd...
+
+7
+00:00:15,523 --> 00:00:20,423
+PART.1: Després hi ha un com aquest però obscur, n'hi ha?
+
+8
+00:00:19,777 --> 00:00:21,532
+PART.1: És un color així, fosc.
+
+9
+00:00:24,033 --> 00:00:25,333
+PART.2: No, però aquest és el que m'has donat tu, eh?
+
+10
+00:00:25,447 --> 00:00:27,543
+PART.1: Ah, sí, sí són el mateix.
+
+11
+00:00:28,063 --> 00:00:29,607
+PART.2: Potser no n'hi han, eh?
+
+12
+00:00:29,823 --> 00:00:30,983
+PART.2: És que sembla…
+
+13
+00:00:31,075 --> 00:00:33,032
+PART.1: Ja, però no n'hi ha cap més color.
+
+14
+00:00:33,232 --> 00:00:34,976
+PART.1: Un error d'impressió.
+
+15
+00:00:35,216 --> 00:00:36,264
+PART.2: Sí, no?
+
+16
+00:00:36,348 --> 00:00:38,207
+PART.1: Necessitaràs un altre…
+
+17
+00:00:38,208 --> 00:00:39,208
+PART.1: Un altre...
+
+18
+00:00:39,239 --> 00:00:43,804
+PART.2: A veure, aquest petit, jo crec que és color blau, el blau fosc no.
+
+19
+00:00:43,832 --> 00:00:45,787
+PART.2: Hi ha més colors? Mira!
+
+20
+00:00:45,853 --> 00:00:47,151
+PART.1: És verd.
+
+21
+00:00:47,231 --> 00:00:48,516
+PART.2: Ai, volia dir verd fosc.
+
+22
+00:00:49,616 --> 00:00:51,410
+PART.2: Ho trobava una miqueta raro, eh?
+
+23
+00:00:51,451 --> 00:00:52,524
+PART.1: Pren.
+
+24
+00:00:52,480 --> 00:00:54,655
+PART.2: I això, era un altre d'aquests?
+
+25
+00:00:54,679 --> 00:00:56,039
+PART.1: Este és aquest...
+
+26
+00:00:56,169 --> 00:00:57,279
+PART.1: Ah, sí, sí, sí.
+
+27
+00:00:58,512 --> 00:01:02,585
+PART.1: Després tenim aquest i aquest…
+
+28
+00:01:02,591 --> 00:01:04,159
+PART.2: Ha de ser un d'aquests, no?
+
+29
+00:01:06,591 --> 00:01:07,688
+PART.1: Falta un.
+
+30
+00:01:07,751 --> 00:01:08,804
+PART.2: Té!
+
+31
+00:01:11,544 --> 00:01:12,599
+PART.1: Pobre Javi!
+
+32
+00:01:12,520 --> 00:01:13,540
+PART.1: Ja está?
+
+33
+00:01:13,604 --> 00:01:14,631
+PART.2: Sí.
+
+34
+00:01:14,632 --> 00:01:15,632
+PART.1: Javi, ja està!
+
+35
+00:01:15,751 --> 00:01:17,164
+PART.1: Espera que he de posar…
+
+36
+00:01:17,248 --> 00:01:19,219
+PART.1: Ara és quan es desmunta tot.
+
+37
+00:01:19,318 --> 00:01:20,324
+PART.1: Molt bé.
+
+38
+00:01:20,325 --> 00:01:21,725
+PART.2: Això hauria d'aguantar?
+
+39
+00:01:22,926 --> 00:01:23,926
+PART.2: Ja està.
+
+40
+00:01:23,927 --> 00:01:24,927
+PART.1: Molt bé.
+
+41
+00:01:26,055 --> 00:01:27,090
+PART.2: Fàcil.
+
+42
+00:01:28,491 --> 00:01:29,491
+PART.1: Bueno.
+
+43
+00:01:31,273 --> 00:01:32,524
+PART.2: Improvisant.
+
+44
+00:01:35,726 --> 00:01:37,448
+PART.2: Encara podem posar més flors, no?
+
+45
+00:01:37,523 --> 00:01:38,567
+PART.1: Endavant.
+
+46
+00:01:38,611 --> 00:01:40,340
+PART.2: Al jardí.
+
+47
+00:01:48,691 --> 00:01:49,856
+PART.2: Ah, mira, amb aquests.
+
+48
+00:01:54,475 --> 00:01:56,099
+PART.1: Molt bé.
+
+49
+00:01:57,284 --> 00:01:59,664
+PART.2: I això bé podria arribar a ser-ho.
+
+50
+00:02:00,232 --> 00:02:02,167
+PART.2: Si plantem més arbres…
+
+51
+00:02:03,095 --> 00:02:04,209
+PART.2: Així, encaixa?
+
+52
+00:02:06,010 --> 00:02:07,210
+PART.2: Tot encaixa.
+
+53
+00:02:08,728 --> 00:02:10,147
+PART.2: És una miqueta deforme.
+
+54
+00:02:17,420 --> 00:02:19,720
+PART.1: No he trobat res millor.
+
+55
+00:02:23,720 --> 00:02:26,120
+PART.1: A veure si n'hi ha una altra d'aquestes…
+
+56
+00:02:26,170 --> 00:02:27,228
+PART.2: D'aquest?
+
+57
+00:02:28,128 --> 00:02:29,878
+PART.1: Pots ficar-lo.
+
+58
+00:02:30,799 --> 00:02:32,163
+PART.2: A sobre?
+
+59
+00:02:32,202 --> 00:02:33,275
+PART.1: Clar.
+
+60
+00:02:37,081 --> 00:02:38,481
+PART.2: Ara comença una miqueta creepy.
+
+61
+00:02:38,523 --> 00:02:40,063
+PART.1: Millor.
+
+62
+00:02:40,059 --> 00:02:41,180
+PART.2: Sí, no?
+
+63
+00:02:42,600 --> 00:02:44,019
+PART.2: Mira, aquí n'hi ha més d'ests.
+
+64
+00:02:44,735 --> 00:02:46,543
+PART.2: I aquí n'hi ha més d'aquests.
+
+65
+00:02:46,544 --> 00:02:47,644
+PART.2: Poden servir.
+
+66
+00:02:49,245 --> 00:02:50,545
+PART.1: Però no hi ha més.
+
+67
+00:02:50,887 --> 00:02:52,060
+PART.2: Negre.
+
+68
+00:02:59,160 --> 00:03:02,000
+PART.1: Bueno… sí.
+
+69
+00:03:02,480 --> 00:03:03,528
+PART.2: Javi!
+
+70
+00:03:05,840 --> 00:03:08,499
+PART.1: Té un... associat en què no pot relacionar-se amb nosaltres?
+
+71
+00:03:08,556 --> 00:03:09,615
+PART.2: No ho sé.
+
+72
+00:03:09,703 --> 00:03:10,764
+PART.1: Quantes vegades has fet l'experiment?
+
+73
+00:03:10,807 --> 00:03:12,620
+PART.2: Crec que aquesta és la quarta.
+
+74
+00:03:12,678 --> 00:03:13,747
+PART.1: En serio?
+
+75
+00:03:13,748 --> 00:03:14,748
+PART.1: Què puta merda.
+
+76
+00:03:14,816 --> 00:03:20,799
+PART.2: Bé, crec que cinc però una no compta perquè es van parar les càmeres.
+
+77
+00:03:21,008 --> 00:03:24,609
+PART.2: I com una de prova a principi de tot quan estaven posant…, que també no funcionava.
+
+78
+00:03:24,704 --> 00:03:25,935
+PART.1: Bueno… com la d'ara.
+
+79
+00:03:26,743 --> 00:03:32,370
+PART.2: Ja, però una sí que va funcionar però no sé si l'han inclòs perquè era com la primera de totes.
+
+80
+00:03:32,515 --> 00:03:37,608
+PART.2: Una mica van fer com prova general a veure si funcionava o no i no sé l'inclouen com a experiment.
+
+81
+00:03:37,615 --> 00:03:40,168
+PART.1: Tindria sentit de veritat que no s'inclogués.
+
+82
+00:03:40,169 --> 00:03:43,569
+PART.2: No, crec que no, o sigui, me la van donar a mi perquè pogués jugar.
+
+83
+00:03:44,263 --> 00:03:48,269
+PART.1: M'ha fet gràcia veure't avui en el video gravat que és el mateix que vaig vore el primer dia.
+
+84
+00:03:48,275 --> 00:03:49,352
+PART.2: Sí?
+
+85
+00:03:49,435 --> 00:03:50,479
+PART.1: Tu llegint el paper…
+
+86
+00:03:50,500 --> 00:03:51,839
+PART.2: Ah, no, què cutre!
+
+87
+00:03:54,247 --> 00:03:55,247
+PART.2: Bàsicament...
+
+88
+00:03:57,299 --> 00:04:06,280
+PART.2: Era una tablet aquí, i a més es veia molt, lo bueno era que m'ho passaven massa ràpid, m'ho passaven massa lent, i va arribar un punt que "tant és!"…
+
+89
+00:04:06,360 --> 00:04:10,313
+PART.1: Clar, entre que se't veia xino i que t'estàs jartant és boníssim.
+
+90
+00:04:12,120 --> 00:04:13,492
+PART.2: Ja, ja, algú altre m'ha dit lo mateix.
+
+91
+00:04:15,051 --> 00:04:16,280
+PART.2: Però bueno, mentre a mí se m'entengui…
+
+92
+00:04:16,460 --> 00:04:24,592
+PART.1: Bueno, tampoc és massa important, és lo de sempre, de "va, anem a gravar tot i necessitem que aprovis les teues dades".
+

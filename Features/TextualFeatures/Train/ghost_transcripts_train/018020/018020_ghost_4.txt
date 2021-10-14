@@ -1,0 +1,69 @@
+80
+00:04:01,357 --> 00:04:02,077
+PART.2:  Hombre.
+
+81
+00:04:02,157 --> 00:04:03,077
+PART.1:  Ay, ya.
+
+82
+00:04:06,837 --> 00:04:10,797
+PART.2:  No te has quitado ni el bolso,
+madre mía, pero ten cuidado, no...
+
+83
+00:04:10,877 --> 00:04:12,597
+PART.1:  Qué pereza quitármelo.
+
+84
+00:04:13,997 --> 00:04:15,437
+PART.1:  ¿Qué hacías después de esto?
+
+85
+00:04:15,517 --> 00:04:16,317
+PART.1:  El del animal, ¿no?
+
+86
+00:04:16,397 --> 00:04:16,917
+PART.2:  No.
+
+87
+00:04:16,997 --> 00:04:18,157
+PART.1:  Ah, no, es que, sí.
+
+88
+00:04:17,517 --> 00:04:18,917
+PART.2:  Lo pondrá él random.
+
+89
+00:04:19,437 --> 00:04:21,037
+PART.2:  No sé cuál pondrá.
+
+90
+00:04:21,117 --> 00:04:22,997
+PART.1:  Pues que venga el del animal.
+
+91
+00:04:23,077 --> 00:04:23,797
+PART.2:  ¿Te gusta?
+
+92
+00:04:24,157 --> 00:04:25,557
+PART.1:  Sí, me divierte.
+
+93
+00:04:26,717 --> 00:04:27,717
+PART.2:  Venga, va.
+
+94
+00:04:28,077 --> 00:04:29,637
+PART.1:  ¿Cómo se llama esto?
+
+95
+00:04:29,957 --> 00:04:31,237
+PART.2:  Fantasma Blitz.
+
+96
+00:04:32,797 --> 00:04:33,797
+PART.1:  Blitz.
+

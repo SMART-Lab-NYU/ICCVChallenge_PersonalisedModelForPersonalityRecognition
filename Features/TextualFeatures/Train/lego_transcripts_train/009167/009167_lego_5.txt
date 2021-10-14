@@ -1,0 +1,82 @@
+68
+00:05:04,180 --> 00:05:04,900
+PART.1: ¿Cuadrado?
+
+69
+00:05:04,980 --> 00:05:05,980
+PART.2: No. Este con...
+
+70
+00:05:06,060 --> 00:05:09,820
+PART.1: Vale, pero este va dentro de
+este, ¿no? Blanco.
+
+71
+00:05:09,900 --> 00:05:12,340
+PART.2: Ah, blanco. Tienes razón, hay un
+blanco cuadrado.
+
+72
+00:05:12,420 --> 00:05:13,660
+PART.1: Este no se ve porque está
+doblado.
+
+73
+00:05:13,740 --> 00:05:19,260
+PART.2: Ah, tienes razón. Sí. No lo había
+visto. Ese blanco que tú tienes,
+¿sí? Más el otro...
+
+74
+00:05:19,340 --> 00:05:21,260
+PART.1: ¿Sí? No, es gris. Este, mira.
+¿No?
+
+75
+00:05:21,340 --> 00:05:23,540
+PART.2: Ah, sí. Sí. El blanco gris.
+
+76
+00:05:24,580 --> 00:05:28,180
+PART.1: Ese de las patas no las veo ahí,
+¿no? Esta.
+
+77
+00:05:28,260 --> 00:05:29,260
+PART.2: Esa, sí.
+
+78
+00:05:32,540 --> 00:05:35,940
+PART.1: Parece más... Aquí.
+
+79
+00:05:37,220 --> 00:05:38,660
+PART.2: Vale, ahí sí.
+
+80
+00:05:42,380 --> 00:05:43,580
+PART.2: Y estos son...
+
+81
+00:05:43,660 --> 00:05:44,260
+PART.1: Vale.
+
+82
+00:05:44,340 --> 00:05:44,940
+PART.2: ¿Barreras?
+
+83
+00:05:45,020 --> 00:05:46,020
+PART.1: Estas.
+
+84
+00:05:50,900 --> 00:05:51,500
+PART.1: La otra.
+
+85
+00:05:51,580 --> 00:06:05,620
+PART.2: Dos barreras. Y aquí es uno que
+habías tomado hace un rato. Es un
+redondito... con cositas hacia
+arriba.
+

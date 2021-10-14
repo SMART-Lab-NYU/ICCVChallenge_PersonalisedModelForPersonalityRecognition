@@ -1,0 +1,93 @@
+﻿1
+00:00:00,000 --> 00:00:03,134
+PART.2: So like you start first
+and then I go right?
+
+2
+00:00:03,854 --> 00:00:09,334
+PART.1: Yes, I don't know
+if it is one each
+or as you prefer.
+
+3
+00:00:09,454 --> 00:00:11,334
+PART.2: I think is more easy
+if one goes first.
+
+4
+00:00:11,454 --> 00:00:13,654
+PART.1: Ok, then you want
+to go first and guess?
+
+5
+00:00:13,854 --> 00:00:15,654
+PART.2: Ok.
+
+6
+00:00:16,534 --> 00:00:19,534
+PART.2: Is it a sea animal
+or a land animal?
+
+7
+00:00:19,654 --> 00:00:21,534
+PART.1: It's not a yes or no question.
+
+8
+00:00:21,654 --> 00:00:22,054
+PART.1: You have to ask
+yes or no questions.
+
+9
+00:00:22,054 --> 00:00:22,294
+PART.2: Ah, oj.
+
+10
+00:00:22,374 --> 00:00:23,054
+PART.1: You have to ask
+yes or no questions.
+
+11
+00:00:23,054 --> 00:00:24,334
+PART.1: You have to ask
+yes or no questions.
+
+12
+00:00:24,534 --> 00:00:25,734
+PART.2: Is it a sea animal?
+
+13
+00:00:29,534 --> 00:00:31,534
+PART.1: Can you rephrase
+the question a bit?
+
+14
+00:00:33,654 --> 00:00:35,654
+PART.2: Does this animal live in the sea?
+
+15
+00:00:36,054 --> 00:00:37,654
+PART.1: Like mostly or...?
+
+16
+00:00:38,134 --> 00:00:40,654
+PART.2: Does my animal mostly
+live in the sea?
+
+17
+00:00:44,254 --> 00:00:45,454
+PART.1: More yes than no.
+
+18
+00:00:47,654 --> 00:00:52,054
+PART.2: Mostly and more yes
+than no, ok.
+
+19
+00:00:54,854 --> 00:00:58,854
+PART.2: Does this animal
+have a hard shell?
+
+20
+00:00:59,854 --> 00:01:00,854
+PART.1: No.
+

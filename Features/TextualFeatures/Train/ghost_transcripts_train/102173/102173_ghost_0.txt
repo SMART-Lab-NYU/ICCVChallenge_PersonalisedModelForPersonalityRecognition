@@ -1,0 +1,124 @@
+﻿1
+00:00:00,004 --> 00:00:00,764
+PART.2: Vale.
+
+2
+00:00:00,844 --> 00:00:01,604
+PART.1: ¿Empiezas tú?
+
+3
+00:00:01,684 --> 00:00:02,524
+PART.2: Vale.
+
+4
+00:00:07,404 --> 00:00:08,164
+PART.2: Sí.
+
+5
+00:00:08,244 --> 00:00:08,844
+PART.1: ¿No?
+
+6
+00:00:08,924 --> 00:00:09,604
+PART.2: Sí.
+
+7
+00:00:09,924 --> 00:00:11,484
+PART.1: Espérate, a ver si me acuerdo.
+
+8
+00:00:11,564 --> 00:00:21,004
+PART.1: Si ninguno de los dos, es decir,
+si, por ejemplo, el sillón es blanco
+y el ratón es azul, tenemos que
+coger el objeto que no sea el color,
+¿no?
+
+9
+00:00:21,084 --> 00:00:21,844
+PART.2: Sí.
+
+10
+00:00:21,924 --> 00:00:22,844
+PART.1: Vale, vale.
+
+11
+00:00:23,284 --> 00:00:24,324
+PART.1: Ya está.
+
+12
+00:00:25,964 --> 00:00:27,724
+PART.2: Espera, espera. Sacas tú.
+
+13
+00:00:28,004 --> 00:00:28,884
+PART.1: Ah, vale.
+
+14
+00:00:28,244 --> 00:00:29,284
+PART.2: Perdón, este ya lo he visto.
+
+15
+00:00:32,524 --> 00:00:33,444
+PART.1: Vale.
+
+16
+00:00:37,324 --> 00:00:37,964
+PART.1: Ah, sí.
+
+17
+00:00:38,044 --> 00:00:38,964
+PART.1: Joder, sí.
+
+18
+00:00:39,084 --> 00:00:39,924
+PART.1: Sí, sí, sí.
+
+19
+00:00:41,084 --> 00:00:43,764
+PART.1: Parece una caca, más que un
+fantasma.
+
+20
+00:00:43,844 --> 00:00:45,284
+PART.2: Es un fantasma un poco feo.
+
+21
+00:00:45,364 --> 00:00:46,244
+PART.1: Sí.
+
+22
+00:00:46,324 --> 00:00:47,564
+PART.2: Vale, has sacado tú...
+
+23
+00:00:47,644 --> 00:00:48,204
+PART.1: Sí.
+
+24
+00:00:50,924 --> 00:00:52,044
+PART.1: Jolín, empate.
+
+25
+00:00:52,124 --> 00:00:54,044
+PART.1: Bueno, la ponemos aquí
+y luego la sacamos.
+
+26
+00:00:54,364 --> 00:00:55,164
+PART.1: ¿Te parece?
+
+27
+00:00:55,244 --> 00:00:56,804
+PART.2: Sí, me parece lo más justo. Vale.
+
+28
+00:00:56,884 --> 00:00:58,524
+PART.2: Espera, no barajes así que las
+veo.
+
+29
+00:00:59,524 --> 00:01:01,404
+PART.1: Es que yo no sé hacer estas
+cosas.
+

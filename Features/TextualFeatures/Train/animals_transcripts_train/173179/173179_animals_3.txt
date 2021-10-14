@@ -1,0 +1,100 @@
+69
+00:03:01,392 --> 00:03:02,832
+PART.2: ¿Salgo en alguna peli Disney?
+
+70
+00:03:02,912 --> 00:03:03,472
+PART.1: Sí.
+
+71
+00:03:07,752 --> 00:03:08,792
+PART.2: Vale.
+
+72
+00:03:08,872 --> 00:03:12,952
+PART.1: ¿Soy gordo?
+
+73
+00:03:13,312 --> 00:03:13,792
+PART.2: Sí.
+
+74
+00:03:16,352 --> 00:03:17,152
+PART.2: ¿Tengo...?
+
+75
+00:03:17,232 --> 00:03:18,512
+PART.1: Yo creo que ya lo sé.
+
+76
+00:03:18,592 --> 00:03:19,312
+PART.2: Vale.
+
+77
+00:03:20,152 --> 00:03:23,752
+PART.2: ¿Tengo algo como, por ejemplo, un
+caparazón?
+
+78
+00:03:23,472 --> 00:03:23,912
+PART.1: No.
+
+79
+00:03:24,792 --> 00:03:28,712
+PART.2: ¿O un cangrejo o algo así que
+tiene como rosca?
+
+80
+00:03:25,672 --> 00:03:26,232
+PART.1: No.
+
+81
+00:03:28,472 --> 00:03:28,992
+PART.1: No.
+
+82
+00:03:31,032 --> 00:03:32,632
+PART.1: ¿Un hipopótamo?
+
+83
+00:03:32,872 --> 00:03:33,272
+PART.2: No.
+
+84
+00:03:34,552 --> 00:03:35,552
+PART.2: Si no eres de agua.
+
+85
+00:03:35,992 --> 00:03:38,352
+PART.1: Pero el hipopótamo también se
+mete en el agua.
+
+86
+00:03:38,432 --> 00:03:38,952
+PART.1: No.
+
+87
+00:03:39,312 --> 00:03:42,392
+PART.2: Sí. El hipopótamo la mayor parte
+del tiempo está en el agua.
+
+88
+00:03:44,072 --> 00:03:47,032
+PART.1: No vuelo, no soy carnívoro.
+
+89
+00:03:48,672 --> 00:03:49,992
+PART.2: El hipopótamo es carnívoro.
+
+90
+00:03:51,352 --> 00:03:52,512
+PART.1: ¿Tengo el cuello muy largo?
+
+91
+00:03:53,312 --> 00:03:54,032
+PART.2: Me tocaba a mí.
+
+92
+00:03:54,112 --> 00:03:54,832
+PART.1: Ay, perdón.
+

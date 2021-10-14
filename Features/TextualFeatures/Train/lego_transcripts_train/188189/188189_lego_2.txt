@@ -1,0 +1,72 @@
+39
+00:02:00,695 --> 00:02:01,493
+PART.2: Sí, sí, sí.
+
+40
+00:02:03,837 --> 00:02:04,558
+PART.1: Bien, bien, bien.
+
+41
+00:02:06,455 --> 00:02:08,597
+PART.2: Pues, justamente lo que me estás contando esto...
+
+42
+00:02:09,022 --> 00:02:15,628
+PART.2: El otro día me, me pasó, o sea, y lo encontré... o sea, lo encontré increíble, me sorprendió mucho.
+
+43
+00:02:16,277 --> 00:02:16,894
+PART.1: ¿Sí?
+
+44
+00:02:17,197 --> 00:02:22,479
+PART.2: Eh, fui al Decathlon del... que hay en el centro en carrer Santa Ana, por allí, o sea, cerca de Portal de l’Àngel...
+
+45
+00:02:22,910 --> 00:02:24,454
+PART.2: Hay un Decathlon.
+
+46
+00:02:24,237 --> 00:02:24,474
+PART.1: Mmm, más o menos.
+
+47
+00:02:26,350 --> 00:02:28,486
+PART.1: No soy de aquí de Barcelona, así que, me cuesta un poco desorientarme.
+
+48
+00:02:26,498 --> 00:02:27,523
+PART.2: Vale.
+
+49
+00:02:30,398 --> 00:02:31,220
+PART.2: Vale, bueno...
+
+50
+00:02:31,597 --> 00:02:32,830
+PART.1: Llevo bastantes días ya viniendo así que...
+
+51
+00:02:33,220 --> 00:02:33,973
+PART.2: Vale, vale.
+
+52
+00:02:34,421 --> 00:02:39,541
+PART.2: No, eh, bueno, eh, el hecho de que tenían como una caja rápida...
+
+53
+00:02:40,350 --> 00:02:41,140
+PART.1: Sí.
+
+54
+00:02:41,461 --> 00:02:43,477
+PART.1: Ah y te fascinó...
+
+55
+00:02:43,833 --> 00:02:55,810
+PART.2: No, sí porque, o sea, no porque yo la caja rápida había visto ya varias cajas rápidas, que cogías, o sea tú cogías el producto, lo pasabas por el láser, vale, y te marcaba., o sea, ponías el código de barras y te lo marcaba.
+
+56
+00:02:56,804 --> 00:03:15,075
+PART.2: Pero en este caso, no, o sea, en este caso era, lo que tú decías, o sea, yo cogía un producto, cogí la referencia, la puse en el cajón que había y automáticamente ya me detectó qué modelo era de pantalón, no. sí, qué modelo, perdón, qué modelo de polo era, qué talla era, por la forma, porque no leyó ningún...
+

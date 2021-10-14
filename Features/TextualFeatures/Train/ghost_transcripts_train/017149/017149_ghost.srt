@@ -1,0 +1,481 @@
+1
+00:00:00,008 --> 00:00:00,928
+PART.1: Va, empieza.
+
+2
+00:00:01,768 --> 00:00:02,768
+PART.1: Uy, espera, espera.
+
+3
+00:00:02,848 --> 00:00:03,888
+PART.1: Lo tengo que pensar.
+Vale.
+
+4
+00:00:06,728 --> 00:00:07,808
+PART.1: No.
+
+5
+00:00:08,088 --> 00:00:10,128
+PART.2: No. A ver, espera. Esta.
+
+6
+00:00:10,488 --> 00:00:11,088
+PART.1: Vale.
+
+7
+00:00:11,168 --> 00:00:11,888
+PART.2: Sí.
+
+8
+00:00:11,968 --> 00:00:13,568
+PART.1: Una pregunta, que no sé
+cómo juegas tú.
+
+9
+00:00:15,088 --> 00:00:18,048
+PART.1: Si cojo una y fallo,
+¿puedo dejarla y coger otra?
+
+10
+00:00:18,368 --> 00:00:19,488
+PART.1: Porque antes...
+
+11
+00:00:19,928 --> 00:00:22,928
+PART.1: Antes hemos jugado que
+podía dejarla, aunque no lo he
+aprovechado.
+
+12
+00:00:20,168 --> 00:00:21,328
+PART.2: No tengo ni idea.
+
+13
+00:00:23,288 --> 00:00:24,368
+PART.2: Sí, vale, si quieres
+la dejamos y...
+
+14
+00:00:24,448 --> 00:00:25,048
+PART.1: No lo sé, ¿eh?
+
+15
+00:00:25,128 --> 00:00:27,688
+PART.1: Si no, puede ser que yo
+lo coja, pierda y ya está, a la
+mierda.
+
+16
+00:00:30,608 --> 00:00:31,368
+PART.2: Si quieres...
+
+17
+00:00:31,448 --> 00:00:32,928
+PART.1: En plan, si te equivocas,
+la dejas y coges otra.
+
+18
+00:00:33,248 --> 00:00:35,368
+PART.2: Venga, lo hacemos así,
+a ver si...
+
+19
+00:00:33,608 --> 00:00:34,328
+PART.1: Vale.
+
+20
+00:00:35,968 --> 00:00:37,368
+PART.2: Que a lo mejor
+me equivoco yo, ¿sabes?
+
+21
+00:00:38,608 --> 00:00:39,928
+PART.2: Que yo antes me he
+equivocado en muchas.
+
+22
+00:00:40,008 --> 00:00:41,848
+PART.1: Vale, va, sí,
+si está clarísimo.
+
+23
+00:00:42,488 --> 00:00:43,888
+PART.1: No. Joder.
+
+24
+00:00:49,328 --> 00:00:50,488
+PART.1: Qué asco de juego.
+
+25
+00:00:50,688 --> 00:00:51,728
+PART.1: Ah, hostia.
+
+26
+00:00:52,288 --> 00:00:53,488
+PART.1: ¿Eso era el ratón?
+
+27
+00:00:54,888 --> 00:00:55,928
+PART.2: No estás, ¿eh?
+
+28
+00:00:56,008 --> 00:00:57,128
+PART.1: No estoy, no estoy.
+
+29
+00:00:57,368 --> 00:00:58,688
+PART.1: Creía antes que lo había
+pillado.
+
+30
+00:00:59,008 --> 00:01:00,328
+PART.2: Va, saca. Te toca.
+
+31
+00:01:00,408 --> 00:01:02,888
+PART.1: Vale, va.
+Me voy a concentrar.
+
+32
+00:01:04,448 --> 00:01:06,808
+PART.1: Sofá, libro, ratón,
+fantasma y botella.
+
+33
+00:01:09,048 --> 00:01:10,168
+PART.2: Vale.
+
+34
+00:01:10,248 --> 00:01:11,288
+PART.2: Bien.
+
+35
+00:01:14,248 --> 00:01:16,008
+PART.1: Pero la cojo con una
+inseguridad increíble, ¿eh?
+
+36
+00:01:16,088 --> 00:01:17,448
+PART.2: No lo pienses,
+si está bien.
+
+37
+00:01:19,688 --> 00:01:20,648
+PART.2: Sí.
+
+38
+00:01:24,008 --> 00:01:24,528
+PART.2: Te toca.
+
+39
+00:01:24,608 --> 00:01:25,488
+PART.1: Ah, sí.
+
+40
+00:01:26,648 --> 00:01:27,728
+PART.1: Vamos.
+
+41
+00:01:32,088 --> 00:01:32,968
+PART.2: Sí, ¿no?
+
+42
+00:01:32,848 --> 00:01:33,168
+PART.1: Sí.
+
+43
+00:01:33,248 --> 00:01:33,648
+PART.2: Vale.
+
+44
+00:01:33,728 --> 00:01:34,488
+PART.1: Creo, sí.
+
+45
+00:01:34,568 --> 00:01:35,328
+PART.2: Sí, sí.
+
+46
+00:01:39,088 --> 00:01:40,528
+PART.1: Vale. Joder, qué paliza.
+
+47
+00:01:41,168 --> 00:01:42,168
+PART.1: Venga.
+
+48
+00:01:43,168 --> 00:01:44,168
+PART.2: Coño.
+
+49
+00:01:45,928 --> 00:01:47,048
+PART.2: ¿Lo has hecho pensando
+o...?
+
+50
+00:01:47,128 --> 00:01:49,488
+PART.1: Será porque es rojo
+y lo veo más rápido.
+
+51
+00:01:52,888 --> 00:01:53,568
+PART.2: No, este está.
+
+52
+00:01:53,648 --> 00:01:54,688
+PART.2: Ah, no, si estaba...
+
+53
+00:01:54,768 --> 00:01:56,168
+PART.1: Ah, sí que la has cogido
+bien.
+
+54
+00:01:57,328 --> 00:01:58,488
+PART.1: Nunca pienso en eso.
+
+55
+00:01:58,128 --> 00:01:59,728
+PART.2: Ha sido sin querer,
+ha sido sin querer.
+
+56
+00:01:58,568 --> 00:02:00,488
+PART.1: No, no, es que en esas no
+pienso.
+
+57
+00:02:00,768 --> 00:02:03,848
+PART.1: Cuando está, yo no... No.
+
+58
+00:02:01,768 --> 00:02:03,168
+PART.2: Claro, cuando está hay
+que cogerlo.
+
+59
+00:02:04,368 --> 00:02:05,688
+PART.1: Siempre busco
+el que no está.
+
+60
+00:02:10,008 --> 00:02:11,008
+PART.2: Quedan tres, vale.
+
+61
+00:02:11,088 --> 00:02:12,128
+PART.1: Venga.
+
+62
+00:02:18,488 --> 00:02:19,208
+PART.2: Me toca a mí.
+
+63
+00:02:19,288 --> 00:02:20,008
+PART.1: Es verdad, es verdad.
+
+64
+00:02:21,528 --> 00:02:23,168
+PART.1: Uf, qué tensión.
+
+65
+00:02:25,768 --> 00:02:26,808
+PART.1: En este me he quedado...
+
+66
+00:02:26,888 --> 00:02:28,008
+PART.2: Me he quedado ya...
+
+67
+00:02:29,368 --> 00:02:30,768
+PART.1: Va, ya está. La última.
+
+68
+00:02:33,528 --> 00:02:34,888
+PART.2: El ratón, sí.
+
+69
+00:02:34,968 --> 00:02:36,048
+PART.2: Sí, sí.
+
+70
+00:02:36,528 --> 00:02:37,528
+PART.2: Para ti.
+
+71
+00:02:37,608 --> 00:02:38,768
+PART.1: No me gusta nada este
+juego, ¿eh?
+
+72
+00:02:38,848 --> 00:02:39,968
+PART.1: He vuelto a perder.
+
+73
+00:02:40,048 --> 00:02:41,608
+PART.2: Ah, pero de una.
+Te has librado de...
+
+74
+00:02:41,688 --> 00:02:42,808
+PART.1: Sí, el empate que buscaba.
+
+75
+00:02:42,888 --> 00:02:43,608
+PART.2: Sí, ¿no?
+
+76
+00:02:46,648 --> 00:02:52,568
+PART.2: Ah, pues este juego, en
+realidad, lo estaba hablando antes
+con la otra chica que para beber yo
+creo que tiene que estar guapo.
+
+77
+00:02:52,648 --> 00:02:53,408
+PART.1: Sí.
+
+78
+00:02:53,488 --> 00:02:57,048
+PART.2: Todos juntos y poner
+normas, en plan, inventarte normas.
+
+79
+00:02:57,128 --> 00:02:59,288
+PART.1: Es cuando mola,
+borracho y con más gente.
+
+80
+00:02:59,368 --> 00:03:01,968
+PART.2: En plan, si acierto
+bebés tú, tal. Sí, sí.
+
+81
+00:03:02,248 --> 00:03:08,088
+PART.1: ¿Sabes? Porque es lo que
+le estaba diciendo antes, igual yo
+llego en tres segundos y tú llegas
+en uno.
+
+82
+00:03:08,168 --> 00:03:09,808
+PART.1: Es que no da tiempo ni
+a que luchemos.
+
+83
+00:03:09,888 --> 00:03:10,488
+PART.2: Ya.
+
+84
+00:03:10,568 --> 00:03:14,048
+PART.1: Pero si somos seis...
+Hay hostias, hay hostias.
+
+85
+00:03:11,208 --> 00:03:13,008
+PART.2: Claro, claro.
+Hay más gente que...
+
+86
+00:03:13,408 --> 00:03:14,568
+PART.1: Sí, que se choquen las
+manos...
+
+87
+00:03:14,648 --> 00:03:18,808
+PART.1: Igual ahora que no nos
+conocemos no hay hostias,
+pero si llevamos dos cubatas...
+
+88
+00:03:18,888 --> 00:03:21,528
+PART.2: Claro. Puede que sí, sí.
+Está guay.
+
+89
+00:03:19,128 --> 00:03:20,128
+PART.1: Puede que sí.
+
+90
+00:03:22,928 --> 00:03:25,928
+PART.2: El juego la verdad es que
+yo no lo conocía, no lo he jugado
+antes.
+
+91
+00:03:26,248 --> 00:03:32,248
+PART.1: Le he dicho que, si
+buscaba así competitividad,
+el mechero, que es superfácil.
+
+92
+00:03:33,008 --> 00:03:36,448
+PART.1: Si sale un cinco y un
+cinco, te lanzas.
+
+93
+00:03:33,368 --> 00:03:35,408
+PART.2: Yo creo que he jugado,
+no me acuerdo.
+
+94
+00:03:35,488 --> 00:03:37,848
+PART.2: Ah, lo de coger el
+mechero. Sí, sí.
+
+95
+00:03:38,488 --> 00:03:40,328
+PART.1: Ese es fácil,
+no hay nada que procesar.
+
+96
+00:03:40,408 --> 00:03:44,408
+PART.2: Sí, sí. Yo me acuerdo,
+jugando en el pueblo, que era eso,
+la gente se picaba, pero vamos...
+
+97
+00:03:44,488 --> 00:03:45,968
+PART.2: En plan, que se arañaban
+y todo.
+
+98
+00:03:46,048 --> 00:03:48,448
+PART.1: Sí, sí, sí. No, yo en ese
+me pico muchísimo.
+
+99
+00:03:50,888 --> 00:03:51,888
+PART.1: De dar hostias.
+
+100
+00:03:52,768 --> 00:03:55,168
+PART.2: Sí, sí, que alguno rompe
+el mechero o algo.
+
+101
+00:03:55,248 --> 00:03:58,648
+PART.1: Pero yo le he puesto el
+dedo primero, yo no sé qué, no sé
+cuántos, acaban todas las manos así.
+
+102
+00:03:59,248 --> 00:04:01,808
+PART.2: Además, yo jugaba cuando
+era pequeño, que tampoco era...
+
+103
+00:04:02,328 --> 00:04:03,688
+PART.2: Yo qué sé, que no
+me jugaba nada, ¿sabes?
+
+104
+00:04:03,768 --> 00:04:05,088
+PART.2: Pero aun así era...
+
+105
+00:04:03,768 --> 00:04:06,648
+PART.1: Ya, pero es la... Es pura
+adrenalina.
+

@@ -1,0 +1,102 @@
+﻿1
+00:00:01,180 --> 00:00:05,100
+PART.2: Pues bueno, ahora cuando se vaya... nos dejan aquí un buen papelón,
+¿no?
+
+2
+00:00:05,100 --> 00:00:06,100
+PART.1: Sí, nos van a supervisar.
+
+3
+00:00:06,140 --> 00:00:07,140
+PART.2: Y no nos conocemos de nada.
+
+4
+00:00:07,260 --> 00:00:08,100
+PART.1: Sí, sí, sí.
+
+5
+00:00:08,540 --> 00:00:09,260
+PART.2: Pues bueno...
+
+6
+00:00:09,300 --> 00:00:11,300
+PART.1: ¿Tú cómo te enteraste de este experimento?
+
+7
+00:00:11,420 --> 00:00:19,300
+PART.2: Pues sinceramente, me lo dijo a través de una amiga y... que, además,
+mi amiga me parece que vive... bueno, se lo dije a una amiga mía que vive en
+Madrid y, bueno,
+
+8
+00:00:19,300 --> 00:00:24,380
+PART.2: una cosa así de aquellos que no sabía muy bien de qué iba y digo:
+"Bueno, voy a ver, pero...", ¿y tú?
+
+9
+00:00:25,340 --> 00:00:26,700
+PART.1: Bueno, yo estudié aquí.
+
+10
+00:00:27,100 --> 00:00:28,100
+PART.2: Ah, tú estudiaste aquí.
+
+11
+00:00:28,580 --> 00:00:29,020
+PART.1: Y bueno, yo...
+
+12
+00:00:29,020 --> 00:00:29,940
+PART.2: Pero ¿tú eres de aquí?
+
+13
+00:00:30,300 --> 00:00:30,780
+PART.1: No.
+
+14
+00:00:30,860 --> 00:00:31,380
+PART.2: Tienes acento...
+
+15
+00:00:31,420 --> 00:00:32,860
+PART.1: Bueno, yo soy de Ecuador.
+
+16
+00:00:33,020 --> 00:00:37,340
+PART.2: Ajá, bueno, no sabía muy bien, pero te notaba que no eras de aquí.
+
+17
+00:00:37,580 --> 00:00:39,020
+PART.1: Ya, bueno...
+
+18
+00:00:39,060 --> 00:00:39,540
+PART.2: Un poquito.
+
+19
+00:00:40,900 --> 00:00:44,060
+PART.1: Bueno, hay cosas que sí y cosas que no. Ya vivo aquí 4 años.
+
+20
+00:00:44,260 --> 00:00:44,980
+PART.2: 4 años.
+
+21
+00:00:45,300 --> 00:00:47,340
+PART.1: Pero estudié el máster en Inteligencia Artificial.
+
+22
+00:00:47,500 --> 00:00:48,020
+PART.2: Ajá.
+
+23
+00:00:48,140 --> 00:00:57,020
+PART.1: Entonces, hay una conocida que es amiga de un amigo y ella,
+básicamente, me... no me dijo,
+
+24
+00:00:57,140 --> 00:01:01,620
+PART.1: yo vi en el perfil de ella de Facebook, vi que
+hay un experimento.
+

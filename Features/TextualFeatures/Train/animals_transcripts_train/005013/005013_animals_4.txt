@@ -1,0 +1,48 @@
+44
+00:04:04,334 --> 00:04:08,134
+PART.1: Estoy pensando en algún ave que
+tenga plumas así y no veo ninguno.
+
+45
+00:04:17,374 --> 00:04:19,054
+PART.1: ¿Es carroñero o cazador?
+
+46
+00:04:23,414 --> 00:04:24,854
+PART.2: No creo que sea cazador.
+
+47
+00:04:27,254 --> 00:04:30,294
+PART.2: Puede que sí o puede que no,
+pero... No. No es cazador.
+
+48
+00:04:33,094 --> 00:04:35,814
+PART.2: El ave que yo tengo, ¿tiene el
+pecho blanco?
+
+49
+00:04:36,174 --> 00:04:37,174
+PART.1: No.
+
+50
+00:04:38,294 --> 00:04:39,534
+PART.2: No tiene pecho blanco.
+Eliminada esa parte.
+
+51
+00:04:44,254 --> 00:04:45,574
+PART.1: ¿Cuántas llevamos?
+
+52
+00:04:45,654 --> 00:04:48,214
+PART.2: Seis. Tú ahora la sexta.
+
+53
+00:04:52,054 --> 00:04:53,734
+PART.1: ¿De qué color tiene el pico?
+
+54
+00:04:54,654 --> 00:04:55,854
+PART.2: Amarillo.
+

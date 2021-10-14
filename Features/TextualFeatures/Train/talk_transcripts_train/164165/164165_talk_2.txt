@@ -1,0 +1,84 @@
+40
+00:02:00,200 --> 00:02:01,150
+PART.1: No entiendo el nombre.
+
+41
+00:02:01,150 --> 00:02:03,000
+PART.2: Lava son los estratos que va dejando...
+
+42
+00:02:03,000 --> 00:02:04,050
+PART.1: Ya, pero si no hay volcanes...
+
+43
+00:02:04,050 --> 00:02:07,980
+PART.2: Bueno, habría uno, pero no se visita un volcán propiamente dicho.
+
+44
+00:02:06,550 --> 00:02:07,450
+PART.1: Ya.
+
+45
+00:02:09,350 --> 00:02:13,880
+PART.2: Y ya que estamos por allí cerca, pues eso, ver un poquito, pues eso, la media mañana solo ya.
+
+46
+00:02:13,880 --> 00:02:20,000
+PART.2: Y venirnos para acá a dejar a Javi, luego no sé ya dónde comeremos, si allí, aquí...
+
+47
+00:02:20,180 --> 00:02:23,380
+PART.1: Y hacia las seis del día que volvemos, ¿dónde estaremos?
+
+48
+00:02:23,380 --> 00:02:25,150
+PART.2: Ah, eso ya no lo sé.
+
+49
+00:02:25,900 --> 00:02:27,130
+PART.2: ¿Dónde quieres estar tú?
+
+50
+00:02:27,130 --> 00:02:28,000
+PART.1: Pues...
+
+51
+00:02:28,180 --> 00:02:29,430
+PART.2: En Valencia no.
+
+52
+00:02:29,430 --> 00:02:31,750
+PART.1: Ya... Hay evento Pokémon.
+
+53
+00:02:31,750 --> 00:02:32,750
+PART.2: ¿Dónde?
+
+54
+00:02:32,750 --> 00:02:37,180
+PART.1: En cualquier lado, pero si no te pilla en el coche, por ejemplo, mejor.
+
+55
+00:02:33,780 --> 00:02:34,850
+PART.2: Ah, en cualquier lado.
+
+56
+00:02:37,430 --> 00:02:39,500
+PART.2: Pues yo creo que estaremos en el coche.
+
+57
+00:02:39,800 --> 00:02:40,280
+PART.1: Vale.
+
+58
+00:02:40,280 --> 00:02:50,730
+PART.2: Hombre, ten en cuenta que para llegar a Valencia a una hora razonable, pongamos que llegamos a las diez de la noche, tendríamos que salir a las seis de Barcelona.
+
+59
+00:02:51,400 --> 00:02:58,650
+PART.2: Y a mí me gustaría llegar un poco antes, pero bueno, según cómo transcurra el día.
+
+60
+00:02:59,850 --> 00:03:01,830
+PART.2: ¿Podemos salir después de las seis?
+

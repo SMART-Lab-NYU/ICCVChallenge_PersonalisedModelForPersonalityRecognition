@@ -1,0 +1,73 @@
+61
+00:04:00,290 --> 00:04:01,790
+PART.1: Ok, you can check it later.
+
+62
+00:04:01,990 --> 00:04:05,190
+PART.1: But I'm pretty sure
+you included six not five.
+
+63
+00:04:08,590 --> 00:04:09,590
+PART.2: Ok.
+
+64
+00:04:10,790 --> 00:04:13,190
+PART.1: Ok, so tomorrow we don't meet.
+
+65
+00:04:16,190 --> 00:04:19,890
+PART.1: Which are your plans?
+Let's talk about something...
+
+66
+00:04:20,990 --> 00:04:24,390
+PART.1: What do you want to do next weeks
+with your free time?
+
+67
+00:04:25,690 --> 00:04:26,890
+PART.2: If I have...
+
+68
+00:04:27,090 --> 00:04:30,890
+PART.1: If, yes,
+I suposse a little bit, maybe?
+
+69
+00:04:31,490 --> 00:04:36,490
+PART.2: For next week
+I have three papers to review,
+two leaves.
+
+70
+00:04:39,090 --> 00:04:43,890
+PART.2: Javier Roca sent me a paper
+from CBC.
+
+71
+00:04:45,590 --> 00:04:46,690
+PART.1: About what?
+
+72
+00:04:46,890 --> 00:04:48,690
+PART.2: Action recognition.
+
+73
+00:04:49,290 --> 00:04:50,290
+PART.1: Ah, from a journal?
+
+74
+00:04:50,390 --> 00:04:52,290
+PART.2: Yes, yes, I accepted.
+
+75
+00:04:55,290 --> 00:04:58,090
+PART.2: I have to review it plus two nips.
+
+76
+00:04:59,490 --> 00:05:05,090
+PART.1: Ok, but when you have free time,
+what do you want to do
+with your wife in your free time?
+

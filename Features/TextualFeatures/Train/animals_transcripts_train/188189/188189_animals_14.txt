@@ -1,0 +1,68 @@
+197
+00:14:00,307 --> 00:14:02,627
+PART.1: Ahora acabamos de..., digamos de... hacer la empresa.
+
+198
+00:14:03,029 --> 00:14:10,847
+PART.1: Tenemos una empresa de logística que..., es la que va a poner la tecnología, o sea que va... la que va a hacer que nuestra tecnología llegue a las compañías.
+
+199
+00:14:11,602 --> 00:14:11,797
+PART.2: Vale...
+
+200
+00:14:11,954 --> 00:14:14,042
+PART.1: Y nos consigue los contratos y tal, entonces, bueno...
+
+201
+00:14:15,627 --> 00:14:18,102
+PART.2: Pues guay tío, o sea, pinta mucho curro, pero...
+
+202
+00:14:19,162 --> 00:14:22,857
+PART.1: Sííí, el tema, lo que es...  el hardware lo tenemos bastante avanzado ya...
+
+203
+00:14:24,554 --> 00:14:29,354
+PART.2: para poder industrializar, porque claro, una cosa es hacer los prototipos a mano, pero otra cosa es poder... pedi...
+
+204
+00:14:29,652 --> 00:14:34,281
+PART.2: aceptar una demanda de... si tú me pides 500 baldas para dentro de una semana pues...
+
+205
+00:14:35,232 --> 00:14:35,383
+PART.2: Claro...
+
+206
+00:14:36,058 --> 00:14:39,039
+PART.1: Ahora cojo llamo al... chino y le digo: oye hazme 500 más y...
+
+207
+00:14:40,256 --> 00:14:40,569
+PART.2: Claro, claro.
+
+208
+00:14:42,551 --> 00:14:42,747
+PART.2: ¡Hostia...!
+
+209
+00:14:43,694 --> 00:14:45,878
+PART.1: Y bueno es un proyecto software también...
+
+210
+00:14:46,179 --> 00:14:54,994
+PART.1: Porque, claro, la gente quiere saber: que neveras tiene, donde las tiene, cuantos productos hay en cada nevera, cuanto la abren, cuanto la cierran, bueno...
+
+211
+00:14:55,133 --> 00:14:55,486
+PART.2: Lo que consumen...
+
+212
+00:14:55,678 --> 00:14:57,299
+PART.1: estadísticas; lo que consumen... sí, sí.
+
+213
+00:14:58,568 --> 00:14:59,755
+PART.1: Y todo eso, pues, también hay que hacerlo.
+

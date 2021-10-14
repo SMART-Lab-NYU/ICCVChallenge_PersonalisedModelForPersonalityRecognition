@@ -1,0 +1,156 @@
+42
+00:01:01,393 --> 00:01:01,873
+PART.1: Voy.
+
+43
+00:01:04,633 --> 00:01:05,233
+PART.1: ¿Lo mismo?
+
+44
+00:01:06,353 --> 00:01:07,193
+PART.2: El ratón otra vez.
+
+45
+00:01:07,993 --> 00:01:09,313
+PART.2: Te veo liado, ¿eh?
+
+46
+00:01:09,393 --> 00:01:10,873
+PART.1: No puede ser lo mismo.
+
+47
+00:01:10,593 --> 00:01:12,193
+PART.2: Ya. Está siendo todo el rato el
+ratón.
+
+48
+00:01:12,273 --> 00:01:13,673
+PART.2: Tres, dos, uno...
+
+49
+00:01:14,673 --> 00:01:15,873
+PART.2: Es la misma, la misma carta.
+
+50
+00:01:16,273 --> 00:01:17,393
+PART.2: Es la misma carta, ¿verdad?
+
+51
+00:01:17,833 --> 00:01:18,393
+PART.2: Ah, no.
+
+52
+00:01:18,473 --> 00:01:19,513
+PART.1: De distintos colores.
+
+53
+00:01:20,233 --> 00:01:22,913
+PART.1: No veas, me estás fundiendo a
+mal.
+
+54
+00:01:22,993 --> 00:01:25,113
+PART.1: Como que no le pillo la lógica
+todavía.
+
+55
+00:01:26,313 --> 00:01:27,113
+PART.1: ¿Lo mismo?
+
+56
+00:01:27,633 --> 00:01:28,033
+PART.2: Sí.
+
+57
+00:01:28,353 --> 00:01:29,553
+PART.2: No sé por qué pensamos.
+
+58
+00:01:29,753 --> 00:01:30,553
+PART.2: ¿Es la misma o no?
+
+59
+00:01:31,193 --> 00:01:31,833
+PART.1: Sí, ¿no?
+
+60
+00:01:31,913 --> 00:01:32,753
+PART.2: No es lo mismo.
+
+61
+00:01:32,833 --> 00:01:34,113
+PART.2: Ah, no, lo he hecho mal.
+
+62
+00:01:34,193 --> 00:01:34,993
+PART.1: pero ¿por qué?
+
+63
+00:01:34,593 --> 00:01:35,153
+PART.2: Lo he hecho mal.
+
+64
+00:01:35,593 --> 00:01:37,153
+PART.2: Porque es la botella verde.
+
+65
+00:01:37,233 --> 00:01:37,873
+PART.1: Ah, claro.
+
+66
+00:01:38,433 --> 00:01:40,953
+PART.1: Si la botella fuera azul, sería
+esta, ¿no?
+
+67
+00:01:41,033 --> 00:01:42,393
+PART.2: Nos hemos flipado porque eran
+todas iguales.
+
+68
+00:01:42,473 --> 00:01:43,873
+PART.2: Quiero comprobar que esta la
+hemos hecho bien.
+
+69
+00:01:43,953 --> 00:01:45,033
+PART.2: Sí. Estas las hemos hecho bien.
+
+70
+00:01:45,113 --> 00:01:45,753
+PART.1: Sí. Vale.
+
+71
+00:01:45,833 --> 00:01:47,753
+PART.2: Como está la correcta, en este
+caso, es la correcta.
+
+72
+00:01:48,073 --> 00:01:49,513
+PART.2: Vamos a ponerla aquí para
+desempatar.
+
+73
+00:01:49,593 --> 00:01:50,553
+PART.1: Vaya semana.
+
+74
+00:01:51,073 --> 00:01:53,513
+PART.2: Como esta la hemos empatado...
+
+75
+00:01:56,193 --> 00:01:56,873
+PART.1: Bueno, no me acuerdo.
+
+76
+00:01:57,793 --> 00:01:58,353
+PART.1: Tira, tira.
+
+77
+00:01:58,433 --> 00:01:58,833
+PART.1: Da igual.
+
+78
+00:01:58,913 --> 00:01:59,953
+PART.2: Tres, dos, uno...
+

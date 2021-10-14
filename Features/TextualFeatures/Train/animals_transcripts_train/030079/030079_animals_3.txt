@@ -1,0 +1,99 @@
+53
+00:03:01,013 --> 00:03:02,013
+PART.1: ¿Es...?
+
+54
+00:03:04,133 --> 00:03:04,893
+PART.1: No sé.
+
+55
+00:03:08,733 --> 00:03:09,813
+PART.1: Tigre.
+
+56
+00:03:09,893 --> 00:03:10,853
+PART.2: No.
+
+57
+00:03:12,853 --> 00:03:14,053
+PART.1: Pues nada.
+
+58
+00:03:15,973 --> 00:03:18,453
+PART.1: Un canguro, hostia, había pensado
+un canguro.
+
+59
+00:03:18,533 --> 00:03:19,893
+PART.2: ¿Por qué no preguntaste?
+
+60
+00:03:19,973 --> 00:03:21,093
+PART.1: Te he dicho: "¿Tiene fuerza en los
+brazos?".
+
+61
+00:03:21,173 --> 00:03:23,173
+PART.2: Ya, pero yo no veo que tenga
+fuerza en los brazos.
+
+62
+00:03:23,253 --> 00:03:24,693
+PART.1: Sí, de hecho tienen fuerza en los
+brazos.
+
+63
+00:03:24,773 --> 00:03:27,853
+PART.2: Ah, pues entonces que no sabía, no
+es que entienda mucho de animales.
+
+64
+00:03:27,933 --> 00:03:28,773
+PART.1: Había pensado en un canguro.
+
+65
+00:03:28,853 --> 00:03:30,973
+PART.2: Hubieses arriesgado.
+
+66
+00:03:33,053 --> 00:03:36,493
+PART.2: Soy pésima, no me sé todos los
+animales del mundo si tienen mucha
+fuerza o no.
+
+67
+00:03:36,573 --> 00:03:39,213
+PART.2: Solamente los conozco por las
+películas.
+
+68
+00:03:43,133 --> 00:03:49,973
+PART.1: La tuya, joder,
+cuando has dicho película, digo:
+"Ya está".
+
+69
+00:03:50,053 --> 00:03:52,453
+PART.1: De hecho está la película en el
+cine ahora.
+
+70
+00:03:52,533 --> 00:03:54,053
+PART.2: Sí, la quiero ir a ver.
+
+71
+00:03:54,453 --> 00:03:55,413
+PART.1: Yo también.
+
+72
+00:03:55,493 --> 00:03:56,533
+PART.2: "The Lion King".
+
+73
+00:03:57,133 --> 00:03:59,293
+PART.1: Está hecha por ordenador, ¿no?
+
+74
+00:03:59,373 --> 00:04:00,373
+PART.2: Sí.
+

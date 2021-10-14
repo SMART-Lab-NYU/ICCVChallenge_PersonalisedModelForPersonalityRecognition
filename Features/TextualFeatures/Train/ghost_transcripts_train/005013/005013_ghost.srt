@@ -1,0 +1,168 @@
+﻿1
+00:00:00,000 --> 00:00:02,356
+PART.2: Vale. ¿Hacemos piedra, papel o
+tijera?
+
+2
+00:00:03,996 --> 00:00:05,156
+PART.1: No. Yo empiezo.
+
+3
+00:00:05,436 --> 00:00:06,196
+PART.2: ¿Segura?
+
+4
+00:00:06,276 --> 00:00:06,916
+PART.1: Sí.
+
+5
+00:00:08,996 --> 00:00:10,556
+PART.1: Si es a la vez, ¿no?
+
+6
+00:00:10,636 --> 00:00:12,356
+PART.2: Sí, pero, bueno, empieza tú.
+
+7
+00:00:18,596 --> 00:00:20,796
+PART.2: Vale, tuya. Sí, es tuya.
+
+8
+00:00:20,996 --> 00:00:22,756
+PART.1: Ah, vale, pero lo vuelvo a dejar,
+¿no?
+
+9
+00:00:24,796 --> 00:00:26,236
+PART.2: Vale, vamos a ver...
+
+10
+00:00:31,476 --> 00:00:32,636
+PART.2: El fantasma.
+
+11
+00:00:32,716 --> 00:00:33,716
+PART.1: Fallé.
+
+12
+00:00:34,196 --> 00:00:37,636
+PART.2: No pasa nada. Es un juego, no te
+preocupes.
+
+13
+00:00:40,196 --> 00:00:41,316
+PART.2: Te toca a ti.
+
+14
+00:00:47,076 --> 00:00:50,516
+PART.2: Muy bien. Te la quedas tú.
+
+15
+00:01:10,476 --> 00:01:14,316
+PART.1: Soy muy lenta con estas cosas.
+Solo cojo el ratón y ya está.
+
+16
+00:01:14,396 --> 00:01:15,476
+PART.2: Sí, sí.
+
+17
+00:01:15,756 --> 00:01:17,436
+PART.1: Porque está más cerca.
+
+18
+00:01:23,316 --> 00:01:24,396
+PART.2: Dale. Te toca.
+
+19
+00:01:27,036 --> 00:01:28,276
+PART.2: Eso no vale.
+
+20
+00:01:37,516 --> 00:01:40,836
+PART.2: Muy bien. Sí, tú lo hiciste bien.
+Yo lo hice mal.
+
+21
+00:01:47,396 --> 00:01:48,596
+PART.1: Ay, sí. Vale.
+
+22
+00:01:49,356 --> 00:01:54,156
+PART.2: Un, dos, tres, cuatro, cinco. Un,
+dos, tres, cuatro, cinco... Me
+ganaste por una.
+
+23
+00:01:55,236 --> 00:01:56,596
+PART.2: Eres muy despierta.
+
+24
+00:01:57,396 --> 00:01:59,916
+PART.1: Me cuesta un poco con los colores
+a mí.
+
+25
+00:02:00,476 --> 00:02:01,316
+PART.2: ¿Por qué?
+
+26
+00:02:01,396 --> 00:02:02,556
+PART.1: Soy un poco disléxica.
+
+27
+00:02:03,836 --> 00:02:08,476
+PART.2: Ah, vale, vale. ¿No puedes leer
+muy bien?
+
+28
+00:02:08,876 --> 00:02:14,316
+PART.1: Leo lentito. Precisamente, porque
+si leo rápido, lo cruzo.
+
+29
+00:02:15,636 --> 00:02:20,756
+PART.2: Pero ¿cómo puedes leer? ¿No te
+gustan los libros?
+
+30
+00:02:20,836 --> 00:02:29,356
+PART.1: Sí, sí, me gustan, pero he de
+tener mi tiempo para leer. Es decir,
+lo que una persona lee en cinco
+minutos, yo tardo diez.
+
+31
+00:02:30,556 --> 00:02:38,916
+PART.1: Porque leo más lentamente. Si
+cojo carrerilla, lo cruzo. O me
+salto los párrafos, los cambio de
+sitio.
+
+32
+00:02:39,756 --> 00:02:44,836
+PART.2: Vale. ¿Y cómo pudiste estudiar
+secundaria?
+
+33
+00:02:45,676 --> 00:02:47,556
+PART.1: Eh.. Pues con mucho esfuerzo.
+
+34
+00:02:48,156 --> 00:02:49,516
+PART.2: ¿Fue difícil para ti?
+
+35
+00:02:50,276 --> 00:02:51,356
+PART.1: Un poco.
+
+36
+00:02:51,436 --> 00:02:52,716
+PART.2: ¿Por la lectura más que todo?
+
+37
+00:02:52,796 --> 00:03:00,356
+PART.1: Sí. La lectura, el aprender...
+Con los números cambiaba muchas
+fechas.
+

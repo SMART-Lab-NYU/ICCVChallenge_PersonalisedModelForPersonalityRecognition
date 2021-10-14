@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:00,177
+PART.2: Vale.
+
+2
+00:00:00,614 --> 00:00:01,918
+PART.1: Vale, qui comença?
+
+3
+00:00:01,953 --> 00:00:03,046
+PART.2: Tu mateix.
+
+4
+00:00:03,089 --> 00:00:04,150
+PART.1: Vale.
+
+5
+00:00:04,211 --> 00:00:05,959
+PART.1: Jo pregunto, no? Vale.
+
+6
+00:00:05,859 --> 00:00:07,327
+PART.2: Però no has d'endevinar aquesta, tu has d'endevinar aquesta.
+
+7
+00:00:07,337 --> 00:00:09,542
+PART.1: Sí, ja ho sé. La primera pregunta.
+
+8
+00:00:12,138 --> 00:00:14,497
+PART.1: És animal de terra? O sea, és de...?
+
+9
+00:00:14,735 --> 00:00:16,230
+PART.2: Jo només puc dir sí o no, eh?
+
+10
+00:00:16,333 --> 00:00:17,613
+PART.1: Sí, ja ho sé. És animal de terra?
+
+11
+00:00:19,574 --> 00:00:21,598
+PART.2: Pots fer una altra pregunta?
+
+12
+00:00:21,765 --> 00:00:23,262
+PART.1: Bueno, ja comencem.
+
+13
+00:00:23,393 --> 00:00:29,005
+PART.2: No, saps què passa? Que és que jo considero que hi ha "tierra, mar y aire". Pot ser?
+
+14
+00:00:29,190 --> 00:00:32,263
+PART.1: Sí, "tierra, mar y aire". I et pregunto: és animal de terra?
+
+15
+00:00:32,982 --> 00:00:33,990
+PART.2: No.
+
+16
+00:00:34,134 --> 00:00:35,191
+PART.1: Vale.
+
+17
+00:00:35,282 --> 00:00:37,587
+PART.1: Perquè llavonses és de mar o d'aire. Vale.
+
+18
+00:00:37,611 --> 00:00:41,909
+PART.1: Ara tu m'has de preguntar. Vale.
+
+19
+00:00:42,061 --> 00:00:43,078
+PART.2: És de mar?
+
+20
+00:00:43,229 --> 00:00:44,230
+PART.1: No.
+
+21
+00:00:44,439 --> 00:00:46,542
+PART.2: Bueno. Vale. N'hem a una, eh?
+
+22
+00:00:46,625 --> 00:00:47,629
+PART.1: Sí.
+
+23
+00:00:47,665 --> 00:00:49,048
+PART.2: Les apuntaré, perquè si no, no en farem res.
+
+24
+00:00:49,094 --> 00:00:50,177
+PART.1: Vale.
+
+25
+00:00:50,238 --> 00:00:54,377
+PART.1: Ara jo. Si no és de terra... és d'aire?
+
+26
+00:00:54,421 --> 00:00:55,462
+PART.2: Sí.
+
+27
+00:00:55,490 --> 00:00:56,509
+PART.1: Vale.
+
+28
+00:00:56,645 --> 00:00:57,673
+PART.2: És de terra?
+
+29
+00:00:57,711 --> 00:00:58,742
+PART.1: Sí.
+
+30
+00:00:58,765 --> 00:01:01,477
+PART.2: Vale. N'hem amb dos.
+

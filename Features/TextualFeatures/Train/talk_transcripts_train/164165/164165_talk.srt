@@ -1,0 +1,400 @@
+1
+00:00:00,000 --> 00:00:01,140
+SUPERVISOR: ¡Hasta ahora!
+
+2
+00:00:01,490 --> 00:00:03,760
+PART.1: Esta creo que es la peor parte del experimento.
+
+3
+00:00:03,760 --> 00:00:05,940
+PART.2: Bueno, ¿esto te está pareciendo divertido?
+
+4
+00:00:06,340 --> 00:00:07,590
+PART.1: Bueno, curioso.
+
+5
+00:00:08,360 --> 00:00:11,080
+PART.2: Y a ver, ¿de qué tema te gustaría que habláramos?
+
+6
+00:00:11,190 --> 00:00:12,140
+PART.1: No sé.
+
+7
+00:00:12,450 --> 00:00:14,140
+PART.2: ¿Qué te ha parecido la comida?
+
+8
+00:00:14,450 --> 00:00:16,210
+PART.1: Bueno, comestible.
+
+9
+00:00:16,920 --> 00:00:18,190
+PART.1: Dentro de lo que…
+
+10
+00:00:17,880 --> 00:00:19,740
+PART.2: No te ha gustado, básicamente.
+
+11
+00:00:19,740 --> 00:00:20,880
+PART.1: "Meh" ...
+
+12
+00:00:21,390 --> 00:00:23,740
+PART.2: Hombre, a mí el plato mío me ha parecido espectacular.
+
+13
+00:00:24,340 --> 00:00:25,410
+PART.2: ¿Tú lo has probado el mío al final?
+
+14
+00:00:24,920 --> 00:00:26,030
+PART.1: Sí, estaba bien.
+
+15
+00:00:26,030 --> 00:00:31,050
+PART.2: Yo creo que ha sido el mejor del hostal, y eso que el tuyo no lo he probado, sabes, pero bien.
+
+16
+00:00:30,300 --> 00:00:32,130
+PART.1: ¿Mañana cómo está el plan?
+
+17
+00:00:32,130 --> 00:00:34,130
+PART.2: Mañana nos vamos a Olot.
+
+18
+00:00:34,980 --> 00:00:36,500
+PART.1: Y ya está, ese es todo el plan que hay.
+
+19
+00:00:36,350 --> 00:00:37,350
+PART.2: Ese es todo el plan que hay.
+
+20
+00:00:37,850 --> 00:00:41,630
+PART.2: Hombre, nos levantaremos antes de las diez para desayunar.
+
+21
+00:00:41,630 --> 00:00:45,100
+PART.2: No sé Javi lo que tardará aquí en recoger... eh, pues eso, eh...
+
+22
+00:00:45,100 --> 00:00:49,050
+PART.2: Si tarda mucho pues le esperaremos y si no pues en cuanto esté nos vamos.
+
+23
+00:00:48,350 --> 00:00:50,400
+PART.1: Y si no pues no nos vamos sin él.
+
+24
+00:00:49,480 --> 00:00:50,800
+PART.2: Exacto.
+
+25
+00:00:50,800 --> 00:00:52,350
+PART.2: Entonces el plan es ir a Olot.
+
+26
+00:00:53,650 --> 00:01:00,900
+PART.2: Iremos a ver… si llegamos pronto podemos ir a ver un volcán, si llegamos a la hora justa, comemos y vamos por la tarde a verlo.
+
+27
+00:01:01,650 --> 00:01:08,100
+PART.2: Y luego iremos a dormir a un pueblecito que se llama Sant Joan les Fonts... con Tina.
+
+28
+00:01:10,000 --> 00:01:13,450
+PART.2: Y al día siguiente… bueno, ese es el plan de mañana que me has preguntado.
+
+29
+00:01:13,580 --> 00:01:14,980
+PART.1: ¿Y al día siguiente?
+
+30
+00:01:14,980 --> 00:01:21,550
+PART.2: Y al día siguiente mi idea era hacer unos bocatas, ir al Fageda d'en Jordà, que es un hayedo.
+
+31
+00:01:21,680 --> 00:01:26,930
+PART.2: En una ruta que se puede hacer andando que dura cuatro horas y en esa ruta pasas por dos volcanes.
+
+32
+00:01:27,050 --> 00:01:34,080
+PART.2: Es un hayedo, los robles, las hayas están crecidas sobre lava volcánica.
+
+33
+00:01:34,080 --> 00:01:37,400
+PART.2: Y luego, hay dos volcanes en esa ruta.
+
+34
+00:01:39,400 --> 00:01:46,330
+PART.2: Eso, estaremos por allí, comeremos por allí y volveremos otra vez al pueblecito donde nos hemos alojado.
+
+35
+00:01:46,680 --> 00:01:53,480
+PART.2: Y al día siguiente, pues había pensado yo que por la zona del pueblo donde estamos alojados también hay una ruta que llaman "La ruta de las tres lavas".
+
+36
+00:01:53,480 --> 00:01:55,480
+PART.1: ¿Que serán tres volcanes?
+
+37
+00:01:55,480 --> 00:01:57,480
+PART.2: No, ahí no hay volcanes.
+
+38
+00:01:57,900 --> 00:01:59,480
+PART.1: Pues entonces no entiendo el nombre.
+
+39
+00:01:59,480 --> 00:02:00,200
+PART.2: ¿Cómo?
+
+40
+00:02:00,200 --> 00:02:01,150
+PART.1: No entiendo el nombre.
+
+41
+00:02:01,150 --> 00:02:03,000
+PART.2: Lava son los estratos que va dejando...
+
+42
+00:02:03,000 --> 00:02:04,050
+PART.1: Ya, pero si no hay volcanes...
+
+43
+00:02:04,050 --> 00:02:07,980
+PART.2: Bueno, habría uno, pero no se visita un volcán propiamente dicho.
+
+44
+00:02:06,550 --> 00:02:07,450
+PART.1: Ya.
+
+45
+00:02:09,350 --> 00:02:13,880
+PART.2: Y ya que estamos por allí cerca, pues eso, ver un poquito, pues eso, la media mañana solo ya.
+
+46
+00:02:13,880 --> 00:02:20,000
+PART.2: Y venirnos para acá a dejar a Javi, luego no sé ya dónde comeremos, si allí, aquí...
+
+47
+00:02:20,180 --> 00:02:23,380
+PART.1: Y hacia las seis del día que volvemos, ¿dónde estaremos?
+
+48
+00:02:23,380 --> 00:02:25,150
+PART.2: Ah, eso ya no lo sé.
+
+49
+00:02:25,900 --> 00:02:27,130
+PART.2: ¿Dónde quieres estar tú?
+
+50
+00:02:27,130 --> 00:02:28,000
+PART.1: Pues...
+
+51
+00:02:28,180 --> 00:02:29,430
+PART.2: En Valencia no.
+
+52
+00:02:29,430 --> 00:02:31,750
+PART.1: Ya... Hay evento Pokémon.
+
+53
+00:02:31,750 --> 00:02:32,750
+PART.2: ¿Dónde?
+
+54
+00:02:32,750 --> 00:02:37,180
+PART.1: En cualquier lado, pero si no te pilla en el coche, por ejemplo, mejor.
+
+55
+00:02:33,780 --> 00:02:34,850
+PART.2: Ah, en cualquier lado.
+
+56
+00:02:37,430 --> 00:02:39,500
+PART.2: Pues yo creo que estaremos en el coche.
+
+57
+00:02:39,800 --> 00:02:40,280
+PART.1: Vale.
+
+58
+00:02:40,280 --> 00:02:50,730
+PART.2: Hombre, ten en cuenta que para llegar a Valencia a una hora razonable, pongamos que llegamos a las diez de la noche, tendríamos que salir a las seis de Barcelona.
+
+59
+00:02:51,400 --> 00:02:58,650
+PART.2: Y a mí me gustaría llegar un poco antes, pero bueno, según cómo transcurra el día.
+
+60
+00:02:59,850 --> 00:03:01,830
+PART.2: ¿Podemos salir después de las seis?
+
+61
+00:03:01,880 --> 00:03:03,480
+PART.2: Pues no sé, depende...
+
+62
+00:03:03,730 --> 00:03:05,150
+PART.1: Bueno, vale, ya veremos.
+
+63
+00:03:05,150 --> 00:03:06,200
+PART.2: ¿Y dónde es el evento?
+
+64
+00:03:06,200 --> 00:03:07,450
+PART.2: En cualquier sitio, ¿qué quiere decir?
+
+65
+00:03:06,750 --> 00:03:12,230
+PART.1: O sea, puede ser en cualquier lado, pero, por ejemplo, en ciudad mejor que en mitad de la nada.
+
+66
+00:03:12,680 --> 00:03:14,780
+PART.2: Pero ¿en el evento tienes que quedar con gente?
+
+67
+00:03:14,630 --> 00:03:16,350
+PART.1: No, puedo ir yo a mi bola.
+
+68
+00:03:16,750 --> 00:03:18,750
+PART.2: ¿Y da igual qué zona de ciudad?
+
+69
+00:03:18,750 --> 00:03:22,730
+PART.1: Sí, o sea, a ver, si es igual en algún parque, mejor, pero...
+
+70
+00:03:23,650 --> 00:03:25,630
+PART.1: Lo que no quiero es estar en mitad de la nada.
+
+71
+00:03:26,600 --> 00:03:29,600
+PART.2: Ya me lo montaré yo para estar en mitad de la nada.
+
+72
+00:03:29,600 --> 00:03:32,630
+PART.1: Yo que sé, en una gasolinera en mitad de la carretera.
+
+73
+00:03:32,630 --> 00:03:36,100
+PART.2: Hombre, pues mi idea yo creo que sería estar en la carretera ya.
+
+74
+00:03:36,380 --> 00:03:40,730
+PART.2: Pero como no sé cómo va a transcurrir, tampoco me importa, teniendo luego el domingo yo para...
+
+75
+00:03:40,730 --> 00:03:41,730
+PART.1: Vale, vale.
+
+76
+00:03:42,530 --> 00:03:45,400
+PART.2: Lo único que si se hace tarde, pues conducirás tú.
+
+77
+00:03:47,200 --> 00:03:48,400
+PART.1: Eso no me importa.
+
+78
+00:03:48,500 --> 00:03:50,980
+PART.2: Si se hace muy tarde, no sé...
+
+79
+00:03:51,080 --> 00:03:55,600
+PART.1: O sea, yo por la tarde-noche, estoy más espabilado.
+
+80
+00:03:53,680 --> 00:03:56,450
+PART.2: Hombre, llegar a las diez de la noche es una hora bastante razonable.
+
+81
+00:03:56,450 --> 00:04:02,230
+PART.2: Por eso había pensado, pues eso, comer incluso allí, llevar a Javi hacia Barcelona.
+
+82
+00:04:02,400 --> 00:04:04,980
+PART.2: Coger las cosas que quiera que me lleve.
+
+83
+00:04:06,700 --> 00:04:11,100
+PART.2: Porque venir a comer a Barcelona me parece que es necesario salir demasiado pronto.
+
+84
+00:04:11,100 --> 00:04:13,930
+PART.2: Son dos horitas de Olot a aquí.
+
+85
+00:04:14,980 --> 00:04:20,230
+PART.2: Es que también dependerá de lo a gusto que estemos allí también, no sé, igual nos apetece apurar más.
+
+86
+00:04:20,230 --> 00:04:20,780
+PART.1: Ya...
+
+87
+00:04:21,050 --> 00:04:22,580
+PART.2: Yo creo que sí, ¿no?
+
+88
+00:04:22,730 --> 00:04:25,500
+PART.2: Que igual nos apetece estar por allí y comemos allí, no sé.
+
+89
+00:04:25,400 --> 00:04:27,400
+PART.1: Ni idea, ya lo veremos, supongo.
+
+90
+00:04:27,700 --> 00:04:30,980
+PART.2: Lo que no sé es qué tal será la experiencia de Tina en el restaurante.
+
+91
+00:04:33,880 --> 00:04:37,700
+PART.1: Eso habrá que verlo, según le de, yo si que me la veo que va a estar tranquila o no.
+
+92
+00:04:37,530 --> 00:04:39,050
+PART.2: Quieta no se va a estar.
+
+93
+00:04:39,050 --> 00:04:42,280
+PART.2: El otro día quedé a cenar con "estas amigas de Navarra" ...
+
+94
+00:04:42,900 --> 00:04:48,450
+PART.2: Y una de ellas tiene un perro desde hace poco y se lo lleva a todas partes y se lo trajo.
+
+95
+00:04:49,300 --> 00:04:51,030
+PART.2: Y estuvimos cenando allí en "De diez" ...
+
+96
+00:04:51,030 --> 00:04:53,800
+PART.2: Pero debe ser que el perro, como se ha acostumbrado a ir a todas partes.
+
+97
+00:04:52,850 --> 00:04:54,150
+PART.1: Está acostumbrado.
+
+98
+00:04:54,330 --> 00:04:57,650
+PART.2: Pero aún así, pues eso, había, había tres perros en el restaurante.
+
+99
+00:04:57,930 --> 00:05:03,080
+PART.2: Y cuando empezaron a llegar los otros perros, pues él ya iba... hacia los otros, pero bueno.
+
+100
+00:05:04,050 --> 00:05:05,700
+PART.2: ¿Nos callamos o seguimos?
+

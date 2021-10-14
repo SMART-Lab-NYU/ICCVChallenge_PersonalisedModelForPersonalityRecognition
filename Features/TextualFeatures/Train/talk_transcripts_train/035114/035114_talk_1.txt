@@ -1,0 +1,88 @@
+29
+00:01:03,680 --> 00:01:05,000
+PART.2:  ¿Tú eres de aquí de Barcelona?
+
+30
+00:01:05,080 --> 00:01:09,840
+PART.1: No, de Valencia,
+pero bueno, estoy estudiando y ahora
+buscando trabajo aquí.
+
+31
+00:01:09,920 --> 00:01:11,360
+PART.2:  Vale, ¿y qué estudiaste?
+
+32
+00:01:11,440 --> 00:01:12,360
+PART.1: Informática.
+
+33
+00:01:12,080 --> 00:01:12,720
+PART.2:  Informática.
+
+34
+00:01:12,800 --> 00:01:13,520
+PART.1: ¿Y tú?
+
+35
+00:01:13,600 --> 00:01:15,720
+PART.2:  Yo soy profesor de inglés.
+
+36
+00:01:16,240 --> 00:01:16,640
+PART.1: Sí.
+
+37
+00:01:16,480 --> 00:01:23,800
+PART.2:  Pero, claro, vine a Barcelona
+acompañando a mi esposa, que vino a
+hacer un máster de "Español como
+lengua extranjera" aquí en la UE.
+
+38
+00:01:23,880 --> 00:01:24,640
+PART.1: Los dos profesores.
+
+39
+00:01:24,720 --> 00:01:34,720
+PART.2:  Sí, ella es profesora de lenguaje,
+de lengua española y ahora ya sacó
+su máster y a mí me queda defender
+mi TFM en la Autónoma.
+
+40
+00:01:34,800 --> 00:01:38,120
+PART.1: O sea, que también de enseñanza.
+
+41
+00:01:38,200 --> 00:01:40,760
+PART.2:  Sí, también es de "Español como
+lengua extranjera".
+
+42
+00:01:40,840 --> 00:01:41,560
+PART.1: Sí.
+
+43
+00:01:41,640 --> 00:01:46,200
+PART.1: Que bueno, pues muchos ánimos con
+el TFM a mí me fue muy duro.
+
+44
+00:01:44,120 --> 00:01:45,120
+PART.1: Gracias.
+
+45
+00:01:46,280 --> 00:01:53,560
+PART.1: Los trabajos así largos y de
+planificar y tal,
+me cuesta un montón, pero bueno,
+se consigue, al final, siempre.
+
+46
+00:01:53,720 --> 00:02:01,160
+PART.1: Sí, para mí también, todo se me ha
+hecho muy, todo muy complicado,
+seguirle el ritmo a todo lo que es
+la investigación y todo eso.
+

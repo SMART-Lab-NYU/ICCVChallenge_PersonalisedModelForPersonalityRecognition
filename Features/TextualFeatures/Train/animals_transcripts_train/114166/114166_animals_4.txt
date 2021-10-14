@@ -1,0 +1,108 @@
+106
+00:04:00,473 --> 00:04:01,313
+PART.2: Sí.
+
+107
+00:04:03,993 --> 00:04:05,113
+PART.1: ¿Soy una cabra?
+
+108
+00:04:05,433 --> 00:04:06,633
+PART.2: Es más grande.
+
+109
+00:04:07,393 --> 00:04:07,953
+PART.2: No.
+
+110
+00:04:08,033 --> 00:04:08,713
+PART.2: ¿Te lo digo?
+
+111
+00:04:08,793 --> 00:04:10,233
+PART.1: No. La última de las últimas.
+
+112
+00:04:10,313 --> 00:04:11,193
+PART.1: Yo ya he perdido, ¿vale?
+
+113
+00:04:13,713 --> 00:04:14,833
+PART.1: Eh... Joder.
+
+114
+00:04:17,753 --> 00:04:19,233
+PART.1: ¿Más grande que una cabra?
+
+115
+00:04:19,753 --> 00:04:20,673
+PART.2: Sí.
+
+116
+00:04:25,113 --> 00:04:26,873
+PART.1: ¿Soy un animal más grande que una
+cabra?
+
+117
+00:04:27,233 --> 00:04:28,553
+PART.1: Sí.
+
+118
+00:04:31,193 --> 00:04:32,313
+PART.1: ¿Soy una jirafa?
+
+119
+00:04:32,393 --> 00:04:33,153
+PART.2: No.
+
+120
+00:04:37,153 --> 00:04:39,913
+PART.1: De aquí no voy a salir hasta que
+no lo adivine.
+
+121
+00:04:41,353 --> 00:04:42,713
+PART.1: Soy un caballo.
+
+122
+00:04:43,153 --> 00:04:44,193
+PART.2: No. A ver...
+
+123
+00:04:43,953 --> 00:04:44,833
+PART.1: Un caballo no caza.
+
+124
+00:04:45,433 --> 00:04:47,233
+PART.2: Da miedo, ¿sabes?
+
+125
+00:04:47,313 --> 00:04:50,033
+PART.2: Están ahí en el bosque y cuidado.
+
+126
+00:04:50,833 --> 00:04:52,073
+PART.1: No soy un lobo.
+
+127
+00:04:52,153 --> 00:04:52,793
+PART.2: No.
+
+128
+00:04:52,873 --> 00:04:53,913
+PART.1: ¿Soy un oso?
+
+129
+00:04:53,993 --> 00:04:54,593
+PART.2: Sí.
+
+130
+00:04:54,673 --> 00:04:55,753
+PART.1: Lo sabía, joder.
+
+131
+00:04:55,833 --> 00:04:59,673
+PART.1: Lo sabía desde el primer momento
+que me han puesto esto, pero no lo
+he querido decir.
+

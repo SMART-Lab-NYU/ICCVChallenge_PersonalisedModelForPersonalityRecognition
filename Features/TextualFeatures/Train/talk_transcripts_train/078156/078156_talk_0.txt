@@ -1,0 +1,109 @@
+﻿1
+00:00:00,315 --> 00:00:02,395
+PART.1: Bueno, pues no sé,
+has hecho una ya dices.
+
+2
+00:00:02,395 --> 00:00:04,195
+PART.2: Sí, justo acabo de hacer una.
+
+3
+00:00:04,195 --> 00:00:07,795
+PART.1: Vale, y no sé, tú.
+
+4
+00:00:07,995 --> 00:00:11,515
+PART.1: Dime, ¿de dónde te sacaron?
+
+5
+00:00:10,475 --> 00:00:14,595
+PART.2: Soy de Venezuela,
+originalmente soy de Venezuela
+y me vine aquí a hacer el máster.
+
+6
+00:00:14,635 --> 00:00:15,955
+PART.2: Hice el máster
+de Inteligencia Artificial.
+
+7
+00:00:15,955 --> 00:00:17,155
+PART.1: Ah, vale, sí.
+
+8
+00:00:17,155 --> 00:00:20,395
+PART.1: Yo lo hice también,
+el de la UPC.
+
+9
+00:00:20,395 --> 00:00:22,475
+PART.2: Sí, el que es conjunto
+UPC-V.
+
+10
+00:00:22,475 --> 00:00:24,875
+PART.1: ¿En Tarragona
+o ya no está en Tarragona?
+
+11
+00:00:24,875 --> 00:00:25,355
+PART.2: Sí.
+
+12
+00:00:25,355 --> 00:00:26,195
+PART.1: Vale.
+
+13
+00:00:26,195 --> 00:00:27,955
+PART.2: Bueno, yo lo hice en el 2014.
+
+14
+00:00:29,315 --> 00:00:30,075
+PART.1: ¡Ah!
+
+15
+00:00:30,835 --> 00:00:32,955
+PART.1: Al año después que yo, creo.
+
+16
+00:00:32,955 --> 00:00:34,915
+PART.1: No, sí, al año después que yo
+creo.
+
+17
+00:00:34,915 --> 00:00:41,635
+PART.1: Porque yo fui del primer año,
+yo hice 2013-2014 creo,
+y tú harías 2014-2015.
+
+18
+00:00:41,635 --> 00:00:42,515
+PART.2: Exacto.
+
+19
+00:00:42,515 --> 00:00:45,235
+PART.1: ¿Y te acuerdas de las clases
+de Antonio Moreno en Tarragona?
+
+20
+00:00:45,235 --> 00:00:46,475
+PART.2: Sí, fabulosas, sí.
+
+21
+00:00:47,195 --> 00:00:51,035
+PART.1: En "Systems", te ponía
+el Power Point y se ponía...
+
+22
+00:00:51,035 --> 00:00:58,635
+PART.1: No sé cómo hacíamos eso,
+a nosotros nos ponía el Power Point
+y se iba detrás de la clase e iba hablando así,
+después de comer.
+
+23
+00:00:58,635 --> 00:01:02,275
+PART.1: Creo que las daba después
+de comer, a las 3 o las 4 o así,
+se ponía detrás.
+

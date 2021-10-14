@@ -1,0 +1,72 @@
+80
+00:04:02,294 --> 00:04:08,174
+PART.2: Y herbívoro no es un subtipo de omnívoro,
+¿eh?, o sea, puedes en plan... ¿es omnívoro o
+herbívoro?
+
+81
+00:04:08,254 --> 00:04:12,854
+PART.1: No, es herbívoro, lo que pasa que he pensado
+a ver si el bicho... o sea...
+
+82
+00:04:09,094 --> 00:04:09,934
+PART.2: Es herbívoro.
+
+83
+00:04:14,334 --> 00:04:16,574
+PART.2: Vale, te ha costado pensarlo, eso es
+información.
+
+84
+00:04:17,694 --> 00:04:19,374
+PART.1: Eso es la información de mi ignorancia.
+
+85
+00:04:20,614 --> 00:04:21,894
+PART.1: No... no más.
+
+86
+00:04:22,494 --> 00:04:25,094
+PART.2: A ver, es herbívoro y es de
+bosque...
+
+87
+00:04:35,054 --> 00:04:39,774
+PART.2: ¿La estatura del animal es baja,
+mediana o alta, en plan...?
+
+88
+00:04:39,854 --> 00:04:41,094
+PART.2: Bueno, esto es sí o no.
+
+89
+00:04:41,174 --> 00:04:46,214
+PART.2: ¿El animal es más bajo... o sea, el
+animal me llega a este palmo, de altura?
+
+90
+00:04:50,574 --> 00:04:51,254
+PART.1: No.
+
+91
+00:04:51,334 --> 00:04:52,574
+PART.2: En adulto no me llega.
+
+92
+00:04:53,694 --> 00:04:54,734
+PART.1: No, en adulto te pasa.
+
+93
+00:04:55,214 --> 00:04:56,494
+PART.2: En adulto me pasa...
+
+94
+00:04:56,854 --> 00:04:59,734
+PART.2: Es un animal de bosque que en adulto
+me pasa de esta altura.
+
+95
+00:04:59,814 --> 00:05:00,494
+PART.1: Sí.
+

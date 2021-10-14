@@ -1,0 +1,66 @@
+24
+00:01:00,983 --> 00:01:02,543
+PART.2: No creo que alguien se lo coma.
+
+25
+00:01:03,183 --> 00:01:03,823
+PART.1: A ver...
+
+26
+00:01:03,903 --> 00:01:05,463
+PART.2: ¿Llevas tú cuenta de cuántas
+preguntas?
+
+27
+00:01:04,983 --> 00:01:05,943
+PART.1: Seis.
+
+28
+00:01:06,743 --> 00:01:09,623
+PART.1: Un reptil mediano, eso de
+mediano...
+
+29
+00:01:11,503 --> 00:01:13,023
+PART.1: ¿Y con cuatro patas?
+
+30
+00:01:18,783 --> 00:01:19,703
+PART.1: ¿Verde?
+
+31
+00:01:21,223 --> 00:01:22,223
+PART.2: Sí.
+
+32
+00:01:24,623 --> 00:01:27,863
+PART.2: Esa pregunta es muy interesante,
+pero no te puedo dar más datos.
+
+33
+00:01:27,943 --> 00:01:28,663
+PART.1: Ya.
+
+34
+00:01:29,023 --> 00:01:32,223
+PART.1: El de antes que me ha tocado no
+puede ser, porque es grande.
+
+35
+00:01:43,103 --> 00:01:44,223
+PART.1: Uf, no me sale ninguno.
+
+36
+00:01:44,303 --> 00:01:45,503
+PART.1: No pienso en ninguno, ¿eh?
+
+37
+00:01:51,143 --> 00:01:55,783
+PART.1: Verde me has dicho que sí, me has
+dicho mediano, de cuatro patas.
+
+38
+00:01:55,863 --> 00:01:57,903
+PART.1: Me tiene despistadísima lo de las
+cuatro patas.
+

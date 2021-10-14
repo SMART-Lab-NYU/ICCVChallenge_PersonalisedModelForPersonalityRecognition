@@ -1,0 +1,424 @@
+﻿1
+00:00:00,000 --> 00:00:00,560
+PART.2: Perfecto.
+
+2
+00:00:00,520 --> 00:00:01,760
+PART.1: ¿Hacemos una y una?
+
+3
+00:00:01,840 --> 00:00:03,560
+PART.2: Sí, sí, si quieres,
+empiezas.
+
+4
+00:00:03,640 --> 00:00:04,680
+PART.1: Vale. Okey.
+
+5
+00:00:04,760 --> 00:00:06,800
+PART.1: Era coger el que está
+bien...
+
+6
+00:00:07,280 --> 00:00:08,680
+PART.2: O el que no aparece.
+
+7
+00:00:08,280 --> 00:00:09,640
+PART.1: O el que no aparece.
+
+8
+00:00:09,880 --> 00:00:11,120
+PART.1: Madre mía.
+
+9
+00:00:10,640 --> 00:00:12,640
+PART.2: Sí, sí, está súper súper
+difícil esto.
+
+10
+00:00:14,000 --> 00:00:15,120
+PART.1: No.
+
+11
+00:00:15,200 --> 00:00:16,200
+PART.1: Sí.
+
+12
+00:00:17,000 --> 00:00:21,040
+PART.1: Sí. Ya, ya empezamos mal.
+Te toca. Empezamos mal.
+
+13
+00:00:21,800 --> 00:00:22,960
+PART.1: Ah, este.
+
+14
+00:00:22,640 --> 00:00:23,640
+PART.2: Ese.
+
+15
+00:00:25,640 --> 00:00:27,840
+PART.1: Estas son las que más
+fácil se pillan.
+
+16
+00:00:31,000 --> 00:00:31,920
+PART.2: Este.
+
+17
+00:00:32,000 --> 00:00:34,000
+PART.1: La botella, sí. Sí, sí.
+
+18
+00:00:38,640 --> 00:00:39,600
+PART.1: Libro.
+
+19
+00:00:39,320 --> 00:00:40,320
+PART.2: Libro.
+
+20
+00:00:40,280 --> 00:00:41,320
+PART.1: Eso es.
+
+21
+00:00:40,960 --> 00:00:42,000
+PART.2: Sí, sí.
+
+22
+00:00:42,560 --> 00:00:44,920
+PART.1: Bueno, escucha una
+táctica. ¿Me toca a mí?
+
+23
+00:00:45,000 --> 00:00:46,160
+PART.2: Sí, sí, te toca.
+
+24
+00:00:48,880 --> 00:00:50,320
+PART.1: Verde. Sí.
+
+25
+00:00:52,800 --> 00:00:53,840
+PART.1: Ah, no.
+
+26
+00:00:59,120 --> 00:01:00,640
+PART.2: Ese me quedó más cerca,
+el ratón.
+
+27
+00:01:00,800 --> 00:01:02,760
+PART.1: Sí. Ah, ratón.
+
+28
+00:01:02,480 --> 00:01:03,680
+PART.2: Ratón.
+
+29
+00:01:09,280 --> 00:01:11,600
+PART.1: Y ahora la silla... Es
+que...
+
+30
+00:01:13,000 --> 00:01:14,520
+PART.2: Si es que, no sé...
+
+31
+00:01:15,600 --> 00:01:16,720
+PART.1: No, la silla.
+
+32
+00:01:19,880 --> 00:01:24,680
+PART.1: Ahora tú. Madre mía, vaya
+paliza. Qué paliza.
+
+33
+00:01:25,480 --> 00:01:26,640
+PART.1: El libro.
+
+34
+00:01:27,200 --> 00:01:29,480
+PART.2: Vale, botella. Está bien
+la botella.
+
+35
+00:01:34,120 --> 00:01:35,280
+PART.1: Tú, ¿no? ¿O yo?
+
+36
+00:01:34,960 --> 00:01:36,440
+PART.2: Eh... Tú.
+
+37
+00:01:38,800 --> 00:01:39,960
+PART.1: Ratón.
+
+38
+00:01:40,880 --> 00:01:42,840
+PART.1: Hombre, no me queda tan
+mal.
+
+39
+00:01:45,560 --> 00:01:46,520
+PART.2: Ratón.
+
+40
+00:01:46,600 --> 00:01:47,600
+PART.1: Sí.
+
+41
+00:01:49,200 --> 00:01:50,920
+PART.1: Y la última.
+
+42
+00:01:51,120 --> 00:01:52,600
+PART.1: Ah, fantasma.
+
+43
+00:01:54,720 --> 00:01:56,200
+PART.1: Pues mira, has ganado
+una.
+
+44
+00:01:56,280 --> 00:01:57,720
+PART.2: Primera vez que gano.
+
+45
+00:01:57,360 --> 00:01:58,920
+PART.1: La práctica, ya está.
+
+46
+00:01:59,360 --> 00:02:00,720
+PART.2: Después de cuatro...
+
+47
+00:02:00,800 --> 00:02:02,360
+PART.1: ¿Esta es la cuarta o la
+quinta?
+
+48
+00:02:02,440 --> 00:02:03,400
+PART.2: Esta es la cuarta.
+
+49
+00:02:03,480 --> 00:02:04,840
+PART.1: Ah, esta es la tercera.
+
+50
+00:02:04,920 --> 00:02:08,480
+PART.2: En dos horas, me toca la
+quinta, en una hora.
+
+51
+00:02:09,680 --> 00:02:11,080
+PART.2: Y ya se termina.
+
+52
+00:02:11,160 --> 00:02:13,280
+PART.1: Qué guay. La primera sí
+me costó un montón.
+
+53
+00:02:13,560 --> 00:02:15,440
+PART.2: Sí, sí, está superdifícil
+eso.
+
+54
+00:02:15,520 --> 00:02:16,720
+PART.1: Qué fuerte, sí, sí.
+
+55
+00:02:16,800 --> 00:02:23,480
+PART.1: Ayer le preguntaba a la
+otra chica: "¿Para qué edad será
+este juego?". Porque, vamos a ver,
+para niños tan pequeños, no.
+
+56
+00:02:23,560 --> 00:02:27,280
+PART.2: 8, creo. Me dijo Javi que
+es el mínimo, 8.
+
+57
+00:02:28,000 --> 00:02:30,000
+PART.2: No, sí, pero está muy muy
+complicado.
+
+58
+00:02:30,320 --> 00:02:34,000
+PART.2: Porque vas esperando la
+que no es y, de repente, sale esta.
+
+59
+00:02:34,080 --> 00:02:36,000
+PART.1: Sale esta. Es la
+relación.
+
+60
+00:02:35,040 --> 00:02:36,320
+PART.2: La que está bien.
+
+61
+00:02:36,440 --> 00:02:40,800
+PART.1: Forma, color. Uno se
+queda con lo que ves aquí.
+
+62
+00:02:40,880 --> 00:02:42,720
+PART.2: Sí, sí, sí.
+
+63
+00:02:44,240 --> 00:02:45,480
+PART.1: Está guay.
+
+64
+00:02:46,720 --> 00:02:47,920
+PART.1: ¡Bien!
+
+65
+00:02:50,160 --> 00:02:51,520
+PART.2: Sí.
+
+66
+00:02:51,720 --> 00:02:53,240
+PART.1: Después, ¿vuelves a
+México?
+
+67
+00:02:53,320 --> 00:02:55,160
+PART.2: Sí, sí, en mayo.
+
+68
+00:02:55,240 --> 00:02:56,840
+PART.1: ¿A buscar trabajo allí y
+todo?
+
+69
+00:02:56,920 --> 00:03:00,400
+PART.2: Sí, en mayo, ya tengo un
+año más de doctorado,
+
+70
+00:03:00,480 --> 00:03:05,520
+PART.2: entonces, en ese año, espero que
+todo lo que obtenga aquí, me sirva
+para finalizar.
+
+71
+00:03:05,600 --> 00:03:08,200
+PART.2: Y ya, llegando allá, un
+año a buscar trabajo.
+
+72
+00:03:08,280 --> 00:03:11,600
+PART.1: Claro, es que, a final,
+tienes que ir a buscar tu título y
+tu de esto.
+
+73
+00:03:11,680 --> 00:03:12,920
+PART.2: Ajá, sí, sí, sí.
+
+74
+00:03:13,000 --> 00:03:14,040
+PART.1: Ya, terminar.
+
+75
+00:03:14,120 --> 00:03:16,320
+PART.2: Sí, terminar allí y ya.
+Quiero la docencia.
+
+76
+00:03:17,240 --> 00:03:22,440
+PART.2: Hay algunas universidades
+allí en las que he metido
+currículum, entonces, quiero
+seguir...
+
+77
+00:03:22,520 --> 00:03:23,800
+PART.1: Ajá, hay posibilidades.
+
+78
+00:03:23,880 --> 00:03:25,760
+PART.2: ...en eso de la
+investigación.
+
+79
+00:03:25,840 --> 00:03:27,800
+PART.1: ¿Se consigue trabajo en
+México?
+
+80
+00:03:28,080 --> 00:03:31,040
+PART.2: Eh... Es difícil, es
+difícil.
+
+81
+00:03:31,120 --> 00:03:38,320
+PART.2: En la ciudad de México,
+es muy peleado, es más fácil afuera,
+afuera es superfácil conseguir.
+
+82
+00:03:38,520 --> 00:03:41,840
+PART.2: Una universidad en la que
+quiero está como a una hora de
+México.
+
+83
+00:03:45,680 --> 00:03:50,280
+PART.2: Entonces, es más fácil en
+una provincia; en la ciudad de
+México es muy muy peleado.
+
+84
+00:03:50,480 --> 00:03:52,280
+PART.2: Y los sueldos no son tan
+buenos.
+
+85
+00:03:52,360 --> 00:03:53,440
+PART.1: No son tan buenos.
+
+86
+00:03:53,520 --> 00:03:55,160
+PART.2: Sí, sí. Es el problema.
+
+87
+00:03:55,240 --> 00:03:59,440
+PART.2: Bueno, pero, para nuestra
+economía, los sueldos están
+competitivos.
+
+88
+00:03:59,680 --> 00:04:02,560
+PART.1: Sí, bueno, sí, sí. Al
+final, sigues estudiando...
+
+89
+00:04:02,640 --> 00:04:11,160
+PART.2: Sí, ya me vine para acá,
+con mi beca de allá, se hace nada,
+nada, muy muy poco, ahora estoy muy
+restringido aquí.
+
+90
+00:04:11,240 --> 00:04:17,240
+PART.1: Justo, mi amiga de Chile,
+también. Me dijo: "Me cambio de
+piso...", porque, claro, estudias o
+trabajas.
+
+91
+00:04:17,440 --> 00:04:19,560
+PART.1: Y, al final, vienes a
+terminar el doctorado.
+
+92
+00:04:19,640 --> 00:04:21,360
+PART.2: Sí, sí, es cierto.
+

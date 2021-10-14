@@ -1,0 +1,100 @@
+1
+00:00:01,511 --> 00:00:02,631
+PART.2: Muy bien.
+
+2
+00:00:03,711 --> 00:00:06,471
+PART.2: Comentabas que eres
+profesora de matemáticas.
+
+3
+00:00:06,551 --> 00:00:09,271
+PART.1: Sí. En Venezuela.
+
+4
+00:00:09,351 --> 00:00:10,351
+PART.2: ¿En Venezuela?
+
+5
+00:00:10,431 --> 00:00:12,071
+PART.1: Sí, bueno, era. Ya no.
+
+6
+00:00:12,831 --> 00:00:16,951
+PART.1: Me vine para acá y ya no ejerzo.
+
+7
+00:00:17,031 --> 00:00:20,631
+PART.1: Aunque yo ya estaba jubilada allá
+hacía mucho tiempo.
+
+8
+00:00:20,711 --> 00:00:21,391
+PART.2: ¡Ah!
+
+9
+00:00:21,471 --> 00:00:23,191
+PART.1: Di clases muchos años.
+
+10
+00:00:23,591 --> 00:00:24,751
+PART.2: Ah, qué bien.
+
+11
+00:00:24,831 --> 00:00:25,431
+PART.1: Sí.
+
+12
+00:00:25,511 --> 00:00:26,471
+PART.2: Qué bien, qué bien.
+
+13
+00:00:26,551 --> 00:00:32,831
+PART.1: Empecé muy jovencita y
+ahora tengo 63 años y pasé muchos
+años dando clases.
+
+14
+00:00:32,911 --> 00:00:37,831
+PART.2: Claro, claro. No te ves mayor
+como para ya haberte jubilado.
+
+15
+00:00:37,911 --> 00:00:39,751
+PART.1: Sí. Así me han dicho.
+
+16
+00:00:40,871 --> 00:00:44,751
+PART.1: Parece que el trópico
+no pone a la gente tan mayor.
+
+17
+00:00:44,831 --> 00:00:46,191
+PART.2: Tal como aquí, ¿no?
+
+18
+00:00:46,271 --> 00:00:48,711
+PART.1: Sí. Aquí vive la gente
+un poquito más arrugada.
+
+19
+00:00:48,791 --> 00:00:49,511
+PART.2: Sí.
+
+20
+00:00:49,591 --> 00:00:50,751
+PART.1: Y eso que ahí hay mucho sol, ¿no?
+
+21
+00:00:50,831 --> 00:00:51,751
+PART.2: Sí, sí, sí.
+
+22
+00:00:52,191 --> 00:00:57,911
+PART.2: Y eran matemáticas de primaria,
+¿para qué edades?
+
+23
+00:00:57,991 --> 00:01:02,551
+PART.1: No. De 16 años para arriba.
+

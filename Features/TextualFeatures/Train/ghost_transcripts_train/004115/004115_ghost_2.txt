@@ -1,0 +1,53 @@
+13
+00:02:01,479 --> 00:02:02,399
+PART.2: ¿Javi?
+
+14
+00:02:03,279 --> 00:02:04,559
+PART.1: Se ha ido a tomar un café.
+
+15
+00:02:05,439 --> 00:02:14,719
+PART.2: No está fuera mirando su "paper".
+Deberíamos tener un botón aquí.
+
+16
+00:02:15,399 --> 00:02:18,999
+PART.1: Para darle "electroshock". ¿Esto
+se podrá girar?
+
+17
+00:02:23,199 --> 00:02:27,479
+PART.2: Vale. Esto es para todo el mundo,
+¿no? No hay ninguna cosa mágica
+que...
+
+18
+00:02:27,559 --> 00:02:38,759
+PART.1: Hay gente trabajando en
+paralelizarlo. Y la forma de hacerlo
+es matemáticas. Tienes que saber
+mucho. Manejar algebraica muy bien
+para entenderlo.
+
+19
+00:02:38,839 --> 00:02:46,319
+PART.1: Ha habido muchos intentos, pero al
+final nada ha cuajado todavía.
+
+20
+00:02:46,399 --> 00:02:47,399
+PART.2: Vale.
+
+21
+00:02:48,719 --> 00:02:57,439
+PART.1: Hace poco, tres semanas, hubo
+aquí un seminario en la facultad y
+dimos una charla dos chicos. Uno que
+está haciendo la tesis y yo.
+
+22
+00:02:57,519 --> 00:03:00,439
+PART.2: ¿En serio? Debería hablar más con
+vosotros.
+

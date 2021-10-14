@@ -1,0 +1,122 @@
+1
+00:00:00,000 --> 00:00:00,591
+PART.2:  A ver.
+
+2
+00:00:00,911 --> 00:00:02,191
+PART.1: Eh, esta.
+
+3
+00:00:02,271 --> 00:00:02,991
+PART.1: No, sí.
+
+4
+00:00:02,391 --> 00:00:02,991
+PART.2:  Sí.
+
+5
+00:00:03,071 --> 00:00:04,031
+PART.1: Esta, vale.
+
+6
+00:00:04,111 --> 00:00:05,631
+PART.2:  Luego hay que buscar esta.
+
+7
+00:00:06,111 --> 00:00:07,191
+PART.2:  Ah, no.
+
+8
+00:00:07,871 --> 00:00:10,391
+PART.2:  Es como esta gris, pero que tiene
+que tener dos.
+
+9
+00:00:11,671 --> 00:00:12,551
+PART.1: No.
+
+10
+00:00:15,231 --> 00:00:18,831
+PART.1: Tú busca esa y yo voy buscando
+otras.
+
+11
+00:00:19,991 --> 00:00:21,231
+PART.2:  Esa no está, eh.
+
+12
+00:00:21,791 --> 00:00:23,751
+PART.1: Esta es granate, está sí, esta
+vale.
+
+13
+00:00:23,831 --> 00:00:25,511
+PART.1: Esta dice que vaya aquí.
+
+14
+00:00:29,031 --> 00:00:30,991
+PART.1: ¿No está? A lo mejor es solo por
+un lado.
+
+15
+00:00:31,431 --> 00:00:32,671
+PART.1: A ver.
+
+16
+00:00:32,751 --> 00:00:34,671
+PART.2:  A lo mejor no, será esta negra.
+
+17
+00:00:35,031 --> 00:00:36,471
+PART.1: Sí, tiene pinta.
+
+18
+00:00:36,871 --> 00:00:37,551
+PART.2:  Ahí.
+
+19
+00:00:37,631 --> 00:00:39,511
+PART.1: Y la otra tiene que ser como
+granate.
+
+20
+00:00:40,231 --> 00:00:41,271
+PART.2:  Granate.
+
+21
+00:00:41,351 --> 00:00:42,151
+PART.1: Como esta.
+
+22
+00:00:42,231 --> 00:00:43,431
+PART.2:  Eso será marrón.
+
+23
+00:00:43,511 --> 00:00:44,151
+PART.1: No, espera.
+
+24
+00:00:44,231 --> 00:00:44,791
+PART.2:  ¿No?
+
+25
+00:00:44,871 --> 00:00:45,751
+PART.2:  Esa, vale.
+
+26
+00:00:46,511 --> 00:00:48,751
+PART.1: A ver, en el medio.
+
+27
+00:00:50,111 --> 00:00:51,111
+PART.2:  Vale.
+
+28
+00:00:51,191 --> 00:00:56,311
+PART.2:  Y ahora tenemos que buscar esta,
+que es de cuatro, y se pone aquí.
+
+29
+00:00:58,511 --> 00:01:00,351
+PART.2:  Y la roja en esa de cuatro.
+

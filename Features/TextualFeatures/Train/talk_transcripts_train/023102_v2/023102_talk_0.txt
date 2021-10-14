@@ -1,0 +1,81 @@
+1
+00:00:00,851 --> 00:00:01,451
+PART.1: Vale.
+
+2
+00:00:02,251 --> 00:00:03,491
+PART.2: ¿Quieres empezar o
+empiezo yo?
+
+3
+00:00:03,851 --> 00:00:06,651
+PART.1: Tú, creo que estás más
+familiarizada.
+
+4
+00:00:07,091 --> 00:00:14,931
+PART.2: Sí. Pues yo soy Raquel,
+tengo 26 años y soy investigadora en
+el BSC, en el Barcelona
+Supercomputing Center.
+
+5
+00:00:15,011 --> 00:00:15,611
+PART.1: Ok.
+
+6
+00:00:15,691 --> 00:00:22,971
+PART.2: Y llegué aquí por un
+profesor del
+máster que nos sugirió muy fuerte
+que nos apuntáramos.
+
+7
+00:00:25,731 --> 00:00:27,091
+PART.1: Bueno, yo soy Elvira.
+
+8
+00:00:28,731 --> 00:00:29,611
+PART.1: Estoy...
+
+9
+00:00:30,411 --> 00:00:33,131
+PART.1: Bueno, llegué aquí, la
+verdad, lo vi en internet.
+
+10
+00:00:33,451 --> 00:00:40,291
+PART.1: O sea, me inscribí a una
+cosa donde te envían este tipo de
+cosas y me llegó y me pareció muy
+interesante.
+
+11
+00:00:41,331 --> 00:00:49,971
+PART.1: Lo había enviado hace
+mucho tiempo y, al final, recién
+respondieron y bueno, dije voy a
+participar, me parece algo
+interesante.
+
+12
+00:00:50,371 --> 00:00:51,251
+PART.2: Es divertido.
+
+13
+00:00:52,131 --> 00:00:54,531
+PART.1: Algo que nunca he hecho,
+entonces me pareció interesante.
+
+14
+00:00:55,411 --> 00:00:58,851
+PART.1: Y bueno, yo
+soy de Ecuador.
+
+15
+00:00:59,331 --> 00:01:09,491
+PART.1: Estoy haciendo un máster aquí, en
+Barcelona, y me quedé haciendo unas
+prácticas y bueno, ahí vamos viendo
+qué sale.
+

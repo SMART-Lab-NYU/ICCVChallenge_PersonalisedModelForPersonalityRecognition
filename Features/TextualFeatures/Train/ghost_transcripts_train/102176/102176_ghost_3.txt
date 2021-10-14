@@ -1,0 +1,13 @@
+45
+00:03:00,452 --> 00:03:01,372
+PART.1: Qué mal.
+
+46
+00:03:03,052 --> 00:03:06,932
+PART.1: Ay, pues yo me he
+malacostumbrado a levantarme tarde.
+
+47
+00:03:07,332 --> 00:03:07,852
+PART.2: Sí.
+

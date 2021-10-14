@@ -1,0 +1,143 @@
+58
+00:02:00,667 --> 00:02:02,760
+PART.1: "Es que no creo que lo
+que estoy dando me [MASKED]
+
+59
+00:02:04,759 --> 00:02:05,584
+PART.2: [MASKED] est� bien.
+
+60
+00:02:05,626 --> 00:02:06,167
+PART.1: Prefiero no...
+
+61
+00:02:07,126 --> 00:02:09,376
+PART.1: Tambi�n decirte que...
+
+62
+00:02:09,584 --> 00:02:13,751
+PART.1: Con las matem�ticas que
+se hacen en ingenier�a inform�tica,
+la verdad es que est� bien lo que hice, yo creo.
+
+63
+00:02:13,834 --> 00:02:14,084
+PART.2: �S�?
+
+64
+00:02:14,167 --> 00:02:16,584
+PART.1: Lo prefiero, porque las
+matem�ticas que se... Al menos...
+
+65
+00:02:16,626 --> 00:02:18,209
+PART.1: ...cuando yo hac�a la
+carrera aqu�,
+
+66
+00:02:18,501 --> 00:02:18,800
+PART.1: las que se ha [MASKED]
+
+67
+00:02:20,799 --> 00:02:21,792
+PART.1: [MASKED]
+matem�ticas muy...
+
+68
+00:02:22,626 --> 00:02:23,209
+PART.1: Muy...
+
+69
+00:02:23,292 --> 00:02:24,126
+PART.2: �Asequibles?
+
+70
+00:02:24,209 --> 00:02:27,584
+PART.1: Asequibles no. La verdad
+es que son demasiado f�ciles.
+
+71
+00:02:27,626 --> 00:02:28,334
+PART.2: Ya. Bueno.
+
+72
+00:02:28,501 --> 00:02:30,001
+PART.1: Prefiero recordar...
+Prefiero...
+
+73
+00:02:30,084 --> 00:02:32,626
+PART.1: Pero bueno, me lo
+contaban los que hac�an ingenier�a inform�tica.
+
+74
+00:02:32,709 --> 00:02:34,292
+PART.1: Es que a m�
+me las convalidaban con mates.
+
+75
+00:02:34,376 --> 00:02:35,667
+PART.1: Pero que...
+
+76
+00:02:35,751 --> 00:02:37,320
+PART.1: Tambi�n, los profesores,
+aqu�,
+
+77
+00:02:39,319 --> 00:02:41,251
+PART.1: Que dicen que era eso,
+que...
+
+78
+00:02:41,584 --> 00:02:45,501
+PART.1: Que cuando van a...
+Cuando les obligan a ir a dar clases
+a los inform�ticos,
+
+79
+00:02:45,584 --> 00:02:47,417
+PART.1: pues van con pocas ganas
+
+80
+00:02:47,501 --> 00:02:48,917
+PART.1: y van ah� como
+diciendo...
+
+81
+00:02:49,001 --> 00:02:50,917
+PART.1: "Yo, bah.
+Les hago un test y ya est�".
+
+82
+00:02:51,001 --> 00:02:52,584
+PART.2: �T� cu�ndo la acabaste?
+
+83
+00:02:52,626 --> 00:02:53,501
+PART.2: �En qu� a�o la acabaste?
+
+84
+00:02:53,584 --> 00:02:55,001
+PART.1: Yo la acab�
+hace dos a�os.
+
+85
+00:02:55,084 --> 00:02:55,513
+PART.2: �Hace dos a�os?
+
+86
+00:02:55,613 --> 00:02:56,042
+PART.1: S�.
+
+87
+00:02:56,126 --> 00:02:58,292
+PART.2: Yo estaba en primero.
+Acababa de entrar justo.
+
+88
+00:02:58,376 --> 00:03:00,126
+PART.2: Entonces,
+bueno, pues no s�.
+

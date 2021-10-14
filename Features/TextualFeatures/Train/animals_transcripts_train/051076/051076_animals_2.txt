@@ -1,0 +1,52 @@
+40
+00:02:01,303 --> 00:02:06,423
+PART.1: A: Vale.
+¿Soy de un tamaño...
+pequeño?
+
+41
+00:02:06,503 --> 00:02:07,303
+PART.2: B: No.
+
+42
+00:02:09,223 --> 00:02:10,903
+PART.2: B: Yo iba a hacer esa.
+
+43
+00:02:12,143 --> 00:02:15,343
+PART.2: B:
+¿Yo soy pequeñito? Tamaño menos
+que así.
+
+44
+00:02:20,183 --> 00:02:22,343
+PART.1: A:
+No llega a ser muy pequeñito.
+
+45
+00:02:24,903 --> 00:02:26,583
+PART.2: B: Pero no es grande.
+
+46
+00:02:28,823 --> 00:02:29,943
+PART.1: A: A ver.
+
+47
+00:02:34,303 --> 00:02:35,503
+PART.1: A: ¿Tengo cuernos?
+
+48
+00:02:36,423 --> 00:02:37,703
+PART.2: B: No.
+
+49
+00:02:40,583 --> 00:02:42,503
+PART.2: B: ¿Soy un animal
+nocturno?
+
+50
+00:02:46,543 --> 00:02:49,223
+PART.1: A:
+No te "característica"
+especialmente.
+

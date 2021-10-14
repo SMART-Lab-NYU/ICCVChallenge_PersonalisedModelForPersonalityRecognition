@@ -1,0 +1,86 @@
+16
+00:01:00,888 --> 00:01:03,728
+PART.1: Mierda, me he liado otra vez.
+
+17
+00:01:03,808 --> 00:01:04,928
+PART.2: Libro.
+
+18
+00:01:05,008 --> 00:01:06,008
+PART.1: Para ti.
+
+19
+00:01:07,248 --> 00:01:08,728
+PART.1: El ratón me ha fallado.
+
+20
+00:01:07,928 --> 00:01:08,688
+PART.2: ¿Y ahora?
+
+21
+00:01:14,528 --> 00:01:16,128
+PART.2: Decisiva esta, eh.
+
+22
+00:01:16,208 --> 00:01:16,888
+PART.1: Venga.
+
+23
+00:01:16,968 --> 00:01:18,208
+PART.1: Pim, pam.
+
+24
+00:01:18,568 --> 00:01:19,968
+PART.2: Mierda.
+
+25
+00:01:20,048 --> 00:01:21,408
+PART.1: Ja ja ja ja, he ganado.
+
+26
+00:01:21,488 --> 00:01:23,408
+PART.2: No hacer nada.
+
+27
+00:01:23,488 --> 00:01:25,848
+PART.1: A veces es mejor no hacer nada.
+
+28
+00:01:25,928 --> 00:01:26,888
+PART.2: ¿Cuál era, qué era?
+
+29
+00:01:26,968 --> 00:01:28,208
+PART.2: Es la última, ¿no?
+
+30
+00:01:28,288 --> 00:01:29,528
+PART.1: El libro azul.
+
+31
+00:01:29,328 --> 00:01:30,208
+PART.2: El libro azul, era.
+
+32
+00:01:30,008 --> 00:01:30,648
+PART.1: Sí.
+
+33
+00:01:30,728 --> 00:01:32,968
+PART.1: A veces la mejor opción es dejar
+que el oponente la líe.
+
+34
+00:01:33,048 --> 00:01:34,888
+PART.1: Ponerle nervioso.
+
+35
+00:01:34,968 --> 00:01:36,728
+PART.2: No gana el que más acierta sino el
+que menos falla.
+
+36
+00:01:36,808 --> 00:01:37,968
+PART.1: Sí, exacto.
+

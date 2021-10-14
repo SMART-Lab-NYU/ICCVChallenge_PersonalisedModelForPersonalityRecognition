@@ -1,0 +1,151 @@
+1
+00:00:00,000 --> 00:00:00,662
+PART.2: Ok.
+
+2
+00:00:00,742 --> 00:00:02,062
+PART.2: Mi nombre es Valeria.
+
+3
+00:00:02,142 --> 00:00:03,262
+PART.1: Valeria, vale.
+
+4
+00:00:03,342 --> 00:00:03,742
+PART.2: ¿Y el tuyo?
+
+5
+00:00:03,822 --> 00:00:04,462
+PART.1: Mari.
+
+6
+00:00:04,542 --> 00:00:05,222
+PART.2: Mucho gusto.
+
+7
+00:00:05,302 --> 00:00:06,582
+PART.2: Encantada, ¿de dónde eres?
+
+8
+00:00:06,662 --> 00:00:07,542
+PART.2: Nicaragua.
+
+9
+00:00:07,622 --> 00:00:07,942
+PART.2: Ajá.
+
+10
+00:00:08,022 --> 00:00:09,422
+PART.2: Sí, vos sois española, ¿no?
+
+11
+00:00:09,502 --> 00:00:10,742
+PART.1: No, yo soy de Venezuela.
+
+12
+00:00:10,822 --> 00:00:12,342
+PART.2: ¿Sí? ¡Ah!
+
+13
+00:00:12,422 --> 00:00:14,782
+PART.2: Qué bien,
+yo juraba que eras española.
+
+14
+00:00:14,862 --> 00:00:15,862
+PART.1: No, no.
+
+15
+00:00:15,942 --> 00:00:17,222
+PART.1: ¿Y cuánto tiempo tienes aquí?
+
+16
+00:00:19,022 --> 00:00:21,302
+PART.2: A ver, como 10 meses.
+
+17
+00:00:21,382 --> 00:00:22,182
+PART.1: Ah, ok, ok.
+
+18
+00:00:21,742 --> 00:00:23,342
+PART.2: Nueve o algo así.
+
+19
+00:00:23,422 --> 00:00:25,062
+PART.1: Pero viniste acá de estudiante.
+
+20
+00:00:25,142 --> 00:00:28,022
+PART.2: Sí, a hacer mi máster
+y pues...
+
+21
+00:00:28,102 --> 00:00:29,062
+PART.1: ¿De qué área?
+
+22
+00:00:29,142 --> 00:00:29,702
+PART.2: Finanzas.
+
+23
+00:00:29,782 --> 00:00:31,182
+PART.1: Ay, qué bueno.
+
+24
+00:00:31,262 --> 00:00:37,662
+PART.2: Ya y justo ayer entregué mi tesis,
+así que ya se acaba.
+
+25
+00:00:37,742 --> 00:00:38,942
+PART.1: ¿Y qué edad tienes?
+
+26
+00:00:39,222 --> 00:00:40,102
+PART.2: 25.
+
+27
+00:00:40,182 --> 00:00:42,582
+PART.1: Ay, eres una niña,
+qué bueno, qué bueno.
+
+28
+00:00:42,662 --> 00:00:43,182
+PART.2: ¿Y vos?
+
+29
+00:00:43,182 --> 00:00:44,382
+PART.1: Yo tengo 42.
+
+30
+00:00:44,622 --> 00:00:46,262
+PART.2: Pero no lo parece.
+
+31
+00:00:46,342 --> 00:00:46,822
+PART.1: ¿No?
+
+32
+00:00:46,502 --> 00:00:47,302
+PART.2: Para nada.
+
+33
+00:00:47,662 --> 00:00:48,702
+PART.1: Gracias.
+
+34
+00:00:48,782 --> 00:00:52,622
+PART.1: Pero que bueno, y eso que te
+viniste de Nicaragua para acá, ¿no?
+
+35
+00:00:53,142 --> 00:00:54,142
+PART.1: O sea...
+
+36
+00:00:54,222 --> 00:01:03,422
+PART.2: Yo sabía que para mi máster tenía
+que salir de América,
+eso era lo principal,
+

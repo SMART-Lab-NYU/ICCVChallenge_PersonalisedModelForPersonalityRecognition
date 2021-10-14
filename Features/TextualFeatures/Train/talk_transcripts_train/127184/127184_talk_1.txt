@@ -1,0 +1,120 @@
+35
+00:01:02,694 --> 00:01:04,421
+PART.1: I tu? Ets de Barcelona?
+
+36
+00:01:04,860 --> 00:01:05,581
+PART.2: No, soc de Reus.
+
+37
+00:01:05,878 --> 00:01:06,757
+PART.2: PERSONA A. Ah! Així...
+
+38
+00:01:07,262 --> 00:01:10,933
+PART.2: Sí, sí, sí. Vaig venir aquí a estudiar a l'Autònoma,
+
+39
+00:01:11,717 --> 00:01:13,236
+PART.2: quan vaig començar Educació Primària,
+
+40
+00:01:13,454 --> 00:01:14,636
+PART.2: perquè faig tota la carrera en anglès...
+
+41
+00:01:15,117 --> 00:01:15,468
+PART.1: Val.
+
+42
+00:01:15,677 --> 00:01:16,186
+PART.2: I això sols es fa aquí
+
+43
+00:01:16,619 --> 00:01:19,259
+PART.2: I aleshores...
+
+44
+00:01:19,468 --> 00:01:20,171
+PART.1: Ets ganxet a baix?
+
+45
+00:01:20,354 --> 00:01:21,227
+PART.2: Sí, soc de ganxeta.
+
+46
+00:01:21,395 --> 00:01:22,907
+PART.2: Ben orgullosa!
+
+47
+00:01:23,363 --> 00:01:23,978
+PART.1: Oh! I tant!
+
+48
+00:01:24,171 --> 00:01:26,211
+PART.1: Faltaria més. Faltaria més.
+
+49
+00:01:26,834 --> 00:01:28,714
+PART.2: I de quin poble de les terres de l'Ebre ets?
+
+50
+00:01:28,846 --> 00:01:31,132
+PART.2: Perquè jo tinc una amiga de la carrera de les terres de l'Ebre.
+
+51
+00:01:31,860 --> 00:01:37,214
+PART.1: Jo soc de Ginestà -Tivissa al costat. Soc de Tivissa però vivia a Ginestà.
+
+52
+00:01:37,630 --> 00:01:41,086
+PART.2: No, no, la meva amiga... és que no m'enrecordo com es diu el poble
+
+53
+00:01:41,950 --> 00:01:42,910
+PART.1: Jo soc de la Ribera d'Ebre
+
+54
+00:01:43,454 --> 00:01:43,766
+PART.2: Ah!
+
+55
+00:01:44,597 --> 00:01:48,366
+PART.1: És la Ribera d'Ebre, diguéssim, des de Reus, Falset,
+
+56
+00:01:49,010 --> 00:01:49,688
+PART.2: Sí! Sí, sí!
+
+57
+00:01:49,767 --> 00:01:51,949
+PART.1: Mora... pues, al costadet de Mora.
+
+58
+00:01:52,478 --> 00:01:53,062
+PART.2: Ah, vale, vale
+
+59
+00:01:53,414 --> 00:01:53,695
+PART.1: Eh?
+
+60
+00:01:54,000 --> 00:01:54,511
+PART.2: Ah, està bé.
+
+61
+00:01:55,599 --> 00:01:55,831
+PART.1: Sí.
+
+62
+00:01:55,991 --> 00:01:56,766
+PART.2: I què has fet avui?
+
+63
+00:01:56,949 --> 00:01:58,806
+PART.1: Avui, poca cosa.
+
+64
+00:01:58,966 --> 00:02:00,134
+PART.1: Avui, poca cosa, estic de vacances.
+

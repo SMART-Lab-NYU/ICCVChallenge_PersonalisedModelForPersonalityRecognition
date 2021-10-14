@@ -1,0 +1,15 @@
+109
+00:05:00,217 --> 00:05:04,737
+PART.2: Hay un juguete de cartas que,
+cuando se ponen en la mesa cartas,
+
+110
+00:05:04,817 --> 00:05:07,777
+PART.2: tienes que batir
+la mano en la mesa.
+
+111
+00:05:07,857 --> 00:05:11,057
+PART.1: Sí. ¿El Uno?
+¿Cómo se llama ese...?
+

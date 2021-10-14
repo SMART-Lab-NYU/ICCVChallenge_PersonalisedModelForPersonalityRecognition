@@ -1,0 +1,633 @@
+1
+00:00:01,765 --> 00:00:02,405
+PART.1: Alex, ¿no?
+
+2
+00:00:02,485 --> 00:00:03,085
+PART.2: Sí, ¿y tú?
+
+3
+00:00:03,165 --> 00:00:03,765
+PART.1: Diego.
+
+4
+00:00:03,845 --> 00:00:04,805
+PART.2: Diego, muy bien.
+
+5
+00:00:05,005 --> 00:00:05,845
+PART.1: ¿Eres de México?
+
+6
+00:00:06,205 --> 00:00:06,845
+PART.2: Sí.
+
+7
+00:00:07,565 --> 00:00:08,205
+PART.2: ¿Y tú?
+
+8
+00:00:08,285 --> 00:00:10,245
+PART.1: Yo nací en México.
+
+9
+00:00:10,405 --> 00:00:11,125
+PART.2: Okey.
+
+10
+00:00:11,845 --> 00:00:15,405
+PART.1: Soy francés y me crié, aquí, en
+España.
+
+11
+00:00:16,645 --> 00:00:17,365
+PART.2: Okey.
+
+12
+00:00:17,525 --> 00:00:18,885
+PART.2: Eso explica el bigote.
+
+13
+00:00:19,485 --> 00:00:20,485
+PART.1: El bigote de...
+
+14
+00:00:21,085 --> 00:00:22,565
+PART.2: ¿Y por qué naciste en México?
+
+15
+00:00:23,165 --> 00:00:26,525
+PART.1: Mi mamá es mexicana y mis padres
+se conocieron en México.
+
+16
+00:00:27,085 --> 00:00:30,125
+PART.2: Con razón, con razón no detecto
+el acento en ti.
+
+17
+00:00:30,205 --> 00:00:32,885
+PART.1: No. Ya son muchas mezclas.
+
+18
+00:00:33,165 --> 00:00:35,165
+PART.2: Pero me imagino que no dices
+"Güey".
+
+19
+00:00:35,245 --> 00:00:35,645
+PART.1: No.
+
+20
+00:00:35,725 --> 00:00:37,965
+PART.2: Porque tu mamá no te enseña esas
+cosas feas.
+
+21
+00:00:38,205 --> 00:00:39,005
+PART.1: No, no, no.
+
+22
+00:00:41,565 --> 00:00:45,325
+PART.1: De hecho, muchas veces me siento
+poco mexicano cuando estoy con
+mexicanos por eso.
+
+23
+00:00:47,125 --> 00:00:50,365
+PART.2: No sé, la nacionalidad es algo...
+
+24
+00:00:52,005 --> 00:00:54,805
+PART.2: Es algo que uno se cree, no es
+algo que...
+
+25
+00:00:55,245 --> 00:00:55,725
+PART.1: Sí.
+
+26
+00:00:55,805 --> 00:00:58,085
+PART.2: No lo puedes demostrar, ¿no?
+
+27
+00:00:58,365 --> 00:01:01,845
+PART.1: Pero luego cuando te preguntan:
+"¿Bueno, de qué país vienes?".
+
+28
+00:01:01,925 --> 00:01:02,725
+PART.1: Es la cara...
+
+29
+00:01:02,805 --> 00:01:03,765
+PART.2: Complicado.
+
+30
+00:01:04,165 --> 00:01:04,845
+PART.1: Complicado.
+
+31
+00:01:06,645 --> 00:01:10,725
+PART.2: ¿Y de qué parte de México es tu
+mamá?
+
+32
+00:01:10,805 --> 00:01:13,285
+PART.1: Del D.F., bueno, de Toluca.
+
+33
+00:01:14,365 --> 00:01:15,485
+PART.2: Toluca.
+
+34
+00:01:17,085 --> 00:01:17,725
+PART.2: Muy bien.
+
+35
+00:01:18,285 --> 00:01:19,205
+PART.1: ¿Y de dónde eres?
+
+36
+00:01:19,285 --> 00:01:19,885
+PART.2: Del D.F.
+
+37
+00:01:19,965 --> 00:01:20,725
+PART.1: Del D.F. también.
+
+38
+00:01:21,325 --> 00:01:22,605
+PART.2: Pero no de Toluca.
+
+39
+00:01:25,085 --> 00:01:27,325
+PART.2: Pero ¿vas muy a menudo o no?
+
+40
+00:01:28,445 --> 00:01:28,845
+PART.1: No.
+
+41
+00:01:29,365 --> 00:01:30,165
+PART.1: La verdad es que no.
+
+42
+00:01:30,485 --> 00:01:36,045
+PART.1: A México la última vez que fui
+hará cuatro años.
+
+43
+00:01:37,685 --> 00:01:38,205
+PART.1: Sí.
+
+44
+00:01:40,485 --> 00:01:41,365
+PART.1: Y de eso...
+
+45
+00:01:42,565 --> 00:01:44,165
+PART.2: Pero también hablas francés, ¿no?
+
+46
+00:01:44,245 --> 00:01:44,725
+PART.1: Sí.
+
+47
+00:01:46,285 --> 00:01:49,765
+PART.2: Pero ¿creciste aquí en Cataluña?
+
+48
+00:01:49,845 --> 00:01:51,165
+PART.1: No, en Valencia.
+
+49
+00:01:52,125 --> 00:01:52,925
+PART.2: Ah, como el Javi.
+
+50
+00:01:55,565 --> 00:01:57,205
+PART.2: ¿Y hablas valenciano o algo así?
+
+51
+00:01:56,805 --> 00:01:57,445
+PART.1: No.
+
+52
+00:01:57,765 --> 00:01:58,845
+PART.2: Ni Dios lo quiera.
+
+53
+00:02:01,525 --> 00:02:03,405
+PART.1: No, no le veía interés.
+
+54
+00:02:04,245 --> 00:02:09,565
+PART.1: Tuve la oportunidad de tomar
+clases de valenciano, pero...
+
+55
+00:02:11,325 --> 00:02:15,725
+PART.1: Eso lo hablo aquí en Valencia y
+en Cataluña y luego ya...
+
+56
+00:02:17,165 --> 00:02:19,445
+PART.2: Ahora que lo veo y si lo pienso,
+sí.
+
+57
+00:02:20,405 --> 00:02:23,085
+PART.2: O sea, sí te veo como mexicano.
+
+58
+00:02:23,165 --> 00:02:23,725
+PART.1: ¿Como mexicano?
+
+59
+00:02:23,805 --> 00:02:24,885
+PART.2: Sí, tienes la pinta de...
+
+60
+00:02:24,965 --> 00:02:26,045
+PART.1: Los rasgos.
+
+61
+00:02:26,125 --> 00:02:26,845
+PART.2: Sí, sí.
+
+62
+00:02:27,765 --> 00:02:30,765
+PART.2: Bueno, hay como varios tipos,
+pero tú encajas en uno.
+
+63
+00:02:31,045 --> 00:02:32,685
+PART.2: No es tan como, pero encajas en
+uno.
+
+64
+00:02:33,085 --> 00:02:33,605
+PART.1: Ah.
+
+65
+00:02:34,045 --> 00:02:35,645
+PART.1: No sabía que había varios tipos.
+
+66
+00:02:36,165 --> 00:02:37,445
+PART.2: Sí.
+
+67
+00:02:37,525 --> 00:02:38,845
+PART.2: Bueno, no sé.
+
+68
+00:02:38,925 --> 00:02:40,445
+PART.2: O sea, yo sería como más del sur.
+
+69
+00:02:40,765 --> 00:02:41,445
+PART.1: Okey.
+
+70
+00:02:42,045 --> 00:02:43,405
+PART.2: Porque tampoco soy tan común.
+
+71
+00:02:43,485 --> 00:02:46,325
+PART.2: Bueno, por la nariz rechoncha,
+no sé.
+
+72
+00:02:44,725 --> 00:02:45,405
+PART.1: No, no.
+
+73
+00:02:46,605 --> 00:02:50,845
+PART.1: No, yo no te hubiera dicho
+mexicano, sino fuera porque no
+escuché tu acento.
+
+74
+00:02:49,885 --> 00:02:50,565
+PART.2: Sí, sí.
+
+75
+00:02:51,445 --> 00:02:52,085
+PART.2: Sí, sí, sí.
+
+76
+00:02:52,165 --> 00:02:52,845
+PART.2: No...
+
+77
+00:02:53,525 --> 00:02:55,125
+PART.2: Te digo, hay como varios tipos.
+
+78
+00:02:56,045 --> 00:02:59,925
+PART.2: O sea, hay un montón, pero, más o
+menos, los tienes bien ubicaditos.
+
+79
+00:03:01,205 --> 00:03:01,965
+PART.2: Igual los españoles.
+
+80
+00:03:02,045 --> 00:03:04,365
+PART.2: O sea, también tienen sus
+características.
+
+81
+00:03:03,245 --> 00:03:03,965
+PART.1: Ah, sí, sí.
+
+82
+00:03:04,445 --> 00:03:07,125
+PART.2: Los catalanes tienen sus rasgos.
+
+83
+00:03:06,085 --> 00:03:06,925
+PART.1: Los rasgos.
+
+84
+00:03:07,205 --> 00:03:07,645
+PART.2: Sí, sí.
+
+85
+00:03:09,365 --> 00:03:15,325
+PART.2: Pero te das cuenta, o sea, cuando
+vives con ellos y los identificas.
+
+86
+00:03:14,365 --> 00:03:15,005
+PART.1: Sí, ya...
+
+87
+00:03:16,645 --> 00:03:20,245
+PART.2: Más allá de la personalidad,
+hay como rasgos físicos, pero...
+
+88
+00:03:20,685 --> 00:03:21,685
+PART.2: Bueno, da igual, ¿eh?
+
+89
+00:03:23,285 --> 00:03:24,565
+PART.1: ¿Llevas mucho tiempo aquí?
+
+90
+00:03:24,965 --> 00:03:26,845
+PART.2: Pues ya voy a cumplir cuatro
+años.
+
+91
+00:03:26,925 --> 00:03:27,565
+PART.1: ¿Cuatro?
+
+92
+00:03:29,125 --> 00:03:29,645
+PART.1: Bastante.
+
+93
+00:03:30,205 --> 00:03:30,885
+PART.2: Sí.
+
+94
+00:03:33,205 --> 00:03:35,525
+PART.1: ¿Y viniste directamente aquí a
+Barcelona?
+
+95
+00:03:35,885 --> 00:03:36,565
+PART.2: Sí.
+
+96
+00:03:39,605 --> 00:03:41,285
+PART.1: Por los estudios, trabajo...
+
+97
+00:03:41,685 --> 00:03:43,045
+PART.2: Sí, para hacer el doctorado.
+
+98
+00:03:43,125 --> 00:03:44,005
+PART.1: Para hacer el doctorado.
+
+99
+00:03:44,085 --> 00:03:45,765
+PART.2: Que yo espero acabar este año y
+ya.
+
+100
+00:03:46,445 --> 00:03:47,485
+PART.2: A ver qué sigue.
+
+101
+00:03:49,725 --> 00:03:50,845
+PART.2: ¿Tú estás haciendo el máster?
+
+102
+00:03:50,925 --> 00:03:51,525
+PART.1: Sí, el máster.
+
+103
+00:03:51,605 --> 00:03:52,725
+PART.2: ¿Con este chico chileno?
+
+104
+00:03:52,805 --> 00:03:53,205
+PART.1: Sí.
+
+105
+00:03:54,605 --> 00:03:55,685
+PART.1: De Inteligencia Artificial.
+
+106
+00:03:59,765 --> 00:04:01,725
+PART.2: Entonces, ¿tu padre es francés?
+
+107
+00:04:01,805 --> 00:04:02,645
+PART.1: Mi padre es francés.
+
+108
+00:04:03,965 --> 00:04:08,245
+PART.1: Y me crié mucho con la cultura
+francesa.
+
+109
+00:04:08,325 --> 00:04:18,405
+PART.1: Iba a una escuela francesa y la
+familia era como más con la cultura
+francesa, la profesora francesa...
+
+110
+00:04:19,245 --> 00:04:19,925
+PART.1: No sé.
+
+111
+00:04:20,765 --> 00:04:22,085
+PART.2: ¿Y ahora que ha ganado
+el mundial?
+
+112
+00:04:22,365 --> 00:04:23,605
+PART.1: Y ahora que ha ganado el
+mundial...
+
+113
+00:04:23,685 --> 00:04:24,445
+PART.2: ¿Qué hiciste?
+
+114
+00:04:24,925 --> 00:04:25,725
+PART.1: Festejar.
+
+115
+00:04:27,365 --> 00:04:29,485
+PART.2: Y cuándo México se enfrenta
+a Francia, ¿qué piensas?
+
+116
+00:04:29,725 --> 00:04:32,005
+PART.1: Ahí voy con México.
+
+117
+00:04:33,005 --> 00:04:34,205
+PART.1: Cuando México...
+
+118
+00:04:37,525 --> 00:04:40,565
+PART.1: Cuando Francia, México,
+le voy más a México.
+
+119
+00:04:41,965 --> 00:04:44,405
+PART.2: Oye, pues yo creo que tengo más
+palabras españolas que tú.
+
+120
+00:04:49,045 --> 00:04:55,125
+PART.2: No, porque luego el problema
+de aquí, es que llegas, usas tus
+palabras como computadora y nadie te
+entiende.
+
+121
+00:04:54,725 --> 00:04:55,405
+PART.1: Ah, no.
+
+122
+00:04:55,805 --> 00:04:57,565
+PART.1: Mejor tienes ordenador.
+
+123
+00:04:58,205 --> 00:05:01,805
+PART.2: El ordenador es francesa,
+"l'ordinateur", o algo así.
+
+124
+00:05:01,885 --> 00:05:02,845
+PART.1: "L'ordinateur", sí.
+
+125
+00:05:03,005 --> 00:05:03,685
+PART.2: Sí.
+
+126
+00:05:03,925 --> 00:05:04,765
+PART.1: Pero...
+
+127
+00:05:07,285 --> 00:05:10,085
+PART.1: Tampoco tomé el acento español.
+
+128
+00:05:10,645 --> 00:05:12,605
+PART.2: Sí. No tienes nada de acento
+español, ¿eh?
+
+129
+00:05:12,965 --> 00:05:19,005
+PART.1: Tengo más acento mexicano que
+español, pero aún así el mexicano lo
+perdí.
+
+130
+00:05:20,085 --> 00:05:20,645
+PART.2: Ya.
+
+131
+00:05:21,885 --> 00:05:25,605
+PART.2: Bueno, no hay un estándar, ¿eh?
+
+132
+00:05:29,885 --> 00:05:33,205
+PART.2: Si te vas con los norteños, ellos
+dicen: "Está con madre".
+
+133
+00:05:33,765 --> 00:05:36,165
+PART.2: "¿Por qué dices está con madre?
+Eso no tiene sentido".
+
+134
+00:05:36,725 --> 00:05:38,445
+PART.2: Pero bueno, pinche norteño.
+
+135
+00:05:39,845 --> 00:05:40,445
+PART.2: No sé.
+
+136
+00:05:40,725 --> 00:05:41,765
+PART.1: Les dio mucho el sol.
+
+137
+00:05:44,525 --> 00:05:45,085
+PART.2: Sí.
+
+138
+00:05:45,165 --> 00:05:46,565
+PART.2: Les llegó a la cabeza.
+
+139
+00:05:53,605 --> 00:05:54,445
+PART.2: Pues qué raro.
+
+140
+00:05:54,685 --> 00:05:55,365
+PART.2: Qué raro.
+
+141
+00:05:55,525 --> 00:05:57,765
+PART.1: Sí. Son esas mezclas.
+
+142
+00:06:00,965 --> 00:06:01,965
+PART.1: ¿Y tu doctorado de qué es?
+
+143
+00:06:02,445 --> 00:06:03,525
+PART.2: En Inteligencia Artificial.
+
+144
+00:06:03,605 --> 00:06:04,125
+PART.1: ¿También?
+
+145
+00:06:04,565 --> 00:06:05,765
+PART.2: Bueno, en "Computer Vision".
+
+146
+00:06:05,845 --> 00:06:06,725
+PART.1: ¿"Computer Vision"?
+
+147
+00:06:12,045 --> 00:06:19,285
+PART.1: Yo, hasta ahora, de lo que he
+visto son de los temas que más me
+interesan.
+

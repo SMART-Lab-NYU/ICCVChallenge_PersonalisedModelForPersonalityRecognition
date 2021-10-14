@@ -1,0 +1,536 @@
+1
+00:00:00,547 --> 00:00:02,587
+PART.1: Empiezo yo porque has empezado tú
+antes.
+
+2
+00:00:02,667 --> 00:00:03,187
+PART.2: Empieza.
+
+3
+00:00:03,267 --> 00:00:04,067
+PART.1: Venga.
+
+4
+00:00:04,147 --> 00:00:04,987
+PART.2: Pregunta.
+
+5
+00:00:05,867 --> 00:00:07,667
+SUPERVISOR: Eh...
+
+6
+00:00:11,827 --> 00:00:12,947
+PART.1: Estoy pensando.
+
+7
+00:00:13,987 --> 00:00:15,267
+PART.1: Es sí o no, ¿no?
+
+8
+00:00:15,467 --> 00:00:16,067
+PART.2: Sí.
+
+9
+00:00:16,147 --> 00:00:17,387
+PART.1: Me cago en la puta.
+
+10
+00:00:18,547 --> 00:00:19,787
+PART.1: Eh...
+
+11
+00:00:21,507 --> 00:00:22,947
+PART.1: ¿Tiene pelo, mucho pelo?
+
+12
+00:00:23,307 --> 00:00:24,107
+PART.2: No.
+
+13
+00:00:24,787 --> 00:00:25,307
+PART.1: Vale.
+
+14
+00:00:25,387 --> 00:00:26,427
+PART.2: ¿El mío tiene pelo?
+
+15
+00:00:26,507 --> 00:00:27,507
+PART.1: Sí.
+
+16
+00:00:27,587 --> 00:00:28,947
+PART.1: Un montón.
+
+17
+00:00:30,507 --> 00:00:32,547
+PART.2: Eh...
+
+18
+00:00:34,227 --> 00:00:35,987
+PART.1: ¿Es de color negro?
+
+19
+00:00:36,067 --> 00:00:36,587
+PART.2: No.
+
+20
+00:00:37,027 --> 00:00:38,387
+PART.2: ¿Vivo en la selva?
+
+21
+00:00:45,747 --> 00:00:47,147
+PART.1: Es que no lo sé.
+
+22
+00:00:47,227 --> 00:00:48,067
+PART.2: Vamos.
+
+23
+00:00:48,147 --> 00:00:51,267
+PART.1: Creo, es que claro, selva, que hay
+selvas.
+
+24
+00:00:50,347 --> 00:00:52,347
+PART.2: En la montaña, en África.
+
+25
+00:00:53,147 --> 00:00:54,867
+PART.1: Pues yo creo que sí, en África sí.
+
+26
+00:00:56,627 --> 00:00:58,587
+PART.1: Croe, o sea, yo creo que sí.
+
+27
+00:00:58,667 --> 00:00:59,267
+PART.2: Vale.
+
+28
+00:00:59,787 --> 00:01:01,387
+PART.1: Eh...
+
+29
+00:01:05,547 --> 00:01:06,827
+PART.1: ¿Tiene cuernos?
+
+30
+00:01:07,547 --> 00:01:08,547
+PART.2: Sí.
+
+31
+00:01:10,027 --> 00:01:11,547
+PART.1: Hay bastantes, será fácil.
+
+32
+00:01:11,627 --> 00:01:14,267
+PART.2: ¿Como otros animales?
+
+33
+00:01:14,347 --> 00:01:15,307
+PART.1: ¿Cómo?
+
+34
+00:01:15,387 --> 00:01:17,907
+PART.2: Que si como otros animales.
+
+35
+00:01:17,987 --> 00:01:19,547
+PART.2: Que si como carne, coño.
+
+36
+00:01:19,907 --> 00:01:21,587
+PART.1: Él, ¿no?
+
+37
+00:01:21,667 --> 00:01:23,947
+PART.1: Tú te estás metiendo en el
+personaje ya.
+
+38
+00:01:24,747 --> 00:01:26,627
+PART.1: Si come carne, sí.
+
+39
+00:01:26,707 --> 00:01:27,547
+PART.2: Vale.
+
+40
+00:01:32,227 --> 00:01:33,907
+PART.1: El tuyo no come carne.
+
+41
+00:01:34,907 --> 00:01:37,267
+PART.1: Eh...
+
+42
+00:01:37,347 --> 00:01:39,227
+PART.2: ¿Sí como carne o no como carne?
+
+43
+00:01:39,307 --> 00:01:41,427
+PART.1: Tú sí, pero he dicho: "El tuyo,
+no".
+
+44
+00:01:40,347 --> 00:01:41,347
+PART.2: Vale.
+
+45
+00:01:42,107 --> 00:01:43,467
+PART.1: Si tiene cuernos.
+
+46
+00:01:44,147 --> 00:01:46,107
+PART.1: Eh...
+
+47
+00:01:48,987 --> 00:01:50,667
+PART.1: Te iba a decir una buena, tío.
+
+48
+00:01:51,987 --> 00:01:52,987
+PART.1: Eh...
+
+49
+00:01:53,067 --> 00:01:57,347
+PART.1: ¿Había uno famoso personaje que se
+llamaba Bambi?
+
+50
+00:01:57,427 --> 00:01:58,307
+PART.2: No.
+
+51
+00:01:58,387 --> 00:01:59,227
+PART.1: Mierda.
+
+52
+00:01:59,747 --> 00:02:01,507
+PART.1: Hubiese preguntado si es un
+ciervo, ¿no?
+
+53
+00:02:01,587 --> 00:02:04,507
+PART.2: Eh, eh, eh, eh, eh...
+
+54
+00:02:08,027 --> 00:02:10,547
+PART.2: ¿Si me ves por la calle,
+te cagas?
+
+55
+00:02:11,427 --> 00:02:12,427
+PART.1: Sí.
+
+56
+00:02:12,507 --> 00:02:13,507
+PART.2: Vale.
+
+57
+00:02:14,307 --> 00:02:16,627
+PART.1: Eres buena, tía.
+
+58
+00:02:17,547 --> 00:02:20,107
+PART.1: Todos los animales, ¿no?
+
+59
+00:02:18,947 --> 00:02:21,707
+PART.2: Sí, pero bueno,
+hay algunos que son así como monos.
+
+60
+00:02:21,787 --> 00:02:23,507
+PART.1: ¿Es bravo?
+
+61
+00:02:24,227 --> 00:02:25,227
+PART.2: No.
+
+62
+00:02:28,987 --> 00:02:30,587
+PART.1: Yo no he contado las preguntas,
+eh.
+
+63
+00:02:30,667 --> 00:02:32,067
+PART.2: ¿Voy a cuatro patas?
+
+64
+00:02:32,147 --> 00:02:33,147
+PART.1: Sí.
+
+65
+00:02:33,827 --> 00:02:35,747
+PART.1: ¿Pero cuántas preguntas hemos
+hecho?
+
+66
+00:02:35,827 --> 00:02:37,387
+PART.2: No sé, llevamos seis o así,
+pongamos, cada uno.
+
+67
+00:02:37,467 --> 00:02:38,467
+PART.1: Cuatro, ¿vale?
+
+68
+00:02:38,547 --> 00:02:39,587
+PART.1: Cuatro cada uno.
+
+69
+00:02:38,827 --> 00:02:39,827
+PART.2: Te toca.
+
+70
+00:02:40,267 --> 00:02:41,027
+PART.1: ¿Me toca a mí?
+
+71
+00:02:41,107 --> 00:02:41,707
+PART.2: Sí.
+
+72
+00:02:42,347 --> 00:02:43,707
+PART.1: Eh...
+
+73
+00:02:49,907 --> 00:02:51,827
+PART.1: Eh...
+
+74
+00:02:52,307 --> 00:02:56,827
+PART.1: ¿Hay algún personaje famoso de
+cine de este animal?
+
+75
+00:02:56,907 --> 00:02:57,467
+PART.2: Sí.
+
+76
+00:02:57,547 --> 00:02:58,547
+PART.1: ¿Sí?
+
+77
+00:02:58,627 --> 00:03:00,187
+PART.2: Eh...
+
+78
+00:03:00,547 --> 00:03:01,947
+PART.2: ¿Soy marrón?
+
+79
+00:03:02,387 --> 00:03:03,427
+PART.1: Eh, sí.
+
+80
+00:03:04,307 --> 00:03:05,427
+PART.1: ¿Lleva cuernos?
+
+81
+00:03:05,507 --> 00:03:07,987
+PART.1: O sea, ya he dicho
+que lleva cuernos, sí.
+
+82
+00:03:08,067 --> 00:03:08,827
+PART.2: Sí.
+
+83
+00:03:08,907 --> 00:03:10,627
+PART.1: No es lo mismo cuernos que...
+
+84
+00:03:10,707 --> 00:03:11,827
+PART.1: Lleva cuerno.
+
+85
+00:03:12,387 --> 00:03:13,427
+PART.2: Lleva cuernos, sí.
+
+86
+00:03:13,507 --> 00:03:14,507
+PART.1: Vale.
+
+87
+00:03:14,587 --> 00:03:15,867
+PART.1: ¿Soy gris?
+
+88
+00:03:15,947 --> 00:03:16,627
+PART.2: Sí.
+
+89
+00:03:16,707 --> 00:03:17,227
+PART.1: Vale.
+
+90
+00:03:18,267 --> 00:03:19,267
+PART.2: Qué cabrón.
+
+91
+00:03:19,347 --> 00:03:20,747
+PART.1: ¿Soy un león?
+
+92
+00:03:20,827 --> 00:03:21,827
+PART.2: No.
+
+93
+00:03:22,947 --> 00:03:24,267
+PART.1: ¿Soy un elefante?
+
+94
+00:03:24,347 --> 00:03:24,787
+PART.2: Sí.
+
+95
+00:03:28,347 --> 00:03:30,267
+PART.1: Has rechinado, eh.
+
+96
+00:03:31,507 --> 00:03:35,387
+PART.2: Pero esto no vive en la selva,
+madre mía, esto no vive en África,
+amor.
+
+97
+00:03:35,467 --> 00:03:38,827
+PART.1: Al decir África me lo has
+asegurado.
+
+98
+00:03:38,907 --> 00:03:40,147
+PART.2: El oso pardo no está en África,
+amor.
+
+99
+00:03:40,227 --> 00:03:42,427
+PART.1: Ahí no pone oso pardo, ahí pone
+"bear".
+
+100
+00:03:42,507 --> 00:03:45,067
+PART.1: Es como si dices elefante
+africano, elefante...
+
+101
+00:03:44,627 --> 00:03:46,067
+PART.2: Vive en la montaña.
+
+102
+00:03:46,147 --> 00:03:47,467
+PART.1: En África tiene que haber osos.
+
+103
+00:03:47,547 --> 00:03:50,427
+PART.2: En la selva en África no viven los
+osos, en África no creo que vivan
+los osos.
+
+104
+00:03:50,507 --> 00:03:51,747
+PART.1: ¿Y en la selva de Brasil?
+
+105
+00:03:51,827 --> 00:03:53,187
+PART.2: El oso africano, ¿no?
+
+106
+00:03:52,787 --> 00:03:53,827
+PART.1: ¿Y en la selva de Brasil?
+
+107
+00:03:53,907 --> 00:03:54,907
+PART.2: Tampoco.
+
+108
+00:03:54,987 --> 00:03:56,067
+PART.1: O sea, en una selva no hay osos.
+
+109
+00:03:56,147 --> 00:03:56,747
+PART.2: No.
+
+110
+00:03:56,827 --> 00:03:57,827
+PART.1: ¿Y Malú?
+
+111
+00:03:57,507 --> 00:03:58,547
+PART.2: Y tampoco como carne.
+
+112
+00:03:58,067 --> 00:04:00,267
+PART.1: ¿Y el Niño de la Selva con quién
+coño va?
+
+113
+00:04:02,427 --> 00:04:04,667
+PART.2: Pues está mal hecho.
+
+114
+00:04:04,747 --> 00:04:06,547
+PART.1: Claro, bueno, eso es un...
+
+115
+00:04:06,627 --> 00:04:08,467
+PART.1: Lo llevan para un zoo y se cayó.
+
+116
+00:04:07,787 --> 00:04:10,227
+PART.2: Es Asia, me parece eso, no es
+África.
+
+117
+00:04:10,307 --> 00:04:11,267
+PART.1: Tú has dicho selva.
+
+118
+00:04:11,347 --> 00:04:12,307
+PART.2: Te he preguntado África.
+
+119
+00:04:12,387 --> 00:04:13,507
+PART.1: Vive en la selva.
+
+120
+00:04:13,587 --> 00:04:15,107
+PART.2: Bueno, que da igual.
+
+121
+00:04:16,027 --> 00:04:17,027
+PART.2: Eh...
+
+122
+00:04:17,947 --> 00:04:20,387
+PART.1: Te hubiese dicho la montaña, ya lo
+tenías claro.
+
+123
+00:04:20,467 --> 00:04:22,147
+PART.2: Claro, sí.
+
+124
+00:04:22,227 --> 00:04:23,947
+PART.1: Quiere entrar, quiere entrar.
+
+125
+00:04:27,147 --> 00:04:28,907
+PART.1: Es que la Mía, la pelea.
+
+126
+00:04:28,987 --> 00:04:30,387
+PART.2: Ya está, ya está, Mía.
+
+127
+00:04:32,947 --> 00:04:39,627
+PART.1: Eso va a quedar de loca, porque si
+tienes que hablar y tienes que hacer
+como que no hay nadie,
+ha quedado como que has pegado un
+grito espontáneo.
+

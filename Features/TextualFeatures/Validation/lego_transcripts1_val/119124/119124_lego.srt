@@ -1,0 +1,328 @@
+1
+00:00:00,428 --> 00:00:02,795
+PART.1: Vale, bien, bien... m'encanta això.
+
+2
+00:00:02,005 --> 00:00:02,165
+PART.2: Vale.
+
+3
+00:00:02,856 --> 00:00:03,413
+PART.1: A veure
+
+4
+00:00:03,686 --> 00:00:05,015
+PART.2: U! Hem de buscar la peça...
+
+5
+00:00:05,253 --> 00:00:08,020
+PART.1: La peça aquesta, mira jo tinc la verda, falta la verda fluix.
+
+6
+00:00:06,734 --> 00:00:08,684
+PART.2: Vale, i falta la verda fluix.
+
+7
+00:00:10,028 --> 00:00:10,972
+PART.1: Ah mira, aquesta.
+
+8
+00:00:12,204 --> 00:00:12,604
+PART.2: Vale.
+
+9
+00:00:12,874 --> 00:00:13,787
+PART.1: I com la fico? Així?
+
+10
+00:00:13,500 --> 00:00:15,772
+PART.2: Mira,... Sí!
+
+11
+00:00:15,979 --> 00:00:17,083
+PART.1: Sí? No? Vale
+
+12
+00:00:17,260 --> 00:00:20,234
+PART.2: Ara falta com un aspersor. És això... què s'ha de posar a dalt
+
+13
+00:00:20,908 --> 00:00:24,331
+PART.1: Vale. Així? A ver, no se si ho he fet bé?
+
+14
+00:00:24,491 --> 00:00:24,940
+PART.2: Sí.
+
+15
+00:00:25,116 --> 00:00:25,373
+PART.1: Vale
+
+16
+00:00:27,131 --> 00:00:29,309
+PART.2: Ara falta la mini peça verda
+
+17
+00:00:32,956 --> 00:00:33,499
+PART.2: Correcte
+
+18
+00:00:35,259 --> 00:00:35,595
+PART.1: Així
+
+19
+00:00:35,819 --> 00:00:36,698
+PART.2: I un altre aspersor
+
+20
+00:00:38,139 --> 00:00:42,619
+PART.1: M'encanta això quan era petita
+
+21
+00:00:43,580 --> 00:00:46,187
+PART.2: Ara falta el quadradet...
+
+22
+00:00:46,826 --> 00:00:47,627
+PART.1: Aquest? Tal qual?
+
+23
+00:00:47,772 --> 00:00:48,139
+PART.2: Sí.
+
+24
+00:00:48,284 --> 00:00:50,558
+PART.1: Ah sí, mira. Tal qual, Genial.
+
+25
+00:00:52,045 --> 00:00:52,542
+PART.2: Vale.
+
+26
+00:00:52,781 --> 00:00:53,438
+PART.1: Ui, ui, ui...
+
+27
+00:00:53,599 --> 00:01:01,551
+PART.2: Ara el gran, què s'ha de col·locar a sobre i després 4 d'aquestes que són així, com aquesta.
+
+28
+00:01:01,870 --> 00:01:02,093
+PART.1: Vale
+
+29
+00:01:02,925 --> 00:01:13,311
+PART.2: Una, dos, tres,... i on està la quarta?
+
+30
+00:01:13,901 --> 00:01:16,319
+PART.1: Aquí. Ho he fet bé?
+
+31
+00:01:17,598 --> 00:01:17,855
+PART.2: Sí.
+
+32
+00:01:20,046 --> 00:01:20,896
+PART.1: Vale I ara...
+
+33
+00:01:21,005 --> 00:01:21,309
+PART.2: Sí.
+
+34
+00:01:22,526 --> 00:01:29,023
+PART.1: Ai, tia ...està bé?
+
+35
+00:01:27,092 --> 00:01:30,769
+PART.2: ...fent un lego. Ja està?
+
+36
+00:01:33,460 --> 00:01:37,940
+PART.1: A veure... Si, ja està Brutal! Som les putos amas.
+
+37
+00:01:38,868 --> 00:01:40,642
+PART.2: Ala, què ràpids.
+
+38
+00:01:40,787 --> 00:01:45,219
+PART.1: Fem una granja?
+
+39
+00:01:45,891 --> 00:01:48,914
+PART.2: És què ara entrarà i ens dirà en plan,... destruir-ho tot!
+
+40
+00:01:49,090 --> 00:01:54,404
+PART.1: Espera no, què ara fem en plan, el... és la rosa del petit príncep.
+
+41
+00:01:54,659 --> 00:01:57,026
+PART.2: Mira, ja posem això així com de barana
+
+42
+00:01:58,738 --> 00:02:06,754
+PART.1: Vale. A veure... Clar, no no, perquè l'hem d'envoltar, perquè es molt delicada.
+
+43
+00:02:07,058 --> 00:02:13,107
+PART.1: Soc tan bonica, tan eixerida.
+
+44
+00:02:13,347 --> 00:02:18,260
+PART.2: Tio no va, no va... ohh!!
+
+45
+00:02:19,474 --> 00:02:22,627
+PART.1: Així, així. No, perquè l'has de ficar com així...
+
+46
+00:02:25,282 --> 00:02:27,507
+PART.1: Es veritat, no va, l'hem trencat
+
+47
+00:02:28,996 --> 00:02:32,659
+PART.2: No tia, perquè només és per..., a no no és només per...
+
+48
+00:02:33,762 --> 00:02:36,114
+PART.1: No.
+
+49
+00:02:36,338 --> 00:02:37,461
+PART.2: Perquè no va de sobte?
+
+50
+00:02:42,689 --> 00:02:45,395
+PART.1: Però li podem ficar més fantasia a la flor aquesta? És què...
+
+51
+00:02:45,699 --> 00:02:48,515
+PART.2: No, però deixa-la així, perquè suposo què en de fer només,...
+
+52
+00:02:46,127 --> 00:02:48,528
+PART.1: És sosilla, però es què és sosilla.
+
+53
+00:02:48,942 --> 00:02:52,142
+PART.2: Bueno ja sé què es sosilla, però nem a fer la decoració del jardí..
+
+54
+00:02:52,304 --> 00:02:54,160
+PART.1: Ah, mira mira, floretes floretes pel jardí.
+
+55
+00:02:56,094 --> 00:02:57,054
+PART.2: Hi ha mil floretes?
+
+56
+00:02:57,277 --> 00:02:58,015
+PART.1: Sí.
+
+57
+00:02:58,543 --> 00:02:59,648
+PART.2: Bueno, ah vale.
+
+58
+00:03:00,127 --> 00:03:00,768
+PART.1: Floretes pel jardí.
+
+59
+00:03:01,903 --> 00:03:03,392
+PART.2: Floretes pel jardí.
+
+60
+00:03:03,647 --> 00:03:06,335
+PART.1: Vale, li fem una tanca rosa. Vale?
+
+61
+00:03:04,261 --> 00:03:06,117
+PART.2: Floretes pel jardí.
+
+62
+00:03:06,772 --> 00:03:08,198
+PART.2: Mira, això també es una floreta.
+
+63
+00:03:08,918 --> 00:03:13,222
+PART.1: Floretes pel jardí. A veure, no.
+
+64
+00:03:13,572 --> 00:03:15,845
+PART.2: Bueno, però així es com un gnomo.
+
+65
+00:03:17,958 --> 00:03:21,252
+PART.1: És un gnomo. Espera que li fico un barret al gnomo.
+
+66
+00:03:21,492 --> 00:03:25,669
+PART.2: Oh! Fins i tot el gnomo por portar una altre...
+
+67
+00:03:26,085 --> 00:03:27,686
+PART.1: Oi!... No, però... Però fiquem un ... en plan, això a baix.
+
+68
+00:03:29,063 --> 00:03:29,590
+PART.2: Ah! Vale.
+
+69
+00:03:33,158 --> 00:03:34,149
+PART.1: I què és això?
+
+70
+00:03:34,278 --> 00:03:35,461
+PART.2: No sé, una coseta de decoració.
+
+71
+00:03:35,607 --> 00:03:38,583
+PART.2: A veure? Ah! Maquíssim. A veure?
+
+72
+00:03:39,623 --> 00:03:46,454
+PART.2: ...mira. Super maco, i pot ser infinit, mira... a ver.
+
+73
+00:03:46,950 --> 00:03:48,566
+PART.1: Pot ser infinit, el lego es infinit.
+
+74
+00:03:50,245 --> 00:03:50,551
+PART.1: Però...
+
+75
+00:03:51,445 --> 00:03:52,246
+PART.2: Ai mira!
+
+76
+00:03:52,389 --> 00:03:56,214
+PART.1: Estàs fent molt infinit, Albeni i no s'entendrà la figura. No!
+
+77
+00:03:55,980 --> 00:03:57,629
+PART.2: Mira, mira, és un faro.
+
+78
+00:03:57,789 --> 00:04:00,876
+PART.1: Ah! És un faro, per què vinguin els...
+
+79
+00:03:59,947 --> 00:04:04,731
+PART.1: Perquè torni el petit príncep a l'esteroide.
+
+80
+00:04:02,076 --> 00:04:04,077
+PART.2: Els mariners a buscar les seves dones.
+
+81
+00:04:05,034 --> 00:04:05,323
+PART.2: Mira!
+
+82
+00:04:07,227 --> 00:04:19,705
+PART.1: Molt bé!
+

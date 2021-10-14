@@ -1,0 +1,24 @@
+124
+00:06:01,089 --> 00:06:01,825
+PART.1: Perqu� avui hi han eliminat�ries.
+
+125
+00:06:06,002 --> 00:06:06,809
+PART.2: Qui jugar� la final?
+
+126
+00:06:07,442 --> 00:06:07,747
+PART.1: Ni idea, no ho s�.
+
+127
+00:06:10,130 --> 00:06:13,984
+PART.2: Al final ho far�n... i Europa, perqu�?
+
+128
+00:06:14,495 --> 00:06:16,636
+PART.1: No, per� em sembla que �s Am�rica contra Europa sempre.
+
+129
+00:06:17,090 --> 00:06:18,241
+PART.2: S�, per� �s que �s dif�cil.
+

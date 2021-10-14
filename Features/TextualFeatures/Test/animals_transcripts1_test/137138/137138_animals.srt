@@ -1,0 +1,892 @@
+1
+00:00:02,911 --> 00:00:03,911
+PART.2: Vale, pues...
+
+2
+00:00:04,471 --> 00:00:05,311
+PART.1: ¿Empiezas tú?
+
+3
+00:00:05,391 --> 00:00:06,711
+PART.2: Dale tú, me da igual.
+
+4
+00:00:06,791 --> 00:00:07,351
+PART.1: Vale.
+
+5
+00:00:08,391 --> 00:00:11,431
+PART.1: Yo qué sé, ¿es terrestre?
+
+6
+00:00:11,511 --> 00:00:12,511
+PART.2: Sí.
+
+7
+00:00:12,591 --> 00:00:13,591
+PART.1: O sea, eh...
+
+8
+00:00:13,831 --> 00:00:14,511
+PART.1: Vale.
+
+9
+00:00:14,591 --> 00:00:15,591
+PART.2: Sí.
+
+10
+00:00:16,591 --> 00:00:17,631
+PART.1: ¿Es un mamífero?
+
+11
+00:00:17,711 --> 00:00:18,711
+PART.2: Ajá.
+
+12
+00:00:18,791 --> 00:00:19,791
+PART.1: Vale.
+
+13
+00:00:21,591 --> 00:00:22,591
+PART.1: ¿Es un felino?
+
+14
+00:00:22,671 --> 00:00:23,671
+PART.2: No.
+
+15
+00:00:23,751 --> 00:00:24,751
+PART.1: Vale.
+
+16
+00:00:28,111 --> 00:00:29,111
+PART.1: Vale.
+
+17
+00:00:30,111 --> 00:00:31,111
+PART.1: ¿Es doméstico?
+
+18
+00:00:35,951 --> 00:00:36,951
+PART.2: No.
+
+19
+00:00:37,031 --> 00:00:38,351
+PART.1: No, vale.
+
+20
+00:00:41,631 --> 00:00:45,391
+PART.1: Mamífero no doméstico, muy bien,
+solo hay como millones de especies.
+
+21
+00:00:45,471 --> 00:00:48,631
+PART.2: Es que puede.
+
+22
+00:00:51,671 --> 00:00:52,671
+PART.1: Vale.
+
+23
+00:00:52,911 --> 00:00:56,231
+PART.1: ¿Es un animal que la gente normal
+tiene como mascota?
+
+24
+00:00:56,311 --> 00:00:57,031
+PART.2: No.
+
+25
+00:00:57,111 --> 00:00:57,551
+PART.1: Vale.
+
+26
+00:00:58,951 --> 00:00:59,951
+PART.1: Ok.
+
+27
+00:01:03,711 --> 00:01:04,951
+PART.1: ¿Vive en el bosque?
+
+28
+00:01:11,191 --> 00:01:13,031
+PART.2: Me has pillado, muy fuerte.
+
+29
+00:01:13,111 --> 00:01:14,111
+PART.2: Eh...
+
+30
+00:01:14,751 --> 00:01:15,951
+PART.1: Si no cambio de pregunta, eh.
+
+31
+00:01:16,031 --> 00:01:17,791
+PART.2: Cambia,cambia, cambia.
+
+32
+00:01:24,991 --> 00:01:28,431
+PART.1: ¿Es más grande o más pequeño que
+un perro?
+
+33
+00:01:29,031 --> 00:01:30,431
+PART.2: Es de sí o no.
+
+34
+00:01:32,591 --> 00:01:33,711
+PART.1: Vale, ¿es más grande que un perro?
+
+35
+00:01:33,791 --> 00:01:34,551
+PART.2: No.
+
+36
+00:01:34,631 --> 00:01:35,271
+PART.1: No.
+
+37
+00:01:35,351 --> 00:01:36,871
+PART.1: O sea, es más pequeño.
+
+38
+00:01:49,191 --> 00:01:50,311
+PART.1: Ni puñetera idea.
+
+39
+00:01:53,831 --> 00:01:56,111
+PART.2: Ahora después te explico.
+
+40
+00:01:56,951 --> 00:01:58,671
+PART.2: Es muy irónico lo que acaba de
+pasar.
+
+41
+00:02:00,591 --> 00:02:01,591
+PART.1: ¿Es un perro?
+
+42
+00:02:01,671 --> 00:02:02,031
+PART.2: No.
+
+43
+00:02:02,111 --> 00:02:03,111
+PART.1: Vale.
+
+44
+00:02:03,991 --> 00:02:06,031
+PART.1: Ya sería como...
+
+45
+00:02:06,751 --> 00:02:07,751
+PART.1: La risa.
+
+46
+00:02:12,591 --> 00:02:13,591
+PART.1: ¿Es un lobo?
+
+47
+00:02:14,191 --> 00:02:15,191
+PART.2: No.
+
+48
+00:02:15,271 --> 00:02:17,311
+PART.2: Si has dicho que es más pequeño
+que un perro.
+
+49
+00:02:17,631 --> 00:02:19,031
+PART.1: Ya, también es verdad.
+
+50
+00:02:19,111 --> 00:02:20,751
+PART.1: También tienes razón.
+
+51
+00:02:22,151 --> 00:02:23,631
+PART.1: Pa, pa, pa...
+
+52
+00:02:39,511 --> 00:02:42,031
+PART.1: No se me ocurren más mamíferos.
+
+53
+00:02:42,111 --> 00:02:45,431
+PART.1: Se me ocurren muchos, pero no sé
+yo si...
+
+54
+00:02:48,031 --> 00:02:50,391
+PART.2: Ten en cuenta el pseudodoméstico.
+
+55
+00:02:50,471 --> 00:02:51,471
+PART.1: Ya, ya, ya.
+
+56
+00:02:53,671 --> 00:02:55,631
+PART.1: Claro, es que pseudodomésticos hay
+muchos.
+
+57
+00:02:57,511 --> 00:02:59,151
+PART.2: Pseudodoméstico mamífero.
+
+58
+00:02:59,231 --> 00:02:59,711
+PART.1: ¿Cómo?
+
+59
+00:02:59,791 --> 00:03:01,311
+PART.2: Pseudodoméstico, pero mamífero.
+
+60
+00:03:01,391 --> 00:03:07,071
+PART.1: Es que la mayoría de mascotas son
+mamíferos, eh, técnicamente.
+
+61
+00:03:07,151 --> 00:03:07,711
+PART.2: Sí.
+
+62
+00:03:07,791 --> 00:03:09,991
+PART.1: Bueno, menos peces, tortugas...
+
+63
+00:03:11,271 --> 00:03:13,031
+PART.1: Eh...
+
+64
+00:03:19,991 --> 00:03:20,991
+PART.1: Me quedan dos.
+
+65
+00:03:27,031 --> 00:03:29,391
+PART.1: Es que no caigo, no sé qué decir.
+
+66
+00:03:32,711 --> 00:03:33,711
+PART.1: Eh...
+
+67
+00:03:47,791 --> 00:03:52,591
+PART.1: Es más pequeño que un perro,
+es pseudodoméstico.
+
+68
+00:03:52,671 --> 00:03:53,391
+PART.2: Sí.
+
+69
+00:03:55,751 --> 00:03:57,111
+PART.1: No sé si es del bosque.
+
+70
+00:03:59,191 --> 00:04:01,231
+PART.2: Creo que no, o sea.
+
+71
+00:04:01,631 --> 00:04:03,271
+PART.2: No sé confirmártelo.
+
+72
+00:04:11,311 --> 00:04:12,311
+PART.1: ¿Es herbívoro?
+
+73
+00:04:14,671 --> 00:04:15,671
+PART.2: Joder.
+
+74
+00:04:16,111 --> 00:04:17,111
+PART.2: Eh...
+
+75
+00:04:17,671 --> 00:04:19,151
+PART.2: Creo que no.
+
+76
+00:04:19,231 --> 00:04:20,231
+PART.1: Joder.
+
+77
+00:04:20,711 --> 00:04:22,671
+PART.2: Es que...
+
+78
+00:04:24,311 --> 00:04:26,071
+PART.2: Es complicado.
+
+79
+00:04:29,551 --> 00:04:30,791
+PART.2: O sí.
+
+80
+00:04:31,311 --> 00:04:34,191
+PART.2: Sí, sí es herbívoro, sí.
+
+81
+00:04:34,271 --> 00:04:35,391
+PART.1: Sí, sí que lo es.
+
+82
+00:04:35,471 --> 00:04:37,551
+PART.2: Espero que sí.
+
+83
+00:04:41,431 --> 00:04:44,871
+PART.2: Ahora es cuando me dices: "Madre
+mía, esto no es herbívoro, qué
+dices".
+
+84
+00:04:44,951 --> 00:04:47,031
+PART.1: Bueno.
+
+85
+00:05:03,071 --> 00:05:04,071
+PART.1: ¿Es alargado?
+
+86
+00:05:04,151 --> 00:05:05,151
+PART.2: No.
+
+87
+00:05:06,671 --> 00:05:07,791
+PART.1: Vale, pues no sé.
+
+88
+00:05:08,751 --> 00:05:10,711
+PART.1: Iba a decir un hurón, pero...
+
+89
+00:05:13,031 --> 00:05:14,551
+PART.2: Tienes la última de...
+
+90
+00:05:14,631 --> 00:05:15,231
+PART.1: Ya.
+
+91
+00:05:15,311 --> 00:05:17,111
+PART.2: De redención.
+
+92
+00:05:17,191 --> 00:05:18,951
+PART.1: Si no es alargado, no es un hurón.
+
+93
+00:05:19,031 --> 00:05:20,031
+PART.2: Ya.
+
+94
+00:05:26,951 --> 00:05:28,831
+PART.1: Yo qué sé, ¿es un conejo?
+
+95
+00:05:28,911 --> 00:05:30,991
+PART.2: No, pero casi.
+
+96
+00:05:31,471 --> 00:05:33,471
+PART.2: Ya te lo puedes quitar si eso.
+
+97
+00:05:33,551 --> 00:05:34,551
+PART.1: Ya.
+
+98
+00:05:34,631 --> 00:05:36,071
+PART.2: No sé si se puede mirar.
+
+99
+00:05:36,151 --> 00:05:37,831
+PART.2: Tiene mucho que ver con
+"Evangelion".
+
+100
+00:05:38,991 --> 00:05:40,231
+PART.1: Me cago en la puta.
+
+101
+00:05:40,311 --> 00:05:43,031
+PART.2: Hemos dicho que era muy irónico
+todo.
+
+102
+00:05:41,671 --> 00:05:43,031
+PART.1: Ah, me cago en la leche.
+
+103
+00:05:43,111 --> 00:05:46,991
+PART.2: Era muy irónico todo y no sé si
+está en el bosque o es un herbívoro.
+
+104
+00:05:45,951 --> 00:05:46,951
+PART.1: Sí, sí.
+
+105
+00:05:47,031 --> 00:05:47,911
+PART.2: ¿Es herbívoro?
+
+106
+00:05:47,991 --> 00:05:48,791
+PART.2: ¿Y vive en el bosque?
+
+107
+00:05:48,151 --> 00:05:49,231
+PART.1: Vive en el bosque, sí.
+
+108
+00:05:49,311 --> 00:05:50,511
+PART.2: Ah, pues no lo sabía.
+
+109
+00:05:50,591 --> 00:05:51,591
+PART.1: Creo.
+
+110
+00:05:51,671 --> 00:05:52,991
+PART.2: Es que eso es lo que me ha pasado
+a mí.
+
+111
+00:05:53,071 --> 00:05:54,431
+PART.1: Me cago en la puta.
+
+112
+00:05:54,991 --> 00:05:57,671
+PART.2: Ha sido muy irónica la situación.
+
+113
+00:05:56,391 --> 00:05:59,191
+PART.1: Sí, ha sido muy irónico, muy
+irónico.
+
+114
+00:06:00,271 --> 00:06:01,991
+PART.2: Vale, pues me toca.
+
+115
+00:06:02,071 --> 00:06:03,071
+PART.1: Te toca.
+
+116
+00:06:03,311 --> 00:06:04,831
+PART.2: ¿Es mamífero?
+
+117
+00:06:05,511 --> 00:06:06,511
+PART.1: No.
+
+118
+00:06:06,591 --> 00:06:07,831
+PART.2: ¿Es reptil?
+
+119
+00:06:07,911 --> 00:06:08,591
+PART.1: No.
+
+120
+00:06:09,071 --> 00:06:11,311
+PART.2: Hostia, entonces, vale.
+
+121
+00:06:11,391 --> 00:06:12,911
+PART.2: ¿Soy un insecto?
+
+122
+00:06:12,991 --> 00:06:13,991
+PART.1: No.
+
+123
+00:06:14,071 --> 00:06:15,871
+PART.2: Mierda, qué cojones.
+
+124
+00:06:19,711 --> 00:06:20,711
+PART.2: ¿Soy acuático?
+
+125
+00:06:20,791 --> 00:06:21,791
+PART.1: No.
+
+126
+00:06:22,351 --> 00:06:23,591
+PART.2: Me cago en la puta, qué está
+pasando.
+
+127
+00:06:25,191 --> 00:06:26,191
+PART.2: Uf.
+
+128
+00:06:28,351 --> 00:06:33,391
+PART.2: No soy mamífero, no soy un reptil,
+no soy acuático y no soy un insecto.
+
+129
+00:06:35,751 --> 00:06:37,431
+PART.2: ¿Soy un tipo de planta?
+
+130
+00:06:42,511 --> 00:06:43,511
+PART.2: O sea.
+
+131
+00:06:43,671 --> 00:06:46,031
+PART.1: Es un animal, eso sí.
+
+132
+00:06:46,111 --> 00:06:48,911
+PART.2: Sí, sí, pero...
+
+133
+00:06:49,551 --> 00:06:51,951
+PART.2: ¿Entonces, soy terrestre?
+
+134
+00:06:58,551 --> 00:07:00,111
+PART.1: Depende de cómo lo consideres.
+
+135
+00:07:00,191 --> 00:07:04,791
+PART.2: Vale, cuento eso como una
+pregunta, porque entonces soy un
+ave.
+
+136
+00:07:04,871 --> 00:07:06,191
+PART.2: Tiene que ser por huevos.
+
+137
+00:07:07,511 --> 00:07:08,871
+PART.1: ¿Eso es una pregunta?
+
+138
+00:07:08,951 --> 00:07:10,391
+PART.2: No,no, es una afirmación.
+
+139
+00:07:10,471 --> 00:07:11,471
+PART.1: Vale.
+
+140
+00:07:14,431 --> 00:07:16,431
+PART.2: ¿Vivo cerca del mar?
+
+141
+00:07:20,071 --> 00:07:21,671
+PART.2: Es como la pregunta del bosque.
+
+142
+00:07:21,751 --> 00:07:22,751
+PART.1: Exacto.
+
+143
+00:07:23,471 --> 00:07:24,471
+PART.2: Diría que no.
+
+144
+00:07:26,231 --> 00:07:27,231
+PART.2: Vale.
+
+145
+00:07:30,231 --> 00:07:31,591
+PART.2: ¿Vivo en la jungla?
+
+146
+00:07:32,391 --> 00:07:35,631
+PART.1: No sé dónde vive el bicho, creo
+que no.
+
+147
+00:07:35,711 --> 00:07:36,711
+PART.2: Vale.
+
+148
+00:07:36,791 --> 00:07:37,551
+PART.2: Mierda.
+
+149
+00:07:50,071 --> 00:07:51,071
+PART.2: ¿Soy un loro?
+
+150
+00:07:57,791 --> 00:08:00,751
+PART.2: La última la voy a aprovechar para
+hacer una pregunta interesante.
+
+151
+00:08:01,351 --> 00:08:02,951
+PART.2: ¿Soy de colores llamativos'
+
+152
+00:08:03,031 --> 00:08:04,031
+PART.1: No.
+
+153
+00:08:06,751 --> 00:08:08,111
+PART.2: ¿Soy una golondrina?
+
+154
+00:08:09,071 --> 00:08:11,871
+PART.1: Es que era, era horrible.
+
+155
+00:08:11,951 --> 00:08:13,911
+PART.1: No la hubiera sacado en mi
+puñetera vida.
+
+156
+00:08:13,991 --> 00:08:14,951
+PART.2: ¡Qué cojones!
+
+157
+00:08:15,031 --> 00:08:16,071
+PART.2: Esto sí vive en el agua.
+
+158
+00:08:16,151 --> 00:08:19,831
+PART.2: Esto de hecho viven en el mar,
+porque guían a los marineros, los
+albatros.
+
+159
+00:08:20,311 --> 00:08:21,751
+PART.1: ¿Esas no son las gaviotas?
+
+160
+00:08:21,831 --> 00:08:23,751
+PART.2: Hay dos cosas diferentes, las
+gaviotas y los albatros.
+
+161
+00:08:23,831 --> 00:08:24,831
+PART.1: Ah.
+
+162
+00:08:25,151 --> 00:08:26,711
+PART.2: Pero bueno, que da igual.
+
+163
+00:08:26,791 --> 00:08:29,271
+PART.2: Ha sido muy.
+
+164
+00:08:29,351 --> 00:08:31,271
+PART.1: Sí, sí, sí, ha sido, en serio...
+
+165
+00:08:31,351 --> 00:08:35,471
+PART.1: Estoy convencido de que lo ha
+hecho a propósito.
+
+166
+00:08:36,671 --> 00:08:37,991
+PART.2: No puede ser, cómo le digo esto.
+
+167
+00:08:38,071 --> 00:08:39,071
+PART.1: Ya, ya.
+
+168
+00:08:40,391 --> 00:08:42,351
+PART.1: Pero no se me había ocurrido en la
+vida.
+
+169
+00:08:42,431 --> 00:08:46,111
+PART.2: Claro, te imaginas, primera
+pregunta: "¿Tiene que ver con la
+teoría de 'Evangelion'"?
+
+170
+00:08:46,191 --> 00:08:48,071
+PART.2: Y yo en plan: "Sí".
+
+171
+00:08:49,471 --> 00:08:50,471
+PART.1: ¿Es Shinji?
+
+172
+00:08:50,551 --> 00:08:52,071
+PART.1: Sí, estupendo.
+
+173
+00:08:53,791 --> 00:08:56,111
+PART.1: ¿Van a sacar una peli de mierda en
+breve?
+
+174
+00:08:56,191 --> 00:08:56,991
+PART.1: También.
+
+175
+00:08:57,071 --> 00:08:58,071
+PART.2: Efectivamente.
+
+176
+00:08:58,871 --> 00:09:00,631
+PART.1: Ay, Dios, qué pánico me da esa
+película.
+
+177
+00:09:00,711 --> 00:09:01,711
+PART.2: No.
+
+178
+00:09:01,791 --> 00:09:05,111
+PART.2: No puede ser peor que el último
+capítulo de "Juego de tronos",
+no te preocupes.
+
+179
+00:09:06,031 --> 00:09:07,231
+PART.1: Uf, no sé.
+
+180
+00:09:07,591 --> 00:09:08,671
+PART.2: No sé qué esperarme ya.
+
+181
+00:09:08,751 --> 00:09:09,911
+PART.1: Ya, ya, yo qué sé.
+
+182
+00:09:09,991 --> 00:09:14,111
+PART.2: Mira, hubo tantos fallos
+argumentales en el último.
+
+183
+00:09:13,551 --> 00:09:16,431
+PART.1: Spoilers, otra vez, spoiler de
+"Juego de tronos", por si acaso.
+
+184
+00:09:16,511 --> 00:09:20,751
+PART.2: Lo siento, bueno, ya esto cuando
+salga, si alguien no se ha visto
+"Juego de tronos" es culpa suya.
+
+185
+00:09:20,191 --> 00:09:21,191
+PART.1: Ya lo sentimos.
+
+186
+00:09:21,271 --> 00:09:22,871
+PART.2: Es bien común.
+
+187
+00:09:23,231 --> 00:09:25,031
+PART.1: Si no, salta a este minuto.
+
+188
+00:09:25,791 --> 00:09:34,191
+PART.2: Pero es que, literalmente,
+las ballestas tienen punterías menos
+10 y munición menos 20 000.
+
+189
+00:09:34,271 --> 00:09:38,231
+PART.1: ¿Viste el tuit que ponía: "Notas
+del parche"?
+
+190
+00:09:38,311 --> 00:09:40,031
+PART.2: Sí, lo vi y fue como...
+
+191
+00:09:40,111 --> 00:09:41,831
+PART.2: Es que es literal.
+
+192
+00:09:41,911 --> 00:09:47,111
+PART.1: El daño de dragones a las unidades
+ha aumentado un 400 %.
+
+193
+00:09:47,791 --> 00:09:51,391
+PART.1: Vida de los héroes, ha aumentado
+un 150.
+
+194
+00:09:51,471 --> 00:09:55,751
+PART.2: Los hemos devuelto,
+la gente se quejó y
+había que hacerle caso, entonces
+están.
+
+195
+00:09:55,831 --> 00:09:58,031
+PART.2: Eso sí fue buenísimo.
+
+196
+00:09:58,111 --> 00:10:01,431
+PART.1: Lo mejor de esta temporada son los
+memes, porque todo lo demás es
+como...
+
+197
+00:10:01,511 --> 00:10:02,511
+PART.2: Ya.
+
+198
+00:10:03,191 --> 00:10:05,191
+PART.2: Eso sí es cierto, es que...
+
+199
+00:10:05,271 --> 00:10:07,151
+PART.1: No sé si hay que avisar al de
+fuera.
+
+200
+00:10:07,231 --> 00:10:09,031
+PART.2: Yo tampoco, pero bueno.
+
+201
+00:10:09,471 --> 00:10:11,871
+PART.2: Podemos seguir "ranteando" de
+"Juego de tronos".
+
+202
+00:10:12,591 --> 00:10:17,791
+PART.2: Y Sersei, ¿cómo me acaban ese
+personaje, que ha sido el más hijo
+de puta de todos, así?
+
+203
+00:10:17,871 --> 00:10:21,831
+PART.1: Te pasas la profecía por el forro,
+la acabas...
+
+204
+00:10:21,911 --> 00:10:25,831
+PART.2: Bueno, si tomas como que Jamie le
+coge...
+
+205
+00:10:24,391 --> 00:10:27,871
+PART.1: No, no, no, me niego, no, no, no.
+
+206
+00:10:27,951 --> 00:10:31,071
+PART.1: O sea, ya lo he oído muchas veces,
+o sea, no, me niego, me niego.
+
+207
+00:10:31,591 --> 00:10:32,711
+PART.1: No me da la gana.
+
+208
+00:10:32,791 --> 00:10:34,151
+PART.2: No podéis, no podéis.
+
+209
+00:10:34,231 --> 00:10:38,471
+PART.1: Aria, que su puto único objetivo
+era llegar hasta ahí, oh, no.
+

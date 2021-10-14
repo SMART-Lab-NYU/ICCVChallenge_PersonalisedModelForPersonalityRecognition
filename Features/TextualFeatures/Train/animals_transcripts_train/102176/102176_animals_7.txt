@@ -1,0 +1,52 @@
+133
+00:07:00,567 --> 00:07:03,127
+PART.2: ¿Soy un personaje de dibujos
+animados?
+
+134
+00:07:03,567 --> 00:07:05,287
+PART.2: O sea, de Disney.
+
+135
+00:07:05,727 --> 00:07:07,607
+PART.2: ¿Salgo en una película de Disney?
+
+136
+00:07:13,207 --> 00:07:17,127
+PART.1: No me suena, pero podría.
+
+137
+00:07:22,647 --> 00:07:24,527
+PART.1: Es un animal típico de...
+
+138
+00:07:26,847 --> 00:07:30,727
+PART.2: Bueno, típico no de aquí,
+pero lo vas a conocer seguro.
+
+139
+00:07:33,167 --> 00:07:34,327
+PART.2: Bueno, pregúntame tú.
+
+140
+00:07:35,647 --> 00:07:36,767
+PART.1: ¿Soy nocturna?
+
+141
+00:07:37,447 --> 00:07:38,327
+PART.2: No.
+
+142
+00:07:38,407 --> 00:07:39,087
+PART.1: Vale.
+
+143
+00:07:49,967 --> 00:07:57,887
+PART.2: ¿Viajo con otros pájaros, en plan
+juntos, o soy ave solitaria?
+
+144
+00:07:59,767 --> 00:08:02,087
+PART.1: Pues ni puta idea,
+pero yo imagino que solitario.
+

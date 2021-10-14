@@ -1,0 +1,47 @@
+84
+00:05:07,120 --> 00:05:14,520
+PART.2: No tiene ningún sentido de objeto
+geométrico.
+
+85
+00:05:14,840 --> 00:05:16,320
+PART.2: Es una cosa supercomplicada.
+
+86
+00:05:16,440 --> 00:05:18,640
+PART.1: Y te interesa saber si hay cosas
+en dimensión 17.
+
+87
+00:05:19,640 --> 00:05:21,120
+PART.2: No necesariamente.
+
+88
+00:05:21,200 --> 00:05:26,120
+PART.2: Es que tenemos
+problemas en calcular en 2D.
+
+89
+00:05:26,680 --> 00:05:37,560
+PART.2: Porque yo, teóricamente, puedo
+tener el número de puntos que tengo
+en este espacio.
+
+90
+00:05:38,640 --> 00:05:44,080
+PART.2: Puede ser 1000, pero a mí me
+gustaría trabajar con 100 000.
+
+91
+00:05:45,240 --> 00:05:56,880
+PART.2: Para tener, por ejemplo,
+cada nódulo de la red 500 000
+puntos, en este espacio, que después
+los conecto y creo las topologías.
+
+92
+00:05:58,400 --> 00:06:09,800
+PART.2: Y de lo que yo vi, si voy a más
+de 5000 o 10000, se vuelve bastante
+difícil.
+

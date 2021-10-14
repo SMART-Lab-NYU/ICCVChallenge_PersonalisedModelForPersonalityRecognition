@@ -1,0 +1,884 @@
+1
+00:00:00,000 --> 00:00:01,021
+PART.2: Comença tu.
+
+2
+00:00:01,101 --> 00:00:02,061
+PART.1: Començo jo?
+
+3
+00:00:02,141 --> 00:00:02,501
+PART.2: Sí.
+
+4
+00:00:02,581 --> 00:00:06,021
+PART.1: Vale, eh...
+Quantes potes té?
+
+5
+00:00:07,101 --> 00:00:08,821
+PART.2: És de sí o no les
+preguntes, Claire.
+
+6
+00:00:08,901 --> 00:00:09,901
+PART.1: Ah.
+
+7
+00:00:10,981 --> 00:00:13,501
+PART.2: Ho ha dit, no? Ho ha dit.
+
+8
+00:00:13,581 --> 00:00:14,981
+PART.1: Buena.
+
+9
+00:00:16,661 --> 00:00:18,501
+PART.2: Digues, no, no, torna a
+començar, vull dir, que no...
+
+10
+00:00:18,581 --> 00:00:19,581
+PART.1: Vale.
+
+11
+00:00:19,661 --> 00:00:20,901
+PART.1: Té dos potes?
+
+12
+00:00:23,581 --> 00:00:24,581
+PART.2: Sí.
+
+13
+00:00:25,741 --> 00:00:26,741
+PART.2: Ara em toca a mi, no?
+
+14
+00:00:26,821 --> 00:00:27,381
+PART.1: Sí.
+
+15
+00:00:27,461 --> 00:00:29,981
+PART.2: Vale, ah... És aquàtic?
+
+16
+00:00:31,821 --> 00:00:32,821
+PART.1: No.
+
+17
+00:00:34,741 --> 00:00:38,061
+PART.1: Eh... El meu es aquàtic?
+
+18
+00:00:38,621 --> 00:00:39,621
+PART.2: No.
+
+19
+00:00:41,661 --> 00:00:42,661
+PART.2: Hum...
+
+20
+00:00:50,261 --> 00:00:52,981
+PART.2: És... hum?
+
+21
+00:01:01,461 --> 00:01:02,741
+PART.2: Té quatre potes?
+
+22
+00:01:03,101 --> 00:01:03,901
+PART.1: No.
+
+23
+00:01:03,981 --> 00:01:04,981
+PART.2: Vale.
+
+24
+00:01:08,421 --> 00:01:10,501
+PART.1: És un animal terrestre?
+
+25
+00:01:13,661 --> 00:01:16,941
+PART.2: Bueno... eh...
+Crec que no.
+
+26
+00:01:17,541 --> 00:01:18,421
+PART.1: Creiem que no?
+
+27
+00:01:18,501 --> 00:01:19,381
+PART.2: No, direm que no.
+
+28
+00:01:19,461 --> 00:01:20,341
+PART.1: Direm que no, no es
+terrestre.
+
+29
+00:01:20,421 --> 00:01:20,861
+PART.2: No.
+
+30
+00:01:20,941 --> 00:01:21,501
+PART.1: Vale.
+
+31
+00:01:21,581 --> 00:01:22,821
+PART.2: I el meu es terrestre?
+
+32
+00:01:24,341 --> 00:01:24,981
+PART.1: Sí.
+
+33
+00:01:25,061 --> 00:01:25,861
+PART.2: Vale.
+
+34
+00:01:25,941 --> 00:01:30,501
+PART.1: Eh... Uh... Sí...
+És terrestre.
+
+35
+00:01:31,221 --> 00:01:31,941
+PART.1: O sigui...
+
+36
+00:01:32,021 --> 00:01:33,301
+PART.2: O sí o no, perquè no,
+no...
+
+37
+00:01:33,381 --> 00:01:38,621
+PART.1: És que no sé com...
+No sé com... No sé como dir-ho.
+No sé com... No sé com ho faria.
+
+38
+00:01:38,701 --> 00:01:40,981
+PART.2: Vale, replantejo
+la pregunta, té ales?
+
+39
+00:01:41,461 --> 00:01:42,461
+PART.1: Sí.
+
+40
+00:01:42,541 --> 00:01:43,541
+PART.2: Vale.
+
+41
+00:01:43,621 --> 00:01:44,541
+PART.1: El meu té ales?
+
+42
+00:01:44,621 --> 00:01:45,621
+PART.2: Sí.
+
+43
+00:01:45,701 --> 00:01:46,701
+PART.1: Vale.
+
+44
+00:01:47,781 --> 00:01:49,861
+PART.2: Ës capaç de volar?
+
+45
+00:01:51,621 --> 00:01:52,621
+PART.1: Sí.
+
+46
+00:01:54,501 --> 00:01:57,501
+PART.1: Vale. És blanc?
+
+47
+00:01:58,141 --> 00:01:59,141
+PART.2: No.
+
+48
+00:01:59,781 --> 00:02:00,781
+PART.1: Vale.
+
+49
+00:02:00,861 --> 00:02:02,021
+PART.2: Es menja?
+
+50
+00:02:05,221 --> 00:02:06,221
+PART.1: Sí.
+
+51
+00:02:06,661 --> 00:02:08,141
+PART.2: És que et penses molt
+les preguntes, eh?
+
+52
+00:02:08,221 --> 00:02:08,981
+PART.1: Sí, sí.
+
+53
+00:02:09,061 --> 00:02:09,781
+PART.2: Vale.
+
+54
+00:02:09,861 --> 00:02:14,981
+PART.2: No si es pot menjar, si
+es menja aquí a Espanya, millor, es
+menja a Espanya? Clar, perquè...
+
+55
+00:02:16,581 --> 00:02:17,301
+PART.1: No.
+
+56
+00:02:17,381 --> 00:02:17,821
+PART.2: Vale.
+
+57
+00:02:17,901 --> 00:02:18,541
+PART.1: No, no, no.
+
+58
+00:02:18,621 --> 00:02:19,301
+PART.2: Era per veure...
+
+59
+00:02:19,381 --> 00:02:21,621
+PART.1: No i no. Vale, vale, no,
+no.
+
+60
+00:02:22,861 --> 00:02:26,581
+PART.1: Vale.
+El meu... És de companyia?
+
+61
+00:02:27,821 --> 00:02:28,821
+PART.2: No.
+
+62
+00:02:30,021 --> 00:02:35,061
+PART.2: Jo t'anava a demanar el
+mateix, o sigui, però bueno, o
+sigui, és un... Bueno, és un animal
+exòtic?
+
+63
+00:02:35,141 --> 00:02:37,061
+PART.2: Per canviar una miqueta
+també, per no copiar.
+
+64
+00:02:37,141 --> 00:02:37,781
+PART.1: No.
+
+65
+00:02:37,861 --> 00:02:39,621
+PART.2: No és exòtic, vale.
+
+66
+00:02:39,701 --> 00:02:40,301
+PART.1: Vale.
+
+67
+00:02:40,381 --> 00:02:41,861
+PART.2: Portem sis preguntes si
+no recordo malament, no?
+
+68
+00:02:41,941 --> 00:02:42,501
+PART.1: Sí.
+
+69
+00:02:42,581 --> 00:02:43,381
+PART.2: Tu vas per la setena?
+
+70
+00:02:43,461 --> 00:02:44,701
+PART.1: Sí,
+jo vaig per la setena.
+
+71
+00:02:49,141 --> 00:02:55,021
+PART.1: El meu no és de
+companyia, tal, tal... Eh... Vale.
+Eh...
+
+72
+00:02:56,621 --> 00:02:57,861
+PART.1: Fa soroll?
+
+73
+00:02:59,821 --> 00:03:05,541
+PART.2: Probablement sí, però...
+però no t'ho puc asegurar al 100 per
+100, perquè és un animal que no
+conec.
+
+74
+00:03:05,901 --> 00:03:06,901
+PART.1: Vale.
+
+75
+00:03:06,981 --> 00:03:16,021
+PART.2: Hum... O sigui, hem
+quedat, que té ales, que vola, que
+té dos potes, bueno, les altres són
+les ales, vale.
+
+76
+00:03:16,421 --> 00:03:19,301
+PART.2: Que no es menja a Espanya
+i que no és exòtic.
+
+77
+00:03:19,701 --> 00:03:21,261
+PART.2: Fins aquí, estem bé.
+
+78
+00:03:21,341 --> 00:03:22,781
+PART.1: Però clar, aquest és el
+teu.
+
+79
+00:03:22,861 --> 00:03:23,781
+PART.2: Aquest... Obviament. Sí,
+sí, és el meu.
+
+80
+00:03:23,861 --> 00:03:24,621
+PART.1: Ja.
+
+81
+00:03:24,701 --> 00:03:26,581
+PART.1: Bueno, no es menja a Espanya ni
+tampoc arreu del món, o sigui no es
+menja.
+
+82
+00:03:26,661 --> 00:03:27,421
+PART.2: És que m'has dit que sí.
+
+83
+00:03:27,501 --> 00:03:28,381
+PART.1: Sí, sí, però no es menja,
+no es menja.
+
+84
+00:03:28,461 --> 00:03:28,981
+PART.2: Vale.
+
+85
+00:03:29,061 --> 00:03:29,781
+PART.2: Si partim de que es pot
+menjar tot...
+
+86
+00:03:29,861 --> 00:03:31,061
+PART.1: No es menja.
+
+87
+00:03:31,141 --> 00:03:32,381
+PART.2: Aquest no es menja
+enlloc.
+
+88
+00:03:32,461 --> 00:03:32,621
+PART.1: No.
+
+89
+00:03:32,701 --> 00:03:34,661
+PART.2: Vale. Ah...
+
+90
+00:03:43,061 --> 00:03:49,261
+PART.2: Si no és exòtic, vol dir
+que no té colors així...
+extravagants, és la meva deducció,
+vale?
+
+91
+00:03:50,101 --> 00:03:53,421
+PART.2: Alguna pregunta...
+
+92
+00:03:56,581 --> 00:03:58,301
+PART.2: Té un bec gran?
+
+93
+00:04:01,301 --> 00:04:02,301
+PART.1: No.
+
+94
+00:04:02,381 --> 00:04:03,981
+PART.2: O sigui, no és rellevant,
+no, el bec que té?
+
+95
+00:04:04,061 --> 00:04:04,661
+PART.1: No.
+
+96
+00:04:04,741 --> 00:04:05,261
+PART.2: Respecte...
+
+97
+00:04:05,341 --> 00:04:05,541
+PART.1: No.
+
+98
+00:04:05,621 --> 00:04:07,261
+PART.2: Al seu cos? Vale.
+
+99
+00:04:07,341 --> 00:04:08,341
+PART.1: Vale.
+
+100
+00:04:08,941 --> 00:04:14,781
+PART.1: I em quedat que era un au,
+que... que no vola.
+
+101
+00:04:15,701 --> 00:04:16,581
+PART.2: No, jo això no ho he dit.
+
+102
+00:04:16,661 --> 00:04:17,501
+PART.1: No, vale.
+
+103
+00:04:17,581 --> 00:04:20,581
+PART.1: Que no, que no...
+A veure, eh...
+
+104
+00:04:20,661 --> 00:04:23,741
+PART.2: No ho has preguntat,
+de fet. No m'has preguntat si volava
+o no.
+
+105
+00:04:23,821 --> 00:04:25,661
+PART.1: Volava? Vola el meu?
+
+106
+00:04:25,741 --> 00:04:27,461
+PART.2: Eh... Sí.
+
+107
+00:04:27,541 --> 00:04:28,461
+PART.1: Vale.
+
+108
+00:04:28,541 --> 00:04:32,701
+PART.2: Vale, ara la meva
+pregunta, la vuitena, ah...
+
+109
+00:04:50,861 --> 00:04:52,301
+PART.2: Es troba a les ciutats?
+
+110
+00:04:52,461 --> 00:04:54,781
+PART.2: De forma, com a fauna...
+
+111
+00:04:54,861 --> 00:04:55,581
+PART.1: No.
+
+112
+00:04:55,661 --> 00:04:57,061
+PART.2: Habitual d'una ciutat?
+
+113
+00:04:57,141 --> 00:04:57,621
+PART.1: No.
+
+114
+00:04:57,701 --> 00:04:58,861
+PART.2: Per exemple, Barcelona?
+
+115
+00:04:58,941 --> 00:04:59,181
+PART.1: No.
+
+116
+00:04:59,261 --> 00:05:00,261
+PART.2: Vale.
+
+117
+00:05:00,701 --> 00:05:02,021
+PART.1: I a mi, és la meva última
+pregunta.
+
+118
+00:05:02,101 --> 00:05:03,061
+PART.2: No, és la novena.
+
+119
+00:05:03,141 --> 00:05:04,381
+PART.1: La meva, la meva?
+
+120
+00:05:04,461 --> 00:05:06,341
+PART.2: La novena, no?
+
+121
+00:05:06,421 --> 00:05:08,101
+PART.2: O sigui,
+és la penúltima pregunta.
+
+122
+00:05:08,421 --> 00:05:09,941
+PART.2: És que no sé si m'he
+descontat, eh?
+
+123
+00:05:10,021 --> 00:05:16,461
+PART.1: Ah... El meu animal es
+compra a... A establiments
+d'animals?
+
+124
+00:05:18,021 --> 00:05:19,101
+PART.2: És una pregunta...
+
+125
+00:05:19,181 --> 00:05:19,821
+PART.1: A les botigues
+d'aquestes?
+
+126
+00:05:19,901 --> 00:05:21,461
+PART.2: No sé la resposta.
+
+127
+00:05:21,821 --> 00:05:25,381
+PART.2: No t'ho sabria dir, si
+vols formular una altra pregunta,
+perquè no tinc resposta.
+
+128
+00:05:25,461 --> 00:05:26,861
+PART.1: Vale, és comú?
+
+129
+00:05:27,941 --> 00:05:29,341
+PART.2: Jo diria que no.
+
+130
+00:05:29,421 --> 00:05:30,421
+PART.1: Vale.
+
+131
+00:05:31,381 --> 00:05:32,381
+PART.2: Vale.
+
+132
+00:05:35,461 --> 00:05:40,421
+PART.2: És la meva novena
+pregunta, hum...
+
+133
+00:05:51,301 --> 00:05:53,021
+PART.2: Estic pensant, eh?
+
+134
+00:05:56,981 --> 00:06:00,661
+PART.2: És un depredador o...
+És depredadora aquesta au?
+
+135
+00:06:00,741 --> 00:06:01,061
+PART.1: No.
+
+136
+00:06:01,141 --> 00:06:01,981
+PART.2: No, vale.
+
+137
+00:06:02,061 --> 00:06:06,381
+PART.1: Vale.
+A mi m'has dit que era aquàtica.
+Bueno...
+
+138
+00:06:06,461 --> 00:06:08,701
+PART.2: No. No t'he dit que era
+aquàtica.
+
+139
+00:06:08,781 --> 00:06:10,621
+PART.1: Bueno, hem quedat que era
+un... Vale. Que estava... Que era...
+
+140
+00:06:10,701 --> 00:06:12,061
+PART.2: Aquesta pregunta te l'he
+fet jo a tu.
+
+141
+00:06:12,141 --> 00:06:12,661
+PART.1: Ah, vale.
+
+142
+00:06:12,741 --> 00:06:13,461
+PART.2: No, tu a mi.
+
+143
+00:06:13,541 --> 00:06:13,781
+PART.1: Vale.
+
+144
+00:06:13,861 --> 00:06:15,221
+PART.2: I tu m'has dit que no era
+aquàtica.
+
+145
+00:06:15,301 --> 00:06:20,021
+PART.1: No, no era aquàtica.
+Vale, eh... Viu en una cova?
+
+146
+00:06:20,701 --> 00:06:21,701
+PART.2: No.
+
+147
+00:06:22,461 --> 00:06:23,621
+PART.2: Vale, et queda només
+una pregunta.
+
+148
+00:06:23,701 --> 00:06:24,181
+PART.1: Ja està.
+
+149
+00:06:24,261 --> 00:06:29,061
+PART.2: Tu ja estàs, i ara la
+meva desena, et diré, t'he
+preguntat, acabo de preguntar si...
+
+150
+00:06:29,141 --> 00:06:32,901
+PART.2: Si era depredadora
+i m'has dit que no. Llavors et
+diré...
+
+151
+00:06:35,581 --> 00:06:37,781
+PART.2: És una au nocturna?
+
+152
+00:06:39,181 --> 00:06:40,181
+PART.1: No.
+
+153
+00:06:42,501 --> 00:06:44,461
+PART.2: Vale, pues digues.
+
+154
+00:06:44,941 --> 00:06:47,181
+PART.1: Jo crec que jo tinc
+un mussol.
+
+155
+00:06:47,621 --> 00:06:48,621
+PART.2: No.
+
+156
+00:06:48,701 --> 00:06:49,701
+PART.1: Hum.
+
+157
+00:06:50,341 --> 00:06:56,941
+PART.2: I jo... Per les meves
+preguntes no puc deduir-ho.
+Perquè no les he encertat.
+
+158
+00:06:57,021 --> 00:07:01,581
+PART.2: Però... També diré... Jo
+també t'anava a dir que era un
+mussol, per això t'he fet l'última
+pregunta.
+
+159
+00:07:01,661 --> 00:07:07,661
+PART.2: El que passa que era o
+mussol o no mussol, així que no diré
+mussol i diré... Eh...
+
+160
+00:07:10,661 --> 00:07:11,821
+PART.2: I diré...
+
+161
+00:07:14,221 --> 00:07:15,501
+PART.2: Un colibrí.
+
+162
+00:07:15,701 --> 00:07:16,141
+PART.1: No.
+
+163
+00:07:16,221 --> 00:07:17,221
+PART.2: No.
+
+164
+00:07:17,501 --> 00:07:21,661
+PART.2: Però, però jo poder
+era un animal de companyia, tampoc
+ho sé. Però bueno, ja està, ja podem
+treure-ho.
+
+165
+00:07:23,901 --> 00:07:24,581
+PART.2: Un "swan".
+
+166
+00:07:24,661 --> 00:07:25,661
+PART.1: Ah...
+
+167
+00:07:25,741 --> 00:07:29,381
+PART.2: Però, a veure, no és
+aquàtic però sí que... I no volen
+els cisnes.
+
+168
+00:07:29,461 --> 00:07:31,541
+PART.1: Sí que volen, jo els he
+vist volar.
+
+169
+00:07:32,741 --> 00:07:34,101
+PART.1: És molt relatiu,
+vull dir.
+
+170
+00:07:34,181 --> 00:07:37,141
+PART.2: No, aquesta pregunta era
+trampa, perquè és com... o sigui...
+
+171
+00:07:37,221 --> 00:07:37,941
+PART.1: No, bueno...
+
+172
+00:07:38,021 --> 00:07:39,461
+PART.2: Després ho buscaré al...
+al Google...
+
+173
+00:07:39,541 --> 00:07:46,981
+PART.1: Però, a veure, una
+cosa, això pot volar. Vull dir, si
+t'hagués dit que no volava, pues...
+Pues seria un estruç. Saps?
+
+174
+00:07:47,061 --> 00:07:48,701
+PART.2: Un estruç no vola.
+Això sí que vola.
+
+175
+00:07:48,781 --> 00:07:49,621
+PART.2: Com és diu això?
+
+176
+00:07:49,701 --> 00:07:50,261
+PART.1: Un cigne.
+
+177
+00:07:50,341 --> 00:07:50,821
+PART.2: Són cignes, sí.
+
+178
+00:07:50,901 --> 00:07:51,421
+PART.1: Però això sí que vola.
+
+179
+00:07:51,501 --> 00:07:52,821
+PART.2: Això és com una oca, no?
+
+180
+00:07:52,901 --> 00:07:56,421
+PART.1: Sí, però clar, per això,
+per això m'has dit si es podia
+menjar i he pensat, no sabia com
+dir-t'ho.
+
+181
+00:07:56,501 --> 00:07:57,301
+PART.2: Ja, ja.
+
+182
+00:07:57,381 --> 00:07:58,701
+PART.1: Però això sí que vola.
+
+183
+00:07:58,781 --> 00:08:00,821
+PART.1: Un estruç no vola i és
+un... És un...
+
+184
+00:08:00,901 --> 00:08:03,301
+PART.2: Bueno, però això diria
+que no vola, això.
+Ara desprès ho buscaré a...
+
+185
+00:08:03,381 --> 00:08:04,141
+PART.1: Que jo ho he vist volar.
+
+186
+00:08:04,221 --> 00:08:05,661
+PART.2: Home, ja, però normalment
+no vola. És... Però si jo...
+
+187
+00:08:05,741 --> 00:08:07,661
+PART.1: Però no has vist que
+fan... "Pu", "pu"... i baixen i és
+queden allà.
+
+188
+00:08:07,741 --> 00:08:10,341
+PART.2: Bueno, ja ho miraré,
+poder sí, no sé. Vale, Pues...
+
+189
+00:08:10,741 --> 00:08:14,581
+PART.1: I el tucan, ah, mira,
+però això... I això sí que és
+exòtic..
+Clar, ho podria haber deduït.
+
+190
+00:08:14,661 --> 00:08:15,701
+PART.2: No m'ho has...
+No ho has preguntat.
+
+191
+00:08:15,781 --> 00:08:18,061
+PART.1: Ja, no t'ho he preguntat.
+I si es trobava a les botigues?
+
+192
+00:08:18,141 --> 00:08:19,341
+PART.1: Es podria comprar a una
+botiga especialitzada.
+
+193
+00:08:19,421 --> 00:08:23,101
+PART.2: T'he dit... T'he dit:
+"Fes una altra pregunta", perquè no
+sabia la resposta, perquè no es
+trobava això.
+
+194
+00:08:23,181 --> 00:08:23,661
+PART.1: Bueno.
+

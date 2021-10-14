@@ -1,0 +1,95 @@
+﻿1
+00:00:01,591 --> 00:00:02,591
+PART.1: Do you want to try it first?
+
+2
+00:00:03,511 --> 00:00:04,991
+PART.2: It doesn't matter, it's ok.
+
+3
+00:00:05,591 --> 00:00:06,991
+PART.1: Ok, let's see.
+
+4
+00:00:11,991 --> 00:00:12,991
+PART.1: Is it right?
+
+5
+00:00:14,911 --> 00:00:15,391
+PART.1: It makes sense, right?
+
+6
+00:00:15,391 --> 00:00:15,711
+PART.2: Yes, it makes sense,
+there is no blue
+and there is no... Yes.
+
+7
+00:00:15,791 --> 00:00:15,911
+PART.1: It makes sense, right?
+
+8
+00:00:15,911 --> 00:00:18,311
+PART.2: Yes, it makes sense,
+there is no blue
+and there is no... Yes.
+
+9
+00:00:18,311 --> 00:00:19,311
+PART.1: Ok.
+
+10
+00:00:25,791 --> 00:00:26,791
+PART.1: No?
+
+11
+00:00:26,791 --> 00:00:28,791
+PART.2: I think so, yes.
+
+12
+00:00:29,391 --> 00:00:31,591
+PART.1: You have to play
+like with your mind.
+
+13
+00:00:33,591 --> 00:00:39,791
+PART.2: It makes sense
+because this is a book,
+this is red, this is green
+and the mouse is grey, sure.
+
+14
+00:00:43,911 --> 00:00:45,311
+PART.2: It's mind blowing for me!
+
+15
+00:00:46,911 --> 00:00:47,911
+PART.2: Ah! Just one!
+
+16
+00:00:49,191 --> 00:00:49,511
+PART.2: Ok...
+
+17
+00:00:49,511 --> 00:00:49,951
+PART.1: They were too close
+to make it.
+
+18
+00:00:50,031 --> 00:00:50,191
+PART.2: Ok...
+
+19
+00:00:50,191 --> 00:00:52,591
+PART.1: They were too close
+to make it.
+
+20
+00:00:53,311 --> 00:00:55,311
+PART.2: I was happy
+because I've seen it.
+
+21
+00:00:59,791 --> 00:01:00,191
+PART.2: Ok, sure.
+

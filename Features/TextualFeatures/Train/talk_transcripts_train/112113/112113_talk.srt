@@ -1,0 +1,496 @@
+﻿1
+00:00:00,000 --> 00:00:00,102
+PART.1: Vale
+
+2
+00:00:05,069 --> 00:00:06,015
+PART.1: Què, què has fet abans?
+
+3
+00:00:06,222 --> 00:00:07,166
+PART.2: De què?
+
+4
+00:00:08,206 --> 00:00:10,067
+PART.1: Quin joc has fet? Has encertat?
+
+5
+00:00:10,874 --> 00:00:11,146
+PART.2: Sí.
+
+6
+00:00:11,642 --> 00:00:13,496
+PART.1: ...L’animal? Amb quants?
+
+7
+00:00:13,730 --> 00:00:14,977
+PART.2:  Tu t’has emocionat amb el lego?
+
+8
+00:00:16,002 --> 00:00:16,411
+PART.1: Sí.
+
+9
+00:00:17,865 --> 00:00:19,186
+PART.2: Amb set. I tu?
+
+10
+00:00:19,883 --> 00:00:20,074
+PART.1: Amb sis.
+
+11
+00:00:20,554 --> 00:00:22,859
+PART.2: Ho sabia. Sabia que m’ho restregaries.
+
+12
+00:00:24,699 --> 00:00:26,755
+PART.1: Per què? No... Amb sis...
+
+13
+00:00:27,491 --> 00:00:27,746
+PART.2: Ja...
+
+14
+00:00:30,002 --> 00:00:31,067
+PART.1: A veure ara qui guanya.
+
+15
+00:00:32,042 --> 00:00:32,433
+PART.2: Jo.
+
+16
+00:00:32,914 --> 00:00:33,099
+PART.1: No...
+
+17
+00:00:33,962 --> 00:00:34,129
+PART.2: No...
+
+18
+00:00:36,219 --> 00:00:38,131
+PART.1: Pues Bueno, qué tal la vida? Què t’agrada fer de hobbie?
+
+19
+00:00:38,970 --> 00:00:39,346
+PART.2:  De qué vas...?
+
+20
+00:00:43,017 --> 00:00:43,146
+PART.1: No sé...
+
+21
+00:00:43,329 --> 00:00:43,879
+PART.2: Què és allò?
+
+22
+00:00:44,600 --> 00:00:44,864
+PART.1: El què?
+
+23
+00:00:45,167 --> 00:00:45,574
+PART.2: Allò.
+
+24
+00:00:45,960 --> 00:00:46,183
+PART.1: Física.
+
+25
+00:00:46,832 --> 00:00:47,633
+PART.2: De què?
+
+26
+00:00:48,526 --> 00:00:49,776
+PART.1: No ho sé.
+
+27
+00:00:51,086 --> 00:00:54,712
+PART.1: Pot ser... No ho sé.
+
+28
+00:00:57,048 --> 00:00:57,417
+PART.1: A saber.
+
+29
+00:00:58,256 --> 00:00:59,206
+PART.2: Has fet classe aquí?
+
+30
+00:00:59,896 --> 00:01:03,280
+PART.1: No, a l’altra. I tu?
+
+31
+00:01:03,799 --> 00:01:04,070
+PART.2: No.
+
+32
+00:01:05,765 --> 00:01:07,654
+PART.1: No... Què estaves fent? La web?
+
+33
+00:01:08,064 --> 00:01:09,486
+PART.2: No. Parlant.
+
+34
+00:01:10,846 --> 00:01:11,365
+PART.1: Jo també.
+
+35
+00:01:13,112 --> 00:01:17,399
+PART.1: Pensava que ja estava fent també el doctorat.
+
+36
+00:01:18,293 --> 00:01:19,765
+PART.2: No, fa quart de lo meu,.
+
+37
+00:01:20,341 --> 00:01:22,695
+PART.1: Sí, sí, ja m’ho ha dit.
+
+38
+00:01:24,757 --> 00:01:27,669
+PART.2: No l’havia vist mai, què raro.
+
+39
+00:01:31,957 --> 00:01:32,667
+PART.1: Va, treu tema.
+
+40
+00:01:32,948 --> 00:01:33,517
+PART.2: De què?
+
+41
+00:01:33,942 --> 00:01:34,301
+PART.1: Del que sigui.
+
+42
+00:01:35,300 --> 00:01:35,788
+PART.2: Hola...
+
+43
+00:01:36,030 --> 00:01:36,701
+PART.1: Què faràs després?
+
+44
+00:01:37,934 --> 00:01:38,894
+PART.2: Pues Estudiar.
+
+45
+00:01:42,699 --> 00:01:44,029
+PART.1: Jo, igual. On anem? A la UAB?
+
+46
+00:01:44,775 --> 00:01:45,553
+PART.2: On dinem?
+
+47
+00:01:45,928 --> 00:01:46,256
+PART.1: No ho sé.
+
+48
+00:01:47,480 --> 00:01:48,744
+PART.2: Li anava a dir a m’avia.
+
+49
+00:01:49,705 --> 00:01:50,561
+PART.1: Com vegis.
+
+50
+00:01:51,112 --> 00:01:58,145
+PART.2: Però li hauria de dir ja. Però, si anem a la UAB hem de dinar abans. On dinem? Al Fair Guys?
+
+51
+00:01:58,961 --> 00:02:02,464
+PART.1: No ho sé, algo ràpid. Ni idea, o si no...
+
+52
+00:02:02,697 --> 00:02:05,737
+PART.2: Pues fideus, fideus i ja està, si vols.
+
+53
+00:02:07,064 --> 00:02:07,920
+PART.1: Bueno, ara veiem.
+
+54
+00:02:08,280 --> 00:02:08,977
+PART.2: Uns fideus així.
+
+55
+00:02:09,487 --> 00:02:10,993
+PART.2: És que si he d’anar allà a baix perdré molt temps.
+
+56
+00:02:12,065 --> 00:02:14,391
+PART.2: Anem als Fideus i anem a l’Autònoma i ja està.
+
+57
+00:02:15,768 --> 00:02:17,976
+PART.1: Vale, perfecte.
+
+58
+00:02:21,721 --> 00:02:22,472
+PART.2: Has quedat demà?
+
+59
+00:02:22,936 --> 00:02:23,545
+PART.1: No.
+
+60
+00:02:25,375 --> 00:02:25,646
+PART.1: No, no.
+
+61
+00:02:28,337 --> 00:02:28,961
+PART.2: Que va, aquesta nit?
+
+62
+00:02:29,983 --> 00:02:31,750
+PART.1: De què? A Eurovisión vens, no?
+
+63
+00:02:33,168 --> 00:02:33,400
+PART.2: Vale.
+
+64
+00:02:34,858 --> 00:02:35,927
+PART.2: Fem lo de l’any passat?
+
+65
+00:02:36,512 --> 00:02:36,992
+PART.1: De què?
+
+66
+00:02:37,673 --> 00:02:38,328
+PART.2: A l’any passat...
+
+67
+00:02:38,768 --> 00:02:39,033
+PART.1: A pues...
+
+68
+00:02:43,470 --> 00:02:43,785
+PART.2: No, no.
+
+69
+00:02:44,320 --> 00:02:45,081
+PART.1: Ja no, ja no.
+
+70
+00:02:46,232 --> 00:02:47,344
+PART.2: Què és lo de l’any passat?
+
+71
+00:02:48,809 --> 00:02:51,583
+PART.1: Que vas veure de mirar qui ens anaven a guanyar.
+
+72
+00:02:52,144 --> 00:02:57,183
+PART.2: És que vaig veure les semifinals i vaig encertar qui guanyava, però aquest any no he mirat res.
+
+73
+00:02:57,583 --> 00:02:58,199
+PART.2: O sigui que no sé.
+
+74
+00:02:59,481 --> 00:03:08,800
+PART.2: És més divertit si mires les semifinals, perquè més o menys veus ja, quan ho tornes a escoltar és diferent que quan ho has escoltat per primera vegada.
+
+75
+00:03:10,048 --> 00:03:11,729
+PART.1: Bueno, després ho veiem i a veure què tal.
+
+76
+00:03:12,119 --> 00:03:14,305
+PART.2: Jo he de fer projectiva, topo i càlcul.
+
+77
+00:03:16,968 --> 00:03:17,551
+PART.1: Jo, erre.
+
+78
+00:03:17,944 --> 00:03:19,425
+PART.2: Los tres mosqueteros. Pam!
+
+79
+00:03:20,447 --> 00:03:22,376
+PART.1: Jo haig de fer, vull que quedi gravat.
+
+80
+00:03:23,232 --> 00:03:24,992
+PART.2: Ai, IO, IO, haig de fer IO.
+
+81
+00:03:25,255 --> 00:03:27,065
+PART.1: Jo haig de fer la pràctica del... commission.
+
+82
+00:03:27,778 --> 00:03:29,026
+PART.1: I ja està, ja qui ho vegi...
+
+83
+00:03:29,596 --> 00:03:30,083
+PART.2: Digues-li hola.
+
+84
+00:03:36,338 --> 00:03:37,483
+PART.2: Aún no he empezado.
+
+85
+00:03:39,033 --> 00:03:39,853
+PART.2: No has començat.
+
+86
+00:03:40,242 --> 00:03:41,329
+PART.1: Que va, tía, l’estic acabant.
+
+87
+00:03:41,652 --> 00:03:42,227
+PART.2: Ah.
+
+88
+00:03:42,419 --> 00:03:43,170
+PART.1: Estoy por el deporte.
+
+89
+00:03:46,809 --> 00:03:47,594
+PART.2: Pues això.
+
+90
+00:03:49,609 --> 00:03:52,715
+PART.1: Bueno, pues em sona que hem de fer com si no hi hagués la càmera, així que ho hem fet malament, no?
+
+91
+00:03:55,339 --> 00:03:55,659
+PART.1: O què?
+
+92
+00:03:55,631 --> 00:03:57,097
+PART.2: No ho sé, després ho retallen.
+
+93
+00:03:58,777 --> 00:03:59,145
+PART.2: I què més?
+
+94
+00:03:59,922 --> 00:04:02,177
+PART.2: Quines coses més? A ver, eh?
+
+95
+00:04:02,737 --> 00:04:03,818
+PART.1: Quines coses més de què?
+
+96
+00:04:04,200 --> 00:04:05,199
+PART.2: De no sé, de temes.
+
+97
+00:04:05,408 --> 00:04:06,169
+PART.1: No tapis la càmera.
+
+98
+00:04:06,480 --> 00:04:08,431
+PART.2: No tapo res, jo, si ara no hi ha cap joc.
+
+99
+00:04:09,121 --> 00:04:10,737
+PART.1: Ja, però também ira cap a on vas.
+
+100
+00:04:11,625 --> 00:04:12,144
+PART.2: Vale.
+
+101
+00:04:17,656 --> 00:04:18,160
+PART.2: Pum.
+
+102
+00:04:19,736 --> 00:04:22,137
+PART.2: Què, quan t’apuntes al gim?
+
+103
+00:04:25,449 --> 00:04:27,673
+PART.1: Quan acabi els exàmens d’aquí.
+
+104
+00:04:28,895 --> 00:04:29,193
+PART.2: Però quin dia?
+
+105
+00:04:30,672 --> 00:04:33,288
+PART.1: La setmana que ve, no, l’altra.
+
+106
+00:04:34,818 --> 00:04:35,728
+PART.2: Sempre atraçant-ho, eh?
+
+107
+00:04:36,338 --> 00:04:38,200
+PART.1: Bueno, es que no tinc més dies...
+
+108
+00:04:38,439 --> 00:04:39,417
+PART.2: Després aniràs l’últim al ranking.
+
+109
+00:04:39,632 --> 00:04:40,495
+PART.1: No puc...
+
+110
+00:04:41,376 --> 00:04:46,235
+PART.2: Haig de mirar com vaig al ranking. Amb un dia més i sèrie top deu.
+
+111
+00:04:47,241 --> 00:04:47,687
+PART.1: Top deu?
+
+112
+00:04:48,049 --> 00:04:48,392
+PART.2: Top ten.
+
+113
+00:04:51,368 --> 00:04:54,498
+PART.2: Has d’anar pel gim, i després, spa.
+
+114
+00:04:55,810 --> 00:04:59,704
+PART.2: I el pròxim restaurant quin és?
+
+115
+00:05:00,337 --> 00:05:01,840
+PART.2: Ai, hem de publicar les truites.
+
+116
+00:05:02,480 --> 00:05:03,256
+PART.1: Ja ho vas fer, no?
+
+117
+00:05:03,439 --> 00:05:04,704
+PART.2: No, perquè era de nit.
+
+118
+00:05:05,408 --> 00:05:07,056
+PART.2: Ho hem de fer ara, que així la gent ho veu, no?
+
+119
+00:05:07,424 --> 00:05:08,847
+PART.1: A vale, però com que els vas etiquetar...
+
+120
+00:05:09,008 --> 00:05:10,639
+PART.2: No els vaig etiquetar, vaig posar la localització.
+
+121
+00:05:11,559 --> 00:05:12,823
+PART.1: Ah, vale.
+
+122
+00:05:13,775 --> 00:05:14,344
+PART.1: Doncs sí, posa-ho.
+
+123
+00:05:14,519 --> 00:05:15,329
+PART.2: Ho hem de publicar.
+
+124
+00:05:17,136 --> 00:05:17,625
+PART.2: Doncs això.
+

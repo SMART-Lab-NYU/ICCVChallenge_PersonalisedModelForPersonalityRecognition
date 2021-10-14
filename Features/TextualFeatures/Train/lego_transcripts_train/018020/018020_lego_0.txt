@@ -1,0 +1,77 @@
+1
+00:00:01,763 --> 00:00:03,083
+PART.2:  Venga.
+
+2
+00:00:08,323 --> 00:00:09,523
+PART.2:  Este es el primero.
+
+3
+00:00:09,603 --> 00:00:10,323
+PART.1:  Ah, no.
+
+4
+00:00:12,563 --> 00:00:13,523
+PART.1:  Es este.
+
+5
+00:00:13,603 --> 00:00:14,243
+PART.1:  Ah.
+
+6
+00:00:15,243 --> 00:00:16,563
+PART.2:  Te voy a matar, Valeria.
+
+7
+00:00:18,763 --> 00:00:20,243
+PART.2:  Esa, esta.
+
+8
+00:00:20,323 --> 00:00:23,603
+PART.2:  Venga, vete uniendo, yo busco y tú
+unes, a ver si estás espabilada.
+
+9
+00:00:30,363 --> 00:00:31,763
+PART.2:  A esa.
+
+10
+00:00:32,283 --> 00:00:33,843
+PART.2:  Ahora esta.
+
+11
+00:00:35,443 --> 00:00:35,963
+PART.2:  O no.
+
+12
+00:00:36,043 --> 00:00:37,203
+PART.2: Sí, sí es el color.
+
+13
+00:00:39,283 --> 00:00:40,643
+PART.2:  Quítate la mano de la cara.
+
+14
+00:00:41,803 --> 00:00:43,043
+PART.1:  Ah, me la estoy sujetando.
+
+15
+00:00:43,123 --> 00:00:44,043
+PART.2:  Que es peor.
+
+16
+00:00:45,763 --> 00:00:48,003
+PART.2:  Esta, chica, pon esta.
+
+17
+00:00:48,083 --> 00:00:49,243
+PART.1:  Ah, no, no, no.
+
+18
+00:00:48,523 --> 00:00:49,603
+PART.2:  Y la otra y esta.
+
+19
+00:00:50,723 --> 00:00:52,963
+PART.1:  A ver, que yo ni siquiera veo.
+

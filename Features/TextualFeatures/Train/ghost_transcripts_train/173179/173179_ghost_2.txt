@@ -1,0 +1,102 @@
+69
+00:02:01,305 --> 00:02:02,585
+PART.1: Ahora lo estoy pillando.
+
+70
+00:02:04,385 --> 00:02:05,105
+PART.1: El verde.
+
+71
+00:02:05,905 --> 00:02:06,385
+PART.2: No.
+
+72
+00:02:06,625 --> 00:02:07,585
+PART.2: El fantasma.
+
+73
+00:02:07,945 --> 00:02:08,585
+PART.1: ¿Por qué?
+
+74
+00:02:08,665 --> 00:02:11,225
+PART.2: Porque el libro aquí es verde y
+el libro es azul.
+
+75
+00:02:12,905 --> 00:02:13,465
+PART.1: A ver.
+
+76
+00:02:14,105 --> 00:02:14,865
+PART.2: El sillón.
+
+77
+00:02:17,945 --> 00:02:19,425
+PART.1: Aquí el...
+
+78
+00:02:19,505 --> 00:02:20,225
+PART.2: La botella.
+
+79
+00:02:21,345 --> 00:02:23,865
+PART.1: Claro, tú has jugado muchas veces
+y lo estás haciendo bien.
+
+80
+00:02:23,945 --> 00:02:25,625
+PART.1: Y aquí es el fantasma.
+
+81
+00:02:25,705 --> 00:02:26,305
+PART.2: No.
+
+82
+00:02:26,385 --> 00:02:27,585
+PART.2: Aquí es el ratón.
+
+83
+00:02:31,225 --> 00:02:32,505
+PART.1: ¡El fantasma!
+
+84
+00:02:34,025 --> 00:02:35,225
+PART.2: ¡Bien!
+
+85
+00:02:35,305 --> 00:02:36,345
+PART.2: ¿A ver cuántas?
+
+86
+00:02:37,185 --> 00:02:39,185
+PART.1: Nueve, seguramente.
+
+87
+00:02:39,825 --> 00:02:41,025
+PART.2: Son las que he ganado antes.
+
+88
+00:02:41,985 --> 00:02:42,745
+PART.2: Antes he ganado.
+
+89
+00:02:47,465 --> 00:02:49,385
+PART.1: Pero la primera vez no habrás
+ganado tantas veces.
+
+90
+00:02:49,465 --> 00:02:51,945
+PART.2: No, mira, con la Nuria he
+perdido.
+
+91
+00:02:53,225 --> 00:02:58,385
+PART.2: Con la chica he perdido una vez y
+he ganado una vez.
+
+92
+00:02:58,465 --> 00:03:01,705
+PART.2: Porque hemos jugado rápido y
+hemos jugado otra.
+

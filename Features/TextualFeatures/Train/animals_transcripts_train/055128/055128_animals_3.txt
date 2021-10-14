@@ -1,0 +1,124 @@
+63
+00:03:01,226 --> 00:03:02,666
+PART.1: Ni idea
+
+64
+00:03:02,701 --> 00:03:03,444
+PART.2: Digues un animal.
+
+65
+00:03:03,146 --> 00:03:07,036
+PART.1: Ai! Què porti banyes?
+
+66
+00:03:07,037 --> 00:03:12,057
+PART.1: Si no és un cérvol i no és un reno, però m'has dit que no vivia a llocs freds
+
+67
+00:03:12,975 --> 00:03:14,715
+PART.2: Vinga, que no podem estar tot el dia.
+
+68
+00:03:14,489 --> 00:03:15,656
+PART.1: Vinga ja està, no, no ho sé.
+
+69
+00:03:15,354 --> 00:03:16,898
+PART.2: Digues un animal que tingui banyes.
+
+70
+00:03:16,457 --> 00:03:17,027
+PART.1: Un alce.
+
+71
+00:03:17,672 --> 00:03:20,688
+PART.2: Ja ho havies dit, t'he dit que no, no ho era.
+
+72
+00:03:20,817 --> 00:03:21,736
+PART.1: Doncs, ja està.
+
+73
+00:03:21,712 --> 00:03:22,439
+PART.2:  No ho era.
+
+74
+00:03:22,778 --> 00:03:23,658
+PART.2: Vale, ara em toca a mi.
+
+75
+00:03:23,659 --> 00:03:24,659
+PART.1: I no puc deixar-la?
+
+76
+00:03:25,124 --> 00:03:26,637
+PART.2: Crec que al final, no?
+
+77
+00:03:26,921 --> 00:03:28,095
+PART.2: Bueno, si vols sí, deixa'l.
+
+78
+00:03:28,376 --> 00:03:29,330
+PART.2: Era una cabra.
+
+79
+00:03:29,696 --> 00:03:30,680
+PART.1: Ah, una cabra.
+
+80
+00:03:30,966 --> 00:03:32,166
+PART.1: Hòstia, una cabra.
+
+81
+00:03:32,365 --> 00:03:33,278
+PART.2: Mira que era fàcil.
+
+82
+00:03:33,043 --> 00:03:35,004
+PART.1: Mira que estat a punt de dir si es menjava.
+
+83
+00:03:36,015 --> 00:03:37,281
+PART.2: Vale, ara jo.
+
+84
+00:03:37,869 --> 00:03:38,997
+PART.2: És un mamífer?
+
+85
+00:03:38,164 --> 00:03:39,733
+PART.1: Sí.
+
+86
+00:03:41,233 --> 00:03:41,952
+PART.2: Sí?
+
+87
+00:03:42,214 --> 00:03:43,016
+PART.1: Sí.
+
+88
+00:03:45,730 --> 00:03:46,533
+PART.2: Viu al mar?
+
+89
+00:03:46,378 --> 00:03:47,547
+PART.1: No.
+
+90
+00:03:49,364 --> 00:03:50,164
+PART.2: Viu a l'Àfrica?
+
+91
+00:03:51,104 --> 00:03:51,696
+PART.1: No.
+
+92
+00:03:54,317 --> 00:03:55,476
+PART.2: Porto tres.
+
+93
+00:03:59,276 --> 00:04:00,036
+PART.2: És herbívor?
+

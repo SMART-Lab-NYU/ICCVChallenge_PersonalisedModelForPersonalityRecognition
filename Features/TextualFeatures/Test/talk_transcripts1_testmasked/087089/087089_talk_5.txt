@@ -1,0 +1,38 @@
+106
+00:05:01,079 --> 00:05:02,501
+PART.1: [MASKED] casi
+siempre yo solo.
+
+107
+00:05:03,901 --> 00:05:05,480
+PART.1: Al principio s� que hablaba mucho
+con Jordi [MASKED]
+
+108
+00:05:07,479 --> 00:05:11,480
+PART.1: [MASKED] tir el modelo y tal,
+ahora como estoy con el servidor
+este, que tengo que corra ah�,
+pue [MASKED]
+
+109
+00:05:13,479 --> 00:05:14,461
+PART.1: [MASKED] ues ya s�
+que...
+
+110
+00:05:15,461 --> 00:05:20,461
+PART.1: Y decir, pues mira, porque ahora
+tenemos 400 000 mol�culas y tengo
+que decir, con todas estas, he
+conseguido esto.
+
+111
+00:05:20,541 --> 00:05:23,541
+PART.1: Y si puede mejorar o no, pues...
+
+112
+00:05:28,781 --> 00:05:31,061
+PART.1: Pero que no tengo que cambiar
+mucho la arquitectura tampoco.
+

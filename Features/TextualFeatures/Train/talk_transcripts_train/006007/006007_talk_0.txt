@@ -1,0 +1,89 @@
+1
+00:00:00,000 --> 00:00:00,779
+PART.1: Ok.
+
+2
+00:00:00,859 --> 00:00:01,859
+PART.2: What should we talk about?
+
+3
+00:00:01,859 --> 00:00:08,859
+PART.1: Actually, I brought
+the ping pong rackets
+but we are not going to have time
+to play after this.
+
+4
+00:00:09,659 --> 00:00:11,179
+PART.2: Yes, not really.
+
+5
+00:00:11,259 --> 00:00:15,259
+PART.1: But did you go play last weekend?
+
+6
+00:00:15,259 --> 00:00:16,019
+PART.2: Yes, I went on Sunday
+and we were playing volleyball,
+but on Saturday I did play.
+
+7
+00:00:16,099 --> 00:00:16,459
+PART.1: But did you go play last weekend?
+
+8
+00:00:16,459 --> 00:00:22,379
+PART.2: Yes, I went on Sunday
+and we were playing volleyball,
+but on Saturday I did play.
+
+9
+00:00:22,379 --> 00:00:23,379
+PART.1: Yes.
+
+10
+00:00:23,379 --> 00:00:25,379
+PART.2: Also on Friday evening.
+
+11
+00:00:25,379 --> 00:00:33,779
+PART.1: Yes, we could sometimes go
+like after but these Saturdays
+are for me supercomplicated.
+
+12
+00:00:33,779 --> 00:00:42,059
+PART.2: Yes, so normally we can play
+until the sunset
+which is at 10pm or 9pm.
+
+13
+00:00:42,139 --> 00:00:42,259
+PART.2: Yes, so normally we can play
+until the sunset
+which is at 10pm or 9pm.
+
+14
+00:00:42,259 --> 00:00:43,059
+PART.1: Yes.
+
+15
+00:00:43,379 --> 00:00:54,659
+PART.2: So, sometimes we are playing
+in Ciutadella or in Barceloneta
+from 7pm or 6pm
+until 8pm or 8:30pm.
+
+16
+00:00:54,859 --> 00:00:56,779
+PART.1: Yes, after work?
+
+17
+00:00:56,779 --> 00:00:58,579
+PART.2: Yes, after work.
+
+18
+00:00:58,579 --> 00:01:01,659
+PART.1: But you guys
+are always going to Ciutadella?
+

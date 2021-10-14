@@ -1,0 +1,1219 @@
+﻿1
+00:00:00,219 --> 00:00:02,899
+PART.1: Molt bé, vols començar tu o vols que comenci jo?
+
+2
+00:00:02,443 --> 00:00:03,419
+PART.2: "Bueno".
+
+3
+00:00:03,099 --> 00:00:04,519
+PART.1: Comences tu, val.
+
+4
+00:00:05,699 --> 00:00:07,019
+PART.2: Viu a l'aigua?
+
+5
+00:00:07,099 --> 00:00:08,059
+PART.1: No. Val.
+
+6
+00:00:10,939 --> 00:00:11,939
+PART.1: És mamífer?
+
+7
+00:00:12,019 --> 00:00:13,339
+PART.2: No.
+
+8
+00:00:13,419 --> 00:00:17,379
+PART.1: Val. OK, en portem una. Vas tu.
+
+9
+00:00:17,459 --> 00:00:21,419
+PART.2: No viu a l'aigua. És un animal?
+
+10
+00:00:21,499 --> 00:00:24,779
+PART.1: Sí, sí, tot són animals.
+
+11
+00:00:24,859 --> 00:00:25,979
+PART.2: Sí, sí.
+
+12
+00:00:26,059 --> 00:00:27,699
+PART.1: No te la gasto.
+
+13
+00:00:27,779 --> 00:00:28,979
+PART.2: Mamífer?
+
+14
+00:00:29,059 --> 00:00:29,899
+PART.1: Sí.
+
+15
+00:00:29,379 --> 00:00:30,539
+PART.2: Mamífer.
+
+16
+00:00:30,619 --> 00:00:32,819
+PART.1: Val. I jo et pregunto...
+
+17
+00:00:36,339 --> 00:00:37,739
+PART.1: Viu a l'aigua?
+
+18
+00:00:37,819 --> 00:00:39,219
+PART.2: No.
+
+19
+00:00:39,299 --> 00:00:41,579
+PART.1: Val. Vas tu.
+
+20
+00:00:41,659 --> 00:00:46,779
+PART.2: És un animal… T'he dit que és un animal…
+
+21
+00:00:46,859 --> 00:00:50,659
+PART.2: T'he dit que és mamífer… És molt gran?
+
+22
+00:00:50,739 --> 00:00:52,099
+PART.1: No.
+
+23
+00:00:52,179 --> 00:00:53,659
+PART.2: Val.
+
+24
+00:00:53,739 --> 00:00:57,579
+PART.1: El meu… El meu… és un ocell?
+
+25
+00:01:01,939 --> 00:01:03,099
+PART.1: Una au, és una au?
+
+26
+00:01:03,179 --> 00:01:04,939
+PART.2: Podríem dir… Sí.
+
+27
+00:01:05,019 --> 00:01:05,979
+PART.1: Val.
+
+28
+00:01:06,059 --> 00:01:09,779
+PART.2: És clar…Pot ser un ocell, però també és una au.
+
+29
+00:01:09,859 --> 00:01:13,139
+PART.1: Una au, val. OK, vas tu. En portem tres.
+
+30
+00:01:13,219 --> 00:01:14,139
+PART.2: Val.
+
+31
+00:01:16,539 --> 00:01:18,459
+PART.2: He dit… Havia dit si era mam…
+
+32
+00:01:18,539 --> 00:01:24,379
+PART.1: Sí, m'has preguntat si és mamífer
+i sí, t'he dit que sí, que no viu a l'aigua…
+
+33
+00:01:24,459 --> 00:01:26,299
+PART.2: I que no és gran.
+
+34
+00:01:26,379 --> 00:01:27,539
+PART.1: Exacte.
+
+35
+00:01:27,619 --> 00:01:30,619
+PART.2: I que no és gran.
+I que no és gran.
+
+36
+00:01:30,699 --> 00:01:31,739
+PART.2: I que no és gran.
+
+37
+00:01:31,819 --> 00:01:32,939
+PART.2: Mamífer. Mamífer.
+
+38
+00:01:37,379 --> 00:01:38,779
+PART.2: Mamífer.
+
+39
+00:01:46,939 --> 00:01:54,899
+PART.2: És sociable? És un animal sociable
+com podria ser un gos, un gat o un lleó o una pantera?
+
+40
+00:01:54,979 --> 00:01:56,019
+PART.2: O què sé jo!
+
+41
+00:01:56,099 --> 00:01:58,299
+PART.1: Bona pregunta.
+
+42
+00:02:00,459 --> 00:02:01,059
+PART.1: Diria que no.
+
+43
+00:02:01,139 --> 00:02:03,099
+PART.2: Diries que no, normalment, no.
+
+44
+00:02:03,179 --> 00:02:04,499
+PART.1: No, diria que no.
+
+45
+00:02:04,579 --> 00:02:06,059
+PART.2: Normalment, no, val.
+
+46
+00:02:06,139 --> 00:02:08,699
+PART.1: No és agressiu, però no és tipus gat o gos.
+
+47
+00:02:08,779 --> 00:02:12,379
+PART.2: O sigui, no és un animal de companyia,
+per dir-ho d'alguna manera.
+
+48
+00:02:12,459 --> 00:02:13,259
+PART.1: Exacte.
+
+49
+00:02:14,179 --> 00:02:20,299
+PART.1: Val. Jo. És un animal que pot estar a la granja?
+
+50
+00:02:20,379 --> 00:02:25,739
+PART.2: Normalment, no. Normalment, no.
+
+51
+00:02:25,819 --> 00:02:29,219
+PART.1: OK. Val. Vas tu.
+
+52
+00:02:31,859 --> 00:02:33,739
+PART.2: L'última cosa que he dit…
+
+53
+00:02:33,819 --> 00:02:35,419
+PART.1: Que si era sociable…
+
+54
+00:02:35,499 --> 00:02:36,539
+PART.2: Sociable.
+
+55
+00:02:45,899 --> 00:02:48,659
+PART.2: Viu en boscos? A la muntanya?
+
+56
+00:02:48,739 --> 00:02:53,899
+PART.1: Sí, sí. Val. El meu és gran per ser una au?
+
+57
+00:02:53,979 --> 00:02:55,459
+PART.1: És de les grans?
+
+58
+00:02:55,539 --> 00:02:58,739
+PART.2: Sí, per ser una au, sí.
+
+59
+00:02:58,819 --> 00:03:00,179
+PART.1: Val.
+
+60
+00:03:00,259 --> 00:03:01,539
+PART.2: Sí.
+
+61
+00:03:01,619 --> 00:03:03,419
+PART.1: Val. Vas.
+
+62
+00:03:04,339 --> 00:03:06,459
+PART.2: Viu a la muntanya.
+
+63
+00:03:06,539 --> 00:03:09,819
+PART.2: Aquest animal viu a la muntanya. És carnívor?
+
+64
+00:03:14,579 --> 00:03:15,379
+PART.2: Menja de tot.
+
+65
+00:03:15,459 --> 00:03:17,539
+PART.1: Diria que és omnívor.
+
+66
+00:03:17,619 --> 00:03:19,939
+PART.1: O sigui que menja de les dues coses.
+
+67
+00:03:20,019 --> 00:03:22,019
+PART.2: Sí, "bueno", bé, bé.
+
+68
+00:03:22,099 --> 00:03:23,539
+PART.1: No firmaria…
+
+69
+00:03:23,619 --> 00:03:26,179
+PART.2: "Bueno, bueno, bueno, bueno".
+
+70
+00:03:26,259 --> 00:03:28,659
+PART.1: No és el típic "menjacarn".
+
+71
+00:03:28,739 --> 00:03:30,219
+PART.2: No, val, val.
+
+72
+00:03:30,299 --> 00:03:32,899
+PART.1: Val, el meu sap volar?
+
+73
+00:03:32,979 --> 00:03:34,059
+PART.2: Sí.
+
+74
+00:03:34,139 --> 00:03:36,419
+PART.1: Sí? Val, perfecte.
+
+75
+00:03:36,499 --> 00:03:38,899
+PART.2: Sí. Sí, sí. Té pèls?
+
+76
+00:03:38,979 --> 00:03:40,019
+PART.1: Sí.
+
+77
+00:03:40,099 --> 00:03:41,139
+PART.2: Bé.
+
+78
+00:03:41,219 --> 00:03:42,339
+PART.1: Val.
+
+79
+00:03:44,139 --> 00:03:50,139
+PART.1: Sap volar, per ser una au és bastant gran,
+es com tipus ocell…
+
+80
+00:03:50,219 --> 00:03:53,619
+PART.1: Normalment, no està a la granja...
+
+81
+00:03:55,779 --> 00:03:56,779
+PART.2: Sap volar.
+
+82
+00:03:56,859 --> 00:03:58,019
+PART.1: Sap volar, sí.
+
+83
+00:03:58,099 --> 00:03:59,379
+PART.2: És un ocell gran.
+
+84
+00:03:59,459 --> 00:04:00,139
+PART.1: Hum.
+
+85
+00:04:05,859 --> 00:04:08,139
+PART.1: És típic com de bec corbat?
+
+86
+00:04:08,219 --> 00:04:12,059
+PART.2: Sí, no és molt corbat, però no és…
+
+87
+00:04:12,139 --> 00:04:13,979
+PART.1: No és així.
+
+88
+00:04:14,059 --> 00:04:19,059
+PART.2: …no és el que insinues,
+no és el que tu insinues.
+
+89
+00:04:19,139 --> 00:04:21,779
+PART.1: Val. OK. Val, vas tu.
+
+90
+00:04:21,859 --> 00:04:24,699
+PART.2: Has dit que tenia pèls.
+
+91
+00:04:25,979 --> 00:04:28,419
+PART.2: Acostuma a tenir molts cadells?
+
+92
+00:04:28,499 --> 00:04:29,579
+PART.1: Sí.
+
+93
+00:04:29,659 --> 00:04:31,419
+PART.2: O criatures?
+
+94
+00:04:31,499 --> 00:04:32,539
+PART.1: Sí.
+
+95
+00:04:32,619 --> 00:04:33,739
+PART.2: Val.
+
+96
+00:04:33,819 --> 00:04:34,939
+PART.1: Set.
+
+97
+00:04:39,379 --> 00:04:44,099
+PART.1: Val. És un ocell caçador? O sigui, menja altres…
+
+98
+00:04:44,179 --> 00:04:45,939
+PART.2: No. No.
+
+99
+00:04:46,019 --> 00:04:47,859
+PART.1: OK. Val.
+
+100
+00:04:47,939 --> 00:04:53,179
+PART.2: Un animal que té pèl, que té molts cadells.
+
+101
+00:04:53,259 --> 00:04:55,459
+PART.2: Segons com és agressiu?
+
+102
+00:04:59,779 --> 00:05:01,659
+PART.2: Si és el que penso, segons com, és agressiu.
+
+103
+00:05:01,739 --> 00:05:03,259
+PART.1: Diria que no és agressiu…
+
+104
+00:05:03,339 --> 00:05:05,379
+PART.2: No és agressiu, però quan s'acorrala…
+
+105
+00:05:05,459 --> 00:05:06,299
+PART.1: Potser sí.
+
+106
+00:05:06,379 --> 00:05:07,659
+PART.2: Quan està acorralat…
+
+107
+00:05:07,739 --> 00:05:10,619
+PART.1: Sí, potser quan s'acorrala, es posa "txungo". Crec que sí.
+
+108
+00:05:10,699 --> 00:05:11,619
+PART.2: Sí, sí. Val.
+
+109
+00:05:11,699 --> 00:05:12,739
+PART.1: Jo crec que sí.
+
+110
+00:05:12,819 --> 00:05:16,539
+PART.1: Val, el meu no és caçador…
+
+111
+00:05:16,619 --> 00:05:21,739
+PART.2: No és caçador, és una au gran, m'entens?
+
+112
+00:05:21,819 --> 00:05:23,299
+PART.1: És…?
+
+113
+00:05:23,379 --> 00:05:26,619
+PART.2: No té el bec corbat...
+
+114
+00:05:28,539 --> 00:05:30,859
+PART.1: És carronyaire?
+
+115
+00:05:30,939 --> 00:05:32,179
+PART.2: No.
+
+116
+00:05:32,259 --> 00:05:33,579
+PART.1: Val.
+
+117
+00:05:33,659 --> 00:05:40,779
+PART.2: Per això t'havia dit que no tenia el bec així,
+que és el que et deia.
+
+118
+00:05:40,859 --> 00:05:42,899
+PART.1: Val. Vas tu.
+
+119
+00:05:42,979 --> 00:05:45,459
+PART.2: Vaig jo. Vaig jo.
+
+120
+00:05:48,419 --> 00:05:53,939
+PART.2: Actualment, aquest animal, a Barcelona, es veu bastant? Per…
+
+121
+00:05:54,019 --> 00:05:55,659
+PART.1: Ah, no.
+
+122
+00:05:55,739 --> 00:05:56,979
+PART.2: No.
+
+123
+00:05:57,059 --> 00:05:59,139
+PART.1: Crec que no.
+
+124
+00:05:59,219 --> 00:06:02,739
+PART.2: Creus que no. Val. Ja estem.
+
+125
+00:06:02,819 --> 00:06:05,939
+PART.1: O sigui, no va per aquí.
+
+126
+00:06:06,019 --> 00:06:12,819
+PART.2: No, m'entens? És a dir, per la muntanya sí,
+però també, en segons quins pobles, baixa, per això.
+
+127
+00:06:12,899 --> 00:06:15,739
+PART.1: És clar, que també va a la ciutat.
+
+128
+00:06:15,819 --> 00:06:17,179
+PART.1: No, val, no és aquest.
+
+129
+00:06:17,259 --> 00:06:18,779
+PART.2: Val, val, val.
+
+130
+00:06:18,859 --> 00:06:20,579
+PART.1: És una au diürna?
+
+131
+00:06:24,139 --> 00:06:25,779
+PART.2: Sí, sí, sí, sí.
+
+132
+00:06:25,859 --> 00:06:29,339
+PART.1: Sí? Val. Ens queden dues preguntes. Vas tu.
+
+133
+00:06:29,419 --> 00:06:31,059
+PART.2: Sí. Sí, sí. Sí.
+
+134
+00:06:37,819 --> 00:06:38,739
+PART.2: "Bueno", jo ara…
+
+135
+00:06:38,819 --> 00:06:40,739
+PART.1: Ara se n'ha anat tot.
+
+136
+00:06:40,819 --> 00:06:44,059
+PART.2: …haig de refer una altra vegada l'assumpte.
+
+137
+00:06:44,139 --> 00:06:47,939
+PART.1: És un animal més o menys petit, mamífer, terrestre...
+
+138
+00:06:48,019 --> 00:06:49,219
+PART.2: Terrestre…
+
+139
+00:06:49,299 --> 00:06:50,979
+PART.1: Amb molts cadells.
+
+140
+00:06:51,059 --> 00:06:54,659
+PART.2: …amb molts cadells, m'entens? Amb molts cadells...
+
+141
+00:06:56,539 --> 00:07:05,459
+PART.2: Amb molts cadells, pot ser un… pot ser una guineu, pot ser...
+
+142
+00:07:07,579 --> 00:07:12,619
+PART.2: Té molts cadells. Els llops tenen molts cadells,
+les guineus també.
+
+143
+00:07:12,699 --> 00:07:16,299
+PART.2: Quins animals més hi ha
+que tinguin molts daixò…
+
+144
+00:07:16,379 --> 00:07:19,259
+PART.2: Un porc senglar no, perquè aquests no…
+
+145
+00:07:19,339 --> 00:07:20,819
+PART.2: Estan descartats ja.
+
+146
+00:07:20,899 --> 00:07:22,019
+PART.1: Hum.
+
+147
+00:07:23,939 --> 00:07:29,779
+PART.2: I viu a la muntanya. I té pèls i crien bastant.
+
+148
+00:07:29,859 --> 00:07:36,099
+PART.1: És petit, eh? O sigui, quan t'he dit que era petit…
+
+149
+00:07:36,179 --> 00:07:39,059
+PART.1: Per ser un mamífer, és petit.
+
+150
+00:07:39,139 --> 00:07:41,819
+PART.2: Sí, sí. Té pèls.
+
+151
+00:07:46,379 --> 00:07:47,939
+PART.2: Estic totalment despistat.
+
+152
+00:07:52,419 --> 00:07:52,859
+PART.2: Passo.
+
+153
+00:07:52,939 --> 00:07:56,379
+PART.1: "Bueno", fes… Vols una minipista?
+
+154
+00:07:56,459 --> 00:07:59,099
+PART.2: No, passo perquè estic…
+
+155
+00:07:59,179 --> 00:08:02,819
+PART.2: Ara no el trobaré, encara que passi mitja hora.
+
+156
+00:08:02,899 --> 00:08:05,459
+PART.1: Jo, en realitat…
+
+157
+00:08:05,539 --> 00:08:13,699
+PART.2: Encara que… A veure, repetim el que has dit
+perquè puguis, d'alguna manera…
+
+158
+00:08:13,779 --> 00:08:19,739
+PART.2: No és un carronyaire, és una au
+gran, m'entens? És una au gran.
+
+159
+00:08:19,819 --> 00:08:21,979
+PART.1: Que no caça.
+
+160
+00:08:22,059 --> 00:08:24,739
+PART.2: No caça. No caça.
+
+161
+00:08:26,619 --> 00:08:27,579
+PART.1: Sap volar.
+
+162
+00:08:27,659 --> 00:08:28,619
+PART.2: Sap volar.
+
+163
+00:08:28,699 --> 00:08:29,659
+PART.1: És diürna.
+
+164
+00:08:29,739 --> 00:08:30,699
+PART.2: És diürna.
+
+165
+00:08:30,779 --> 00:08:32,539
+PART.1: No sol estar a les granges.
+
+166
+00:08:32,619 --> 00:08:35,419
+PART.1: Pot estar-hi, però m'has dit que no sol estar a les granges.
+
+167
+00:08:35,499 --> 00:08:36,099
+PART.2: No.
+
+168
+00:08:39,819 --> 00:08:40,499
+PART.2: No sé què és.
+
+169
+00:08:40,579 --> 00:08:44,739
+PART.2: És clar, és que arriba un moment en què,
+igual que jo, que no trobo…
+
+170
+00:08:44,819 --> 00:08:46,379
+PART.1: I és gran, a més...
+
+171
+00:08:46,459 --> 00:08:47,179
+PART.2: Sí.
+
+172
+00:08:47,259 --> 00:08:48,619
+PART.1: …per ser una au.
+
+173
+00:08:48,699 --> 00:08:53,819
+PART.1: És que, és clar, una au gran, que no
+caci i que no sigui carronyaire, o
+sigui, que sigui herbívora…
+
+174
+00:08:55,179 --> 00:08:57,339
+PART.2: "Bueno", menja gra, eh?
+
+175
+00:08:57,419 --> 00:08:58,579
+PART.1: És clar.
+
+176
+00:08:58,659 --> 00:09:01,619
+PART.2: Menja… Menja llavors, menja llavors.
+
+177
+00:09:01,699 --> 00:09:04,179
+PART.1: Ah, hòstia! És clar, és clar.
+
+178
+00:09:04,259 --> 00:09:05,059
+PART.2: Eh?
+
+179
+00:09:05,139 --> 00:09:06,019
+PART.1: Val.
+
+180
+00:09:08,339 --> 00:09:08,939
+PART.1: Val.
+
+181
+00:09:09,019 --> 00:09:12,219
+PART.2: Posa ous.
+
+182
+00:09:12,299 --> 00:09:17,459
+PART.1: Sí, sí. Eh… Val. Val.
+
+183
+00:09:27,019 --> 00:09:29,099
+PART.1: És un animal considerat bonic?
+
+184
+00:09:29,179 --> 00:09:30,099
+PART.2: Sí.
+
+185
+00:09:30,179 --> 00:09:31,179
+PART.1: Val.
+
+186
+00:09:31,259 --> 00:09:33,139
+PART.2: T'estàs acostant.
+
+187
+00:09:33,219 --> 00:09:34,139
+PART.1: Sí.
+
+188
+00:09:34,219 --> 00:09:35,739
+PART.2: A veure jo.
+
+189
+00:09:37,779 --> 00:09:40,899
+PART.2: He fet la novena meva i ara et falta la novena teva.
+
+190
+00:09:40,979 --> 00:09:43,579
+PART.1: Ara ja estàs una mica encarrilat.
+
+191
+00:09:43,659 --> 00:09:46,059
+PART.2: Jo, és que he perdut la pista.
+
+192
+00:09:46,139 --> 00:09:49,979
+PART.2: He perdut la pista. Un animal mitjà, que cria molt, que té pèl...
+
+193
+00:09:52,579 --> 00:09:54,339
+PART.2: Té les orelles molt llargues?
+
+194
+00:09:54,419 --> 00:09:57,739
+PART.1: No. "Bueno", no és una característica seva.
+
+195
+00:09:57,819 --> 00:10:00,139
+PART.2: No té les orelles llargues.
+
+196
+00:10:00,219 --> 00:10:01,299
+PART.1: Exacte.
+
+197
+00:10:01,379 --> 00:10:02,259
+PART.2: Val.
+
+198
+00:10:02,339 --> 00:10:06,219
+PART.1: Vols fer la següent
+o vols que faci jo primer la meva?
+
+199
+00:10:06,299 --> 00:10:07,499
+PART.2: Fes, fes.
+
+200
+00:10:09,659 --> 00:10:10,739
+PART.2: És de colors vius?
+
+201
+00:10:10,819 --> 00:10:11,659
+PART.2: Sí.
+
+202
+00:10:11,739 --> 00:10:14,779
+PART.1: Val, OK. Val, vas tu i després fem la…
+
+203
+00:10:14,859 --> 00:10:17,579
+PART.1: O sigui, és l'última i ja hem de dir el què.
+
+204
+00:10:17,659 --> 00:10:18,819
+PART.2: "Bueno".
+
+205
+00:10:18,899 --> 00:10:21,459
+PART.1: Si vols, et dono una minipista.
+
+206
+00:10:21,539 --> 00:10:22,659
+PART.2: "Bueno".
+
+207
+00:10:25,859 --> 00:10:30,179
+PART.2: Hem dit que no té les orelles llargues.
+
+208
+00:10:30,259 --> 00:10:32,539
+PART.1: No especialment.
+
+209
+00:10:32,619 --> 00:10:36,019
+PART.2: No, per tant, no… Sí. Té cua?
+
+210
+00:10:38,619 --> 00:10:38,899
+PART.2: Petita.
+
+211
+00:10:38,979 --> 00:10:40,099
+PART.1: Diria que no.
+
+212
+00:10:40,179 --> 00:10:41,339
+PART.2: Diries que no.
+
+213
+00:10:41,419 --> 00:10:44,379
+PART.1: No. Té un element en el seu cos
+bastant característic.
+
+214
+00:10:44,459 --> 00:10:45,259
+PART.2: Sí, sí.
+
+215
+00:10:45,339 --> 00:10:48,099
+PART.1: Hi ha una cosa que el fa bastant únic i especial.
+
+216
+00:10:48,179 --> 00:10:49,139
+PART.2: I especial.
+
+217
+00:10:52,259 --> 00:10:53,099
+PART.2: I és mamífer?
+
+218
+00:10:53,179 --> 00:10:54,099
+PART.1: Sí.
+
+219
+00:10:54,179 --> 00:10:56,259
+PART.2: I viu a la muntanya.
+
+220
+00:10:56,339 --> 00:10:58,899
+PART.1: Ai, estic tapant la càmera.
+
+221
+00:10:58,979 --> 00:11:02,659
+PART.2: I és mamífer, és mamífer. Viu a la muntanya.
+
+222
+00:11:02,739 --> 00:11:03,979
+PART.2: És molt prolífic...
+
+223
+00:11:09,459 --> 00:11:11,539
+PART.2: Té una cua que és característica d'ell.
+
+224
+00:11:11,619 --> 00:11:13,819
+PART.1: La cua no, un element del cos.
+
+225
+00:11:13,899 --> 00:11:15,499
+PART.2: Un element del cos.
+
+226
+00:11:15,579 --> 00:11:19,939
+PART.1: Alguna cosa en el seu cos té que és bastant típic,
+que només ho té ell.
+
+227
+00:11:20,019 --> 00:11:21,179
+PART.2: Sí, sí, sí.
+
+228
+00:11:21,259 --> 00:11:26,379
+PART.1: És bastant únic, no com un llop
+que s'assembla a una guineu i que s'assembla a un gos.
+
+229
+00:11:31,099 --> 00:11:33,859
+PART.1: "Bueno", dic jo el meu i et deixo pensar.
+
+230
+00:11:33,939 --> 00:11:36,379
+PART.1: El que jo tinc al cap, perquè a mi em toca ja.
+
+231
+00:11:36,459 --> 00:11:38,019
+PART.1: Jo crec que és un "pavo real".
+
+232
+00:11:38,099 --> 00:11:39,579
+PART.2: És un "pavo real".
+
+233
+00:11:39,659 --> 00:11:41,259
+PART.1: Sí? Val, "guai". Uh!
+
+234
+00:11:44,219 --> 00:11:46,059
+PART.2: Al final, has trobat el camí, eh?
+
+235
+00:11:46,139 --> 00:11:49,499
+PART.1: Sí. Primer he pensat que era una estruç
+perquè m'has dit que era gran.
+
+236
+00:11:49,579 --> 00:11:51,219
+PART.2: Però és clar, és que és gran.
+
+237
+00:11:51,299 --> 00:11:53,059
+PART.1: Sí que és gran, és gran. Sí, sí.
+
+238
+00:11:53,139 --> 00:11:57,339
+PART.2: És que és gran. Quan m'has dit si era una au,
+dic: "És clar, és una au perquè vola, saps?".
+
+239
+00:11:57,419 --> 00:11:58,299
+PART.1: Sí, sí, sí.
+
+240
+00:11:59,299 --> 00:12:00,059
+PART.1: És que vola.
+
+241
+00:12:00,139 --> 00:12:04,059
+PART.1: Que "guai", està "guai". Val. Vols algunes pistes?
+
+242
+00:12:04,139 --> 00:12:05,779
+PART.2: Me'n queda una.
+
+243
+00:12:05,859 --> 00:12:06,699
+PART.1: Sí.
+
+244
+00:12:06,779 --> 00:12:08,419
+PART.2: Me'n queda una.
+
+245
+00:12:12,019 --> 00:12:18,019
+PART.2: És mamífer… Viu a la muntanya…
+És prolífer.
+
+246
+00:12:27,459 --> 00:12:30,939
+PART.2: És molt habitual veure'ls o casta de veure'ls?
+
+247
+00:12:31,019 --> 00:12:32,259
+PART.1: Costa.
+
+248
+00:12:32,339 --> 00:12:34,499
+PART.2: Costa de veure'ls.
+
+249
+00:12:34,579 --> 00:12:37,099
+PART.2: És un animal que costa de veure'l.
+
+250
+00:12:44,059 --> 00:12:45,459
+PART.2: I l'última pregunta: te banyes?
+
+251
+00:12:45,539 --> 00:12:46,139
+PART.1: No.
+
+252
+00:12:46,219 --> 00:12:47,339
+PART.2: Doncs ja està.
+
+253
+00:12:47,419 --> 00:12:48,499
+PART.1: És petit, eh?
+
+254
+00:12:48,579 --> 00:12:49,659
+PART.2: Ja hem acabat.
+
+255
+00:12:49,739 --> 00:12:50,379
+PART.1: Val.
+
+256
+00:12:50,459 --> 00:12:51,299
+PART.2: No ho sé.
+
+257
+00:12:51,379 --> 00:12:51,939
+PART.1: No?
+
+258
+00:12:52,659 --> 00:12:53,699
+PART.1: Val, te'l dic?
+
+259
+00:12:53,779 --> 00:12:54,699
+PART.2: Sí, sí, sí.
+
+260
+00:12:54,779 --> 00:12:55,699
+PART.1: És un eriçó.
+
+261
+00:12:55,779 --> 00:12:56,739
+PART.2: Ah, un eriçó!
+
+262
+00:12:56,819 --> 00:12:57,939
+PART.1: Era difícil, eh?
+
+263
+00:12:58,019 --> 00:12:59,819
+PART.2: Sí, era difícil. Té pèl, és clar.
+
+264
+00:12:59,899 --> 00:13:02,419
+PART.1: És clar, té pèls aquí i jo em referia a les punxes.
+
+265
+00:13:02,499 --> 00:13:03,379
+PART.2: Sí, sí, sí.
+
+266
+00:13:03,459 --> 00:13:06,259
+PART.1: No hi ha gaires animals mamífers
+que tinguin punxes.
+
+267
+00:13:06,339 --> 00:13:08,739
+PART.2: Sí, sí, sí. Aquest era molt difícil, eh?...
+
+268
+00:13:08,819 --> 00:13:10,419
+PART.1: Era molt difícil, sí, sí.
+
+269
+00:13:10,499 --> 00:13:12,019
+PART.2: …de trobar-lo, m'entens?
+
+270
+00:13:12,099 --> 00:13:12,819
+PART.1: Mira.
+
+271
+00:13:12,899 --> 00:13:13,979
+PART.2: Sí, sí. Sí, sí.
+
+272
+00:13:14,499 --> 00:13:15,499
+PART.1: "Bueno"…
+
+273
+00:13:15,579 --> 00:13:19,179
+PART.2: Al principi, pensava que era un porc senglar, m'entens?
+
+274
+00:13:19,259 --> 00:13:22,819
+PART.1: Sí, jo també ho he pensat per les pistes que et donava.
+
+275
+00:13:22,899 --> 00:13:26,779
+PART.2: Les preguntes que feia, anaven cap al senglar,
+però després...
+
+276
+00:13:28,699 --> 00:13:36,419
+PART.2: no ho has associat a la ciutat,
+perquè n'hi ha molts aquí, a la ciutat, he dit:
+"Uf, aquí ja no estem bé". "Bueno".
+
+277
+00:13:36,499 --> 00:13:40,939
+PART.1: És un animal amb què no hi sols pensar,
+realment, l'eriçó.
+
+278
+00:13:41,019 --> 00:13:42,619
+PART.1: Com que s'amaguen i tot…
+
+279
+00:13:42,699 --> 00:13:43,579
+PART.2: Sí.
+
+280
+00:13:51,779 --> 00:13:56,979
+PART.2: Els indígenes a l'Amazones i això
+utilitzen aquestes punxes, m'entens?…
+
+281
+00:13:57,059 --> 00:13:58,139
+PART.1: Hum.
+
+282
+00:13:58,219 --> 00:14:01,659
+PART.2: …per fer trampes i per fer penjolls.
+
+283
+00:14:01,739 --> 00:14:03,419
+PART.1: "¡Toma ya!".
+
+284
+00:14:06,539 --> 00:14:11,579
+PART.1: Quina por que et punxi una cosa d'aquestes!
+"Bueno", quina mandra, després, treure't totes les punxes una a una!
+
+285
+00:14:11,659 --> 00:14:12,299
+PART.2: Hum.
+
+286
+00:14:12,379 --> 00:14:14,019
+PART.1: I es poden posar així, no?
+
+287
+00:14:14,099 --> 00:14:15,139
+PART.2: Fet una bola.
+
+288
+00:14:15,219 --> 00:14:16,659
+PART.1: I tenir com més punxes.
+
+289
+00:14:16,739 --> 00:14:17,739
+PART.2: Fet una bola.
+
+290
+00:14:19,259 --> 00:14:21,459
+PART.2: Aquest era difícil de trobar.
+
+291
+00:14:21,539 --> 00:14:23,659
+PART.1: Sí, molt difícil.
+
+292
+00:14:23,739 --> 00:14:27,299
+PART.2: Però és clar, té pèl? Sí que té pèl.
+
+293
+00:14:27,379 --> 00:14:30,499
+PART.2: Però jo no hagués pensat en un eriçó, no.
+
+294
+00:14:34,899 --> 00:14:38,699
+PART.2: I quan has dit si tenia plomes boniques,
+ha sigut quan has entrat ja…
+
+295
+00:14:38,779 --> 00:14:46,139
+PART.1: És clar, jo estava entre aquest, un cigne o una oca.
+Llavors he dit: "'Bueno', tant el cigne com aquest poden ser bonics.
+
+296
+00:14:46,219 --> 00:14:49,059
+PART.1: Si m'haguessis dit que no, pensava que era una oca.
+
+297
+00:14:49,139 --> 00:14:50,019
+SUPERVISOR: Com ha anat?
+

@@ -1,0 +1,62 @@
+1
+00:00:00,000 --> 00:00:00,043
+PART.2: Este.
+
+2
+00:00:00,123 --> 00:00:02,363
+PART.2: Empieza con esta.
+
+3
+00:00:02,443 --> 00:00:10,603
+PART.1:  Es lo más grande, sí.
+Necesitamos uno que está aquí.
+Mira, no hay.
+
+4
+00:00:10,683 --> 00:00:13,323
+PART.2: De este, no.
+
+5
+00:00:16,363 --> 00:00:24,323
+PART.1:  Pero no es esto, ¿no? No, es
+distinto. Como este, pero gris, ¿no?
+
+6
+00:00:24,403 --> 00:00:26,363
+PART.2: Aquí. Ah, no.
+
+7
+00:00:31,603 --> 00:00:33,963
+PART.1:  Pero que cambiamos el color.
+
+8
+00:00:34,883 --> 00:00:38,163
+PART.2: Yo creo, porque no parece que
+haya. No hay, ¿verdad?
+
+9
+00:00:38,243 --> 00:00:44,683
+PART.1:  No hay. Entonces, cambiamos.
+Este, un pequeño de rojo,
+
+10
+00:00:44,763 --> 00:00:47,283
+PART.2: Y este. Este no, mira.
+
+11
+00:00:47,363 --> 00:00:53,403
+PART.1:  Sí, y este pequeñito aquí.
+Rojo también, ¿no?
+
+12
+00:00:53,483 --> 00:00:54,483
+PART.2: Sí.
+
+13
+00:00:57,403 --> 00:00:58,603
+PART.2: No hay.
+
+14
+00:00:58,683 --> 00:00:59,923
+PART.1:  No hay, no sé.
+

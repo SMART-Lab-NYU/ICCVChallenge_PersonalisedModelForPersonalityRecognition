@@ -1,0 +1,82 @@
+86
+00:04:02,941 --> 00:04:03,461
+PART.2: No.
+
+87
+00:04:03,901 --> 00:04:04,861
+PART.2: ¿Qué te pregunté yo?
+
+88
+00:04:04,941 --> 00:04:08,581
+PART.2: Si era un mamífero...
+¿Y qué más te pregunté?
+
+89
+00:04:10,941 --> 00:04:11,661
+PART.2: Si era...
+
+90
+00:04:11,741 --> 00:04:12,501
+PART.1: Si era...
+
+91
+00:04:12,581 --> 00:04:13,821
+PART.2: ¿Grande? No, no.
+
+92
+00:04:14,141 --> 00:04:16,461
+PART.1: Te equivocaste de pregunta y te
+dije mediano.
+
+93
+00:04:17,061 --> 00:04:18,301
+PART.1: Ya tienes dos datos.
+
+94
+00:04:18,661 --> 00:04:19,821
+PART.2: Mamífero mediano.
+
+95
+00:04:21,541 --> 00:04:22,421
+PART.2: ¿Vuela?
+
+96
+00:04:23,101 --> 00:04:23,781
+PART.1: Sí.
+
+97
+00:04:27,061 --> 00:04:27,941
+PART.2: Vuela.
+
+98
+00:04:32,021 --> 00:04:33,661
+PART.2: Bueno, tengo bastante, ¿no?
+
+99
+00:04:33,741 --> 00:04:35,741
+PART.2: Vuela, no es mamífero...
+
+100
+00:04:36,421 --> 00:04:37,381
+PART.1: Y es mediano.
+
+101
+00:04:37,461 --> 00:04:38,421
+PART.2: Y es mediano.
+
+102
+00:04:39,101 --> 00:04:40,221
+PART.1: Es que si vuela, no es mamífero.
+
+103
+00:04:44,181 --> 00:04:45,101
+PART.2: Estoy bloqueada.
+
+104
+00:04:57,821 --> 00:04:59,141
+PART.2: ¿Vuela a mucha altura?
+
+105
+00:04:59,701 --> 00:05:01,421
+PART.2: ¿Muy, muy alto?
+

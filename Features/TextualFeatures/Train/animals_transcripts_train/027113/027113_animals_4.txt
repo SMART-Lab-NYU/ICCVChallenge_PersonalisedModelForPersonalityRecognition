@@ -1,0 +1,94 @@
+72
+00:04:02,508 --> 00:04:04,548
+PART.2: Yo pensé en un burro, pero...
+
+73
+00:04:06,708 --> 00:04:07,708
+PART.2: No era gracioso.
+
+74
+00:04:07,788 --> 00:04:09,988
+PART.2: Bueno, este no es gracioso.
+
+75
+00:04:13,228 --> 00:04:17,028
+PART.2: Él está esperando un ratico para
+entrar, ¿no?
+
+76
+00:04:20,228 --> 00:04:21,948
+PART.2: Eres de aquí de Barcelona.
+
+77
+00:04:22,268 --> 00:04:23,708
+PART.1: Bueno, de las afueras.
+
+78
+00:04:23,788 --> 00:04:24,788
+PART.2: ¿Sí?
+
+79
+00:04:24,868 --> 00:04:27,148
+PART.1: Se llama Sardañola donde vivo.
+
+80
+00:04:27,228 --> 00:04:29,508
+PART.2: Ah, igual que Sergio.
+
+81
+00:04:29,948 --> 00:04:30,908
+PART.1: ¿Es de allí?
+
+82
+00:04:31,188 --> 00:04:33,228
+PART.2: Me acaba de decir que es de
+Sardañola.
+
+83
+00:04:33,308 --> 00:04:34,588
+PART.1: Ah, pues no lo sabía.
+
+84
+00:04:34,668 --> 00:04:36,748
+PART.2: No conozco ese sitio.
+
+85
+00:04:36,828 --> 00:04:38,308
+PART.2: ¿Está muy lejos de Barcelona?
+
+86
+00:04:41,388 --> 00:04:43,508
+PART.1: Depende de por dónde vayas.
+
+87
+00:04:43,588 --> 00:04:43,948
+PART.2: ¿Sí?
+
+88
+00:04:44,028 --> 00:04:44,948
+PART.1: Hay dos trenes.
+
+89
+00:04:45,028 --> 00:04:48,988
+PART.1: Si coges uno de
+ellos, en 25 minutos estás.
+
+90
+00:04:49,068 --> 00:04:49,948
+PART.2: Ah, pues no es tan lejos.
+
+91
+00:04:50,028 --> 00:04:57,068
+PART.1: Si coges el otro, en 35 te deja
+en la universidad y de la
+universidad al pueblo hay diez
+minutos en coche.
+
+92
+00:04:57,148 --> 00:04:58,268
+PART.2: Ah, pero no está lejos.
+
+93
+00:04:58,628 --> 00:05:00,468
+PART.1: No. No está lejos.
+

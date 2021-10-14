@@ -1,0 +1,155 @@
+﻿1
+00:00:00,-30 --> 00:00:00,-01
+SUPERVISOR: Hasta ahora.
+
+2
+00:00:00,868 --> 00:00:02,468
+PART.1: ¿Hiciste ya entonces?
+
+3
+00:00:02,468 --> 00:00:03,388
+PART.2: Sí.
+
+4
+00:00:03,388 --> 00:00:04,388
+PART.1: Ah... ¿Tu nombre?
+
+5
+00:00:04,388 --> 00:00:05,348
+PART.2: Dani.
+
+6
+00:00:05,348 --> 00:00:06,348
+PART.1: Irineo.
+
+7
+00:00:06,348 --> 00:00:06,788
+PART.2: ¿Irineo?
+
+8
+00:00:06,788 --> 00:00:07,588
+PART.1: Sí.
+
+9
+00:00:07,588 --> 00:00:08,108
+PART.2: Un placer.
+
+10
+00:00:08,108 --> 00:00:08,668
+PART.1: Un placer.
+
+11
+00:00:08,668 --> 00:00:09,348
+PART.2: ¿Irineo?
+
+12
+00:00:09,348 --> 00:00:10,148
+PART.1: Sí.
+
+13
+00:00:10,148 --> 00:00:11,228
+PART.2: ¿Qué...?
+
+14
+00:00:10,728 --> 00:00:11,368
+PART.1: Yo soy de Brasil.
+
+15
+00:00:11,368 --> 00:00:12,248
+PART.2: Ah, ¿Brasil?
+
+16
+00:00:12,248 --> 00:00:15,288
+PART.1: Pero no es un nombre
+muy... muy común allí, también es
+un poco...
+
+17
+00:00:15,288 --> 00:00:17,768
+PART.1: Es lo que...
+
+18
+00:00:17,768 --> 00:00:22,328
+PART.1: que siempre comento acá es que,
+bueno, Irineo somos los Pirineos,
+pero sin la "P".
+
+19
+00:00:22,328 --> 00:00:23,288
+PART.2: Sí.
+
+20
+00:00:23,288 --> 00:00:26,008
+PART.1: Ahí nunca más la gente
+se olvida, ¿sabes?
+
+21
+00:00:26,008 --> 00:00:28,328
+PART.1: Pero creo que es de rumano o una
+cosa así.
+
+22
+00:00:28,328 --> 00:00:29,848
+PART.2: ¿De Rumanía?
+
+23
+00:00:29,848 --> 00:00:31,328
+PART.1: De Rumanía, sí.
+
+24
+00:00:31,328 --> 00:00:32,448
+PART.1: Creo, no sé.
+
+25
+00:00:32,448 --> 00:00:33,488
+PART.2: ¿Rumanía?
+
+26
+00:00:33,488 --> 00:00:34,488
+PART.1: Sí, es diferente.
+
+27
+00:00:34,488 --> 00:00:35,408
+PART.2: ¿O de Roma?
+
+28
+00:00:35,408 --> 00:00:36,768
+PART.1: No, de Roma no.
+
+29
+00:00:36,768 --> 00:00:38,848
+PART.1: De Rumanía, más por ahí.
+
+30
+00:00:38,848 --> 00:00:43,608
+PART.1: Sí, estos nombres antiguos que ya
+se perdieron por el camino, no sé
+qué...
+
+31
+00:00:43,608 --> 00:00:46,128
+PART.2: ¿Entonces tienes
+familiares de Rumanía?
+
+32
+00:00:46,128 --> 00:00:47,888
+PART.1: No, no tengo, no.
+
+33
+00:00:47,888 --> 00:00:52,888
+PART.1: Mi familia es de Italia, y bueno,
+mis bisabuelos.
+
+34
+00:00:52,888 --> 00:00:54,208
+PART.2: Ah...
+
+35
+00:00:54,208 --> 00:00:56,728
+PART.1: Pero mis padres y todo
+esto, de Brasil.
+
+36
+00:00:56,728 --> 00:00:59,088
+PART.1: En Brasil. Yo vivo aquí...
+

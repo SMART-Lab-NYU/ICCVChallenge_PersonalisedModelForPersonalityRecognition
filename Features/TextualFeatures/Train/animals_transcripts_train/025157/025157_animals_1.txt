@@ -1,0 +1,93 @@
+21
+00:01:01,177 --> 00:01:01,897
+PART.1: Sí.
+
+22
+00:01:01,977 --> 00:01:02,657
+PART.2: ¿Sí vuelo?
+
+23
+00:01:02,737 --> 00:01:03,537
+PART.1: Sí.
+
+24
+00:01:04,697 --> 00:01:08,457
+PART.1: Entonces, sí o no todo el tiempo.
+
+25
+00:01:08,937 --> 00:01:11,457
+PART.2: No es todo el tiempo, pero sí
+puedes estar en el agua.
+
+26
+00:01:12,137 --> 00:01:13,377
+PART.1: ¿Tengo patas cortas?
+
+27
+00:01:15,777 --> 00:01:17,057
+PART.2: Sí, más o menos.
+
+28
+00:01:17,137 --> 00:01:18,657
+PART.1: ¿Sí o no?
+
+29
+00:01:18,737 --> 00:01:20,057
+PART.2: Bueno, sí.
+
+30
+00:01:20,137 --> 00:01:22,297
+PART.1: Vale, no me indiques sí o no
+porque si te voy ganando...
+
+31
+00:01:22,377 --> 00:01:23,457
+PART.2: ¿Soy blanco?
+
+32
+00:01:23,537 --> 00:01:25,377
+PART.1: No. No.
+
+33
+00:01:25,577 --> 00:01:26,377
+PART.2: ¿No?
+
+34
+00:01:26,497 --> 00:01:29,457
+PART.1: No. Me has preguntado soy blanco,
+pero no me estás preguntando de qué.
+
+35
+00:01:29,897 --> 00:01:31,177
+PART.1: ¿Cuántas preguntas van? Tres.
+
+36
+00:01:34,817 --> 00:01:36,057
+PART.1: ¿Tengo cola?
+
+37
+00:01:39,017 --> 00:01:40,417
+PART.1: Sí o no.
+
+38
+00:01:41,697 --> 00:01:42,897
+PART.2: Sí, sí.
+
+39
+00:01:50,057 --> 00:01:53,217
+PART.2: ¿Estoy en el mar? ¿Soy un ave de
+mar?
+
+40
+00:01:53,297 --> 00:01:56,217
+PART.1: No. ¿Ave de mar?
+
+41
+00:01:56,297 --> 00:01:58,857
+PART.2: Sí. Los pelícanos son del mar.
+
+42
+00:01:58,937 --> 00:02:00,177
+PART.1: ¿Yo he dicho que eras un
+pelícano?
+

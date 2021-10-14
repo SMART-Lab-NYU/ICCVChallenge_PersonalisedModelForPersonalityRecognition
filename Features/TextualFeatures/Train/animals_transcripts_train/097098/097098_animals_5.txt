@@ -1,0 +1,125 @@
+94
+00:05:01,404 --> 00:05:05,124
+PART.1: No és tan fàcil, eh? No és tan fàcil.
+
+95
+00:05:07,204 --> 00:05:08,684
+PART.1: "Bueno", ara tu.
+
+96
+00:05:08,764 --> 00:05:11,684
+PART.2: El meu m'has dit que viu a terra o al mar?
+
+97
+00:05:11,764 --> 00:05:12,764
+PART.1: A terra.
+
+98
+00:05:12,844 --> 00:05:14,084
+PART.2: Viu a terra.
+
+99
+00:05:14,164 --> 00:05:14,884
+PART.1: Sí.
+
+100
+00:05:14,964 --> 00:05:16,764
+PART.2: Però a prop de l'aigua.
+
+101
+00:05:16,844 --> 00:05:17,564
+PART.1: No.
+
+102
+00:05:17,644 --> 00:05:18,324
+PART.2: Ah.
+
+103
+00:05:18,404 --> 00:05:21,564
+PART.2: Val, val, és això no és el mateix. Viu a terra.
+
+104
+00:05:21,644 --> 00:05:22,884
+PART.1: Viu a terra.
+
+105
+00:05:22,964 --> 00:05:24,004
+PART.2: Posa ous?
+
+106
+00:05:24,084 --> 00:05:25,564
+PART.1: Em sembla que sí.
+
+107
+00:05:25,644 --> 00:05:27,604
+PART.1: No n'estic segur perquè no…
+
+108
+00:05:27,684 --> 00:05:28,724
+PART.2: És llarg?
+
+109
+00:05:29,564 --> 00:05:31,044
+PART.1: Sí, "bueno", llarg…
+
+110
+00:05:31,124 --> 00:05:32,364
+PART.2: I no té potes.
+
+111
+00:05:32,444 --> 00:05:33,564
+PART.1: No té potes.
+
+112
+00:05:33,644 --> 00:05:35,364
+PART.2: I s'arrossega per terra?
+
+113
+00:05:35,444 --> 00:05:37,044
+PART.1: S'arrossega per terra.
+
+114
+00:05:37,124 --> 00:05:38,204
+PART.2: És una serp?
+
+115
+00:05:38,284 --> 00:05:38,924
+PART.1: No.
+
+116
+00:05:39,004 --> 00:05:40,324
+PART.2: És un llangardaix?
+
+117
+00:05:40,964 --> 00:05:44,324
+PART.1: Sí, però això m'ho has de dir al final, no?
+
+118
+00:05:44,404 --> 00:05:45,804
+PART.2: "Bueno", jo…
+
+119
+00:05:45,884 --> 00:05:47,524
+PART.1: Llangardaix? Sí.
+
+120
+00:05:47,604 --> 00:05:49,884
+PART.2: Estic parlant en veu alta.
+
+121
+00:05:49,964 --> 00:05:53,124
+PART.1: "Bueno", és igual, ja t'he donat pistes…
+
+122
+00:05:53,204 --> 00:05:57,244
+PART.1: T'he donat pistes. Em dius si és un llangardaix
+i jo et dic que sí.
+
+123
+00:05:57,324 --> 00:05:59,404
+PART.1: Però què? Però no és tampoc el...
+
+124
+00:05:59,964 --> 00:06:02,524
+PART.2: "Bueno", és que pot ser… A veure.
+

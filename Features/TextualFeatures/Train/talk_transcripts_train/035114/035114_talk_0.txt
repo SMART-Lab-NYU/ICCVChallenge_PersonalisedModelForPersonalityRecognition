@@ -1,0 +1,125 @@
+1
+00:00:01,560 --> 00:00:02,240
+PART.1: Bueno
+
+2
+00:00:02,320 --> 00:00:03,160
+PART.2:  ¿Qué tal?
+
+3
+00:00:03,240 --> 00:00:04,840
+PART.1: Eh, soy Daniel,
+¿cómo te llamas?
+
+4
+00:00:04,560 --> 00:00:05,840
+PART.2:  ¿Daniel? Paulo.
+
+5
+00:00:05,920 --> 00:00:07,080
+PART.1: Un placer.
+
+6
+00:00:07,160 --> 00:00:12,520
+PART.1: Y tú ya habías hecho esto, ¿lo has
+hecho antes otras veces
+además de con Belén?
+
+7
+00:00:12,600 --> 00:00:13,280
+PART.1: Sí, ¿no?
+
+8
+00:00:13,360 --> 00:00:17,960
+PART.2:  Hoy con Belén y la semana pasada
+con dos personas más.
+
+9
+00:00:18,040 --> 00:00:20,560
+PART.1: Claro, porque he visto que eras el
+35.
+
+10
+00:00:20,640 --> 00:00:21,920
+PART.2:  Sí.
+
+11
+00:00:22,000 --> 00:00:23,440
+PART.1: Algo ha influido.
+
+12
+00:00:24,600 --> 00:00:25,680
+PART.1: Yo, eh.
+
+13
+00:00:25,920 --> 00:00:29,480
+PART.1: ¿Tú conoces a alguien de los
+experimentadores?
+
+14
+00:00:29,560 --> 00:00:30,120
+PART.2:  No.
+
+15
+00:00:30,200 --> 00:00:32,200
+PART.2:  No, no, yo llegué aquí porque...
+
+16
+00:00:32,280 --> 00:00:33,280
+PART.1: ¿Cómo te han contactado?
+
+17
+00:00:33,360 --> 00:00:34,560
+PART.2:  Me dieron el dato.
+
+18
+00:00:34,640 --> 00:00:40,880
+PART.2:  Mi esposa encontró información de
+que estaban buscando a gente para el
+estudio y...
+
+19
+00:00:40,040 --> 00:00:40,880
+PART.1: Sí.
+
+20
+00:00:40,960 --> 00:00:42,720
+PART.2:  Y me ofrecí a venir, también.
+
+21
+00:00:42,800 --> 00:00:43,760
+PART.1: Guay.
+
+22
+00:00:43,840 --> 00:00:45,560
+PART.1: Sí, por la ciencia.
+
+23
+00:00:45,640 --> 00:00:46,840
+PART.2:  Claro.
+
+24
+00:00:46,920 --> 00:00:51,400
+PART.1: Yo soy, bueno, compañero de clase
+de este.
+
+25
+00:00:51,480 --> 00:00:55,800
+PART.1: y estudiamos juntos inteligencia
+artificial aquí y tal.
+
+26
+00:00:54,400 --> 00:00:55,120
+PART.2:  Ajá.
+
+27
+00:00:56,360 --> 00:00:59,200
+PART.2:  Sí, me di cuanta que ha reclutado
+a todos los conocidos que tenía.
+
+28
+00:00:59,280 --> 00:01:03,600
+PART.1: Claro, sí, toda la gente que
+conoce de Barcelona, creo que
+se pasa, por aquí.
+

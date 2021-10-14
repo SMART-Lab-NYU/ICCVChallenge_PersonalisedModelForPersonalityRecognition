@@ -1,0 +1,459 @@
+﻿1
+00:00:00,000 --> 00:00:04,090
+PART.2: So we can discuss on tomorrow meeting.
+
+2
+00:00:04,290 --> 00:00:07,090
+PART.1: Tomorrow meeting,
+we can advance now, yes.
+
+3
+00:00:07,190 --> 00:00:08,190
+PART.2: Why not?
+
+4
+00:00:08,590 --> 00:00:18,690
+PART.1: It could be,
+now, the point is when the people
+don't know each other,
+it is supossed to make questions
+to say how are you?
+Which are you hobbies?
+Whatever, whatever, whatever.
+
+5
+00:00:19,690 --> 00:00:21,090
+PART.2: I am not very good at that.
+
+6
+00:00:21,190 --> 00:00:23,090
+PART.1: No, but anyway,
+it is not our case.
+
+7
+00:00:23,090 --> 00:00:27,090
+PART.1: When we know each other,
+we can comment any other stuff.
+
+8
+00:00:27,190 --> 00:00:28,190
+PART.2: Yes.
+
+9
+00:00:28,490 --> 00:00:35,290
+PART.2: I think, I don't know,
+but to me is always a problem
+to start conversations.
+
+10
+00:00:35,690 --> 00:00:36,690
+PART.1: Yes? Really?
+
+11
+00:00:36,890 --> 00:00:38,090
+PART.2: Yes, I don't know.
+
+12
+00:00:38,190 --> 00:00:41,490
+PART.1: But it depends on
+how much you know the other person.
+
+13
+00:00:43,090 --> 00:00:46,590
+PART.2: In English, it is my problem,
+but in my language, no.
+
+14
+00:00:46,790 --> 00:00:48,590
+PART.1: Yes, it happens the same to me.
+
+15
+00:00:50,190 --> 00:00:57,790
+PART.2: Because sometimes I feel that maybe
+I say something wrong in English,
+because my English it's not perfect.
+
+16
+00:00:58,790 --> 00:01:05,090
+PART.2: I don't know how to start the chat
+but in my language I think I am good.
+
+17
+00:01:05,190 --> 00:01:06,490
+PART.1: Yes, the same here.
+
+18
+00:01:06,590 --> 00:01:09,290
+PART.1: It is also something
+because of our personality, I think.
+
+19
+00:01:11,490 --> 00:01:16,290
+PART.1: You don't want to do something
+if you feel that it's not going to be ok.
+
+20
+00:01:17,290 --> 00:01:18,290
+PART.2: Yes.
+
+21
+00:01:21,190 --> 00:01:27,490
+PART.1: About what can we talk,
+have you sleep finally
+three hours today or not?
+
+22
+00:01:27,690 --> 00:01:28,890
+PART.2: Yes, five hours.
+
+23
+00:01:32,990 --> 00:01:33,090
+PART.2: Really?
+
+24
+00:01:33,090 --> 00:01:33,990
+PART.2: Really?
+
+25
+00:01:33,990 --> 00:01:34,090
+PART.1: Yes.
+
+26
+00:01:34,690 --> 00:01:36,090
+PART.2: Which part?
+
+27
+00:01:36,190 --> 00:01:37,190
+PART.1: The document.
+
+28
+00:01:37,290 --> 00:01:39,790
+PART.2: No, which part you changed?
+
+29
+00:01:40,290 --> 00:01:42,890
+PART.1: Only a five with a six.
+
+30
+00:01:44,190 --> 00:01:45,190
+PART.2: With...?
+
+31
+00:01:46,890 --> 00:01:54,890
+PART.1: Because I thought you were including
+five in SP images,
+five in PII images
+and you included six and five.
+
+32
+00:01:55,590 --> 00:01:56,890
+PART.2: But it was five.
+
+33
+00:01:57,590 --> 00:01:58,890
+PART.1: No.
+
+34
+00:01:59,690 --> 00:02:01,090
+PART.2: Yes, it was five and five.
+
+35
+00:02:01,190 --> 00:02:03,090
+PART.1: No, six and five.
+
+36
+00:02:03,890 --> 00:02:08,690
+PART.1: I reviwed it three times
+and I was counting one,
+two, three, four, five and six.
+
+37
+00:02:08,790 --> 00:02:10,690
+PART.1: Then one, two, three, four, five.
+
+38
+00:02:16,090 --> 00:02:17,690
+PART.2: No, I don't think so.
+
+39
+00:02:17,790 --> 00:02:19,690
+PART.1: Yes, I am pretty sure.
+
+40
+00:02:20,290 --> 00:02:22,490
+PART.1: Do you want to check?
+Check in your mobile.
+
+41
+00:02:22,590 --> 00:02:25,290
+PART.2: Yes, let's check,
+it's strange.
+
+42
+00:02:25,390 --> 00:02:27,890
+PART.1: If we need to resume it again
+we can't.
+
+43
+00:02:29,190 --> 00:02:30,190
+PART.1: It closed.
+
+44
+00:02:34,590 --> 00:02:39,390
+PART.1: But I was checking and the six,
+the other one you included...
+
+45
+00:02:42,490 --> 00:02:46,590
+PART.2: So, at the end,
+it's eleven images you say?
+
+46
+00:02:46,690 --> 00:02:47,690
+PART.1: Yes.
+
+47
+00:02:49,690 --> 00:02:50,690
+PART.2: Really?
+
+48
+00:02:50,690 --> 00:02:52,690
+PART.1: Do you have access here?
+
+49
+00:02:52,690 --> 00:02:54,690
+PART.2: Yes.
+
+50
+00:02:57,290 --> 00:03:02,590
+PART.1: I think you included one
+that I did not comment
+but was a good one.
+
+51
+00:03:07,590 --> 00:03:08,590
+PART.2: That's strange.
+
+52
+00:03:10,590 --> 00:03:12,390
+PART.2: Maybe I was tired, I don't know.
+
+53
+00:03:14,190 --> 00:03:17,890
+PART.1: Or maybe I was sleepy
+when I saw the figure.
+
+54
+00:03:28,290 --> 00:03:30,190
+PART.2: Let's check what...
+
+55
+00:03:39,090 --> 00:03:40,390
+PART.2: A bottle, yes.
+
+56
+00:03:40,590 --> 00:03:42,390
+PART.1: Otro bostezo.
+
+57
+00:03:46,090 --> 00:03:46,790
+PART.2: It's not responding.
+
+58
+00:03:46,790 --> 00:03:47,090
+PART.1: To be anotated.
+
+59
+00:03:47,090 --> 00:03:47,790
+PART.1: To be anotated.
+
+60
+00:03:57,090 --> 00:03:59,290
+PART.2: It's not working.
+
+61
+00:04:00,290 --> 00:04:01,790
+PART.1: Ok, you can check it later.
+
+62
+00:04:01,990 --> 00:04:05,190
+PART.1: But I'm pretty sure
+you included six not five.
+
+63
+00:04:08,590 --> 00:04:09,590
+PART.2: Ok.
+
+64
+00:04:10,790 --> 00:04:13,190
+PART.1: Ok, so tomorrow we don't meet.
+
+65
+00:04:16,190 --> 00:04:19,890
+PART.1: Which are your plans?
+Let's talk about something...
+
+66
+00:04:20,990 --> 00:04:24,390
+PART.1: What do you want to do next weeks
+with your free time?
+
+67
+00:04:25,690 --> 00:04:26,890
+PART.2: If I have...
+
+68
+00:04:27,090 --> 00:04:30,890
+PART.1: If, yes,
+I suposse a little bit, maybe?
+
+69
+00:04:31,490 --> 00:04:36,490
+PART.2: For next week
+I have three papers to review,
+two leaves.
+
+70
+00:04:39,090 --> 00:04:43,890
+PART.2: Javier Roca sent me a paper
+from CBC.
+
+71
+00:04:45,590 --> 00:04:46,690
+PART.1: About what?
+
+72
+00:04:46,890 --> 00:04:48,690
+PART.2: Action recognition.
+
+73
+00:04:49,290 --> 00:04:50,290
+PART.1: Ah, from a journal?
+
+74
+00:04:50,390 --> 00:04:52,290
+PART.2: Yes, yes, I accepted.
+
+75
+00:04:55,290 --> 00:04:58,090
+PART.2: I have to review it plus two nips.
+
+76
+00:04:59,490 --> 00:05:05,090
+PART.1: Ok, but when you have free time,
+what do you want to do
+with your wife in your free time?
+
+77
+00:05:05,190 --> 00:05:06,190
+PART.2: In the free time...
+
+78
+00:05:07,190 --> 00:05:10,190
+PART.2: My free time is just in the weekend.
+
+79
+00:05:10,190 --> 00:05:11,190
+PART.1: Yes.
+
+80
+00:05:13,690 --> 00:05:17,290
+PART.2: This is my regular free time plan.
+
+81
+00:05:18,290 --> 00:05:22,990
+PART.2: On Saturday morning we go shopping
+for the whole week.
+
+82
+00:05:24,190 --> 00:05:27,390
+PART.2: In the afternoon, a little bit sleeping.
+
+83
+00:05:27,890 --> 00:05:29,290
+PART.1: Nice.
+
+84
+00:05:29,290 --> 00:05:32,090
+PART.2: And then we go a little bit walking.
+
+85
+00:05:32,190 --> 00:05:45,590
+PART.2: Sometimes we come to Barcelona
+and walk, drink something,
+Coca or some coffee
+or we walk around.
+
+86
+00:05:45,590 --> 00:05:47,590
+PART.1: But you don't like coffee or Coca.
+
+87
+00:05:50,590 --> 00:05:54,490
+PART.2: It is not a matter of liking,
+I cannot digest it.
+
+88
+00:05:56,490 --> 00:06:00,890
+PART.2: But Coca is better,
+but I still have the same problem.
+
+89
+00:06:00,890 --> 00:06:02,890
+PART.1: Ok, yes.
+
+90
+00:06:05,790 --> 00:06:11,890
+PART.2: Then we look TV series or movies.
+
+91
+00:06:13,490 --> 00:06:14,890
+PART.1: Which kind? Which kind?
+
+92
+00:06:16,690 --> 00:06:17,690
+PART.1: Horror?
+
+93
+00:06:17,790 --> 00:06:18,790
+PART.2: No.
+
+94
+00:06:18,890 --> 00:06:20,790
+PART.1: No? You don't like horror?
+
+95
+00:06:22,190 --> 00:06:25,790
+PART.2: I used to but my wife no,
+so I stopped to do that.
+
+96
+00:06:25,890 --> 00:06:30,690
+PART.1: But you prefer the horror
+of the spirits or the horror of killing?
+
+97
+00:06:31,590 --> 00:06:32,590
+SUPERVISOR: Gore.
+
+98
+00:06:33,190 --> 00:06:42,090
+PART.2: The killing and the actions
+I can watch any movie
+but my wife no.
+
+99
+00:06:42,690 --> 00:06:49,490
+PART.2: When she looks
+that movies killing people
+she cannot look.
+
+100
+00:06:50,690 --> 00:06:53,790
+PART.2: Even if she know
+this is a movie she cannot.
+
+101
+00:06:53,890 --> 00:06:55,790
+PART.1: She can't, ok.
+

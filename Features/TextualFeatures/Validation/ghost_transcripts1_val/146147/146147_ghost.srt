@@ -1,0 +1,508 @@
+1
+00:00:00,000 --> 00:00:02,002
+PART.2: Ah! Ja sé perquè facen onze.
+
+2
+00:00:02,186 --> 00:00:03,202
+PART.1: Per què?
+
+3
+00:00:03,230 --> 00:00:05,223
+PART.2: Perquè si són deu podem empatar.
+
+4
+00:00:05,270 --> 00:00:06,326
+PART.1: Ah, vale.
+
+5
+00:00:06,380 --> 00:00:07,470
+PART.2: Venga, tu.
+
+6
+00:00:09,495 --> 00:00:14,029
+PART.1: ¡Ah no, este no es! Es este, creo. Sí, porque es gris...
+
+7
+00:00:13,942 --> 00:00:15,167
+PART.2: Ah, és veritat, clar.
+
+8
+00:00:15,231 --> 00:00:20,182
+PART.2: Això, ja hi és. Això també hi és i això també hi és.
+
+9
+00:00:20,257 --> 00:00:21,270
+PART.1: Això... sí.
+
+10
+00:00:21,306 --> 00:00:22,362
+PART.2: Muy bien, ¿no? Toma.
+
+11
+00:00:22,392 --> 00:00:23,480
+PART.1: ¡Ay, no!
+
+12
+00:00:23,534 --> 00:00:25,018
+PART.1: Hostia, esto va a ser...
+
+13
+00:00:25,157 --> 00:00:26,060
+PART.2: Molt difícil, eh?
+
+14
+00:00:26,194 --> 00:00:27,178
+PART.1: Eeeeh.
+
+15
+00:00:28,954 --> 00:00:30,756
+PART.2: No, que el ratolí és blau.
+
+16
+00:00:30,938 --> 00:00:32,802
+PART.2: El blanc.
+
+17
+00:00:32,866 --> 00:00:33,934
+PART.1: Ah! És veritat.
+
+18
+00:00:33,962 --> 00:00:35,034
+PART.2: De ratolí n'hi ha...
+
+19
+00:00:34,947 --> 00:00:36,159
+PART.1: És que, clar, m'he confós perquè pensava...
+
+20
+00:00:36,209 --> 00:00:37,294
+PART.2: No, que és blau.
+
+21
+00:00:37,297 --> 00:00:38,386
+PART.1: Sí. Te'l quedes tu.
+
+22
+00:00:38,586 --> 00:00:39,646
+PART.2: No, espera un moment. Vull tornar-ho a veure.
+
+23
+00:00:39,708 --> 00:00:42,802
+PART.2: El color verd hi és, el color blau hi és, el ratolí hi és... Aquesta.
+
+24
+00:00:43,482 --> 00:00:45,057
+PART.1: Ufff.
+
+25
+00:00:45,466 --> 00:00:47,098
+PART.2: Ufff.
+
+26
+00:00:48,007 --> 00:00:49,670
+PART.2: Ai, no... M'he equivocat. Aquesta.
+
+27
+00:00:50,152 --> 00:00:51,222
+PART.1: Ahhh!
+
+28
+00:00:51,251 --> 00:00:52,251
+PART.2: No?
+
+29
+00:00:52,252 --> 00:00:53,252
+PART.1: Sí, sí.
+
+30
+00:00:53,153 --> 00:00:54,153
+PART.2: Toma.
+
+31
+00:00:54,153 --> 00:00:55,153
+PART.1: Et toca.
+
+32
+00:00:57,331 --> 00:00:58,946
+PART.1: Creo que... ¡Joder!
+
+33
+00:00:59,610 --> 00:01:00,650
+PART.2: No?
+
+34
+00:01:00,686 --> 00:01:03,307
+PART.1: Sí, sí. Creo que lo has hecho bien, porque es blanco fuera...
+
+35
+00:01:02,895 --> 00:01:04,730
+PART.2: La silla fuera...
+
+36
+00:01:05,289 --> 00:01:06,299
+PART.1: Fuera, fuera.
+
+37
+00:01:06,382 --> 00:01:07,463
+PART.2: Ho he fet bé?
+
+38
+00:01:07,479 --> 00:01:08,479
+PART.1: Sí, ho has fet bé.
+
+39
+00:01:09,374 --> 00:01:11,058
+PART.2: Va, ara tu!
+
+40
+00:01:11,212 --> 00:01:13,115
+PART.1: Ja. No em deixis guanyar, eh?
+
+41
+00:01:14,002 --> 00:01:16,871
+PART.1: A mi no m'importa, ja sé que soc lent de pensament, no m'importa.
+
+42
+00:01:16,934 --> 00:01:17,983
+PART.2: Vale.
+
+43
+00:01:20,826 --> 00:01:22,427
+PART.2: Ahhh! Què xulo!
+
+44
+00:01:22,618 --> 00:01:23,610
+PART.2: Molt bé, molt bé. Toma.
+
+45
+00:01:23,611 --> 00:01:24,611
+PART.1: Pero...
+
+46
+00:01:24,827 --> 00:01:26,299
+PART.2: No, no, està molt bé.
+
+47
+00:01:27,066 --> 00:01:30,394
+PART.1: Vale. ¡Joder!
+
+48
+00:01:30,394 --> 00:01:32,370
+PART.2: No! Perdona. No, no, no!
+
+49
+00:01:33,072 --> 00:01:34,106
+PART.2: Aquesta!
+
+50
+00:01:34,103 --> 00:01:35,515
+PART.1: Ahhh! És veritat.
+
+51
+00:01:35,547 --> 00:01:36,802
+PART.2: Perdona. Un moment, una altra vegada. Això és un fantasma.
+
+52
+00:01:36,262 --> 00:01:39,809
+PART.1: Sí, sí, perquè això estava, això estava, això estava...
+
+53
+00:01:41,435 --> 00:01:44,364
+PART.1: ...i això estava, llavors l'has agafat bé.
+
+54
+00:01:46,818 --> 00:01:47,586
+PART.1: Vale.
+
+55
+00:01:48,119 --> 00:01:50,025
+PART.1: Ara em tocava a mi, no, ara?
+
+56
+00:01:50,499 --> 00:01:52,090
+PART.2: No ho sé, gira-la ja!
+
+57
+00:01:55,238 --> 00:01:56,284
+PART.1: Hòstia!
+
+58
+00:01:56,296 --> 00:01:57,307
+PART.1: Vale, toma!
+
+59
+00:01:57,329 --> 00:01:58,335
+PART.2: No?
+
+60
+00:01:58,373 --> 00:01:59,405
+PART.1: Sí, sí. Està bé.
+
+61
+00:01:59,811 --> 00:02:01,249
+PART.2: Espera't un moment.
+
+62
+00:02:01,299 --> 00:02:02,371
+PART.1: Sí.
+
+63
+00:02:02,511 --> 00:02:04,106
+PART.1: Perquè no tens color i no tens...
+
+64
+00:02:05,490 --> 00:02:06,587
+PART.2: Espera un moment.
+
+65
+00:02:12,211 --> 00:02:13,393
+PART.1: A qui li toca? A mi?
+
+66
+00:02:13,393 --> 00:02:14,526
+PART.2: És igual.
+
+67
+00:02:15,306 --> 00:02:16,964
+PART.1: Eeeeh, crec que aquest.
+
+68
+00:02:17,881 --> 00:02:19,347
+PART.1: Sí, no? Sí.
+
+69
+00:02:19,539 --> 00:02:20,550
+PART.2: Ajà!
+
+70
+00:02:21,758 --> 00:02:22,787
+PART.2: Ready?
+
+71
+00:02:23,047 --> 00:02:24,047
+PART.1: Vale.
+
+72
+00:02:24,066 --> 00:02:25,109
+PART.2: Estem a punt d'empatar.
+
+73
+00:02:25,143 --> 00:02:27,363
+PART.1: No fa falta. Em dona igual, em dona igual.
+
+74
+00:02:27,522 --> 00:02:28,595
+PART.1: Tinc assumit que...
+
+75
+00:02:30,634 --> 00:02:33,347
+PART.1: Aquest, crec. No? Sí.
+
+76
+00:02:33,492 --> 00:02:34,995
+PART.2: Sí. El blau hi és...
+
+77
+00:02:35,137 --> 00:02:36,163
+PART.1: Sí.
+
+78
+00:02:37,154 --> 00:02:42,195
+PART.1: Però que, Alícia, que dona igual, que estic acostumat a ser lent pensant.
+
+79
+00:02:39,243 --> 00:02:40,314
+PART.2: Te n'adones?
+
+80
+00:02:42,235 --> 00:02:46,043
+PART.1: Ja estic acostumat. Sempre he sigut així, m'agrada pensar bé.
+
+81
+00:02:46,189 --> 00:02:47,915
+PART.1: No ho porto malament.
+
+82
+00:02:48,171 --> 00:02:49,147
+PART.2: Tira.
+
+83
+00:02:49,395 --> 00:02:50,491
+PART.1: Vale.
+
+84
+00:02:50,739 --> 00:02:52,627
+PART.2: Aiii, merda! M'he equivocat.
+
+85
+00:02:53,794 --> 00:02:55,190
+PART.2: Ostres! Ens la juguem a una carta.
+
+86
+00:02:55,279 --> 00:02:56,343
+PART.1: No fotis, tia!
+
+87
+00:02:56,160 --> 00:02:57,410
+PART.2: ¡Qué ilusión!
+
+88
+00:02:57,441 --> 00:02:59,441
+PART.1: Joder, és que... Ara qui?
+
+89
+00:02:59,242 --> 00:03:00,242
+PART.2: Tira, tira.
+
+90
+00:03:02,931 --> 00:03:04,667
+PART.2: Ahhhh! ¡Qué fuerte!
+
+91
+00:03:04,755 --> 00:03:05,919
+PART.1: Però, a veure, Alícia...
+
+92
+00:03:05,795 --> 00:03:06,831
+PART.2: No, està molt bé.
+
+93
+00:03:06,846 --> 00:03:07,851
+PART.1: Segur? Però no ho has fet...?
+
+94
+00:03:07,229 --> 00:03:08,230
+PART.2: No, no, no!
+
+95
+00:03:08,235 --> 00:03:09,238
+PART.1: Ah, vale. No em deixis guanyar, eh?
+
+96
+00:03:08,778 --> 00:03:09,778
+PART.2: Que no, que no!
+
+97
+00:03:10,927 --> 00:03:11,986
+PART.1: Bueno, pues ja està.
+
+98
+00:03:12,030 --> 00:03:15,387
+PART.2: Espera't. Dona-m'hi. Qué fuerte. És veritat: aquesta.
+
+99
+00:03:16,047 --> 00:03:17,087
+PART.1: Va.
+
+100
+00:03:17,132 --> 00:03:17,999
+PART.2: Muy bien, ¿eh? Toma.
+
+101
+00:03:19,646 --> 00:03:21,355
+PART.2: Ja estem! Ara no sé si ho...
+
+102
+00:03:21,387 --> 00:03:23,307
+PART.1: No ho sé, no ho sé.
+
+103
+00:03:25,542 --> 00:03:27,022
+PART.2: I aquest joc és famós, o què?
+
+104
+00:03:27,059 --> 00:03:29,346
+PART.1: Jo que sé, però no tinc ganes de pensar.
+
+105
+00:03:30,443 --> 00:03:31,658
+PART.1: Estic de divendres.
+
+106
+00:03:32,067 --> 00:03:35,714
+PART.1: Ara que avui és... podem pensar si anem a fer un gelat després...
+
+107
+00:03:36,300 --> 00:03:38,828
+PART.2: Bueno, espera't, que primer hem d'anar a veure el súper...
+
+108
+00:03:39,608 --> 00:03:40,634
+PART.1: A l'Eloi?
+
+109
+00:03:40,763 --> 00:03:41,811
+PART.2: És xulo, eh?
+
+110
+00:03:42,002 --> 00:03:44,860
+PART.1: El què? El despatx de l'Eloi? Hauràs de buscar...
+
+111
+00:03:44,494 --> 00:03:46,330
+PART.2: I diràs: per què és xulo?
+
+112
+00:03:46,472 --> 00:03:47,555
+PART.2: Jo t'ho dic, mira, no t'ho dic.
+
+113
+00:03:47,223 --> 00:03:50,235
+PART.1: I per què no te'n vas a un altre país a intentar buscar-te la vida.
+
+114
+00:03:50,378 --> 00:03:53,571
+PART.1: Si ja has trobat treball a l'Arash, per què no te'n vas tu?
+
+115
+00:03:53,763 --> 00:03:54,816
+PART.2: I com li va a l'Arash?
+
+116
+00:03:54,831 --> 00:03:56,859
+PART.1: Ni idea. No vaig parlar amb ell. És que com...
+
+117
+00:03:56,996 --> 00:03:58,570
+PART.1: No és que acabés malament, però, al final...
+
+118
+00:03:58,766 --> 00:04:06,263
+PART.1: No sé,  l'startup no es va... no es va quedar bé... 
+no és que quedés malament, però no va tindre un bon feeling.
+
+119
+00:04:06,467 --> 00:04:07,583
+PART.1: Espera't, que hem de comptar aquest després.
+
+120
+00:04:07,650 --> 00:04:08,744
+PART.2: Ja està, si ja hem comptat.
+
+121
+00:04:08,803 --> 00:04:09,879
+PART.1: Has comptat?
+
+122
+00:04:09,887 --> 00:04:11,268
+PART.2: Claro. Si jo en tenia cinc.
+
+123
+00:04:11,878 --> 00:04:12,959
+PART.1: Sí? Vale.
+
+124
+00:04:14,213 --> 00:04:23,051
+PART.1: Que al final, al final, no és que acabés malament, 
+però sí que es va acabar la relació i tal.
+
+125
+00:04:23,119 --> 00:04:27,379
+PART.1: De fet, també va ser tema que el “C” no sabia el que volia.
+
+126
+00:04:27,526 --> 00:04:34,851
+PART.1: Ara que he fet el postgrau de Deep Learning m'adono que és que directament el “C” 
+no sabia el que volia i el va agafar l'Arash 
+i el va ficar en un merder.
+

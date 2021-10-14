@@ -1,0 +1,15 @@
+66
+00:05:08,230 --> 00:05:10,310
+PART.1: Rica, por la pizza.
+
+67
+00:05:11,310 --> 00:05:17,510
+PART.2: Si me hubiera acordado tendrías
+media pizza porque la estaría
+paseando. Vale.
+
+68
+00:05:30,910 --> 00:05:34,270
+PART.2: En realidad, si no hubiera prisa yo
+montaría otro.
+

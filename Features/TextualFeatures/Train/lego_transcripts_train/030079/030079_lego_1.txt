@@ -1,0 +1,74 @@
+22
+00:01:02,626 --> 00:01:03,506
+PART.1: Vale.
+
+23
+00:01:07,746 --> 00:01:08,666
+PART.2: Este.
+
+24
+00:01:10,106 --> 00:01:10,666
+PART.1: Sí, con...
+
+25
+00:01:10,746 --> 00:01:11,706
+PART.2: Son dos.
+
+26
+00:01:13,426 --> 00:01:15,346
+PART.2: Del mismo color.
+
+27
+00:01:23,106 --> 00:01:24,346
+PART.1: Este sería uno.
+
+28
+00:01:26,666 --> 00:01:28,426
+PART.2: no,no va con eso, ¿o sí?
+
+29
+00:01:28,506 --> 00:01:29,306
+PART.1: ¿No?
+
+30
+00:01:30,226 --> 00:01:34,146
+PART.2: No sé, es que yo veo que son dos
+iguales, pero no encuentro el otro.
+
+31
+00:01:34,226 --> 00:01:35,466
+PART.2: Acá está.
+
+32
+00:01:35,546 --> 00:01:36,266
+PART.2: Ahí.
+
+33
+00:01:36,346 --> 00:01:38,426
+PART.1: Va lo que se pone encima.
+
+34
+00:01:41,506 --> 00:01:42,426
+PART.1: ¿No se pone una encima?
+
+35
+00:01:42,506 --> 00:01:43,306
+PART.1: +Yo creo que sí.
+
+36
+00:01:43,386 --> 00:01:45,746
+PART.2: Mmm, no sé, a ver, veamos.
+
+37
+00:01:45,826 --> 00:01:51,186
+PART.2: Y luego va uno de seis
+azul, pero no hay azul.
+
+38
+00:01:54,986 --> 00:01:55,906
+PART.2: Bueno, pongamos uno...
+
+39
+00:01:55,986 --> 00:01:56,986
+PART.2: Ah, este.
+

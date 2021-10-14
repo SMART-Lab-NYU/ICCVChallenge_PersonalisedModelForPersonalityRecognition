@@ -1,0 +1,70 @@
+36
+00:02:03,050 --> 00:02:10,730
+PART.2: Eh... el mío, a ver, eh.... supongo... come carne, ¿no?
+
+37
+00:02:11,570 --> 00:02:12,090
+PART.1: No.
+
+38
+00:02:12,170 --> 00:02:12,970
+PART.2: ¿No come carne?
+
+39
+00:02:12,970 --> 00:02:14,450
+PART.1: No come carne, es vegetariano.
+
+40
+00:02:15,090 --> 00:02:21,450
+PART.2: Ah, a ver, es un mamífero, tiene cuatro patas, ¿y es vegetariano?
+
+41
+00:02:22,010 --> 00:02:22,610
+PART.1: Sí.
+
+42
+00:02:22,650 --> 00:02:25,210
+PART.2: Uf... ahora sí que me has dejado...
+
+43
+00:02:26,810 --> 00:02:29,330
+PART.1: Ya. Está complicado.
+
+44
+00:02:31,010 --> 00:02:32,890
+PART.2: Uy, es vegetariano, bua.
+
+45
+00:02:33,370 --> 00:02:34,650
+PART.1: Sí, a ver...
+
+46
+00:02:34,730 --> 00:02:36,570
+PART.2: Pues no sé, ahora ya me he perdido.
+
+47
+00:02:37,090 --> 00:02:45,290
+PART.1: Predomina el blanco, este... es... es un ave y no tiene manchas en la
+piel.
+
+48
+00:02:46,210 --> 00:02:52,570
+PART.1: Este... ¿en qué parte, exactamente, se lo puede encontrar a este... a
+este animal?
+
+49
+00:02:53,130 --> 00:02:56,570
+PART.1: ¿Está dentro...? ¿Se puede encontrar en el área urbana?
+
+50
+00:02:57,170 --> 00:02:58,810
+PART.2: No, no, no, en la urbana no.
+
+51
+00:02:59,210 --> 00:02:59,890
+PART.1: ¿Fuera del área urbana?
+
+52
+00:02:59,890 --> 00:03:00,370
+PART.2: Sí.
+

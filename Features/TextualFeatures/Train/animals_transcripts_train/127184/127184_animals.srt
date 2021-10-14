@@ -1,0 +1,624 @@
+﻿1
+00:00:01,200 --> 00:00:01,744
+PART.1: Bueno, comença va.
+
+2
+00:00:02,316 --> 00:00:02,859
+PART.2: Començo jo?
+
+3
+00:00:03,171 --> 00:00:03,934
+PART.2: Vale.
+
+4
+00:00:04,315 --> 00:00:04,807
+PART.2: És un mamífer?
+
+5
+00:00:05,401 --> 00:00:05,670
+PART.1: No.
+
+6
+00:00:07,086 --> 00:00:07,265
+PART.2: No.
+
+7
+00:00:07,971 --> 00:00:08,615
+PART.2: És una au?
+
+8
+00:00:10,823 --> 00:00:11,128
+PART.1: No.
+
+9
+00:00:11,619 --> 00:00:12,279
+PART.2: És un rèptil!
+
+10
+00:00:12,705 --> 00:00:12,945
+PART.1: Sí.
+
+11
+00:00:16,412 --> 00:00:17,207
+PART.2: Viu a l'aigua?
+
+12
+00:00:20,651 --> 00:00:21,061
+PART.2: Sí, però no...
+
+13
+00:00:21,974 --> 00:00:22,158
+PART.1: Sí, però no.
+
+14
+00:00:25,013 --> 00:00:25,831
+PART.2: Com, que sí, però no?
+
+15
+00:00:25,895 --> 00:00:26,533
+PART.2: Mmmm!...
+
+16
+00:00:31,181 --> 00:00:33,259
+PART.2: El tenim aquí, a Esp...
+
+17
+00:00:33,763 --> 00:00:33,937
+PART.1: No.
+
+18
+00:00:33,775 --> 00:00:33,902
+PART.2: No.
+
+19
+00:00:34,357 --> 00:00:35,140
+PART.2: És un animal exòtic, no?.
+
+20
+00:00:35,381 --> 00:00:35,589
+PART.1: Sí.
+
+21
+00:00:36,154 --> 00:00:36,294
+PART.2: Vale, perfecte.
+
+22
+00:00:37,414 --> 00:00:37,895
+PART.2: Mmmm...
+
+23
+00:00:42,611 --> 00:00:42,941
+PART.2: És molt gran?
+
+24
+00:00:44,021 --> 00:00:44,308
+PART.1: No.
+
+25
+00:00:44,951 --> 00:00:45,125
+PART.2: No?
+
+26
+00:00:45,312 --> 00:00:45,598
+PART.1: Tchs...
+
+27
+00:00:46,275 --> 00:00:47,720
+PART.2: Pensava que era el cocodril, però no.
+
+28
+00:00:48,118 --> 00:00:48,375
+PART.1: No.
+
+29
+00:00:48,924 --> 00:00:49,226
+PART.2: Mmm...
+
+30
+00:00:50,862 --> 00:00:51,993
+PART.1: No vas malament, però no.
+
+31
+00:00:52,586 --> 00:00:52,855
+PART.2: Haha...
+
+32
+00:00:54,462 --> 00:00:55,751
+PART.2: Però clar, un rèptil...
+
+33
+00:00:57,632 --> 00:00:58,506
+PART.2: Camina a quatre potes?
+
+34
+00:00:58,982 --> 00:00:59,144
+PART.1: Sí.
+
+35
+00:00:59,682 --> 00:00:59,826
+PART.2: Sí.
+
+36
+00:01:03,288 --> 00:01:04,161
+PART.2: Una serp, no és...
+
+37
+00:01:10,882 --> 00:01:14,074
+PART.2: És... és de color verd?
+
+38
+00:01:14,516 --> 00:01:14,779
+PART.1: Sí.
+
+39
+00:01:17,416 --> 00:01:18,491
+PART.2: I no el tenim aquí...?
+
+40
+00:01:19,433 --> 00:01:20,648
+PART.1: Jo diria que no hi es aquí...
+
+41
+00:01:28,175 --> 00:01:29,099
+PART.2: Aaaii...
+
+42
+00:01:30,779 --> 00:01:32,789
+PART.2: Mmm... mmm...
+
+43
+00:01:35,567 --> 00:01:35,915
+PART.2: Esperate.
+
+44
+00:01:37,164 --> 00:01:46,202
+PART.2: Ai... a veure, és un rèptil, que camina a quatre potes, que és de color verd, que no el tenim per aquí a Espanya... en general, és més aviat exòtic...
+
+45
+00:01:46,638 --> 00:01:46,991
+PART.2: Mmm...
+
+46
+00:01:52,713 --> 00:01:54,288
+PART.2: Menja altres animals? o menja...
+
+47
+00:01:55,032 --> 00:01:55,318
+PART.1: No.
+
+48
+00:01:55,687 --> 00:01:55,922
+PART.2: No.
+
+49
+00:01:56,812 --> 00:01:58,723
+PART.1: Bueno, animals que..., si hi entens insectes...
+
+50
+00:01:59,579 --> 00:02:00,239
+PART.2: No, insectes no.
+
+51
+00:02:00,531 --> 00:02:01,164
+PART.2: Menjar en plan de...
+
+52
+00:02:02,816 --> 00:02:03,035
+PART.2: Vale.
+
+53
+00:02:05,448 --> 00:02:06,131
+PART.2: Canvia de color?
+
+54
+00:02:07,127 --> 00:02:07,363
+PART.1: Sí.
+
+55
+00:02:07,969 --> 00:02:08,630
+PART.2: És un camaleó?
+
+56
+00:02:08,941 --> 00:02:09,142
+PART.1: Sí.
+
+57
+00:02:11,248 --> 00:02:12,034
+PART.2: Ei! Que guai!
+
+58
+00:02:13,311 --> 00:02:13,808
+PART.1: A veure...
+
+59
+00:02:14,604 --> 00:02:15,792
+PART.1: És mamífer?
+
+60
+00:02:16,143 --> 00:02:16,333
+PART.2: Sí.
+
+61
+00:02:17,080 --> 00:02:18,780
+PART.1: Mmm... quatre potes?
+
+62
+00:02:19,397 --> 00:02:19,593
+PART.2: Sí.
+
+63
+00:02:21,021 --> 00:02:22,007
+PART.1: Fa més de cent quilos?
+
+64
+00:02:23,104 --> 00:02:23,972
+PART.2: No, no.
+
+65
+00:02:25,393 --> 00:02:26,251
+PART.1: Ahh... viu a la selva?
+
+66
+00:02:26,978 --> 00:02:27,383
+PART.2: No.
+
+67
+00:02:28,636 --> 00:02:29,959
+PART.1: Pot viure entre els humans?
+
+68
+00:02:30,372 --> 00:02:32,002
+PART.1: Pot viure... Síii, més a... sí, sí, sí.
+
+69
+00:02:32,260 --> 00:02:35,978
+PART.1: Pot viure a la selva, suposo, però viu més aviat amb els humans.
+
+70
+00:02:36,633 --> 00:02:37,412
+PART.1: Viu amb els humans!
+
+71
+00:02:37,988 --> 00:02:40,055
+PART.2: Sí, però no com un animal de companyia.
+
+72
+00:02:40,631 --> 00:02:41,297
+PART.1: De granja?
+
+73
+00:02:41,803 --> 00:02:42,004
+PART.2: Sí.
+
+74
+00:02:44,635 --> 00:02:45,800
+PART.1: Ahhh... produeix algun aliment?
+
+75
+00:02:46,237 --> 00:02:46,439
+PART.2: Sí.
+
+76
+00:02:47,357 --> 00:02:48,920
+PART.1: Ehh... de quin color... blanc?
+
+77
+00:02:49,591 --> 00:02:50,985
+PART.2: És blanc, sí, no?
+
+78
+00:02:51,535 --> 00:02:53,684
+PART.1: El que produeix? o l'animal és blanc?
+
+79
+00:02:53,937 --> 00:02:54,418
+PART.2: L'animal és blanc.
+
+80
+00:02:54,900 --> 00:02:55,162
+PART.1: L'animal és blanc.
+
+81
+00:02:59,419 --> 00:03:00,841
+PART.1: I el que produeix també és blanc?
+
+82
+00:03:02,554 --> 00:03:03,009
+PART.2: Sssí, sí.
+
+83
+00:03:06,311 --> 00:03:06,917
+PART.1: És un xai?
+
+84
+00:03:07,936 --> 00:03:08,289
+PART.2: No.
+
+85
+00:03:08,927 --> 00:03:09,169
+PART.1: Una cabra?
+
+86
+00:03:09,729 --> 00:03:09,919
+PART.2: Síii...
+
+87
+00:03:13,094 --> 00:03:13,514
+PART.1: Bueno...
+
+88
+00:03:13,889 --> 00:03:14,248
+PART.2: Molt bé! no?
+
+89
+00:03:16,974 --> 00:03:17,837
+PART.1: El meu era senzillet.
+
+90
+00:03:18,250 --> 00:03:19,080
+PART.1: El teu era més difícil, eh?
+
+91
+00:03:19,462 --> 00:03:19,686
+PART.2: Sí, sí.
+
+92
+00:03:20,105 --> 00:03:23,347
+PART.2: Per un moment pensava que no, però clar... he sigut exòtic, i en un moment m'ha vingut...
+
+93
+00:03:23,907 --> 00:03:24,148
+PART.1: Clar...
+
+94
+00:03:24,440 --> 00:03:24,647
+PART.2: Sí, sí.
+
+95
+00:03:25,615 --> 00:03:26,113
+PART.2: I ja està...
+
+96
+00:03:26,510 --> 00:03:27,597
+PART.1: Bueno, perquè aquí a Catalunya...
+
+97
+00:03:27,820 --> 00:03:28,342
+PART.1: bueno, aquí a Espanya, tenim...
+
+98
+00:03:32,536 --> 00:03:32,861
+PART.1: Com se diu?
+
+99
+00:03:33,314 --> 00:03:35,791
+PART.1: Com hi dieu vosaltres, el fardatxo? el...?
+
+100
+00:03:36,764 --> 00:03:37,755
+PART.2: El gripau...?
+
+101
+00:03:38,305 --> 00:03:43,932
+PART.1: No, no, una bestia que és així... que és de color verd també.
+
+102
+00:03:44,362 --> 00:03:44,884
+PART.2: El grip...
+
+103
+00:03:45,208 --> 00:03:45,488
+PART.1: No.
+
+104
+00:03:45,869 --> 00:03:46,099
+PART.2: No.
+
+105
+00:03:46,469 --> 00:03:46,754
+PART.2: El gri...
+
+106
+00:03:47,332 --> 00:03:47,779
+PART.1: Gripau no.
+
+107
+00:03:48,266 --> 00:03:49,391
+PART.1: Gripau és el aaa...
+
+108
+00:03:49,616 --> 00:03:49,824
+PART.2: Sí ,sí.
+
+109
+00:03:50,098 --> 00:03:50,669
+PART.2: El grill tampoc, no?
+
+110
+00:03:50,916 --> 00:03:51,559
+PART.1: El grill no.
+
+111
+00:03:51,856 --> 00:03:54,886
+PART.1: No, no, és un fardatxo així... però no sé com li dieu a Reus.
+
+112
+00:03:55,362 --> 00:03:55,921
+PART.2: La serp.
+
+113
+00:03:56,177 --> 00:03:57,734
+PART.1: No, la serp no, no, no, no.
+
+114
+00:03:58,008 --> 00:04:00,662
+PART.1: A... a la meva terra li diuen fardatxo, però clar...
+
+115
+00:04:00,982 --> 00:04:02,230
+PART.2: Fardatxo... no, no em sona, no em sona.
+
+116
+00:04:02,964 --> 00:04:04,992
+PART.1: Però... a Reus?
+
+117
+00:04:05,221 --> 00:04:05,524
+PART.2: Ni idea.
+
+118
+00:04:05,780 --> 00:04:07,377
+PART.2: No, jo un camal... camaleó, no n'he vist mai
+
+119
+00:04:09,208 --> 00:04:10,238
+PART.2: A Reus no sé com li dieu
+
+120
+00:04:10,619 --> 00:04:11,554
+PART.2: No tinc ni idea.
+
+121
+00:04:11,806 --> 00:04:12,959
+PART.1: És un..., és...
+
+122
+00:04:13,312 --> 00:04:15,187
+PART.1: És com una sagrantana, però en gran.
+
+123
+00:04:17,317 --> 00:04:17,814
+PART.2: Ostres!
+
+124
+00:04:17,427 --> 00:04:18,899
+PART.1: Com li dieu aquí a Reus?
+
+125
+00:04:18,815 --> 00:04:19,884
+PART.2: No he vist mai aquest animal.
+
+126
+00:04:20,033 --> 00:04:21,511
+PART.2: I espero no trobar-me’l mai.
+
+127
+00:04:20,377 --> 00:04:21,127
+PART.1: Jo sí que l'he vist...
+
+128
+00:04:23,323 --> 00:04:25,901
+PART.1: A l'estiu a..., pels camins sortien.
+
+129
+00:04:26,304 --> 00:04:26,715
+PART.2: Ostres!
+
+130
+00:04:27,026 --> 00:04:27,872
+PART.1: Sí, sí, era així
+
+131
+00:04:28,078 --> 00:04:31,226
+PART.1: I feia molta mania, era... caminava... clackclackclackclack.
+
+132
+00:04:30,379 --> 00:04:31,292
+PART.2: Sí, sí, no vull veure-ho.
+
+133
+00:04:31,863 --> 00:04:33,134
+PART.1: Jo sí que l'he vist, i era... era verd.
+
+134
+00:04:33,464 --> 00:04:33,773
+PART.2: Sí, sí, sí.
+
+135
+00:04:34,241 --> 00:04:38,869
+PART.1: Però sortia a la... a les migdiades, allò que anaves a la vinya... o...
+
+136
+00:04:39,586 --> 00:04:40,617
+PART.2: I quan menys t'ho esperaves sortia.
+
+137
+00:04:41,177 --> 00:04:41,859
+PART.1: Sí, sí, sí, sí.
+
+138
+00:04:41,260 --> 00:04:41,764
+PART.2: Sí, sí, sí.
+
+139
+00:04:42,582 --> 00:04:42,841
+PART.2: Ostres!
+
+140
+00:04:43,462 --> 00:04:45,107
+PART.2: No, a mi els animals no m'acaben d'agradar.
+
+141
+00:04:45,734 --> 00:04:46,849
+PART.2: Sí m'agraden els gats, m'agraden els gossos...
+
+142
+00:04:47,633 --> 00:04:48,192
+PART.1: A mi no m'agraden.
+
+143
+00:04:49,217 --> 00:04:53,249
+PART.2: Però a mi aquesta gent que es fa veterinari d'animals exòtics, jo no podria mai.
+
+144
+00:04:50,303 --> 00:04:53,909
+PART.1: No m'agrad... a mi els animals no m'ag.. no m'agraden.
+
+145
+00:04:54,771 --> 00:04:56,121
+PART.2: Amí..., especialment tampoc.
+
+146
+00:04:55,351 --> 00:04:56,926
+PART.1: Mmmm... ni els gossos, ni els gats...
+
+147
+00:04:57,167 --> 00:04:57,548
+PART.2: No?
+
+148
+00:04:57,584 --> 00:04:57,925
+PART.1: No.
+
+149
+00:04:58,531 --> 00:04:58,884
+PART.1: No m'agraden.
+
+150
+00:04:59,426 --> 00:05:00,390
+PART.2: No, no, ho entenc, ho entenc...
+
+151
+00:04:59,744 --> 00:05:02,130
+PART.1: Això no vol dir que no els fagui a casa meva...
+
+152
+00:05:02,318 --> 00:05:03,164
+PART.2: Sí exacte, clar...
+
+153
+00:05:02,384 --> 00:05:03,820
+PART.1: A casa meva quan era petita sempre...
+
+154
+00:05:03,986 --> 00:05:06,330
+PART.1: Havia... havia hagut gos.
+
+155
+00:05:07,164 --> 00:05:09,488
+PART.1: Gats no, però no, no soc d'animals.
+
+156
+00:05:08,542 --> 00:05:09,475
+PART.2: Sí, sí, però no, no.
+

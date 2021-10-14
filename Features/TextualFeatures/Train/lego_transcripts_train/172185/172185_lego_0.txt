@@ -1,0 +1,84 @@
+﻿1
+00:00:00,000 --> 00:00:00,410
+PART.2: Vale.
+
+2
+00:00:00,890 --> 00:00:01,564
+PART.1: Entonces la casita...
+
+3
+00:00:02,852 --> 00:00:05,515
+PART.2: Bueno, ¿Qué empiezas? ¿Por abajo o por arriba?
+
+4
+00:00:05,216 --> 00:00:06,016
+PART.1: Por abajo
+
+5
+00:00:06,129 --> 00:00:07,482
+PART.2: Pues vamos haciendo... ¿Tú arriba?
+
+6
+00:00:09,639 --> 00:00:10,775
+PART.1: Como una casa real por abajo
+
+7
+00:00:12,711 --> 00:00:14,005
+PART.2: No te gusta empezar por los cimientos...
+
+8
+00:00:13,170 --> 00:00:16,741
+PART.1: No, pero por abajo... ¿Ella no empieza por abajo, no?
+
+9
+00:00:17,701 --> 00:00:22,924
+PART.2: Bueno. Hay que buscar primero... ¿no? Porque aquí están las instrucciones de todos
+
+10
+00:00:23,434 --> 00:00:24,291
+PART.1: ¡Ah! Aquí.
+
+11
+00:00:24,175 --> 00:00:27,858
+PART.2: Esta, ¿no?. Aquí, una, dos... ¡Esta!
+
+12
+00:00:30,258 --> 00:00:32,418
+PART.1: La base es un rectángulo morado.
+
+13
+00:00:32,153 --> 00:00:36,994
+PART.2: La base... Tú mira lo de arriba. Yo ya voy haciendo lo de abajo.
+
+14
+00:00:39,000 --> 00:00:39,719
+PART.2: Venga, ya lo tengo.
+
+15
+00:00:42,415 --> 00:00:44,181
+PART.2: Ve mirando lo de arriba tú si acaso
+
+16
+00:00:45,431 --> 00:00:45,847
+PART.1: ¡Mmm¡
+
+17
+00:00:46,183 --> 00:00:47,079
+PART.2: Vamos avanzando
+
+18
+00:00:47,478 --> 00:00:49,527
+PART.1: Y necesitamos un plano
+
+19
+00:00:49,775 --> 00:00:51,080
+PART.2: Este es de abajo
+
+20
+00:00:55,199 --> 00:00:59,064
+PART.1: Ahora... mira, una ventanita...
+
+21
+00:00:59,783 --> 00:01:02,040
+PART.2: ¡Ah! Pues, ya está... delante...
+

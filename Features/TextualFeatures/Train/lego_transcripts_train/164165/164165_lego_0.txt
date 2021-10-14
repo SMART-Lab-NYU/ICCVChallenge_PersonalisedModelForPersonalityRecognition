@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:03,253
+SUPERVISOR: Dentro vienen las instrucciones de los cuatro.
+
+2
+00:00:04,853 --> 00:00:05,723
+PART.1: A ver...
+
+3
+00:00:10,873 --> 00:00:12,173
+PART.1: Vale, creo que es este.
+
+4
+00:00:14,353 --> 00:00:15,803
+PART.1: No sé si se puede tapar.
+
+5
+00:00:15,803 --> 00:00:17,273
+PART.2: Bueno, en realidad es morada.
+
+6
+00:00:16,573 --> 00:00:18,623
+PART.1: Vale, hay que buscar la morada, aquí está.
+
+7
+00:00:17,673 --> 00:00:18,673
+PART.2: Esta no es la morada.
+
+8
+00:00:18,673 --> 00:00:21,123
+PART.1: Uno, dos... el blanco.
+
+9
+00:00:22,223 --> 00:00:24,173
+PART.1: Supongo, no, esto no encaja.
+
+10
+00:00:24,173 --> 00:00:25,523
+PART.1: Una como esta pero que encaje.
+
+11
+00:00:26,773 --> 00:00:27,823
+PART.1: ¿O sí que encaja?
+
+12
+00:00:27,823 --> 00:00:30,853
+PART.2: Esa sí que encaja, tiene seis juncos también.
+
+13
+00:00:30,853 --> 00:00:32,073
+PART.1: Ah, pues sí encaja.
+
+14
+00:00:33,023 --> 00:00:33,723
+PART.2: ¿Ya está? ...
+
+15
+00:00:33,123 --> 00:00:33,703
+PART.1: Vale.
+
+16
+00:00:34,023 --> 00:00:35,073
+PART.1: ¡Qué fácil!
+
+17
+00:00:35,923 --> 00:00:37,003
+PART.1: Mm...
+
+18
+00:00:37,003 --> 00:00:38,273
+PART.2: A ver, que no lo veo.
+
+19
+00:00:38,773 --> 00:00:42,503
+PART.1: Vale, ahora rositas y blanco.
+
+20
+00:00:39,073 --> 00:00:41,253
+PART.2: Ahora los rositas de dos.
+
+21
+00:00:43,653 --> 00:00:44,323
+PART.1: ¿Esto no?
+
+22
+00:00:44,323 --> 00:00:45,673
+PART.2: Rosita de dos.
+
+23
+00:00:46,323 --> 00:00:47,953
+PART.2: Y en el otro lado también, ¿no?
+
+24
+00:00:49,703 --> 00:00:50,973
+PART.1: En el otro lado.
+
+25
+00:00:51,953 --> 00:00:53,603
+PART.1: Ah, pero rosita oscuro.
+
+26
+00:00:53,603 --> 00:00:55,603
+PART.1: Luego encima va el rosita claro.
+

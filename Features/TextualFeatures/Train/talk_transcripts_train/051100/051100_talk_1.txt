@@ -1,0 +1,56 @@
+19
+00:01:00,787 --> 00:01:03,693
+PART.2:  Què estàs fent ara, de què estàs treballant?
+
+20
+00:01:04,365 --> 00:01:06,540
+PART.1:  Estic treballant per al servei tècnic de Google Club.
+
+21
+00:01:07,060 --> 00:01:08,013
+PART.2:  I què tal?
+
+22
+00:01:08,852 --> 00:01:14,908
+PART.1:  Bueno, te n'adones que Google és un puto caos que flipes per dins, i tu t'esperes una empresa com decent, no?
+
+23
+00:01:14,937 --> 00:01:17,777
+PART.2: Jo m'esperava això, almenys quan contava així, Google...
+
+24
+00:01:16,861 --> 00:01:19,044
+PART.1:  Una puta locura.
+
+25
+00:01:19,054 --> 00:01:20,152
+PART.2: Sí?
+
+26
+00:01:20,156 --> 00:01:24,829
+PART.1:  Bueno, jo crec que el seu hobby es llençar els productes en beta, coses sense probar.
+
+27
+00:01:24,841 --> 00:01:30,793
+PART.1: No, no, tu llença-ho, que es trenqui, si no ja ho arreglaran els de suport, i estem en suport.
+
+28
+00:01:30,825 --> 00:01:33,156
+PART.1: I és un poc caòtic a vegades.
+
+29
+00:01:33,232 --> 00:01:34,732
+PART.2: Sou els que ho heu de solucionar.
+
+30
+00:01:34,787 --> 00:01:50,926
+PART.1:  Sí, sí, o siga, més o menos, perquè hi ha coses que nosaltres no fem, nosaltres reportem l'error que n'hi ha, fem la reproducció, veiem exactamente què és, i ho passem a l'equip d'enginyeria que s'encarregarà de fer canvis en el codi o el que siga.
+
+31
+00:01:50,949 --> 00:01:52,040
+PART.2: Vale, vale.
+
+32
+00:01:52,005 --> 00:02:30,557
+PART.1:  I claro, a vegades et venen clients que no tenen ni puta idea i els tens que parlar com si foren tontos, i altres vegades te n'adones que saben moltíssim i tu estàs donant suport a tot lo relacionat amb Big Data de Google Club i clar, te ve l'enginyer de Data Flow en concret, només un producte per a processament de dades, que curra d'això i te fa preguntes i és com… i jo què sé, tinc que mirar-me tota la documentació, tinc que llegir-m'ho tot i al damunt me pregunta com si jo sapigués i jo, bé, no soc tonto, però no treballo només en este producte, estic tocant mil coses més… i és un poc liada però bueno és entretingut.
+

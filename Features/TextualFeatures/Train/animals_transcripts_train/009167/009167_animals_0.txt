@@ -1,0 +1,82 @@
+1
+00:00:01,231 --> 00:00:02,511
+PART.2: ¿Quién empieza?
+
+2
+00:00:02,711 --> 00:00:03,791
+PART.1: Venga, empiezo yo.
+
+3
+00:00:03,951 --> 00:00:05,551
+PART.2: Que tienes más
+experiencia.
+
+4
+00:00:05,791 --> 00:00:10,271
+PART.1: Sí. Mira cómo sudé, eh. A ver...
+¿Soy mamífero?
+
+5
+00:00:10,711 --> 00:00:11,711
+PART.2: Sí. Eres un mamífero.
+
+6
+00:00:11,791 --> 00:00:16,111
+PART.1: Vale, soy un mamífero. Es que
+luego cuesta retener las respuestas.
+
+7
+00:00:16,191 --> 00:00:19,271
+PART.2: Hay que hacer desde las más
+grandes a las más pequeñas.
+
+8
+00:00:19,711 --> 00:00:23,751
+PART.1: Vale. Vamos intercalando, ¿no?
+¿Una pregunta tú, una pregunta yo?
+
+9
+00:00:23,831 --> 00:00:25,831
+PART.2: Ya. ¿Yo soy mamífero?
+
+10
+00:00:26,751 --> 00:00:27,751
+PART.1: No.
+
+11
+00:00:29,631 --> 00:00:30,311
+PART.2: ¿Sigues tú?
+
+12
+00:00:30,391 --> 00:00:35,271
+PART.1: Vale. ¿Acuático? ¿Soy acuático?
+
+13
+00:00:35,351 --> 00:00:35,991
+PART.2: No.
+
+14
+00:00:36,071 --> 00:00:36,831
+PART.1: Vale.
+
+15
+00:00:37,471 --> 00:00:38,471
+PART.2: ¿Soy un pájaro?
+
+16
+00:00:38,551 --> 00:00:39,311
+PART.1: Sí.
+
+17
+00:00:39,391 --> 00:00:42,471
+PART.2: El problema es que no me sé el
+nombre de los pájaros.
+
+18
+00:00:53,351 --> 00:00:55,231
+PART.1: Vale. ¿Soy un ave?
+
+19
+00:00:55,631 --> 00:00:56,631
+PART.2: No.
+

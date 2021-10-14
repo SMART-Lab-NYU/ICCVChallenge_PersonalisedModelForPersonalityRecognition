@@ -1,0 +1,108 @@
+28
+00:01:01,960 --> 00:01:03,640
+PART.1: en unas cosas
+y otros en otras.
+
+29
+00:01:03,720 --> 00:01:05,120
+PART.1: Y yo, pues...
+
+30
+00:01:05,520 --> 00:01:06,960
+PART.1: Pues, bueno, en...
+
+31
+00:01:07,040 --> 00:01:09,440
+PART.1: He tocado uno o dos
+[MASKED]
+
+32
+00:01:11,439 --> 00:01:12,040
+PART.1: [MASKED] vamos a dar otro.
+
+33
+00:01:12,120 --> 00:01:16,640
+PART.1: Y abr�, pum.
+Tacat�, 20 paquetes dentro.
+
+34
+00:01:16,720 --> 00:01:19,560
+PART.1: Y abro un paquete, pum,
+tacat�, 40 paquetes dentro.
+
+35
+00:01:19,640 --> 00:01:20,840
+PART.1: Y dije: Bueno, pues nada.
+
+36
+00:01:22,839 --> 00:01:24,720
+PART.1: [MASKED] tra vez
+aqu� darlo todo, �sabes?
+
+37
+00:01:24,800 --> 00:01:25,800
+PART.2: Madre m�a, t�o.
+
+38
+00:01:25,880 --> 00:01:29,200
+PART.2: Pero lo primero que
+hiciste ... en el primero, �no?
+
+39
+00:01:29,280 --> 00:01:30,840
+PART.1: S�, en el primero.
+Ahora ya me [MASKED]
+
+40
+00:01:32,839 --> 00:01:35,600
+PART.2: [MASKED] �qu� te han hecho
+hacer, m�s o menos?
+
+41
+00:01:35,680 --> 00:01:36,640
+PART.1: �En el otro?
+
+42
+00:01:38,839 --> 00:01:39,920
+PART.1: [MASKED] ra simplemente...
+
+43
+00:01:41,040 --> 00:01:42,840
+PART.1: Recog�a datos de [MASKED]
+
+44
+00:01:45,200 --> 00:01:47,840
+PART.1: lo recib�a
+y eso luego lo procesaba
+
+45
+00:01:47,920 --> 00:01:48,840
+PART.1: y lo mostraba
+en [MASKED]
+
+46
+00:01:51,200 --> 00:01:53,360
+PART.1: Entonces, el tema est�
+en que ten�a que arreglar...
+
+47
+00:01:53,440 --> 00:01:56,800
+PART.2: "�Y qu� es, frame...?
+�Framework o eso? No, �no?
+
+48
+00:01:56,880 --> 00:01:57,880
+PART.1: Nada.
+
+49
+00:01:57,640 --> 00:01:58,640
+PART.2: Nada.
+
+50
+00:01:58,440 --> 00:01:59,520
+PART.1: Full javascript.
+
+51
+00:01:59,600 --> 00:01:59,640
+PART.2: �Java [MASKED]
+

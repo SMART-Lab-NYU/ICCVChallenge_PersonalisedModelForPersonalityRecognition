@@ -1,0 +1,874 @@
+1
+00:00:00,000 --> 00:00:01,428
+SUPERVISOR: A charlar un rato
+para conoceros un poco.
+
+2
+00:00:02,428 --> 00:00:02,988
+SUPERVISOR: Hasta ahora.
+
+3
+00:00:05,628 --> 00:00:06,068
+PART.2: Bueno.
+
+4
+00:00:06,468 --> 00:00:06,988
+PART.1: Bueno.
+
+5
+00:00:09,588 --> 00:00:10,188
+PART.2: Pues...
+
+6
+00:00:10,628 --> 00:00:11,268
+PART.2: Yo soy Rubén.
+
+7
+00:00:11,348 --> 00:00:12,508
+PART.2: Creo que no nos han presentado
+antes.
+
+8
+00:00:13,588 --> 00:00:16,028
+PART.2: Y estoy también
+colaborando en todo este proyecto.
+
+9
+00:00:16,228 --> 00:00:17,468
+PART.2: Soy un alumno de
+máster.
+
+10
+00:00:17,828 --> 00:00:21,028
+PART.2: Y estamos haciendo la
+tesis sobre estas cosas.
+
+11
+00:00:21,108 --> 00:00:22,468
+PART.2: Un poco relacionado
+sobre esto.
+
+12
+00:00:23,268 --> 00:00:24,108
+PART.2: Y...
+
+13
+00:00:24,868 --> 00:00:28,148
+PART.2: No sé, soy de Madrid,
+no hablo catalán, ni creo que sepa
+nada.
+
+14
+00:00:28,228 --> 00:00:29,108
+PART.1: Ah, qué bien.
+
+15
+00:00:29,348 --> 00:00:32,788
+PART.2: Cuando han
+estado hablando antes en catalán, no
+me entero, no me he enterado mucho
+de...
+
+16
+00:00:32,868 --> 00:00:33,788
+PART.1: Pues yo hablo catalán.
+
+17
+00:00:33,868 --> 00:00:34,348
+PART.2: ¿Sí?
+
+18
+00:00:34,868 --> 00:00:35,948
+PART.2: Pero tú no eres de
+aquí, ¿no?
+
+19
+00:00:36,028 --> 00:00:37,748
+PART.1: No, yo soy venezolana.
+
+20
+00:00:37,868 --> 00:00:38,468
+PART.2: Ah, claro.
+
+21
+00:00:38,548 --> 00:00:39,628
+PART.2: ¿Llevas mucho tiempo aquí en...?
+
+22
+00:00:39,708 --> 00:00:41,868
+PART.1: No, tengo un año
+y nueve meses.
+
+23
+00:00:41,948 --> 00:00:43,588
+PART.2: ¿Y hablas catalán? Joe.
+
+24
+00:00:43,828 --> 00:00:44,988
+PART.1: Es que hice un curso.
+
+25
+00:00:45,068 --> 00:00:45,468
+PART.2: Ah.
+
+26
+00:00:46,108 --> 00:00:47,748
+PART.1: Y avancé bastante.
+
+27
+00:00:48,508 --> 00:00:50,068
+PART.2: No es difícil,
+yo creo que no es difícil.
+
+28
+00:00:50,148 --> 00:00:51,988
+PART.1: A mí no me pareció
+fácil.
+
+29
+00:00:52,108 --> 00:00:52,508
+PART.2: ¿No?
+
+30
+00:00:52,588 --> 00:00:52,908
+PART.1: No.
+
+31
+00:00:53,788 --> 00:00:55,908
+PART.1: Pero logré superarlo.
+
+32
+00:00:56,388 --> 00:00:58,508
+PART.2: Yo creo que es más
+fácil entenderlo, ¿no?, que
+hablarlo.
+
+33
+00:00:59,028 --> 00:01:00,068
+PART.1: Pues lo...
+
+34
+00:01:00,668 --> 00:01:03,268
+PART.1: escribo muy bien,
+lo entiendo muy bien.
+
+35
+00:01:05,028 --> 00:01:08,308
+PART.1: Pero el problema es
+que cuando voy a hablar...
+
+36
+00:01:09,268 --> 00:01:10,228
+PART.1: Sí, sí hablo.
+
+37
+00:01:11,148 --> 00:01:13,628
+PART.1: Pero siento vergüenza.
+
+38
+00:01:13,708 --> 00:01:15,988
+PART.2: Sí, me pasa con el
+inglés a mí.
+
+39
+00:01:16,068 --> 00:01:19,388
+PART.2: Lo entiendo muy bien,
+pero al hablar me da vergüenza y me
+corto mucho.
+
+40
+00:01:19,908 --> 00:01:22,988
+PART.1: Yo me corto mucho
+porque, sobre todo, porque, y...
+
+41
+00:01:23,268 --> 00:01:30,668
+PART.1: Y a veces trato de
+hablar catalán con la gente, pero a
+veces fastidia y entonces se
+explican al español, al castellano.
+
+42
+00:01:31,268 --> 00:01:32,268
+PART.1: Y entonces...
+
+43
+00:01:34,988 --> 00:01:36,228
+PART.1: Yo soy Jenny.
+
+44
+00:01:37,268 --> 00:01:38,348
+PART.1: Soy venezolana.
+
+45
+00:01:39,428 --> 00:01:42,428
+PART.1: No sé si se me nota
+el acento, o no lo conocías.
+
+46
+00:01:42,508 --> 00:01:44,308
+PART.2: No los diferencio
+mucho.
+
+47
+00:01:44,388 --> 00:01:47,148
+PART.2: Estoy un poco ahora
+como aprendiendo a diferenciarlos.
+
+48
+00:01:47,228 --> 00:01:48,868
+PART.2: Me estoy fijando más
+en como habla la gente.
+
+49
+00:01:48,948 --> 00:01:50,708
+PART.2: En plan,
+los acentos de Sudamérica.
+
+50
+00:01:50,788 --> 00:01:52,988
+PART.1: Ajá, bueno la gente los
+confunde mucho.
+
+51
+00:01:53,068 --> 00:01:53,748
+PART.2: Sí, sí.
+
+52
+00:01:53,828 --> 00:01:56,348
+PART.1: A los venezolanos
+nos confunden con colombianos.
+
+53
+00:01:57,348 --> 00:02:00,188
+PART.1: Pero yo siento
+que los siento muy diferentes.
+
+54
+00:02:00,268 --> 00:02:00,788
+PART.2: Sí, claro.
+
+55
+00:02:01,108 --> 00:02:02,868
+PART.1: Lo que pasa es
+que para ustedes pues es igual.
+
+56
+00:02:02,948 --> 00:02:03,268
+PART.2: Ya.
+
+57
+00:02:03,348 --> 00:02:05,788
+PART.2: Yo sí que diferencio a
+los mexicanos sí que es más fácil
+de...
+
+58
+00:02:05,868 --> 00:02:07,748
+PART.1: El mexicano es muy
+notorio.
+
+59
+00:02:07,828 --> 00:02:09,388
+PART.2: Y el argentino está
+claro.
+
+60
+00:02:09,868 --> 00:02:12,388
+PART.2: Pero entre el argentino
+y el uruguayo me lío.
+
+61
+00:02:12,468 --> 00:02:13,588
+PART.1: Yo no los diferencio.
+
+62
+00:02:13,668 --> 00:02:14,348
+PART.2: Muy difícil.
+
+63
+00:02:15,028 --> 00:02:16,308
+PART.1: En fin, en fin.
+
+64
+00:02:18,708 --> 00:02:20,868
+PART.1: Bueno,
+soy profesora de matemáticas.
+
+65
+00:02:20,948 --> 00:02:21,388
+PART.2: ¿Sí?
+
+66
+00:02:21,788 --> 00:02:22,268
+PART.2: Justo...
+
+67
+00:02:22,348 --> 00:02:22,948
+PART.1: Jubilada.
+
+68
+00:02:23,388 --> 00:02:24,508
+PART.1: Allá en Venezuela.
+
+69
+00:02:25,868 --> 00:02:29,348
+PART.1: Y tengo algún año
+y poco aquí.
+
+70
+00:02:30,268 --> 00:02:32,508
+PART.1: Y mi hija
+vive aquí hace cinco años.
+
+71
+00:02:34,508 --> 00:02:37,908
+PART.1: Bueno, qué más te puedo
+decir, tengo 64 años.
+
+72
+00:02:40,468 --> 00:02:42,828
+PART.1: Me encantan
+los jueguitos estos.
+
+73
+00:02:42,908 --> 00:02:43,308
+PART.2: ¿Sí?
+
+74
+00:02:43,548 --> 00:02:44,948
+PART.2: Yo no he ganado ninguno.
+
+75
+00:02:45,708 --> 00:02:47,308
+PART.2: El de adivinar la carta
+no lo he adivinado.
+
+76
+00:02:47,228 --> 00:02:47,508
+PART.1: ¿No?
+
+77
+00:02:47,588 --> 00:02:48,068
+PART.2: No.
+
+78
+00:02:48,628 --> 00:02:49,388
+PART.2: Muy difícil.
+
+79
+00:02:49,468 --> 00:02:52,548
+PART.1: Yo estoy frustrada
+porque el jueguito de la...
+
+80
+00:02:53,028 --> 00:02:54,268
+PART.1: De las cinco...
+
+81
+00:02:53,988 --> 00:02:54,988
+PART.2: Sí, las figuritas.
+
+82
+00:02:55,148 --> 00:02:58,708
+PART.1: Me encanta, me parece
+sumamente interesante y divertido.
+
+83
+00:02:59,308 --> 00:03:01,028
+PART.1: Pero yo soy, no soy
+rápida.
+
+84
+00:03:01,108 --> 00:03:01,708
+PART.2: Ya yo igual.
+
+85
+00:03:02,028 --> 00:03:02,628
+PART.1: ¿Verdad?
+
+86
+00:03:03,028 --> 00:03:09,948
+PART.2: El... jugué hace...
+me grabé hace unos días, el sábado,
+con una niña de 10 años y me metió
+una paliza.
+
+87
+00:03:10,428 --> 00:03:14,628
+PART.1: Ah, es que es muy
+diferente porque los niños pequeños
+tienen las pilas nuevas.
+
+88
+00:03:14,708 --> 00:03:18,028
+PART.2: Sacaban la carta
+y ya la cogía y yo, pero... déjame.
+
+89
+00:03:18,388 --> 00:03:18,988
+PART.1: Sí.
+
+90
+00:03:20,388 --> 00:03:22,428
+PART.1: Te entiendo,
+que te hayas sentido frustrado.
+
+91
+00:03:22,788 --> 00:03:25,348
+PART.2: Espero que de pequeño
+también era rápido, pero ahora ya...
+
+92
+00:03:25,628 --> 00:03:27,828
+PART.1: Yo también
+era muy rápida, pero ya no.
+
+93
+00:03:27,908 --> 00:03:31,708
+PART.2: Además, me gustaban
+mucho las cosas estas de matemáticas
+y juegos y todo esto.
+
+94
+00:03:31,788 --> 00:03:32,628
+PART.1: Hombre están bien.
+
+95
+00:03:32,708 --> 00:03:33,468
+PART.2: Me gustaban mucho.
+
+96
+00:03:33,548 --> 00:03:34,508
+PART.2: Y a mi madre igual.
+
+97
+00:03:34,588 --> 00:03:37,188
+PART.2: Le ponía sudokus o de los
+periódicos de estos así...
+
+98
+00:03:37,428 --> 00:03:38,668
+PART.2: Siempre los hacía con
+ella.
+
+99
+00:03:39,788 --> 00:03:42,708
+PART.1: ¿Te puedo decir algo
+que me tiene envidiosa de tu cara?
+
+100
+00:03:42,788 --> 00:03:43,148
+PART.2: Dime.
+
+101
+00:03:43,228 --> 00:03:44,148
+PART.1: Las pestañas.
+
+102
+00:03:44,228 --> 00:03:45,468
+PART.2: Ya, me lo dice mucha
+gente.
+
+103
+00:03:46,268 --> 00:03:47,228
+PART.1: Qué envidia.
+
+104
+00:03:48,108 --> 00:03:50,068
+PART.1: Es que como puedo...
+
+105
+00:03:48,668 --> 00:03:49,708
+PART.2: Me lo dicen muchas
+chicas.
+
+106
+00:03:49,788 --> 00:03:54,428
+PART.1: ¿Cómo... cómo puede una
+persona tener tantas pestañas y
+nosotros no?
+
+107
+00:03:54,628 --> 00:03:56,388
+PART.2: No sé, me lo dicen
+muchas chicas.
+
+108
+00:03:56,468 --> 00:03:57,588
+PART.1: Si fueras mujer...
+
+109
+00:03:57,908 --> 00:04:00,428
+PART.1: Y te las pintaras,
+pues serías...
+
+110
+00:04:01,148 --> 00:04:02,148
+PART.2: Las tengo muy largas
+sí.
+
+111
+00:04:02,228 --> 00:04:03,508
+PART.1: Serías muy atractiva.
+
+112
+00:04:04,988 --> 00:04:05,868
+PART.2: Muchas gracias.
+
+113
+00:04:06,668 --> 00:04:08,748
+PART.2: Siempre me lo dicen
+muchas tías, y amigas también.
+
+114
+00:04:08,308 --> 00:04:09,628
+PART.1: No es justo que tengas
+tantas.
+
+115
+00:04:09,828 --> 00:04:11,748
+PART.1: Y nosotros tenemos tan
+poquitas.
+
+116
+00:04:11,828 --> 00:04:12,628
+PART.1: Es demasiado.
+
+117
+00:04:12,708 --> 00:04:13,348
+PART.1: Es un abuso.
+
+118
+00:04:13,988 --> 00:04:15,028
+PART.1: No es justo.
+
+119
+00:04:15,348 --> 00:04:16,788
+PART.2: Tenía que haber nacido
+mujer, ¿no?
+
+120
+00:04:16,868 --> 00:04:17,708
+PART.2: Para aprovecharlas.
+
+121
+00:04:17,148 --> 00:04:18,468
+PART.1: Sí, claro.
+
+122
+00:04:19,868 --> 00:04:21,988
+PART.2: Me lo dicen mucho,
+mucho, muchas amigas.
+
+123
+00:04:22,428 --> 00:04:25,028
+PART.1: Pues yo pensaba que
+todo el mundo tenía las pestañas
+aquí así.
+
+124
+00:04:25,388 --> 00:04:27,068
+PART.2: No sé,
+yo es que no me fijo en eso.
+
+125
+00:04:27,148 --> 00:04:27,668
+PART.1: Claro.
+
+126
+00:04:27,748 --> 00:04:28,788
+PART.2: A lo mejor vosotras
+más.
+
+127
+00:04:28,868 --> 00:04:30,628
+PART.2: Pero es que
+no me fijo nunca en eso.
+
+128
+00:04:31,348 --> 00:04:33,548
+PART.1: Y es arriba y abajo
+también.
+
+129
+00:04:32,788 --> 00:04:33,308
+PART.2: Sí.
+
+130
+00:04:33,788 --> 00:04:35,348
+PART.1: Parece que tuvieras una
+peluca.
+
+131
+00:04:36,308 --> 00:04:37,268
+PART.2: Son de mentira, ¿no?
+
+132
+00:04:37,988 --> 00:04:38,548
+PART.1: Sí.
+
+133
+00:04:38,908 --> 00:04:39,548
+PART.2: No, no.
+
+134
+00:04:39,628 --> 00:04:40,308
+PART.2: Son de verdad.
+
+135
+00:04:40,388 --> 00:04:41,988
+PART.2: Pero desde pequeño.
+Siempre.
+
+136
+00:04:42,268 --> 00:04:42,908
+PART.2: Me lo han dicho.
+
+137
+00:04:42,588 --> 00:04:43,428
+PART.1: Siempre te
+lo han dicho.
+
+138
+00:04:44,268 --> 00:04:46,468
+PART.1: Claro porque... ¿y no
+te molestan?
+
+139
+00:04:49,628 --> 00:04:52,268
+PART.2: No sé,
+a lo mejor estoy acostumbrado.
+
+140
+00:04:52,348 --> 00:04:59,348
+PART.1: Que no te pase
+nunca que estés haciendo algo en la
+cocina y exploten los bosques, que
+te queman.
+
+141
+00:04:59,428 --> 00:05:00,748
+PART.2: Se me van a quemar, sí.
+
+142
+00:05:00,828 --> 00:05:02,348
+PART.1: Pero no es justo,
+¿verdad?
+
+143
+00:05:03,268 --> 00:05:05,788
+PART.1: No es justo
+que los demás tengamos tan poquitas.
+
+144
+00:05:06,548 --> 00:05:08,548
+PART.2: Lo importante son las
+pestañas.
+
+145
+00:05:08,948 --> 00:05:10,468
+PART.1: Es que definen el ojo.
+
+146
+00:05:10,548 --> 00:05:11,748
+PART.2: Ya, bueno.
+
+147
+00:05:12,068 --> 00:05:14,468
+PART.1: Yo pienso que
+embellecen los ojos.
+
+148
+00:05:14,548 --> 00:05:15,508
+PART.1: Las pestañas.
+
+149
+00:05:15,588 --> 00:05:16,868
+PART.1: Son un marco pues.
+
+150
+00:05:18,148 --> 00:05:18,948
+PART.2: Pues sí que es verdad.
+
+151
+00:05:19,588 --> 00:05:23,748
+PART.2: Nunca me fijo, pero
+siempre cuando me lo recuerdan digo:
+"Ah, pues es verdad",
+otra vez que me lo dicen.
+
+152
+00:05:25,188 --> 00:05:26,828
+PART.1: Sí, me imagino cómo te
+lo dirán.
+
+153
+00:05:28,548 --> 00:05:30,348
+PART.1: ¿Tu mamá también es así
+o tu papá?
+
+154
+00:05:31,588 --> 00:05:33,108
+PART.2: Pues no me he fijado,
+la verdad, nunca.
+
+155
+00:05:33,668 --> 00:05:34,508
+PART.1: ¿En serio?
+
+156
+00:05:34,588 --> 00:05:37,788
+PART.2: Es que ellos nunca
+me lo han dicho, entonces...
+ahora que lo dices no lo sé.
+
+157
+00:05:38,308 --> 00:05:39,188
+PART.1: ¿Y tienes hermanos?
+
+158
+00:05:39,268 --> 00:05:40,108
+PART.2: Sí, una hermana mayor.
+
+159
+00:05:40,268 --> 00:05:41,788
+PART.1: ¿Y tiene las pestañas
+como tú?
+
+160
+00:05:42,068 --> 00:05:43,268
+PART.2: Creo que no tanto.
+
+161
+00:05:43,388 --> 00:05:43,948
+PART.1: ¿Viste?
+
+162
+00:05:44,028 --> 00:05:45,188
+PART.1: Es una injusticia.
+
+163
+00:05:46,548 --> 00:05:47,548
+PART.2: Y es chica ella.
+
+164
+00:05:48,508 --> 00:05:49,268
+PART.2: Pues sí.
+
+165
+00:05:49,948 --> 00:05:54,068
+PART.2: Yo creo que, como nos
+vemos tanto, pues a lo mejor no...
+no nos hemos fijado.
+
+166
+00:05:53,628 --> 00:05:54,828
+PART.1: ¿Cómo dijiste que te
+llamabas?
+
+167
+00:05:54,908 --> 00:05:55,388
+PART.2: Rubén.
+
+168
+00:05:55,868 --> 00:05:59,068
+PART.1: Rubén, y si eres de
+Madrid, ¿por qué estás aquí en
+Barcelona?
+
+169
+00:05:59,148 --> 00:06:00,868
+PART.2: Para estudiar el máster
+aquí.
+
+170
+00:06:01,388 --> 00:06:01,908
+PART.1: Ya.
+
+171
+00:06:01,988 --> 00:06:03,428
+PART.2: Que allí en Madrid no
+había...
+
+172
+00:06:04,028 --> 00:06:07,548
+PART.2: Había, pero no me
+gustaba mucho los que había sobre
+esta temática y...
+
+173
+00:06:07,908 --> 00:06:08,388
+PART.1: Ya.
+
+174
+00:06:08,468 --> 00:06:10,308
+PART.2: también por salir de
+casa y vivir solo.
+
+175
+00:06:10,468 --> 00:06:12,188
+PART.1: Ah, bueno, ¿cuántos
+años tienes?
+
+176
+00:06:12,268 --> 00:06:12,788
+PART.2: 22.
+
+177
+00:06:12,948 --> 00:06:14,308
+PART.2: Hago 23 en unos días.
+
+178
+00:06:15,148 --> 00:06:16,148
+PART.1: Eres un crío.
+
+179
+00:06:17,068 --> 00:06:19,348
+PART.2: Sí, pero se pasan muy
+rápido los años ya...
+
+180
+00:06:20,308 --> 00:06:22,548
+PART.2: Los años de la carrera
+y el máster se me han pasado...
+
+181
+00:06:22,628 --> 00:06:26,108
+PART.1: Y los demás años que
+vienen más adelante se te van a
+pasar más rápido.
+
+182
+00:06:26,428 --> 00:06:30,708
+PART.2: Me acuerdo como si
+fuera ayer el día que entré a la
+carrera con 18 años.
+
+183
+00:06:30,988 --> 00:06:33,028
+PART.2: Y se me ha pasado
+volando.
+
+184
+00:06:33,108 --> 00:06:34,428
+PART.2: Han pasado ya cinco años.
+
+185
+00:06:34,508 --> 00:06:39,188
+PART.1: Verás cuando te cases,
+tengas hijos, los años que vienen
+después...
+
+186
+00:06:39,268 --> 00:06:39,868
+PART.2: Bua.
+
+187
+00:06:40,348 --> 00:06:41,268
+PART.1: Avanzando.
+
+188
+00:06:41,828 --> 00:06:43,468
+PART.1: Exponencialmente.
+

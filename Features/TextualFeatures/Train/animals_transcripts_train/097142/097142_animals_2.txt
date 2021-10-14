@@ -1,0 +1,74 @@
+40
+00:02:04,067 --> 00:02:06,667
+PART.2: Què més et puc preguntar?
+
+41
+00:02:06,747 --> 00:02:11,427
+PART.2: M'has dit que soc gris més o menys.
+Tinc taques?
+
+42
+00:02:11,507 --> 00:02:12,907
+PART.1: No.
+
+43
+00:02:12,987 --> 00:02:14,387
+PART.2: No.
+
+44
+00:02:17,107 --> 00:02:21,907
+PART.2: No tinc taques. Ho intentaré. Soc un hipopòtam?
+
+45
+00:02:21,987 --> 00:02:23,387
+PART.1: No.
+
+46
+00:02:27,987 --> 00:02:30,107
+PART.2: Oh. Ara no sé…
+
+47
+00:02:30,187 --> 00:02:32,627
+PART.1: T'he descol·locat.
+
+48
+00:02:32,707 --> 00:02:33,867
+PART.2: Sí.
+
+49
+00:02:37,507 --> 00:02:41,507
+PART.2: No soc un hipopòtam. Tinc banyes o…? Com es diu això?
+
+50
+00:02:41,587 --> 00:02:42,907
+PART.1: Trompa.
+
+51
+00:02:42,987 --> 00:02:46,387
+PART.2: No. Les banyes, però que són així.
+
+52
+00:02:46,467 --> 00:02:48,227
+PART.1: Banyes. Així.
+
+53
+00:02:48,307 --> 00:02:50,507
+PART.2: Sí, una banya així.
+
+54
+00:02:50,587 --> 00:02:51,587
+PART.1: Sí.
+
+55
+00:02:51,667 --> 00:02:52,667
+PART.2: Sí.
+
+56
+00:02:53,267 --> 00:02:56,067
+PART.2: Ah, com es diu aquest animal? Ah, no me'n recordo!
+
+57
+00:02:56,147 --> 00:03:00,307
+PART.1: Al meu marit li ha passat igual!
+"Bueno", com que sé que ho saps…
+

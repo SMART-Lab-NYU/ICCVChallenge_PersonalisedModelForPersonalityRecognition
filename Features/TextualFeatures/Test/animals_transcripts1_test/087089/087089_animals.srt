@@ -1,0 +1,742 @@
+1
+00:00:01,990 --> 00:00:03,950
+PART.1: ¿Qué hacemos, todos seguidos o uno
+cada uno?
+
+2
+00:00:04,710 --> 00:00:05,710
+PART.2: Como prefieras.
+
+3
+00:00:05,790 --> 00:00:09,230
+PART.1: Yo la última vez lo he hecho todo
+seguido y la primera, es mejor
+seguido, yo creo.
+
+4
+00:00:06,630 --> 00:00:07,270
+PART.2: Yo también.
+
+5
+00:00:09,310 --> 00:00:10,310
+PART.1: Pues venga, ¿quién empieza?
+
+6
+00:00:10,390 --> 00:00:11,430
+PART.2: Tú mismo, venga.
+
+7
+00:00:11,310 --> 00:00:12,030
+PART.1: ¿Yo pregunto?
+
+8
+00:00:12,110 --> 00:00:12,630
+PART.2: Sí.
+
+9
+00:00:12,710 --> 00:00:14,390
+PART.1: Vale, no tengo que mirar ese.
+
+10
+00:00:14,470 --> 00:00:15,470
+PART.1: Yo pregunto.
+
+11
+00:00:15,550 --> 00:00:16,590
+PART.1: ¿Es un mamífero?
+
+12
+00:00:17,230 --> 00:00:18,230
+PART.2: Sí.
+
+13
+00:00:18,550 --> 00:00:19,550
+PART.1: Vale.
+
+14
+00:00:23,510 --> 00:00:25,150
+PART.1: ¿Camina a cuatro patas?
+
+15
+00:00:29,510 --> 00:00:32,110
+PART.2: Te voy a decir que no, porque si
+no te confundiré.
+
+16
+00:00:32,190 --> 00:00:33,190
+PART.1: Vale, no.
+
+17
+00:00:33,630 --> 00:00:34,990
+PART.1: No camina a cuatro patas.
+
+18
+00:00:42,750 --> 00:00:43,950
+PART.1: ¿Tiene pelo?
+
+19
+00:00:46,310 --> 00:00:47,910
+PART.1: Aunque sea corto, pero ¿tiene
+pelo?
+
+20
+00:00:48,710 --> 00:00:50,790
+PART.2: Sí, sí tiene pelito.
+
+21
+00:00:59,150 --> 00:01:01,750
+PART.1: ¿Es más grande que una persona
+adulta?
+
+22
+00:01:05,950 --> 00:01:08,590
+PART.2: Mmm...
+
+23
+00:01:08,670 --> 00:01:10,230
+PART.1: Eso también es una respuesta,
+casi.
+
+24
+00:01:10,310 --> 00:01:11,590
+PART.2: Yo diría que no.
+
+25
+00:01:11,670 --> 00:01:13,070
+PART.2: Yo diría que no.
+
+26
+00:01:14,310 --> 00:01:15,310
+PART.1: Vale.
+
+27
+00:01:15,710 --> 00:01:17,710
+PART.1: No va a cuatro patas, no es más
+grande que una persona.
+
+28
+00:01:17,790 --> 00:01:18,950
+PART.2: O del mismo tamaño.
+
+29
+00:01:19,030 --> 00:01:20,030
+PART.1: Bueno.
+
+30
+00:01:20,510 --> 00:01:21,910
+PART.1: Tiene pelito.
+
+31
+00:01:29,310 --> 00:01:31,550
+PART.1: ¿Es típico de África?
+
+32
+00:01:32,110 --> 00:01:33,910
+PART.1: ¿Es un animal que se da en África?
+
+33
+00:01:33,990 --> 00:01:34,990
+PART.2: No.
+
+34
+00:01:41,950 --> 00:01:43,670
+PART.1: ¿Es de la zona de Australia?
+
+35
+00:01:46,870 --> 00:01:49,230
+PART.2: A lo mejor hay, pero no...
+
+36
+00:01:49,310 --> 00:01:50,310
+PART.1: Ya, no es...
+
+37
+00:01:49,830 --> 00:01:50,950
+PART.2: No debería haber.
+
+38
+00:02:20,910 --> 00:02:23,070
+PART.1: Puedo decir directamente,
+entiendo, cuál es.
+
+39
+00:02:23,150 --> 00:02:23,510
+PART.2: Sí.
+
+40
+00:02:23,590 --> 00:02:24,230
+PART.1: ¿Es un mono?
+
+41
+00:02:24,310 --> 00:02:24,710
+PART.2: No.
+
+42
+00:02:24,790 --> 00:02:25,230
+PART.1: Vale.
+
+43
+00:02:35,830 --> 00:02:36,870
+PART.1: ¿Es rápido?
+
+44
+00:02:38,110 --> 00:02:40,990
+PART.1: Cómo va a ser rápido si va a dos
+patas,
+que gilipollez acabo de decir.
+
+45
+00:02:41,070 --> 00:02:46,230
+PART.2: Ah, no, no he dicho que, tú me has
+preguntado si va a cuatro patas.
+
+46
+00:02:46,310 --> 00:02:49,470
+PART.2: Yo te he dicho que no va a cuatro
+patas, pero no quiere decir que vaya
+a dos patas, eh.
+
+47
+00:02:50,790 --> 00:02:51,990
+PART.1: Pero es un mamífero, ¿no?
+
+48
+00:02:52,070 --> 00:02:53,070
+PART.2: Sí.
+
+49
+00:02:53,150 --> 00:02:54,150
+PART.1: Vale, eh...
+
+50
+00:03:00,510 --> 00:03:01,910
+PART.1: Eh...
+
+51
+00:03:01,990 --> 00:03:03,550
+PART.1: ¿Tiene más de cuatro patas?
+
+52
+00:03:09,350 --> 00:03:11,150
+PART.2: Pon la pregunta de otra manera.
+
+53
+00:03:15,790 --> 00:03:18,110
+PART.2: Es que yo no diría que son patas
+lo que tiene.
+
+54
+00:03:21,590 --> 00:03:23,070
+PART.1: ¿Tiene más de cuatro extremidades?
+
+55
+00:03:36,190 --> 00:03:38,110
+PART.1: Es mamífero, no puede ser tan
+raro, ¿no?
+
+56
+00:03:41,950 --> 00:03:43,430
+PART.2: Es que...
+
+57
+00:03:44,710 --> 00:03:46,950
+PART.2: Es que no sé qué contestarte a
+eso.
+
+58
+00:03:47,030 --> 00:03:50,670
+PART.2: O sea, raro no es,
+porque es un animal que conoces.
+
+59
+00:03:50,750 --> 00:03:51,750
+PART.1: Ya, pero no.
+
+60
+00:03:54,470 --> 00:03:56,830
+PART.1: Vamos rápido, que si no se van a
+tirar media hora etiquetando, tío.
+
+61
+00:03:59,070 --> 00:04:00,070
+PART.1: Yo qué sé.
+
+62
+00:04:03,350 --> 00:04:04,350
+PART.1: Vale.
+
+63
+00:04:05,190 --> 00:04:10,510
+PART.1: ¿Cuando se desplaza lo hace sobre
+dos patas o extremidades?
+
+64
+00:04:10,590 --> 00:04:11,870
+PART.1: No sé cómo llamarlo.
+
+65
+00:04:13,390 --> 00:04:14,390
+PART.1: ¿Es bípedo?
+
+66
+00:04:14,470 --> 00:04:17,430
+PART.2: No, tampoco.
+
+67
+00:04:19,390 --> 00:04:24,510
+PART.2: Es que no estás haciendo preguntas
+que te puedan llevar al animal,
+no te están acercando al animal las
+preguntas.
+
+68
+00:04:24,590 --> 00:04:27,150
+PART.1: Pero no camina sobre dos patas,
+entonces.
+
+69
+00:04:27,230 --> 00:04:27,870
+PART.2: No.
+
+70
+00:04:28,030 --> 00:04:28,470
+PART.1: Vale.
+
+71
+00:04:28,550 --> 00:04:29,550
+PART.2: Yo diría que no.
+
+72
+00:04:29,630 --> 00:04:30,630
+PART.2: Es que...
+
+73
+00:04:31,110 --> 00:04:32,310
+PART.2: No, no.
+
+74
+00:04:31,830 --> 00:04:33,230
+PART.1: Tu respuesta tampoco me acerca al
+animal.
+
+75
+00:04:32,750 --> 00:04:33,910
+PART.2: Mi respuesta es no.
+
+76
+00:04:33,710 --> 00:04:34,230
+PART.1: Vale.
+
+77
+00:04:34,310 --> 00:04:38,950
+PART.2: No son dos patas,
+porque si te digo dos patas tú te
+imaginas una persona,
+algo que camina como una persona.
+
+78
+00:04:42,390 --> 00:04:43,390
+PART.1: Eh...
+
+79
+00:04:44,310 --> 00:04:45,710
+PART.1: ¿Vive en el agua, más o menos?
+
+80
+00:04:45,790 --> 00:04:46,790
+PART.2: Sí.
+
+81
+00:04:47,790 --> 00:04:48,790
+PART.2: Fua.
+
+82
+00:04:49,390 --> 00:04:50,990
+PART.2: Esa es la pregunta clave.
+
+83
+00:04:51,070 --> 00:04:52,750
+PART.1: Tengo que responder ya, ¿no?
+
+84
+00:04:52,830 --> 00:04:54,390
+PART.2: Tienes dos para responder.
+
+85
+00:04:53,630 --> 00:04:55,710
+PART.1: O sea, me queda una pregunta,
+puedo hacer una pregunta y ...
+
+86
+00:04:55,790 --> 00:04:58,190
+PART.2: Puedes responder directamente dos
+veces.
+
+87
+00:04:58,270 --> 00:05:01,430
+PART.1: Mamífero, uf.
+
+88
+00:05:01,830 --> 00:05:04,150
+PART.1: Y has dicho que estás dudando de
+tamaño.
+
+89
+00:05:04,230 --> 00:05:04,870
+PART.1: ¿Es una foca?
+
+90
+00:05:04,950 --> 00:05:05,350
+PART.2: Sí.
+
+91
+00:05:05,430 --> 00:05:06,910
+PART.1: Vale, es que digo, ballena no es,
+entonces.
+
+92
+00:05:06,990 --> 00:05:08,430
+PART.1: Ballena también es un mamífero.
+
+93
+00:05:08,510 --> 00:05:09,190
+PART.2: Sí, sí.
+
+94
+00:05:11,870 --> 00:05:12,870
+PART.1: Vale.
+
+95
+00:05:13,870 --> 00:05:15,230
+PART.2: ¿Es un mamífero?
+
+96
+00:05:15,310 --> 00:05:16,310
+PART.1: Eh...
+
+97
+00:05:18,590 --> 00:05:19,590
+PART.1: Sí.
+
+98
+00:05:21,750 --> 00:05:22,870
+PART.2: ¿Es acuático?
+
+99
+00:05:23,430 --> 00:05:23,990
+PART.2: No.
+
+100
+00:05:32,070 --> 00:05:32,830
+PART.2: Mamífero.
+
+101
+00:05:35,550 --> 00:05:36,790
+PART.2: No acuático.
+
+102
+00:05:44,830 --> 00:05:46,430
+PART.2: ¿Lo verías si vas a un safari?
+
+103
+00:05:50,870 --> 00:05:51,870
+PART.2: No.
+
+104
+00:05:52,390 --> 00:05:53,710
+PART.1: ¿Es un animal doméstico?
+
+105
+00:05:56,030 --> 00:05:57,030
+PART.1: Sí.
+
+106
+00:05:57,110 --> 00:05:58,550
+PART.2: ¿Sí es un animal doméstico?
+
+107
+00:05:59,030 --> 00:06:00,030
+PART.1: Sí.
+
+108
+00:06:00,590 --> 00:06:01,590
+PART.1: Sí.
+
+109
+00:06:02,390 --> 00:06:03,390
+PART.2: Vale.
+
+110
+00:06:04,510 --> 00:06:05,510
+PART.1: Los hay.
+
+111
+00:06:06,230 --> 00:06:08,870
+PART.1: Existir, existen
+como animales domésticos.
+
+112
+00:06:08,950 --> 00:06:10,710
+PART.2: ¿Pero mamífero, animal doméstico?
+
+113
+00:06:10,790 --> 00:06:14,390
+PART.1: Mamífero, animal doméstico
+que no lo ves en un safari.
+
+114
+00:06:13,670 --> 00:06:15,150
+PART.2: Que no lo verás en un safari.
+
+115
+00:06:16,550 --> 00:06:18,190
+PART.2: Y que es terrestre.
+
+116
+00:06:17,350 --> 00:06:18,350
+PART.1: No es acuático.
+
+117
+00:06:18,270 --> 00:06:18,910
+PART.2: Vale.
+
+118
+00:06:18,990 --> 00:06:19,910
+PART.1: Bueno, no es acuático.
+
+119
+00:06:20,230 --> 00:06:21,950
+PART.2: Ah, vale.
+
+120
+00:06:22,910 --> 00:06:25,670
+PART.1: No, no, la pregunta es si es
+acuático y te he dicho que no.
+
+121
+00:06:27,110 --> 00:06:28,670
+PART.2: Ah, vale, entonces es...
+
+122
+00:06:29,470 --> 00:06:30,510
+PART.2: ¿Es un ave?
+
+123
+00:06:30,590 --> 00:06:30,830
+PART.1: No.
+
+124
+00:06:30,910 --> 00:06:31,510
+PART.2: No.
+
+125
+00:06:31,910 --> 00:06:34,110
+PART.2: Bueno, claro, si es mamífero,
+¿cómo coño va a ser un ave?
+
+126
+00:06:43,710 --> 00:06:45,230
+PART.2: Y...
+
+127
+00:06:46,670 --> 00:06:47,790
+PART.2: ¿Es carnívoro?
+
+128
+00:06:48,870 --> 00:06:50,430
+PART.2: Puf.
+
+129
+00:06:54,070 --> 00:06:55,150
+PART.2: Diría que no.
+
+130
+00:06:56,110 --> 00:06:56,750
+PART.2: No es carnívoro.
+
+131
+00:06:56,830 --> 00:06:57,830
+PART.2: ¿Es un conejo?
+
+132
+00:07:03,670 --> 00:07:04,470
+PART.1: ¿Cuántas llevas?
+
+133
+00:07:04,550 --> 00:07:05,270
+PART.2: Siete.
+
+134
+00:07:09,390 --> 00:07:11,230
+PART.2: No carnívoro.
+
+135
+00:07:28,430 --> 00:07:29,750
+PART.2: ¿Vive en el bosque?
+
+136
+00:07:31,670 --> 00:07:32,870
+PART.2: Vive en el bosque.
+
+137
+00:07:46,550 --> 00:07:47,550
+PART.2: Hostia.
+
+138
+00:07:58,150 --> 00:08:00,310
+PART.2: Puede ser un animal doméstico.
+
+139
+00:08:01,150 --> 00:08:02,150
+PART.1: Ajá.
+
+140
+00:08:06,550 --> 00:08:09,990
+PART.2: Es que a lo mejor me estoy
+imaginando una cosa muy rara.
+
+141
+00:08:12,150 --> 00:08:13,150
+PART.2: ¿Tiene pelo?
+
+142
+00:08:13,510 --> 00:08:14,630
+PART.2: Tiene pelo.
+
+143
+00:08:16,230 --> 00:08:17,750
+PART.2: Pero pelo, eh, digo.
+
+144
+00:08:17,830 --> 00:08:19,990
+PART.1: Pelo, pelo, tiene pelo,
+tiene pelo.
+
+145
+00:08:21,430 --> 00:08:23,310
+PART.1: No es como esto, que ahora que lo
+pienso...
+
+146
+00:08:23,390 --> 00:08:24,550
+PART.2: Sí que tiene pelo.
+
+147
+00:08:24,630 --> 00:08:26,470
+PART.1: Pues eso tiene más pelo, ya te lo
+digo yo.
+
+148
+00:08:26,550 --> 00:08:27,590
+PART.2: Más pelo, vale.
+
+149
+00:08:30,670 --> 00:08:31,990
+PART.2: ¿Esto tiene pelo, tío?
+
+150
+00:08:32,430 --> 00:08:33,990
+PART.2: ¿Es un ratón?
+
+151
+00:08:34,070 --> 00:08:35,070
+PART.1: Aterciopelado.
+
+152
+00:08:35,150 --> 00:08:36,230
+PART.1: Un ratón, no.
+
+153
+00:08:37,190 --> 00:08:38,190
+PART.2: Diez.
+
+154
+00:08:38,270 --> 00:08:39,510
+PART.2: Me queda una última.
+
+155
+00:08:39,590 --> 00:08:41,670
+PART.1: Esta tiene que ser ya de adivinar,
+ya no puedes preguntar.
+
+156
+00:08:41,750 --> 00:08:43,030
+PART.2: Ya, un hámster.
+
+157
+00:08:43,110 --> 00:08:43,750
+PART.1: No.
+
+158
+00:08:43,830 --> 00:08:44,830
+PART.1: A ver.
+
+159
+00:08:44,910 --> 00:08:46,230
+PART.1: No te has alejado mucho, eh.
+
+160
+00:08:46,310 --> 00:08:48,030
+PART.2: "Squirel", una ardilla, oh.
+
+161
+00:08:48,110 --> 00:08:50,110
+PART.1: Hay gente que tiene ardillas de
+mascota.
+
+162
+00:08:50,190 --> 00:08:51,630
+PART.2: ¿Sí?
+
+163
+00:08:51,230 --> 00:08:52,230
+PART.2: Sí.
+
+164
+00:08:52,310 --> 00:08:53,310
+PART.1: Por eso te he dicho que poder
+puede.
+
+165
+00:08:53,390 --> 00:08:55,310
+PART.2: ¿Hay gente que de mascota?
+
+166
+00:08:55,390 --> 00:08:57,070
+PART.1: Sí, hay gente que tiene hurones,
+también.
+
+167
+00:08:57,150 --> 00:08:59,470
+PART.2: Un hurón, podría ser.
+
+168
+00:08:58,550 --> 00:08:59,470
+PART.1: Así.
+
+169
+00:09:01,070 --> 00:09:02,070
+PART.2: Pero ardilla...
+
+170
+00:09:01,830 --> 00:09:03,830
+PART.1: En el bosque y en las ciudades
+también viven.
+
+171
+00:09:03,910 --> 00:09:04,910
+PART.2: Sí.
+
+172
+00:09:05,270 --> 00:09:06,270
+PART.2: Sí, sí.
+
+173
+00:09:06,350 --> 00:09:08,390
+PART.1: Principalmente en el bosque, su
+hábitat natural el bosque.
+
+174
+00:09:08,990 --> 00:09:11,190
+PART.2: Qué mal, qué mal, qué mal.
+

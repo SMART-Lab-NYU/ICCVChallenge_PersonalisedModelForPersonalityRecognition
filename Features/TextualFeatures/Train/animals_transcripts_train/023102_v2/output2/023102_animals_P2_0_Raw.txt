@@ -1,0 +1,9 @@
+¿Empiezo? 
+¿Es un mamífero? 
+Vale. 
+No. 
+¿Es más pequeño que un perro?
+Sí. 
+¿Es un animal de granja? 
+No. 
+¿Es de climas cálidos? 

@@ -1,0 +1,117 @@
+90
+00:03:02,931 --> 00:03:04,667
+PART.2: Ahhhh! ¡Qué fuerte!
+
+91
+00:03:04,755 --> 00:03:05,919
+PART.1: Però, a veure, Alícia...
+
+92
+00:03:05,795 --> 00:03:06,831
+PART.2: No, està molt bé.
+
+93
+00:03:06,846 --> 00:03:07,851
+PART.1: Segur? Però no ho has fet...?
+
+94
+00:03:07,229 --> 00:03:08,230
+PART.2: No, no, no!
+
+95
+00:03:08,235 --> 00:03:09,238
+PART.1: Ah, vale. No em deixis guanyar, eh?
+
+96
+00:03:08,778 --> 00:03:09,778
+PART.2: Que no, que no!
+
+97
+00:03:10,927 --> 00:03:11,986
+PART.1: Bueno, pues ja està.
+
+98
+00:03:12,030 --> 00:03:15,387
+PART.2: Espera't. Dona-m'hi. Qué fuerte. És veritat: aquesta.
+
+99
+00:03:16,047 --> 00:03:17,087
+PART.1: Va.
+
+100
+00:03:17,132 --> 00:03:17,999
+PART.2: Muy bien, ¿eh? Toma.
+
+101
+00:03:19,646 --> 00:03:21,355
+PART.2: Ja estem! Ara no sé si ho...
+
+102
+00:03:21,387 --> 00:03:23,307
+PART.1: No ho sé, no ho sé.
+
+103
+00:03:25,542 --> 00:03:27,022
+PART.2: I aquest joc és famós, o què?
+
+104
+00:03:27,059 --> 00:03:29,346
+PART.1: Jo que sé, però no tinc ganes de pensar.
+
+105
+00:03:30,443 --> 00:03:31,658
+PART.1: Estic de divendres.
+
+106
+00:03:32,067 --> 00:03:35,714
+PART.1: Ara que avui és... podem pensar si anem a fer un gelat després...
+
+107
+00:03:36,300 --> 00:03:38,828
+PART.2: Bueno, espera't, que primer hem d'anar a veure el súper...
+
+108
+00:03:39,608 --> 00:03:40,634
+PART.1: A l'Eloi?
+
+109
+00:03:40,763 --> 00:03:41,811
+PART.2: És xulo, eh?
+
+110
+00:03:42,002 --> 00:03:44,860
+PART.1: El què? El despatx de l'Eloi? Hauràs de buscar...
+
+111
+00:03:44,494 --> 00:03:46,330
+PART.2: I diràs: per què és xulo?
+
+112
+00:03:46,472 --> 00:03:47,555
+PART.2: Jo t'ho dic, mira, no t'ho dic.
+
+113
+00:03:47,223 --> 00:03:50,235
+PART.1: I per què no te'n vas a un altre país a intentar buscar-te la vida.
+
+114
+00:03:50,378 --> 00:03:53,571
+PART.1: Si ja has trobat treball a l'Arash, per què no te'n vas tu?
+
+115
+00:03:53,763 --> 00:03:54,816
+PART.2: I com li va a l'Arash?
+
+116
+00:03:54,831 --> 00:03:56,859
+PART.1: Ni idea. No vaig parlar amb ell. És que com...
+
+117
+00:03:56,996 --> 00:03:58,570
+PART.1: No és que acabés malament, però, al final...
+
+118
+00:03:58,766 --> 00:04:06,263
+PART.1: No sé,  l'startup no es va... no es va quedar bé... 
+no és que quedés malament, però no va tindre un bon feeling.
+

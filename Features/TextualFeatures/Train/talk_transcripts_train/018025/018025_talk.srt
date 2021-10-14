@@ -1,0 +1,622 @@
+1
+00:00:00,000 --> 00:00:00,662
+PART.2: Ok.
+
+2
+00:00:00,742 --> 00:00:02,062
+PART.2: Mi nombre es Valeria.
+
+3
+00:00:02,142 --> 00:00:03,262
+PART.1: Valeria, vale.
+
+4
+00:00:03,342 --> 00:00:03,742
+PART.2: ¿Y el tuyo?
+
+5
+00:00:03,822 --> 00:00:04,462
+PART.1: Mari.
+
+6
+00:00:04,542 --> 00:00:05,222
+PART.2: Mucho gusto.
+
+7
+00:00:05,302 --> 00:00:06,582
+PART.2: Encantada, ¿de dónde eres?
+
+8
+00:00:06,662 --> 00:00:07,542
+PART.2: Nicaragua.
+
+9
+00:00:07,622 --> 00:00:07,942
+PART.2: Ajá.
+
+10
+00:00:08,022 --> 00:00:09,422
+PART.2: Sí, vos sois española, ¿no?
+
+11
+00:00:09,502 --> 00:00:10,742
+PART.1: No, yo soy de Venezuela.
+
+12
+00:00:10,822 --> 00:00:12,342
+PART.2: ¿Sí? ¡Ah!
+
+13
+00:00:12,422 --> 00:00:14,782
+PART.2: Qué bien,
+yo juraba que eras española.
+
+14
+00:00:14,862 --> 00:00:15,862
+PART.1: No, no.
+
+15
+00:00:15,942 --> 00:00:17,222
+PART.1: ¿Y cuánto tiempo tienes aquí?
+
+16
+00:00:19,022 --> 00:00:21,302
+PART.2: A ver, como 10 meses.
+
+17
+00:00:21,382 --> 00:00:22,182
+PART.1: Ah, ok, ok.
+
+18
+00:00:21,742 --> 00:00:23,342
+PART.2: Nueve o algo así.
+
+19
+00:00:23,422 --> 00:00:25,062
+PART.1: Pero viniste acá de estudiante.
+
+20
+00:00:25,142 --> 00:00:28,022
+PART.2: Sí, a hacer mi máster
+y pues...
+
+21
+00:00:28,102 --> 00:00:29,062
+PART.1: ¿De qué área?
+
+22
+00:00:29,142 --> 00:00:29,702
+PART.2: Finanzas.
+
+23
+00:00:29,782 --> 00:00:31,182
+PART.1: Ay, qué bueno.
+
+24
+00:00:31,262 --> 00:00:37,662
+PART.2: Ya y justo ayer entregué mi tesis,
+así que ya se acaba.
+
+25
+00:00:37,742 --> 00:00:38,942
+PART.1: ¿Y qué edad tienes?
+
+26
+00:00:39,222 --> 00:00:40,102
+PART.2: 25.
+
+27
+00:00:40,182 --> 00:00:42,582
+PART.1: Ay, eres una niña,
+qué bueno, qué bueno.
+
+28
+00:00:42,662 --> 00:00:43,182
+PART.2: ¿Y vos?
+
+29
+00:00:43,182 --> 00:00:44,382
+PART.1: Yo tengo 42.
+
+30
+00:00:44,622 --> 00:00:46,262
+PART.2: Pero no lo parece.
+
+31
+00:00:46,342 --> 00:00:46,822
+PART.1: ¿No?
+
+32
+00:00:46,502 --> 00:00:47,302
+PART.2: Para nada.
+
+33
+00:00:47,662 --> 00:00:48,702
+PART.1: Gracias.
+
+34
+00:00:48,782 --> 00:00:52,622
+PART.1: Pero que bueno, y eso que te
+viniste de Nicaragua para acá, ¿no?
+
+35
+00:00:53,142 --> 00:00:54,142
+PART.1: O sea...
+
+36
+00:00:54,222 --> 00:01:03,422
+PART.2: Yo sabía que para mi máster tenía
+que salir de América,
+eso era lo principal,
+
+37
+00:01:03,502 --> 00:01:13,462
+PART.2: y luego estuve viendo lugares y así
+y me recomendaron una página de
+rankings de la universidad,
+
+38
+00:01:13,542 --> 00:01:20,782
+PART.2: y vi en el área de finanzas y me
+salió que la Pau Fabra, que es donde
+
+39
+00:01:20,862 --> 00:01:27,182
+PART.2: Superbien y después veo en España
+en finanzas se supone que es la
+mejor.
+
+40
+00:01:27,262 --> 00:01:28,262
+PART.1: Ay, qué bueno.
+
+41
+00:01:28,342 --> 00:01:31,982
+PART.1: Oye pero, le echaste
+ganas, te viniste sola para acá, qué bueno.
+
+42
+00:01:31,222 --> 00:01:36,102
+PART.2: Sí, porque en España
+conozco gente, pero vive en Madrid.
+
+43
+00:01:36,662 --> 00:01:42,102
+PART.2: Tengo amistades, no sé, gente que
+sé que vive ahí
+
+44
+00:01:42,182 --> 00:01:48,422
+PART.2: y en Barcelona no tenía a nadie,
+entonces me decidí con los rankings.
+
+45
+00:01:46,102 --> 00:01:47,142
+PART.1: Qué bueno.
+
+46
+00:01:48,542 --> 00:01:53,422
+PART.2: Digo: "Me voy a
+arriesgar, voy a conocer gente y ya.
+
+47
+00:01:53,502 --> 00:01:55,062
+PART.1: Ay, pero qué bueno
+que hiciste eso.
+
+48
+00:01:55,142 --> 00:01:55,542
+PART.2: Sí.
+
+49
+00:01:55,382 --> 00:01:59,142
+PART.1: ¿Pero te quieres devolver a
+Nicaragua o sientes que te quieres
+quedar como por aquí?
+
+50
+00:02:00,582 --> 00:02:05,182
+PART.2: O sea, quiero volver porque me
+hace falta todo, obviamente, pero me
+quisiera quedar un tiempo más.
+
+51
+00:02:05,262 --> 00:02:07,102
+PART.2: No para siempre, pero...
+
+52
+00:02:07,182 --> 00:02:10,382
+PART.2: Quisiera más, pero por lo de la
+visa y todo eso como que no se
+puede.
+
+53
+00:02:10,462 --> 00:02:11,462
+PART.1: Bueno, pero...
+
+54
+00:02:10,902 --> 00:02:11,462
+PART.2: ¿Y vos?
+
+55
+00:02:11,542 --> 00:02:16,982
+PART.1: Bueno, yo soy licenciada en
+Relaciones Internacionales
+
+56
+00:02:17,062 --> 00:02:23,742
+PART.1: y, bueno, tengo dos años aquí en
+Barcelona, por la misma situación
+de Venezuela.
+
+57
+00:02:23,822 --> 00:02:24,262
+PART.2: Sí.
+
+58
+00:02:24,342 --> 00:02:25,902
+PART.2: No que estamos igual, ahora casi.
+
+59
+00:02:25,982 --> 00:02:27,662
+PART.1: Bueno, sí.
+
+60
+00:02:27,742 --> 00:02:32,662
+PART.1: La verdad que con el presidente
+tuyo, yo creo que mejor piensas en
+quedarte aquí.
+
+61
+00:02:29,702 --> 00:02:30,502
+PART.2: Sí.
+
+62
+00:02:33,462 --> 00:02:34,742
+PART.2: Sí, lo tenía en mente.
+
+63
+00:02:34,702 --> 00:02:37,942
+PART.1: Este, sí, yo te
+recomendaría que te quedaras, ¿sabes?
+
+64
+00:02:38,022 --> 00:02:42,342
+PART.1: Y si ya vas a hacer tu máster
+aquí, que tienes ya algo de España,
+
+65
+00:02:42,422 --> 00:02:45,142
+PART.1: yo creo que sería una buena idea que
+te quedaras.
+
+66
+00:02:45,222 --> 00:02:46,982
+PART.1: Tal vez puedas hacer algo
+con la visa, ¿sabes?
+
+67
+00:02:47,062 --> 00:02:52,142
+PART.2: Tendría como que "arar"
+otros estudios como para que la
+puedan extender.
+
+68
+00:02:52,542 --> 00:02:57,222
+PART.1: Pero hazlo, porque no sabes qué
+puede pasar allá, y aquí pudieras
+tener como,
+
+69
+00:02:57,302 --> 00:03:01,182
+PART.1: y mientras haces el otro estudio,
+trata de conseguir un empleo de tu
+área
+
+70
+00:03:01,262 --> 00:03:03,342
+PART.1: y después cambias la visa,
+sí se puede.
+
+71
+00:03:02,702 --> 00:03:04,622
+PART.2: Lo he pensado así.
+
+72
+00:03:05,462 --> 00:03:09,102
+PART.2: Justo ayer lo estaba pensando un
+montón porque conocí a alguien que
+lo está haciendo.
+
+73
+00:03:09,182 --> 00:03:09,782
+PART.1: Hazlo.
+
+74
+00:03:09,462 --> 00:03:15,702
+PART.2: Estudios que valen así como 1000
+euros, o algo así,
+solo que como para la visa.
+
+75
+00:03:11,782 --> 00:03:12,942
+PART.1: Hazlo, hazlo.
+
+76
+00:03:14,662 --> 00:03:16,542
+PART.1: No vaya a ser
+que te vayas para allá.
+
+77
+00:03:16,582 --> 00:03:19,382
+PART.2: Porque ni siquiera,
+no va a ir a la clase, solo para la visa.
+
+78
+00:03:19,462 --> 00:03:20,782
+PART.1: Pero tú ve a la clase.
+
+79
+00:03:20,862 --> 00:03:21,342
+PART.2: No, sí.
+
+80
+00:03:21,422 --> 00:03:23,102
+PART.1: Ve al a clase
+porque la idea es poder...
+
+81
+00:03:23,182 --> 00:03:25,182
+PART.2: No voy a desperdiciar el dinero,
+¿sabes?
+
+82
+00:03:24,502 --> 00:03:25,182
+PART.1: Claro.
+
+83
+00:03:25,262 --> 00:03:27,702
+PART.1: Y es conocimiento,
+eso no se pierde.
+
+84
+00:03:26,862 --> 00:03:28,182
+PART.2: ¿Vos cómo hiciste?
+
+85
+00:03:28,262 --> 00:03:34,582
+PART.1: Lo que pasa es que mi esposo
+trabajaba en una transnacional en
+Venezuela, que está aquí.
+
+86
+00:03:34,662 --> 00:03:38,142
+PART.1: Entonces lo mandaron para acá
+por tres meses,
+
+87
+00:03:38,222 --> 00:03:44,222
+PART.1: y cuando estaba acá él empezó como
+a hablar con los jefes y lo dejaron
+aquí.
+
+88
+00:03:44,302 --> 00:03:44,782
+PART.1: Ah.
+
+89
+00:03:44,862 --> 00:03:48,182
+PART.1: Entonces nosotros tenemos
+residencia por el trabajo de mi
+esposo.
+
+90
+00:03:48,542 --> 00:03:49,542
+PART.2: Superbién.
+
+91
+00:03:49,062 --> 00:03:50,662
+PART.1: Sí, gracias a Dios.
+
+92
+00:03:50,742 --> 00:03:52,102
+PART.2: Qué suerte.
+
+93
+00:03:52,182 --> 00:03:55,062
+PART.1: Yo estoy muy agradecida, porque
+había mucha gente en el...
+
+94
+00:03:54,222 --> 00:03:56,822
+PART.2: Es difícil quedarse acá,
+es difícil.
+
+95
+00:03:56,902 --> 00:04:01,022
+PART.1: No es tan difícil, aquí hay una
+cosa que se llama arraigo que
+también lo puedes hacer.
+
+96
+00:04:01,102 --> 00:04:01,662
+PART.2: ¿Cómo?
+
+97
+00:04:01,742 --> 00:04:03,022
+PART.1: Que se llama arraigo.
+
+98
+00:04:03,102 --> 00:04:03,662
+PART.2: ¿Raigo?
+
+99
+00:04:03,742 --> 00:04:11,422
+PART.1: Sí, estás tres años aquí,
+y validas que te puedes mantener,
+y puedes optar por la residencia.
+
+100
+00:04:09,942 --> 00:04:14,982
+PART.2: Sí, pero la cosa es que tienes
+como que invertir meses.
+
+101
+00:04:15,062 --> 00:04:15,902
+PART.1: No.
+
+102
+00:04:16,822 --> 00:04:19,502
+PART.2: Para demostrar y que te...
+
+103
+00:04:18,542 --> 00:04:20,582
+PART.1: Tienes que buscarte un trabajo.
+
+104
+00:04:20,662 --> 00:04:26,662
+PART.2: Exacto, pero sin visa de trabajo
+no puedes tener trabajo acá, solo
+prácticas.
+
+105
+00:04:27,142 --> 00:04:32,382
+PART.2: Por ejemplo, yo estoy haciendo
+prácticas, y no podrían contratarme,
+
+106
+00:04:32,462 --> 00:04:38,382
+PART.2: porque para que ellos pudieran
+contratarme tienen que poner la
+oferta al público general,
+
+107
+00:04:38,462 --> 00:04:41,902
+PART.2: disponible a españoles,
+y ellos tienen la prioridad.
+
+108
+00:04:41,982 --> 00:04:42,622
+PART.1: Ya.
+
+109
+00:04:42,702 --> 00:04:44,742
+PART.2: Si nadie viene, si ningún español
+viene...
+
+110
+00:04:44,822 --> 00:04:46,662
+PART.1: Tienes que rezar, que no venga
+nadie.
+
+111
+00:04:45,782 --> 00:04:46,662
+PART.2: Sí.
+
+112
+00:04:46,742 --> 00:04:55,102
+PART.2: Si no quiere el puesto y así,
+entonces la compañía podría decir
+como que necesitamos a Valeria por
+este puesto.
+
+113
+00:04:55,182 --> 00:05:03,662
+PART.1: Pero pregunta con un abogado
+a ver cómo lo puedes hacer,
+siempre hay una forma legal de poder hacer.
+
+114
+00:05:01,822 --> 00:05:02,822
+PART.2: Sí.
+
+115
+00:05:02,902 --> 00:05:10,062
+PART.2: Llegaron a dar esta charla como de
+tres horas a la U y ahí fue cuando
+me di cuenta de la verdad.
+
+116
+00:05:10,142 --> 00:05:11,142
+PART.2: Complicado.
+
+117
+00:05:11,662 --> 00:05:12,422
+PART.1: Sí.
+
+118
+00:05:12,502 --> 00:05:15,862
+PART.2: Los que tienen un montón de suerte
+son los chilenos y los peruanos,
+
+119
+00:05:15,942 --> 00:05:18,342
+PART.2: porque como tienen alianzas
+ellos se pueden quedar y ya.
+
+120
+00:05:18,422 --> 00:05:21,742
+PART.2: Ya, en el trabajo que
+quieran, sin ningún problema y así.
+
+121
+00:05:21,822 --> 00:05:22,462
+PART.1: Ay que ver.
+
+122
+00:05:22,542 --> 00:05:24,342
+PART.1: Imagino, bueno,
+eso yo no lo sabía.
+
+123
+00:05:24,422 --> 00:05:26,862
+PART.2: Sí,
+chilenos y peruanos de lo mejor.
+
+124
+00:05:26,422 --> 00:05:30,862
+PART.1: Aquí, ahorita, los
+venezolanos, la mayoría está
+pidiendo asilo, es increíble.
+
+125
+00:05:30,542 --> 00:05:30,862
+PART.1: ¿Sí?
+
+126
+00:05:30,942 --> 00:05:33,822
+PART.1: Sí,
+cantidad de gente pidiendo asilo.
+
+127
+00:05:34,102 --> 00:05:36,022
+PART.2: Bueno, eso será lo próximo.
+
+128
+00:05:36,462 --> 00:05:41,302
+PART.1: Bueno, yo creo, no sé si,
+¿Nicaragua ya está para pedir asilo?
+
+129
+00:05:41,382 --> 00:05:44,902
+PART.2: No sé, es como que mejora,
+empeora, mejora, empeora.
+
+130
+00:05:44,982 --> 00:05:48,262
+PART.2: Hace como una semana soltaron a
+todos los presos políticos, ¿sabes?
+
+131
+00:05:48,342 --> 00:05:51,702
+PART.1: Pero ese presidente también va
+igualito que el otro.
+
+132
+00:05:51,782 --> 00:05:53,742
+PART.2: Sí, por eso que no se sabe.
+
+133
+00:05:54,142 --> 00:05:56,102
+PART.1: Ay, bueno.
+

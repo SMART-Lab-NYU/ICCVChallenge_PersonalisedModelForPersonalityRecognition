@@ -1,0 +1,75 @@
+1
+00:00:02,408 --> 00:00:03,688
+PART.2: Muy "random", esto.
+
+2
+00:00:05,928 --> 00:00:16,808
+PART.1: Lo que te dec�a antes, lo del
+Google Rac, que no s� por qu� no
+puedo, no s�, bueno, no s�, es una
+batalla y no puedo...
+
+3
+00:00:16,888 --> 00:00:17,968
+PART.2: No s�.
+
+4
+00:00:18,048 --> 00:00:18,560
+PART.2: Ya te digo, [MASKED]
+
+5
+00:00:20,559 --> 00:00:22,328
+PART.2: [MASKED]
+�qu� tienes mucha informaci�n o qu�?
+
+6
+00:00:22,408 --> 00:00:25,960
+PART.1: S�, son bastantes im�genes, el
+problema es que no...
+
+7
+00:00:27,959 --> 00:00:35,208
+PART.2: [MASKED] puedo descargar en local, pero
+gracias a utilizar el "colapiz",
+como ya tenemos la carpeta cargada
+en el drive, pues ser�a como m�s
+f�cil.
+
+8
+00:00:36,648 --> 00:00:37,808
+PART.2: Pues no s�, t�o.
+
+9
+00:00:37,888 --> 00:00:38,528
+PART.2: No s�.
+
+10
+00:00:40,599 --> 00:00:43,408
+PART.2: [MASKED] yo creo que utilizo,
+pero...
+
+11
+00:00:44,848 --> 00:00:46,000
+PART.2: Cargo, [MASKED]
+
+12
+00:00:47,999 --> 00:00:49,368
+PART.2: [MASKED]
+pero es un fichero, dos, tres.
+
+13
+00:00:49,488 --> 00:00:57,160
+PART.1: No, yo lo que he encontrado es
+eso, problemas listando, o sea,
+cuando tengo una carpeta con muchos
+archivos, tiene que listar el
+contenido, es cuando peta.
+
+14
+00:00:59,159 --> 00:01:04,560
+PART.1: [MASKED] pero si
+vuelvo a ejecutar todas las carpetas
+que ya he listado, ya las ten�a como
+indexadas o algo y va como muy
+r�pido.
+

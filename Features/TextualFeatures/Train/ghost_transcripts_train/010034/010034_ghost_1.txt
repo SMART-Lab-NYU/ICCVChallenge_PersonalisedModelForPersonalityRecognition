@@ -1,0 +1,122 @@
+30
+00:01:00,713 --> 00:01:01,233
+PART.1: Sí.
+
+31
+00:01:01,633 --> 00:01:02,353
+PART.2: Ay, tío.
+
+32
+00:01:03,513 --> 00:01:05,473
+PART.2: Antes no me salían estas
+y ahora...
+
+33
+00:01:06,193 --> 00:01:07,673
+PART.2: Es cuestión de practicar.
+
+34
+00:01:08,353 --> 00:01:09,113
+PART.1: No.
+
+35
+00:01:09,873 --> 00:01:10,393
+PART.1: Sí.
+
+36
+00:01:10,473 --> 00:01:11,033
+PART.2: El libro.
+
+37
+00:01:12,153 --> 00:01:13,833
+PART.1: Es que los fantasmas son
+diferentes, mira.
+
+38
+00:01:14,553 --> 00:01:15,153
+PART.2: ¿Que qué?
+
+39
+00:01:15,233 --> 00:01:17,113
+PART.1: Mira los fantasmas, son
+superdiferentes.
+
+40
+00:01:18,273 --> 00:01:19,913
+PART.1: No puedo asociar
+eso con eso.
+
+41
+00:01:19,713 --> 00:01:21,273
+PART.2: A ver,
+la rata también, ¿eh?
+
+42
+00:01:27,113 --> 00:01:27,673
+PART.1: Sí.
+
+43
+00:01:33,553 --> 00:01:34,513
+PART.1: Pues no sé.
+
+44
+00:01:36,233 --> 00:01:36,873
+PART.1: Sí.
+
+45
+00:01:37,873 --> 00:01:39,033
+PART.2: A ver, yo creo que te he
+ganado ya.
+
+46
+00:01:38,593 --> 00:01:40,473
+PART.1: Ah, pero yo estoy aquí
+dale que pasa las cartas y...
+
+47
+00:01:40,673 --> 00:01:41,833
+PART.2: Ah, bueno, da igual.
+
+48
+00:01:46,073 --> 00:01:47,313
+PART.2: Quizás sea eso, ¿eh?
+
+49
+00:01:47,393 --> 00:01:48,553
+PART.2: A ver si...
+
+50
+00:01:48,313 --> 00:01:48,753
+PART.1: A lo mejor.
+
+51
+00:01:48,873 --> 00:01:49,473
+PART.2: A lo mejor.
+
+52
+00:01:52,113 --> 00:01:53,113
+PART.2: Oye, pues sí.
+
+53
+00:01:53,193 --> 00:01:53,713
+PART.1: Es esa.
+
+54
+00:01:54,233 --> 00:01:55,153
+PART.2: Qué fuerte.
+
+55
+00:01:55,233 --> 00:01:55,793
+PART.2: Nada, nada.
+
+56
+00:01:55,873 --> 00:01:58,433
+PART.2: Esto se tiene que probar
+estadísticamente.
+
+57
+00:01:58,833 --> 00:02:04,353
+PART.2: Tendrían que hacer un
+estudio como este para ver si quien
+saca no lo coge.
+

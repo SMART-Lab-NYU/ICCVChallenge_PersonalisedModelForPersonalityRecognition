@@ -1,0 +1,82 @@
+35
+00:02:03,775 --> 00:02:04,775
+PART.2: ¿Vivo en el bosque?
+
+36
+00:02:05,215 --> 00:02:05,655
+PART.1: Sí.
+
+37
+00:02:06,055 --> 00:02:06,455
+PART.2: ¿Sí?
+
+38
+00:02:08,095 --> 00:02:08,655
+PART.2: Vale.
+
+39
+00:02:15,335 --> 00:02:16,895
+PART.1: ¿Soy herbívoro?
+
+40
+00:02:18,295 --> 00:02:19,175
+PART.2: Diría que sí.
+
+41
+00:02:20,055 --> 00:02:23,975
+PART.2: Bueno, mi conocimiento de
+zoología no..., pero yo diría que
+sí.
+
+42
+00:02:25,895 --> 00:02:30,055
+PART.2: No sé si comerá algún insecto
+también, pero yo diría que es
+herbívoro.
+
+43
+00:02:30,135 --> 00:02:30,695
+PART.1: Vale.
+
+44
+00:02:33,015 --> 00:02:34,175
+PART.2: Qué más, qué más...
+
+45
+00:02:36,095 --> 00:02:38,135
+PART.2: Vale, vivo en el bosque,
+soy cazador.
+
+46
+00:02:46,095 --> 00:02:46,935
+PART.2: ¿Voy en manada?
+
+47
+00:02:47,295 --> 00:02:47,855
+PART.1: No.
+
+48
+00:02:48,175 --> 00:02:48,535
+PART.2: ¿No?
+
+49
+00:02:50,215 --> 00:02:51,535
+PART.2: ¿A que me ha tocado el mismo que
+la otra vez?
+
+50
+00:02:54,015 --> 00:02:54,775
+PART.1: A lo mejor.
+
+51
+00:02:55,495 --> 00:02:57,055
+PART.1: ¿Soy buena nadadora?
+
+52
+00:02:58,215 --> 00:02:59,655
+PART.2: Yo diría que no, ¿eh?
+
+53
+00:02:59,735 --> 00:03:00,055
+PART.1: ¿No?
+

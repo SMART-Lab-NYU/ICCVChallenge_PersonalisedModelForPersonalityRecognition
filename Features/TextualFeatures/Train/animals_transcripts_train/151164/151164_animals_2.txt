@@ -1,0 +1,65 @@
+41
+00:02:00,300 --> 00:02:01,220
+PART.2: ¿Cuántas preguntas llevo?
+
+42
+00:02:01,780 --> 00:02:04,380
+PART.1: Si yo llevaba cuatro,
+tú vas a por la cuarta ahora.
+
+43
+00:02:06,460 --> 00:02:07,100
+PART.2: ¡Uf!
+
+44
+00:02:19,220 --> 00:02:20,740
+PART.2: ¿Vivo en un clima frío?
+
+45
+00:02:23,260 --> 00:02:28,100
+PART.1: No excesivamente frío, más
+fresco que aquí se suelen ver más.
+
+46
+00:02:28,300 --> 00:02:36,660
+PART.1: Pero yo qué sé, al norte
+de Europa, y aquí en España incluso alguno
+puedes llegar a ver, pero...
+
+47
+00:02:38,380 --> 00:02:41,140
+PART.1: Pero no especialmente frío,
+creo que le da igual.
+
+48
+00:02:41,140 --> 00:02:41,860
+PART.2: ¿Soy peligroso?
+
+49
+00:02:42,860 --> 00:02:43,620
+PART.1: Creo que sí.
+
+50
+00:02:46,700 --> 00:02:47,700
+PART.2: ¿Carroñero?
+
+51
+00:02:48,100 --> 00:02:48,620
+PART.1: Sí.
+
+52
+00:02:49,620 --> 00:02:50,860
+PART.1: Me he descontado.
+
+53
+00:02:51,340 --> 00:02:51,900
+PART.2: Creo que seis.
+
+54
+00:02:53,660 --> 00:02:54,660
+PART.1: Siete.
+
+55
+00:02:54,660 --> 00:02:56,180
+PART.2: Siete, va.
+

@@ -1,0 +1,103 @@
+﻿1
+00:00:00,000 --> 00:00:01,820
+PART.2: ¿Se supone que van diez tú
+y luego diez yo o alternamos?
+
+2
+00:00:01,820 --> 00:00:02,940
+PART.1: Lo podemos hacer
+como quieras.
+
+3
+00:00:04,100 --> 00:00:06,300
+PART.1: Yo las veces que jugué,
+las hice alternando.
+
+4
+00:00:06,300 --> 00:00:07,300
+PART.2: Yo también.
+
+5
+00:00:07,620 --> 00:00:09,140
+PART.1: Vale, a ver.
+
+6
+00:00:10,900 --> 00:00:13,300
+PART.1: Es que tengo demasiadas
+pistas.
+
+7
+00:00:14,060 --> 00:00:15,660
+PART.1: ¿Soy un ave?
+
+8
+00:00:15,660 --> 00:00:17,580
+PART.2: Sí, ya sabes lo que eres.
+
+9
+00:00:17,580 --> 00:00:23,740
+PART.1: No, no, pero sé que
+de dificultad tres, que es
+lo que nos ha tocado, casi todo son aves.
+
+10
+00:00:25,540 --> 00:00:26,220
+PART.2: ¿Soy un ave?
+
+11
+00:00:26,220 --> 00:00:26,860
+PART.1: Sí.
+
+12
+00:00:29,660 --> 00:00:30,300
+PART.1: Vale.
+
+13
+00:00:30,300 --> 00:00:31,780
+PART.1: Eh...
+
+14
+00:00:34,660 --> 00:00:35,700
+PART.1: Soy un ave.
+
+15
+00:00:35,700 --> 00:00:37,420
+PART.1: ¿Soy grande para un ave?
+
+16
+00:00:37,420 --> 00:00:39,300
+PART.1: O sea, ¿soy más grande
+que un humano?
+
+17
+00:00:39,780 --> 00:00:40,740
+PART.2: No.
+
+18
+00:00:40,740 --> 00:00:41,460
+PART.1: Vale.
+
+19
+00:00:45,780 --> 00:00:47,260
+PART.2: ¿Tengo muchos colores?
+
+20
+00:00:47,260 --> 00:00:47,820
+PART.1: No.
+
+21
+00:00:49,540 --> 00:00:50,780
+PART.1: ¿Tengo muchos colores?
+
+22
+00:00:50,780 --> 00:00:51,740
+PART.2: Sí.
+
+23
+00:00:52,420 --> 00:00:52,900
+PART.1: Vale.
+
+24
+00:00:57,420 --> 00:00:58,820
+PART.2: ¿Un pico grande?
+

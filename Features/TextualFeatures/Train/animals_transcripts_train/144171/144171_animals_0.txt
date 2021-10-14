@@ -1,0 +1,95 @@
+﻿1
+00:00:02,096 --> 00:00:03,976
+PART.1: Guay, ¿quien empieza?
+¿Empiezas tú?
+
+2
+00:00:04,056 --> 00:00:05,016
+PART.2: Sí, está bien.
+
+3
+00:00:04,816 --> 00:00:05,616
+PART.1: Vale.
+
+4
+00:00:05,816 --> 00:00:09,016
+PART.2: ¿Mi animal es terrestre?
+
+5
+00:00:09,856 --> 00:00:10,856
+PART.1: Sí.
+
+6
+00:00:11,016 --> 00:00:12,256
+PART.2: Sí, bien.
+
+7
+00:00:17,856 --> 00:00:20,536
+PART.2: ¿Te toca a ti? ¿Una y una
+o hacemos las diez?
+
+8
+00:00:20,656 --> 00:00:21,856
+PART.1: Las diez, sí.
+
+9
+00:00:21,416 --> 00:00:22,416
+PART.2: ¿Sí?
+
+10
+00:00:22,536 --> 00:00:23,496
+PART.1: Porque se me olvida.
+
+11
+00:00:23,096 --> 00:00:24,496
+PART.2: ¿Yo hago las diez
+entonces?
+
+12
+00:00:24,576 --> 00:00:25,456
+PART.1: Tú haces tus diez, sí.
+
+13
+00:00:25,536 --> 00:00:27,416
+PART.2: Ah, okey, nunca lo había
+jugado así.
+
+14
+00:00:28,776 --> 00:00:32,016
+PART.2: Bueno, es terrestre...
+¿Y anda en cuatro patas?
+
+15
+00:00:34,616 --> 00:00:35,616
+PART.1: Sí.
+
+16
+00:00:36,056 --> 00:00:37,256
+PART.2: ¿Sí?
+
+17
+00:00:39,976 --> 00:00:41,056
+PART.2: ¿Tiene mucho pelo?
+
+18
+00:00:41,136 --> 00:00:42,136
+PART.1: Sí.
+
+19
+00:00:43,616 --> 00:00:45,656
+PART.2: ¿Es grande, en
+comparación del humano?
+
+20
+00:00:45,816 --> 00:00:48,376
+PART.1: No. Pequeñito.
+
+21
+00:00:50,856 --> 00:00:53,856
+PART.2: Pequeñito... Terrestre...
+
+22
+00:00:56,936 --> 00:01:00,696
+PART.2: ¿Es un animal doméstico o
+es salvaje?
+

@@ -1,0 +1,222 @@
+﻿1
+00:00:00,563 --> 00:00:01,203
+PART.1: Bueno...
+
+2
+00:00:03,123 --> 00:00:03,803
+PART.1: ¿Sí?
+
+3
+00:00:03,883 --> 00:00:04,403
+PART.1: Empieza.
+
+4
+00:00:04,283 --> 00:00:04,603
+PART.2: Ya.
+
+5
+00:00:05,683 --> 00:00:06,363
+PART.2: Adelante.
+
+6
+00:00:09,403 --> 00:00:11,083
+PART.1: Ah, no, mierda, me cago en la pu...
+
+7
+00:00:11,163 --> 00:00:12,283
+PART.2: Sí... ya.
+
+8
+00:00:12,363 --> 00:00:13,243
+PART.1: Soy daltónico.
+
+9
+00:00:16,603 --> 00:00:17,563
+PART.2: Yo también... no.
+
+10
+00:00:17,803 --> 00:00:18,443
+PART.2: Listo...
+
+11
+00:00:20,763 --> 00:00:21,883
+PART.1: Joder, el libro, ahora sí.
+
+12
+00:00:21,963 --> 00:00:22,523
+PART.2: Sí...
+
+13
+00:00:23,363 --> 00:00:24,323
+PART.1: Siempre cojo el libro, soy...
+
+14
+00:00:26,043 --> 00:00:26,643
+PART.2: Ahora te toca.
+
+15
+00:00:29,243 --> 00:00:30,163
+PART.2: Eh, perfecto.
+
+16
+00:00:42,963 --> 00:00:43,883
+PART.1: Eh... bien.
+
+17
+00:00:46,523 --> 00:00:47,003
+PART.2: ¿Me toca?
+
+18
+00:00:47,083 --> 00:00:47,283
+PART.1: Sí.
+
+19
+00:00:49,763 --> 00:00:51,163
+PART.2: Libro... libro.
+
+20
+00:00:51,323 --> 00:00:51,683
+PART.1: Yo cojo libro.
+
+21
+00:00:52,603 --> 00:00:53,683
+PART.2: El comodín, dale.
+
+22
+00:00:58,083 --> 00:00:58,683
+PART.1: Ah, no, coño.
+
+23
+00:00:59,763 --> 00:01:00,283
+PART.2: Ratón.
+
+24
+00:01:00,363 --> 00:01:02,163
+PART.1: Ratón... no, la botella.
+
+25
+00:01:02,243 --> 00:01:04,883
+PART.2: El ratón no está, ni el color ni...
+
+26
+00:01:04,963 --> 00:01:05,643
+PART.1: ¿Esto no es verde?
+
+27
+00:01:05,723 --> 00:01:07,483
+PART.2: Ah, sí, tienes razón, sí.
+
+28
+00:01:08,843 --> 00:01:10,283
+PART.1: Digo si tampoco está el azul ni el libro...
+
+29
+00:01:09,843 --> 00:01:10,203
+PART.2: Sí...
+
+30
+00:01:14,363 --> 00:01:14,923
+PART.2: Sí.
+
+31
+00:01:16,403 --> 00:01:16,803
+PART.2: No.
+
+32
+00:01:18,163 --> 00:01:18,723
+PART.1: Es verdad.
+
+33
+00:01:21,643 --> 00:01:22,323
+PART.2: Ah...
+
+34
+00:01:23,483 --> 00:01:24,203
+PART.1: El libro es mío.
+
+35
+00:01:29,043 --> 00:01:29,603
+PART.2: Sí...
+
+36
+00:01:34,163 --> 00:01:35,243
+PART.1: No... el ratón.
+
+37
+00:01:41,163 --> 00:01:42,403
+PART.1: No, la botella...
+
+38
+00:01:43,723 --> 00:01:44,363
+PART.2: Sí.
+
+39
+00:01:51,123 --> 00:01:51,923
+PART.1: Es mi comodín.
+
+40
+00:01:53,043 --> 00:01:55,043
+PART.2: No... no, nada.
+
+41
+00:01:55,123 --> 00:01:56,243
+PART.2: Nada que hacer acá.
+
+42
+00:01:58,403 --> 00:01:59,803
+PART.1: Sale mucho el libro, ya lo tengo estudiado.
+
+43
+00:02:04,763 --> 00:02:07,323
+PART.1: Sí... a las nueve tengo que estar hablando
+con Estados Unidos, o sea que por eso...
+
+44
+00:02:08,243 --> 00:02:11,203
+PART.1: A las nueve tengo que hablar con Estados
+Unidos, por eso tengo que salir de aquí
+rapidísimo.
+
+45
+00:02:11,603 --> 00:02:13,483
+PART.1: Me tienen que llamar, una videollamada.
+
+46
+00:02:14,723 --> 00:02:15,243
+PART.2: Ya...
+
+47
+00:02:36,923 --> 00:02:37,763
+PART.1: ¿Y tú de dónde eres, de Chile?
+
+48
+00:02:38,603 --> 00:02:43,643
+PART.2: De Santiago, pero también soy... mucho más al
+sur, de la Patagonia.
+
+49
+00:02:46,123 --> 00:02:49,163
+PART.1: La Patagonia pensaba que era Argentina,
+imagínate lo que yo desconocía de Chile.
+
+50
+00:02:49,243 --> 00:02:54,923
+PART.2: No, es que allá, acá, sí, todos piensan lo
+mismo, como Argentina es como... Argentina
+es...
+
+51
+00:02:55,003 --> 00:02:57,483
+PART.1: Sí, pero es que yo no sabía ni de dónde
+estaba Chile en el mapa, ¿eh?
+
+52
+00:02:57,563 --> 00:03:00,363
+PART.1: Cuando me dijo "soy chilena", ¿eso qué está,
+por México o...?
+
+53
+00:03:00,563 --> 00:03:06,243
+PART.2: Pero de Santiago a donde yo vivo son dos
+horas y media en avión.
+

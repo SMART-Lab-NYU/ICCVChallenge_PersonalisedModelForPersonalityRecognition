@@ -1,0 +1,10 @@
+Mi pregunta es, ¿este animal es un mamífero? ¿Es un ave?
+Es un ave. 
+Muy bien. 
+Tu turno. 
+Es un ave. 
+El ave que yo tengo, ¿es de ciudad?
+¿Es de campo? 
+¿Es de montaña? 
+¿Es de mar? 
+Vale, un punto. 

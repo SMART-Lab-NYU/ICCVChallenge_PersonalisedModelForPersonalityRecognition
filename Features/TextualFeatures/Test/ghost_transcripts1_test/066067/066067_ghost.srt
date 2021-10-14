@@ -1,0 +1,414 @@
+1
+00:00:00,000 --> 00:00:00,659
+PART.2: Empiezo yo, ¿vale?
+
+2
+00:00:00,739 --> 00:00:01,459
+PART.1: ¿Quién tira?
+
+3
+00:00:01,859 --> 00:00:03,299
+PART.1: ¿No hay piedra, papel ni tijera ni
+nada?
+
+4
+00:00:03,379 --> 00:00:04,259
+PART.2: Venga.
+
+5
+00:00:05,419 --> 00:00:06,419
+PART.2: Tú, atento.
+
+6
+00:00:08,139 --> 00:00:09,739
+PART.1: No está el verde, ¿no?
+
+7
+00:00:09,819 --> 00:00:11,099
+PART.2: Ah, y tampoco está este.
+
+8
+00:00:11,179 --> 00:00:12,219
+PART.2: Ah, no, coño.
+
+9
+00:00:12,299 --> 00:00:14,219
+PART.2: Ah, que sí está.
+
+10
+00:00:14,299 --> 00:00:15,819
+PART.1: Azul, qué subnormal.
+
+11
+00:00:16,059 --> 00:00:17,019
+PART.2: Va, tira.
+
+12
+00:00:17,099 --> 00:00:19,139
+PART.1: Yo de maquinón, ¿ahora
+qué?
+
+13
+00:00:19,979 --> 00:00:22,019
+PART.1: Pim, pam, pam, pam.
+
+14
+00:00:22,099 --> 00:00:24,299
+PART.2: Azul, no...
+
+15
+00:00:24,379 --> 00:00:25,619
+PART.2: Hale, qué cabrón.
+
+16
+00:00:26,019 --> 00:00:27,419
+PART.2: Venga, dámelo.
+
+17
+00:00:27,499 --> 00:00:28,899
+PART.2: Sí que puedes.
+
+18
+00:00:28,539 --> 00:00:29,339
+PART.1: ¿Me la guardo?
+
+19
+00:00:29,059 --> 00:00:29,539
+PART.2: Sí.
+
+20
+00:00:29,619 --> 00:00:30,779
+PART.1: Ves, sí que puedo.
+
+21
+00:00:30,859 --> 00:00:31,859
+PART.2: Eh...
+
+22
+00:00:32,299 --> 00:00:34,259
+PART.1: No, el azul, ah, no, has ganado,
+has ganado.
+
+23
+00:00:34,339 --> 00:00:34,899
+PART.2: Sí, ¿no?
+
+24
+00:00:34,979 --> 00:00:36,459
+PART.1: Has ganado, has ganado.
+
+25
+00:00:36,939 --> 00:00:37,939
+PART.2: Sí.
+
+26
+00:00:38,019 --> 00:00:39,019
+PART.2: Ay, perdón.
+
+27
+00:00:40,379 --> 00:00:41,419
+PART.1: ¿Qué era?
+
+28
+00:00:42,899 --> 00:00:43,899
+PART.1: La botella.
+
+29
+00:00:43,979 --> 00:00:45,899
+PART.2: No, que la botella sí que está.
+
+30
+00:00:46,579 --> 00:00:47,859
+PART.2: La botella sí que está.
+
+31
+00:00:47,939 --> 00:00:48,579
+PART.1: Vale, venga.
+
+32
+00:00:48,659 --> 00:00:50,539
+PART.1: No me entero de nada, perfecto,
+seguimos.
+
+33
+00:00:54,539 --> 00:00:55,699
+PART.1: El rojo, ¿no?
+
+34
+00:00:55,779 --> 00:00:56,939
+PART.2: Gris, está, azul, ¡no!
+
+35
+00:00:57,019 --> 00:00:57,779
+PART.2: Azul.
+
+36
+00:01:01,019 --> 00:01:02,699
+PART.1: Menos mal, te toca a ti.
+
+37
+00:01:04,459 --> 00:01:07,699
+PART.2: Azul, ratón, sofá, verde.
+
+38
+00:01:07,779 --> 00:01:09,819
+PART.2: No te inventes, es este.
+
+39
+00:01:08,819 --> 00:01:10,579
+PART.1: Rojo, hala, sofá, tío.
+
+40
+00:01:11,339 --> 00:01:12,899
+PART.1: Es que lo entiendo mal.
+
+41
+00:01:12,979 --> 00:01:13,459
+PART.2: Vale.
+
+42
+00:01:13,539 --> 00:01:14,419
+PART.1: Me tocaba a mí.
+
+43
+00:01:14,499 --> 00:01:15,499
+PART.2: Ah.
+
+44
+00:01:14,819 --> 00:01:16,419
+PART.1: No, no, ya está, da igual, que es
+broma.
+
+45
+00:01:16,499 --> 00:01:18,139
+PART.1: Cógela, que me da igual.
+
+46
+00:01:17,139 --> 00:01:18,139
+PART.2: Dale.
+
+47
+00:01:18,699 --> 00:01:20,939
+PART.1: Qué capulla, qué picada...
+
+48
+00:01:23,699 --> 00:01:24,699
+PART.1: He ganado.
+
+49
+00:01:24,779 --> 00:01:25,779
+PART.2: ¿Qué es eso?
+
+50
+00:01:25,859 --> 00:01:27,339
+PART.2: Sí, has ganado.
+
+51
+00:01:29,019 --> 00:01:30,819
+PART.1: Dime que he ganado, porfa.
+
+52
+00:01:30,899 --> 00:01:31,899
+PART.2: Dale.
+
+53
+00:01:31,979 --> 00:01:32,979
+PART.1: Azul...
+
+54
+00:01:34,659 --> 00:01:35,819
+PART.1: ¡Ay!
+
+55
+00:01:37,739 --> 00:01:38,739
+PART.2: Gira.
+
+56
+00:01:39,739 --> 00:01:41,219
+PART.2: Como mola este juego, mola, mola.
+
+57
+00:01:43,699 --> 00:01:45,099
+PART.2: Ay, qué cabrón.
+
+58
+00:01:45,499 --> 00:01:46,499
+PART.2: Qué bueno.
+
+59
+00:01:46,579 --> 00:01:48,219
+PART.1: Sí, bueno, buenísimo.
+
+60
+00:01:51,339 --> 00:01:52,699
+PART.2: Joder.
+
+61
+00:01:52,779 --> 00:01:53,939
+PART.1: Yo lo pillo tarde.
+
+62
+00:01:57,939 --> 00:01:58,939
+PART.1: No.
+
+63
+00:01:58,859 --> 00:01:59,859
+PART.2: Botella, no.
+
+64
+00:01:59,019 --> 00:01:59,459
+PART.1: Gris.
+
+65
+00:01:59,939 --> 00:02:01,059
+PART.1: Ah, ratón.
+
+66
+00:02:00,219 --> 00:02:01,219
+PART.2: Está.
+
+67
+00:02:01,739 --> 00:02:02,739
+PART.2: Ya está.
+
+68
+00:02:02,819 --> 00:02:04,059
+PART.2: ¿A ver quién ha ganado?
+
+69
+00:02:04,139 --> 00:02:05,739
+PART.1: Tú has ganado, asquerosa.
+
+70
+00:02:07,299 --> 00:02:08,299
+PART.2: Siete.
+
+71
+00:02:08,379 --> 00:02:09,619
+PART.2: Bueno, pero...
+
+72
+00:02:09,699 --> 00:02:11,339
+PART.1: Lo he hecho, he remontado ¿o qué?
+
+73
+00:02:11,419 --> 00:02:12,419
+PART.2: Mola el juego.
+
+74
+00:02:12,499 --> 00:02:13,459
+PART.2: Me mola este juego.
+
+75
+00:02:13,539 --> 00:02:15,179
+PART.2: No, no, que hay que contar quién
+ha ganado.
+
+76
+00:02:16,459 --> 00:02:18,419
+PART.2: Me molan estos juegos de pensar
+rápido.
+
+77
+00:02:18,499 --> 00:02:19,899
+PART.1: Porque ganas, ¿no?
+
+78
+00:02:20,539 --> 00:02:22,019
+PART.2: No, porque...
+
+79
+00:02:21,459 --> 00:02:22,939
+PART.1: A fútbol no te mola o la bici,
+¿no?
+
+80
+00:02:22,499 --> 00:02:23,499
+PART.2: Asociar cosas.
+
+81
+00:02:25,259 --> 00:02:26,619
+PART.1: ¿Hacemos otra ronda?
+
+82
+00:02:25,979 --> 00:02:28,179
+PART.2: Se han puesto las pulsaciones a...
+
+83
+00:02:28,259 --> 00:02:29,819
+PART.1: ¿En serio lo dices?
+
+84
+00:02:31,579 --> 00:02:32,619
+PART.2: Es que a mí yo creo que...
+
+85
+00:02:32,699 --> 00:02:33,939
+PART.2: Ah, sí que me está marcando.
+
+86
+00:02:34,019 --> 00:02:35,819
+PART.1: ¿Yo tengo 1800 pulsaciones?
+
+87
+00:02:37,739 --> 00:02:39,179
+PART.1: Me estoy muriendo.
+
+88
+00:02:39,979 --> 00:02:40,979
+PART.2: Eso está mal.
+
+89
+00:02:43,339 --> 00:02:45,059
+PART.2: Yo no sé cómo van las pulsaciones.
+
+90
+00:02:46,139 --> 00:02:47,619
+PART.1: ¿Hay que hacer otro juego o...?
+
+91
+00:02:47,699 --> 00:02:49,219
+PART.2: No, yo creo que ya está.
+
+92
+00:02:50,219 --> 00:02:53,419
+PART.1: Mira, pa' Cuenca
+un poquito.
+
+93
+00:03:01,459 --> 00:03:02,779
+PART.1: De locos, eh.
+
+94
+00:03:02,859 --> 00:03:05,059
+PART.1: Qué flipe, los holandeses.
+
+95
+00:03:03,979 --> 00:03:05,059
+PART.2: ¿Qué te ha dicho Alberto?
+
+96
+00:03:07,339 --> 00:03:12,819
+PART.1: Que me dirá algo mañana porque no
+puede llegar tarde, porque la Rita
+ha llegado tarde y van a trabajar y
+tal.
+
+97
+00:03:13,819 --> 00:03:16,779
+PART.2: Pues comemos algo aquí, por Barna,
+con Hugo, ¿no?
+
+98
+00:03:17,259 --> 00:03:17,859
+PART.1: Vale.
+
+99
+00:03:17,939 --> 00:03:19,059
+PART.1: Ah, ¿encima le invitamos a cenar?
+
+100
+00:03:20,859 --> 00:03:24,459
+PART.2: Oye, mira, hemos pensado que te
+pires.
+

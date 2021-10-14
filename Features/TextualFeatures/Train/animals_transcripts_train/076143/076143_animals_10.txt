@@ -1,0 +1,78 @@
+97
+00:10:01,978 --> 00:10:03,178
+PART.1: Es verdad...
+
+98
+00:10:03,978 --> 00:10:06,278
+PART.2: You forgot to ask
+if it is flying...
+
+99
+00:10:06,378 --> 00:10:11,778
+PART.1: Yes! I should have asked!
+Ok, your turn.
+
+100
+00:10:11,778 --> 00:10:18,678
+PART.2: Even it is flying,
+but how you can say
+it is a pelican or it is other...?
+
+101
+00:10:19,578 --> 00:10:23,778
+PART.1: Yes! It is difficult!
+Maybe never!
+Ok, go ahead.
+
+102
+00:10:23,778 --> 00:10:27,778
+PART.2: Among 40 animals...
+
+103
+00:10:27,878 --> 00:10:29,778
+PART.1: Yes, I don't know.
+
+104
+00:10:30,078 --> 00:10:31,778
+PART.2: Ok, let's say.
+
+105
+00:10:34,678 --> 00:10:36,478
+PART.2: Is it mammal?
+
+106
+00:10:39,578 --> 00:10:40,578
+PART.1: Yes.
+
+107
+00:10:40,678 --> 00:10:42,578
+PART.2: A mammal.
+
+108
+00:10:45,578 --> 00:10:46,978
+PART.2: Is it big?
+
+109
+00:10:47,278 --> 00:10:48,978
+PART.1: Yes.
+
+110
+00:10:49,478 --> 00:10:51,678
+PART.2: Big, bigger than bear.
+
+111
+00:10:51,778 --> 00:10:53,678
+PART.1: Yes.
+
+112
+00:10:53,678 --> 00:10:54,878
+PART.2: What option!
+
+113
+00:10:55,178 --> 00:10:56,478
+PART.1: Yes!
+
+114
+00:10:58,078 --> 00:11:01,678
+PART.2: Is it kind of blue the color?
+

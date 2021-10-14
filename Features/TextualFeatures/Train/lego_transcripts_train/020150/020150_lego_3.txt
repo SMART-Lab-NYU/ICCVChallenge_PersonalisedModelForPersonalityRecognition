@@ -1,0 +1,4 @@
+51
+00:03:29,152 --> 00:03:31,192
+SUPERVISOR: Va, voy a dejar que lo acabéis.
+

@@ -1,0 +1,104 @@
+1
+00:00:00,370 --> 00:00:01,370
+PART.2: ¿Cómo te llamas?
+
+2
+00:00:01,450 --> 00:00:02,210
+PART.1: Alejando, ¿y tú?
+
+3
+00:00:02,290 --> 00:00:03,090
+PART.2: Naiara.
+
+4
+00:00:03,170 --> 00:00:05,770
+PART.1: Naiara. No es usual ese nombre.
+
+5
+00:00:05,850 --> 00:00:07,090
+PART.2: No, la verdad es que no.
+
+6
+00:00:07,170 --> 00:00:12,810
+PART.2: Siempre que voy a encargar algo o
+digo mi nombre todo el mundo lo
+escribe mal.
+
+7
+00:00:13,570 --> 00:00:17,370
+PART.2: Es como, a ver, sí es diferente,
+pero tampoco mucho.
+
+8
+00:00:17,450 --> 00:00:18,570
+PART.1: ¿Pues cómo se escribe?
+
+9
+00:00:19,730 --> 00:00:22,730
+PART.2: Ene-a-i-a-erre-a.
+
+10
+00:00:24,090 --> 00:00:25,010
+PART.1: No los culpo.
+
+11
+00:00:25,450 --> 00:00:29,250
+PART.2: Ya. Es que a veces no se aprenden
+ni mi nombre.
+
+12
+00:00:29,330 --> 00:00:34,450
+PART.2: Y es como, a ver, una cosa es que
+lo escribas mal y otra que pongas
+otro nombre diferente.
+
+13
+00:00:34,530 --> 00:00:36,170
+PART.1: Pero ¿por qué es tan peculiar tu
+nombre?
+
+14
+00:00:36,570 --> 00:00:37,610
+PART.2: Pues no lo sé.
+
+15
+00:00:37,690 --> 00:00:42,330
+PART.1: ¿Realmente es nuevo? ¿O es muy
+viejo y la gente no lo sabe?
+
+16
+00:00:42,530 --> 00:00:43,530
+PART.2: Es vasco.
+
+17
+00:00:45,490 --> 00:00:46,570
+PART.1: Y tú eres vasca.
+
+18
+00:00:46,850 --> 00:00:47,810
+PART.2: No.
+
+19
+00:00:48,690 --> 00:00:50,250
+PART.2: la verdad es que no.
+
+20
+00:00:50,370 --> 00:00:53,050
+PART.2: No tengo ni familia que viva ahí,
+o sea, que...
+
+21
+00:00:53,610 --> 00:00:54,490
+PART.2: Para nada.
+
+22
+00:00:54,570 --> 00:00:56,890
+PART.2: Pero a mis padres le gustó,
+yo que sé.
+
+23
+00:00:56,970 --> 00:01:02,130
+PART.2: Pero si no era ese, era otro
+nombre vasco que también como...
+Vale.
+

@@ -1,0 +1,694 @@
+﻿1
+00:00:02,841 --> 00:00:05,321
+PART.1: Una, dos, tres, cuatro, cinco,
+seis.
+
+2
+00:00:06,601 --> 00:00:08,441
+PART.2: Impresiona un poco.
+
+3
+00:00:08,521 --> 00:00:10,801
+PART.1: Ah, no, pero bueno,
+no está mal.
+
+4
+00:00:10,881 --> 00:00:12,641
+PART.2: La primera vez que vine fue
+como...
+
+5
+00:00:13,481 --> 00:00:15,121
+PART.2: No podía evitar mirarlas.
+
+6
+00:00:14,081 --> 00:00:15,201
+PART.1: Es la quinta vez que vienes.
+
+7
+00:00:15,281 --> 00:00:17,281
+PART.2: Sí, sí, se han aprovechado mucho
+de mí.
+
+8
+00:00:18,401 --> 00:00:22,321
+PART.2: Vine con mi marido, entonces el
+primer día me tocó con él, me tocó
+con otro chico,
+
+9
+00:00:22,401 --> 00:00:25,601
+PART.2: y hoy ya me tocó con
+una chica, me tocó con un chico,
+ahora me toca contigo.
+
+10
+00:00:26,361 --> 00:00:27,361
+PART.1: O sea, que ya estás cansada de
+hacer esto.
+
+11
+00:00:27,441 --> 00:00:30,121
+PART.2: Me voy, ya me voy después de esto.
+
+12
+00:00:31,001 --> 00:00:32,921
+PART.2: ¿Y tú qué tal, cómo te enteraste
+de...?
+
+13
+00:00:33,001 --> 00:00:38,641
+PART.1: Pues porque tengo una amiga que su
+hermana, creo, o sea, es como muy
+raro.
+
+14
+00:00:38,721 --> 00:00:43,161
+PART.1: Mi amiga y su hermana,
+pues su hermana tiene una amiga que
+creo que está metida aquí.
+
+15
+00:00:43,241 --> 00:00:43,881
+PART.2: Ah.
+
+16
+00:00:43,961 --> 00:00:48,961
+PART.1: Y le dijo: "Oye, mira, tú como
+tienes muchos amigos artistas",
+porque soy actriz,
+
+17
+00:00:49,041 --> 00:00:52,801
+PART.1: bueno, soy
+actriz, estoy estudiando para ser
+actriz de teatro musical,
+
+18
+00:00:52,881 --> 00:00:57,841
+PART.1: y como tenemos un grupo de 25
+personas, es en plan: "Bueno, qué
+tal, ¿queréis participar?".
+
+19
+00:00:57,921 --> 00:00:58,921
+PART.1: Y dije: "Vale".
+
+20
+00:00:59,001 --> 00:01:04,601
+PART.1: Porque además estudio psicología,
+como estudio psicología, es como que
+he visto esto y yo: ¡qué guay!
+
+21
+00:00:59,041 --> 00:01:01,241
+PART.2: Te viene bien participar, claro.
+
+22
+00:01:04,681 --> 00:01:05,081
+PART.2: Sí.
+
+23
+00:01:05,161 --> 00:01:05,921
+PART.1: Es guay, es guay.
+
+24
+00:01:06,001 --> 00:01:11,361
+PART.2: A mí lo único que me chocó un
+pelín cuando la parte que dicen que
+venderán los datos de tu mirada,
+
+25
+00:01:11,441 --> 00:01:14,401
+PART.2: digamos, de dónde posicionas la
+vista con fines comerciales.
+
+26
+00:01:14,481 --> 00:01:16,241
+PART.2: Yo dije así como...
+
+27
+00:01:16,321 --> 00:01:18,161
+PART.1: Mira, así.
+
+28
+00:01:18,241 --> 00:01:19,241
+PART.1: Y ya está.
+
+29
+00:01:20,441 --> 00:01:21,881
+PART.1: A mí la verdad es que no me...
+
+30
+00:01:21,961 --> 00:01:23,681
+PART.1: Esto aprieta un poco, pero bueno,
+no pasa nada.
+
+31
+00:01:23,761 --> 00:01:25,521
+PART.2: Sí, tiene que cortar la
+circulación un poco.
+
+32
+00:01:24,721 --> 00:01:26,441
+PART.1: ¿Esto par qué sirve? Para...
+
+33
+00:01:25,761 --> 00:01:32,401
+PART.2: Te toma las pulsaciones, mira, si
+tú vas apretando, te aparece un
+corazón y esas son tus pulsaciones.
+
+34
+00:01:32,721 --> 00:01:34,641
+PART.1: Uy, pues yo no tengo corazón, eh.
+
+35
+00:01:34,721 --> 00:01:35,481
+PART.2: Tengo 84.
+
+36
+00:01:35,561 --> 00:01:36,561
+PART.1: Ah.
+
+37
+00:01:36,641 --> 00:01:37,881
+PART.1: 83.
+
+38
+00:01:37,961 --> 00:01:39,961
+PART.2: Sí, las mías siempre están
+superaltas.
+
+39
+00:01:40,481 --> 00:01:42,601
+PART.1: No sé, uy, ¿y esto?
+
+40
+00:01:42,681 --> 00:01:45,041
+PART.1: Fuego 1000 80 29.
+
+41
+00:01:45,121 --> 00:01:46,321
+PART.2: Puede ser la temperatura, no sé.
+
+42
+00:01:46,401 --> 00:01:48,801
+PART.1: Porque hace mucho calor.
+
+43
+00:01:48,881 --> 00:01:56,281
+PART.2: Yo me voy a enfermar, yo seguro
+que me enfermo porque afuera hace un
+calor y aquí entras y hace un frío,
+y yo me voy a morir.
+
+44
+00:01:54,761 --> 00:01:55,801
+PART.1: A mí también me pasa.
+
+45
+00:01:56,361 --> 00:01:56,961
+PART.1: Sí.
+
+46
+00:01:57,041 --> 00:02:02,601
+PART.1: Bueno, el otro día estaba en casa
+y como mi padre tiene mucha calor,
+pues enciende mucho el aire
+acondicionado.
+
+47
+00:02:02,681 --> 00:02:05,041
+PART.1: Y estoy fuera, hace calor, bueno,
+vale.
+
+48
+00:02:05,121 --> 00:02:06,881
+PART.1: Entro, tengo frío, voy con la
+manta.
+
+49
+00:02:06,961 --> 00:02:10,721
+PART.1: Es como que frío, calor, frío,
+calor y soy alérgica a los cambios
+de aire.
+
+50
+00:02:10,801 --> 00:02:11,441
+PART.2: Ah...
+
+51
+00:02:11,521 --> 00:02:13,561
+PART.1: Y estoy todo el rato estornudando.
+
+52
+00:02:13,641 --> 00:02:16,441
+PART.2: A mí también me genera un poquito
+de...
+
+53
+00:02:16,521 --> 00:02:17,601
+PART.1: ¿Cómo te llamas?
+
+54
+00:02:17,681 --> 00:02:18,721
+PART.2: Natalia, ¿y tú?
+
+55
+00:02:18,401 --> 00:02:19,081
+PART.1: Ana.
+
+56
+00:02:19,161 --> 00:02:20,161
+PART.2: Ana.
+
+57
+00:02:20,241 --> 00:02:22,921
+PART.2: Qué guay, conozco muchas Anas de
+aquí de Barcelona.
+
+58
+00:02:21,041 --> 00:02:22,721
+PART.1: ¿Sí?, pues mira.
+
+59
+00:02:22,801 --> 00:02:26,601
+PART.2: Estoy en una asociación de
+protección de animales y ahí hay
+muchas Anas.
+
+60
+00:02:25,281 --> 00:02:26,241
+PART.1: Qué guay.
+
+61
+00:02:26,601 --> 00:02:27,921
+PART.2: De verdad, es como...
+
+62
+00:02:27,361 --> 00:02:28,121
+PART.1: Qué guay.
+
+63
+00:02:28,201 --> 00:02:28,721
+PART.1: ¿Dónde?
+
+64
+00:02:28,801 --> 00:02:29,481
+PART.2: Ana, te presento a Ana.
+
+65
+00:02:30,441 --> 00:02:31,521
+PART.2: En Granollers.
+
+66
+00:02:31,601 --> 00:02:32,601
+PART.1: Qué guay.
+
+67
+00:02:32,161 --> 00:02:32,841
+PART.2: Se llama Vida Animal.
+
+68
+00:02:33,761 --> 00:02:38,041
+PART.1: Yo de los animales no soy muy fan,
+siempre tengo peces.
+
+69
+00:02:38,121 --> 00:02:39,121
+PART.2: Ah, muy bien.
+
+70
+00:02:38,601 --> 00:02:42,881
+PART.1: Pues porque es como lo más fácil
+de cuidar porque como no estoy mucho
+en casa.
+
+71
+00:02:42,961 --> 00:02:44,121
+PART.2: Claro.
+
+72
+00:02:44,201 --> 00:02:48,521
+PART.1: Es como no voy a comprarme un
+perro o a, ¿cómo se llama esta cosa?
+
+73
+00:02:49,761 --> 00:02:50,761
+PART.1: A adoptar.
+
+74
+00:02:50,841 --> 00:02:53,401
+PART.1: No voy a adoptar un perro si no
+voy a estar con él.
+
+75
+00:02:53,481 --> 00:02:54,041
+PART.2: Muy bien, muy bien.
+
+76
+00:02:54,121 --> 00:02:55,841
+PART.2: Es que hay gente que lo hace y...
+
+77
+00:02:55,281 --> 00:02:55,841
+PART.1: Exacto.
+
+78
+00:02:55,921 --> 00:02:57,081
+PART.2: Es muy responsable.
+
+79
+00:02:57,441 --> 00:02:59,161
+PART.1: Cuando sea mayor, ya, si eso.
+
+80
+00:02:59,241 --> 00:03:03,361
+PART.2: Yo tampoco podía tener en mi casa,
+porque yo sí que vengo un año y
+medio,
+
+81
+00:03:03,441 --> 00:03:06,241
+PART.2: dos años, máximo, ahora me
+vuelvo a mi país, entonces...
+
+82
+00:03:06,321 --> 00:03:06,841
+PART.1: ¿Dónde?
+
+83
+00:03:06,921 --> 00:03:07,641
+PART.2: En Chile.
+
+84
+00:03:07,721 --> 00:03:10,521
+PART.2: Entonces no podía adoptar un
+animal.
+
+85
+00:03:10,601 --> 00:03:11,161
+PART.1: Ya.
+
+86
+00:03:11,241 --> 00:03:13,961
+PART.2: Además que aquí la situación de
+alquiler es muy difícil.
+
+87
+00:03:14,041 --> 00:03:15,921
+PART.1: Bueno, ya te digo.
+
+88
+00:03:15,241 --> 00:03:16,681
+PART.2: Es todo un tema.
+
+89
+00:03:16,761 --> 00:03:18,721
+PART.1: Sí, yo que vivo con mis padres,
+pero...
+
+90
+00:03:18,801 --> 00:03:19,321
+PART.1: Claro.
+
+91
+00:03:19,401 --> 00:03:22,361
+PART.2: Sí, imagínate, bueno, si yo fuese
+sola, quizás no tan difícil,
+
+92
+00:03:22,441 --> 00:03:25,641
+PART.2: pero tengo una pareja, entonces,
+somos los dos, habitaciones para
+pareja, nada.
+
+93
+00:03:25,721 --> 00:03:26,121
+PART.1: Claro.
+
+94
+00:03:26,201 --> 00:03:31,241
+PART.2: Alquilar un piso, uf, imposible,
+muy difícil, por todo lo que tiene
+la inmobiliaria aquí.
+
+95
+00:03:30,161 --> 00:03:31,161
+PART.1: No, es que...
+
+96
+00:03:31,241 --> 00:03:32,681
+PART.1: Es que es muy caro aquí.
+
+97
+00:03:32,761 --> 00:03:33,761
+PART.2: Es caro, encima.
+
+98
+00:03:33,841 --> 00:03:36,321
+PART.1: En Barcelona es muy caro.
+
+99
+00:03:36,401 --> 00:03:37,401
+PART.2: Sí, es creo.
+
+100
+00:03:37,201 --> 00:03:39,161
+PART.1: Es como que te vas por los
+pueblecitos de al lado y...
+
+101
+00:03:39,241 --> 00:03:41,361
+PART.2: Sí, que no te queda otra opción
+quizá para vivir tranquilo.
+
+102
+00:03:41,441 --> 00:03:42,441
+PART.1: Exacto.
+
+103
+00:03:42,521 --> 00:03:45,601
+PART.2: Pero yo venía un tiempito
+corto y quería estar en Barcelona, ¿no?
+
+104
+00:03:46,401 --> 00:03:47,281
+PART.1: ¿Y cómo que viniste aquí?
+
+105
+00:03:47,361 --> 00:03:48,641
+PART.2: ¿En plan de vacaciones?
+
+106
+00:03:48,721 --> 00:03:52,241
+PART.1: No, yo estaba trabajando y
+bueno, mi trabajo se cayó,
+
+107
+00:03:52,321 --> 00:03:56,801
+PART.1: al final me movieron, soy profesora,
+me movieron para un cole mejor,
+menos dinero,
+
+108
+00:03:56,881 --> 00:03:58,121
+PART.1: todo así como a medias,
+
+109
+00:03:58,201 --> 00:04:03,281
+PART.1: y dije, bueno, voy a postular una
+beca que da mi país que se llama
+Conicyt, no sé si conoces.
+
+110
+00:04:03,361 --> 00:04:03,841
+PART.1: No.
+
+111
+00:04:03,921 --> 00:04:06,121
+PART.1: No, es que yo la geografía la
+llevo muy mal, eh.
+
+112
+00:04:06,201 --> 00:04:07,761
+PART.2: Ah, no, Conicyt es la beca.
+
+113
+00:04:07,841 --> 00:04:08,401
+PART.1: Ah, vale.
+
+114
+00:04:08,481 --> 00:04:14,041
+PART.2: En chile, que del gobierno y luego
+Méjico tiene Conicyt, así cada,
+Latinoamérica, cada gobierno tiene
+como su beca
+
+115
+00:04:14,121 --> 00:04:16,361
+PART.2: Bueno, yo conozco eso, Colombia,
+Méjico y Chile, no sé los demás
+países.
+
+116
+00:04:17,161 --> 00:04:22,841
+PART.2: Y hay una beca muy buena, que te
+paga todo, la matrícula, los
+créditos, la manutención, entonces
+dije, venga, postulo.
+
+117
+00:04:23,001 --> 00:04:27,361
+PART.2: Y como tenía buenas notas del
+pregrado, me fue bien, me saqué la
+beca y ya me vine.
+
+118
+00:04:27,441 --> 00:04:29,721
+PART.2: Como para hacer un cambio, así 180
+grados de...
+
+119
+00:04:29,801 --> 00:04:30,481
+PART.1: Qué guay.
+
+120
+00:04:30,881 --> 00:04:31,641
+PART.1: Qué guay, vale.
+
+121
+00:04:31,801 --> 00:04:35,601
+PART.2: Ahora ya estoy terminando el
+proceso y me vuelvo a Chile porque
+tengo que volver, de hecho, no
+quiero.
+
+122
+00:04:36,841 --> 00:04:38,161
+PART.1: Se está muy bien aquí.
+
+123
+00:04:37,761 --> 00:04:38,441
+PART.2: Es la obligación.
+
+124
+00:04:38,521 --> 00:04:46,041
+PART.2: Sí, sí, bueno, quizá no vivir aquí
+en España, pero sí Europa es
+muy diferente, al menos, en lo que
+hago yo, en enseñanza.
+
+125
+00:04:43,001 --> 00:04:43,521
+PART.1: Qué guay.
+
+126
+00:04:46,521 --> 00:04:49,321
+PART.2: Las condiciones no son tampoco las
+óptimas, eh.
+
+127
+00:04:49,401 --> 00:04:49,721
+PART.1: Ya, ya.
+
+128
+00:04:49,801 --> 00:04:50,921
+PART.2: Pero son mejores.
+
+129
+00:04:51,001 --> 00:04:54,881
+PART.1: ¿La óptima no es ahí en, en
+Irlanda no, sino en Islandia o
+Finlandia, todos estos sitios?
+
+130
+00:04:54,961 --> 00:04:56,561
+PART.2: Finlandia.
+
+131
+00:04:56,841 --> 00:04:59,601
+PART.2: Que es como el sitio pro de la
+educación.
+
+132
+00:04:59,681 --> 00:05:00,321
+PART.2: Sí.
+
+133
+00:05:00,401 --> 00:05:02,601
+PART.1: Sí, aquí somos un poco...
+
+134
+00:05:02,681 --> 00:05:03,321
+PART.2: Es caca.
+
+135
+00:05:03,401 --> 00:05:05,241
+PART.2: Sí, pero bueno, son países que
+pueden hacer lo que quieran.
+
+136
+00:05:05,321 --> 00:05:06,841
+PART.2: Bueno, claro, sí, obviamente.
+
+137
+00:05:06,921 --> 00:05:09,921
+PART.1: No, pero educación aquí se tendría
+que cambiar un poco.
+
+138
+00:05:10,001 --> 00:05:13,681
+PART.2: Es muy fuerte, pero Chile como que
+le copia muchas cosas en plano de
+educación a España.
+
+139
+00:05:13,761 --> 00:05:14,521
+PART.1: Ah, ¿sí?
+
+140
+00:05:14,601 --> 00:05:17,321
+PART.2: Da risa, porque ustedes implantan
+un modelo que cambian cada dos años.
+
+141
+00:05:17,401 --> 00:05:19,081
+PART.1: Sí, sí, exacto.
+
+142
+00:05:19,161 --> 00:05:20,841
+PART.2: Ahora secundaria están...
+
+143
+00:05:20,921 --> 00:05:23,241
+PART.1: La LOGSE, o no sé qué se llama,
+sí.
+
+144
+00:05:22,921 --> 00:05:24,041
+PART.2: Y nosotros lo copiamos.
+
+145
+00:05:24,641 --> 00:05:26,041
+PART.1: Bueno, ya.
+
+146
+00:05:26,121 --> 00:05:27,601
+PART.2: Vemos que no funciona y lo
+copiamos.
+
+147
+00:05:27,681 --> 00:05:30,801
+PART.1: Bueno, es una táctica
+de educación.
+
+148
+00:05:30,881 --> 00:05:31,161
+PART.2: Por si acaso.
+
+149
+00:05:31,241 --> 00:05:32,001
+PART.1: Está bien.
+

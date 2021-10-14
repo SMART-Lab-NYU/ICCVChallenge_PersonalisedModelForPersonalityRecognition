@@ -1,0 +1,112 @@
+﻿1
+00:00:00,000 --> 00:00:00,963
+PART.1: Esta no la he hecho.
+
+2
+00:00:01,043 --> 00:00:04,843
+PART.2: Ah, mira, nos toca desde el
+principio. Así que...
+
+3
+00:00:04,923 --> 00:00:05,763
+PART.1: A ver. No veo.
+
+4
+00:00:05,843 --> 00:00:07,203
+PART.2: Ay, espera.
+
+5
+00:00:08,403 --> 00:00:10,163
+PART.1: Esta. Esta es muy larga, ¿no?
+
+6
+00:00:10,243 --> 00:00:13,763
+PART.2: Quizá demasiado, ¿no? Quizá más
+bien esta, ¿no? ¿Menos? Sí.
+
+7
+00:00:13,843 --> 00:00:14,843
+PART.1: ¿Cuántas redonditas tiene?
+
+8
+00:00:14,923 --> 00:00:16,403
+PART.2: Un, dos, tres, cuatro... Seis.
+
+9
+00:00:16,483 --> 00:00:17,483
+PART.1: Sí, pues esta.
+
+10
+00:00:17,563 --> 00:00:18,643
+PART.2: Sí, este.
+
+11
+00:00:19,003 --> 00:00:20,323
+PART.2: Y ahora dos amarillas.
+
+12
+00:00:20,403 --> 00:00:21,243
+PART.1: Esta...
+
+13
+00:00:21,323 --> 00:00:23,763
+PART.2: Una y dos. Vale.
+
+14
+00:00:23,843 --> 00:00:25,283
+PART.1: Espera, ¿cómo se ponen?
+
+15
+00:00:25,363 --> 00:00:26,963
+PART.2: Ah, es verdad.
+
+16
+00:00:27,963 --> 00:00:30,243
+PART.2: Ah, bueno. Una al lado del otro,
+¿no?
+
+17
+00:00:30,323 --> 00:00:31,323
+PART.1: Vale.
+
+18
+00:00:37,123 --> 00:00:43,883
+PART.2: Uy, qué raro esto. Ahora dos de
+azules. Pero... Ah, sí. Tipo así,
+¿no? Sí.
+
+19
+00:00:45,003 --> 00:00:48,083
+PART.1: Pero es otro tipo de azul, ¿no?
+Espera, no.
+
+20
+00:00:48,163 --> 00:00:50,323
+PART.2: Sí, es otro tipo de azul.
+
+21
+00:00:50,403 --> 00:00:51,123
+PART.1: Ah, vale.
+
+22
+00:00:51,203 --> 00:00:52,043
+PART.2: Sí, sí.
+
+23
+00:00:53,003 --> 00:00:53,723
+PART.1: Vale.
+
+24
+00:00:53,803 --> 00:00:57,443
+PART.2: Aquí el lado, ¿no? Y en el medio.
+Sí.
+
+25
+00:00:57,523 --> 00:00:58,563
+PART.1: Vale.
+
+26
+00:00:58,643 --> 00:01:01,163
+PART.2: Y ahora... Ah, no. Ya está. Ya lo
+hemos hecho.
+

@@ -1,0 +1,7 @@
+¿Tiene pelaje? 
+No tiene pelaje. 
+Sí. 
+Sí. 
+¿Tiene escamas? 
+No tiene escamas. 
+Es complicado. 

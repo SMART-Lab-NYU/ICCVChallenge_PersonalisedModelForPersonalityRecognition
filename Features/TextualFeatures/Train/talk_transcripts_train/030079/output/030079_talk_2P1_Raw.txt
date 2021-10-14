@@ -1,0 +1,11 @@
+Pues cada píxel sea de un color. 
+A lo mejor esto en una imagen sería todo esto azul, todo estorojo, todo esto naranja.
+Esto da un entendimiento de que la máquina ha podido distinguir ciertospatrones en la imagen, de lo que es...
+A lo mejor se podría decir... 
+¿Para películas? 
+Para enfermería. 
+Para películas. 
+No, no, no. 
+Sí, y también para ayudar en la medicina.
+Sí, se puede complementar con la decisión de un médico a la horade...
+Sí, no solo para la segmentación de personas, sino segmentación deobjetos o de cosas animadas en laimagen.

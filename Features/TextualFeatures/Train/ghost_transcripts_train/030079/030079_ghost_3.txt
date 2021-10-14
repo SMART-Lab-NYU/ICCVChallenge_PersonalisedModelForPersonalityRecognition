@@ -1,0 +1,35 @@
+54
+00:03:01,238 --> 00:03:02,798
+PART.1: ¿Centro sur?
+
+55
+00:03:02,878 --> 00:03:04,038
+PART.1: Eso, centro, sur...
+
+56
+00:03:04,118 --> 00:03:05,398
+PART.2: Santiago es la capital.
+
+57
+00:03:05,478 --> 00:03:15,398
+PART.2: Yo soy de Cañete, una ciudad que
+está como a dos y media de
+Concepción que es la segunda capital
+de Chile.
+
+58
+00:03:15,478 --> 00:03:19,918
+PART.2: O sea, de Santiago a ocho horas en
+bus, siete horas.
+
+59
+00:03:18,398 --> 00:03:19,918
+PART.2: ¿No tenéis tren?
+
+60
+00:03:20,438 --> 00:03:32,318
+PART.2: Hay un tren que va de Triana a
+Santiago, pero no de Concepción,
+entonces puedes moverte a Santiago
+en bus o en avión.
+

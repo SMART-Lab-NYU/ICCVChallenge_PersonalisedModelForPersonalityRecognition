@@ -1,0 +1,152 @@
+﻿1
+00:00:00,654 --> 00:00:02,237
+PART.1: A ver, ahora...
+¿Empiezas tú?
+
+2
+00:00:02,321 --> 00:00:04,321
+PART.2: ¿Empiezo yo?
+Venga, empiezo yo. Abro.
+
+3
+00:00:04,404 --> 00:00:05,862
+PART.1: Abre.
+A ver.
+
+4
+00:00:05,946 --> 00:00:08,487
+PART.2: Eh...
+el rojo y la... y la...
+
+5
+00:00:08,946 --> 00:00:10,029
+PART.1: "Y eso".
+
+6
+00:00:10,112 --> 00:00:12,654
+PART.2: Está...
+Esto representa a esto
+
+7
+00:00:12,696 --> 00:00:14,654
+PART.2: y la botella.
+Pues entonces...
+
+8
+00:00:14,737 --> 00:00:16,112
+PART.1: La botella
+y esto el sillón.
+
+9
+00:00:16,196 --> 00:00:17,362
+PART.1: Y este...
+
+10
+00:00:17,696 --> 00:00:21,196
+PART.1: Y el gris, eh...
+No hay... color.
+
+11
+00:00:22,987 --> 00:00:25,279
+PART.2: Hay dos colores,
+el rojo y el azul.
+
+12
+00:00:26,196 --> 00:00:28,529
+PART.1: El azul también está,
+el rojo también...
+
+13
+00:00:29,779 --> 00:00:31,362
+PART.2: Pues entonces,
+tendríamos que coger...
+
+14
+00:00:31,446 --> 00:00:32,404
+PART.2: No, el ratón...
+El ratón, ¿no?
+
+15
+00:00:32,487 --> 00:00:34,196
+PART.1: Ah, no, la
+botella también está.
+
+16
+00:00:35,696 --> 00:00:37,862
+PART.1: ¿El ratón?
+El ratón es el...
+
+17
+00:00:37,946 --> 00:00:38,487
+PART.2: Está ahí.
+
+18
+00:00:38,571 --> 00:00:38,987
+PART.1: Este.
+
+19
+00:00:39,071 --> 00:00:40,237
+PART.2: Ese, bueno.
+
+20
+00:00:40,821 --> 00:00:42,446
+PART.2: Bueno, vamos a hacerlo.
+
+21
+00:00:42,529 --> 00:00:43,571
+PART.2: Es igual. Ahora te toca a
+ti.
+
+22
+00:00:43,654 --> 00:00:44,112
+PART.1: A ver.
+
+23
+00:00:44,196 --> 00:00:45,362
+PART.2: Ahora te toca a ti.
+
+24
+00:00:45,446 --> 00:00:47,237
+PART.1: Pero lo vuelvo a poner...
+Entonces, la carta...
+
+25
+00:00:47,321 --> 00:00:48,446
+PART.2: Ponlo aquí todo.
+
+26
+00:00:48,529 --> 00:00:49,529
+PART.1: No, esto hay
+que volverlo a poner.
+
+27
+00:00:49,612 --> 00:00:50,987
+PART.2: Póntelo ahí,
+que tú lo has ganao.
+
+28
+00:00:51,071 --> 00:00:52,946
+PART.2: Sí, eso. EL sillón,
+el sillón.
+
+29
+00:00:51,362 --> 00:00:52,321
+PART.2: Ahora sacas esta.
+
+30
+00:00:53,237 --> 00:00:55,029
+PART.2: El sillón y el libro.
+
+31
+00:00:55,112 --> 00:00:56,987
+PART.1: El blanco y el libro.
+
+32
+00:00:57,571 --> 00:00:58,654
+PART.1: Y...
+
+33
+00:00:58,737 --> 00:00:59,987
+PART.2: Na más que podemos
+coger un objeto.
+

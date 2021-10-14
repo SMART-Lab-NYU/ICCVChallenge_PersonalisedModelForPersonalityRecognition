@@ -1,0 +1,65 @@
+11
+00:01:06,433 --> 00:01:07,233
+PART.1: ¿Estudiaste aquí?
+
+12
+00:01:07,313 --> 00:01:11,433
+PART.2: Sí. La licenciatura y el máster
+los hice aquí. El doctorado ya
+lo hice fuera.
+
+13
+00:01:13,273 --> 00:01:14,713
+PART.2: ¿Y qué hiciste aquí?
+
+14
+00:01:14,793 --> 00:01:15,513
+PART.2: Matemáticas.
+
+15
+00:01:15,593 --> 00:01:16,273
+PART.1: Matemáticas.
+
+16
+00:01:16,353 --> 00:01:26,513
+PART.2: Pero ahora me he ido tirando
+hacia más o menos lo que haces tú.
+Las redes neuronales y cosas de
+esas. El mundo entero se dirige
+hacia lo mismo.
+
+17
+00:01:26,593 --> 00:01:34,753
+PART.1: Yo tengo un compañero de clase
+que es matemático y físico, las dos.
+Primero en la autónoma y ahora está
+estudiando el máster aquí.
+
+18
+00:01:35,353 --> 00:01:40,993
+PART.1: Pero la mayoría de las personas
+que están en el máster son
+ingenieros o "Computer Science".
+
+19
+00:01:41,753 --> 00:01:42,593
+PART.2: ¿Y tú qué eres?
+
+20
+00:01:42,673 --> 00:01:54,393
+PART.1: Yo ingeniería. Aunque no se
+podría llamar ingeniería solo,
+porque yo vengo de Uruguay y en
+Uruguay la carrera de ingeniería
+lleva cinco años más la tesis, que
+es de 12.
+
+21
+00:01:56,633 --> 00:02:09,153
+PART.1: Uno puede solapar el último año
+con la tesis, pero la mayoría de la
+gente llegamos en unos seis años. Y
+como es bastante más larga, damos
+cosas de Computer Science y de
+ingeniería. De las dos.
+

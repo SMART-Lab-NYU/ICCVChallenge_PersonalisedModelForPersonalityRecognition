@@ -1,0 +1,81 @@
+68
+00:03:05,521 --> 00:03:07,121
+PART.2: ¿Soy un felino?
+
+69
+00:03:07,121 --> 00:03:07,881
+PART.1: No.
+
+70
+00:03:10,441 --> 00:03:12,961
+PART.2: Va, pues me está
+costando mucho.
+
+71
+00:03:15,921 --> 00:03:20,481
+PART.2: A ver, tengo pelo, no estoy en una
+granja, no soy omnívoro...
+
+72
+00:03:21,281 --> 00:03:23,361
+PART.2: Es que esa pregunta la he hecho muy
+mal.
+
+73
+00:03:23,361 --> 00:03:27,641
+PART.2: Tenía que haber preguntado si solo
+como hierba.
+
+74
+00:03:27,641 --> 00:03:30,401
+PART.2: No me la contestes, porque no
+quiero hacer esa pregunta.
+
+75
+00:03:30,401 --> 00:03:31,481
+PART.2: Eh...
+
+76
+00:03:32,041 --> 00:03:34,121
+PART.1: Si quieres, puedes
+cambiar esa pregunta por la...
+
+77
+00:03:34,761 --> 00:03:36,561
+PART.2: ¿Sí? ¿La puedo cambiar?
+Vale.
+
+78
+00:03:36,561 --> 00:03:37,361
+PART.1: Sí, cámbiala.
+
+79
+00:03:37,361 --> 00:03:38,601
+PART.2: ¿Entonces como hierba?
+
+80
+00:03:38,601 --> 00:03:39,521
+PART.1: No.
+
+81
+00:03:39,521 --> 00:03:42,561
+PART.2: Entonces solo como...
+Vale, solo como carne, ya está.
+
+82
+00:03:42,561 --> 00:03:44,721
+PART.2: Vale. ¿Vivo en la selva?
+
+83
+00:03:44,721 --> 00:03:45,601
+PART.1: No.
+
+84
+00:03:46,281 --> 00:03:48,161
+PART.2: ¡Joder! ¿Y...?
+
+85
+00:03:49,761 --> 00:03:56,321
+PART.2: Carnívoro, pelo, carne, no granja,
+mamífero.
+

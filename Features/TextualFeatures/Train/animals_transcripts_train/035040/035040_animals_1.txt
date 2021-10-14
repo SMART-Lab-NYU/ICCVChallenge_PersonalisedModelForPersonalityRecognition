@@ -1,0 +1,111 @@
+33
+00:01:01,768 --> 00:01:03,448
+PART.1: ¿Soy carroñero?
+
+34
+00:01:04,328 --> 00:01:04,968
+PART.2: No.
+
+35
+00:01:05,048 --> 00:01:05,528
+PART.1: No.
+
+36
+00:01:05,608 --> 00:01:07,008
+PART.1: Vale, no soy un...
+
+37
+00:01:10,808 --> 00:01:14,248
+PART.1: ¿Soy un pájaro que se suele ver
+en la costa, cerca del mar?
+
+38
+00:01:16,328 --> 00:01:16,928
+PART.2: No.
+
+39
+00:01:17,008 --> 00:01:17,368
+PART.1: No.
+
+40
+00:01:17,448 --> 00:01:17,888
+PART.2: No.
+
+41
+00:01:17,968 --> 00:01:19,088
+PART.1: Si has tenido que pensarlo, es un
+no.
+
+42
+00:01:19,168 --> 00:01:21,488
+PART.1: Me refería a que hay gaviotas que
+están siempre en el mar o así.
+
+43
+00:01:21,568 --> 00:01:22,168
+PART.1: Vale.
+
+44
+00:01:22,968 --> 00:01:24,368
+PART.1: Uf, seis ya llevo.
+
+45
+00:01:26,608 --> 00:01:29,568
+PART.1: ¿Soy marrón generalmente?
+
+46
+00:01:30,728 --> 00:01:32,248
+PART.2: Generalmente sí.
+
+47
+00:01:31,688 --> 00:01:32,888
+PART.1: Bueno, me refiero, sí.
+
+48
+00:01:33,448 --> 00:01:33,848
+PART.2: Sí.
+
+49
+00:01:33,928 --> 00:01:36,528
+PART.1: Descartamos, por ejemplo, un
+flamenco que suelen ser rosados.
+
+50
+00:01:37,688 --> 00:01:39,168
+PART.1: Soy un pájaro, tirando a
+grande...
+
+51
+00:01:39,248 --> 00:01:40,768
+PART.1: Uf. Está difícil este.
+
+52
+00:01:41,688 --> 00:01:42,088
+PART.1: ¿Sí?
+
+53
+00:01:42,168 --> 00:01:43,248
+PART.1: Me miras con...
+
+54
+00:01:48,328 --> 00:01:51,248
+PART.1: ¿Soy un pájaro que se podría ver
+en España?
+
+55
+00:01:53,008 --> 00:01:53,728
+PART.2: No sé.
+
+56
+00:01:53,808 --> 00:01:55,168
+PART.1: Vale, vale, pues cambio la
+pregunta.
+
+57
+00:01:55,248 --> 00:01:56,248
+PART.2: Sí, otra pregunta.
+
+58
+00:01:57,608 --> 00:02:00,288
+PART.1: ¿Soy un pájaro que come animales?
+

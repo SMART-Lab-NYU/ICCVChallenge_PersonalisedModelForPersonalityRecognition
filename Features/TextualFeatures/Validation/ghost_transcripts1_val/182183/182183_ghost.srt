@@ -1,0 +1,563 @@
+1
+00:00:00,183 --> 00:00:02,503
+PART.2: A ver si lo hago mejor ahora,
+porque antes...
+
+2
+00:00:03,583 --> 00:00:04,223
+PART.2: Saca tú.
+
+3
+00:00:04,983 --> 00:00:05,583
+PART.1: A ver.
+
+4
+00:00:09,023 --> 00:00:10,183
+PART.1: Ah, bueno, pero este es este.
+
+5
+00:00:10,703 --> 00:00:11,903
+PART.2: En este caso, no.
+
+6
+00:00:11,623 --> 00:00:11,983
+PART.1: ¿No?
+
+7
+00:00:12,063 --> 00:00:13,103
+PART.1: Ah, no. Es de otro color.
+
+8
+00:00:13,183 --> 00:00:15,423
+PART.2: Exacto, tienes que buscar lo que
+no coincide.
+
+9
+00:00:14,183 --> 00:00:15,263
+PART.1: Entonces ese lo perdí, ¿no?
+
+10
+00:00:15,703 --> 00:00:19,383
+PART.2: En este caso sería este, yo creo.
+
+11
+00:00:18,943 --> 00:00:19,903
+PART.1: Ah, vale. Sí.
+
+12
+00:00:19,983 --> 00:00:23,143
+PART.2: Es el único que no está
+representado ni por color ni por
+forma, ¿sabes?
+
+13
+00:00:23,503 --> 00:00:24,583
+PART.1: Ah, porque es blanco.
+
+14
+00:00:24,663 --> 00:00:25,663
+PART.1: Es gris.
+
+15
+00:00:26,143 --> 00:00:28,903
+PART.2: Ya verás, se te va a ir la olla
+un montón.
+
+16
+00:00:28,583 --> 00:00:29,143
+PART.1: Dale.
+
+17
+00:00:31,023 --> 00:00:32,063
+PART.1: Este sí es este.
+
+18
+00:00:32,223 --> 00:00:32,863
+PART.2: Para ti.
+
+19
+00:00:35,063 --> 00:00:36,463
+PART.1: Este sí es este también.
+
+20
+00:00:36,183 --> 00:00:37,983
+PART.2: Bueno, sí. Lo tienes que volver a
+poner...
+
+21
+00:00:36,943 --> 00:00:37,863
+PART.1: Ay, tengo que devolverlo,
+perdona.
+
+22
+00:00:37,943 --> 00:00:38,343
+PART.2: Sí.
+
+23
+00:00:38,423 --> 00:00:38,903
+PART.1: Era ese también, ¿no?
+
+24
+00:00:38,823 --> 00:00:39,103
+PART.2: Sí.
+
+25
+00:00:42,703 --> 00:00:44,423
+PART.1: Joder, ahora me has bloqueado
+completamente.
+
+26
+00:00:44,863 --> 00:00:45,783
+PART.2: Creo que este.
+
+27
+00:00:45,863 --> 00:00:46,623
+PART.1: Sí, es el único que...
+
+28
+00:00:46,503 --> 00:00:48,143
+PART.2: El fantasma es el que no está.
+
+29
+00:00:48,223 --> 00:00:48,823
+PART.1: Sí.
+
+30
+00:00:48,903 --> 00:00:49,303
+PART.1: Vale.
+
+31
+00:00:49,943 --> 00:00:50,663
+PART.1: Joder.
+
+32
+00:00:50,423 --> 00:00:51,623
+PART.2: Sí, sí. Ya verás.
+
+33
+00:00:52,223 --> 00:00:55,183
+PART.1: Y ahora no está representado el
+rojo, ¿no?
+
+34
+00:00:55,263 --> 00:00:55,943
+PART.2: Exacto.
+
+35
+00:00:56,023 --> 00:00:57,623
+PART.1: Ay, joder, lo quiero recoger
+siempre.
+
+36
+00:01:01,343 --> 00:01:01,863
+PART.1: No.
+
+37
+00:01:01,943 --> 00:01:02,463
+PART.2: Este.
+
+38
+00:01:02,823 --> 00:01:03,463
+PART.2: El gris.
+
+39
+00:01:03,703 --> 00:01:04,783
+PART.2: Yo todavía dudo, ¿eh?
+
+40
+00:01:05,263 --> 00:01:06,183
+PART.2: Infinitamente.
+
+41
+00:01:06,943 --> 00:01:08,543
+PART.1: Ay, no. Espera, lo barajo.
+
+42
+00:01:19,743 --> 00:01:20,703
+PART.2: Creo que es este.
+
+43
+00:01:21,423 --> 00:01:21,983
+PART.2: Sí, ¿no?
+
+44
+00:01:22,343 --> 00:01:23,303
+PART.2: No está ninguno.
+
+45
+00:01:23,143 --> 00:01:23,863
+PART.1: Bueno, sí.
+
+46
+00:01:23,943 --> 00:01:25,623
+PART.2: Ah, no. Mentira, el azul.
+
+47
+00:01:26,623 --> 00:01:28,223
+PART.2: Si está el azul o si está...
+
+48
+00:01:27,863 --> 00:01:29,663
+PART.1: Ah, es verdad. Hay que tener en
+cuenta la otra parte.
+
+49
+00:01:29,743 --> 00:01:30,103
+PART.2: Exacto.
+
+50
+00:01:30,183 --> 00:01:32,263
+PART.2: O que no esté o que esté, ¿sabes?
+
+51
+00:01:31,863 --> 00:01:33,703
+PART.1: Sí, porque estos están, pero
+cambiado el color.
+
+52
+00:01:33,783 --> 00:01:34,223
+PART.2: Sí.
+
+53
+00:01:37,263 --> 00:01:40,103
+PART.2: O sea, si está en la carta y
+encuentras el objeto que está...
+
+54
+00:01:38,863 --> 00:01:40,423
+PART.1: Esta coincide, por lo tanto...
+
+55
+00:01:41,223 --> 00:01:42,103
+PART.2: Aquí faltaría...
+
+56
+00:01:42,503 --> 00:01:43,143
+PART.1: Es este, ¿no?
+
+57
+00:01:43,223 --> 00:01:44,823
+PART.2: No. Porque está el libro.
+
+58
+00:01:44,343 --> 00:01:45,223
+PART.1: Ay, joder, está ahí.
+
+59
+00:01:45,303 --> 00:01:46,063
+PART.1: Sería este.
+
+60
+00:01:46,143 --> 00:01:47,063
+PART.2: No. Porque está el color.
+
+61
+00:01:47,663 --> 00:01:48,063
+PART.1: Espera.
+
+62
+00:01:48,143 --> 00:01:48,983
+PART.2: Creo que es este.
+
+63
+00:01:49,063 --> 00:01:49,663
+PART.1: Sí, sí.
+
+64
+00:01:50,303 --> 00:01:50,703
+PART.1: Joder.
+
+65
+00:01:51,223 --> 00:01:51,823
+PART.2: Ya verás.
+
+66
+00:01:52,503 --> 00:01:54,103
+PART.2: Hemos hecho dos partidas y madre
+mía.
+
+67
+00:01:54,183 --> 00:01:54,903
+PART.1: Bueno, da igual.
+
+68
+00:01:55,383 --> 00:01:56,103
+PART.1: ¿Y aquí?
+
+69
+00:01:56,383 --> 00:01:57,343
+PART.2: El blanco sería.
+
+70
+00:01:57,663 --> 00:01:58,783
+PART.1: No. El blanco tiene este.
+
+71
+00:01:58,863 --> 00:01:59,663
+PART.2: Por eso.
+
+72
+00:02:00,223 --> 00:02:01,583
+PART.2: Como está aquí, es el blanco.
+
+73
+00:02:01,303 --> 00:02:02,263
+PART.1: Ah, que este es el fantasma.
+
+74
+00:02:02,343 --> 00:02:03,503
+PART.1: Ah, es que no tiene nada... Vale,
+vale.
+
+75
+00:02:02,783 --> 00:02:03,223
+PART.2: Sí.
+
+76
+00:02:04,103 --> 00:02:04,943
+PART.2: Toma, para ti.
+
+77
+00:02:09,303 --> 00:02:10,303
+PART.2: Eh, este es.
+
+78
+00:02:10,863 --> 00:02:12,463
+PART.2: Rojo es el único que no está.
+
+79
+00:02:16,703 --> 00:02:18,823
+PART.1: Y aquí es este, ¿no?
+
+80
+00:02:18,903 --> 00:02:19,663
+PART.2: Exacto.
+
+81
+00:02:19,823 --> 00:02:21,103
+PART.2: ¿No ha salido antes esa?
+
+82
+00:02:21,183 --> 00:02:21,943
+PART.1: Creo que sí.
+
+83
+00:02:22,023 --> 00:02:22,823
+PART.2: Sí, ¿verdad?
+
+84
+00:02:22,903 --> 00:02:23,623
+PART.1: O distinto.
+
+85
+00:02:23,703 --> 00:02:24,583
+PART.2: Ah, bueno.
+
+86
+00:02:24,823 --> 00:02:25,663
+PART.1: Ah, era esa.
+
+87
+00:02:25,383 --> 00:02:26,023
+PART.2: Casi igual.
+
+88
+00:02:26,583 --> 00:02:27,463
+PART.2: ¿Hacemos otra?
+
+89
+00:02:28,303 --> 00:02:29,743
+PART.1: Pero nos dieron muy pocas cartas.
+
+90
+00:02:30,223 --> 00:02:30,783
+PART.2: Sí.
+
+91
+00:02:30,863 --> 00:02:32,063
+PART.2: Había muchas más.
+
+92
+00:02:32,423 --> 00:02:35,703
+PART.2: Es para hacerlo más corto, pero
+como ella va a tardar un ratillo,
+hacemos más.
+
+93
+00:02:36,023 --> 00:02:36,703
+PART.2: No pasa nada.
+
+94
+00:02:41,703 --> 00:02:43,023
+PART.1: No sé barajarlo.
+
+95
+00:02:44,543 --> 00:02:45,583
+PART.2: Bueno, da igual.
+
+96
+00:02:49,663 --> 00:02:51,183
+PART.2: Ya verás como ahora se te da
+mejor.
+
+97
+00:02:53,423 --> 00:02:54,263
+PART.2: Este.
+
+98
+00:02:54,343 --> 00:02:54,983
+PART.1: Vale.
+
+99
+00:02:57,263 --> 00:02:58,623
+PART.1: Y este era este.
+
+100
+00:02:59,343 --> 00:02:59,783
+PART.1: Joder.
+
+101
+00:02:59,863 --> 00:03:00,503
+PART.2: Ah, no.
+
+102
+00:03:00,743 --> 00:03:02,303
+PART.2: Mira, es el azul, es este.
+
+103
+00:03:02,743 --> 00:03:03,663
+PART.1: Ah, que coinciden.
+
+104
+00:03:03,503 --> 00:03:03,943
+PART.2: Sí.
+
+105
+00:03:03,783 --> 00:03:04,703
+PART.1: Es ese, cógela.
+
+106
+00:03:05,903 --> 00:03:06,783
+PART.1: Eres tú ahora.
+
+107
+00:03:08,863 --> 00:03:09,983
+PART.1: Y ahora sí es este.
+
+108
+00:03:10,223 --> 00:03:11,023
+PART.2: Creo que sí.
+
+109
+00:03:11,103 --> 00:03:11,663
+PART.2: Sí.
+
+110
+00:03:11,743 --> 00:03:12,223
+PART.1: ¿Sí?
+
+111
+00:03:11,943 --> 00:03:13,663
+PART.2: Sí, porque está el gris, está el
+blanco...
+
+112
+00:03:12,543 --> 00:03:17,063
+PART.1: Es que claro, tienes que... y no
+te da tiempo a pensar en las dos
+veces.
+
+113
+00:03:14,383 --> 00:03:15,103
+PART.2: Entiendes, ¿no?
+
+114
+00:03:16,143 --> 00:03:16,663
+PART.2: Claro.
+
+115
+00:03:18,423 --> 00:03:19,143
+PART.2: Sí, te puedes liar.
+
+116
+00:03:19,223 --> 00:03:20,143
+PART.2: Lo has hecho bien ahí.
+
+117
+00:03:22,983 --> 00:03:24,063
+PART.2: Creo que es este.
+
+118
+00:03:24,983 --> 00:03:25,343
+PART.2: Sí.
+
+119
+00:03:25,423 --> 00:03:25,903
+PART.1: Sí.
+
+120
+00:03:25,983 --> 00:03:26,743
+PART.2: No sale ninguno más.
+
+121
+00:03:29,943 --> 00:03:30,503
+PART.1: Este.
+
+122
+00:03:30,583 --> 00:03:31,223
+PART.2: El blanco, sí.
+
+123
+00:03:31,543 --> 00:03:32,383
+PART.1: Joder, qué...
+
+124
+00:03:36,903 --> 00:03:37,823
+PART.2: El blanco, sí.
+
+125
+00:03:38,383 --> 00:03:40,463
+PART.2: Porque tienes el verde,
+tienes este...
+
+126
+00:03:38,823 --> 00:03:39,423
+PART.1: Claro, claro.
+
+127
+00:03:44,543 --> 00:03:45,103
+PART.2: ¿El gris?
+
+128
+00:03:45,623 --> 00:03:46,183
+PART.2: Sí.
+
+129
+00:03:46,423 --> 00:03:47,143
+PART.1: Este es el ratón.
+
+130
+00:03:47,463 --> 00:03:48,063
+PART.2: Sí.
+
+131
+00:03:51,583 --> 00:03:52,783
+PART.2: Otra vez el ratón.
+
+132
+00:03:52,863 --> 00:03:53,183
+PART.1: Sí.
+
+133
+00:03:53,263 --> 00:03:54,183
+PART.1: El ratón de nuevo.
+
+134
+00:03:55,463 --> 00:03:56,743
+PART.2: Antes nos salía todo el rato el
+ratón.
+
+135
+00:03:56,823 --> 00:03:57,783
+PART.1: Y ahora...
+

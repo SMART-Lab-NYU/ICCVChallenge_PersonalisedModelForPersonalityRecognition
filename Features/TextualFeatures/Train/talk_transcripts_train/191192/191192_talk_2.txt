@@ -1,0 +1,141 @@
+63
+00:02:01,232 --> 00:02:04,712
+PART.1: Eso, claro, lo puedes
+tener y es un fichero de texto plano.
+
+64
+00:02:04,792 --> 00:02:07,432
+PART.1: Entonces, lo puedes tener
+como en físico
+
+65
+00:02:07,512 --> 00:02:10,752
+PART.1: y luego tú, en tu
+aplicación, lo puedes recoger
+
+66
+00:02:10,832 --> 00:02:12,352
+PART.1: y hacerlo un...
+
+67
+00:02:12,432 --> 00:02:14,272
+PART.1: Entonces, todo eso
+ya es manipulable.
+
+68
+00:02:14,352 --> 00:02:15,552
+PART.2: Está mamadísimo eso.
+
+69
+00:02:14,952 --> 00:02:16,352
+PART.1: Está bastante guay.
+
+70
+00:02:16,432 --> 00:02:17,472
+PART.2: Lo miraré.
+
+71
+00:02:17,552 --> 00:02:20,272
+PART.1: Si tienes que utilizar
+javascript o cosas de web,
+
+72
+00:02:20,352 --> 00:02:21,832
+PART.1: es lo que más se utiliza.
+
+73
+00:02:21,192 --> 00:02:22,312
+PART.2: Ah, pues mira.
+
+74
+00:02:22,392 --> 00:02:23,632
+PART.2: Ya tengo qué hacer.
+¿Ves qué bien?
+
+75
+00:02:23,032 --> 00:02:24,512
+PART.1: Mira, ¿ves? Ahí. Ya está.
+
+76
+00:02:24,592 --> 00:02:27,912
+PART.2: Ahora, entre esto
+y que estoy haciendo un juego de rol
+
+77
+00:02:27,992 --> 00:02:31,152
+PART.2: estilo Cards Against
+Humanity de los personajes del "parchiste"...
+
+78
+00:02:31,872 --> 00:02:33,752
+PART.1: Encontré la web de...
+
+79
+00:02:32,752 --> 00:02:34,112
+PART.2: Dios nos pille...
+
+80
+00:02:34,192 --> 00:02:36,432
+PART.2: Eso mola un huevazo.
+Yo jugué una online...
+
+81
+00:02:36,512 --> 00:02:40,072
+PART.2: Y lo primero que salió
+fue "penis breath", aliento de pene.
+
+82
+00:02:40,152 --> 00:02:41,472
+PART.1: ¿Eso qué?
+¿En el "parchiste"?
+
+83
+00:02:41,552 --> 00:02:43,832
+PART.2: No, en el...
+Cards Humanity
+
+84
+00:02:43,912 --> 00:02:45,432
+PART.1: ¿Te pasé el link o no?
+
+85
+00:02:44,792 --> 00:02:45,792
+PART.2: Sí.
+
+86
+00:02:45,872 --> 00:02:47,032
+PART.1: Ah, vale.
+
+87
+00:02:46,392 --> 00:02:48,792
+PART.2: Lo tengo en físico
+también, que se lo compré a un amigo mío.
+
+88
+00:02:48,872 --> 00:02:53,072
+PART.1: Ah, tío, fue a mi casa
+y no pillé el Cards Against Humanity
+ese que te dije.
+
+89
+00:02:53,152 --> 00:02:54,272
+PART.2: "No pasa nada. ¿Servidores?"
+
+90
+00:02:54,352 --> 00:02:56,752
+PART.1: Pero el que está basado
+en sistemas.
+
+91
+00:02:56,832 --> 00:02:57,832
+PART.1: O sea, en...
+
+92
+00:02:57,912 --> 00:02:58,872
+PART.2: Hay más días,
+no pasa nada.
+
+93
+00:02:58,952 --> 00:03:00,032
+PART.1: No, no, ya, ya.
+

@@ -1,0 +1,71 @@
+47
+00:02:01,240 --> 00:02:04,120
+PART.1: Sí, ¿y qué es el trabajo que estás
+haciendo?
+
+48
+00:02:04,200 --> 00:02:06,640
+PART.1: O sea, ¿el TFM?
+
+49
+00:02:06,720 --> 00:02:09,040
+PART.2:  Sí, son, a ver cómo lo...
+
+50
+00:02:10,440 --> 00:02:17,240
+PART.2:  Son preferencias en la elección de
+palabras...
+
+51
+00:02:17,320 --> 00:02:18,320
+PART.1: Sí.
+
+52
+00:02:18,400 --> 00:02:25,960
+PART.1: entre hablantes de español
+peninsular y hablantes de español en
+la variedad chilena.
+
+53
+00:02:26,040 --> 00:02:27,520
+PART.1: Ah, claro.
+
+54
+00:02:27,600 --> 00:02:38,280
+PART.2:  Porque hay muchas construcciones
+que significan lo mismo,
+pero nosotros utilizamos unas, unos
+verbos, por ejemplo, para decirlas y
+ustedes los españoles utilizan otros
+verbos diferentes.
+
+55
+00:02:38,360 --> 00:02:39,440
+PART.1: Claro.
+
+56
+00:02:39,520 --> 00:02:41,120
+PART.1: Que guay, viendo las diferencias.
+
+57
+00:02:41,200 --> 00:02:41,800
+PART.2:  Claro.
+
+58
+00:02:41,880 --> 00:02:59,280
+PART.1: Yo también he trabajado algo de
+cerca con el lenguaje,
+porque, bueno el TFM que hice yo,
+que fue también del máster de
+Inteligencia Artificial, pero acabé
+haciendo el trabajo en un
+laboratorio de neurociencia
+justo en un grupo que estudiaban en
+lenguaje.
+
+59
+00:02:59,360 --> 00:03:03,520
+PART.1: Y era de cómo aprendíamos el
+lenguaje y tal, y casi todos eran,
+lingüis...
+

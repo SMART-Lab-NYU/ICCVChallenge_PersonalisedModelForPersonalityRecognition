@@ -1,0 +1,1455 @@
+1
+00:00:00,000 --> 00:00:01,285
+PART.1: Vale. ¿Quieres empezar tú?
+
+2
+00:00:01,365 --> 00:00:03,285
+PART.2: Sí.
+
+3
+00:00:08,885 --> 00:00:09,925
+PART.2: ¿Es volador?
+
+4
+00:00:10,005 --> 00:00:10,645
+PART.1: No.
+
+5
+00:00:11,285 --> 00:00:13,205
+PART.1: Vale. ¿Es terrestre?
+
+6
+00:00:13,285 --> 00:00:14,125
+PART.2: No.
+
+7
+00:00:14,605 --> 00:00:16,765
+PART.2: No. Espera...
+
+8
+00:00:21,045 --> 00:00:22,005
+PART.2: No.
+
+9
+00:00:22,085 --> 00:00:23,165
+PART.1: Vale.
+
+10
+00:00:23,245 --> 00:00:25,205
+PART.2: Es que puede que sea los dos.
+
+11
+00:00:25,285 --> 00:00:27,965
+PART.1: Bueno,
+que sea ambiguo ya es información.
+
+12
+00:00:28,405 --> 00:00:29,845
+PART.2: Vale. Te toca a ti.
+
+13
+00:00:30,445 --> 00:00:32,685
+PART.2: Vale, ¿Es mamífero?
+
+14
+00:00:33,485 --> 00:00:35,285
+PART.1: Sí.
+
+15
+00:00:39,605 --> 00:00:41,365
+PART.1: ¿Es un reptil?
+
+16
+00:00:41,765 --> 00:00:42,565
+PART.2: No.
+
+17
+00:00:42,645 --> 00:00:43,605
+PART.1: Vale.
+
+18
+00:00:45,925 --> 00:00:47,765
+PART.1: Vas tú, sí.
+
+19
+00:00:51,765 --> 00:00:53,445
+PART.2: ¿Es salvaje?
+
+20
+00:00:56,325 --> 00:00:58,965
+PART.1: Quieres decir si existe
+su versión doméstica.
+
+21
+00:00:59,045 --> 00:01:02,085
+PART.1: ¿Si se tiene de mascota
+quieres decir?
+
+22
+00:01:02,165 --> 00:01:04,085
+PART.1: ¿Qué entiendes por
+salvaje?
+
+23
+00:01:04,165 --> 00:01:06,445
+PART.2: No sé. Sigue hablando.
+
+24
+00:01:06,885 --> 00:01:08,725
+PART.2: Si es salvaje, tío.
+
+25
+00:01:09,205 --> 00:01:11,365
+PART.2: El león es un animal
+salvaje.
+
+26
+00:01:11,445 --> 00:01:13,085
+PART.2: Si lo tienes en casa...
+
+27
+00:01:13,165 --> 00:01:16,005
+PART.1: También... Te diría que no.
+
+28
+00:01:16,685 --> 00:01:19,165
+PART.1: Obviamente,
+existen en la naturaleza solos,
+
+29
+00:01:19,245 --> 00:01:21,525
+PART.1: pero no los consideraría
+salvajes.
+
+30
+00:01:21,605 --> 00:01:23,365
+PART.2: No, salvaje... Vale.
+
+31
+00:01:23,445 --> 00:01:26,365
+PART.1: Si entendemos salvaje como león.
+
+32
+00:01:29,445 --> 00:01:31,325
+PART.2: No me lo has dicho.
+
+33
+00:01:31,405 --> 00:01:32,245
+PART.1: No.
+
+34
+00:01:32,965 --> 00:01:34,605
+PART.1: Eh...
+
+35
+00:01:36,605 --> 00:01:38,165
+PART.1: Lo de acuático me has
+dicho...
+
+36
+00:01:38,245 --> 00:01:40,485
+PART.1: Si es terrestre ha
+quedado ambiguo.
+
+37
+00:01:41,045 --> 00:01:43,285
+PART.1: No es un reptil. ¿Tiene
+pelo?
+
+38
+00:01:43,605 --> 00:01:44,365
+PART.2: No.
+
+39
+00:01:44,445 --> 00:01:45,325
+PART.1: Vale.
+
+40
+00:01:45,405 --> 00:01:46,885
+PART.1: Entonces tiene plumas,
+supongo.
+
+41
+00:01:46,965 --> 00:01:48,605
+PART.1: Bueno. Te toca.
+
+42
+00:01:49,445 --> 00:01:51,125
+PART.2: Vale.
+
+43
+00:01:51,925 --> 00:01:54,045
+PART.2: Si es mamífero...
+
+44
+00:02:04,845 --> 00:02:06,405
+PART.2: Eh...
+
+45
+00:02:06,485 --> 00:02:08,125
+PART.2: ¿Se usa...?
+
+46
+00:02:08,645 --> 00:02:12,685
+PART.2: ¿El ser humano
+lo suele coger de mascota?
+
+47
+00:02:13,405 --> 00:02:14,325
+PART.2: ¿Sí o no?
+
+48
+00:02:14,405 --> 00:02:15,005
+PART.1: Sí.
+
+49
+00:02:15,565 --> 00:02:18,805
+PART.1: A ver. No es algo muy
+común, pero sí.
+
+50
+00:02:20,805 --> 00:02:22,485
+PART.1: Vale. Me toca a mí.
+
+51
+00:02:23,405 --> 00:02:25,045
+PART.1: Eh...
+
+52
+00:02:26,285 --> 00:02:27,885
+PART.1: Hemos dicho...
+
+53
+00:02:30,605 --> 00:02:32,085
+PART.1: ¿Es...
+
+54
+00:02:33,645 --> 00:02:37,125
+PART.1: más grande que un
+labrador?
+
+55
+00:02:39,445 --> 00:02:40,205
+PART.2: No.
+
+56
+00:02:40,285 --> 00:02:41,125
+PART.1: Vale.
+
+57
+00:02:41,965 --> 00:02:43,565
+PART.1: Esta es la cuarta.
+
+58
+00:02:43,645 --> 00:02:44,845
+PART.2: Sigue contando.
+
+59
+00:02:45,965 --> 00:02:48,645
+PART.2: Vale. Me has dicho
+que es mamífero...
+
+60
+00:02:49,525 --> 00:02:51,005
+PART.2: Que puede ser doméstico.
+
+61
+00:02:54,605 --> 00:02:56,285
+PART.2: Que...
+
+62
+00:02:59,205 --> 00:03:01,565
+PART.2: Puede ser doméstico.
+No lo has dicho seguro.
+
+63
+00:03:02,205 --> 00:03:04,045
+PART.2: Que no es usual.
+
+64
+00:03:10,165 --> 00:03:12,125
+PART.2: ¿Qué preguntaría?
+
+65
+00:03:25,365 --> 00:03:26,845
+PART.2: Eh...
+
+66
+00:03:29,805 --> 00:03:31,325
+PART.2: ¿Es carnívoro?
+
+67
+00:03:32,445 --> 00:03:34,885
+PART.1: Uf... Buena pregunta.
+
+68
+00:03:37,565 --> 00:03:38,765
+PART.1: La verdad que no lo sé.
+
+69
+00:03:38,845 --> 00:03:41,405
+PART.1: Podría mirarlo en el
+móvil, pero no sé si cuenta.
+
+70
+00:03:42,685 --> 00:03:44,165
+PART.1: ¿Es carnívoro?
+
+71
+00:03:45,605 --> 00:03:47,285
+PART.2: Carnívoro...
+
+72
+00:03:47,445 --> 00:03:50,805
+PART.1: Yo creo que carnívoro
+puede ser que no.
+
+73
+00:03:51,205 --> 00:03:52,045
+PART.2: ¿Que no?
+
+74
+00:03:52,125 --> 00:03:53,525
+PART.1: O sea, que igual...
+
+75
+00:03:54,285 --> 00:03:55,845
+PART.1: No digo que no coma
+carne.
+
+76
+00:03:56,645 --> 00:03:59,245
+PART.1: Pero creo que no es
+carnívoro. No lo sé en verdad.
+
+77
+00:04:01,445 --> 00:04:03,165
+PART.1: Tengo dudas, tengo dudas.
+
+78
+00:04:03,725 --> 00:04:05,005
+PART.2: Es un mamífero...
+
+79
+00:04:05,085 --> 00:04:06,565
+PART.1: Lo busco rápidamente.
+
+80
+00:04:07,085 --> 00:04:09,485
+PART.1: Diría que... Bueno, da
+igual. Se queda en el aire.
+
+81
+00:04:09,565 --> 00:04:12,285
+PART.1: A lo mejor hay algo que
+no sabes y me quedo con las ganas.
+
+82
+00:04:13,285 --> 00:04:14,685
+PART.1: Eh...
+
+83
+00:04:14,765 --> 00:04:17,285
+PART.1: Al menos sabes que no es
+algo que todo el mundo sabe.
+
+84
+00:04:17,565 --> 00:04:20,685
+PART.1: Por ejemplo, sé que el
+león es carnívoro, te hubiera dicho que sí.
+
+85
+00:04:22,125 --> 00:04:24,365
+PART.1: Ah... Esta era la quinta,
+vale.
+
+86
+00:04:29,005 --> 00:04:30,445
+PART.1: ¿Come carne?
+
+87
+00:04:30,925 --> 00:04:32,765
+PART.2: Pues sí.
+
+88
+00:04:32,845 --> 00:04:34,445
+PART.1: Vale.
+
+89
+00:04:34,525 --> 00:04:35,325
+PART.2: Sí, sí.
+
+90
+00:04:35,405 --> 00:04:36,125
+PART.1: Vale.
+
+91
+00:04:36,605 --> 00:04:37,365
+PART.2: Vale.
+
+92
+00:04:37,445 --> 00:04:38,965
+PART.1: Me he quedado igual.
+
+93
+00:04:41,005 --> 00:04:43,285
+PART.2: Vale. ¿Tiene pelaje?
+
+94
+00:04:43,365 --> 00:04:44,365
+PART.1: No.
+
+95
+00:04:45,765 --> 00:04:48,325
+PART.2: No. Me refería...
+
+96
+00:04:48,565 --> 00:04:50,725
+PART.1: Bueno, a ver... Si
+pero...
+
+97
+00:04:50,805 --> 00:04:52,925
+PART.2: Pelaje me refiero a pelo.
+
+98
+00:04:54,405 --> 00:04:56,685
+PART.1: O sea, sí que tiene pelo, pero...
+
+99
+00:04:56,765 --> 00:04:58,685
+PART.2: En el sentido de que... Espera.
+
+100
+00:04:58,765 --> 00:05:01,085
+PART.2: O es plumaje o pelaje.
+
+101
+00:05:01,165 --> 00:05:02,885
+PART.2: Las dos cosas, creo.
+
+102
+00:05:03,645 --> 00:05:05,965
+PART.1: Hay más cosas,
+pero eso me da una pista
+
+103
+00:05:06,045 --> 00:05:07,845
+PART.1: de lo que tengo yo en la
+cabeza.
+
+104
+00:05:08,485 --> 00:05:10,685
+PART.1: Pero no es ni pluma ni...
+
+105
+00:05:10,765 --> 00:05:12,645
+PART.1: A ver, sí que tiene pelo,
+pero...
+
+106
+00:05:12,725 --> 00:05:14,205
+PART.1: Si tú lo ves no dirías...
+
+107
+00:05:15,285 --> 00:05:17,765
+PART.1: O sea... Bueno,
+estoy dando demasiada información.
+
+108
+00:05:17,845 --> 00:05:19,365
+PART.1: Sí tienen pelo.
+
+109
+00:05:19,445 --> 00:05:21,725
+PART.1: Pero no es... No es como
+un oso
+
+110
+00:05:21,805 --> 00:05:23,125
+PART.1: que es todo pelo.
+
+111
+00:05:27,445 --> 00:05:29,405
+PART.1: Hemos dicho que es un
+pájaro, ¿no?
+
+112
+00:05:29,605 --> 00:05:31,525
+PART.2: Yo no he dicho nada.
+
+113
+00:05:32,085 --> 00:05:34,605
+PART.2: Yo he preguntado las dos
+opciones que yo pensaba.
+
+114
+00:05:35,205 --> 00:05:38,045
+PART.1: Cuando he dicho
+si era más grande que un labrador
+
+115
+00:05:38,125 --> 00:05:39,765
+PART.1: me has dicho que no,
+¿verdad?
+
+116
+00:05:40,805 --> 00:05:42,485
+PART.1: Vale. Has dicho que come
+carne.
+
+117
+00:05:52,685 --> 00:05:54,325
+PART.1: ¿Pesca?
+
+118
+00:05:55,165 --> 00:05:56,005
+PART.2: Sí.
+
+119
+00:05:56,085 --> 00:05:57,045
+PART.1: Vale.
+
+120
+00:05:57,325 --> 00:05:59,605
+PART.1: Esta era la sexta. Vale,
+sí.
+
+121
+00:06:00,125 --> 00:06:01,365
+PART.1: ¿Sí?
+
+122
+00:06:01,445 --> 00:06:03,365
+PART.2: ¿Es la sexta ahora?
+
+123
+00:06:03,445 --> 00:06:04,565
+PART.1: Exacto.
+
+124
+00:06:04,645 --> 00:06:06,245
+PART.2: Eh...
+
+125
+00:06:10,565 --> 00:06:11,925
+PART.2: Es que claro...
+
+126
+00:06:12,005 --> 00:06:14,085
+PART.2: Que no tiene pelaje...
+
+127
+00:06:14,485 --> 00:06:16,245
+PART.2: Que sí, pero...
+
+128
+00:06:18,725 --> 00:06:20,245
+PART.1: Es confuso eso.
+
+129
+00:06:20,445 --> 00:06:22,285
+PART.1: Sí que tienen pelo, pero
+no sé.
+
+130
+00:06:23,045 --> 00:06:24,565
+PART.1: No te voy a liar más.
+
+131
+00:06:27,805 --> 00:06:30,485
+PART.2: ¿Y que puede ser
+doméstico y no tiene pelaje?
+
+132
+00:06:30,685 --> 00:06:32,045
+PART.2: Es que es muy raro.
+
+133
+00:06:33,445 --> 00:06:35,525
+PART.1: Igual sí que es pelaje, pero...
+
+134
+00:06:35,965 --> 00:06:38,925
+PART.1: No es lo que tú pensarías
+si te digo que tiene pelaje.
+
+135
+00:06:42,005 --> 00:06:45,645
+PART.2: ¿Tiene... garras?
+
+136
+00:06:48,605 --> 00:06:50,805
+PART.2: Entre garras o...
+
+137
+00:06:50,885 --> 00:06:52,525
+PART.2: o pezuñas.
+
+138
+00:06:53,165 --> 00:06:55,005
+PART.1: Sería más garra. Pezuña no.
+
+139
+00:06:56,045 --> 00:06:57,925
+PART.1: Claro, lo de la garra...
+
+140
+00:06:58,005 --> 00:06:59,685
+PART.1: ¿Qué consideras una
+garra?
+
+141
+00:06:59,765 --> 00:07:01,605
+PART.2: Que te araña.
+
+142
+00:07:01,685 --> 00:07:02,605
+PART.2: Como un gato.
+
+143
+00:07:02,685 --> 00:07:04,045
+PART.1: Yo creo que tal vez sí.
+
+144
+00:07:04,845 --> 00:07:06,765
+PART.1: Creo que sí.
+
+145
+00:07:06,845 --> 00:07:09,365
+PART.1: Es un animal
+que no sé todos los detalles.
+
+146
+00:07:09,965 --> 00:07:12,125
+PART.1: Diría que en ese sentido
+sí.
+
+147
+00:07:13,445 --> 00:07:15,005
+PART.1: No son como las de un
+gato.
+
+148
+00:07:15,085 --> 00:07:16,845
+PART.1: Si entendemos
+que un gato es garra...
+
+149
+00:07:16,925 --> 00:07:19,525
+PART.1: Pezuña no es.
+Es más bien garra, sí.
+
+150
+00:07:20,045 --> 00:07:21,725
+PART.1: Supongo.
+
+151
+00:07:22,325 --> 00:07:23,845
+PART.1: Vale, esta sería la
+séptima.
+
+152
+00:07:23,925 --> 00:07:26,245
+PART.1: Te estoy dando
+respuestas muy ambiguas.
+
+153
+00:07:26,925 --> 00:07:28,325
+PART.1: Eh...
+
+154
+00:07:39,325 --> 00:07:40,885
+PART.1: ¿Es de color blanco?
+
+155
+00:07:44,325 --> 00:07:46,645
+PART.2: Depende. Es que...
+
+156
+00:07:47,045 --> 00:07:49,485
+PART.1: Puede presentarse
+en varios colores, ¿no?
+
+157
+00:07:50,405 --> 00:07:52,605
+PART.1: Que puede ser blanco o
+puede ser...
+
+158
+00:07:53,245 --> 00:07:55,405
+PART.1: O al menos uno de esos
+colores. Blanco...
+
+159
+00:07:58,205 --> 00:08:00,165
+PART.2: Es que depende de la especie.
+
+160
+00:08:01,725 --> 00:08:03,165
+PART.1: Vale.
+
+161
+00:08:03,685 --> 00:08:05,965
+PART.2: Vale. Esta sería la
+séptima.
+
+162
+00:08:07,725 --> 00:08:09,325
+PART.2: No.
+
+163
+00:08:19,325 --> 00:08:20,685
+PART.2: Bueno, sí...
+
+164
+00:08:20,765 --> 00:08:21,605
+PART.1: ¿Sí?
+
+165
+00:08:23,245 --> 00:08:26,125
+PART.1: Puedo descartar
+las que son puramente blancas.
+
+166
+00:08:27,085 --> 00:08:28,725
+PART.1: Puede ser blanco
+generalmente, sí.
+
+167
+00:08:28,805 --> 00:08:31,605
+PART.1: Vale, vale.
+Siguiente pregunta.
+
+168
+00:08:31,805 --> 00:08:33,485
+PART.1: Es jodido, ¿eh? Parece
+que no...
+
+169
+00:08:33,925 --> 00:08:35,405
+PART.1: Algunas preguntas son
+jodidas.
+
+170
+00:08:35,485 --> 00:08:36,405
+PART.2: ¿Qué más?
+
+171
+00:08:36,485 --> 00:08:37,925
+PART.1: Ahora ibas tú, ¿no?
+
+172
+00:08:38,085 --> 00:08:39,645
+PART.2: Sí.
+
+173
+00:08:45,645 --> 00:08:48,605
+PART.2: Me has dicho
+que puede ser doméstico, pero no...
+
+174
+00:08:49,325 --> 00:08:50,445
+PART.2: Es que claro...
+
+175
+00:08:50,525 --> 00:08:53,525
+PART.1: Puede ser doméstico,
+pero no es algo muy extendido.
+
+176
+00:08:54,205 --> 00:08:55,765
+PART.1: Pero sí.
+
+177
+00:08:56,525 --> 00:08:59,365
+PART.1: Sin problema.
+Hay gente que lo tiene seguro.
+
+178
+00:09:01,965 --> 00:09:03,605
+PART.1: Que tiene la gente ahora.
+
+179
+00:09:11,325 --> 00:09:12,925
+PART.1: ¿Me has dicho que es
+mamífero?
+
+180
+00:09:13,005 --> 00:09:13,605
+PART.1: Sí.
+
+181
+00:09:15,285 --> 00:09:17,365
+PART.1: Así que no puede ser
+serpiente ni nada.
+
+182
+00:09:19,605 --> 00:09:21,245
+PART.1: Bueno, espera.
+
+183
+00:09:22,405 --> 00:09:24,165
+PART.1: No.
+
+184
+00:09:25,645 --> 00:09:27,605
+PART.1: Y...
+
+185
+00:09:31,405 --> 00:09:33,645
+PART.1: ¿Hace algún tipo
+de sonido característico?
+
+186
+00:09:37,845 --> 00:09:40,365
+PART.1: Por ejemplo: el perro
+ladra, el gato maúlla...
+
+187
+00:09:41,325 --> 00:09:44,045
+PART.1: No sé si hay una palabra
+que defina ese sonido.
+
+188
+00:09:44,125 --> 00:09:45,725
+PART.2: No, pero...
+
+189
+00:09:45,805 --> 00:09:48,285
+PART.1: Seguro
+que algún sonido hace, pero...
+
+190
+00:09:48,365 --> 00:09:50,765
+PART.2: Característico, me refiero a que
+
+191
+00:09:50,845 --> 00:09:53,125
+PART.2: cuando lo escuchas dices:
+"Ese es tal animal".
+
+192
+00:09:53,205 --> 00:09:53,965
+PART.1: No.
+
+193
+00:09:54,045 --> 00:09:55,245
+PART.2: Joder, tío.
+
+194
+00:09:56,165 --> 00:09:58,205
+PART.1: Vale. Ahora me toca a mí.
+
+195
+00:09:58,765 --> 00:10:00,245
+PART.1: Eh...
+
+196
+00:10:10,765 --> 00:10:12,685
+PART.1: ¿Encontraría este animal
+en un zoo?
+
+197
+00:10:12,765 --> 00:10:15,325
+PART.1: ¿Como parte del zoo,
+no que vaya volando por arriba?
+
+198
+00:10:15,405 --> 00:10:17,045
+PART.1: Sino como parte del zoo.
+
+199
+00:10:17,765 --> 00:10:19,445
+PART.2: ¿En un zoo?
+
+200
+00:10:21,405 --> 00:10:23,485
+PART.2: Sí, puede ser.
+
+201
+00:10:23,565 --> 00:10:24,365
+PART.1: Vale.
+
+202
+00:10:24,445 --> 00:10:25,725
+PART.2: Sí, puede ser.
+
+203
+00:10:26,165 --> 00:10:27,885
+PART.2: Creo que me quedo igual,
+pero bueno.
+
+204
+00:10:28,365 --> 00:10:30,125
+PART.2: Vale, vas tú.
+
+205
+00:10:31,965 --> 00:10:34,325
+PART.2: ¿Me encontraría
+este animal en un zoo?
+
+206
+00:10:35,245 --> 00:10:37,405
+PART.1: Sí, supongo.
+
+207
+00:10:37,805 --> 00:10:38,885
+PART.2: ¿Supones?
+
+208
+00:10:38,965 --> 00:10:40,805
+PART.1: Sí, estaría en un zoo.
+
+209
+00:10:40,885 --> 00:10:43,085
+PART.1: Tiene que haber una
+sección para eso seguro.
+
+210
+00:10:43,165 --> 00:10:45,925
+PART.1: Pero cuando voy al zoo,
+veo los leones y tigres.
+
+211
+00:10:46,365 --> 00:10:49,325
+PART.1: Pero por fuerza tiene que
+estar eso.
+
+212
+00:10:50,485 --> 00:10:52,005
+PART.1: Vale, esta es la nueve.
+
+213
+00:10:52,085 --> 00:10:54,485
+PART.1: Ahora me toca a mí.
+
+214
+00:10:59,925 --> 00:11:01,765
+PART.1: ¿Tiene algún sonido
+característico?
+
+215
+00:11:10,005 --> 00:11:11,765
+PART.2: Hombre... Si...
+
+216
+00:11:12,405 --> 00:11:15,045
+PART.2: Si lo hace creo que se...
+
+217
+00:11:15,445 --> 00:11:16,245
+PART.1: Vale.
+
+218
+00:11:16,325 --> 00:11:17,925
+PART.2: Sabría qué animal es.
+
+219
+00:11:18,485 --> 00:11:20,045
+PART.1: Vale.
+
+220
+00:11:20,565 --> 00:11:22,405
+PART.1: Te falta la última
+pregunta.
+
+221
+00:11:22,805 --> 00:11:23,845
+PART.2: La última...
+
+222
+00:11:23,925 --> 00:11:25,445
+PART.1: Y después la adivinas.
+
+223
+00:11:27,485 --> 00:11:29,485
+PART.2: Es que no tengo ni...
+
+224
+00:11:30,485 --> 00:11:32,085
+PART.2: Vale.
+
+225
+00:11:36,365 --> 00:11:37,965
+PART.2: No hace sonidos de
+estos...
+
+226
+00:11:38,045 --> 00:11:40,685
+PART.2: No puede estar en el
+zoológico, pero puede ser doméstico.
+
+227
+00:11:40,765 --> 00:11:42,725
+PART.1: Creo que en el zoo puede estar.
+
+228
+00:11:42,805 --> 00:11:44,845
+PART.2: Pero también puede ser doméstico.
+
+229
+00:11:44,925 --> 00:11:47,685
+PART.1: Sí. Yo creo
+que en el zoo lo encontrarías.
+
+230
+00:11:48,285 --> 00:11:49,565
+PART.1: Vamos, digo yo.
+
+231
+00:11:49,645 --> 00:11:51,485
+PART.1: No tengo recuerdo
+de verlo en el zoo,
+
+232
+00:11:51,565 --> 00:11:54,285
+PART.1: pero yo diría que tiene
+que estar por algún lado.
+
+233
+00:11:56,245 --> 00:11:57,805
+PART.2: Vale.
+
+234
+00:11:57,885 --> 00:11:59,365
+PART.2: Y...
+
+235
+00:12:00,965 --> 00:12:03,885
+PART.2: ¿Es un animal que se
+caracteriza por ser inteligente?
+
+236
+00:12:05,245 --> 00:12:06,765
+PART.1: No.
+
+237
+00:12:07,445 --> 00:12:08,845
+PART.1: Más bien no.
+
+238
+00:12:08,925 --> 00:12:10,685
+PART.1: Igual lo es, pero no...
+
+239
+00:12:11,565 --> 00:12:13,885
+PART.1: No especialmente supongo.
+
+240
+00:12:13,965 --> 00:12:16,245
+PART.1: La gente no lo relaciona
+con la inteligencia.
+
+241
+00:12:16,645 --> 00:12:19,045
+PART.1: Vale. Falta la última
+pregunta.
+
+242
+00:12:22,805 --> 00:12:24,325
+PART.1: Eh...
+
+243
+00:12:24,405 --> 00:12:26,845
+PART.1: Lo del zoo me habías
+contestado, ¿no?
+
+244
+00:12:26,925 --> 00:12:29,205
+PART.2: Puede ser que sí,
+perfectamente.
+
+245
+00:12:33,325 --> 00:12:34,925
+PART.1: ¿Puede volar?
+
+246
+00:12:36,205 --> 00:12:37,525
+PART.2: Sí.
+
+247
+00:12:37,605 --> 00:12:40,885
+PART.1: ¿Volar volar? No planear
+ni estar unos segundos en el aire.
+
+248
+00:12:40,965 --> 00:12:42,525
+PART.2: Ahí entra la cultura.
+
+249
+00:12:42,605 --> 00:12:44,645
+PART.2: No sé...
+
+250
+00:12:49,805 --> 00:12:51,925
+PART.2: Creo que planea, no sé.
+
+251
+00:12:52,005 --> 00:12:53,005
+PART.2: Creo que planea.
+
+252
+00:12:53,085 --> 00:12:54,085
+PART.1: No vuela como...
+
+253
+00:12:54,165 --> 00:12:56,245
+PART.2: No estoy seguro,
+creo que planea.
+
+254
+00:12:56,325 --> 00:12:58,445
+PART.2: Pero no estoy seguro.
+Podía estar mintiendo.
+
+255
+00:12:58,525 --> 00:13:01,125
+PART.1: Igual yo también
+me he equivocado en alguna.
+
+256
+00:13:01,205 --> 00:13:02,485
+PART.1: Vale, hemos hecho diez.
+
+257
+00:13:02,565 --> 00:13:03,725
+PART.2: Me toca a mí decir.
+
+258
+00:13:03,805 --> 00:13:04,445
+PART.1: Sí.
+
+259
+00:13:04,525 --> 00:13:05,565
+PART.2: Pues no sé.
+
+260
+00:13:05,645 --> 00:13:07,365
+PART.2: Eh...
+
+261
+00:13:14,205 --> 00:13:16,005
+PART.2: Dímelo tú primero.
+
+262
+00:13:16,085 --> 00:13:17,125
+PART.1: ¿Yo el mío?
+
+263
+00:13:17,205 --> 00:13:17,845
+PART.2: Sí.
+
+264
+00:13:19,085 --> 00:13:21,885
+PART.1: A ver, creo que es un pájaro...
+
+265
+00:13:24,165 --> 00:13:25,685
+PART.1: O un tipo de ave.
+
+266
+00:13:26,645 --> 00:13:29,485
+PART.1: Por la última pregunta,
+me he descolocado un poco.
+
+267
+00:13:30,005 --> 00:13:32,045
+PART.1: Y creo que elimina
+todas las posibilidades
+
+268
+00:13:32,125 --> 00:13:34,525
+PART.1: excepto, tal vez,
+gallo...
+
+269
+00:13:35,165 --> 00:13:36,445
+PART.1: o flamenco.
+
+270
+00:13:36,525 --> 00:13:39,045
+PART.1: Pero me has dicho
+que es más pequeño que un labrador.
+
+271
+00:13:39,125 --> 00:13:41,925
+PART.1: Por lo tanto, me queda el
+gallo, el pavo real o algo así.
+
+272
+00:13:42,005 --> 00:13:44,765
+PART.2: Es que no sé seguro si vuela.
+
+273
+00:13:45,845 --> 00:13:47,245
+PART.2: O sea...
+
+274
+00:13:51,405 --> 00:13:53,485
+PART.2: Yo creo que igual sí
+vuela.
+
+275
+00:13:54,245 --> 00:13:56,925
+PART.1: Pájaros que no vueles,
+que yo sepa:
+
+276
+00:13:57,005 --> 00:13:59,685
+PART.1: avestruz, pingüino,
+gallina y gallo.
+
+277
+00:13:59,765 --> 00:14:01,405
+PART.1: Y pavo real que tampoco
+vuela.
+
+278
+00:14:01,485 --> 00:14:02,965
+PART.1: Ni el kiwi.
+
+279
+00:14:03,725 --> 00:14:05,125
+PART.1: Hay un puñado que no
+vuelan.
+
+280
+00:14:05,205 --> 00:14:07,405
+PART.1: ¿Gaviota?
+
+281
+00:14:07,565 --> 00:14:08,965
+PART.1: La gaviota vuela seguro.
+
+282
+00:14:09,045 --> 00:14:10,165
+PART.2: Sí, que vuela, sí.
+
+283
+00:14:10,245 --> 00:14:11,885
+PART.1: Sí que vuela.
+
+284
+00:14:11,965 --> 00:14:13,565
+PART.2: Sí que vuela.
+
+285
+00:14:15,565 --> 00:14:16,885
+PART.1: ¿Un cisne?
+
+286
+00:14:16,965 --> 00:14:17,845
+PART.2: No.
+
+287
+00:14:19,925 --> 00:14:21,365
+PART.2: Era un pelícano.
+
+288
+00:14:21,765 --> 00:14:23,205
+PART.2: Pero ¿el pelícano vuela o
+no?
+
+289
+00:14:23,285 --> 00:14:24,485
+PART.1: Diría que sí.
+
+290
+00:14:24,565 --> 00:14:27,445
+PART.1: Durante un segundo me ha
+parecido que lo ibas a decir.
+
+291
+00:14:29,085 --> 00:14:31,525
+PART.2: Yo dije ese.
+Se va guardar la respuesta.
+
+292
+00:14:33,365 --> 00:14:35,605
+PART.1: Sí que era jodido.
+No sé si vuelan.
+
+293
+00:14:35,685 --> 00:14:36,885
+PART.1: Sí, sí que vuelan.
+
+294
+00:14:36,965 --> 00:14:38,045
+PART.2: El mío sería...
+
+295
+00:14:38,605 --> 00:14:40,245
+PART.2: Es que no sé, tío.
+
+296
+00:14:40,805 --> 00:14:41,565
+PART.2: ¿Cuál era?
+
+297
+00:14:41,645 --> 00:14:42,405
+PART.1: El erizo.
+
+298
+00:14:42,485 --> 00:14:43,325
+PART.2: ¡Joder!
+
+299
+00:14:43,405 --> 00:14:44,925
+PART.1: Claro, sí tiene pelo.
+
+300
+00:14:45,965 --> 00:14:48,845
+PART.1: A lo mejor es un pelo
+supergordo, no sé exactamente qué es.
+
+301
+00:14:49,245 --> 00:14:50,765
+PART.1: Era complicado lo del
+pelo.
+
+302
+00:14:50,845 --> 00:14:52,525
+PART.2: Cuando sea ave,
+
+303
+00:14:52,605 --> 00:14:54,925
+PART.2: es bueno preguntar
+de qué tamaño tiene el pico.
+
+304
+00:14:55,005 --> 00:14:56,445
+PART.2: ¿Tiene el pico muy
+grande?
+
+305
+00:14:56,525 --> 00:14:57,085
+PART.1: Sí.
+
+306
+00:14:57,165 --> 00:14:58,925
+PART.1: Te he preguntado el
+tamaño
+
+307
+00:14:59,005 --> 00:15:01,445
+PART.1: por descartar ciertos
+tipos de aves.
+
+308
+00:15:01,525 --> 00:15:03,125
+PART.1: Pelícano, sí.
+
+309
+00:15:03,205 --> 00:15:05,445
+PART.1: La especie la sabía.
+
+310
+00:15:05,525 --> 00:15:07,205
+PART.1: Y el pico es muy
+característico.
+
+311
+00:15:07,285 --> 00:15:09,805
+PART.2: Por el color
+lo confundí con el flamenco.
+
+312
+00:15:09,885 --> 00:15:12,205
+PART.1: Ah, claro, porque es rosa.
+
+313
+00:15:13,445 --> 00:15:15,045
+PART.2: Por eso te dije que no.
+
+314
+00:15:15,125 --> 00:15:17,605
+PART.1: Yo te he dado
+respuestas que no sabía.
+
+315
+00:15:17,685 --> 00:15:19,405
+PART.1: En el zoo yo creo que
+está el erizo.
+
+316
+00:15:19,485 --> 00:15:21,405
+PART.1: Nunca he ido a verlo al
+zoo.
+
+317
+00:15:21,485 --> 00:15:22,965
+PART.1: Al erizo.
+
+318
+00:15:23,525 --> 00:15:26,245
+PART.1: Pero hay gente
+que lo tiene doméstico.
+
+319
+00:15:26,725 --> 00:15:29,845
+PART.1: En España es legal tener
+un erizo.
+
+320
+00:15:30,245 --> 00:15:31,925
+PART.2: Hay gente que lo tiene.
+
+321
+00:15:32,005 --> 00:15:32,645
+PART.1: Sí.
+
+322
+00:15:33,125 --> 00:15:34,165
+PART.1: Hay gente que lo tiene.
+
+323
+00:15:34,245 --> 00:15:35,445
+PART.2: ¿Cómo lo tocas?
+
+324
+00:15:35,525 --> 00:15:36,885
+PART.2: ¿Cómo lo tocas?
+
+325
+00:15:36,965 --> 00:15:39,245
+PART.1: Supongo
+que lo tienes en una jaula.
+
+326
+00:15:39,325 --> 00:15:41,205
+PART.2: La gente tiene tarántulas
+de mascota.
+
+327
+00:15:42,965 --> 00:15:45,165
+PART.2: ¿Qué animal puede no ser
+doméstico?
+
+328
+00:15:45,245 --> 00:15:48,605
+PART.2: Por doméstico entendemos
+que está con el humano todo el rato.
+
+329
+00:15:49,325 --> 00:15:51,045
+PART.2: Doméstico es...
+
+330
+00:15:51,845 --> 00:15:54,525
+PART.1: Yo no consideraría
+una tarántula doméstica.
+
+331
+00:15:54,605 --> 00:15:56,085
+PART.1: Pero se tienen de
+mascota.
+
+332
+00:15:56,165 --> 00:15:57,565
+PART.2: Que no ataca al humano.
+
+333
+00:15:57,805 --> 00:15:59,685
+PART.1: Bueno, salvaje no es.
+

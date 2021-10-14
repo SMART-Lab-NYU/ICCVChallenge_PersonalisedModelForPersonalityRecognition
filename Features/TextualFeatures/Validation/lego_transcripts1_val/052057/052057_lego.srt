@@ -1,0 +1,416 @@
+﻿1
+00:00:02,078 --> 00:00:02,391
+PART.1: A veure...
+
+2
+00:00:05,689 --> 00:00:07,042
+PART.1: Aquí el que hem de buscar és una peça d’aquestes.
+
+3
+00:00:07,410 --> 00:00:08,381
+PART.2: Sí, però, escolta’m un moment.
+
+4
+00:00:08,705 --> 00:00:09,353
+PART.1: Diguem.
+
+5
+00:00:09,749 --> 00:00:14,299
+PART.2: Jo ja tinc pràctica i tal, no hem de fer el tonto com vaig fer jo amb el Jose, i estan les instruccions per davant.
+
+6
+00:00:15,704 --> 00:00:16,259
+PART.2: Ens va guiant paso a paso.
+
+7
+00:00:16,661 --> 00:00:20,723
+PART.2: Perquè clar, a nosaltres ens va soltar això així i nosaltres vam mirar l’avió i va ser com, vinga...
+
+8
+00:00:21,133 --> 00:00:21,694
+PART.1: Sou subnormals, o... o...?
+
+9
+00:00:22,623 --> 00:00:22,889
+PART.2: Doncs sí, què vols que et digui? leñe!
+
+10
+00:00:24,805 --> 00:00:25,352
+PART.1: Una.
+
+11
+00:00:27,648 --> 00:00:29,910
+PART.1: I ara, aquesta és una, suposo.
+
+12
+00:00:30,356 --> 00:00:31,891
+PART.2: No, perquè no és el mateix color.
+
+13
+00:00:32,256 --> 00:00:32,516
+PART.1: Com que no?
+
+14
+00:00:33,287 --> 00:00:34,187
+PART.2: No, és de color blau...
+
+15
+00:00:35,008 --> 00:00:35,397
+PART.1: Dos...
+
+16
+00:00:36,511 --> 00:00:37,607
+PART.1: Tu veus algun color què s'assembli més?
+
+17
+00:00:38,499 --> 00:00:39,197
+PART.1: Ah! bueno, aquesta...
+
+18
+00:00:39,643 --> 00:00:40,091
+PART.1: Ja, però això no és.
+
+19
+00:00:41,049 --> 00:00:41,782
+PART.1: Ahh! Sí, sí que és aquesta.
+
+20
+00:00:44,151 --> 00:00:45,015
+PART.2: No ho veig, la veritat.
+
+21
+00:00:45,642 --> 00:00:46,101
+PART.1: Això...
+
+22
+00:00:47,045 --> 00:00:47,614
+PART.1: Ara hem d’enganxar-les.
+
+23
+00:00:49,544 --> 00:00:49,861
+PART.1: Gira'l, si vols.
+
+24
+00:00:50,667 --> 00:00:50,890
+PART.2: El què?
+
+25
+00:00:51,365 --> 00:00:51,581
+PART.1: El paper.
+
+26
+00:00:52,344 --> 00:00:52,849
+PART.2: Vull dir, ja està, no?
+
+27
+00:00:53,316 --> 00:00:53,633
+PART.1: No, gira el paper.
+
+28
+00:00:54,317 --> 00:00:55,073
+PART.2: Molt bé.
+
+29
+00:00:55,642 --> 00:00:55,938
+PART.1: Sí, sí.
+
+30
+00:01:01,827 --> 00:01:02,447
+PART.2: És això, no?
+
+31
+00:01:02,770 --> 00:01:03,065
+PART.1: És això.
+
+32
+00:01:03,425 --> 00:01:03,772
+PART.2: Sí.
+
+33
+00:01:04,182 --> 00:01:04,513
+PART.2: ... és així, no?
+
+34
+00:01:13,298 --> 00:01:13,513
+PART.1: És igual, és indiferent.
+
+35
+00:01:14,398 --> 00:01:14,947
+PART.2: No perquè un...
+
+36
+00:01:15,241 --> 00:01:16,551
+PART.1: Cap a fora... ha d'apuntar, és l'únic...
+
+37
+00:01:17,452 --> 00:01:17,697
+PART.2: Aquí...
+
+38
+00:01:18,351 --> 00:01:18,481
+PART.1: Ha d’apuntar cap a l’altra banda, Aina.
+
+39
+00:01:19,511 --> 00:01:21,080
+PART.2: No, però no veus que aquí hi ha...
+
+40
+00:01:21,419 --> 00:01:22,118
+PART.1: Mira cap a on té el culete.
+
+41
+00:01:24,385 --> 00:01:24,659
+PART.2: Així, collons!.
+
+42
+00:01:25,164 --> 00:01:26,113
+PART.1: No, no no, has de... no.
+
+43
+00:01:28,885 --> 00:01:29,073
+PART.1: Ara sí.
+
+44
+00:01:30,260 --> 00:01:30,584
+PART.2: Ja està, no?...
+
+45
+00:01:31,241 --> 00:01:31,672
+PART.1: Preciós, sí.
+
+46
+00:01:34,767 --> 00:01:35,163
+PART.1: Hi ha un índex?
+
+47
+00:01:36,603 --> 00:01:36,855
+PART.2: Sí.
+
+48
+00:01:37,510 --> 00:01:38,123
+PART.1: 46, puta mare.
+
+49
+00:01:41,098 --> 00:01:42,256
+PART.1: Ens ha tocat el més difícil també.
+
+50
+00:01:42,940 --> 00:01:43,725
+PART.2: Ja, un avió, mira.
+
+51
+00:01:44,345 --> 00:01:44,818
+PART.2: Aquí n’hi ha un.
+
+52
+00:01:45,539 --> 00:01:46,150
+PART.1: Aquí el culete d’aquesta.
+
+53
+00:01:48,326 --> 00:01:48,894
+PART.1: Quantes n’hem de pillar?
+
+54
+00:01:49,376 --> 00:01:49,658
+PART.1: Quatre més.
+
+55
+00:01:51,911 --> 00:01:52,198
+PART.1: Un...
+
+56
+00:01:53,416 --> 00:01:55,029
+PART.2: Dos, tres...
+
+57
+00:01:58,953 --> 00:02:03,353
+PART.1: I... falta la punta aquesta...
+
+58
+00:02:04,914 --> 00:02:05,923
+PART.2: Falta una cosa vermella també.
+
+59
+00:02:06,520 --> 00:02:06,994
+PART.1: Una cosa vermella?
+
+60
+00:02:07,427 --> 00:02:08,558
+PART.2: Sí, bueno, ara ho posem això.
+
+61
+00:02:10,646 --> 00:02:13,200
+PART.2: Aquí hi ha la punta, i falta la punta negra.
+
+62
+00:02:14,354 --> 00:02:15,031
+PART.1: Sí, que l’estic buscant.
+
+63
+00:02:16,758 --> 00:02:16,974
+PART.1: Aquí.
+
+64
+00:02:21,856 --> 00:02:22,648
+PART.1: I falta la cosa vermella.
+
+65
+00:02:23,418 --> 00:02:24,333
+PART.1: INCOMPRENSIBLE) ...això d'aquí, saps?
+
+66
+00:02:25,327 --> 00:02:25,556
+PART.1: Molt bé.
+
+67
+00:02:26,362 --> 00:02:26,890
+PART.1: uns genis...
+
+68
+00:02:28,171 --> 00:02:28,841
+PART.2: Ai! que se m'ha trencat.
+
+69
+00:02:29,423 --> 00:02:31,000
+PART.1: Ei! però això... espera, s'ha de fer el sacapuntas.
+
+70
+00:02:31,662 --> 00:02:32,216
+PART.2: ...el sacapuntas.
+
+71
+00:02:34,038 --> 00:02:35,586
+PART.1: uno, dos..., tres...
+
+72
+00:02:36,342 --> 00:02:36,868
+PART.2: Això no s'aguanta de peus...
+
+73
+00:02:38,128 --> 00:02:38,862
+PART.1: Clar, tot rodó...
+
+74
+00:02:39,799 --> 00:02:40,179
+PART.2: I ja està?
+
+75
+00:02:40,612 --> 00:02:41,936
+PART.1: Sembla un ataud, més que un sacapuntes, però...
+
+76
+00:02:42,580 --> 00:02:42,959
+PART.2: Ja està.
+
+77
+00:02:47,056 --> 00:02:47,516
+PART.1: Molt bé.
+
+78
+00:02:49,591 --> 00:02:50,837
+PART.1: Ui, em sembla que els podríem haver fet sense...
+
+79
+00:02:51,585 --> 00:02:51,887
+PART.1: ...sense instruccions.
+
+80
+00:02:52,471 --> 00:02:53,953
+PART.2: Bueno, és que aquest era molt fàcil, l’avió era complicat.
+
+81
+00:02:57,546 --> 00:03:01,945
+PART.2: Imagina’t dos matemàtics enginyers intentant fer un avió d’aquests...
+
+82
+00:03:03,658 --> 00:03:04,616
+PART.1: Es que enginyers...
+
+83
+00:03:05,343 --> 00:03:07,014
+PART.1: Fins que ens vam donar compte de que hi havia...
+
+84
+00:03:08,534 --> 00:03:10,046
+PART.1: Per què et creus que posa instruccions aquí davant?
+
+85
+00:03:12,521 --> 00:03:14,604
+PART.2: Vull dir, si canviem una peça d’aquestes...
+
+86
+00:03:15,078 --> 00:03:15,424
+PART.1: No, no, no.
+
+87
+00:03:21,675 --> 00:03:22,770
+PART.2: I li podem canviar la punta també.
+
+88
+00:03:23,309 --> 00:03:24,208
+PART.1: I la floreta aquesta, què?
+
+89
+00:03:26,526 --> 00:03:26,836
+PART.2: Vale.
+
+90
+00:03:33,151 --> 00:03:33,359
+PART.1: Ups...
+
+91
+00:03:37,975 --> 00:03:38,522
+PART.1: Què guai els Legos.
+
+92
+00:03:39,617 --> 00:03:40,826
+PART.1: A mi m’agraden molt, en tinc molts a casa.
+
+93
+00:03:41,352 --> 00:03:44,786
+PART.2: Jo tenia, en plan... crec que era un Tie Fighter.
+
+94
+00:03:46,183 --> 00:03:46,766
+PART.1: Jo en tinc molts a casa.
+
+95
+00:03:48,047 --> 00:03:53,548
+PART.1: Si t’agrada en podem muntar, t’hi pots passar tardes i jo en tinc un huevo per muntar.
+
+96
+00:03:53,951 --> 00:03:54,700
+PART.1: A més estan tots destrossats...
+
+97
+00:03:56,256 --> 00:03:56,766
+PART.2: Però, de Star Wars?
+
+98
+00:03:57,329 --> 00:03:57,530
+PART.1: Sí, molts.
+
+99
+00:03:58,659 --> 00:03:59,416
+PART.2: Sí, jo també en tenia.
+
+100
+00:04:00,151 --> 00:04:01,056
+PART.2: Mira aquest minillapis...
+
+101
+00:04:03,116 --> 00:04:04,118
+PART.1: O el coet... de Tesla.
+
+102
+00:04:06,550 --> 00:04:09,770
+PART.2: Has vist que... l’Elon Musk, resulta que...
+
+103
+00:04:10,281 --> 00:04:11,728
+PART.2: ...està molt bé el senyor, és molt gilipollas...
+
+104
+00:04:12,246 --> 00:04:13,693
+PART.1: Sí, però això ja se sabia, no?
+

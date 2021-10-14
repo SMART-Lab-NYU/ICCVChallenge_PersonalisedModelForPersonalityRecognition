@@ -1,0 +1,343 @@
+1
+00:00:00,000 --> 00:00:00,248
+PART.2: Vale.
+
+2
+00:00:00,328 --> 00:00:02,728
+PART.1:  Contigo, empiezas.
+
+3
+00:00:02,808 --> 00:00:05,408
+PART.2: Ok. ¿Soy un mamífero?
+
+4
+00:00:06,728 --> 00:00:07,688
+PART.1:  Sí.
+
+5
+00:00:07,768 --> 00:00:08,328
+PART.2: ¿Sí?
+
+6
+00:00:08,408 --> 00:00:11,208
+PART.1:  Sí. Creo que sí. Sí, sí, sí, sí.
+
+7
+00:00:11,288 --> 00:00:12,568
+PART.1:  ¿Y yo?
+
+8
+00:00:12,648 --> 00:00:13,208
+PART.2: Sí.
+
+9
+00:00:13,288 --> 00:00:14,288
+PART.1:  Sí. Vale.
+
+10
+00:00:15,808 --> 00:00:18,568
+PART.2: ¿Tengo pico de pato?
+
+11
+00:00:18,648 --> 00:00:19,648
+PART.1:  No.
+
+12
+00:00:20,368 --> 00:00:21,368
+PART.2: Ok.
+
+13
+00:00:21,448 --> 00:00:28,448
+PART.1:  ¿Yo vivo en tierra? ¿En tierra?
+
+14
+00:00:28,528 --> 00:00:31,328
+PART.2: Sí, pero... Sí y...
+
+15
+00:00:31,408 --> 00:00:35,248
+PART.1:  Sí y no. A veces me voy al mar,
+al agua. Vale.
+
+16
+00:00:35,328 --> 00:00:42,848
+PART.2: ¿Y yo vivo...? A ver.
+¿Soy grande?
+
+17
+00:00:42,928 --> 00:00:43,728
+PART.1:  No.
+
+18
+00:00:43,808 --> 00:00:44,808
+PART.2: Ok.
+
+19
+00:00:47,888 --> 00:00:54,808
+PART.1:  Me gusta agua, pero vive en
+tierra, no es un rinoceronte, ¿no?
+
+20
+00:00:54,888 --> 00:00:55,608
+PART.2: No.
+
+21
+00:00:55,688 --> 00:00:58,848
+PART.1:  Porque ya salí con uno de este
+aquí.
+
+22
+00:01:00,568 --> 00:01:03,728
+PART.2: Este, ¿soy un roedor?
+
+23
+00:01:03,808 --> 00:01:05,248
+PART.1:  Sí.
+
+24
+00:01:05,328 --> 00:01:05,848
+PART.2: ¿Sí?
+
+25
+00:01:05,928 --> 00:01:17,688
+PART.1:  No. Eh, "good question". Qué
+pregunta esta. Eh... No.
+
+26
+00:01:21,048 --> 00:01:22,648
+PART.1:  Pero estoy en duda.
+
+27
+00:01:22,728 --> 00:01:23,528
+PART.2: Ok.
+
+28
+00:01:23,608 --> 00:01:38,608
+PART.1:  Pero creo que no. Eh, ¿yo
+tengo...? Vivo en mar, agua, tierra,
+mamífero, no soy rinoceronte, ¿soy
+hipopótamo?
+
+29
+00:01:38,688 --> 00:01:39,488
+PART.2: Sí.
+
+30
+00:01:39,568 --> 00:01:45,368
+PART.1:  Pero es lo mismo de la otra vez.
+Tengo que hablar con él, no sé si
+cambió o no.
+
+31
+00:01:45,448 --> 00:01:52,128
+PART.2: No importa.
+A ver, ¿ando en los árboles?
+
+32
+00:01:52,208 --> 00:01:53,208
+PART.1:  No.
+
+33
+00:01:55,248 --> 00:02:05,248
+PART.2: Ay, qué seré, yo siempre peco en
+esto mal. Soy pequeño, no soy
+roedor... ¿Huelo mal?
+
+34
+00:02:09,488 --> 00:02:10,448
+PART.1:  Creo que no.
+
+35
+00:02:17,048 --> 00:02:19,728
+PART.2: Ardilla, no, porque...
+¿Ardilla?
+
+36
+00:02:19,808 --> 00:02:30,048
+PART.2: No. Soy pequeño...
+¿Vivo con humanos?
+
+37
+00:02:30,128 --> 00:02:31,128
+PART.1:  No.
+
+38
+00:02:35,248 --> 00:02:36,688
+PART.2: ¿Como hormigas?
+
+39
+00:02:38,328 --> 00:02:39,408
+PART.1:  ¿Como hormigas?
+
+40
+00:02:39,488 --> 00:02:40,648
+PART.2: ¿Como hormigas?
+
+41
+00:02:40,728 --> 00:02:41,688
+PART.1:  Ah, no, no, no.
+
+42
+00:02:43,408 --> 00:02:48,288
+PART.2: Ay, no... Este...
+
+43
+00:02:56,408 --> 00:03:00,888
+PART.2: Ay, qué seré, Dios mío.
+¿Tengo cuatro patas?
+
+44
+00:03:00,968 --> 00:03:01,968
+PART.1:  Sí.
+
+45
+00:03:02,848 --> 00:03:10,248
+PART.2: Bueno, sí, soy un mamífero, tengo
+cuatro patas. Ay, no sé.
+Me falta una pregunta a mí.
+
+46
+00:03:10,328 --> 00:03:17,648
+PART.1:  Ay, no estoy contando.
+No, pero vamos, vamos.
+Podemos buscar, no sé.
+
+47
+00:03:24,208 --> 00:03:26,048
+PART.2: ¿Tengo puyas?
+
+48
+00:03:26,128 --> 00:03:27,168
+PART.1:  ¿Qué es puyas?
+
+49
+00:03:27,248 --> 00:03:28,448
+PART.2: Puyas así.
+
+50
+00:03:28,528 --> 00:03:29,568
+PART.1:  Sí.
+
+51
+00:03:29,648 --> 00:03:30,208
+PART.2: ¿Puercoespín?
+
+52
+00:03:30,288 --> 00:03:31,288
+PART.1:  Sí.
+
+53
+00:03:33,208 --> 00:03:35,408
+PART.1:  Muy bien, muy bien.
+
+54
+00:03:36,048 --> 00:03:40,208
+PART.2: Qué bien, al fin. Nunca he
+adivinado.
+
+55
+00:03:40,288 --> 00:03:43,408
+PART.1:  ¿No? Esta es la segunda vez que
+salgo con esto.
+
+56
+00:03:43,488 --> 00:03:44,288
+PART.2: Con hipopótamo.
+
+57
+00:03:44,368 --> 00:03:45,368
+PART.1:  Sí.
+
+58
+00:03:47,008 --> 00:03:55,568
+PART.1:  Por eso pensaba el canguro, pero
+esto ya me salió también.
+y cuando me dices que agua, ya
+estaba: no es posible, estoy con lo
+mismo.
+
+59
+00:03:55,648 --> 00:03:58,528
+PART.2: Ay, qué bueno, al fin.
+
+60
+00:03:58,608 --> 00:04:01,448
+PART.1:  Pero no sé si es un roedor, no,
+¿no?
+
+61
+00:04:01,528 --> 00:04:07,048
+PART.2: No lo sé. Creo que sí, pero
+también estoy como tú. No estoy
+segura.
+
+62
+00:04:07,128 --> 00:04:11,688
+PART.1:  Creo que a veces roe cosas, porque
+tiene como, se parece a un...
+
+63
+00:04:11,768 --> 00:04:14,128
+PART.2: Pero no estoy segura tampoco.
+
+64
+00:04:14,208 --> 00:04:14,728
+PART.1:  Sí.
+
+65
+00:04:16,528 --> 00:04:21,928
+PART.2: Ay qué cómico. Bueno, ya por lo
+menos, una vez.
+
+66
+00:04:27,328 --> 00:04:28,328
+PART.2: Ay, bueno.
+
+67
+00:04:28,408 --> 00:04:36,168
+PART.1:  Como puercoespín hay otro nombre
+que me enseñaste también. Enzo, me
+olvidé ahora el nombre.
+
+68
+00:04:37,248 --> 00:04:38,368
+PART.2: ¿Que es parecido?
+
+69
+00:04:38,448 --> 00:04:39,448
+PART.1:  Sí.
+
+70
+00:04:40,168 --> 00:04:41,688
+PART.2: Ay, ¿cuál será?
+
+71
+00:04:41,768 --> 00:04:46,408
+PART.1:  Una vez mi perro
+se agarró con uno de estos...
+
+72
+00:04:46,488 --> 00:04:48,728
+PART.2: Ay, horrible para sacarle las...
+
+73
+00:04:48,808 --> 00:04:50,488
+PART.1:  Terrible.
+
+74
+00:04:50,568 --> 00:04:52,288
+PART.2: ¿Y el perro lo tienes aquí?
+
+75
+00:04:52,368 --> 00:04:56,808
+PART.1:  No, no, en Brasil. No, pero ese
+ya, hace tiempo.
+
+76
+00:04:54,928 --> 00:04:55,608
+PART.2: Murió.
+
+77
+00:04:56,888 --> 00:04:58,328
+SUPERVISOR:  ¿Qué tal?
+

@@ -1,0 +1,103 @@
+1
+00:00:00,000 --> 00:00:00,780
+PART.1: ¿Tú cómo lo quieres
+hacer?
+
+2
+00:00:01,340 --> 00:00:02,900
+PART.2: Me da igual,
+si quieres hacemos diez y diez.
+
+3
+00:00:03,780 --> 00:00:04,820
+PART.2: Venga, empieza tú.
+
+4
+00:00:04,900 --> 00:00:05,980
+PART.1: ¿Empiezo yo?
+
+5
+00:00:06,820 --> 00:00:08,660
+PART.1: A ver, tú tienes que decirme cosas
+del mío.
+
+6
+00:00:10,460 --> 00:00:13,220
+PART.2: Por eso lo decía, lo he
+explicado de esta manera tan...
+
+7
+00:00:14,700 --> 00:00:15,820
+PART.1: Eh...
+
+8
+00:00:16,460 --> 00:00:18,300
+PART.1: ¿Es un animal que se come
+habitualmente?
+
+9
+00:00:19,460 --> 00:00:20,540
+PART.2: No en este país.
+
+10
+00:00:21,540 --> 00:00:23,500
+PART.2: Y creo que no, creo que en ningún
+país.
+
+11
+00:00:23,580 --> 00:00:24,700
+PART.2: Habitualmente.
+
+12
+00:00:25,020 --> 00:00:26,460
+PART.2: Pero se puede comer, sí.
+
+13
+00:00:29,140 --> 00:00:30,460
+PART.1: ¿Es salvaje?
+
+14
+00:00:31,300 --> 00:00:32,380
+PART.2: Sí.
+
+15
+00:00:34,860 --> 00:00:35,900
+PART.1: ¿Es mamífero?
+
+16
+00:00:35,980 --> 00:00:37,100
+PART.2: Sí.
+
+17
+00:00:42,420 --> 00:00:44,060
+PART.1: ¿En este país no vive?
+
+18
+00:00:44,140 --> 00:00:45,300
+PART.2: No, bueno...
+
+19
+00:00:46,060 --> 00:00:47,140
+PART.1: No vive de normal.
+
+20
+00:00:47,220 --> 00:00:47,940
+PART.2: Naturalmente no.
+
+21
+00:00:48,020 --> 00:00:48,820
+PART.1: A no ser que no sea en un
+zoo.
+
+22
+00:00:48,900 --> 00:00:49,740
+PART.2: Naturalmente no.
+
+23
+00:00:54,620 --> 00:00:55,580
+PART.2: PERSONA: ¿Vive en la selva?
+
+24
+00:00:56,580 --> 00:00:57,780
+PART.2: Selva...
+

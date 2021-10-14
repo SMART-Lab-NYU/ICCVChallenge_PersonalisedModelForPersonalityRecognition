@@ -1,0 +1,96 @@
+﻿1
+00:00:02,781 --> 00:00:04,197
+SUPERVISOR: Vale, quan es tanqui la porta...
+
+2
+00:00:04,229 --> 00:00:05,317
+PART.1: Vale, vols que...?
+
+3
+00:00:05,463 --> 00:00:07,214
+PART.2: Aquí cercar algo és un rollazo.
+
+4
+00:00:07,250 --> 00:00:10,381
+PART.1: Vale. Vols que et vagi passant les fitxes i tu les vas ficant?
+
+5
+00:00:10,605 --> 00:00:12,565
+PART.1: Allò, per exemple, la cerquem, tenim això.
+
+6
+00:00:12,766 --> 00:00:15,997
+PART.1: Vale, ara hem de necessitar un de sis. Vale.
+
+7
+00:00:16,093 --> 00:00:17,142
+PART.2: No, no.
+
+8
+00:00:17,199 --> 00:00:18,492
+PART.1: No, aquest és de sis.
+
+9
+00:00:18,561 --> 00:00:19,641
+PART.2: No, no.
+
+10
+00:00:19,735 --> 00:00:21,838
+PART.1: Vale, pues deixa que t'ho vagi buscant jo, si vols.
+
+11
+00:00:23,199 --> 00:00:25,854
+PART.1: Bueno, o si tu vas més ràpid, tu.
+
+12
+00:00:26,022 --> 00:00:27,014
+PART.2: No, no.
+
+13
+00:00:26,418 --> 00:00:29,218
+PART.1: Però, el problema és que aquí falten fitxes, perquè la de sis per exemple no està.
+
+14
+00:00:29,304 --> 00:00:30,314
+PART.2: Sí, mira.
+
+15
+00:00:30,382 --> 00:00:31,462
+PART.1: Ah, l'has trobat. Vale.
+
+16
+00:00:31,561 --> 00:00:35,199
+PART.1: Pues, ara has de ficar aquesta d'aquí, que és la de també sis gris.
+
+17
+00:00:35,526 --> 00:00:36,785
+PART.1: Vale. Crec que és aquesta.
+
+18
+00:00:36,796 --> 00:00:38,846
+PART.2: Això no ho podria fer un daltònic.
+
+19
+00:00:38,942 --> 00:00:42,247
+PART.1: Això, el Jorge fliparà.
+
+20
+00:00:42,362 --> 00:00:44,416
+PART.2: Escolta'm una cosa. Aquí deixes el forat aquí, no?
+
+21
+00:00:44,446 --> 00:00:49,134
+PART.1: Sí. Ara tens que ficar la blanca d’un i una d’un. Vale.
+
+22
+00:00:49,202 --> 00:00:55,033
+PART.1: Llavors, la blanca hi ha de ser... Aquí hay una, ¿vale?
+
+23
+00:00:55,297 --> 00:00:58,374
+PART.1: I una blava, però aquest blau és diferent.
+
+24
+00:00:58,575 --> 00:01:02,574
+PART.1: Com tu t'has fixat bé, és un blau com més... un color més... Fixa't, no?
+

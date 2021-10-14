@@ -1,0 +1,60 @@
+48
+00:03:01,715 --> 00:03:31,435
+PART.1: Eh... A ver, soy un mamífero,
+grande pero no muy grande y no estoy
+en climas cálidos. Eh... ¿Tengo el
+pelaje, o parte de él, blanco?
+
+49
+00:03:32,715 --> 00:03:35,875
+PART.2: No. Es que no tienes pelaje.
+
+50
+00:03:35,955 --> 00:03:38,195
+PART.1: Ah, ¿no tengo...? ¿No has dicho
+que soy peludo?
+
+51
+00:03:38,275 --> 00:03:43,555
+PART.2: No. Me has dicho si tengo el pelo
+corto. Claro, claro que no lo
+tienes. Te he dicho: "No".
+
+52
+00:03:44,075 --> 00:03:45,355
+PART.1: ¿No me has dicho largo?
+
+53
+00:03:45,435 --> 00:03:47,795
+PART.2: No. Me has dicho: "¿Tengo el pelo
+corto?". Y te he dicho: "No".
+
+54
+00:03:47,875 --> 00:03:48,515
+PART.1: Vale.
+
+55
+00:03:48,595 --> 00:03:50,915
+PART.2: Claro, pero no te podía decir...
+
+56
+00:03:50,995 --> 00:03:51,475
+PART.1: Pero...
+
+57
+00:03:51,555 --> 00:03:52,475
+PART.2: Ahora ya sí que te digo: no
+tienes pelo.
+
+58
+00:03:52,555 --> 00:03:54,075
+PART.1: Sí, sí. Vale.
+
+59
+00:03:54,755 --> 00:03:57,755
+PART.2: Eh... ¿Soy carnívoro?
+
+60
+00:03:59,475 --> 00:04:00,155
+PART.1: Sí.
+

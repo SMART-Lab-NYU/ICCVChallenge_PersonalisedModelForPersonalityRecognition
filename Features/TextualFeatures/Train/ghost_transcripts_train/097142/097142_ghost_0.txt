@@ -1,0 +1,139 @@
+﻿1
+00:00:00,000 --> 00:00:00,878
+PART.1: "À vous l'honneur?".
+
+2
+00:00:00,958 --> 00:00:03,078
+PART.2: Espera, espera. Que surti, que surti.
+
+3
+00:00:03,158 --> 00:00:04,118
+PART.1: Ah, sí, sí.
+
+4
+00:00:04,998 --> 00:00:08,598
+PART.2: A mi sempre se m'oblida
+i començo a jugar quan no toca. Ara, ja.
+
+5
+00:00:08,678 --> 00:00:09,998
+PART.1: Vinga, doncs, va.
+
+6
+00:00:10,078 --> 00:00:11,038
+PART.2: Jo? Vinga.
+
+7
+00:00:11,118 --> 00:00:11,718
+PART.1: Sí.
+
+8
+00:00:13,998 --> 00:00:15,478
+PART.1: El color aquest…
+
+9
+00:00:15,558 --> 00:00:17,078
+PART.2: No! Hi és, hi és.
+
+10
+00:00:17,158 --> 00:00:18,438
+PART.1: No, el color…
+
+11
+00:00:18,518 --> 00:00:21,358
+PART.2: Aquest, és aquest. No, ha
+de ser… O sigui…
+
+12
+00:00:21,438 --> 00:00:23,678
+PART.1: Ah, sí,
+sí, que hi ha el dallò.
+
+13
+00:00:23,758 --> 00:00:25,558
+PART.2: Sí. Aquí seria aquest.
+
+14
+00:00:26,438 --> 00:00:26,998
+PART.1: Val.
+
+15
+00:00:27,078 --> 00:00:29,558
+PART.2: Perquè no és cap objecte ni cap color que surt aquí.
+
+16
+00:00:29,638 --> 00:00:31,798
+PART.1: Val, aleshores aquesta carta te la quedes tu.
+
+17
+00:00:31,878 --> 00:00:32,998
+PART.2: Sí, me la quedo jo.
+
+18
+00:00:33,078 --> 00:00:33,598
+PART.1: Val.
+
+19
+00:00:33,678 --> 00:00:34,278
+PART.2: Aviam.
+
+20
+00:00:35,358 --> 00:00:36,238
+PART.1: L'ampolla.
+
+21
+00:00:36,318 --> 00:00:37,358
+PART.2: És verd també.
+
+22
+00:00:37,438 --> 00:00:39,318
+PART.1: Ah, sí, sí, és veritat. El ratolí!
+
+23
+00:00:39,398 --> 00:00:40,718
+PART.2: No, perquè està aquí.
+
+24
+00:00:40,798 --> 00:00:42,798
+PART.1: El ratolí on és? Ah, sí, és un ratolí.
+
+25
+00:00:42,878 --> 00:00:44,198
+PART.2: Això és un ratolí, sí.
+
+26
+00:00:44,278 --> 00:00:44,958
+PART.1: Aquell.
+
+27
+00:00:45,038 --> 00:00:46,518
+PART.2: Aquí seria aquest. Sí, sí.
+
+28
+00:00:46,598 --> 00:00:47,238
+PART.1: Apa.
+
+29
+00:00:47,318 --> 00:00:48,358
+PART.2: Ai, perdona.
+
+30
+00:00:48,438 --> 00:00:49,198
+PART.1: Ara tu.
+
+31
+00:00:49,278 --> 00:00:50,598
+PART.2: Ho deixem per aquí.
+
+32
+00:00:54,598 --> 00:00:55,758
+PART.1: El ratolí.
+
+33
+00:00:55,838 --> 00:00:58,478
+PART.2: Sí. Sí, sí. Aquest l'has guanyat tu.
+
+34
+00:00:58,558 --> 00:00:59,918
+PART.1: Ja tocava, no?
+

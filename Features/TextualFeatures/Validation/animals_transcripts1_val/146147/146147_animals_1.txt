@@ -1,0 +1,111 @@
+31
+00:01:01,661 --> 00:01:02,782
+PART.1: Vale.
+
+32
+00:01:02,998 --> 00:01:04,166
+PART.2: I ara què?
+
+33
+00:01:03,568 --> 00:01:24,538
+PART.2: Et va bé?
+
+34
+00:01:04,311 --> 00:01:06,229
+PART.1: Vale, jo pregunto, no? Vale.
+
+35
+00:01:09,406 --> 00:01:11,494
+PART.1: És que tinc que pensar... Vale.
+
+36
+00:01:11,631 --> 00:01:13,358
+PART.1: És d'aire. Clar.
+
+37
+00:01:13,604 --> 00:01:14,717
+PART.2: Té potes?
+
+38
+00:01:14,747 --> 00:01:16,074
+PART.1: No, no, qui ha preguntat ara?
+
+39
+00:01:16,111 --> 00:01:17,121
+PART.2: I què més et dona? Estàs pensant.
+
+40
+00:01:17,135 --> 00:01:18,222
+PART.1: Ah!
+
+41
+00:01:17,578 --> 00:01:18,574
+PART.2: Té potes?
+
+42
+00:01:18,402 --> 00:01:19,408
+PART.2: El meu.
+
+43
+00:01:18,922 --> 00:01:19,841
+PART.1: Eeh... Sí.
+
+44
+00:01:19,409 --> 00:01:20,410
+PART.1: Sí, sí.
+
+45
+00:01:20,220 --> 00:01:21,225
+PART.2: El meu té potes.
+
+46
+00:01:21,240 --> 00:01:22,240
+PART.1: Sí.
+
+47
+00:01:22,242 --> 00:01:23,250
+PART.2: Jo ja en duc tres.
+
+48
+00:01:23,251 --> 00:01:24,251
+PART.1: Vale.
+
+49
+00:01:26,198 --> 00:01:36,487
+PART.1: És un animal de muntanya, o sea, va per l'aire per la muntanya, 
+o és per l'aire per l'aigua? És més d'aigua o de muntanya? 
+Clar... És de muntanya?
+
+50
+00:01:37,914 --> 00:01:41,085
+PART.2: Un moment... "Muntanya", què vol dir?
+
+51
+00:01:41,205 --> 00:01:44,191
+PART.2: “Muntanya” vol dir qualsevol cosa que no sigui aire, digo, mar?
+
+52
+00:01:44,317 --> 00:01:45,065
+PART.1: Qualsevol cosa que no sigui mar.
+
+53
+00:01:44,578 --> 00:01:46,086
+PART.2: És que són moltes coses, eh?
+
+54
+00:01:46,080 --> 00:01:49,637
+PART.1: Sí, es verdad. Pot incloure boscos, pot incloure tot el que sigui...
+
+55
+00:01:49,776 --> 00:01:56,949
+PART.1: És animal d'aigua? Fa... Vull dir: és una animal que està prop de l'aigua, nedant? 
+Ai, nedant... Volant?
+
+56
+00:01:57,678 --> 00:01:58,725
+PART.2: No.
+
+57
+00:01:58,901 --> 00:01:59,986
+PART.1: Vale.
+

@@ -1,0 +1,188 @@
+1
+00:00:07,908 --> 00:00:10,028
+PART.1: Ratón verde, libro rojo.
+
+2
+00:00:10,908 --> 00:00:11,508
+PART.1: Fantasma.
+
+3
+00:00:13,588 --> 00:00:14,148
+PART.2: Okey.
+
+4
+00:00:20,188 --> 00:00:20,788
+PART.1: Ratón.
+
+5
+00:00:21,548 --> 00:00:22,228
+PART.1: Sí, ¿no?
+
+6
+00:00:22,828 --> 00:00:23,348
+PART.2: Sí.
+
+7
+00:00:30,548 --> 00:00:31,908
+PART.1: Ah, es el ratón.
+
+8
+00:00:40,388 --> 00:00:40,828
+PART.1: Sí.
+
+9
+00:00:41,708 --> 00:00:42,228
+PART.2: Okey.
+
+10
+00:00:47,548 --> 00:00:48,308
+PART.1: Botella.
+
+11
+00:01:11,948 --> 00:01:12,388
+PART.1: Sí.
+
+12
+00:01:17,948 --> 00:01:18,828
+PART.1: Te toca a ti.
+
+13
+00:01:19,628 --> 00:01:21,468
+PART.2: Pero solo estoy...
+
+14
+00:01:21,708 --> 00:01:22,388
+PART.2: ¿Era el ratón?
+
+15
+00:01:22,468 --> 00:01:22,948
+PART.1: Sí.
+
+16
+00:01:23,188 --> 00:01:23,868
+PART.2: O libro, ¿no?
+
+17
+00:01:24,388 --> 00:01:25,148
+PART.1: ¿Libro?
+
+18
+00:01:25,508 --> 00:01:26,708
+PART.1: Ah, no. Es la botella.
+
+19
+00:01:27,468 --> 00:01:28,308
+PART.2: Ah, sí.
+
+20
+00:01:29,428 --> 00:01:30,028
+PART.2: Pues...
+
+21
+00:01:33,228 --> 00:01:34,028
+PART.1: La ponemos aquí.
+
+22
+00:01:40,268 --> 00:01:41,028
+PART.1: La botella.
+
+23
+00:01:51,988 --> 00:01:52,548
+PART.2: ¿No?
+
+24
+00:01:52,628 --> 00:01:53,068
+PART.1: Sí.
+
+25
+00:02:03,828 --> 00:02:04,428
+PART.1: Bueno.
+
+26
+00:02:08,428 --> 00:02:10,308
+PART.2: Tenías más cerca los objetos,
+¿eh?
+
+27
+00:02:23,748 --> 00:02:29,308
+PART.1: Con muchos este juego estaría
+más... podría ser más violento.
+
+28
+00:02:30,188 --> 00:02:31,868
+PART.2: O puede ser más divertido con
+alcohol.
+
+29
+00:02:32,228 --> 00:02:32,908
+PART.1: También.
+
+30
+00:02:45,508 --> 00:02:47,828
+PART.2: Pero ¿Montreal de Canadá o
+Montreal...?
+
+31
+00:02:47,908 --> 00:02:48,988
+PART.1: Montreal, Canadá.
+
+32
+00:02:52,148 --> 00:02:54,628
+PART.1: Lo dejé por la falta de sol.
+
+33
+00:02:57,668 --> 00:03:01,148
+PART.1: El frío se sobrevive, pero la
+luz...
+
+34
+00:03:02,708 --> 00:03:04,508
+PART.1: Deprime muchísimo.
+
+35
+00:03:06,148 --> 00:03:07,988
+PART.2: Sí. Yo hice el máster en Escocia.
+
+36
+00:03:08,068 --> 00:03:08,908
+PART.1: ¿En Escocia?
+
+37
+00:03:09,108 --> 00:03:12,268
+PART.2: Pero me gustaba, me gustaba mi
+vida allá.
+
+38
+00:03:13,788 --> 00:03:15,468
+PART.2: A pesar de lo complicado que era.
+
+39
+00:03:17,708 --> 00:03:19,788
+PART.1: Llueve todo el tiempo, ¿no?
+
+40
+00:03:20,508 --> 00:03:21,708
+PART.2: Sí, pero no es...
+
+41
+00:03:25,188 --> 00:03:27,988
+PART.2: Solo algunos días llueve que no
+te aguantas, pero...
+
+42
+00:03:29,188 --> 00:03:30,348
+PART.2: Pero sí, no sé.
+
+43
+00:03:30,748 --> 00:03:34,228
+PART.2: En diciembre amanece a las nueve
+y oscurece a las tres de la tarde.
+
+44
+00:03:35,428 --> 00:03:36,548
+PART.1: Sí, era eso lo...
+
+45
+00:03:37,548 --> 00:03:39,868
+PART.2: Eso sí mata el espíritu.
+

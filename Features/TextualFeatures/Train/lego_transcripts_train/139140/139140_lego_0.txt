@@ -1,0 +1,135 @@
+﻿1
+00:00:00,000 --> 00:00:01,652
+PART.1: No pasa nada, se puede hacer.
+
+2
+00:00:01,732 --> 00:00:03,052
+PART.1: Ah, pero que te pone las cosas.
+
+3
+00:00:03,132 --> 00:00:04,292
+PART.2: Hombre, claro.
+
+4
+00:00:04,372 --> 00:00:06,412
+PART.1: Vete mirando las piezas...
+A ver.
+
+5
+00:00:06,492 --> 00:00:09,732
+PART.2: Aquí parece que hay ruedas.
+Las hélices...
+
+6
+00:00:10,972 --> 00:00:13,252
+PART.2: Todo lo que es de color negro... o azul.
+
+7
+00:00:13,332 --> 00:00:14,652
+PART.1: Va por pasos.
+
+8
+00:00:14,732 --> 00:00:16,492
+PART.1: Muy bien, entonces, te voy diciendo...
+
+9
+00:00:16,572 --> 00:00:18,972
+PART.1: Porque uno no va haciendo los pasos
+y el otro va...
+
+10
+00:00:19,052 --> 00:00:20,252
+PART.1: No, mentira. Eso está mal
+
+11
+00:00:20,332 --> 00:00:22,372
+PART.1: Muy bien. Lo primero necesitas
+es una pieza negra de 2X3.
+
+12
+00:00:23,412 --> 00:00:24,612
+PART.1: Una pieza negra de 2X3.
+
+13
+00:00:24,692 --> 00:00:27,292
+PART.1: Estos serían ahora mismo...
+Pero no es 2X3. No?
+
+14
+00:00:27,372 --> 00:00:29,132
+PART.2: Tiene que ser negra.
+
+15
+00:00:29,212 --> 00:00:31,332
+PART.1: Ah, ¿que va por los mismos colores?
+
+16
+00:00:31,412 --> 00:00:32,692
+PART.2: Supongo que sí.
+
+17
+00:00:32,772 --> 00:00:34,812
+PART.1: Mira, esta creo que es válida.
+
+18
+00:00:34,892 --> 00:00:35,532
+PART.1: Sí, es 3X2.
+
+19
+00:00:35,612 --> 00:00:37,812
+PART.2: Pero no es negra, es gris.
+
+20
+00:00:37,892 --> 00:00:39,932
+PART.1: Es verdad. Sí, perdona.
+
+21
+00:00:40,012 --> 00:00:42,212
+PART.1: Entonces tenemos que coger una azul.
+
+22
+00:00:42,292 --> 00:00:43,012
+PART.1: ¿De cuánto es?
+
+23
+00:00:43,092 --> 00:00:44,252
+PART.2: De 6X3, sí.
+
+24
+00:00:44,332 --> 00:00:46,772
+PART.1: Si es verdad... No, 6X2.
+
+25
+00:00:46,852 --> 00:00:48,452
+PART.2: Sí, 6X2, perdona.
+
+26
+00:00:48,532 --> 00:00:51,412
+PART.1: Ahora tienes que colocar
+una negra justo debajo,
+
+27
+00:00:51,492 --> 00:00:51,972
+PART.1: en plan...
+
+28
+00:00:52,052 --> 00:00:53,372
+PART.2: Esta. Una gris.
+
+29
+00:00:53,452 --> 00:00:56,212
+PART.1: Justo debajo de forma simétrica.
+
+30
+00:00:56,292 --> 00:00:57,892
+PART.1: ¿Es simétrico? Vale.
+
+31
+00:00:57,972 --> 00:00:59,772
+PART.1: Y esta...
+
+32
+00:00:59,852 --> 00:01:02,212
+PART.1: La cuatro necesitamos
+uno blanco y uno azul.
+

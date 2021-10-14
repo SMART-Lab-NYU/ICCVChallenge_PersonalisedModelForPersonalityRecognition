@@ -1,0 +1,48 @@
+84
+00:05:00,753 --> 00:05:01,177
+PART.2: Ara.
+
+85
+00:05:02,170 --> 00:05:06,044
+PART.1: Vale, i això ara ja no sé què és...
+
+86
+00:05:05,345 --> 00:05:07,207
+PART.2: Això deu ser una altra figura.
+
+87
+00:05:10,625 --> 00:05:11,177
+PART.1: Això és per despistar.
+
+88
+00:05:13,266 --> 00:05:13,795
+PART.2: És esta figura.
+
+89
+00:05:14,531 --> 00:05:21,445
+PART.1: Ah, sí, que a nosaltres mos ha dit aquesta, la del tren.
+
+90
+00:05:23,958 --> 00:05:24,550
+PART.1: Has cronometrat?
+
+91
+00:05:25,549 --> 00:05:25,799
+PART.2: No.
+
+92
+00:05:29,597 --> 00:05:31,742
+PART.2: Perquè a la caixeta li posarien dintre ja.
+
+93
+00:05:37,477 --> 00:05:39,357
+PART.1: Ens tenim que moure.
+
+94
+00:05:49,574 --> 00:05:51,622
+PART.1: Bueno, pues ja ho tindríem això, eh?
+
+95
+00:05:58,085 --> 00:06:02,850
+PART.1: Si va per punts, una altra prueba superada.
+

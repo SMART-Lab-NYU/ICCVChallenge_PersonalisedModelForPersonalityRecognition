@@ -1,0 +1,114 @@
+92
+00:03:00,255 --> 00:03:02,775
+PART.1: Ah, doncs l'hem cagat abans, eh? Sort que ho hem fet dos cops.
+
+93
+00:03:04,215 --> 00:03:05,535
+PART.2: El blanc!
+
+94
+00:03:05,615 --> 00:03:07,095
+PART.1: Exacte. Té.
+
+95
+00:03:07,175 --> 00:03:08,575
+PART.2: El llibre!
+
+96
+00:03:08,655 --> 00:03:11,095
+PART.1: Totalment cert. El llibre.
+
+97
+00:03:11,175 --> 00:03:12,135
+PART.2: Val.
+
+98
+00:03:13,815 --> 00:03:14,655
+PART.1: Té, té.
+
+99
+00:03:14,735 --> 00:03:15,375
+PART.2: El…
+
+100
+00:03:15,455 --> 00:03:17,255
+PART.1: Això, no? No, hi ha el verd.
+
+101
+00:03:17,335 --> 00:03:19,175
+PART.2: Sí, hi ha el verd. El llibre.
+
+102
+00:03:19,255 --> 00:03:20,415
+PART.1: Aquest, exacte.
+
+103
+00:03:20,495 --> 00:03:21,495
+PART.2: Val, sí, sí.
+
+104
+00:03:23,695 --> 00:03:24,215
+PART.2: Aquest sí!
+
+105
+00:03:24,295 --> 00:03:27,015
+PART.1: Ah, no, que és el fantasma, sí. Vinga.
+
+106
+00:03:27,095 --> 00:03:28,175
+PART.1: Quina pallissa, ara!
+
+107
+00:03:28,255 --> 00:03:30,175
+PART.2: "Bueno"… Estem empatats.
+
+108
+00:03:30,255 --> 00:03:32,615
+PART.2: Estem empatats, home. Abans has guanyat tu.
+
+109
+00:03:32,695 --> 00:03:34,015
+PART.1: He guanyat jo.
+
+110
+00:03:34,095 --> 00:03:35,855
+PART.2: Bah, per passar-ho bé!
+
+111
+00:03:35,935 --> 00:03:36,975
+PART.1: Ho deixo?
+
+112
+00:03:39,295 --> 00:03:41,295
+PART.2: Així que treballes, no, dius?
+
+113
+00:03:41,375 --> 00:03:43,775
+PART.1: Sí, treballo i estudio també, sí, sí.
+
+114
+00:03:43,855 --> 00:03:45,055
+PART.2: Què estudies?
+
+115
+00:03:45,135 --> 00:03:48,135
+PART.1: Estic fent un màster d'intel·ligència artificial.
+
+116
+00:03:48,215 --> 00:03:50,055
+PART.2: Intel·ligència artificial?
+
+117
+00:03:50,135 --> 00:03:53,695
+PART.1: Sí. I treballo d'informàtic en una empresa,
+en una consultora.
+
+118
+00:03:53,775 --> 00:03:55,615
+PART.2: Són les noves tecnologies.
+
+119
+00:03:58,815 --> 00:04:03,975
+PART.2: Les feines que estan venint,
+la majoria són tecnològiques.
+

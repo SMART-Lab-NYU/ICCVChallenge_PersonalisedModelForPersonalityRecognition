@@ -1,0 +1,80 @@
+48
+00:02:05,499 --> 00:02:06,862
+PART.1: ¿Me gusta estar en el agua?
+
+49
+00:02:06,862 --> 00:02:07,902
+PART.2: No.
+
+50
+00:02:21,859 --> 00:02:23,939
+PART.1: ¿Estoy en la montaña?
+
+51
+00:02:27,299 --> 00:02:29,179
+PART.1: ¿O me puedes encontrar en una montaña?
+
+52
+00:02:29,379 --> 00:02:30,416
+PART.2: Sí.
+
+53
+00:02:30,440 --> 00:02:32,899
+PART.1: Bueno, es muy difícil.
+
+54
+00:02:33,099 --> 00:02:34,919
+PART.1: ¿Ahora tengo que adivinar?
+
+55
+00:02:34,943 --> 00:02:35,739
+PART.2: Sí.
+
+56
+00:02:38,899 --> 00:02:40,795
+PART.1: ¿Una vaca?
+
+57
+00:02:40,819 --> 00:02:43,169
+PART.2: No, es un reno.
+
+58
+00:02:43,193 --> 00:02:44,097
+PART.1: ¿Un qué?
+
+59
+00:02:44,121 --> 00:02:44,778
+PART.2: Un reno.
+
+60
+00:02:44,802 --> 00:02:45,459
+PART.1: ¿Un reno?
+
+61
+00:02:45,659 --> 00:02:48,059
+PART.1: Nunca hubiese adivinado.
+
+62
+00:02:49,339 --> 00:02:50,979
+PART.1: Bueno, ahora esto nos lo quitamos.
+
+63
+00:02:51,179 --> 00:02:53,779
+PART.1: Ah, igual yo podía seguir adivinando, me parece.
+
+64
+00:02:53,979 --> 00:02:57,459
+PART.2: la onceava era al final, era eliminatoria ya.
+
+65
+00:02:57,659 --> 00:02:58,707
+PART.1: O sea que ya está.
+
+66
+00:02:58,731 --> 00:02:59,779
+PART.2: Ya está, ya está.
+
+67
+00:02:59,979 --> 00:03:01,539
+PART.1: Bueno, ¿esto lo quitamos?
+

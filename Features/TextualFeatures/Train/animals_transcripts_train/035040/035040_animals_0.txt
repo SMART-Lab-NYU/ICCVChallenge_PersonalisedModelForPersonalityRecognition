@@ -1,0 +1,135 @@
+﻿1
+00:00:00,528 --> 00:00:01,408
+PART.1: Pues...
+
+2
+00:00:02,408 --> 00:00:03,128
+PART.2: Empieza tú.
+
+3
+00:00:03,208 --> 00:00:04,328
+PART.1: ¿Empiezo yo preguntando?
+
+4
+00:00:04,408 --> 00:00:04,728
+PART.2: Sí.
+
+5
+00:00:05,208 --> 00:00:06,208
+PART.1: ¿Soy un...?
+
+6
+00:00:06,728 --> 00:00:07,888
+PART.1: ¿Tengo cuatro patas?
+
+7
+00:00:08,848 --> 00:00:09,368
+PART.2: No.
+
+8
+00:00:09,528 --> 00:00:09,888
+PART.1: No.
+
+9
+00:00:10,128 --> 00:00:12,368
+PART.1: Uf, esto me descarta un montón de
+animales, ¿eh?
+
+10
+00:00:13,928 --> 00:00:15,248
+PART.1: Vamos haciendo una cada uno, ¿no?
+
+11
+00:00:15,328 --> 00:00:16,408
+PART.1: Porque será más...
+
+12
+00:00:16,968 --> 00:00:19,408
+PART.1: O sea, pregunto una yo y una tú,
+una yo y una tú.
+
+13
+00:00:19,848 --> 00:00:22,488
+PART.2: Preferiría hacerlas todas de una
+vez porque si no, nos vamos a
+confundir.
+
+14
+00:00:22,568 --> 00:00:24,168
+PART.1: Vale, ¿sigo preguntando yo?
+
+15
+00:00:23,968 --> 00:00:24,328
+PART.2: Sí.
+
+16
+00:00:24,408 --> 00:00:25,208
+PART.1: Vale, llevo una.
+
+17
+00:00:26,768 --> 00:00:27,688
+PART.1: Me has dicho que no.
+
+18
+00:00:27,768 --> 00:00:29,928
+PART.1: ¿Soy un ave, un pájaro?
+
+19
+00:00:30,008 --> 00:00:30,368
+PART.2: Sí.
+
+20
+00:00:30,808 --> 00:00:31,528
+PART.1: Soy un pájaro.
+
+21
+00:00:31,928 --> 00:00:33,848
+PART.1: Antes me ha tocado un pájaro,
+odio los pájaros.
+
+22
+00:00:34,368 --> 00:00:36,408
+PART.1: No, no, pobres pájaros, pero que
+es difícil.
+
+23
+00:00:35,928 --> 00:00:36,448
+PART.2: Sí.
+
+24
+00:00:36,888 --> 00:00:37,288
+PART.1: Vale.
+
+25
+00:00:38,048 --> 00:00:41,048
+PART.1: ¿Soy un pájaro grande o más bien
+un pájaro pequeñito?
+
+26
+00:00:41,888 --> 00:00:43,048
+PART.2: Son preguntas de sí o no.
+
+27
+00:00:43,648 --> 00:00:45,048
+PART.1: Perdón, ¿soy un pájaro grande?
+
+28
+00:00:45,128 --> 00:00:45,688
+PART.2: Sí.
+
+29
+00:00:45,888 --> 00:00:46,488
+PART.1: Vale.
+
+30
+00:00:51,848 --> 00:00:52,568
+PART.1: ¿Vuelo?
+
+31
+00:00:53,408 --> 00:00:53,848
+PART.2: Sí.
+
+32
+00:00:54,608 --> 00:00:55,208
+PART.1: Vale.
+

@@ -1,0 +1,70 @@
+118
+00:04:08,660 --> 00:04:11,180
+PART.1: Tu colegio... el colegio
+de tu hijo es un colegio público.
+
+119
+00:04:11,580 --> 00:04:12,060
+PART.2: No.
+
+120
+00:04:12,140 --> 00:04:12,820
+PART.1: Privado.
+
+121
+00:04:13,620 --> 00:04:14,500
+PART.2: Es concertado.
+
+122
+00:04:14,780 --> 00:04:15,620
+PART.1: Ah, ¿no es privado?
+
+123
+00:04:15,700 --> 00:04:16,180
+PART.2: No.
+
+124
+00:04:16,500 --> 00:04:18,060
+PART.1: No, mitad público, mitad
+privado.
+
+125
+00:04:18,340 --> 00:04:27,180
+PART.2: Bueno, sí, es privado y
+concertado porque si no, por
+ejemplo, el Bachiller sería carísimo
+y así pues se puede sobrellevar.
+
+126
+00:04:27,260 --> 00:04:28,940
+PART.1: El Bachillerato cuesta
+800 euros.
+
+127
+00:04:29,020 --> 00:04:31,020
+PART.2: Es carísimo, imagínate,
+por eso.
+
+128
+00:04:31,100 --> 00:04:32,980
+PART.1: Yo lo sé y... yo lo sé.
+
+129
+00:04:33,500 --> 00:04:38,700
+PART.2: Y al ser un concertado
+pues la cosa se puede permitir
+porque si no, imagínate, ¿no?
+
+130
+00:04:38,780 --> 00:04:39,180
+PART.1: Sí, sí.
+
+131
+00:04:39,260 --> 00:04:39,780
+PART.2: Si no...
+
+132
+00:04:39,860 --> 00:04:43,020
+SUPERVISOR: Vale, pues ahora que ya
+está hecho, lo podemos deshacer.
+

@@ -1,0 +1,570 @@
+1
+00:00:04,709 --> 00:00:06,069
+PART.2: Empezamos. ¿Empiezas tú?
+
+2
+00:00:06,909 --> 00:00:07,389
+PART.1: Dale tú, a ver.
+
+3
+00:00:07,509 --> 00:00:09,629
+PART.2: Vale. ¿Es un animal exótico el
+mío?
+
+4
+00:00:11,789 --> 00:00:12,069
+PART.1: Sí.
+
+5
+00:00:12,589 --> 00:00:12,909
+PART.2: OK.
+
+6
+00:00:14,749 --> 00:00:18,429
+PART.1: Eh... ¿Es un mamífero?
+
+7
+00:00:20,229 --> 00:00:20,509
+PART.2: Sí.
+
+8
+00:00:21,509 --> 00:00:21,829
+PART.1: OK.
+
+9
+00:00:23,709 --> 00:00:26,429
+PART.2: Eh... ¿Vive en África el mío?
+
+10
+00:00:26,509 --> 00:00:26,869
+PART.1: Sí.
+
+11
+00:00:27,109 --> 00:00:28,309
+PART.2: Sí, OK.
+
+12
+00:00:28,349 --> 00:00:29,069
+PART.2: Vale, vas tú.
+
+13
+00:00:31,509 --> 00:00:38,349
+PART.1: Eh... ¿Tiene pelaje?
+
+14
+00:00:39,269 --> 00:00:39,509
+PART.2: Sí.
+
+15
+00:00:41,869 --> 00:00:42,189
+PART.1: OK.
+
+16
+00:00:42,709 --> 00:00:43,149
+PART.2: Voy yo.
+
+17
+00:00:46,429 --> 00:00:47,149
+PART.2: ¿Es muy pesado?
+
+18
+00:00:48,109 --> 00:00:48,509
+PART.1: Sí.
+
+19
+00:00:50,149 --> 00:00:50,549
+PART.2: Vas tú.
+
+20
+00:00:56,909 --> 00:00:57,629
+PART.1: ¿Es carnívoro?
+
+21
+00:01:00,869 --> 00:01:03,309
+PART.2: Sí, aunque la presa es muy
+pequeña.
+
+22
+00:01:07,989 --> 00:01:11,229
+PART.1: "¿Cuál fue la respuesta de si
+tenía pelaje?" Sí, tenía pelaje, OK.
+
+23
+00:01:10,709 --> 00:01:11,029
+PART.2: Tenía pelaje.
+
+24
+00:01:12,589 --> 00:01:12,989
+PART.2: Voy yo.
+
+25
+00:01:16,309 --> 00:01:17,029
+PART.2: ¿Tiene piel gris?
+
+26
+00:01:17,829 --> 00:01:18,189
+PART.1: Sí.
+
+27
+00:01:19,109 --> 00:01:20,149
+PART.2: Vale. Vas tú.
+
+28
+00:01:21,509 --> 00:01:22,669
+PART.1: No, me falta la quinta.
+
+29
+00:01:24,509 --> 00:01:25,549
+PART.2: De hecho, vas en la cuarta ya.
+
+30
+00:01:25,629 --> 00:01:26,149
+PART.1: Sí, voy en la cuarta.
+
+31
+00:01:29,189 --> 00:01:29,909
+PART.1: "Tiene pelaje".
+
+32
+00:01:36,669 --> 00:01:39,069
+PART.1: Eh... ¿Vive en África?
+
+33
+00:01:39,669 --> 00:01:39,949
+PART.2: Sí.
+
+34
+00:01:40,709 --> 00:01:41,109
+PART.1: OK.
+
+35
+00:01:42,709 --> 00:01:43,109
+PART.2: Voy yo.
+
+36
+00:01:45,349 --> 00:01:46,109
+PART.2: ¿Es un rinoceronte?
+
+37
+00:01:47,789 --> 00:01:48,149
+PART.1: No.
+
+38
+00:01:48,269 --> 00:01:49,029
+PART.2: ¿No? OK.
+
+39
+00:01:49,349 --> 00:01:49,949
+PART.2: Vale, vas tú.
+
+40
+00:01:56,669 --> 00:02:03,349
+PART.1: Eh... ¿Son peligrosos para los
+humanos?
+
+41
+00:02:07,029 --> 00:02:10,589
+PART.2: Son venenosos, pero no atacan
+a los humanos.
+
+42
+00:02:10,669 --> 00:02:11,469
+PART.1: "No son peligrosos".
+
+43
+00:02:13,349 --> 00:02:14,309
+PART.2: O sea que no te los puedes
+comer.
+
+44
+00:02:16,629 --> 00:02:16,989
+PART.1: OK.
+
+45
+00:02:18,589 --> 00:02:19,389
+PART.1: Te toca. Seis.
+
+46
+00:02:20,229 --> 00:02:20,949
+PART.2: ¿Es un elefante?
+
+47
+00:02:21,709 --> 00:02:22,189
+PART.1: No.
+
+48
+00:02:22,829 --> 00:02:23,229
+PART.2: Ostras.
+
+49
+00:02:26,429 --> 00:02:26,989
+PART.1: Eh...
+
+50
+00:02:32,909 --> 00:02:34,549
+PART.1: Un mamífero, con pelaje.
+
+51
+00:02:40,949 --> 00:02:43,389
+PART.2: Que es carnívoro, que la presa
+es pequeña.
+
+52
+00:02:42,029 --> 00:02:42,429
+PART.1: Sí, pero...
+
+53
+00:02:46,709 --> 00:02:50,149
+PART.1: Pero estos no tienen veneno.
+
+54
+00:02:52,349 --> 00:02:53,709
+PART.1: Es un mamífero también
+dijimos.
+
+55
+00:02:54,429 --> 00:02:54,869
+PART.2: Sí.
+
+56
+00:02:54,949 --> 00:02:56,789
+PART.1: Eh... OK.
+
+57
+00:02:58,909 --> 00:03:00,069
+PART.1: Eh, eh, eh, eh...
+
+58
+00:03:02,789 --> 00:03:03,349
+PART.1: ¿Cuál puede ser?
+
+59
+00:03:08,629 --> 00:03:10,589
+PART.1: Ah, el tamaño, ¿es pequeño?
+
+60
+00:03:12,869 --> 00:03:14,189
+PART.2: Depende de qué es lo que
+consideres pequeño.
+
+61
+00:03:14,269 --> 00:03:15,829
+PART.1: Comparado con una persona,
+por ejemplo.
+
+62
+00:03:16,269 --> 00:03:16,869
+PART.2: No, es así.
+
+63
+00:03:17,229 --> 00:03:17,789
+PART.1: Pequeño.
+
+64
+00:03:18,789 --> 00:03:20,109
+PART.1: Ya, más pequeño que una
+persona.
+
+65
+00:03:20,709 --> 00:03:22,069
+PART.1: OK. Tú.
+
+66
+00:03:22,349 --> 00:03:22,749
+PART.2: Voy yo.
+
+67
+00:03:23,469 --> 00:03:24,189
+PART.2: ¿Es un hipopótamo?
+
+68
+00:03:24,629 --> 00:03:24,909
+PART.1: Sí.
+
+69
+00:03:25,229 --> 00:03:26,549
+PART.2: Vale, ya está.
+
+70
+00:03:28,349 --> 00:03:29,069
+PART.1: Eh...
+
+71
+00:03:30,309 --> 00:03:33,309
+PART.2: No quedan mucho más
+mamíferos grandes en África y con piel gris.
+
+72
+00:03:34,629 --> 00:03:39,669
+PART.1: No, no, claro, estaba fácil el...
+
+73
+00:03:42,869 --> 00:03:43,909
+PART.2: Te quedan tres, ¿no? ¿O
+cuatro?
+
+74
+00:03:45,229 --> 00:03:45,989
+PART.1: Tres, tres.
+
+75
+00:03:47,989 --> 00:03:51,269
+PART.1: ¿Tiene veneno? Pero...
+
+76
+00:03:52,909 --> 00:03:59,189
+PART.2: No significa que nazca con él,
+significa que no te lo puedes comer porque te
+mataría.
+
+77
+00:04:03,349 --> 00:04:05,349
+PART.1: "Eso no lo sé, ninguno".
+
+78
+00:04:05,909 --> 00:04:09,109
+PART.1: A ver, probemos con colores.
+
+79
+00:04:11,389 --> 00:04:14,389
+PART.1: ¿Es anaranjado?
+
+80
+00:04:15,509 --> 00:04:15,869
+PART.2: No.
+
+81
+00:04:24,309 --> 00:04:25,509
+PART.2: Es un mamífero, tiene pelo.
+
+82
+00:04:29,029 --> 00:04:29,629
+PART.1: Y veneno.
+
+83
+00:04:30,469 --> 00:04:35,909
+PART.2: Tiene veneno, es carnívoro,
+pero la presa es pequeña, es más o menos
+de este tamaño.
+
+84
+00:04:43,789 --> 00:04:44,909
+PART.1: No sé, a ver...
+
+85
+00:04:46,509 --> 00:04:47,109
+PART.1: OK, OK.
+
+86
+00:04:50,069 --> 00:04:52,629
+PART.1: ¿Utiliza veneno él para cazar?
+
+87
+00:04:51,829 --> 00:04:52,189
+PART.2: No.
+
+88
+00:04:52,789 --> 00:04:55,429
+PART.1: No, no utiliza veneno para
+cazar.
+
+89
+00:04:56,509 --> 00:04:57,749
+PART.2: Es una consecuencia el
+veneno.
+
+90
+00:05:05,829 --> 00:05:06,389
+PART.1: Eh...
+
+91
+00:05:06,789 --> 00:05:08,349
+PART.2: Una consecuencia de lo que
+come, de hecho.
+
+92
+00:05:15,189 --> 00:05:20,429
+PART.1: La única opción... "No, pero es
+más alejado".
+
+93
+00:05:21,709 --> 00:05:22,349
+PART.1: ¿Es un mono?
+
+94
+00:05:23,029 --> 00:05:23,389
+PART.2: No.
+
+95
+00:05:23,549 --> 00:05:23,869
+PART.1: ¿No?
+
+96
+00:05:25,189 --> 00:05:26,469
+PART.1: Ya me queda la última
+pregunta.
+
+97
+00:05:25,309 --> 00:05:26,989
+PART.2: Ahora tienes que adivinar.
+
+98
+00:05:27,469 --> 00:05:28,029
+PART.1: Ya, sí.
+
+99
+00:05:32,029 --> 00:05:33,589
+PART.2: Es más grande que un mono,
+además, es así.
+
+100
+00:05:34,749 --> 00:05:36,709
+PART.1: Bueno, un mono puede ser de
+varios tamaños.
+
+101
+00:05:45,189 --> 00:05:49,349
+PART.2: Los monos, los gorilas y los
+orangutanes ninguno de los tres son
+venenosos.
+
+102
+00:05:45,669 --> 00:05:49,189
+PART.1: Pero los... sí.
+
+103
+00:05:58,309 --> 00:06:03,069
+PART.1: No sé, igual puede ser
+venenoso, así que lo voy a tirar, ¿una hiena?
+
+104
+00:06:03,949 --> 00:06:04,269
+PART.2: No.
+
+105
+00:06:04,669 --> 00:06:06,789
+PART.1: No, la hiena "es como más
+grande". No.
+
+106
+00:06:07,989 --> 00:06:08,549
+PART.1: ¿Cuál era?
+
+107
+00:06:11,469 --> 00:06:12,229
+PART.2: Es un oso hormiguero.
+
+108
+00:06:11,629 --> 00:06:14,429
+PART.1: Uf, no, este...
+
+109
+00:06:13,749 --> 00:06:15,869
+PART.2: Era muy difícil. Era muy difícil,
+de verdad.
+
+110
+00:06:16,949 --> 00:06:20,229
+PART.2: El oso hormiguero come
+hormigas coloradas.
+
+111
+00:06:21,509 --> 00:06:22,149
+PART.1: ¿Y el veneno?
+
+112
+00:06:21,749 --> 00:06:32,629
+PART.2: Y después de... algo así, como
+unos meses de que nace, ya es venenoso, o
+sea, la carne de él ya es venenosa, porque...
+por la cantidad de veneno de las hormigas
+que comen.
+
+113
+00:06:26,709 --> 00:06:26,949
+PART.1: ¿Sí?
+
+114
+00:06:28,789 --> 00:06:31,229
+PART.1: ¿Sí? Ah, no tenía ni idea.
+
+115
+00:06:33,949 --> 00:06:39,029
+PART.2: Y eso hace que los demás
+animales no le ataquen, porque si se lo
+comen, mueren.
+
+116
+00:06:38,669 --> 00:06:38,909
+PART.1: Ya.
+
+117
+00:06:39,789 --> 00:06:41,989
+PART.1: Pero ya saben, por eso nunca
+lo atacan.
+
+118
+00:06:41,549 --> 00:06:42,789
+PART.2: Pero ya saben, por eso nunca
+le atacan.
+
+119
+00:06:43,029 --> 00:06:45,589
+PART.1: Por eso anda como por la vía
+tranquilo.
+
+120
+00:06:45,629 --> 00:06:45,949
+PART.2: Sí.
+
+121
+00:06:47,149 --> 00:06:48,269
+PART.1: No, no tenía ni idea de esto.
+
+122
+00:06:51,989 --> 00:06:52,829
+PART.1: Ah, listo.
+
+123
+00:06:54,229 --> 00:06:56,109
+PART.2: Ah, porque nos ven, ¿no? Con
+la GoPro.
+
+124
+00:06:55,789 --> 00:06:57,549
+PART.1: Sí, con la GoPro...
+
+125
+00:07:02,669 --> 00:07:04,509
+PART.1: El otro me había tocado un
+poco más fácil.
+
+126
+00:07:05,029 --> 00:07:06,629
+PART.2: No, el mío anterior era un
+huevo.
+
+127
+00:07:07,189 --> 00:07:07,589
+PART.1: ¿Un qué?
+
+128
+00:07:07,629 --> 00:07:08,229
+PART.2: Era muy difícil.
+
+129
+00:07:10,429 --> 00:07:11,029
+PART.2: Eran pájaros.
+
+130
+00:07:11,789 --> 00:07:25,429
+PART.2: A Francisco le había tocado un
+tucán y a mí me había tocado un... un cisne,
+pero lo que pasa es que el cisne no destaca
+por nada y yo hacía preguntas y no llegaba a
+qué animal era.
+
+131
+00:07:12,149 --> 00:07:12,469
+PART.1: ¿El mirlo?
+

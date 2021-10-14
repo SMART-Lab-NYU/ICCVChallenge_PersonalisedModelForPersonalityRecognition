@@ -1,0 +1,54 @@
+29
+00:02:00,030 --> 00:02:00,790
+PART.1: No.
+
+30
+00:02:01,390 --> 00:02:04,030
+PART.1: Bueno, no conozco mucho su
+biología, pero creo que no.
+
+31
+00:02:08,630 --> 00:02:12,070
+PART.1: A ver, me has dicho que no vuela,
+tiene algo parecido a garras...
+
+32
+00:02:12,270 --> 00:02:12,990
+PART.2: Sí.
+
+33
+00:02:17,190 --> 00:02:18,510
+PART.1: Y no es un reptil.
+
+34
+00:02:26,670 --> 00:02:28,230
+PART.1: ¿Tiene trompa?
+
+35
+00:02:28,790 --> 00:02:29,470
+PART.2: No.
+
+36
+00:02:40,110 --> 00:02:41,430
+PART.2: No es muy grande el mío.
+
+37
+00:02:46,350 --> 00:02:47,870
+PART.1: Hago preguntas seguidas yo.
+
+38
+00:02:50,030 --> 00:02:52,030
+PART.2: ¿Quita el néctar de las flores?
+
+39
+00:02:53,870 --> 00:02:54,670
+PART.1: No.
+
+40
+00:02:56,430 --> 00:02:57,550
+PART.1: ¿Es grande?
+
+41
+00:02:59,950 --> 00:03:00,990
+PART.2: Comparado...
+

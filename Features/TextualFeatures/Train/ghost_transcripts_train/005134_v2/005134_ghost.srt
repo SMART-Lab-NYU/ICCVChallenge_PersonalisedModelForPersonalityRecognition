@@ -1,0 +1,379 @@
+1
+00:00:00,840 --> 00:00:01,520
+PART.1: Vale.
+
+2
+00:00:02,920 --> 00:00:03,600
+PART.2: Venga, va.
+
+3
+00:00:03,680 --> 00:00:04,640
+PART.2: Ya sabes cómo va, ¿no?
+
+4
+00:00:04,720 --> 00:00:05,640
+PART.1: Sí.
+
+5
+00:00:05,720 --> 00:00:07,040
+PART.1: Soy un poco lenta, pero sí.
+
+6
+00:00:06,080 --> 00:00:07,280
+PART.2: Empiezo yo.
+
+7
+00:00:09,320 --> 00:00:10,440
+PART.2: Ay, mira la lenta.
+
+8
+00:00:10,520 --> 00:00:11,480
+PART.2: ¿Ves tú qué bien?
+
+9
+00:00:11,400 --> 00:00:11,840
+PART.1: Sí, sí.
+
+10
+00:00:11,920 --> 00:00:12,840
+PART.2: Ahora te toca a ti.
+
+11
+00:00:15,440 --> 00:00:18,760
+PART.2: ¡Ay! Los que son idénticos me...
+
+12
+00:00:19,560 --> 00:00:20,160
+PART.2: Ah, no.
+
+13
+00:00:20,240 --> 00:00:20,960
+PART.1: Tu turno.
+
+14
+00:00:20,720 --> 00:00:21,360
+PART.2: Me toca a mí, ¿no?
+
+15
+00:00:25,360 --> 00:00:26,280
+PART.2: Ah, este otra vez.
+
+16
+00:00:26,360 --> 00:00:27,000
+PART.1: Sí.
+
+17
+00:00:28,800 --> 00:00:30,240
+PART.2: Ahora sí que te toca a ti.
+
+18
+00:00:34,720 --> 00:00:35,680
+PART.2: Sí, sí.
+
+19
+00:00:35,760 --> 00:00:36,640
+PART.1: Vale.
+
+20
+00:00:42,840 --> 00:00:44,120
+PART.1: No. Has hecho bien.
+
+21
+00:00:44,200 --> 00:00:44,600
+PART.2: Sí, ¿no?
+
+22
+00:00:44,680 --> 00:00:45,720
+PART.1: Sí, sí, sí. Tú.
+
+23
+00:00:50,120 --> 00:00:51,640
+PART.2: ¡Hala! Muy bien.
+
+24
+00:00:57,240 --> 00:00:57,960
+PART.2: Sí.
+
+25
+00:01:00,160 --> 00:01:01,280
+PART.1: Siempre dudo.
+
+26
+00:01:01,360 --> 00:01:02,760
+PART.1: Cojo las cosas y digo:
+"¿Está bien?".
+
+27
+00:01:02,520 --> 00:01:03,240
+PART.2: A ti, a ti.
+
+28
+00:01:08,720 --> 00:01:09,360
+PART.1: Ay, no.
+
+29
+00:01:09,440 --> 00:01:09,880
+PART.1: Sí, sí, sí.
+
+30
+00:01:09,960 --> 00:01:10,720
+PART.2: Si, ¿no?
+
+31
+00:01:10,800 --> 00:01:13,360
+PART.1: Yo voy cogiendo por si acaso.
+
+32
+00:01:13,760 --> 00:01:17,600
+PART.2: Es divertido ver como las dos
+personas cogen lo mismo.
+
+33
+00:01:19,440 --> 00:01:20,240
+PART.2: No, este...
+
+34
+00:01:20,320 --> 00:01:21,120
+PART.2: Otra vez.
+
+35
+00:01:21,040 --> 00:01:22,480
+PART.1: Sí, cógelo.
+
+36
+00:01:23,920 --> 00:01:25,600
+PART.2: Ay, pero si eran iguales casi,
+mira.
+
+37
+00:01:25,720 --> 00:01:26,320
+PART.1: Sí.
+
+38
+00:01:26,400 --> 00:01:27,720
+PART.2: Pero cambiando solo el color.
+
+39
+00:01:30,960 --> 00:01:32,320
+PART.1: No. ¿Eso es blanco?
+
+40
+00:01:32,080 --> 00:01:33,120
+PART.2: Este, este otra vez.
+
+41
+00:01:33,200 --> 00:01:34,000
+PART.1: Ah, sí. Vale.
+
+42
+00:01:34,000 --> 00:01:34,280
+PART.2: ¿No?
+
+43
+00:01:34,360 --> 00:01:34,800
+PART.2: Sí, ¿no?
+
+44
+00:01:34,880 --> 00:01:35,520
+PART.1: Sí, sí, sí.
+
+45
+00:01:35,400 --> 00:01:37,280
+PART.1: Porque estoy pensando,
+¿de qué color es la botella?
+
+46
+00:01:37,360 --> 00:01:37,960
+PART.1: Blanco.
+
+47
+00:01:38,040 --> 00:01:38,520
+PART.2: Sí.
+
+48
+00:01:39,360 --> 00:01:41,080
+PART.2: Claro, tendría que ser
+transparente, pero...
+
+49
+00:01:40,960 --> 00:01:41,680
+PART.1: Eh... Pon este.
+
+50
+00:01:41,760 --> 00:01:42,440
+PART.2: Ah, pues sí.
+
+51
+00:01:43,240 --> 00:01:44,560
+PART.2: ¡Hale! Ya estamos.
+
+52
+00:01:46,600 --> 00:01:47,680
+PART.1: Has ganado, ¿no?
+
+53
+00:01:47,760 --> 00:01:49,280
+PART.2: Eh... seis.
+
+54
+00:01:49,360 --> 00:01:50,200
+PART.1: Cinco.
+
+55
+00:01:50,280 --> 00:01:50,800
+PART.2: Bueno, por uno.
+
+56
+00:01:50,880 --> 00:01:51,680
+PART.2: Por uno.
+
+57
+00:01:54,120 --> 00:01:54,760
+PART.1: ¡Bien!
+
+58
+00:01:58,640 --> 00:02:00,320
+PART.2: Si no se tenía que haber ido
+Javi.
+
+59
+00:02:00,400 --> 00:02:01,640
+PART.2: Era como...
+
+60
+00:02:02,280 --> 00:02:04,720
+PART.2: Ha sido un momentito este.
+
+61
+00:02:07,240 --> 00:02:08,720
+PART.1: Y además se repiten todas.
+
+62
+00:02:08,800 --> 00:02:09,360
+PART.2: Sí, sí.
+
+63
+00:02:09,440 --> 00:02:12,400
+PART.2: Es que esta ha sido como
+en plan, ¿pero no lo habíamos hecho
+esto ya?
+
+64
+00:02:13,480 --> 00:02:14,040
+PART.2: ¿Ves?
+
+65
+00:02:13,720 --> 00:02:15,400
+PART.1: Sí, mira, tengo aquí los dos
+ratones.
+
+66
+00:02:15,480 --> 00:02:16,600
+PART.2: Sí. Sí, sí.
+
+67
+00:02:18,040 --> 00:02:19,840
+PART.2: Han dado ahora el aire.
+
+68
+00:02:21,000 --> 00:02:23,280
+PART.1: Es para que nos demos prisa y nos
+echen.
+
+69
+00:02:23,360 --> 00:02:24,600
+PART.2: Sí, exacto.
+
+70
+00:02:25,360 --> 00:02:29,360
+PART.1: Como en los centros comerciales y
+en los restaurantes.
+
+71
+00:02:29,840 --> 00:02:30,960
+PART.1: ¡Venga, fuera!
+
+72
+00:02:31,240 --> 00:02:32,320
+PART.2: ¿Y te ponen el aire fuerte?
+
+73
+00:02:32,400 --> 00:02:33,000
+PART.2: ¿Lo hacen?
+
+74
+00:02:33,080 --> 00:02:33,800
+PART.1: Claro.
+
+75
+00:02:33,880 --> 00:02:34,600
+PART.2: ¿Ah, sí?
+
+76
+00:02:35,600 --> 00:02:40,040
+PART.1: No te has dado cuenta nunca
+cuando estás, que quieren cerrar...
+
+77
+00:02:39,880 --> 00:02:40,880
+PART.2: Sí.
+
+78
+00:02:40,960 --> 00:02:42,920
+PART.1: De repente empieza a hacer más
+frío...
+
+79
+00:02:43,000 --> 00:02:44,680
+PART.2: Ay, pues no me había dado nunca
+cuenta.
+
+80
+00:02:46,040 --> 00:02:47,800
+PART.1: Mucha gente no se da mucha
+cuenta.
+
+81
+00:02:47,880 --> 00:02:50,400
+PART.1: Siempre dicen: "Ay, como que
+he pillado fresco ¿no?".
+
+82
+00:02:50,280 --> 00:02:50,760
+PART.2: Sí.
+
+83
+00:02:50,840 --> 00:02:52,440
+PART.1: No. Es el aire acondicionado para
+echarte.
+
+84
+00:02:52,520 --> 00:02:53,640
+PART.2: Vale, vale, vale.
+
+85
+00:02:53,520 --> 00:02:55,360
+PART.1: Porque queda mal decirte
+directamente...
+
+86
+00:02:54,920 --> 00:02:55,520
+PART.2: Claro.
+
+87
+00:02:55,600 --> 00:02:56,440
+PART.2: Sí, sí, sí.
+
+88
+00:02:56,840 --> 00:02:59,000
+PART.1: Que si no te mueves, van a
+cerrar.
+
+89
+00:02:58,760 --> 00:02:59,440
+PART.2: Sí.
+
+90
+00:02:59,520 --> 00:03:00,400
+SUPERVISOR: Muy bien.
+

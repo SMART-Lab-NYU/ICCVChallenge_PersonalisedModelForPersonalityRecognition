@@ -1,0 +1,70 @@
+49
+00:03:03,273 --> 00:03:04,233
+PART.1: Espero que sí.
+
+50
+00:03:04,593 --> 00:03:08,233
+PART.1: Ahora, dentro de un... Ah, ¿tiene
+la hora?
+
+51
+00:03:08,553 --> 00:03:19,073
+PART.1: Dentro de cuatro horas
+tengo una entrevista en una empresa,
+así que a lo mejor empiezo la faena
+con ellos en verano.
+
+52
+00:03:19,593 --> 00:03:21,833
+PART.2: ¿Qué empresa es? Si se puede
+decir... Porque hay cámaras.
+
+53
+00:03:21,113 --> 00:03:22,193
+PART.1: Sí, sí, claro.
+
+54
+00:03:22,753 --> 00:03:24,953
+PART.1: ¿SIM se llama la empresa?
+
+55
+00:03:25,033 --> 00:03:25,913
+PART.2: ¿Cómo?
+
+56
+00:03:25,993 --> 00:03:26,513
+PART.1: SIM.
+
+57
+00:03:26,593 --> 00:03:28,113
+PART.2: ¿Cómo? Ah, me suena.
+
+58
+00:03:29,433 --> 00:03:31,233
+PART.1: Es una empresa...
+
+59
+00:03:34,393 --> 00:03:36,953
+PART.1: Ellos se nombran como un "IA
+start-ups".
+
+60
+00:03:41,913 --> 00:03:47,513
+PART.1: Todos sus productos
+están desde un punto de vista de
+inteligencia artificial, pero son,
+básicamente, márquetin.
+
+61
+00:03:50,433 --> 00:03:54,513
+PART.1: Yo estay aplicando para un puesto
+de "Full Stack Developer".
+
+62
+00:03:54,593 --> 00:04:05,873
+PART.1: Aunque cuando me preguntaron, les
+dije que quería entrar en otro
+puesto, pero dijeron que por mi
+perfil les convenía a ellos que
+entrara en "Full Stack".
+
