@@ -227,8 +227,8 @@ else:
 
 """## Training, validation and prediction"""
 # Training on the train set, evaluating on the validation set, and predicting on the test set and validation set
-nb_trial = 2
-nb_epochs = 5
+nb_trial = 100
+nb_epochs = 1000
 
 def fit_and_evaluate(tf_train_set,tf_val_set,X_test,TRIALS,EPOCHS,model_filename,csv_logger):
     fit_results=None

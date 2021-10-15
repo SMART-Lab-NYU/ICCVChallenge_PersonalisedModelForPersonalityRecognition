@@ -1,4 +1,0 @@
-100
-00:05:04,050 --> 00:05:05,700
-PART.2: ¿Nos callamos o seguimos?
-

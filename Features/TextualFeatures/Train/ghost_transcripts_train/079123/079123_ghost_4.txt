@@ -1,4 +1,0 @@
-48
-00:04:04,791 --> 00:04:08,809
-PART.1: Vull sortir d'aquí, vull sortir d'aquí... No puc sortir d'aquí.
-

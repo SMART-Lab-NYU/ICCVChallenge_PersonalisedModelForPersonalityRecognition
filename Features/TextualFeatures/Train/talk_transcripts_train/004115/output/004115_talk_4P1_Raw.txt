@@ -1,3 +1,0 @@
-Está guay.  Porque siempre es la cosa esta de... gente intentandoentender por qué funcionan o cómofuncionan. Qué bueno.
-Tengo un estudiante de TFG para el semestre que viene y quiero que semire un “paper” de algo muy parecido. Estudian laarquitectura de una red neuronal conhomología persistente para detectar"adversarial examples",
-pero directamente mirando, como los "Betti numbers", de cómo se activa lared cuando metes ese ejemplo.

@@ -1,7 +1,0 @@
-Depende del tipo de cálculo que quiera hacer.
-¿Vosotros lo que calculáis es la analogía usando unafiltración particular que vosotrosdefinís?
-Pues el "Ribs" es de los que mejor va.
-Que está en C o C++. 
-Pero si lo que estáis calculando que algo que geométricamente tienesentido en 3D o 2D y no tienesentido más allá, quizá hacer "alfacomplex" tiene más sentido.
-Porque todo se reduce y el cálculo es más rápido y todo te lohace en medio segundo.
-INCOMPRENSIBLE. 

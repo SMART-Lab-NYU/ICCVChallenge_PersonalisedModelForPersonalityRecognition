@@ -1,8 +1,0 @@
-¿Y qué estás investigando? 
-¿En serio? 
-¿Sabes que acabo de publicar exactamente sobre esto?
-Sobre... bueno, usamos "Persistent homology", ¿no?
-Para calcular los "Betti numbers" en unas redes que se estánentrenando.
-Y lo estamos comparando con lo que está pasando con las cavidadesen las redes que están aprendiendoversus las redes que estánmemorizando.
-De un grafo... 
-Un grafo funcional de la red.

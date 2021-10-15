@@ -1,8 +1,0 @@
- Estic treballant per al servei tècnic de Google Club. 
- Bueno, te n'adones que Google és un puto caos que flipes per dins, i tu t'esperes una empresa com decent, no? 
- Una puta locura. 
- Bueno, jo crec que el seu hobby es llençar els productes en beta, coses sense probar. 
-No, no, tu llença-ho, que es trenqui, si no ja ho arreglaran els de suport, i estem en suport. 
-I és un poc caòtic a vegades. 
- Sí, sí, o siga, més o menos, perquè hi ha coses que nosaltres no fem, nosaltres reportem l'error que n'hi ha, fem la reproducció, veiem exactamente què és, i ho passem a l'equip d'enginyeria que s'encarregarà de fer canvis en el codi o el que siga. 
- I claro, a vegades et venen clients que no tenen ni puta idea i els tens que parlar com si foren tontos, i altres vegades te n'adones que saben moltíssim i tu estàs donant suport a tot lo relacionat amb Big Data de Google Club i clar, te ve l'enginyer de Data Flow en concret, només un producte per a processament de dades, que curra d'això i te fa preguntes i és com… i jo què sé, tinc que mirar-me tota la documentació, tinc que llegir-m'ho tot i al damunt me pregunta com si jo sapigués i jo, bé, no soc tonto, però no treballo només en este producte, estic tocant mil coses més… i és un poc liada però bueno és entretingut. 

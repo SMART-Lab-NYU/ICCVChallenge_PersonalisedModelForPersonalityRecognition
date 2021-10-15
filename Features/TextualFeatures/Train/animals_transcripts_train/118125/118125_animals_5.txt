@@ -1,8 +1,0 @@
-83
-00:05:05,427 --> 00:05:07,650
-PART.2: Dubtava si podia ser un elefant o una girafa
-
-84
-00:05:07,692 --> 00:05:09,018
-PART.1: O una vaca o algo
-

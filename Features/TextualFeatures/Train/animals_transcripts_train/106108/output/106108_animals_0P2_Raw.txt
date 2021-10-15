@@ -1,8 +1,0 @@
-¿Es un mamífero? 
-No. 
-¿Vuela? 
-Sí. 
-¿También es acuático? 
-Okey. 
-No. 
-¿Es un ave de corral? 

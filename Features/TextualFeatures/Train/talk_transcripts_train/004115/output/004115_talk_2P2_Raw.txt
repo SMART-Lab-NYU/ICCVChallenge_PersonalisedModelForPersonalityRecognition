@@ -1,5 +1,0 @@
-Estoy pasando muchos ejemplos. Se activa la red, ¿no? Y cada uno meestá definiendo un grafo sobre esto,con la métrica esta la corrección.
-Y después estoy definiendo los espacios topológicos y estoycalculando las persistencias.
-Sí. Lo interesante de esto, acabo de volver de Estados Unidos de unaconferencia del CVPR, no sé si loconoces, de edición.
-Y lo que encontramos es bastante interesante. Definiendo los espaciosmétricos y topológicos. Y contandolas cavidades y no sé qué...
-Entrenando la red de dos formas. Una forma normal está aprendiendo y laotra forma que me estoy permutandolas etiquetas. Y la única forma... Yla permutación esta es fija.
