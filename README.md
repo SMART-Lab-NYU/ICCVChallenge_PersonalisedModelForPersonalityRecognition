@@ -17,6 +17,10 @@ a. **run_train_eval.sh** - Running this file will train new models for both face
 
 b. **run_eval.sh** - Running this file will only predict on the test data using pre-trained models. 
 
+## Results
+The results are aggregated automatically using the **aggregate_preds.py** file and stores in the main directory as **final_predictions.csv**
+
 ## Fact Sheet
 
 For more information about the dataset used and the preprocessing, the training process and the results, please check our [fact-sheet](https://drive.google.com/file/d/1iXn-wJ8OYlD9i_5yLsbOuzleQnl9ZOyO/view?usp=sharing). 
+
