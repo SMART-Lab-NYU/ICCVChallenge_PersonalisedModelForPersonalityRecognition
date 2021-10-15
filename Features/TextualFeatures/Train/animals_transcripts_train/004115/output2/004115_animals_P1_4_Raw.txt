@@ -1,3 +1,0 @@
-Depende del tipo de cálculo que quiera hacer. ¿Vosotros lo quecalculáis es la analogía usando unafiltración particular que vosotrosdefinís?
-Pues es de los que mejor va. Que está en C o C++. Perosi lo que estáis calculando que algoque geométricamente tiene sentido en3D o 2D y no tiene sentido más allá,quizá hacer "alfa-complexes" tiene más sentido.
-Porque todo se reduce y el cálculo es más rápido y todo te lo hace enmedio segundo.

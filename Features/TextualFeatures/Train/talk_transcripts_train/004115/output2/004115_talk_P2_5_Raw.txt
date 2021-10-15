@@ -1,4 +1,0 @@
-Le estoy pasando muchos ejemplos de estos adversos para poder tener unavariable aleatoria y construir todoslos espacios, ¿no?
-No soy capaz de decirte lo que está pasando solo con un ejemplo. Estoypasando muchos, pero repasamosejemplos y... Perdón.
-Y contamos los huecos de la red mientras pasan todos los ejemplosestos. La cosa es que cuando pasasejemplos adversos, de nuevo lascavidades colapsan.
-La manera de activarse, en la red, no es en la dirección de unared que está haciendo algo útil.

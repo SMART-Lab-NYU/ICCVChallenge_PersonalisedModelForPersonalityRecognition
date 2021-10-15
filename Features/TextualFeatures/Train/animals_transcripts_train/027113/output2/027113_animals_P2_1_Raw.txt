@@ -1,8 +1,0 @@
-¿Es gordo? 
-¿Tiene más de un color? 
-¿Es peligroso? 
-¿Es blanco? 
-¿Se puede comer? 
-A ver... Es pequeño, vive en la tierra...
-No es doméstico. 
-No es peligroso. 

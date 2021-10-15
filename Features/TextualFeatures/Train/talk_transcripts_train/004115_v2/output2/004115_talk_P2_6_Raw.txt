@@ -1,7 +1,0 @@
-Digamos. 
-Más o menos así. 
-Pero como hacerlo para un ejemplo en sí, todavía no lo sé.
-Porque deberías, a lo mejor, definirte una métrica diferente.
-No sobre la correlación. 
-Sobre alguna otra cosa, ¿sabes? 
-Que no requiere un conjunto de observaciones para tener lacorrelación o alguna cosa de estas,¿sabes?
