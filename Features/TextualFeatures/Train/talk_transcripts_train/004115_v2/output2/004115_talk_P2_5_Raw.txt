@@ -1,0 +1,10 @@
+Y no es, de verdad, una forma de detectarlos.
+¿Por qué? 
+Le estoy pasando muchos ejemplos de estos adversos para poder teneruna variable aleatoria y construirtodos los espacios, ¿no?
+Entonces, no soy capaz de decirte lo que está pasando solo con unejemplo.
+Estoy pasando muchos, ¿no? 
+Pero repasamos ejemplos y... 
+Perdón. 
+Y contamos los huecos de la red mientras pasan todos los ejemplosestos.
+La cosa es que cuando pasas ejemplos adversos, de nuevo lascavidades colapsan.
+La manera de activarse, en la red, no es en la dirección de unared que está haciendo algo útil.

@@ -1,0 +1,6 @@
+Está guay. 
+Porque siempre es la cosa esta de... gente intentandoentender por qué funcionan o cómofuncionan.
+Qué bueno. 
+Tengo un estudiante de EGG para el semestre que viene y quiero quemire algo muy parecido.
+Estudian la arquitectura de una red neuronal conhomología persistente para detectar"adversarial examples".
+Pero directamente mirando, como los "Betti numbers", como se activala red cuando metes ese ejemplo.
